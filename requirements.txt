@@ -1,0 +1,6 @@
+anthropic>=0.40.0
+feedparser>=6.0.11
+aiohttp>=3.9.5
+python-dotenv>=1.0.0
+twilio>=9.3.0
+colorama>=0.4.6
