@@ -180,7 +180,7 @@ async def run(args: argparse.Namespace) -> None:
         return
 
     # ── 4. Topic deduplication (72h window) ─────────────────────────────
-    recent_sent = sent_log.recent_messages(72)
+    recent_sent = sent_log.recent_messages(48)
     if recent_sent:
         print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last 72h…{Style.RESET_ALL}")
         before = len(approved)

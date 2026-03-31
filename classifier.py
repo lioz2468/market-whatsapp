@@ -165,10 +165,10 @@ def _parse(raw: str, article: Article) -> ClassificationResult:
         [int(n.strip()) for n in criteria_m.group(1).split(",") if n.strip().isdigit()]
         if criteria_m else []
     )
-    # Hard-enforce 3-criteria minimum regardless of Claude's "כן"
+    # Hard-enforce 2-criteria minimum regardless of Claude's "כן"
     approved = (
         bool(decision_m and decision_m.group(1) == "כן")
-        and len(criteria_met) >= 3
+        and len(criteria_met) >= 2
     )
     reason     = reason_m.group(1).strip()     if reason_m     else ""
     tag        = tag_m.group(1).strip()        if tag_m        else "גלובלי"

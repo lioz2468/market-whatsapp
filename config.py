@@ -14,7 +14,7 @@ STYLE_PROFILE_PATH = BASE_DIR.parent / "style-extractor" / "style_profile.json"
 # ── Claude ─────────────────────────────────────────────────────────────────
 ANTHROPIC_API_KEY     = os.getenv("ANTHROPIC_API_KEY", "")
 CLAUDE_MODEL          = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-0")
-MAX_CONCURRENT_CLAUDE = int(os.getenv("MAX_CONCURRENT_CLAUDE", "2"))
+MAX_CONCURRENT_CLAUDE = int(os.getenv("MAX_CONCURRENT_CLAUDE", "3"))
 
 # ── WhatsApp (shared) ──────────────────────────────────────────────────────
 WHATSAPP_TO      = os.getenv("WHATSAPP_TO", "")
@@ -36,13 +36,13 @@ GREEN_API_INSTANCE = os.getenv("GREEN_API_INSTANCE", "")
 GREEN_API_TOKEN    = os.getenv("GREEN_API_TOKEN", "")
 
 # ── Filter settings ────────────────────────────────────────────────────────
-MIN_IMPORTANCE_SCORE = int(os.getenv("MIN_IMPORTANCE_SCORE", "7"))
-MAX_ARTICLES_PER_RUN = int(os.getenv("MAX_ARTICLES_PER_RUN", "1"))
+MIN_IMPORTANCE_SCORE = int(os.getenv("MIN_IMPORTANCE_SCORE", "6"))
+MAX_ARTICLES_PER_RUN = int(os.getenv("MAX_ARTICLES_PER_RUN", "3"))
 DIGEST_HOURS         = int(os.getenv("DIGEST_HOURS", "12"))
 
 # ── RSS Feeds ──────────────────────────────────────────────────────────────
 RSS_FEEDS = [
-    # ── English ────────────────────────────────────────────────────────────
+    # ── English — Markets ──────────────────────────────────────────────────
     {
         "name": "WSJ Markets",
         "url":  "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
@@ -54,11 +54,6 @@ RSS_FEEDS = [
         "lang": "en",
     },
     {
-        "name": "Reuters Business & Finance",
-        "url":  "https://www.reutersagency.com/feed/?best-topics=business-finance",
-        "lang": "en",
-    },
-    {
         "name": "CNBC Top News",
         "url":  "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
         "lang": "en",
@@ -66,6 +61,32 @@ RSS_FEEDS = [
     {
         "name": "CNBC World",
         "url":  "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "lang": "en",
+    },
+    {
+        "name": "Bloomberg Markets",
+        "url":  "https://feeds.bloomberg.com/markets/news.rss",
+        "lang": "en",
+    },
+    {
+        "name": "Seeking Alpha Market News",
+        "url":  "https://seekingalpha.com/market_currents.xml",
+        "lang": "en",
+    },
+    # ── English — Startups & M&A ───────────────────────────────────────────
+    {
+        "name": "TechCrunch",
+        "url":  "https://techcrunch.com/feed/",
+        "lang": "en",
+    },
+    # ── Twitter / X (via Nitter RSS mirrors) ──────────────────────────────
+    {
+        "name": "Twitter @wallstengine",
+        "url":  "https://nitter.net/wallstengine/rss",
+        "fallback_urls": [
+            "https://nitter.poast.org/wallstengine/rss",
+            "https://nitter.privacydev.net/wallstengine/rss",
+        ],
         "lang": "en",
     },
     # ── Hebrew ─────────────────────────────────────────────────────────────
@@ -85,13 +106,8 @@ RSS_FEEDS = [
         "lang": "he",
     },
     {
-        "name": "כלכליסט כללי",
-        "url":  "https://www.calcalist.co.il/GeneralRSS/0,16335,L-8,00.xml",
-        "lang": "he",
-    },
-    {
-        "name": "כלכליסט שוק ההון",
-        "url":  "https://www.calcalist.co.il/GeneralRSS/0,16335,L-3913,00.xml",
+        "name": "גיקטיים",
+        "url":  "https://www.geektime.co.il/feed/",
         "lang": "he",
     },
 ]

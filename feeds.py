@@ -74,27 +74,48 @@ async def _fetch_feed(
     session: aiohttp.ClientSession,
     feed_info: dict,
 ) -> list[Article]:
-    name = feed_info["name"]
-    url  = feed_info["url"]
-    lang = feed_info["lang"]
+    name          = feed_info["name"]
+    lang          = feed_info["lang"]
+    # Support fallback_urls for mirrors (e.g. Nitter instances)
+    urls_to_try   = [feed_info["url"]] + feed_info.get("fallback_urls", [])
 
-    try:
-        async with session.get(url) as resp:
-            content = await resp.read()
-    except Exception as exc:
-        print(f"  [feeds] ⚠ Could not fetch '{name}': {exc}")
+    content: Optional[bytes] = None
+    used_url = urls_to_try[0]
+
+    for url in urls_to_try:
+        try:
+            async with session.get(url) as resp:
+                if resp.status == 200:
+                    content  = await resp.read()
+                    used_url = url
+                    break
+        except Exception:
+            pass
+
+    if content is None:
+        print(f"  [feeds] ⚠ Could not fetch '{name}' (tried {len(urls_to_try)} URL(s))")
         return []
+
+    # Strip UTF-8 BOM if present — some Hebrew sites prepend it before <?xml>,
+    # which causes "XML or text declaration not at start of entity" in expat.
+    if content.startswith(b"\xef\xbb\xbf"):
+        content = content[3:]
 
     # feedparser is CPU-bound but fast; run in default executor
     loop   = asyncio.get_event_loop()
     parsed = await loop.run_in_executor(None, feedparser.parse, content)
+
+    # If bytes parsing failed, retry by letting feedparser fetch the URL itself
+    # (works around intermittent encoding issues from some Hebrew news servers).
+    if parsed.bozo and not parsed.entries:
+        parsed = await loop.run_in_executor(None, feedparser.parse, used_url)
 
     if parsed.bozo and not parsed.entries:
         print(f"  [feeds] ⚠ Parse error for '{name}': {parsed.bozo_exception}")
         return []
 
     articles = []
-    for entry in parsed.entries[:30]:          # limit per feed
+    for entry in parsed.entries[:15]:          # limit per feed
         article = Article.from_entry(entry, name, lang)
         if article.title:
             articles.append(article)
