@@ -18,7 +18,7 @@ MAX_CONCURRENT_CLAUDE = int(os.getenv("MAX_CONCURRENT_CLAUDE", "2"))
 
 # ── WhatsApp (shared) ──────────────────────────────────────────────────────
 WHATSAPP_TO      = os.getenv("WHATSAPP_TO", "")
-DEFAULT_PROVIDER = os.getenv("DEFAULT_PROVIDER", "twilio")
+DEFAULT_PROVIDER = os.getenv("DEFAULT_PROVIDER", "green")
 
 # ── Twilio ─────────────────────────────────────────────────────────────────
 TWILIO_SID                   = os.getenv("TWILIO_SID", "")

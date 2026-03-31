@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 """
-Market WhatsApp Bot — RSS → Claude filter → WhatsApp
+Market WhatsApp Bot - RSS | Claude filter | WhatsApp
 
 Usage:
-  python main.py                     # preview + manual confirm
-  python main.py --auto              # send without asking
-  python main.py --dry-run           # preview only, no send
-  python main.py --morning-digest    # send a digest of recent articles
-  python main.py --provider green    # use Green API instead of Twilio
-  python main.py --skip-humanizer    # skip style rewriting
-  python main.py --ab                # show before/after humanizer
+  python main.py                          # preview + manual confirm
+  python main.py --auto                   # send without asking
+  python main.py --dry-run                # preview only, no send
+  python main.py --morning-digest         # send a digest of recent articles
+  python main.py --provider green         # use Green API instead of Twilio
+  python main.py --skip-humanizer         # skip style rewriting
+  python main.py --ab                     # show before/after humanizer
+  python main.py --test "your message"    # send text directly, skip all feeds
 """
 from __future__ import annotations
 
@@ -287,6 +288,22 @@ async def run_morning_digest(args: argparse.Namespace) -> None:
 
 # ── CLI ────────────────────────────────────────────────────────────────────
 
+async def run_test(args: argparse.Namespace) -> None:
+    """Send args.test directly to WhatsApp — no feeds, no Claude."""
+    config.validate_provider(args.provider)
+    text = args.test.strip()
+    if not text:
+        print(f"  {Fore.RED}--test message is empty.{Style.RESET_ALL}")
+        return
+
+    print(f"\n{Fore.CYAN}🧪 Test mode — sending message directly via {args.provider}{Style.RESET_ALL}")
+    print(f"{'─'*60}")
+    print(f"  {Fore.GREEN}{text}{Style.RESET_ALL}")
+    print(f"{'─'*60}")
+    await _send([text], args.provider)
+    print(f"\n  {Fore.GREEN}✓ Test message sent.{Style.RESET_ALL}")
+
+
 def _build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="Market WhatsApp Bot",
@@ -299,6 +316,7 @@ def _build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--provider",       choices=["twilio", "green"], default=config.DEFAULT_PROVIDER)
     parser.add_argument("--skip-humanizer", action="store_true", help="Skip style rewriting")
     parser.add_argument("--ab",             action="store_true", help="Show before/after humanizer")
+    parser.add_argument("--test",           metavar="MESSAGE",   help="Send MESSAGE directly, skip all feeds")
     return parser
 
 
@@ -307,7 +325,9 @@ def main() -> None:
     args   = parser.parse_args()
 
     try:
-        if args.morning_digest:
+        if args.test is not None:
+            asyncio.run(run_test(args))
+        elif args.morning_digest:
             asyncio.run(run_morning_digest(args))
         else:
             asyncio.run(run(args))
