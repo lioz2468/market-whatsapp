@@ -28,6 +28,7 @@ import feeds
 import classifier
 import composer
 import humanizer
+import stats
 
 colorama.init(autoreset=True)
 
@@ -80,6 +81,70 @@ class SentLog:
             except (ValueError, KeyError):
                 pass
         return out
+
+
+# ── Pending queue ──────────────────────────────────────────────────────────
+
+class PendingQueue:
+    """Articles approved but not yet sent — drained one per run."""
+
+    def __init__(self):
+        self._items: list[dict] = self._load()
+
+    def _load(self) -> list[dict]:
+        if config.PENDING_PATH.exists():
+            try:
+                return json.loads(config.PENDING_PATH.read_text(encoding="utf-8"))
+            except Exception:
+                pass
+        return []
+
+    def _save(self) -> None:
+        config.PENDING_PATH.write_text(
+            json.dumps(self._items, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+
+    def __len__(self) -> int:
+        return len(self._items)
+
+    def peek(self) -> dict | None:
+        return self._items[0] if self._items else None
+
+    def pop(self) -> dict:
+        """Remove and return the first pending item, then persist."""
+        item = self._items.pop(0)
+        self._save()
+        return item
+
+    def push(self, results: list[classifier.ClassificationResult]) -> None:
+        """Append results to the queue and persist."""
+        for r in results:
+            self._items.append({
+                "final_message": r.final_message,
+                "title":         r.article.title,
+                "source":        r.article.source,
+                "hash":          r.article.hash,
+                "importance":    r.importance,
+                "tag":           r.tag,
+                "topics":        r.topics,
+            })
+        self._save()
+
+
+def _pending_to_result(item: dict) -> classifier.ClassificationResult:
+    """Reconstruct a minimal ClassificationResult from a stored pending item."""
+    article = feeds.Article(
+        title=item["title"], url="", summary="", published="",
+        source=item["source"], lang="", hash=item["hash"],
+    )
+    r = classifier.ClassificationResult(
+        article=article, approved=True, criteria_met=[],
+        reason="", tag=item["tag"], importance=item["importance"],
+        topics=item.get("topics", []),
+    )
+    r.message = item["final_message"]
+    return r
 
 
 # ── Sending ────────────────────────────────────────────────────────────────
@@ -136,6 +201,13 @@ def _preview_results(
             print(f"  {Fore.GREEN}{r.final_message}{Style.RESET_ALL}")
 
 
+def _print_cost() -> None:
+    t = stats.totals()
+    if t["calls"] == 0:
+        return
+    print(f"\n  {Fore.YELLOW}{stats.summary()}{Style.RESET_ALL}")
+
+
 def _confirm() -> bool:
     answer = input(f"\n  {Style.BRIGHT}שלח? (y/n): {Style.RESET_ALL}").strip().lower()
     return answer in {"y", "yes", "כן", "י"}
@@ -148,12 +220,40 @@ async def run(args: argparse.Namespace) -> None:
     if not args.dry_run:
         config.validate_provider(args.provider)
 
+    stats.reset()
     sent_log = SentLog()
+    pending  = PendingQueue()
 
-    # ── 1. Fetch feeds ──────────────────────────────────────────────────
+    # ── 1. Drain pending queue (one article per run) ─────────────────────
+    if len(pending):
+        item   = pending.peek()
+        result = _pending_to_result(item)
+        print(f"\n{Fore.CYAN}📬 Pending queue: {len(pending)} article(s) waiting{Style.RESET_ALL}")
+        print(f"  {Style.BRIGHT}{result.article.title}{Style.RESET_ALL}")
+        print(f"  {result.article.source} | {result.tag} | ⭐ {result.importance}/10")
+        _print_divider()
+        print(f"  {Fore.GREEN}{result.final_message}{Style.RESET_ALL}")
+
+        if args.dry_run:
+            print(f"\n  {Fore.YELLOW}--dry-run: nothing sent.{Style.RESET_ALL}")
+            return
+        if not args.auto and not _confirm():
+            print(f"\n  {Fore.YELLOW}Cancelled.{Style.RESET_ALL}")
+            return
+
+        print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
+        await _send([result.final_message], args.provider)
+        pending.pop()
+        sent_log.mark_sent([result])
+        remaining = len(pending)
+        if remaining:
+            print(f"  {Fore.YELLOW}{remaining} article(s) still in pending queue.{Style.RESET_ALL}")
+        print(f"\n  {Fore.GREEN}✓ Done — pending article sent, log updated.{Style.RESET_ALL}")
+        return
+
+    # ── 2. Fetch feeds ──────────────────────────────────────────────────
     print(f"\n{Fore.CYAN}📡 Fetching RSS feeds…{Style.RESET_ALL}")
-    all_articles = await feeds.fetch_all()
-    print(f"  Total fetched: {len(all_articles)}")
+    all_articles, _ = await feeds.fetch_all()
 
     # ── 2. Deduplicate ──────────────────────────────────────────────────
     new_articles = [a for a in all_articles if not sent_log.is_sent(a.hash)]
@@ -163,7 +263,15 @@ async def run(args: argparse.Namespace) -> None:
         print(f"\n  {Fore.YELLOW}Nothing new to process.{Style.RESET_ALL}")
         return
 
-    # ── 3. Classify ─────────────────────────────────────────────────────
+    # ── 3. Pre-filter (no API cost) ──────────────────────────────────────
+    new_articles, pre_skipped = feeds.pre_filter(new_articles)
+    if pre_skipped:
+        print(f"  Pre-filter: -{pre_skipped} irrelevant/stale | Remaining: {len(new_articles)}")
+    if not new_articles:
+        print(f"\n  {Fore.YELLOW}All articles filtered out by pre-filter.{Style.RESET_ALL}")
+        return
+
+    # ── 4. Classify ─────────────────────────────────────────────────────
     print(f"\n{Fore.CYAN}🧠 Classifying {len(new_articles)} article(s) with Claude…{Style.RESET_ALL}")
     results = await classifier.classify_all(new_articles)
 
@@ -177,12 +285,13 @@ async def run(args: argparse.Namespace) -> None:
 
     if not approved:
         print(f"\n  {Fore.YELLOW}No articles met the threshold (score ≥ {config.MIN_IMPORTANCE_SCORE}).{Style.RESET_ALL}")
+        _print_cost()
         return
 
-    # ── 4. Topic deduplication (72h window) ─────────────────────────────
+    # ── 5. Topic deduplication (48h window) ─────────────────────────────
     recent_sent = sent_log.recent_messages(48)
     if recent_sent:
-        print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last 72h…{Style.RESET_ALL}")
+        print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last 48h…{Style.RESET_ALL}")
         before = len(approved)
         approved = await classifier.topic_dedup_filter(approved, recent_sent)
         skipped = before - len(approved)
@@ -190,13 +299,14 @@ async def run(args: argparse.Namespace) -> None:
             print(f"  Skipped {skipped} duplicate topic(s)")
         if not approved:
             print(f"\n  {Fore.YELLOW}All approved articles were duplicates of recent topics.{Style.RESET_ALL}")
+            _print_cost()
             return
 
-    # ── 5. Compose messages ─────────────────────────────────────────────
+    # ── 6. Compose messages ─────────────────────────────────────────────
     print(f"\n{Fore.CYAN}✍️  Composing {len(approved)} message(s)…{Style.RESET_ALL}")
     await composer.compose_all(approved)
 
-    # ── 6. Humanizer (optional) ─────────────────────────────────────────
+    # ── 7. Humanizer (optional) ─────────────────────────────────────────
     profile = None
     if not args.skip_humanizer:
         profile = humanizer.load_profile()
@@ -206,28 +316,41 @@ async def run(args: argparse.Namespace) -> None:
         else:
             print(f"  {Fore.YELLOW}[humanizer] No style_profile.json found — skipping.{Style.RESET_ALL}")
 
-    # ── 7. Sort by importance ───────────────────────────────────────────
+    # ── 8. Sort by importance ───────────────────────────────────────────
     approved.sort(key=lambda r: r.importance, reverse=True)
 
-    # ── 8. Preview ──────────────────────────────────────────────────────
+    # ── 9. Preview ──────────────────────────────────────────────────────
+    # Mark which article will be sent now vs queued for later
+    if len(approved) > 1:
+        print(f"\n  {Fore.CYAN}[NOW]{Style.RESET_ALL} Sending top article. "
+              f"{Fore.YELLOW}{len(approved)-1} article(s) → pending queue.{Style.RESET_ALL}")
     _preview_results(approved, show_ab=args.ab)
+    _print_cost()
 
     if args.dry_run:
         print(f"\n  {Fore.YELLOW}--dry-run: nothing sent.{Style.RESET_ALL}")
         return
 
-    # ── 9. Send ─────────────────────────────────────────────────────────
+    # ── 10. Send top article; queue the rest ─────────────────────────────
     if not args.auto:
         if not _confirm():
             print(f"\n  {Fore.YELLOW}Cancelled.{Style.RESET_ALL}")
             return
 
-    print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
-    messages_to_send = [r.final_message for r in approved if r.final_message]
-    await _send(messages_to_send, args.provider)
+    to_send  = approved[0]                                   # always exactly one
+    to_queue = [r for r in approved[1:] if r.final_message]
 
-    sent_log.mark_sent(approved)
-    print(f"\n  {Fore.GREEN}✓ Done — {len(messages_to_send)} message(s) sent, log updated.{Style.RESET_ALL}")
+    assert to_send.final_message, "Top article has no composed message — aborting send."
+
+    print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
+    await _send([to_send.final_message], args.provider)      # single message, always
+    sent_log.mark_sent([to_send])
+
+    if to_queue:
+        pending.push(to_queue)
+        print(f"  {Fore.YELLOW}{len(to_queue)} article(s) saved to pending queue.{Style.RESET_ALL}")
+
+    print(f"\n  {Fore.GREEN}✓ Done — 1 message sent, log updated.{Style.RESET_ALL}")
 
 
 # ── Morning digest pipeline ────────────────────────────────────────────────
@@ -288,6 +411,28 @@ async def run_morning_digest(args: argparse.Namespace) -> None:
 
 # ── CLI ────────────────────────────────────────────────────────────────────
 
+async def run_check_feeds() -> None:
+    """Fetch all feeds and report status without any filtering or Claude calls."""
+    print(f"\n{Fore.CYAN}📡 Checking feeds…{Style.RESET_ALL}\n")
+    statuses = await feeds.check_feeds()
+
+    col = 32
+    for s in statuses:
+        if s.ok:
+            bar = Fore.GREEN + "✓" + Style.RESET_ALL
+            detail = f"{s.count} article(s)"
+        else:
+            bar = Fore.RED + "✗" + Style.RESET_ALL
+            detail = Fore.RED + s.error[:60] + Style.RESET_ALL
+        print(f"  {bar} {s.name:<{col}} {detail}")
+
+    working = sum(1 for s in statuses if s.ok)
+    total   = len(statuses)
+    total_articles = sum(s.count for s in statuses)
+    color = Fore.GREEN if working == total else Fore.YELLOW
+    print(f"\n  {color}Working feeds: {working}/{total} | Total articles: {total_articles}{Style.RESET_ALL}")
+
+
 async def run_test(args: argparse.Namespace) -> None:
     """Send args.test directly to WhatsApp — no feeds, no Claude."""
     config.validate_provider(args.provider)
@@ -317,6 +462,7 @@ def _build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--skip-humanizer", action="store_true", help="Skip style rewriting")
     parser.add_argument("--ab",             action="store_true", help="Show before/after humanizer")
     parser.add_argument("--test",           metavar="MESSAGE",   help="Send MESSAGE directly, skip all feeds")
+    parser.add_argument("--check-feeds",   action="store_true", help="Check which feeds are working, no Claude")
     return parser
 
 
@@ -325,7 +471,9 @@ def main() -> None:
     args   = parser.parse_args()
 
     try:
-        if args.test is not None:
+        if args.check_feeds:
+            asyncio.run(run_check_feeds())
+        elif args.test is not None:
             asyncio.run(run_test(args))
         elif args.morning_digest:
             asyncio.run(run_morning_digest(args))

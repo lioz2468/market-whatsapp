@@ -8,6 +8,7 @@ from dataclasses import dataclass, field
 import anthropic
 
 import config
+import stats
 from feeds import Article
 
 
@@ -125,6 +126,7 @@ async def _call_claude(
                 ),
             }],
         )
+        stats.record(response.usage.input_tokens, response.usage.output_tokens)
         return response.content[0].text
 
     except anthropic.RateLimitError:
@@ -240,6 +242,7 @@ async def topic_dedup_filter(
                         "האם הכתבה החדשה מוסיפה מידע חדש ומשמעותי?"
                     }],
                 )
+                stats.record(resp.usage.input_tokens, resp.usage.output_tokens)
                 answer = resp.content[0].text.strip()
             except Exception as exc:
                 print(f"  [topic-dedup] ⚠ Check error for '{r.article.title[:40]}': {exc}")

@@ -8,13 +8,14 @@ load_dotenv()
 # ── Paths ──────────────────────────────────────────────────────────────────
 BASE_DIR           = Path(__file__).parent
 SENT_LOG_PATH      = BASE_DIR / "sent_log.json"
+PENDING_PATH       = BASE_DIR / "pending_articles.json"
 # style_profile.json lives in the sibling style-extractor project
 STYLE_PROFILE_PATH = BASE_DIR.parent / "style-extractor" / "style_profile.json"
 
 # ── Claude ─────────────────────────────────────────────────────────────────
 ANTHROPIC_API_KEY     = os.getenv("ANTHROPIC_API_KEY", "")
 CLAUDE_MODEL          = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-0")
-MAX_CONCURRENT_CLAUDE = int(os.getenv("MAX_CONCURRENT_CLAUDE", "3"))
+MAX_CONCURRENT_CLAUDE = int(os.getenv("MAX_CONCURRENT_CLAUDE", "1"))
 
 # ── WhatsApp (shared) ──────────────────────────────────────────────────────
 WHATSAPP_TO      = os.getenv("WHATSAPP_TO", "")
