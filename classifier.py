@@ -12,6 +12,10 @@ import stats
 from feeds import Article
 
 
+class CreditBalanceError(RuntimeError):
+    """Raised when the Anthropic account has insufficient credits."""
+
+
 # ── Result model ───────────────────────────────────────────────────────────
 
 @dataclass
@@ -81,12 +85,16 @@ async def classify_all(articles: list[Article]) -> list[ClassificationResult]:
 
     client    = anthropic.AsyncAnthropic(api_key=config.ANTHROPIC_API_KEY)
     semaphore = asyncio.Semaphore(config.MAX_CONCURRENT_CLAUDE)
+    abort     = asyncio.Event()
 
-    tasks = [_classify_one(client, semaphore, article) for article in articles]
+    tasks = [_classify_one(client, semaphore, abort, article) for article in articles]
     results = await asyncio.gather(*tasks, return_exceptions=True)
 
     out = []
     for r in results:
+        if isinstance(r, CreditBalanceError):
+            print(f"\n[classifier] CREDIT BALANCE TOO LOW — עצירת כל הסינון.\n{r}")
+            raise r
         if isinstance(r, Exception):
             print(f"  [classifier] ⚠ Classification error: {r}")
         else:
@@ -99,10 +107,19 @@ async def classify_all(articles: list[Article]) -> list[ClassificationResult]:
 async def _classify_one(
     client:    anthropic.AsyncAnthropic,
     semaphore: asyncio.Semaphore,
+    abort:     asyncio.Event,
     article:   Article,
 ) -> ClassificationResult:
+    if abort.is_set():
+        raise CreditBalanceError("abort")
     async with semaphore:
-        raw = await _call_claude(client, article)
+        if abort.is_set():
+            raise CreditBalanceError("abort")
+        try:
+            raw = await _call_claude(client, article)
+        except CreditBalanceError:
+            abort.set()
+            raise
     return _parse(raw, article)
 
 
@@ -138,6 +155,10 @@ async def _call_claude(
         raise
 
     except anthropic.APIStatusError as exc:
+        if exc.status_code == 400 and "credit balance is too low" in str(exc).lower():
+            raise CreditBalanceError(
+                f"Anthropic credit balance is too low — נא לטעון קרדיטים בחשבון. ({exc})"
+            ) from exc
         if exc.status_code >= 500 and attempt < max_retries:
             wait = (2 ** (attempt - 1)) * 3
             await asyncio.sleep(wait)
@@ -244,6 +265,13 @@ async def topic_dedup_filter(
                 )
                 stats.record(resp.usage.input_tokens, resp.usage.output_tokens)
                 answer = resp.content[0].text.strip()
+            except anthropic.APIStatusError as exc:
+                if exc.status_code == 400 and "credit balance is too low" in str(exc).lower():
+                    raise CreditBalanceError(
+                        f"Anthropic credit balance is too low — נא לטעון קרדיטים בחשבון. ({exc})"
+                    ) from exc
+                print(f"  [topic-dedup] ⚠ Check error for '{r.article.title[:40]}': {exc}")
+                return r  # On error, keep the article
             except Exception as exc:
                 print(f"  [topic-dedup] ⚠ Check error for '{r.article.title[:40]}': {exc}")
                 return r  # On error, keep the article
@@ -257,6 +285,9 @@ async def topic_dedup_filter(
     results = await asyncio.gather(*tasks, return_exceptions=True)
     out = []
     for item in results:
+        if isinstance(item, CreditBalanceError):
+            print(f"\n[topic-dedup] CREDIT BALANCE TOO LOW — עצירת כל הסינון.\n{item}")
+            raise item
         if isinstance(item, Exception):
             print(f"  [topic-dedup] ⚠ Unexpected error: {item}")
         elif item is not None:
