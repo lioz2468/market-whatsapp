@@ -302,6 +302,13 @@ async def run(args: argparse.Namespace) -> None:
             _print_cost()
             return
 
+    # ── 5b. Within-batch dedup — prevent same topic queued multiple times ──
+    before = len(approved)
+    approved = classifier.within_batch_dedup(approved)
+    skipped = before - len(approved)
+    if skipped:
+        print(f"  Batch dedup: -{skipped} same-topic duplicate(s)")
+
     # ── 6. Compose messages ─────────────────────────────────────────────
     print(f"\n{Fore.CYAN}✍️  Composing {len(approved)} message(s)…{Style.RESET_ALL}")
     await composer.compose_all(approved)

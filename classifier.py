@@ -35,9 +35,16 @@ class ClassificationResult:
         return self.humanized_msg or self.message
 
 
+# ── Shared context paragraph (prepended to all system prompts) ────────────
+
+_CONTEXT = """אתה עוזר ליוצר תוכן ישראלי שמנהל ערוץ יוטיוב ופודקאסט על שווקים פיננסיים, מגמות כלכליות וטכנולוגיה. הקהל שלו הוא ישראלים שמתעניינים בשווקים, השקעות ומגמות גלובליות — לא סוחרים מקצועיים אלא אנשים חכמים שרוצים להבין מה קורה בעולם ואיך זה משפיע עליהם.
+
+ההודעות שאתה מנסח נשלחות בוואטסאפ לקהל שלו. המטרה היא לספק עדכון קצר, חכם ומעניין שגורם לאנשים להרגיש שהם מבינים מה קורה — לא להפחיד, לא למכור, לא ליצור FOMO. הטון הוא של חבר חכם שמסביר לך מה קורה בעולם."""
+
+
 # ── System prompt (classification criteria) ────────────────────────────────
 
-_SYSTEM = """אתה מסנן כתבות חדשות כלכליות-פיננסיות לניוזלטר השקעות.
+_SYSTEM = _CONTEXT + "\n\n" + """אתה מסנן כתבות חדשות כלכליות-פיננסיות לניוזלטר השקעות.
 
 כתבה עוברת אם היא עונה על לפחות 3 מתוך 15 הקריטריונים הבאים:
 
@@ -292,4 +299,26 @@ async def topic_dedup_filter(
             print(f"  [topic-dedup] ⚠ Unexpected error: {item}")
         elif item is not None:
             out.append(item)
+    return out
+
+
+def within_batch_dedup(approved: list[ClassificationResult]) -> list[ClassificationResult]:
+    """Remove same-topic duplicates within a single batch.
+
+    Assumes `approved` is already sorted by importance (desc).
+    Keeps the first (highest-importance) article per topic cluster.
+    Articles with no topics are always kept.
+    """
+    seen_topics: set[str] = set()
+    out: list[ClassificationResult] = []
+    for r in approved:
+        if not r.topics:
+            out.append(r)
+            continue
+        overlap = set(r.topics) & seen_topics
+        if overlap:
+            print(f"  [batch-dedup] ⏭ Skipping '{r.article.title[:55]}' — topics {overlap} already in batch")
+            continue
+        seen_topics.update(r.topics)
+        out.append(r)
     return out
