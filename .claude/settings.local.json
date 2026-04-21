@@ -5,7 +5,9 @@
       "Bash(python -c \"import sys; sys.stdout.reconfigure\\(encoding='utf-8'\\)\")",
       "Bash(PYTHONUTF8=1 python main.py --check-feeds)",
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(python -c \"import classifier; import feeds; import stats; import config; print\\('OK'\\)\")",
+      "Bash(git push *)"
     ]
   }
 }
