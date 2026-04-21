@@ -13,9 +13,11 @@ PENDING_PATH       = BASE_DIR / "pending_articles.json"
 STYLE_PROFILE_PATH = BASE_DIR.parent / "style-extractor" / "style_profile.json"
 
 # ── Claude ─────────────────────────────────────────────────────────────────
-ANTHROPIC_API_KEY     = os.getenv("ANTHROPIC_API_KEY", "")
-CLAUDE_MODEL          = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-0")
-MAX_CONCURRENT_CLAUDE = int(os.getenv("MAX_CONCURRENT_CLAUDE", "1"))
+ANTHROPIC_API_KEY        = os.getenv("ANTHROPIC_API_KEY", "")
+CLAUDE_MODEL             = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-6")
+CLAUDE_CLASSIFIER_MODEL  = os.getenv("CLAUDE_CLASSIFIER_MODEL", "claude-haiku-4-5-20251001")
+CLASSIFIER_BATCH_SIZE    = int(os.getenv("CLASSIFIER_BATCH_SIZE", "12"))
+MAX_CONCURRENT_CLAUDE    = int(os.getenv("MAX_CONCURRENT_CLAUDE", "3"))
 
 # ── WhatsApp (shared) ──────────────────────────────────────────────────────
 WHATSAPP_TO      = os.getenv("WHATSAPP_TO", "")
