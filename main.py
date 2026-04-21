@@ -264,7 +264,8 @@ async def run(args: argparse.Namespace) -> None:
         return
 
     # ── 3. Pre-filter (no API cost) ──────────────────────────────────────
-    new_articles, pre_skipped = feeds.pre_filter(new_articles)
+    recent_sent_titles = [m["title"] for m in sent_log.recent_messages(48)]
+    new_articles, pre_skipped = feeds.pre_filter(new_articles, sent_titles=recent_sent_titles)
     if pre_skipped:
         print(f"  Pre-filter: -{pre_skipped} irrelevant/stale | Remaining: {len(new_articles)}")
     if not new_articles:

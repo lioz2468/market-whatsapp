@@ -133,38 +133,69 @@ async def check_feeds() -> list[FeedStatus]:
 _SKIP_EN = re.compile(
     r"\b("
     r"recipe|cooking|chef|restaurant review|fashion|beauty|makeup|skincare"
-    r"|celebrity|actor|actress|singer|musician|movie review|film review"
+    r"|celebrity|celeb|actor|actress|singer|musician|movie review|film review"
     r"|box office|oscar|grammy|emmy|billboard|album|concert|tour"
-    r"|nfl|nba|mlb|nhl|mls|fifa|uefa|premier league|la liga"
+    r"|nfl|nba|mlb|nhl|mls|fifa|uefa|premier league|la liga|bundesliga"
     r"|touchdown|home run|slam dunk|hat.?trick|playoff|championship game"
     r"|horoscope|astrology|zodiac"
+    r"|lifestyle|wellness|diet|weight loss|fitness tip|workout"
+    r"|entertainment|gossip|dating|relationship advice|parenting tip"
+    r"|sport(s)? score|game recap|match result|transfer rumor"
     r")\b",
     re.I,
 )
 _SKIP_HE = re.compile(
-    r"(מתכון|בישול|אופנה|יופי|כדורגל|כדורסל|קולנוע|סרט חדש|מוזיקה|הופעה|אסטרולוגיה|הורוסקופ)",
+    r"(מתכון|בישול|שף|מסעדה|אופנה|יופי|כדורגל|כדורסל|קולנוע|סרט חדש"
+    r"|מוזיקה|הופעה|אסטרולוגיה|הורוסקופ|ספורט|ליגה|טורניר|גביע"
+    r"|דיאטה|כושר|אורח.?חיים|רכילות|זוגיות|הורות)",
 )
+
+# Stop-words ignored when comparing titles for near-duplicate detection
+_TITLE_STOP = frozenset({
+    "the", "a", "an", "of", "in", "on", "at", "to", "for", "is", "are",
+    "was", "were", "will", "be", "as", "by", "with", "from", "that",
+})
+
+
+def _title_words(title: str) -> frozenset[str]:
+    return frozenset(
+        w.lower() for w in re.split(r"\W+", title)
+        if len(w) > 3 and w.lower() not in _TITLE_STOP
+    )
 
 
 def pre_filter(
     articles: list[Article],
-    max_age_hours: int = 48,
+    max_age_hours: int = 12,
+    sent_titles: list[str] | None = None,
 ) -> tuple[list[Article], int]:
     """Filter out irrelevant articles before sending to Claude.
 
     Returns (kept_articles, skipped_count).
     Removes:
-      - Articles older than max_age_hours
+      - Articles older than max_age_hours (default 12h)
+      - Articles with fewer than 20 words in title+summary
       - Articles matching non-financial keyword patterns
+      - Articles whose titles are ≥65% similar to a recently-sent title
     """
     now     = datetime.now(timezone.utc)
     cutoff  = now - timedelta(hours=max_age_hours)
     kept    = []
     skipped = 0
 
+    sent_word_sets: list[frozenset[str]] = (
+        [_title_words(t) for t in sent_titles] if sent_titles else []
+    )
+
     for a in articles:
         # Age filter
         if a.published_dt and a.published_dt < cutoff:
+            skipped += 1
+            continue
+
+        # Minimum content length (title + summary must have ≥20 words)
+        word_count = len(a.title.split()) + len(a.summary.split())
+        if word_count < 20:
             skipped += 1
             continue
 
@@ -173,6 +204,21 @@ def pre_filter(
         if pattern.search(a.title):
             skipped += 1
             continue
+
+        # Near-duplicate title check against recently-sent articles
+        if sent_word_sets:
+            article_words = _title_words(a.title)
+            if len(article_words) >= 3:
+                for sent_words in sent_word_sets:
+                    if not sent_words:
+                        continue
+                    overlap = len(article_words & sent_words) / min(len(article_words), len(sent_words))
+                    if overlap >= 0.65:
+                        skipped += 1
+                        break
+                else:
+                    kept.append(a)
+                continue
 
         kept.append(a)
 
