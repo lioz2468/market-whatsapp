@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import asyncio
+import sys
 
 import anthropic
 
@@ -163,6 +164,8 @@ async def _compose_one(
 ) -> None:
     system = _SYSTEM_URGENT if result.importance >= 8 else _SYSTEM_REGULAR
 
+    _label = f'"{result.article.title[:60]}" [{result.article.source}]'
+
     async with semaphore:
         try:
             response = await client.messages.create(
@@ -182,16 +185,33 @@ async def _compose_one(
                 }],
             )
             stats.record(response.usage.input_tokens, response.usage.output_tokens)
-            result.message = response.content[0].text.strip()
+            text = response.content[0].text.strip()
+            if not text:
+                print(f"[composer] WARNING: empty response for {_label}", file=sys.stderr)
+            result.message = text
 
         except anthropic.RateLimitError:
             if attempt <= 3:
                 await asyncio.sleep((2 ** (attempt - 1)) * 5)
                 await _compose_one(client, semaphore, result, attempt + 1)
+            else:
+                print(
+                    f"[composer] ERROR: rate limit — gave up after 3 attempts for {_label}",
+                    file=sys.stderr,
+                )
         except anthropic.APIStatusError as exc:
             if exc.status_code >= 500 and attempt <= 2:
                 await asyncio.sleep(5)
                 await _compose_one(client, semaphore, result, attempt + 1)
             else:
-                # Composition failed — leave message empty so article is skipped
+                print(
+                    f"[composer] ERROR: API {exc.status_code} for {_label}: {exc.message}",
+                    file=sys.stderr,
+                )
                 result.message = ""
+        except Exception as exc:
+            print(
+                f"[composer] ERROR: unexpected error for {_label}: {exc!r}",
+                file=sys.stderr,
+            )
+            result.message = ""

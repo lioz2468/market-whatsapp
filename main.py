@@ -345,10 +345,30 @@ async def run(args: argparse.Namespace) -> None:
             print(f"\n  {Fore.YELLOW}Cancelled.{Style.RESET_ALL}")
             return
 
-    to_send  = approved[0]                                   # always exactly one
-    to_queue = [r for r in approved[1:] if r.final_message]
+    to_send        = None
+    failed_compose = []
 
-    assert to_send.final_message, "Top article has no composed message — aborting send."
+    for candidate in approved:
+        if not candidate.final_message:
+            print(
+                f"\n  {Fore.YELLOW}⚠ No message for \"{candidate.article.title[:60]}\" "
+                f"— retrying composition…{Style.RESET_ALL}"
+            )
+            await composer.compose_all([candidate])
+        if candidate.final_message:
+            to_send = candidate
+            break
+        print(f"  {Fore.RED}✗ Retry failed — skipping article.{Style.RESET_ALL}")
+        failed_compose.append(candidate)
+
+    if to_send is None:
+        print(f"\n  {Fore.RED}All articles failed composition — nothing sent.{Style.RESET_ALL}")
+        return
+
+    to_queue = [
+        r for r in approved
+        if r is not to_send and r not in failed_compose and r.final_message
+    ]
 
     print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
     await _send([to_send.final_message], args.provider)      # single message, always
