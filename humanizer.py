@@ -65,6 +65,7 @@ def build_system_prompt(profile: dict) -> str:
 - המלצות קנייה/מכירה — אסור
 - פתיחה ב"חבר'ה" — אסור
 - "אוקיי?", "אוקי?", "נכון?" — אסור לחלוטין, גם באמצע וגם בסוף הודעה
+- מקף ארוך "—" (em dash) — אסור לחלוטין. תמיד תשתמש במקף קצר "-" רגיל
 
 פרופיל הסגנון:
 • טון: {t.get("default", "—")} | פורמליות: {t.get("formality", "—")} | הומור: {t.get("humor_level", "—")}
@@ -138,7 +139,7 @@ async def _humanize_one(
                     "content": f"שכתב בסגנון שלי:\n\n{result.message}",
                 }],
             )
-            result.humanized_msg = response.content[0].text.strip()
+            result.humanized_msg = response.content[0].text.strip().replace("—", "-")
 
         except anthropic.RateLimitError:
             if attempt <= 3:
