@@ -210,11 +210,80 @@ def _reject_all(articles: list[Article]) -> list[ClassificationResult]:
     ]
 
 
+# ── Broad topic categories ─────────────────────────────────────────────────
+
+# Maps a canonical category name to keywords that identify it.
+# Matching is case-insensitive and substring-based.
+_BROAD_CATEGORIES: dict[str, list[str]] = {
+    "תשואות_אגח": [
+        'אג"ח', "אגח", "תשואות", "תשואה", "bond", "bonds", "yield", "yields",
+        "treasuries", "treasury", "ממשלתי", "ממשלתיות", "שוק האג",
+    ],
+    "נפט_אנרגיה": [
+        "נפט", "איראן", 'אופ"ק', "opec", "oil", "crude", "energy", "אנרגיה",
+        "גז טבעי", "natural gas",
+    ],
+    "ai_שבבים": [
+        "ai", "בינה מלאכותית", "שבבים", "nvidia", "נבידיה", "nvda", "chips",
+        "semiconductor", "מוליכים למחצה", "openai", "anthropic", "llm", "גנרטיבי",
+    ],
+    "ריבית_פד": [
+        "פד", "ריבית", "פדרל ריזרב", "fed", "federal reserve", "fomc",
+        "interest rate", "ריביות", "בנק מרכזי",
+    ],
+    "דולר_מטבעות": [
+        "דולר", "מטבע", "שקל", "יורו", "dollar", "currency", "forex", "ין",
+    ],
+    "מניות_שוק": [
+        "s&p", "spx", "נאסדק", "nasdaq", "דאו", "dow", "מניות", "בורסה",
+        "wall street", "שוק מניות", "equity", "equities",
+    ],
+    "סין_סחר": [
+        "סין", "סחר", "מכסים", "china", "trade", "tariffs", "customs", "יבוא",
+        "יצוא", "export", "import",
+    ],
+    "אינפלציה_מאקרו": [
+        "אינפלציה", "cpi", "pce", "מדד מחירים", "inflation", "deflation",
+        "מאקרו", "gdp", "תמ\"ג",
+    ],
+    "קריפטו": [
+        "קריפטו", "ביטקוין", "אתריום", "crypto", "bitcoin", "ethereum",
+        "blockchain", "בלוקצ'יין",
+    ],
+    "נדלן": [
+        "נדל\"ן", "נדלן", "דיור", "משכנתא", "real estate", "housing", "mortgage",
+        "שכר דירה",
+    ],
+    "ישראל_כלכלה": [
+        "ישראל", "ממשלת ישראל", "בנק ישראל", "כלכלת ישראל", "שוק ישראלי",
+        "מלחמה", "ביטחון",
+    ],
+}
+
+
+def _topics_to_broad_categories(topics: list[str]) -> set[str]:
+    """Map article topic tags to broad canonical category names."""
+    cats: set[str] = set()
+    topics_lower = [t.lower() for t in topics]
+    for cat, keywords in _BROAD_CATEGORIES.items():
+        for kw in keywords:
+            if any(kw.lower() in t for t in topics_lower):
+                cats.add(cat)
+                break
+    return cats
+
+
 # ── Topic deduplication ────────────────────────────────────────────────────
 
-_TOPIC_CHECK_SYSTEM = """אתה בודק כפילויות בסיקור עיתונאי.
-ענה "כן" אם הכתבה החדשה מוסיפה מידע חדש ומשמעותי שלא כוסה ב-72 שעות האחרונות.
-ענה "לא" אם מדובר בחזרה על אותו נושא ללא התפתחות מהותית.
+_TOPIC_CHECK_SYSTEM = _CONTEXT + "\n\n" + """אתה בודק כפילויות בסיקור עיתונאי.
+
+חוק ברזל: אם הנושא כבר כוסה ב-48 שעות האחרונות — סנן החוצה, אלא אם יש אירוע חדש ספציפי.
+
+"אירוע חדש ספציפי" = נתון חדש שפורסם, החלטה שהתקבלה, שינוי כיוון מפתיע, הכרזה רשמית.
+"לא אירוע חדש" = ניתוח נוסף של אותו מצב, פרשנות, עדכון שוטף, "תשואות עלו שוב".
+
+ענה "כן" רק אם יש אירוע חדש ספציפי שלא הופיע בכתבות הקודמות.
+ענה "לא" בכל מקרה אחר — כולל כשהכותרת שונה אך הנושא זהה.
 ענה רק "כן" או "לא", ללא הסבר."""
 
 
@@ -222,15 +291,22 @@ async def topic_dedup_filter(
     approved: list[ClassificationResult],
     recent_sent: list[dict],
 ) -> list[ClassificationResult]:
-    """Remove articles whose topics were already covered in the last 72 hours,
-    unless Claude determines they add significant new information."""
+    """Remove articles whose broad topics were already covered in the last 48 hours,
+    unless Claude identifies a specific new event (not just new analysis)."""
     if not recent_sent or not approved:
         return approved
 
-    recent_topics: set[str] = set(
+    # Build broad category coverage from recently sent articles
+    recent_broad_cats: set[str] = set()
+    for m in recent_sent:
+        recent_broad_cats.update(_topics_to_broad_categories(m.get("topics", [])))
+
+    # Fallback: exact topic matching for articles outside known categories
+    recent_exact_topics: set[str] = set(
         t for m in recent_sent for t in m.get("topics", [])
     )
-    if not recent_topics:
+
+    if not recent_broad_cats and not recent_exact_topics:
         return approved
 
     recent_context = "\n".join(
@@ -242,8 +318,19 @@ async def topic_dedup_filter(
     semaphore = asyncio.Semaphore(config.MAX_CONCURRENT_CLAUDE)
 
     async def _check_one(r: ClassificationResult) -> ClassificationResult | None:
-        if not set(r.topics).intersection(recent_topics):
+        article_broad_cats = _topics_to_broad_categories(r.topics)
+        broad_overlap      = article_broad_cats & recent_broad_cats
+        exact_overlap      = set(r.topics) & recent_exact_topics
+
+        # Pass through if no overlap in either broad categories or exact topics
+        if not broad_overlap and not exact_overlap:
             return r
+
+        overlap_desc = (
+            f"קטגוריות: {broad_overlap}" if broad_overlap
+            else f"נושאים: {exact_overlap}"
+        )
+        print(f"  [topic-dedup] 🔍 Checking '{r.article.title[:55]}' — {overlap_desc}")
 
         async with semaphore:
             try:
@@ -254,8 +341,8 @@ async def topic_dedup_filter(
                     messages=[{"role": "user", "content":
                         f"כתבה חדשה: {r.article.title}\n"
                         f"נושאים: {', '.join(r.topics)}\n\n"
-                        f"כתבות שנשלחו ב-72 שעות האחרונות:\n{recent_context}\n\n"
-                        "האם הכתבה החדשה מוסיפה מידע חדש ומשמעותי?"
+                        f"כתבות שנשלחו ב-48 שעות האחרונות:\n{recent_context}\n\n"
+                        "האם הכתבה החדשה מביאה אירוע חדש ספציפי (לא רק ניתוח נוסף של אותו מצב)?"
                     }],
                 )
                 stats.record(
@@ -276,7 +363,7 @@ async def topic_dedup_filter(
                 return r
 
         if answer.startswith("לא"):
-            print(f"  [topic-dedup] ⏭ Skipping '{r.article.title[:55]}' — topic already covered")
+            print(f"  [topic-dedup] ⏭ Skipping '{r.article.title[:55]}' — no new event")
             return None
         return r
 
@@ -294,22 +381,31 @@ async def topic_dedup_filter(
 
 
 def within_batch_dedup(approved: list[ClassificationResult]) -> list[ClassificationResult]:
-    """Remove same-topic duplicates within a single batch.
+    """Remove same-topic duplicates within a single batch using broad categories.
 
     Assumes `approved` is already sorted by importance (desc).
-    Keeps the first (highest-importance) article per topic cluster.
-    Articles with no topics are always kept.
+    Keeps the first (highest-importance) article per broad category.
+    Falls back to exact topic matching for topics outside known categories.
     """
-    seen_topics: set[str] = set()
+    seen_broad_cats: set[str] = set()
+    seen_exact_topics: set[str] = set()
     out: list[ClassificationResult] = []
     for r in approved:
         if not r.topics:
             out.append(r)
             continue
-        overlap = set(r.topics) & seen_topics
-        if overlap:
-            print(f"  [batch-dedup] ⏭ Skipping '{r.article.title[:55]}' — topics {overlap} already in batch")
-            continue
-        seen_topics.update(r.topics)
+        article_broad_cats = _topics_to_broad_categories(r.topics)
+        if article_broad_cats:
+            overlap = article_broad_cats & seen_broad_cats
+            if overlap:
+                print(f"  [batch-dedup] ⏭ Skipping '{r.article.title[:55]}' — categories {overlap} already in batch")
+                continue
+            seen_broad_cats.update(article_broad_cats)
+        else:
+            overlap = set(r.topics) & seen_exact_topics
+            if overlap:
+                print(f"  [batch-dedup] ⏭ Skipping '{r.article.title[:55]}' — topics {overlap} already in batch")
+                continue
+        seen_exact_topics.update(r.topics)
         out.append(r)
     return out
