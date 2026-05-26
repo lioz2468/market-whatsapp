@@ -264,7 +264,7 @@ async def run(args: argparse.Namespace) -> None:
         return
 
     # ── 3. Pre-filter (no API cost) ──────────────────────────────────────
-    recent_sent_titles = [m["title"] for m in sent_log.recent_messages(48)]
+    recent_sent_titles = [m["title"] for m in sent_log.recent_messages(24)]
     new_articles, pre_skipped = feeds.pre_filter(new_articles, sent_titles=recent_sent_titles)
     if pre_skipped:
         print(f"  Pre-filter: -{pre_skipped} irrelevant/stale | Remaining: {len(new_articles)}")
@@ -289,19 +289,21 @@ async def run(args: argparse.Namespace) -> None:
         _print_cost()
         return
 
-    # ── 5. Topic deduplication (48h window) ─────────────────────────────
-    recent_sent = sent_log.recent_messages(48)
+    # ── 5. Topic deduplication (24h window) ─────────────────────────────
+    force_update_prefix = False
+    recent_sent = sent_log.recent_messages(24)
     if recent_sent:
-        print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last 48h…{Style.RESET_ALL}")
+        print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last 24h…{Style.RESET_ALL}")
+        pre_dedup_approved = approved[:]
         before = len(approved)
         approved = await classifier.topic_dedup_filter(approved, recent_sent)
         skipped = before - len(approved)
         if skipped:
             print(f"  Skipped {skipped} duplicate topic(s)")
         if not approved:
-            print(f"\n  {Fore.YELLOW}All approved articles were duplicates of recent topics.{Style.RESET_ALL}")
-            _print_cost()
-            return
+            print(f"\n  {Fore.YELLOW}כל הכתבות הן כפילויות נושאים — שולח את הכי גבוהה כ'עדכון'.{Style.RESET_ALL}")
+            approved = [pre_dedup_approved[0]]
+            force_update_prefix = True
 
     # ── 5b. Within-batch dedup — prevent same topic queued multiple times ──
     before = len(approved)
@@ -371,7 +373,8 @@ async def run(args: argparse.Namespace) -> None:
     ]
 
     print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
-    await _send([to_send.final_message], args.provider)      # single message, always
+    msg_to_send = ("עדכון: " + to_send.final_message) if force_update_prefix else to_send.final_message
+    await _send([msg_to_send], args.provider)      # single message, always
     sent_log.mark_sent([to_send])
 
     if to_queue:

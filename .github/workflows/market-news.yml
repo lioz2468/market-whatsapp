@@ -2,34 +2,65 @@ name: Market News Bot
 
 on:
   schedule:
-    - cron: '0 5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 * * 0-5'
+    # Every hour, 05:00–20:00 UTC = 08:00–23:00 Israel (UTC+3 DST / UTC+2 winter)
+    # Days: 0=Sun, 1=Mon, 2=Tue, 3=Wed, 4=Thu, 5=Fri  (Israeli workweek Sun–Fri)
+    - cron: '0 5-20 * * 0-5'
+
+  # Allow manual trigger from the Actions tab
   workflow_dispatch:
+
+# Prevent overlapping runs
+concurrency:
+  group: market-news
+  cancel-in-progress: false
 
 jobs:
   send-news:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+    permissions:
+      contents: write
 
-      - name: Set up Python
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Restore sent log
-        uses: actions/cache@v4
-        with:
-          path: sent_log.json
-          key: sent-log-${{ github.run_id }}
-          restore-keys: sent-log-
-
-      - name: Run bot
+      - name: Run market news bot
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GREEN_API_INSTANCE: ${{ secrets.GREEN_API_INSTANCE }}
-          GREEN_API_TOKEN:    ${{ secrets.GREEN_API_TOKEN }}
-          WHATSAPP_TO:        ${{ secrets.WHATSAPP_TO }}
+          ANTHROPIC_API_KEY:    ${{ secrets.ANTHROPIC_API_KEY }}
+          GREEN_API_INSTANCE:   ${{ secrets.GREEN_API_INSTANCE }}
+          GREEN_API_TOKEN:      ${{ secrets.GREEN_API_TOKEN }}
+          WHATSAPP_TO:          ${{ secrets.WHATSAPP_TO }}
+          DEFAULT_PROVIDER:     ${{ secrets.DEFAULT_PROVIDER }}
+          TWILIO_SID:           ${{ secrets.TWILIO_SID }}
+          TWILIO_AUTH_TOKEN:    ${{ secrets.TWILIO_AUTH_TOKEN }}
+          TWILIO_WHATSAPP_FROM: ${{ secrets.TWILIO_WHATSAPP_FROM }}
         run: python main.py --auto
+
+      - name: Commit updated sent_log.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sent_log.json
+          if git diff --staged --quiet; then
+            echo "sent_log.json unchanged — nothing to commit."
+          else
+            git commit -m "chore: update sent_log.json [skip ci]"
+            git push
+          fi

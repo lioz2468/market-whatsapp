@@ -277,7 +277,7 @@ def _topics_to_broad_categories(topics: list[str]) -> set[str]:
 
 _TOPIC_CHECK_SYSTEM = _CONTEXT + "\n\n" + """אתה בודק כפילויות בסיקור עיתונאי.
 
-חוק ברזל: אם הנושא כבר כוסה ב-48 שעות האחרונות — סנן החוצה, אלא אם יש אירוע חדש ספציפי.
+חוק ברזל: אם הנושא כבר כוסה ב-24 שעות האחרונות — סנן החוצה, אלא אם יש אירוע חדש ספציפי.
 
 "אירוע חדש ספציפי" = נתון חדש שפורסם, החלטה שהתקבלה, שינוי כיוון מפתיע, הכרזה רשמית.
 "לא אירוע חדש" = ניתוח נוסף של אותו מצב, פרשנות, עדכון שוטף, "תשואות עלו שוב".
@@ -291,7 +291,7 @@ async def topic_dedup_filter(
     approved: list[ClassificationResult],
     recent_sent: list[dict],
 ) -> list[ClassificationResult]:
-    """Remove articles whose broad topics were already covered in the last 48 hours,
+    """Remove articles whose broad topics were already covered in the last 24 hours,
     unless Claude identifies a specific new event (not just new analysis)."""
     if not recent_sent or not approved:
         return approved
@@ -341,7 +341,7 @@ async def topic_dedup_filter(
                     messages=[{"role": "user", "content":
                         f"כתבה חדשה: {r.article.title}\n"
                         f"נושאים: {', '.join(r.topics)}\n\n"
-                        f"כתבות שנשלחו ב-48 שעות האחרונות:\n{recent_context}\n\n"
+                        f"כתבות שנשלחו ב-24 שעות האחרונות:\n{recent_context}\n\n"
                         "האם הכתבה החדשה מביאה אירוע חדש ספציפי (לא רק ניתוח נוסף של אותו מצב)?"
                     }],
                 )
