@@ -3,7 +3,8 @@
     "763f8062d77aa289": "2026-03-31T12:48:26.894281+00:00",
     "0082124e9f66c53f": "2026-03-31T21:35:42.042435+00:00",
     "aa660cf1130722da": "2026-03-31T21:35:42.042435+00:00",
-    "cf9293707b1c33bc": "2026-03-31T21:35:42.042435+00:00"
+    "cf9293707b1c33bc": "2026-03-31T21:35:42.042435+00:00",
+    "b19ce06a60c1685e": "2026-05-26T15:18:46.892201+00:00"
   },
   "messages": [
     {
@@ -60,6 +61,20 @@
         "טכנולוגיה",
         "אימוץ-מוסדי",
         "פרסום"
+      ]
+    },
+    {
+      "sent_at": "2026-05-26T15:18:46.892201+00:00",
+      "title": "UBS Raises $MU PT to $1,625 from $535, Maintains Buy Rating Analyst comments: \"With LTAs now firmly in place across most of the industry, we are again raising C2027-2029 estimates and expect EPS to remain comfortably >$100 throughout the period, with MU generating over $400B in FCF across the same timeframe. We believe the market will start to put a more normal multiple on the stock, and MU will continue to re-rate higher as more details emerge about the structural changes AI has driven to the entire memory complex. Our supply chain work on Long Term Agreements (LTAs) across the memory industry suggests that up to 30% of DDR volumes industry-wide will soon be locked in at pricing that is just slightly below current levels, and these agreements will allow MU to trade some near-term revenue for demand visibility and a smoother earnings profile. Consequently, we are raising EPS across C27/28/29E to $155/$167/$117 from $133/$122/$77 prior. Considering that investors typically reward stocks for durability and visibility, we see MU’s EPS remaining >$100 through C2029E as testament to the sort of lasting, structural change that should support a shift toward a broader semi multiple. Net, we lift our PT from $535 to $1,625, now based on ~15x NTM P/E versus prior SoTP on C2029E EPS of $117, one-year discounted, and reiterate Buy. We now expect the DRAM industry to remain undersupplied until at least C2Q28 versus 4Q27 prior, and NAND undersupply to last until 4Q27 versus 3Q27 prior. An additional driver of upside versus our prior model stems from higher HBM ASP ($/GB) assumptions, something we highlighted already early in April, as MU/SK/Samsung intend to rebuild a premium for HBM pricing into C2027, leading us to now model MU HBM ASP up ~50% Y/Y versus +35% Y/Y prior on unchanged MU HBM bit shipment assumptions of 7.78B Gb for C2026 and 12.05B Gb for C2027. Into CQ3:26, our industry model now also considers the impact of LTAs, as primarily reflected in the magnitude of the quarterly DDR, up ~8% Q/Q, and NAND, up ~9% Q/Q, industry contract pricing increase. This implies Q/Q pricing growth now normalizing back toward the low SD% range after three consecutive quarters of pricing increases averaging >50%.\" Analyst: Timothy Arcuri",
+      "source": "Twitter @wallstengine",
+      "message": "אנליסט UBS העלה את יעד המחיר של Micron מ-535 דולר ל-1,625 דולר - קפיצה של פי 3, והכי חשוב: הוא לא עושה את זה על בסיס אופטימיות, אלא על בסיס חוזים ארוכי טווח שכבר נחתמו.\n\nהסיפור האמיתי הוא שהתעשייה עוברת שינוי מבני: כ-30% מהביקוש לזיכרון DDR נעול כבר בחוזים מחייבים, מה שהופך את ההכנסות לצפויות ויציבות יותר לשנים קדימה. ה-AI הוא הגורם מאחורי זה - הלקוחות רוצים ביטחון היצע, והיצרנים קיבלו תמחור יציב בתמורה.\n\nההשפעה העקיפה - חברות כמו Samsung ו-SK Hynix נמצאות באותה דינמיקה, וגם ספקי הציוד לייצור זיכרון ייהנו מהסביבה הזו.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "בחיר",
+        "AI",
+        "מקרו",
+        "מודל עסקי"
       ]
     }
   ]
