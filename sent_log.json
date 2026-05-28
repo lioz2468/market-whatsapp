@@ -15,7 +15,8 @@
     "2a01d96f09e38395": "2026-05-28T08:42:38.070389+00:00",
     "0e0f1d5944ceed0a": "2026-05-28T12:26:22.106716+00:00",
     "541361b7b3da5452": "2026-05-28T16:54:27.830734+00:00",
-    "796da98ec9df1648": "2026-05-28T19:35:50.168338+00:00"
+    "796da98ec9df1648": "2026-05-28T19:35:50.168338+00:00",
+    "95f66c5a8c828c33": "2026-05-28T21:54:31.700208+00:00"
   },
   "messages": [
     {
@@ -231,6 +232,19 @@
         "AI",
         "השקעות",
         "הערכות"
+      ]
+    },
+    {
+      "sent_at": "2026-05-28T21:54:31.700208+00:00",
+      "title": "Apollo $APO and Blackstone $BX are shopping a ~$36B debt deal to finance Google TPU chips for Anthropic, per Bloomberg. The structure would buy the TPUs through an SPV and lease them to Anthropic for AI infrastructure. $AVGO, which helps Google develop TPUs, is reportedly backstopping payments on the largest senior portions of the deal.",
+      "source": "Twitter @wallstengine",
+      "message": "עסקת מימון של 36 מיליארד דולר - זו אחת העסקאות הגדולות שראינו בתשתיות AI.\n\nApollo ו-Blackstone מגייסות חוב שיממן רכישת מעבדי TPU של גוגל עבור Anthropic. המבנה: חברת מטרה (SPV) קונה את המעבדים ומחכירה אותם ל-Anthropic. Broadcom, שעוזרת לגוגל לפתח את ה-TPU, מגבה את תשלומי החוב הבכיר.\n\nמה שמעניין פה הוא לא רק הסכומים - זה שוק שלם שנבנה: חברות פרייבט אקוויטי הופכות לממנות תשתיות AI, וזה לחץ נוסף על ספקיות הענן המסורתיות.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "מימון",
+        "תשתיות"
       ]
     }
   ]
