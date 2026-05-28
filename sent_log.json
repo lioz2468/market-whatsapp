@@ -14,7 +14,8 @@
     "628183426e7e9c6f": "2026-05-27T21:53:05.646645+00:00",
     "2a01d96f09e38395": "2026-05-28T08:42:38.070389+00:00",
     "0e0f1d5944ceed0a": "2026-05-28T12:26:22.106716+00:00",
-    "541361b7b3da5452": "2026-05-28T16:54:27.830734+00:00"
+    "541361b7b3da5452": "2026-05-28T16:54:27.830734+00:00",
+    "796da98ec9df1648": "2026-05-28T19:35:50.168338+00:00"
   },
   "messages": [
     {
@@ -217,6 +218,19 @@
         "טלקומוניקציה לוויינית",
         "תעשיית חלל",
         "זרימת הון"
+      ]
+    },
+    {
+      "sent_at": "2026-05-28T19:35:50.168338+00:00",
+      "title": "Anthropic raised $65B in a Series H round, valuing the company at $965B post-money. The round was led by Altimeter, Dragoneer, Greenoaks, and Sequoia, and includes $15B of previously committed hyperscaler investments, including $5B from Amazon. Anthropic said run-rate revenue crossed $47B earlier this month. For context, the company was valued at $380B in February after raising $30B. Source: Reuters",
+      "source": "Twitter @wallstengine",
+      "message": "Anthropic גייסה 65 מיליארד דולר בסבב H, והשווי שלה קפץ ל-965 מיליארד דולר - זה כמעט טריליון. בפברואר הם היו שווים 380 מיליארד. תשעה חודשים, פי 2.5.\n\nמה שמדהים פה זה לא רק הכסף - זה שההכנסות השנתיות שלהם כבר עוברות 4.7 מיליארד דולר. כלומר זה לא רק הייפ, יש שם עסק אמיתי שגדל בטירוף.\n\nההשפעה העקיפה: כשחברה פרטית מתקרבת לטריליון דולר, זה מעלה לחץ על OpenAI ו-Google להגיב - בין אם בגיוסי הון, רכישות, או מהלכים אסטרטגיים. שוק ה-AI לא מאט.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "השקעות",
+        "הערכות"
       ]
     }
   ]
