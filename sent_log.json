@@ -20,7 +20,8 @@
     "e89f89fa9ababb1d": "2026-05-29T08:42:10.267267+00:00",
     "c5fa25fac2f63713": "2026-05-29T12:15:11.157729+00:00",
     "a35081e286546299": "2026-05-29T16:42:26.802050+00:00",
-    "e8a8cb13dbe76598": "2026-05-29T19:32:43.244100+00:00"
+    "e8a8cb13dbe76598": "2026-05-29T19:32:43.244100+00:00",
+    "43d3117281685b6f": "2026-05-29T21:52:14.404829+00:00"
   },
   "messages": [
     {
@@ -301,6 +302,19 @@
         "מאקרו",
         "רצסיה",
         "כלכלה"
+      ]
+    },
+    {
+      "sent_at": "2026-05-29T21:52:14.404829+00:00",
+      "title": "The U.S. Space Force awarded SpaceX a $4.16B contract for a new satellite constellation that can track aircraft, cruise missiles and airborne threats globally from orbit. The program is called Space-Based Airborne Moving Target Indicator, or SB-AMTI. Space Force says the goal is to give the Joint Force persistent tracking of contested airspace from space, as traditional airborne platforms face growing pressure from advanced air-defense systems. The initial SpaceX award is expected to field a constellation by 2028.",
+      "source": "Twitter @wallstengine",
+      "message": "חוזה של 4.16 מיליארד דולר ל-SpaceX מה-Space Force - זה לא עוד לווין צבאי רגיל.\n\nהפרויקט נקרא SB-AMTI, ומטרתו לעקוב ממסלול חלל אחרי מטוסים, טילי שיוט ואיומים אוויריים - בזמן אמת, בכל מקום בעולם. ההצדקה: מערכות ההגנה האווירית המודרניות הפכו את המטוסים הסיוריים המסורתיים לפגיעים מדי.\n\nההשפעה העקיפה: זה דחיפה נוספת לשוק ה-defense tech. חברות כמו Palantir ו-L3Harris, שמספקות מערכות ניתוח נתוני מודיעין, יכולות להיות שחקניות מרכזיות בשלבים הבאים של הפרויקט.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "SpaceX",
+        "תשתיות",
+        "ביטחון"
       ]
     }
   ]
