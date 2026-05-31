@@ -22,7 +22,8 @@
     "a35081e286546299": "2026-05-29T16:42:26.802050+00:00",
     "e8a8cb13dbe76598": "2026-05-29T19:32:43.244100+00:00",
     "43d3117281685b6f": "2026-05-29T21:52:14.404829+00:00",
-    "c183c0f10a1e48eb": "2026-05-31T08:14:01.467378+00:00"
+    "c183c0f10a1e48eb": "2026-05-31T08:14:01.467378+00:00",
+    "e37f30928a3ad45b": "2026-05-31T10:56:19.792459+00:00"
   },
   "messages": [
     {
@@ -330,6 +331,20 @@
         "תשתיות",
         "השקעות",
         "אירופה"
+      ]
+    },
+    {
+      "sent_at": "2026-05-31T10:56:19.792459+00:00",
+      "title": "Axios reports $NVDA and Microsoft $MSFT are expected to unveil the first Windows computers using Nvidia chips as the main processor. The launch is expected at Computex in Taiwan and Microsoft Build in San Francisco. Devices are expected from Microsoft Surface and Dell. Microsoft is also expected to unveil software that lets users run AI agents locally on Windows PCs.",
+      "source": "Twitter @wallstengine",
+      "message": "בשבועות הקרובים, NVIDIA ו-Microsoft צפויות להכריז על מחשבי Windows הראשונים שבהם המעבד הראשי הוא שבב של NVIDIA - לא Intel ולא AMD.\n\nההשקה מתוכננת ל-Computex בטייוואן וכנס Build בסן פרנסיסקו. Dell ו-Surface כבר בפנים.\n\nמה שמעניין כאן יותר מהחומרה: Microsoft אמורה לשחרר גם תוכנה להרצת סוכני AI ישירות על המחשב, בלי ענן. זה שינוי שיכול להכאיב לחברות תשתית ענן - כולל של Microsoft עצמה.\n\nIntel ו-AMD שווה לעקוב אחריהן בימים הקרובים.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "Nvidia",
+        "Microsoft",
+        "AI",
+        "חומרה"
       ]
     }
   ]
