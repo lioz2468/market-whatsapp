@@ -28,7 +28,8 @@
     "f23006c69788af6a": "2026-05-31T14:43:15.828733+00:00",
     "c0a5c30aa6f23b25": "2026-05-31T16:06:16.172551+00:00",
     "f295f9d7af7bc2d3": "2026-05-31T18:00:32.412543+00:00",
-    "29cffdd986aca57d": "2026-05-31T19:37:56.911651+00:00"
+    "29cffdd986aca57d": "2026-05-31T19:37:56.911651+00:00",
+    "444b924c4c7ba9b7": "2026-05-31T20:57:50.460403+00:00"
   },
   "messages": [
     {
@@ -416,6 +417,20 @@
         "בנקאות",
         "AI",
         "טכנולוגיה"
+      ]
+    },
+    {
+      "sent_at": "2026-05-31T20:57:50.460403+00:00",
+      "title": "U.S. CLOSES AI CHIP EXPORT LOOPHOLE The Commerce Department moved to halt potential shipments of advanced $NVDA and $AMD AI chips to Chinese subsidiaries located outside China. New guidance requires export licenses for entities headquartered in China, regardless of physical location. The impacted chips include Nvidia Blackwell/Rubin and AMD MI350x, while existing data centers can keep using and servicing chips they already own.",
+      "source": "Twitter @wallstengine",
+      "message": "ארה\"ב סגרה פרצה שאפשרה לחברות סיניות לקנות שבבי AI מתקדמים דרך חברות בנות מחוץ לסין. מעכשיו, כל חברה שמרכזה בסין צריכה רישיון ייצוא - לא משנה איפה היא פועלת פיזית. השבבים המושפעים: סדרות Blackwell ו-Rubin של NVIDIA וה-MI350x של AMD.\n\nמה שמעניין פה: מרכזי נתונים בסינגפור, מלזיה ואמירויות שהיו יכולים לעקוף את ההגבלות - נסגרת להם הדלת. זה גם לחץ ישיר על מדינות שמארחות תשתיות AI של חברות סיניות.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "סנקציות",
+        "טכנולוגיה",
+        "סין",
+        "שבבים"
       ]
     }
   ]
