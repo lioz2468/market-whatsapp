@@ -39,7 +39,8 @@
     "5ccbba8f6a43aac1": "2026-06-02T21:47:39.526330+00:00",
     "9a9d294cffe4c0bc": "2026-06-03T09:25:16.302044+00:00",
     "70618f3afb85c789": "2026-06-03T14:27:58.444853+00:00",
-    "c149d7ee96af952b": "2026-06-03T18:43:39.580244+00:00"
+    "c149d7ee96af952b": "2026-06-03T18:43:39.580244+00:00",
+    "49dbdcf3470da856": "2026-06-03T21:47:59.422977+00:00"
   },
   "messages": [
     {
@@ -574,6 +575,19 @@
         "IPO",
         "טכנולוגיה",
         "זרימת הון"
+      ]
+    },
+    {
+      "sent_at": "2026-06-03T21:47:59.422977+00:00",
+      "title": "$AVGO CEO ON AI SEMI GROWTH During the Q, bookings for AI semiconductors were over $30B, For H2, We expect AI semiconductor rev to 2X from the H1 For the FY26 we expect to achieve AI semiconductor rev of $56B, up 180% YoY. Reiterate AI semi rev guide to be in excess of $100B",
+      "source": "Twitter @wallstengine",
+      "message": "הכנסות ה-AI של Broadcom ($AVGO) צפויות לקפוץ ב-180% השנה ולהגיע ל-56 מיליארד דולר - ובשנת 2026 החברה מצפה לעבור את רף ה-100 מיליארד.\n\nמה שמעניין פה: רוב השיחה על סמיכי AI מתמקדת ב-NVIDIA, אבל Broadcom היא השחקנית הגדולה שבונה את הצ'יפים המותאמים אישית של גוגל, מטא ואפל. כשהיא מדברת על הזמנות של 30 מיליארד ברבעון אחד - זה אומר שהלקוחות שלה ממשיכים לדחוף קדימה בלי היסוס.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "סמיכים",
+        "גדילה"
       ]
     }
   ]
