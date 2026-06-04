@@ -41,7 +41,8 @@
     "70618f3afb85c789": "2026-06-03T14:27:58.444853+00:00",
     "c149d7ee96af952b": "2026-06-03T18:43:39.580244+00:00",
     "49dbdcf3470da856": "2026-06-03T21:47:59.422977+00:00",
-    "d351b788131f31cc": "2026-06-04T08:46:49.420444+00:00"
+    "d351b788131f31cc": "2026-06-04T08:46:49.420444+00:00",
+    "9dd238db0495c7c1": "2026-06-04T11:51:42.337127+00:00"
   },
   "messages": [
     {
@@ -603,6 +604,20 @@
         "חישוביות",
         "תשתיות",
         "LLM"
+      ]
+    },
+    {
+      "sent_at": "2026-06-04T11:51:42.337127+00:00",
+      "title": "AMAZON EXPANDS ROBOTICS, FAST DELIVERY AND WORKER TRAINING $AMZN unveiled a next-gen Proteus robot that can move items across fulfillment sites and take plain-text instructions from employees. Europe deployment is planned for H1 2027. Amazon is investing €10B+ to modernize European fulfillment centers with robotics and add 25,000 jobs. STARK, its robotic tote-handling system, will expand to 15 European sites by 2027. Amazon Now 30-minute grocery and essentials delivery is expanding internationally, including London now and Manchester/Birmingham later this year. Sub Same-Day Delivery will expand to 25+ European locations, with 5 p.m. order cutoff and 10 p.m. delivery. Amazon is also committing $1B to Career Choice by 2030. More than 300,000 employees have already participated globally. Amazon now has 50,000 electric delivery vans and has passed 100M micromobility deliveries in Europe.",
+      "source": "Twitter @wallstengine",
+      "message": "אמזון משקיעה יותר מ-10 מיליארד אירו בשדרוג מרכזי הלוגיסטיקה שלה באירופה - רובוטיקה, 25,000 משרות חדשות, ומשלוחים של 30 דקות בלונדון (ובקרוב גם בברמינגהם ומנצ'סטר).\n\nהרובוט החדש שלהם, Proteus, מקבל הוראות בשפה רגילה מעובדים. פחות תסריטים קשיחים, יותר גמישות בשטח.\n\nמי שכדאי לשים אליו לב: UPS, FedEx וחברות לוגיסטיקה אירופאיות שמרגישות את הלחץ הישיר. כשאמזון משדרגת את מהירות המשלוח, כולם נאלצים לרוץ אחריה.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "רובוטיקה",
+        "תשתיות",
+        "אוטומציה",
+        "משלוח"
       ]
     }
   ]
