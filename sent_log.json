@@ -40,7 +40,8 @@
     "9a9d294cffe4c0bc": "2026-06-03T09:25:16.302044+00:00",
     "70618f3afb85c789": "2026-06-03T14:27:58.444853+00:00",
     "c149d7ee96af952b": "2026-06-03T18:43:39.580244+00:00",
-    "49dbdcf3470da856": "2026-06-03T21:47:59.422977+00:00"
+    "49dbdcf3470da856": "2026-06-03T21:47:59.422977+00:00",
+    "d351b788131f31cc": "2026-06-04T08:46:49.420444+00:00"
   },
   "messages": [
     {
@@ -588,6 +589,20 @@
         "AI",
         "סמיכים",
         "גדילה"
+      ]
+    },
+    {
+      "sent_at": "2026-06-04T08:46:49.420444+00:00",
+      "title": "$AVGO CEO ON ENTERPRISE AI DEMAND “Enterprise consuming AI is still relatively at an early stage of the game.” “Most of these token consumption are tied to those LLMs... Anthropic, OpenAI, Gemini. That’s what’s driving this very large... insatiable growth in compute capacity that we are experiencing.” “We see that continuing... through 2027 and... through 2028 as well.”",
+      "source": "Twitter @wallstengine",
+      "message": "המנכ\"ל של Broadcom אמר משהו שכדאי לשמור: הביקוש של ארגונים ל-AI עוד בשלבים מוקדמים מאוד, ורוב צריכת המחשוב מגיעה מהמודלים הגדולים - Anthropic, OpenAI, Gemini. הוא רואה את הצמיחה הזו ממשיכה עד 2027-2028.\n\nהמשמעות: עוד לא ראינו את עיקר הגל. מי שמספק תשתיות - שבבים, מרכזי נתונים, קירור, חשמל - עדיין בתחילת הדרך. זה לא רק Broadcom, זה כל מחסנית התשתית שמתחת ל-AI.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "חישוביות",
+        "תשתיות",
+        "LLM"
       ]
     }
   ]
