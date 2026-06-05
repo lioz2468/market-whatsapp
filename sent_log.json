@@ -45,7 +45,8 @@
     "9dd238db0495c7c1": "2026-06-04T11:51:42.337127+00:00",
     "215134ebea8a8e46": "2026-06-04T14:54:46.033897+00:00",
     "ff70e8bd5cf57927": "2026-06-04T17:44:58.771780+00:00",
-    "637e7ecc02c3a798": "2026-06-04T20:03:08.559217+00:00"
+    "637e7ecc02c3a798": "2026-06-04T20:03:08.559217+00:00",
+    "a3b9779da8a5b7d0": "2026-06-05T08:43:37.649029+00:00"
   },
   "messages": [
     {
@@ -659,6 +660,19 @@
       "topics": [
         "אנרגיה",
         "פוליטיקה בינלאומית"
+      ]
+    },
+    {
+      "sent_at": "2026-06-05T08:43:37.649029+00:00",
+      "title": "U.S. officials have held preliminary talks about the government acquiring shares in major AI companies, per NOTUS. Sam Altman has discussed the idea with Trump administration officials, including a direct pitch to Trump in early 2025. The discussions have focused on companies voluntarily ceding shares to the government, not selling them. Returns could be used for public purposes, including a potential dividend to American households. Anthropic is reportedly not in talks with the administration on providing equity.",
+      "source": "Twitter @wallstengine",
+      "message": "ממשל טראמפ מנהל שיחות מקדמיות על קבלת מניות בחברות AI גדולות - לא רכישה, אלא ויתור וולונטרי של החברות לטובת הממשלה. סם אלטמן כבר הציג את הרעיון ישירות לטראמפ בתחילת 2025. ההכנסות יכולות לשמש למטרות ציבוריות, כולל דיבידנד ישיר לאזרחים.\n\nזה יכול לשנות הרבה: חברה שמעניקה מניות לממשלה מקבלת בתמורה הגנה רגולטורית. ה-startups הקטנים שלא יכולים להציע כלום בתמורה - נשארים חשופים. Anthropic כבר בחרה לא להיות חלק מהשיחות האלה, וזה אומר משהו.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "פוליטיקה רגולטורית",
+        "Sam Altman"
       ]
     }
   ]
