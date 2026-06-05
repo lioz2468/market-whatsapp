@@ -46,7 +46,8 @@
     "215134ebea8a8e46": "2026-06-04T14:54:46.033897+00:00",
     "ff70e8bd5cf57927": "2026-06-04T17:44:58.771780+00:00",
     "637e7ecc02c3a798": "2026-06-04T20:03:08.559217+00:00",
-    "a3b9779da8a5b7d0": "2026-06-05T08:43:37.649029+00:00"
+    "a3b9779da8a5b7d0": "2026-06-05T08:43:37.649029+00:00",
+    "efcf19d6586d68df": "2026-06-05T12:08:27.608106+00:00"
   },
   "messages": [
     {
@@ -673,6 +674,19 @@
         "AI",
         "פוליטיקה רגולטורית",
         "Sam Altman"
+      ]
+    },
+    {
+      "sent_at": "2026-06-05T12:08:27.608106+00:00",
+      "title": "JPMorgan Upgrades $TSLA to Neutral, Raises PT to $475 from $145 Analyst comments: \"Following our recent assumption of coverage, we move to Neutral from Underweight on TSLA shares and establish a December 2027 price target of $475. TSLA is at the forefront of physical AI, entering uncharted TAMs, and its ability to execute will be key to accelerating adoption and increasing the size of these TAMs themselves, the Jevons paradox. The unique advantage TSLA has, unmatched at an industrial-level scale, is the degree of vertical integration, which is increasing further over time, across all the hardware and software products it builds, combined with the efficacy and speed of technology development. We believe this aspect, while largely known at a high level, is still somewhat underappreciated and misunderstood for the sheer starting-point advantage it brings. Using cell and vehicle production factories as a test bed for Optimus/humanoids should not only lower COGS for the base automotive business, but more importantly, help validate the product at an industrial scale, and also drive down its cost, for enterprise and commercial adoption, with a U.S./global TAM of ~5 million/~30 million humanoids by 2040E. This is a classic flywheel effect, somewhat analogous to AWS and Kiva at Amazon. Same with robotaxi: while data is already present, with ~10 billion miles recorded and personal fleet scale of ~9 million on the road today, rolling out autonomous vehicles to more regions and cities, capturing more edge cases, and improving the efficacy of camera-only vision should help generate significant network effects across both robotaxi adoption/pricing and personal FSD adoption, with ~35 million personal TSLA fleet and ~40 million TSLA robotaxis by 2040E. The ensuing returns on R&D and increased manufacturing efficiency, with potential for ~5% reduction in COGS from Optimus, could then allow for significant pricing competitiveness in the base automotive business, providing optionality to reaccelerate EV adoption and Supercharger utilization, with feedback loops into FSD and robotaxi adoption.\" Analyst: Rajat Gupta",
+      "source": "Twitter @wallstengine",
+      "message": "JPMorgan שינה את הדירוג של Tesla מ\"מכירה\" ל\"ניטרלי\" והעלה את יעד המחיר מ-145 דולר ל-475 - זינוק של יותר מפי שלושה.\n\nהסיבה לא קשורה לרכבים חשמליים. האנליסט טוען ש-Tesla היא בעצם חברת AI ורובוטיקה שעוד מייצרת מכוניות - עם יתרון ייצורי שמאפשר לה לפתח ולבדוק רובוטים אנושיים (Optimus) בסקייל תעשייתי שאף אחד אחר לא מגיע אליו.\n\nמי עוד יושפע: ספקי רכיבים לרובוטיקה, מתחרות כמו Boston Dynamics, ואולי הכי מעניין - חברות logistics שעשויות להיות הלקוחות הראשונות.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "Tesla",
+        "AI",
+        "רובוטיקה"
       ]
     }
   ]
