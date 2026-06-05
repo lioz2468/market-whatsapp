@@ -49,7 +49,8 @@
     "a3b9779da8a5b7d0": "2026-06-05T08:43:37.649029+00:00",
     "efcf19d6586d68df": "2026-06-05T12:08:27.608106+00:00",
     "3272d24d235b6179": "2026-06-05T15:52:06.091053+00:00",
-    "e41c7ed1c9ef344e": "2026-06-05T17:52:59.042194+00:00"
+    "e41c7ed1c9ef344e": "2026-06-05T17:52:59.042194+00:00",
+    "90933fbcae3dd2a4": "2026-06-05T19:52:15.626517+00:00"
   },
   "messages": [
     {
@@ -715,6 +716,19 @@
         "פד",
         "תעסוקה",
         "ריבית"
+      ]
+    },
+    {
+      "sent_at": "2026-06-05T19:52:15.626517+00:00",
+      "title": "SpaceX entered a cloud services agreement with Google for compute capacity, including ~110,000 NVIDIA GPUs, CPUs, memory, and related components. $SPCX agreed to pay Google $920M per month from October 2026 through June 2029, with capacity ramping through September 2026. If full access is not delivered by September 30, 2026, Google will apply a corresponding pro-rata reduction to the monthly fees. The agreement can be terminated after December 31, 2026 with 90 days’ notice, while SpaceX retains ownership of its content, AI models, and related data.",
+      "source": "Twitter @wallstengine",
+      "message": "SpaceX תשלם ל-Google כמעט מיליארד דולר בחודש תמורת כוח מחשוב - 920 מיליון דולר לחודש מאוקטובר 2026 ועד יוני 2029. החוזה כולל כ-110,000 כרטיסי GPU של NVIDIA.\n\nפה קורה משהו מעניין: SpaceX, שמפעילה את Starlink וצי לוויינים ענק, זקוקה לכמות חישוב שלא יכולה לבנות לבד מספיק מהר. אז היא פשוט קונה אותה מ-Google.\n\nההשפעה העקיפה: זה אות נוסף לכך שהביקוש לתשתיות AI גדול בהרבה ממה שהשוק תימחר - טוב לכל מי שנמצא בשרשרת: NVIDIA, ספקי אנרגיה, חברות קולוקיישן.",
+      "importance": 10,
+      "tag": "ארה\"ב",
+      "topics": [
+        "בינה מלאכותית",
+        "ענן",
+        "תשתיות חישוב"
       ]
     }
   ]
