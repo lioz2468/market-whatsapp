@@ -62,7 +62,8 @@
     "52b276c2baec05c8": "2026-06-07T21:11:10.274195+00:00",
     "7e5183c94697c630": "2026-06-08T08:16:16.717926+00:00",
     "ae62b4626e0963fd": "2026-06-08T09:22:41.230758+00:00",
-    "6cf64d631b2f1232": "2026-06-08T14:05:39.830292+00:00"
+    "6cf64d631b2f1232": "2026-06-08T14:05:39.830292+00:00",
+    "17c8f3b34e1a2726": "2026-06-08T17:51:52.324983+00:00"
   },
   "messages": [
     {
@@ -899,6 +900,19 @@
         "AI",
         "תשתיות",
         "חלל"
+      ]
+    },
+    {
+      "sent_at": "2026-06-08T17:51:52.324983+00:00",
+      "title": "Samsung chip chief Jun Young-hyun met Jensen Huang in Seoul to discuss next-generation semiconductor cooperation. Samsung and $NVDA are already working together on autonomous driving chips and AI accelerator chips. The talks covered short-term cooperation around HBM4 and foundry operations, along with longer-term work on HBM4E and HBM5. Samsung is also collaborating with Nvidia on 4nm and 8nm autonomous driving chips.",
+      "source": "Twitter @wallstengine",
+      "message": "ג'נסן הואנג נפגש בסיאול עם מנהל שבבי Samsung לדיון על שיתוף פעולה בדור הבא של שבבי AI ורכב אוטונומי. על השולחן: HBM4 ו-HBM5 - זיכרונות הבנדוויד' המהיר שכל מאיץ AI צריך - ועבודה משותפת על מפעלי ייצור.\n\nזה חשוב כי Nvidia מנסה לגוון את שרשרת האספקה שלה מעבר ל-SK Hynix. אם Samsung תצליח להיכנס רצינית לתמונה - זה ישנה את מאזן הכוחות בשוק זיכרון ה-AI כולו.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "סמיקונדקטורים",
+        "בינה מלאכותית",
+        "סמסונג-אנווידיה"
       ]
     }
   ]
