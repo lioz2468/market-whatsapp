@@ -76,22 +76,6 @@ RSS_FEEDS = [
         "url":  "https://seekingalpha.com/market_currents.xml",
         "lang": "en",
     },
-    # ── Financial Times ───────────────────────────────────────────────────
-    {
-        "name": "FT Markets",
-        "url":  "https://www.ft.com/markets?format=rss",
-        "lang": "en",
-    },
-    {
-        "name": "FT Global Economy",
-        "url":  "https://www.ft.com/global-economy?format=rss",
-        "lang": "en",
-    },
-    {
-        "name": "FT Companies",
-        "url":  "https://www.ft.com/companies?format=rss",
-        "lang": "en",
-    },
     # ── English — Startups & M&A ───────────────────────────────────────────
     {
         "name": "TechCrunch",
