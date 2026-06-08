@@ -63,7 +63,8 @@
     "7e5183c94697c630": "2026-06-08T08:16:16.717926+00:00",
     "ae62b4626e0963fd": "2026-06-08T09:22:41.230758+00:00",
     "6cf64d631b2f1232": "2026-06-08T14:05:39.830292+00:00",
-    "17c8f3b34e1a2726": "2026-06-08T17:51:52.324983+00:00"
+    "17c8f3b34e1a2726": "2026-06-08T17:51:52.324983+00:00",
+    "7c36045daaa3b092": "2026-06-08T20:12:15.872623+00:00"
   },
   "messages": [
     {
@@ -913,6 +914,19 @@
         "סמיקונדקטורים",
         "בינה מלאכותית",
         "סמסונג-אנווידיה"
+      ]
+    },
+    {
+      "sent_at": "2026-06-08T20:12:15.872623+00:00",
+      "title": "Google and $NVDA are considering Intel $INTC as a backup chip manufacturer as TSMC capacity remains tight, per The Information. Google has reportedly placed an order with Intel to manufacture more than 3M TPUs in 2028 after testing Intel’s advanced packaging technology. Nvidia has not placed an order yet, but is testing Intel technology for a 2028 Feynman-series processor that combines four graphics chips into one unit. Intel’s near-term opening appears to be advanced packaging, with SK Hynix also testing whether its HBM works reliably with Intel packaging.",
+      "source": "Twitter @wallstengine",
+      "message": "Google הזמינה מ-Intel מעל 3 מיליון מעבדי AI לשנת 2028 - וגם NVIDIA בוחנת שיתוף פעולה דומה. הרקע: הקיבולת של TSMC פשוט לא מספיקה לכולם.\n\nהפתח של Intel לא בייצור שבבים עצמם אלא באריזה מתקדמת - טכנולוגיה שמחברת כמה שבבים לרכיב אחד. SK Hynix כבר בודקת אם זיכרון ה-HBM שלה עובד עם הפתרון הזה.\n\nמי שכדאי לשים אליו לב: חברות ציוד הייצור שעובדות עם Intel - הן ירוויחו מכל הזמנה כזו הרבה לפני שהמוצר יוצא לשוק.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "צ'יפים",
+        "AI",
+        "אספקה"
       ]
     }
   ]
