@@ -72,7 +72,8 @@
     "642abdaeefd16398": "2026-06-09T20:56:02.295091+00:00",
     "58aec6f5a10199d1": "2026-06-10T08:48:22.492567+00:00",
     "1d43f511f43b2128": "2026-06-10T12:19:44.750045+00:00",
-    "ffc0965ec1983bfd": "2026-06-10T16:35:15.049185+00:00"
+    "ffc0965ec1983bfd": "2026-06-10T16:35:15.049185+00:00",
+    "0c12d28cc3102413": "2026-06-10T19:34:08.939126+00:00"
   },
   "messages": [
     {
@@ -1042,6 +1043,19 @@
         "SpaceX",
         "IPO",
         "תרחישי-עסקיים"
+      ]
+    },
+    {
+      "sent_at": "2026-06-10T19:34:08.939126+00:00",
+      "title": "SoftBank’s talks for a $6B margin loan backed by its OpenAI stake have stalled, per Bloomberg. The target had already been cut from $10B after lender hesitation, with SoftBank reportedly securing about $5B before the latest snag. Shares fell as much as 9.7%, due to rising concern on how it funds $60B+ of OpenAI commitments.",
+      "source": "Twitter @wallstengine",
+      "message": "המניה של SoftBank צנחה כמעט 10% אחרי שנודע שהמשא ומתן לגיוס הלוואה של 6 מיליארד דולר - כשהבטוחה היא החזקה שלהם ב-OpenAI - נתקע. זה לא סתם תקלה טכנית: SoftBank התחייבה להשקיע למעלה מ-60 מיליארד דולר ב-OpenAI, והשוק מתחיל לשאול שאלות רציניות על איך בדיוק הם מתכננים לממן את זה.\n\nמה שמעניין כאן זה לא רק SoftBank - זה שהמלווים עצמם מגלים היסוס. כשבנקים לא ממהרים לקחת כבטוחה חלק ב-OpenAI, זה אומר משהו על איך הם מעריכים את השווי בפועל מול מה שמוצג לציבור.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "מימון",
+        "סיכון",
+        "AI"
       ]
     }
   ]
