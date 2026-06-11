@@ -74,7 +74,8 @@
     "1d43f511f43b2128": "2026-06-10T12:19:44.750045+00:00",
     "ffc0965ec1983bfd": "2026-06-10T16:35:15.049185+00:00",
     "0c12d28cc3102413": "2026-06-10T19:34:08.939126+00:00",
-    "5e3365f8685b2f89": "2026-06-10T22:00:14.512142+00:00"
+    "5e3365f8685b2f89": "2026-06-10T22:00:14.512142+00:00",
+    "33e0189691a588dc": "2026-06-11T09:12:02.864389+00:00"
   },
   "messages": [
     {
@@ -1070,6 +1071,20 @@
         "אינפלציה",
         "מדיניות מוניטרית",
         "CPI"
+      ]
+    },
+    {
+      "sent_at": "2026-06-11T09:12:02.864389+00:00",
+      "title": "U.S. officials are reportedly pressing China over delays in indium phosphide export approvals, as the material becomes a bottleneck for AI data center buildouts. Reuters says Coherent CEO Jim Anderson raised the issue during a U.S. business delegation trip to China in May, and it was also discussed in U.S.-China trade talks in Seoul. FWIW: InP is critical for photonic chips used in high-speed AI infrastructure. AXT $AXTI says InP export permits are its biggest current challenge. Coherent $COHR warned of an InP shortage in May. Lumentum $LITE is reportedly sold out through 2028 despite quadrupling output. 6-inch InP wafer prices are up 250% to around $5,000.",
+      "source": "Twitter @wallstengine",
+      "message": "מחיר ה-InP (אינדיום פוספיד) קפץ 250% ועומד על כ-5,000 דולר לוופר. זה לא סתם ספקולציה על חומרי גלם - זה צוואר בקבוק אמיתי בתשתיות ה-AI.\n\nInP הוא החומר שממנו עושים שבבים פוטוניים להעברת נתונים במהירות גבוהה במרכזי הענן. בלעדיו, קשה להרחיב את מרכזי הנתונים שמריצים את ה-AI. הבעיה: סין שולטת בייצוא ומאטה את האישורים.\n\nLumentum נמכרת עד 2028, Coherent וAXT מדברות על מחסור פומבי - וזה כבר על שולחן השיחות הדיפלומטיות בסיאול.\n\nמי שיושפע שלא רואים במבט ראשון: ספקיות הענן הגדולות שמחכות לתשתיות, ויצרניות השרתים שמתכננות הרחבות.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "שרשרת אספקה",
+        "סיני אמריקני",
+        "מחירים"
       ]
     }
   ]
