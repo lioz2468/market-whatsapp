@@ -97,7 +97,8 @@
     "cf648d567aad2cdf": "2026-06-16T10:06:12.617531+00:00",
     "82a595fb32ec0bf8": "2026-06-16T15:53:01.785334+00:00",
     "e50873ac94f4e50c": "2026-06-16T19:33:23.521501+00:00",
-    "840f8071167bb138": "2026-06-16T22:10:14.265163+00:00"
+    "840f8071167bb138": "2026-06-16T22:10:14.265163+00:00",
+    "d18d72675c0a7c5b": "2026-06-17T09:29:27.264335+00:00"
   },
   "messages": [
     {
@@ -1396,6 +1397,20 @@
         "GDP",
         "כלכלה",
         "מאקרו"
+      ]
+    },
+    {
+      "sent_at": "2026-06-17T09:29:27.264335+00:00",
+      "title": "BLOOMBERG PUBLISHES REPORTED 14-POINT DRAFT US-IRAN MOU 1. The US, Iran, and their allies would declare an immediate and permanent end to the war on all fronts, including Lebanon, and agree not to launch hostile action or threaten force against each other. 2. Both sides would agree to respect each other’s sovereignty and territorial integrity, and avoid interference in internal affairs. 3. The US and Iran would negotiate a final agreement within 60 days, with an extension possible by mutual consent. 4. The US would immediately lift the naval blockade on Iran and restore traffic within 30 days. The US would also withdraw forces from surrounding areas within 30 days after a final agreement. 5. Iran would take steps to restore merchant ship movement between the Persian Gulf and the Sea of Oman within 30 days, while handling technical obstacles and mine removal. 6. The US, with regional partners, would create an economic rehabilitation and development plan for Iran with at least $300B in financing. 7. The US would commit to ending sanctions on Iran under a schedule agreed in the final agreement, including UN, IAEA, and unilateral US primary and secondary sanctions. 8. Iran reiterates it will never produce nuclear weapons. The final agreement would address enriched material, Iran’s nuclear needs, and other nuclear-related issues. 9. Until a final deal, both sides would maintain the status quo: Iran on its nuclear program, and the US on new sanctions and regional force buildup. 10. Immediately after signing the MoU, the US Treasury would issue waivers allowing exports of Iranian crude oil, petrochemicals, and related services including banking, insurance, and transportation. 11. Frozen or restricted Iranian funds would be released and made fully available, with the US issuing necessary permits and licenses. 12. Both sides would establish an implementation mechanism to oversee the agreement. 13. After initial implementation of provisions on Hormuz traffic, oil waivers, and frozen assets, the US and Iran would enter final agreement talks on the remaining articles. 14. The final agreement would be approved through a binding UN Security Council resolution.",
+      "source": "Twitter @wallstengine",
+      "message": "בלומברג פרסם טיוטת הסכם של 14 סעיפים בין ארה\"ב לאיראן. אם זה יתממש - זה שינוי גיאופוליטי של ממש: הפסקת סנקציות, שחרור נכסים קפואים, 300 מיליארד דולר בתוכנית שיקום כלכלי לאיראן, ופתיחת מיצר הורמוז לתנועה חופשית. נפט איראני יחזור לשוק, מה שישפיע ישירות על מחירי האנרגיה בעולם. שווה לעקוב - לא כל יום רואים טיוטה בסדר גודל כזה מגיעה לציבור.",
+      "importance": 10,
+      "tag": "גלובלי",
+      "topics": [
+        "גיאופוליטיקה",
+        "סנקציות",
+        "אנרגיה",
+        "סחר"
       ]
     }
   ]
