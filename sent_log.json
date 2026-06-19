@@ -108,7 +108,8 @@
     "2ff0447d1beb1c4d": "2026-06-18T16:29:18.816326+00:00",
     "14dabd2b013f79dd": "2026-06-18T19:26:24.163285+00:00",
     "92877d066158f4e7": "2026-06-18T22:06:13.994491+00:00",
-    "f6ab557ed47fb86a": "2026-06-19T09:27:54.183009+00:00"
+    "f6ab557ed47fb86a": "2026-06-19T09:27:54.183009+00:00",
+    "bcff09bbe304428f": "2026-06-19T13:34:37.088557+00:00"
   },
   "messages": [
     {
@@ -1552,6 +1553,19 @@
         "צ'יפים",
         "סנקציות",
         "סחר"
+      ]
+    },
+    {
+      "sent_at": "2026-06-19T13:34:37.088557+00:00",
+      "title": "WSJ has a wild phrase for $NVDA's AI cloud leverage: “Jensen jail.” Some neo-clouds reportedly worry that if they stop buying Nvidia’s full stack, they could lose future GPU allocations. It is not just the chips. It is the allocation, the networking, CUDA, the financing relationships, and the fear of being cut out of supply. Google is using TPUs and its balance sheet to give customers another path. It has backed TPU data-center projects with multibillion-dollar guarantees, including a $3.2B guarantee tied to Anthropic’s Lake Mariner project. It also joined Blackstone on a $5B TPU cloud venture aimed at competing with Nvidia-backed CoreWeave and Nebius. Citadel Securities is already using Google TPUs for some workloads and told WSJ it can run key workloads at 30% lower cost and up to 4x faster.",
+      "source": "Twitter @wallstengine",
+      "message": "ה-WSJ טבעו מונח שמסביר הרבה על עסקי ה-AI cloud: \"כלא ג'נסן\". חלק מספקי הענן הקטנים חוששים שאם יפסיקו לקנות את הסט המלא של NVIDIA - שבבים, רשתות, CUDA, מימון - הם פשוט יאבדו את ההקצאות העתידיות.\n\nGoogle מנסה לשבור את זה. היא מגבה פרויקטי TPU במיליארדים, כולל ערבות של 3.2 מיליארד דולר לפרויקט של Anthropic, ועוד 5 מיליארד בשותפות עם Blackstone. Citadel Securities כבר מדווחת שהיא מריצה עומסי עבודה מסוימים על TPU במחיר נמוך ב-30% ומהירות כפולה.\n\nמי שצריך לשים לב: ספקי תוכנה שבנו הכל על CUDA.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "חומרה",
+        "תחרות"
       ]
     }
   ]
