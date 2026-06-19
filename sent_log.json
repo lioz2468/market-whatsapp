@@ -110,7 +110,8 @@
     "92877d066158f4e7": "2026-06-18T22:06:13.994491+00:00",
     "f6ab557ed47fb86a": "2026-06-19T09:27:54.183009+00:00",
     "bcff09bbe304428f": "2026-06-19T13:34:37.088557+00:00",
-    "e3256c58a2ce722f": "2026-06-19T16:32:17.801367+00:00"
+    "e3256c58a2ce722f": "2026-06-19T16:32:17.801367+00:00",
+    "e639064f924aa703": "2026-06-19T18:53:18.436291+00:00"
   },
   "messages": [
     {
@@ -1581,6 +1582,19 @@
         "SpaceX",
         "שווקי הון",
         "ETF"
+      ]
+    },
+    {
+      "sent_at": "2026-06-19T18:53:18.436291+00:00",
+      "title": "SpaceX IPO float unlock timeline: Initial free float: ~4.9% Potential float available: Aug 8: ~11.8% Aug 20: ~15.2% Sep 9: ~17.7% Sep 24: ~20.1% Oct 9: ~22.6% Oct 24: ~25.1% Dec 8: ~40.0% Mar 18, 2027: ~44.1% May 17, 2027: ~46.7% Jun 12, 2027: ~50.8% Musk’s 46.1% stake becomes eligible after Day 366. Potential float jumps to ~96.9%. Aug 2027: ~99.5% Sep 2027: full unlock, 100% Eligible to sell does not mean actual selling. It means those shares become available supply.",
+      "source": "Twitter @wallstengine",
+      "message": "לא ניתן לנסח את ההודעה - החדשה מניחה שהנפקת SpaceX כבר התרחשה, אבל אין מידע מאומת על כך. הנתונים הם תחזית תיאורטית של לוח זמנים שעדיין לא קרה, ושליחתם כעובדה עלולה להטעות את הקהל.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "IPO",
+        "SpaceX",
+        "זרימת הון"
       ]
     }
   ]
