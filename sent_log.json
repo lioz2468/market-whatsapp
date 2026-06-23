@@ -126,7 +126,8 @@
     "3b658270a1840967": "2026-06-23T08:28:25.075095+00:00",
     "cadb605c03fb8116": "2026-06-23T11:59:50.045994+00:00",
     "6a61bfb7c6242e99": "2026-06-23T15:16:21.016232+00:00",
-    "9b7436e1217da612": "2026-06-23T17:51:30.623926+00:00"
+    "9b7436e1217da612": "2026-06-23T17:51:30.623926+00:00",
+    "831ccb8b2b654ca7": "2026-06-23T19:59:55.270499+00:00"
   },
   "messages": [
     {
@@ -1806,6 +1807,19 @@
         "פנסיה",
         "מדיניות פיסקלית",
         "אוכלוסייה"
+      ]
+    },
+    {
+      "sent_at": "2026-06-23T19:59:55.270499+00:00",
+      "title": "Blackstone $BX plans to invest $30B in AI data centers in Japan over the next 3-5 years, Blackstone President Jonathan Gray told Nikkei. Blackstone has already developed 500MW+ of data centers in Japan and is now discussing projects exceeding 1GW. Gray said AI compute buildout is still early, adding that the bigger risk may be a shortage of compute rather than a bubble. Blackstone is also working with Anthropic on enterprise AI deployment and Google on AI compute capacity.",
+      "source": "Twitter @wallstengine",
+      "message": "Blackstone מתכננת להשקיע 30 מיליארד דולר במרכזי נתונים ביפן בחמש השנים הקרובות. נשיא החברה אמר בפירוש שהסיכון הגדול יותר הוא מחסור ב-compute - לא בועה. זה לא סתם משפט שיווקי: כשאחת מקרנות הנדל\"ן הגדולות בעולם שמה 30 מיליארד על השולחן, היא מצביעה על כיוון. ההשפעה העקיפה? ביקוש עצום לחשמל, לציוד קירור ולתשתיות רשת - ולחברות שמספקות את כל אלה.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "בינה מלאכותית",
+        "תשתיות",
+        "השקעות"
       ]
     }
   ]
