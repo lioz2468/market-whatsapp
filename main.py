@@ -19,6 +19,7 @@ import argparse
 import json
 import sys
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 import colorama
 from colorama import Fore, Style
@@ -147,6 +148,18 @@ def _pending_to_result(item: dict) -> classifier.ClassificationResult:
     return r
 
 
+# ── Shabbat gate ───────────────────────────────────────────────────────────
+
+_ISRAEL_TZ = ZoneInfo("Asia/Jerusalem")
+
+
+def _is_shabbat() -> bool:
+    """True from Friday 17:00 through Saturday end (Israel time)."""
+    now = datetime.now(_ISRAEL_TZ)
+    wd  = now.weekday()   # Friday=4, Saturday=5
+    return wd == 5 or (wd == 4 and now.hour >= 17)
+
+
 # ── Safety filter ──────────────────────────────────────────────────────────
 
 _BLOCKED_PHRASES = [
@@ -202,6 +215,10 @@ def _safety_filter(msg: str) -> tuple[bool, str]:
 # ── Sending ────────────────────────────────────────────────────────────────
 
 async def _send(messages: list[str], provider: str, skip_filter: bool = False) -> None:
+    if not skip_filter and _is_shabbat():
+        print(f"  {Fore.YELLOW}⛔ שבת — שליחה מושהית עד ראשון (שעון ישראל).{Style.RESET_ALL}")
+        return
+
     safe: list[str] = []
     for msg in messages:
         if skip_filter:

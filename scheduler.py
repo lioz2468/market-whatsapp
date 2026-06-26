@@ -17,13 +17,27 @@ import subprocess
 import sys
 import time
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
+_ISRAEL_TZ = ZoneInfo("Asia/Jerusalem")
 
 
 def _now() -> str:
     return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 
+def _is_shabbat() -> bool:
+    """True from Friday 17:00 through Saturday end (Israel time)."""
+    now = datetime.now(_ISRAEL_TZ)
+    wd  = now.weekday()   # Friday=4, Saturday=5
+    return wd == 5 or (wd == 4 and now.hour >= 17)
+
+
 def run_once(provider: str | None) -> None:
+    if _is_shabbat():
+        print(f"[{_now()}] ⛔ שבת — דילוג על הרצה עד ראשון.")
+        return
+
     cmd = [sys.executable, "main.py", "--auto"]
     if provider:
         cmd += ["--provider", provider]
