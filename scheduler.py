@@ -27,10 +27,14 @@ def _now() -> str:
 
 
 def _is_shabbat() -> bool:
-    """True from Friday 17:00 through Saturday end (Israel time)."""
+    """True from Friday 17:00 until Sunday 09:00 (Israel time)."""
     now = datetime.now(_ISRAEL_TZ)
-    wd  = now.weekday()   # Friday=4, Saturday=5
-    return wd == 5 or (wd == 4 and now.hour >= 17)
+    wd  = now.weekday()   # Friday=4, Saturday=5, Sunday=6
+    return (
+        (wd == 4 and now.hour >= 17)  # Friday from 17:00
+        or wd == 5                     # all of Saturday
+        or (wd == 6 and now.hour < 9)  # Sunday before 09:00
+    )
 
 
 def run_once(provider: str | None) -> None:
