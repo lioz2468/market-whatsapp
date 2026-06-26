@@ -147,17 +147,83 @@ def _pending_to_result(item: dict) -> classifier.ClassificationResult:
     return r
 
 
+# ── Safety filter ──────────────────────────────────────────────────────────
+
+_BLOCKED_PHRASES = [
+    "אי אפשר לנסח",
+    "כדאי לוודא",
+    "האם מדובר",
+    "אם תוכל",
+    "לא ניתן לאמת",
+    "לא ניתן לנסח",
+    "מקור יחיד",
+    "שגיאה",
+    "error",
+    "עדכון:",
+]
+
+_BLOCKED_PREFIXES = ("רגע", "שניה", "בעיה")
+
+_MIN_WORDS = 30
+_MAX_WORDS = 200
+
+
+def _safety_filter(msg: str) -> tuple[bool, str]:
+    """
+    Last-gate check before any WhatsApp send.
+    Strips one leading 'עדכון: ' (added by this bot) before checking,
+    so the bot-controlled prefix never triggers the 'עדכון:' phrase block.
+    Returns (is_blocked, reason).
+    """
+    check = msg[len("עדכון: "):] if msg.startswith("עדכון: ") else msg
+    check_lower = check.lower()
+
+    for phrase in _BLOCKED_PHRASES:
+        if phrase.lower() in check_lower:
+            return True, f"contains blocked phrase: {phrase!r}"
+
+    if "?" in check:
+        return True, "contains question mark"
+
+    words = check.split()
+    first_word = words[0].rstrip(",.!?:") if words else ""
+    if first_word in _BLOCKED_PREFIXES:
+        return True, f"starts with blocked word: {first_word!r}"
+
+    wc = len(words)
+    if wc < _MIN_WORDS:
+        return True, f"too short ({wc} words, min {_MIN_WORDS})"
+    if wc > _MAX_WORDS:
+        return True, f"too long ({wc} words, max {_MAX_WORDS})"
+
+    return False, ""
+
+
 # ── Sending ────────────────────────────────────────────────────────────────
 
-async def _send(messages: list[str], provider: str) -> None:
+async def _send(messages: list[str], provider: str, skip_filter: bool = False) -> None:
+    safe: list[str] = []
+    for msg in messages:
+        if skip_filter:
+            safe.append(msg)
+        else:
+            blocked, reason = _safety_filter(msg)
+            if blocked:
+                print(f"  {Fore.RED}BLOCKED: message failed safety filter ({reason}){Style.RESET_ALL}")
+                continue
+            safe.append(msg)
+
+    if not safe:
+        return
+
     if provider == "twilio":
         import whatsapp_twilio as wa
-        sids = await wa.send_all(messages)
+        sids = await wa.send_all(safe)
         for sid in sids:
             print(f"  {Fore.GREEN}✓ Sent via Twilio — SID: {sid}{Style.RESET_ALL}")
     elif provider == "green":
         import whatsapp_green as wa
-        responses = await wa.send_all(messages)
+        responses = await wa.send_all(safe)
         for resp in responses:
             mid = resp.get("idMessage", "?")
             print(f"  {Fore.GREEN}✓ Sent via Green API — id: {mid}{Style.RESET_ALL}")
@@ -436,7 +502,7 @@ async def run_morning_digest(args: argparse.Namespace) -> None:
         print(f"\n  {Fore.YELLOW}Cancelled.{Style.RESET_ALL}")
         return
 
-    await _send([digest_text], args.provider)
+    await _send([digest_text], args.provider, skip_filter=True)
     print(f"\n  {Fore.GREEN}✓ Digest sent.{Style.RESET_ALL}")
 
 
@@ -476,7 +542,7 @@ async def run_test(args: argparse.Namespace) -> None:
     print(f"{'─'*60}")
     print(f"  {Fore.GREEN}{text}{Style.RESET_ALL}")
     print(f"{'─'*60}")
-    await _send([text], args.provider)
+    await _send([text], args.provider, skip_filter=True)
     print(f"\n  {Fore.GREEN}✓ Test message sent.{Style.RESET_ALL}")
 
 
