@@ -155,7 +155,8 @@
     "47e8985f3cd5917d": "2026-06-28T19:15:26.291656+00:00",
     "7d372b2382f9671a": "2026-06-28T20:59:13.154864+00:00",
     "a6a314b7fb8b2377": "2026-06-29T09:25:15.827729+00:00",
-    "e74e446af671618a": "2026-06-29T14:02:39.967143+00:00"
+    "e74e446af671618a": "2026-06-29T14:02:39.967143+00:00",
+    "fb6fb0b47c0c65d8": "2026-06-29T17:34:51.641384+00:00"
   },
   "messages": [
     {
@@ -2215,6 +2216,19 @@
         "וולקסווגן",
         "תעשיית רכב",
         "מחסור בעבודה"
+      ]
+    },
+    {
+      "sent_at": "2026-06-29T17:34:51.641384+00:00",
+      "title": "Palantir $PLTR and Nvidia $NVDA announced an initiative to deploy Nvidia’s Nemotron open AI models in sovereign environments for U.S. government and critical infrastructure customers. The system combines Nvidia AI with Palantir AIP, Foundry, Ontology and Apollo, allowing agencies to train, customize and deploy AI while retaining control over data, IP and model systems.",
+      "source": "Twitter @wallstengine",
+      "message": "Palantir ו-NVIDIA מכריזות על שיתוף פעולה לפריסת מודלי AI בסביבות ממשלתיות סגורות - כאלה שבהן הנתונים, הקוד וה-IP נשארים בידי הסוכנות ולא עוברים לענן חיצוני.\n\nהרעיון הוא פשוט: גופי ממשל וביטחון בארה\"ב רוצים AI עוצמתי, אבל לא יכולים לשלוח מידע רגיש לשרתי אמזון או גוגל. זה בדיוק הפער שהשתיים מנסות למלא.\n\nההשפעה הפחות ברורה: חברות הענן הגדולות עלולות לאבד נתח ממשמעותי מחוזי ממשל עתידיים - זה שוק של מיליארדים שהתנהל עד היום בצורה אחרת לגמרי.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "בטחון ממלכתי",
+        "תשתיות"
       ]
     }
   ]
