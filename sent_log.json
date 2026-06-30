@@ -161,7 +161,8 @@
     "5ccbcf52e1e39c07": "2026-06-29T21:24:24.205895+00:00",
     "2a4a048d99b5cda5": "2026-06-30T08:29:06.915666+00:00",
     "63fd1c1323edcea7": "2026-06-30T11:45:36.244719+00:00",
-    "a01c4e3bbb4e60dc": "2026-06-30T14:13:32.099835+00:00"
+    "a01c4e3bbb4e60dc": "2026-06-30T14:13:32.099835+00:00",
+    "ae76574afde67b17": "2026-06-30T17:05:53.653704+00:00"
   },
   "messages": [
     {
@@ -2299,6 +2300,19 @@
         "משכנתאות",
         "סיכון שיטתי",
         "בנקים"
+      ]
+    },
+    {
+      "sent_at": "2026-06-30T17:05:53.653704+00:00",
+      "title": "OpenAI engineers recently found inference optimizations that more than halved the cost of running existing models, per The Information. When applied to ChatGPT for visitors without free or paid accounts, the system at one point needed only a couple hundred Nvidia GPUs.",
+      "source": "Twitter @wallstengine",
+      "message": "מהנדסי OpenAI מצאו לאחרונה דרכים להוריד את עלויות ההרצה של המודלים הקיימים ביותר מחצי. כשהאופטימיזציה הזו הוחלה על גרסת ChatGPT למשתמשים לא רשומים, המערכת הצליחה לרוץ על כמה מאות כרטיסי מסך של NVIDIA בלבד - לעומת אלפים שנדרשו קודם.\n\nלמה זה חשוב: ירידה כזו בעלויות ההסקה משנה את המשוואה לכל מי שבנה את התחזיות שלו על צמיחת הביקוש לחומרה. פחות GPU לאותה עבודה - זה לחץ ישיר על ה-thesis שמחזיק חלק גדול מהעלייה של NVIDIA בשנה האחרונה.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "עלויות",
+        "GPU"
       ]
     }
   ]
