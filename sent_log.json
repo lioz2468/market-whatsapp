@@ -194,7 +194,8 @@
     "289f50e0e9da250b": "2026-07-05T20:57:04.386859+00:00",
     "470311b66ec73ac6": "2026-07-06T08:59:12.457245+00:00",
     "fa65b2f4178059eb": "2026-07-06T12:54:44.599094+00:00",
-    "85adbf0de25a2b39": "2026-07-06T16:19:00.594037+00:00"
+    "85adbf0de25a2b39": "2026-07-06T16:19:00.594037+00:00",
+    "a2ab2f1ab4211b69": "2026-07-06T18:54:04.468339+00:00"
   },
   "messages": [
     {
@@ -2764,6 +2765,20 @@
         "LLM",
         "טוקנים",
         "השקעה"
+      ]
+    },
+    {
+      "sent_at": "2026-07-06T18:54:04.468339+00:00",
+      "title": "TeraWulf $WULF signed a 20-year lease with Anthropic for its Justified Data campus in Kentucky. The campus is expected to support about 401MW of critical IT load, with initial capacity online in H2 2027 and full capacity by early 2028. TeraWulf says the lease represents about $19B of contracted revenue over the initial term. Separately, TeraWulf is selling its 50.1% stake in the Abernathy JV to a Fluidstack-led investor group, monetizing an approximately $450M investment.",
+      "source": "Twitter @wallstengine",
+      "message": "TeraWulf חתמה על חוזה שכירות ל-20 שנה עם Anthropic עבור קמפוס נתונים בקנטאקי - שווי החוזה: 19 מיליארד דולר. הקמפוס יתמוך בעומס של 401 מגה-וואט, עם פתיחה חלקית בשנת 2027 ומלאה ב-2028.\n\nזה לא סתם עסקה נדל\"נית. Anthropic משלמת מחיר של מדינה קטנה כדי לנעול חשמל ותשתית לשנים קדימה - כי זה הצוואר בקבוק האמיתי של ה-AI היום.\n\nמי שצריך לשים לב: כל מי שמשקיע בחברות ענן, מוליכים למחצה ורשתות חשמל - הביקוש לתשתית לא מאט.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "אנרגיה",
+        "תשתיות",
+        "זרימת הון"
       ]
     }
   ]
