@@ -144,8 +144,12 @@ def _is_valid_message(text: str) -> bool:
         return False
     if _DIALOGUE_PATTERNS.search(text):
         return False
-    # More than 2 question marks → likely asking questions, not writing a message
-    if text.count("?") > 2:
+    # Short message with a question mark = just a question, not a WhatsApp update.
+    # Long message (40+ words) with 1-2 question marks = rhetorical question, fine.
+    q_count = text.count("?")
+    if q_count > 2:
+        return False
+    if q_count >= 1 and len(text.split()) < 40:
         return False
     return True
 
