@@ -207,7 +207,8 @@
     "f7b3becd3ad012fa": "2026-07-08T10:14:23.384838+00:00",
     "14d51d4d509b47b9": "2026-07-08T12:19:03.028738+00:00",
     "ef57e6ac4c66ee94": "2026-07-08T15:19:22.559163+00:00",
-    "d95ef17c571d091e": "2026-07-08T17:27:01.780259+00:00"
+    "d95ef17c571d091e": "2026-07-08T17:27:01.780259+00:00",
+    "733a38792e6b0454": "2026-07-08T19:21:37.051012+00:00"
   },
   "messages": [
     {
@@ -2951,6 +2952,19 @@
         "ביטחון סוציאלי",
         "אגרות חוב",
         "מקרו"
+      ]
+    },
+    {
+      "sent_at": "2026-07-08T19:21:37.051012+00:00",
+      "title": "China plans to let top AI firms including Alibaba, ByteDance and DeepSeek buy limited Nvidia H200 chips, potentially under 200,000 total. The $NVDA chips would be restricted to training on public data, with domestic processors prioritized for inference. Source: The Information",
+      "source": "Twitter @wallstengine",
+      "message": "סין שוקלת לאפשר לחברות ה-AI המובילות שלה - Alibaba, ByteDance ו-DeepSeek - לרכוש שבבי H200 של NVIDIA, אבל בכמות מוגבלת: פחות מ-200 אלף יחידות בסך הכל. השבבים ייועדו לאימון מודלים על נתונים ציבוריים בלבד, ולהסקה (inference) יעדיפו מעבדים סינים מקומיים.\n\nזה מעניין כי זה בעצם פשרה - סין מאפשרת גישה לחומרה המתקדמת, אבל שולטת בשימוש ושומרת את שוק ה-inference לתוצרת המקומית. מי שכדאי לשים לב אליו פה: יצרני שבבים סינים כמו Huawei ו-Cambricon, שמצב כזה רק מחזק את הביקוש אליהם.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "ג'יאופוליטיקה",
+        "semiconductors",
+        "Nvidia"
       ]
     }
   ]
