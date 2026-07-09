@@ -211,7 +211,8 @@
     "733a38792e6b0454": "2026-07-08T19:21:37.051012+00:00",
     "0019e49e02581e00": "2026-07-08T21:04:49.543725+00:00",
     "a344a846c730e439": "2026-07-09T08:25:26.421936+00:00",
-    "f650b853ec04c889": "2026-07-09T11:55:19.643298+00:00"
+    "f650b853ec04c889": "2026-07-09T11:55:19.643298+00:00",
+    "cd6339f3bf5c8736": "2026-07-09T14:52:49.708391+00:00"
   },
   "messages": [
     {
@@ -3008,6 +3009,19 @@
         "AI",
         "צ'יפים",
         "תשתיות"
+      ]
+    },
+    {
+      "sent_at": "2026-07-09T14:52:49.708391+00:00",
+      "title": "Micron $MU poured first concrete at its Clay, New York semiconductor fab site, moving into vertical construction more than one quarter ahead of schedule. The company also raised planned U.S. investment to over $250B through 2035, driven by AI memory demand. Key numbers: Up to 4 fabs at the New York site 50,000 expected jobs in New York 9,000 direct Micron jobs Over 90,000 jobs projected across U.S. sites Long-term goal: produce 40% of Micron’s DRAM in the U.S. Micron also plans up to $3B to support the domestic semiconductor supply chain.",
+      "source": "Twitter @wallstengine",
+      "message": "Micron יוצקת בטון בפברייקציה הראשונה שלה בניו יורק - רבע שנה לפני המועד המתוכנן. ההשקעה המוצהרת עלתה ל-250 מיליארד דולר עד 2035, עם יעד לייצר 40% מהזיכרון של החברה בארה\"ב.\n\nהנהגים: ביקוש לזיכרון AI שממשיך לשבור תחזיות. כשמודלים גדלים, צריך יותר DRAM - ו-Micron מתנהגת כאילו הביקוש הזה לא הולך לשום מקום.\n\nמי עוד יושפע מזה? ספקי ציוד לפברייקציה, חברות בנייה תעשייתית, וחברות חשמל וגז באזור - מפעלי שבבים הם צרכני אנרגיה עצומים.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "מיקרון",
+        "תשתיות",
+        "AI"
       ]
     }
   ]
