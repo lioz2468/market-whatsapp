@@ -210,7 +210,8 @@
     "d95ef17c571d091e": "2026-07-08T17:27:01.780259+00:00",
     "733a38792e6b0454": "2026-07-08T19:21:37.051012+00:00",
     "0019e49e02581e00": "2026-07-08T21:04:49.543725+00:00",
-    "a344a846c730e439": "2026-07-09T08:25:26.421936+00:00"
+    "a344a846c730e439": "2026-07-09T08:25:26.421936+00:00",
+    "f650b853ec04c889": "2026-07-09T11:55:19.643298+00:00"
   },
   "messages": [
     {
@@ -2994,6 +2995,19 @@
         "נפט",
         "אינפלציה",
         "אירן"
+      ]
+    },
+    {
+      "sent_at": "2026-07-09T11:55:19.643298+00:00",
+      "title": "$META plans to double its computing capacity to 14GW in 2027 and begin manufacturing its in-house Iris AI chip in September, per Reuters citing an internal memo. The chip is part of Meta’s MTIA project, designed with Broadcom and manufactured by TSMC, aimed at reducing reliance on Nvidia and AMD GPUs. Meta also signed long-term supply deals with: Samsung for memory SanDisk for flash storage Sumitomo Electric for fiber-optic equipment The memo said adopting the latest GPUs at Meta scale “has been a heavy lift” and “has cost us time.” Meta expects to spend up to $145B on AI infrastructure this year.",
+      "source": "Twitter @wallstengine",
+      "message": "Meta מתכננת להכפיל את כוח המחשוב שלה ל-14 ג'יגה-וואט עד 2027, ובספטמבר מתחילה לייצר את שבב ה-AI הפנימי שלה - Iris. השבב פותח עם Broadcom ומיוצר על ידי TSMC, והמטרה ברורה: להפחית תלות ב-NVIDIA ו-AMD.\n\nמה שמעניין כאן זה לא רק השבב. Meta חתמה על עסקאות אספקה ארוכות טווח עם Samsung, SanDisk וחברת סיבים אופטיים יפנית. זאת אומרת שהם בונים שרשרת אספקה שלמה מאפס. ההשקעה הכוללת השנה: עד 145 מיליארד דולר בתשתיות AI. כשחברה בסקייל של Meta מחליטה לא לסמוך על הספקים הקיימים - זה משנה את כל ענף השבבים.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "צ'יפים",
+        "תשתיות"
       ]
     }
   ]
