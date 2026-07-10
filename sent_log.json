@@ -220,7 +220,8 @@
     "493e7ed47f55153e": "2026-07-10T11:49:11.232601+00:00",
     "7a9392f6d3a42d72": "2026-07-10T14:17:39.226445+00:00",
     "27143e86e8034082": "2026-07-10T16:54:09.066330+00:00",
-    "96a132c3591fe863": "2026-07-10T18:21:46.852148+00:00"
+    "96a132c3591fe863": "2026-07-10T18:21:46.852148+00:00",
+    "afaacc236445c90a": "2026-07-10T20:20:56.056011+00:00"
   },
   "messages": [
     {
@@ -3134,6 +3135,19 @@
         "בייבק",
         "אנשי פנים",
         "זרימת הון"
+      ]
+    },
+    {
+      "sent_at": "2026-07-10T20:20:56.056011+00:00",
+      "title": "OpenAI and Google are reportedly selling advanced AI model access to Singapore-based subsidiaries of Alibaba, Baidu, and Tencent, per FT. Those Chinese companies are on the Pentagon’s 1260H list, but the sales are currently legal because U.S. AI controls do not broadly block model access by foreign subsidiaries. OpenAI said it suspended Alibaba-affiliated API users this month over concerns about illicit use and suspected distillation. Google said its AI services are available in Singapore and Hong Kong under usage policies.",
+      "source": "Twitter @wallstengine",
+      "message": "OpenAI ו-Google מוכרות גישה למודלי AI מתקדמים לחברות בנות של Alibaba, Baidu ו-Tencent - דרך סניפים בסינגפור. זה לגיטימי לגמרי מבחינה משפטית, כי הבקרות האמריקאיות על AI לא חוסמות גישה של חברות בנות זרות. הבעיה: שלוש החברות האלה מופיעות ברשימת הפנטגון של חברות הקשורות לצבא סיני.\n\nOpenAI כבר השעתה משתמשי API מצד Alibaba החודש - בחשד לשימוש אסור ולניסיון לחקות את המודלים שלה. זה בדיוק החור שהמחוקקים האמריקאים מנסים לסגור: הגבלות על חומרה לא מספיקות אם המודלים עצמם זמינים דרך הדלת האחורית.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "סנקציות",
+        "סין"
       ]
     }
   ]
