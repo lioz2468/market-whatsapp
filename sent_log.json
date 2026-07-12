@@ -228,7 +228,8 @@
     "d6e629541566aeb6": "2026-07-12T13:13:41.793357+00:00",
     "01e44ac69b850335": "2026-07-12T14:53:46.281885+00:00",
     "5ec1b16838cdcaf2": "2026-07-12T15:57:21.083924+00:00",
-    "b322e7e07e9c831b": "2026-07-12T17:00:09.983804+00:00"
+    "b322e7e07e9c831b": "2026-07-12T17:00:09.983804+00:00",
+    "cd79c5110b400ed7": "2026-07-12T18:03:50.337141+00:00"
   },
   "messages": [
     {
@@ -3246,6 +3247,19 @@
         "פד",
         "אינפלציה",
         "מדיניות כלכלית"
+      ]
+    },
+    {
+      "sent_at": "2026-07-12T18:03:50.337141+00:00",
+      "title": "Apple $AAPL is expected to launch a base M6 this fall, but skip the M6 Pro, M6 Max and M6 Ultra, moving directly to M7. M7 is expected in H1 2027, followed by M7 Pro / M7 Max in late 2027 and M7 Ultra in 2028. The reason: Apple reportedly planned major Neural Engine upgrades for M7 and decided the AI improvements were important enough to accelerate the next generation. The M7 Ultra is designed to support up to 1.5TB of memory, roughly double the planned M5 Ultra capacity, and could help power Apple’s future AI server strategy. Apple is also already developing M8 chips with greater AI capabilities, including 2028 chips moving to a 1.4nm process. Source: Bloomberg @markgurman",
+      "source": "Twitter @wallstengine",
+      "message": "אפל מדלגת על דור שלם של שבבים. במקום לשחרר את כל סדרת M6, החברה תשיק השנה רק את הגרסה הבסיסית ותקפוץ ישר ל-M7 ב-2027 - כי השדרוגים במנוע הבינה המלאכותית היו מספיק משמעותיים כדי להאיץ את הדור הבא.\n\nה-M7 Ultra מתוכנן לתמוך עד 1.5TB זיכרון - פי שניים מה-M5 Ultra - וזה לא רק למחשבים אישיים. אפל בונה תשתית שרתי AI משלה, וזה אומר שהיא תלויה פחות ב-NVIDIA ובענקיות הענן. מי שכדאי לו לשים לב: ספקיות הענן שמוכרות לאפל כוח עיבוד היום.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "בינה מלאכותית",
+        "השקעות בתשתיות",
+        "שבבים"
       ]
     }
   ]
