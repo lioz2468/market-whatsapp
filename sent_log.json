@@ -236,7 +236,8 @@
     "9847c6346302d918": "2026-07-13T14:47:21.821990+00:00",
     "996840c69a37f4d0": "2026-07-13T17:11:51.599203+00:00",
     "fb918640d4acea1b": "2026-07-13T19:20:34.133212+00:00",
-    "f6732a4d3612f75c": "2026-07-13T20:56:04.706179+00:00"
+    "f6732a4d3612f75c": "2026-07-13T20:56:04.706179+00:00",
+    "eebb6f83562eb158": "2026-07-14T09:55:52.432050+00:00"
   },
   "messages": [
     {
@@ -3359,6 +3360,19 @@
         "אנרגיה",
         "נפט",
         "גיאופוליטיקה"
+      ]
+    },
+    {
+      "sent_at": "2026-07-14T09:55:52.432050+00:00",
+      "title": "Google $GOOGL agreed to buy 100% of the initial output from the Steel River solar + battery project in Arkansas, per FT. The project is expected to deliver 1.6GW of solar and 2GWh of battery storage by 2029, enough to power 315,000+ homes/year. At full buildout: 2.5GW solar and 2.9GWh storage. First Solar $FSLR will supply the domestically sourced panels, with batteries coming from LG’s Phoenix plant. The deal is a virtual power purchase agreement as Google looks to offset rising data center power use.",
+      "source": "Twitter @wallstengine",
+      "message": "Google חתמה על הסכם לרכישת כל תפוקת הפרויקט Solar + Battery בשם Steel River באר-קנסו - 1.6GW סולארי ו-2GWh אחסון סוללות עד 2029, מספיק לאספקת חשמל ל-315,000 בתים בשנה.\n\nהרקע: מרכזי הנתונים של Google צורכים חשמל בקצב שמואץ בגלל ה-AI, וזה ניסיון לאזן את הביקוש. First Solar תספק את הפאנלים, LG את הסוללות מהמפעל באריזונה.\n\nמי שלא חשב עליו: LG ו-First Solar יוצאים עם עסקה ענקית ומובטחת - בדיוק הסוג שעוזר לסגור מימון לפרויקטים הבאים.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "אנרגיה מתחדשת",
+        "בינה מלאכותית",
+        "זרימת הון"
       ]
     }
   ]
