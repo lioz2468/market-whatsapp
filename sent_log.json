@@ -237,7 +237,8 @@
     "996840c69a37f4d0": "2026-07-13T17:11:51.599203+00:00",
     "fb918640d4acea1b": "2026-07-13T19:20:34.133212+00:00",
     "f6732a4d3612f75c": "2026-07-13T20:56:04.706179+00:00",
-    "eebb6f83562eb158": "2026-07-14T09:55:52.432050+00:00"
+    "eebb6f83562eb158": "2026-07-14T09:55:52.432050+00:00",
+    "6c3219497fec3718": "2026-07-14T11:24:47.235419+00:00"
   },
   "messages": [
     {
@@ -3373,6 +3374,19 @@
         "אנרגיה מתחדשת",
         "בינה מלאכותית",
         "זרימת הון"
+      ]
+    },
+    {
+      "sent_at": "2026-07-14T11:24:47.235419+00:00",
+      "title": "JPMORGAN $JPM Q2’26 EARNINGS HIGHLIGHTS 🔹 Revenue: $58.02B (Est. $51.39B) 🟢; +27% YoY 🔹 EPS: $7.70 (Est. $5.72) 🟢; incl. $1.56/share from significant items 🔹 NII: $25.62B (Est. $25.64B) 🟡; +10% YoY 🔹 Net Charge-Offs: $2.37B (Est. $2.62B) 🟢 🔹 Investment Banking: $3.9B (Est. $3.06B) 🟢; +45% YoY 🔹 Equities S&T: $6.03B (Est. $3.98B) 🟢; +86% YoY 🔹 FICC S&T: $6.05B (Est. $6.29B) 🔴; +6% YoY Other Metrics: 🔹 Loans: $1.54T (Est. $1.52T) 🟢 🔹 Total Deposits: $2.71T (Est. $2.69T) 🟢 🔹 AUM: $5.1T; +18% YoY Segment Performance: 🔹 Consumer & Community Banking Revenue: $20.27B; +8% YoY 🔹 Commercial & Investment Bank Revenue: $24.85B; +27% YoY 🔹 Asset & Wealth Management Revenue: $6.85B; +19% YoY Financials: 🔹 Net Income: $21.2B; +41% YoY 🔹 Provision for Credit Losses: $2.52B 🔹 ROE: 24% (Est. 18%) 🟢 🔹 ROTCE: 29% 🔹 Standardized CET1 Ratio: 14.1% Capital Return: 🔹 Dividend: $1.50/share 🔹 Buybacks: $6.2B of common stock net repurchases 🔹 Authorization: New $50B buyback program effective July 1, 2026 Commentary: 🔸 “Performance was strong across the Firm, and revenue in each line of business hit a new record.”",
+      "source": "Twitter @wallstengine",
+      "message": "JPMorgan פרסמה תוצאות רבעוניות שלא רואים כאלה הרבה. הכנסות של 58 מיליארד דולר - כמעט 7 מיליארד מעל התחזית. רווח נקי קפץ 41% לעומת אשתקד, והתשואה על ההון הגיעה ל-24% כשהשוק ציפה ל-18%.\n\nמה שבולט במיוחד: מסחר במניות (equities trading) זינק 86% ביחס לשנה שעברה. כלומר התנודתיות שגרמה לאנשים כאבי ראש בחודשים האחרונים - היא בדיוק מה שעשה לבנקים כסף.\n\nההשפעה העקיפה שכדאי לשים אליה לב: כשהבנק הגדול בארה\"ב מדווח שכל קו עסקים שבר שיא, זה אמירה על מצב הכלכלה הרחב יותר - לא רק על JPM.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "בנקאות",
+        "בנקיים גדולים",
+        "capital markets"
       ]
     }
   ]
