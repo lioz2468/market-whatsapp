@@ -246,7 +246,8 @@
     "cee35a13bbc98772": "2026-07-14T20:58:31.362084+00:00",
     "6753772be9a033b0": "2026-07-15T07:13:38.667749+00:00",
     "ac3e2e8e24bfa2e6": "2026-07-15T09:59:52.817501+00:00",
-    "b5dbb65c261af9c9": "2026-07-15T11:41:49.893941+00:00"
+    "b5dbb65c261af9c9": "2026-07-15T11:41:49.893941+00:00",
+    "ea99a7908d757eaf": "2026-07-15T13:38:28.208335+00:00"
   },
   "messages": [
     {
@@ -3499,6 +3500,19 @@
         "נפט",
         "ריביות",
         "גיאופוליטיקה"
+      ]
+    },
+    {
+      "sent_at": "2026-07-15T13:38:28.208335+00:00",
+      "title": "Nvidia $NVDA CEO Jensen Huang directly DENIED reports that Vera Rubin is delayed. “The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming,” Huang told Bloomberg. The denial follows SemiAnalysis reporting that Nvidia’s next-gen AI server rack system had faced delays tied to a specialized circuit board issue.",
+      "source": "Twitter @wallstengine",
+      "message": "ג'נסן הואנג הכחיש ישירות את הדיווחים על עיכובים בפלטפורמת Vera Rubin. \"הדיווחים לא נכונים. Vera Rubin כבר בייצור - וכמויות ענק בדרך,\" אמר ל-Bloomberg. הכחשה ישירה כזו מהמנכ\"ל היא לא דבר של מה בכך. מעבר ל-NVIDIA עצמה, זה משפיע על כל שרשרת האספקה - ספקי לוחות מעגל, חברות אריזה וספקי שרתי AI שתכננו את הרבעונים הקרובים סביב הלוח הזמנים הזה.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "Nvidia",
+        "AI",
+        "תעשיות"
       ]
     }
   ]
