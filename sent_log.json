@@ -253,7 +253,8 @@
     "21121ee299e521c5": "2026-07-15T19:06:54.817314+00:00",
     "a087c9c7d1ae6d07": "2026-07-15T20:58:11.744864+00:00",
     "8ea8c1aabf107215": "2026-07-16T07:21:37.210579+00:00",
-    "122717aa7e22d56b": "2026-07-16T10:05:51.162791+00:00"
+    "122717aa7e22d56b": "2026-07-16T10:05:51.162791+00:00",
+    "d6831bee966c09c7": "2026-07-16T12:19:35.256319+00:00"
   },
   "messages": [
     {
@@ -3597,6 +3598,20 @@
         "סימים",
         "השקעה",
         "תחרות טכנולוגית"
+      ]
+    },
+    {
+      "sent_at": "2026-07-16T12:19:35.256319+00:00",
+      "title": "RT by @wallstengine: $TSM | TSMC Q2’26 Detailed Earnings Highlights 🔹 Revenue: $40.2B; +33.7% YoY 🔹 Net Profit: $22.36B (Est. $19.74B) 🟢; +77.4% YoY 🔹 Gross Margin: 67.7% (Est. 67.1%) 🟢 🔸 CapEx raised to $60B-$64B from $52B-$56B. Q3’26 Guide: 🔹 Rev: $44.6B-$45.8B (Est. $43.11B) 🟢; +37% YoY 🔹 Gross Margin: 65%-67% (Est. 65.9%) 🟡 🔹 Operating Margin: 56%-58% (Est. 57.7%) 🟡 🔹 FX assumption: US$1 = NT$32.0 🔸 CapEx over the next 3 years will be “even more significantly higher” than during the prior 3 years. Revenue by Platform: 🔹 HPC: 66%; +20% QoQ 🔹 Smartphone: 22%; -4% QoQ 🔹 IoT: 5%; +4% QoQ 🔹 Automotive: 4%; +15% QoQ 🔹 DCE: 1%; +5% QoQ 🔹 Others: 2%; +5% QoQ Technology Mix (Wafer Revenue): 🔹 2nm: 3% 🔹 3nm: 30% 🔹 5nm: 33% 🔹 7nm: 11% 🔹 7nm and below: 77% Other Metrics: 🔹 EPS: $4.31 per ADR (Est. $3.83) 🟢 🔹 Operating Margin: 60.3% (Est. 58.6%) 🟢 🔹 Net Profit Margin: 55.6% 🔹 Wafer Shipments: +16.6% YoY; +3.9% QoQ 🔹 North America: 78% of revenue 🔹 ROE: 45.9% 🔹 OpEx: 7.8% of revenue 🔹 Inventory Days: 87; +7 days QoQ 🔹 VIS Share Gain: $2.00B 2026 Outlook: 🔸 N2 ramp expected to dilute gross margin by 3-4 pts in 2H26. 🔸 Overseas fabs expected to dilute gross margin by 2-3 pts initially and 3-4 pts in later stages. 🔸 Long-term revenue CAGR remains around 25%, while AI accelerator revenue CAGR remains in the high-50s%. US Expansion: 🔸 TSMC announced an additional $100B investment in Arizona. The additional commitment lifts TSMC’s total US investment plan to $265B. 🔸 The eventual US footprint could reach 10 fabs and 2 advanced-packaging facilities. 🔸 The four new facilities are expected to focus on 2nm logic, although the final mix could shift to three logic fabs and one packaging plant. 🔸 Construction timing remains undisclosed and will depend on market conditions.",
+      "source": "Twitter @wallstengine",
+      "message": "TSMC פרסמה תוצאות רבעון שני שפשוט שוברות את כל התחזיות: רווח נקי של 22.4 מיליארד דולר - עלייה של 77% בשנה, כשהתחזית עמדה על 19.7 מיליארד. ההכנסות עלו ב-34% לעומת אשתקד, והחברה מעלה את תחזית הרבעון הבא ל-45 מיליארד דולר.\n\nמה שמעניין יותר מהמספרים: TSMC הכריזה על השקעה נוספת של 100 מיליארד דולר באריזונה - סה\"כ 265 מיליארד. עשרה מפעלים אמריקאיים בתוכנית. זה לא רק עסקת נדל\"ן תעשייתי - זה שינוי עמוק בשרשרת האספקה של כל תעשיית השבבים הגלובלית, שמשפיע על כולם מ-Apple ועד חברות הרכב.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "צ'יפים",
+        "תשתיות",
+        "גיאופוליטיקה",
+        "השקעות"
       ]
     }
   ]
