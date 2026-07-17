@@ -263,7 +263,8 @@
     "54237896d60f25bf": "2026-07-17T09:54:44.743322+00:00",
     "98220302f7b2ecea": "2026-07-17T11:20:18.753973+00:00",
     "56edcfecaed84fa1": "2026-07-17T13:21:52.846892+00:00",
-    "4debad451404c820": "2026-07-17T15:11:40.713288+00:00"
+    "4debad451404c820": "2026-07-17T15:11:40.713288+00:00",
+    "191660f70f5c31d8": "2026-07-17T17:09:16.877542+00:00"
   },
   "messages": [
     {
@@ -3738,6 +3739,20 @@
         "סמיקונדקטור",
         "AI",
         "בחזקת שוק"
+      ]
+    },
+    {
+      "sent_at": "2026-07-17T17:09:16.877542+00:00",
+      "title": "$META is in talks to lease AI compute to Anthropic in a potential deal worth up to $10B over 2 years Anthropic reportedly proposed the deal in June, with monthly payments and early opt-out rights For context, Anthropic signed a $45B, three-year compute deal with SpaceX in May Source: NYT",
+      "source": "Twitter @wallstengine",
+      "message": "Meta מנהלת משא ומתן על עסקת ענן AI עם Anthropic - עד 10 מיליארד דולר לאורך שנתיים. הצעה שיזמה Anthropic עצמה ביוני, עם אפשרות יציאה מוקדמת.\n\nמה שמעניין כאן הוא הכיוון: Anthropic, שבנתה כבר עסקת חישוב של 45 מיליארד עם SpaceX, יוצאת לחפש קיבולת נוספת. זה לא מקרה - זה אומר שהביקוש לכוח חישוב גדול בהרבה ממה שהתשתית הקיימת יכולה לספק. מי שיושב על מרכזי נתונים ושבבים מתקדמים - הוא הנכס האמיתי של עידן ה-AI.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "Meta",
+        "Anthropic",
+        "ענן"
       ]
     }
   ]
