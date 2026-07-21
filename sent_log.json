@@ -287,7 +287,8 @@
     "46bc672e86520a19": "2026-07-21T10:23:28.591671+00:00",
     "8be7d2a2c6acb457": "2026-07-21T12:22:52.871465+00:00",
     "3a6ffef4a9480a63": "2026-07-21T15:02:24.224309+00:00",
-    "ffc6d6be45046923": "2026-07-21T17:15:15.838862+00:00"
+    "ffc6d6be45046923": "2026-07-21T17:15:15.838862+00:00",
+    "382c541baf47b0f4": "2026-07-21T19:17:01.935597+00:00"
   },
   "messages": [
     {
@@ -4078,6 +4079,19 @@
         "מאקרו",
         "סיכונים",
         "שווקים"
+      ]
+    },
+    {
+      "sent_at": "2026-07-21T19:17:01.935597+00:00",
+      "title": "Databricks CEO Ali Ghodsi says the company is running out of GPUs across multiple regions as demand for AI model hosting outpaces available capacity. The company is reportedly raising about $3B at a $188B valuation, with much of the capital expected to fund additional compute.",
+      "source": "Twitter @wallstengine",
+      "message": "Databricks מגייסת כ-3 מיליארד דולר לפי שווי של 188 מיליארד דולר - ורוב הכסף הולך לרכישת שרתים. הסיבה: החברה פשוט נגמרת לה יחידות העיבוד הגרפי (GPU) במספר אזורים בעולם, כי הביקוש לאחסון מודלי AI עולה על מה שיש להם.\n\nזה לא רק הסיפור של Databricks. זה אומר שצוואר הבקבוק האמיתי בעולם ה-AI הוא עדיין חומרה - וזה טוב מאוד ל-NVIDIA, אבל גם למי שמייצר מרכזי נתונים, כבלים ומערכות קירור.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "תשתיות",
+        "הון סיכון"
       ]
     }
   ]
