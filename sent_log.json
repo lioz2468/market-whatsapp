@@ -290,7 +290,8 @@
     "ffc6d6be45046923": "2026-07-21T17:15:15.838862+00:00",
     "382c541baf47b0f4": "2026-07-21T19:17:01.935597+00:00",
     "15f1c89e2ac51a02": "2026-07-21T21:05:38.102854+00:00",
-    "96ae25bffc8bb3c7": "2026-07-22T07:33:06.370673+00:00"
+    "96ae25bffc8bb3c7": "2026-07-22T07:33:06.370673+00:00",
+    "14c8f060be5ed2ae": "2026-07-22T10:23:24.851984+00:00"
   },
   "messages": [
     {
@@ -4121,6 +4122,19 @@
         "גוגל",
         "AI",
         "הוצאות תוכן"
+      ]
+    },
+    {
+      "sent_at": "2026-07-22T10:23:24.851984+00:00",
+      "title": "$NVDA GB300 SYSTEMS ARE NOW BEING MASS-PRODUCED IN TEXAS Wistron has opened its first U.S. factory, a $700 million Fort Worth plant producing Grace Blackwell Ultra systems, with Vera Rubin next. Wistron says it will scale to 10s of 1000s of computing boards per month this year.",
+      "source": "Twitter @wallstengine",
+      "message": "מפעל של 700 מיליון דולר נפתח השבוע בפורט וורת', טקסס - ומייצר שם את מערכות ה-AI המתקדמות ביותר של NVIDIA.\n\nוויסטרון, אחת מחברות הייצור הגדולות בעולם, הקימה שם את המפעל האמריקאי הראשון שלה. הפלאנט מייצר כבר עכשיו את מערכות Grace Blackwell Ultra, ובהמשך השנה צפוי לעבור לדור הבא. הסקייל המתוכנן: עשרות אלפי לוחות מחשוב בחודש.\n\nמה שמעניין כאן מעבר ל-NVIDIA עצמה: זה עוד ראיה שהתשתית הפיזית של ה-AI חוזרת לארה\"ב - וזה טוב גם לחברות חשמל, קירור תעשייתי ונדל\"ן תעשייתי בטקסס.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "צ'יפים",
+        "NVIDIA",
+        "תשתיות"
       ]
     }
   ]
