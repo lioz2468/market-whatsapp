@@ -289,7 +289,8 @@
     "3a6ffef4a9480a63": "2026-07-21T15:02:24.224309+00:00",
     "ffc6d6be45046923": "2026-07-21T17:15:15.838862+00:00",
     "382c541baf47b0f4": "2026-07-21T19:17:01.935597+00:00",
-    "15f1c89e2ac51a02": "2026-07-21T21:05:38.102854+00:00"
+    "15f1c89e2ac51a02": "2026-07-21T21:05:38.102854+00:00",
+    "96ae25bffc8bb3c7": "2026-07-22T07:33:06.370673+00:00"
   },
   "messages": [
     {
@@ -4107,6 +4108,19 @@
         "אנרגיה",
         "תשתיות",
         "פוליטיקה"
+      ]
+    },
+    {
+      "sent_at": "2026-07-22T07:33:06.370673+00:00",
+      "title": "Reddit is considering cutting off $GOOGL's access to its content for AI use as their $60 million-a-year licensing deal nears expiration, the WSJ reports. USA Today, Reuters, Politico and other publishers are also reevaluating Google’s crawler as AI summaries reduce referral traffic. USA Today’s organic Google traffic reportedly fell nearly 50% over the past year, while Politico’s declined 23%. The central issue is that publishers generally cannot block Google’s AI summaries without also losing visibility in traditional search. No major cutoff has been announced, but more publishers are questioning whether the traffic Google sends back is worth the content it receives.",
+      "source": "Twitter @wallstengine",
+      "message": "רדיט שוקלת לחתוך לגוגל את הגישה לתוכן שלה לצרכי AI - וזה יכול לעלות לגוגל 60 מיליון דולר בשנה. לפי WSJ, גם USA Today, רויטרס ופוליטיקו מתחילים לחשב מחדש את מערכת היחסים עם הסורק של גוגל, אחרי שהתנועה האורגנית שלהם קרסה - USA Today ב-50%, פוליטיקו ב-23%.\n\nהבעיה המרכזית: בעלי תוכן לא יכולים לחסום את סיכומי ה-AI של גוגל בלי לאבד גם את הנראות בחיפוש הרגיל. הם לכודים.\n\nמי שצריך לשים לב גם - חברות SEO ופלטפורמות שמסתמכות על תנועה מגוגל. אם המודל נשבר, כולם מסביב ירגישו את זה.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "גוגל",
+        "AI",
+        "הוצאות תוכן"
       ]
     }
   ]
