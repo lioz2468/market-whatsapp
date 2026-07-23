@@ -301,7 +301,8 @@
     "4e7fbd4000348ee3": "2026-07-23T10:19:22.369799+00:00",
     "99d5c7181b3e1864": "2026-07-23T12:22:53.757111+00:00",
     "15123d007a1d8b77": "2026-07-23T17:19:31.101950+00:00",
-    "deae53e4af033814": "2026-07-23T19:11:15.842118+00:00"
+    "deae53e4af033814": "2026-07-23T19:11:15.842118+00:00",
+    "5f194b4212c6ba60": "2026-07-23T21:00:41.654362+00:00"
   },
   "messages": [
     {
@@ -4276,6 +4277,19 @@
         "נפט",
         "גיאופוליטיקה",
         "מקרו"
+      ]
+    },
+    {
+      "sent_at": "2026-07-23T21:00:41.654362+00:00",
+      "title": "INTEL $INTC Q2’26 EARNINGS HIGHLIGHTS 🔹 Revenue: $16.1B (Est. $14.50B) 🟢; +25% YoY 🔹 Adj. EPS: $0.42 (Est. $0.22) 🟢 🔹 Adj Gross Margin: 41.8% (Est. 39%) 🟢; +1,210bps YoY 🔹Raises FY26 Capex $20B (prior $18B) Q3 Guide: 🔹 Revenue: $15.8B-$16.8B (Est. $15.2B) 🟢 🔹 Non-GAAP EPS: $0.38 (Est. $0.28) 🟢 🔹 GAAP EPS: $0.31 🔹 GAAP Gross Margin: 41.0% 🔹 Non-GAAP Gross Margin: 42.0% Segment Net Revenue: 🔹 CCPG: $8.9B; +13% YoY 🔹 DCAI: $6.3B; +59% YoY 🔹 Total Intel Products: $15.1B; +28% YoY 🔹 Intel Foundry: $5.8B; +31% YoY 🔹 All Other: $0.7B; -33% YoY Other Q2 Metrics: 🔹 Non-GAAP Operating Margin: 17.2% (Est. 10.7%) 🟢; +21.1 ppts YoY 🔹 Operating Cash Flow: $7.0B (Est. $5.23B) 🟢 🔹 Non-GAAP Net Income: $2.2B (Est. $1.15B) 🟢 🔹 GAAP EPS: -$2.16; includes a non-cash mark-to-market charge on Escrowed Shares tied to the U.S. government agreement Comments: 🔸 “Our Q2 results represent our strongest revenue growth in more than fifteen years, enabled by greater speed, accountability, and customer focus.” 🔸 “We delivered a strong second quarter, exceeding our financial guidance on robust demand and improved execution, including volume upside driven by higher factory yields and improved cycle times.”",
+      "source": "Twitter @wallstengine",
+      "message": "Intel דיווחה על הרבעון החזק ביותר שלה מזה 15 שנה - הכנסות של 16.1 מיליארד דולר, כ-11% מעל התחזיות. מה שבולט במיוחד: חטיבת השרתים וה-AI צמחה ב-59% לעומת השנה שעברה. זה לא צמיחה רגילה.\n\nמה שפחות מדוברים: Intel Foundry - המפעלים עצמם - גדלה ב-31%, וזה מאותת שייצור מקומי בארה\"ב מתחיל לקבל תאוצה אמיתית. TSMC ו-Samsung צריכות לשים לב. גם AMD וגם NVIDIA עלולות לראות לחץ תחרותי שלא ציפו לו ממש מהכיוון הזה.",
+      "importance": 10,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "מחשבים",
+        "תעשייה"
       ]
     }
   ]
