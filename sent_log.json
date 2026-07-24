@@ -305,7 +305,8 @@
     "5f194b4212c6ba60": "2026-07-23T21:00:41.654362+00:00",
     "38bebbf7a7959506": "2026-07-24T07:29:12.204657+00:00",
     "7b1ad01bda17eec1": "2026-07-24T10:14:02.094817+00:00",
-    "d1beefa822075c28": "2026-07-24T12:17:28.559655+00:00"
+    "d1beefa822075c28": "2026-07-24T12:17:28.559655+00:00",
+    "5b28e5038066a017": "2026-07-24T14:53:07.575327+00:00"
   },
   "messages": [
     {
@@ -4332,6 +4333,19 @@
         "מכסים",
         "סחר בינלאומי",
         "אינפלציה"
+      ]
+    },
+    {
+      "sent_at": "2026-07-24T14:53:07.575327+00:00",
+      "title": "$DLR, $SLB and $EQIX shares are trading sharply higher after earnings reinforced strong demand across the data center market. Digital Realty raised its 2026 guidance after reporting a record $1.9 billion lease backlog and 25.4% higher cash renewal rates. SLB said Data Center Solutions revenue rose 80% YoY to $186 million and remains on track to exceed a $1 billion annualized revenue run rate by year-end. $EQIX running on positive read through from Digital Realty's earnings. They report next week.",
+      "source": "Twitter @wallstengine",
+      "message": "Digital Realty דיווחה על צבר חוזים שבור שיאים - 1.9 מיליארד דולר, עם עלייה של 25% בשיעורי חידוש חוזים. התוצאות טובות כל כך שהחברה העלתה את התחזית ל-2026.\n\nSLB, שרוב האנשים עדיין מכירים כחברת שירותי נפט, דיווחה על גידול של 80% בהכנסות מפתרונות מרכזי נתונים - ומתקרבת למיליארד דולר בהכנסות שנתיות מהתחום.\n\nה-read through לשוק רחב יותר: EQIX, שמדווחת בשבוע הבא, כבר עולה על הידיעות. כשהמספרים של מתחרה חזקים כל כך, השוק מתמחר מראש תוצאות טובות. המעניין כאן הוא לא רק הביקוש - אלא שחברות מתחומים שונים לגמרי מכוונות את עצמן מחדש סביב תשתיות AI.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "נתונים",
+        "AI",
+        "השקעות"
       ]
     }
   ]
