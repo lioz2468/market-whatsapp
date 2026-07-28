@@ -330,7 +330,8 @@
     "e7e947e4aff4ecf3": "2026-07-28T12:51:40.135685+00:00",
     "0db99c42aca41c36": "2026-07-28T15:17:55.124466+00:00",
     "f0b5897461799aaf": "2026-07-28T17:24:34.964643+00:00",
-    "1b26d0ec8c6b1caf": "2026-07-28T19:19:22.535295+00:00"
+    "1b26d0ec8c6b1caf": "2026-07-28T19:19:22.535295+00:00",
+    "4efdf297d1a3c7a0": "2026-07-28T21:05:32.169885+00:00"
   },
   "messages": [
     {
@@ -4686,6 +4687,19 @@
         "AI",
         "השקעות",
         "אוטומציה"
+      ]
+    },
+    {
+      "sent_at": "2026-07-28T21:05:32.169885+00:00",
+      "title": "TERADYNE $TER Q2’26 EARNINGS HIGHLIGHTS 🔹 Revenue: $1.33B (Est. $1.22B) 🟢; +104% YoY 🔹 Adj. EPS: $2.47 (Est. $2.09) 🟢 🔹 Semiconductor Test Revenue: $1.12B Q3 Guide: 🔹 Revenue: $1.20B-$1.30B (Est. $1.04B) 🟢 🔹 Non-GAAP EPS: $1.85-$2.15 (Est. $1.53) 🟢 Segment Revenue: 🔹 Semiconductor Test: $1.12B 🔹 Product Test: $107M 🔹 Robotics: $100M Comments: 🔸 “Our strategy to capture test and robotics opportunities from wafer to AI data center has driven another record quarter.” 🔸 “In the short term, our Q3 guidance reflects robust AI-related demand. Looking further ahead, rapid increase in wafer fab equipment investment sets the stage for continued growth in 2027 and beyond.”",
+      "source": "Twitter @wallstengine",
+      "message": "Teradyne פרסמה תוצאות רבעון שני שהפתיעו לטובה: הכנסות של 1.33 מיליארד דולר - פי שניים לעומת השנה שעברה, ו-9% מעל התחזיות. הרווח למניה עקף את הציפיות ב-18%.\n\nמה שמעניין פה הוא הסיפור שמאחורי המספרים: Teradyne בודקת שבבים - וכשהביקוש לשבבי AI מזנק, גם הביקוש לציוד הבדיקה שלהם מזנק. זה משחק עקיף על גל ה-AI שרוב האנשים לא חושבים עליו. ה-guidance לרבעון הבא גם הוא מעל הציפיות בצורה משמעותית, עם ראייה אופטימית לגבי 2027 ומעבר לכך.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "מוליכים",
+        "בדיקות",
+        "AI"
       ]
     }
   ]
