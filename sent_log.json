@@ -337,7 +337,8 @@
     "46dd74fb5ea5e5fa": "2026-07-29T12:58:56.700875+00:00",
     "d3ac6445600b8a13": "2026-07-29T15:11:05.154088+00:00",
     "d817e2100fcd7484": "2026-07-29T17:12:53.066596+00:00",
-    "d62a52f3a31a90f0": "2026-07-29T19:11:13.997082+00:00"
+    "d62a52f3a31a90f0": "2026-07-29T19:11:13.997082+00:00",
+    "49f073af11d2d891": "2026-07-29T20:53:01.303563+00:00"
   },
   "messages": [
     {
@@ -4785,6 +4786,19 @@
         "פד",
         "ריבית",
         "מדיניות כספית"
+      ]
+    },
+    {
+      "sent_at": "2026-07-29T20:53:01.303563+00:00",
+      "title": "$META Platforms Q2’26 Earnings Highlights 🔹 Revenue: $60.8B (Est. $60.17B) 🟢; +28% YoY 🔹 EPS: $6.18 (Est. $7.22) 🔴; -13% YoY 🔹 DAP: 3.60B (Est. 3.61B) 🟡; +3% YoY 🔸 FY26 CapEx: $130B-$145B, from $125B-$145B Guide: 🔹 Q3 Revenue: $61B-$64B (Est. $63.15B) 🟡 🔹 FY26 Expenses: $165B-$169B; raised for Q2 legal charges 🔹 FY26 Oper. Income: Above 2025 level 🔹 FY26 Remaining Tax Rate: 15%-17%; from 13%-16% Q2 Segment: 🔹 Advertising Revenue: $59.4B (Est. $59.01B) 🟢; +27% YoY 🔹 Family of Apps Revenue: $60.4B (Est. $59.60B) 🟢; +28% YoY 🔹 Family of Apps Operating Income: $23.4B 🔹 Reality Labs Revenue: $431M (Est. $441.5M) 🔴 🔹 Reality Labs Operating Loss: ($4.62B) (Est. ~$5.0B) 🟢 Other Metrics: 🔹 Ad Impressions: +14% YoY 🔹 Avg. Price per Ad: +12% YoY 🔹 Headcount: 75,472; -1% YoY 🔹 CapEx: $31.08B (Est. ~$33.7B) 🟡 🔹 Operating Cash Flow: $31.9B 🔹 Free Cash Flow: $784M 🔹 Dividend & Equivalents: $1.35B 🔹 Cash, Equivalents & Marketable Securities: $90.26B Financials: 🔹 Oper. Income: $18.8B (Est. $21.5B) 🔴; -8% YoY 🔹 Costs & Expenses: $42.0B; +55% YoY 🔹 Operating Margin: 31%; -1,200 bps YoY 🔹 Net Income: $15.8B; -14% YoY 🔹 Long-Term Debt: $83.66B 🔹 Includes $2.40B of legal proceeding charges recognized in Q2 CEO Commentary: 🔸 “AI is accelerating our core business today, powering our next generation of products, and opening the door to entirely new enterprise opportunities.” 🔸 “The results are already showing, and I'm optimistic about the potential ahead.”",
+      "source": "Twitter @wallstengine",
+      "message": "הכנסות Meta ברבעון השני עלו ב-28% לעומת השנה שעברה ל-60.8 מיליארד דולר - מעל התחזיות. אבל הרווח למניה הפתיע לרעה: 6.18 דולר במקום 7.22 שצפו, בחלק בשל חיובים משפטיים של 2.4 מיליארד.\n\nמה שבאמת שווה לשים לב אליו: ההוצאות קפצו 55% בשנה אחת, והחברה מתכוונת להשקיע בין 130 ל-145 מיליארד השנה בתשתיות. זה לחץ ישיר על ספקי שרתים, חברות אנרגיה ויצרני מעבדים.\n\nReality Labs ממשיכה לדמם - הפסד תפעולי של 4.6 מיליארד ברבעון אחד. צוקרברג מהמר הרבה.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "טכנולוגיה",
+        "השקעות"
       ]
     }
   ]
