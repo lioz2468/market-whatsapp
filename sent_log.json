@@ -332,7 +332,8 @@
     "f0b5897461799aaf": "2026-07-28T17:24:34.964643+00:00",
     "1b26d0ec8c6b1caf": "2026-07-28T19:19:22.535295+00:00",
     "4efdf297d1a3c7a0": "2026-07-28T21:05:32.169885+00:00",
-    "1600f3c60fed0e87": "2026-07-29T07:41:01.889069+00:00"
+    "1600f3c60fed0e87": "2026-07-29T07:41:01.889069+00:00",
+    "61042d38f4786a2a": "2026-07-29T10:36:13.832337+00:00"
   },
   "messages": [
     {
@@ -4714,6 +4715,19 @@
         "AI",
         "טכנולוגיה ענקית",
         "הוצאות הון"
+      ]
+    },
+    {
+      "sent_at": "2026-07-29T10:36:13.832337+00:00",
+      "title": "VERTIV $VRT Q2’26 EARNINGS HIGHLIGHTS 🔹 Revenue: $3.3B (Est. $3.38B) 🔴; +24% YoY 🔹 Adj. EPS: $1.52 (Est. $1.42) 🟢; +60% YoY 🔹 Adj. Oper Margin: 22.6%; +410 bps YoY Raises FY26 Guide: 🔹 Adj. EPS: $6.65-$6.75 (Est. $6.48) 🟢 🔹 Revenue: $13.8B-$14.2B (Est. $13.87B) 🟢 🔹 Organic Sales Growth: 30%-32% 🔹 Adj. Operating Margin: 23.3%-24.3% 🔹 Adj. EPS Growth: 58%-61% 🔹 Adj. Free Cash Flow: $2.4B-$2.6B Q3 Guide: 🔹 Revenue: $3.65B-$3.85B (Est. $3.71B) 🟡 🔹 Organic Sales Growth: 34%-36% 🔹 Adj. Operating Margin: 24.0%-25.0% 🔹 Adj. EPS: $1.77-$1.83 (Est. $1.79) 🟡 🔹 Adj. EPS Growth: 43%-48% Segment Net Revenue: 🔹 AMER: $2.1B; +29.2% YoY 🔹 APAC: $719.9M; +28.5% YoY 🔹 EMEA: $483.6M; +1.7% YoY Other Q2 Metrics: 🔹 Organic Sales Growth: 18% 🔹 Adj. Operating Profit: $738M; +51% YoY 🔹 Operating Cash Flow: $1.1B; +241% YoY 🔹 Adj. Free Cash Flow: $925M; +234% YoY Comments: 🔸 “Demand for AI and general compute continues to intensify and with each technology advancement, deployments grow more complex and more infrastructure-intensive.” 🔸 “We see a demand environment that continues to grow, and we continue to invest ahead of it — planting seeds now that we expect to compound for years to come.”",
+      "source": "Twitter @wallstengine",
+      "message": "Vertiv דיווחה על רווח למניה של 1.52 דולר ברבעון השני - 60% יותר מאשר לפני שנה, ומעל הציפיות. הכנסות של 3.3 מיליארד דולר היו קצת מתחת לתחזית, אבל מה שמעניין יותר הוא מה שקרה לתזרים המזומנים - עלה ב-234% בשנה אחת.\n\nהחברה מייצרת את הציוד שמנהל חום, חשמל וקירור בתוך מרכזי הנתונים שמריצים את ה-AI. כל מודל גדול שיוצא לשוק דורש יותר תשתית - וזה ישירות מתורגם להכנסות שלה.\n\nההשפעה העקיפה: זה סימן טוב גם לחברות חשמל, קירור תעשייתי ויצרני מתגי רשת. הצמיחה של Vertiv מראה שה-buildout האמיתי של תשתיות AI עדיין בעיצומו.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "תשתיות",
+        "דטא-סנטרים"
       ]
     }
   ]
