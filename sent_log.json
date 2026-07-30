@@ -343,7 +343,8 @@
     "e777f13b2a2f485c": "2026-07-30T10:22:49.407023+00:00",
     "a0bdd816e7d31a2e": "2026-07-30T12:27:38.309402+00:00",
     "b0885a8e680d9dd4": "2026-07-30T15:09:24.821377+00:00",
-    "b5307009fd96ceaa": "2026-07-30T17:24:25.654468+00:00"
+    "b5307009fd96ceaa": "2026-07-30T17:24:25.654468+00:00",
+    "376fc8de0c2fb096": "2026-07-30T19:21:38.912008+00:00"
   },
   "messages": [
     {
@@ -4870,6 +4871,20 @@
         "רכבים אוטונומיים",
         "רגולציה",
         "Amazon"
+      ]
+    },
+    {
+      "sent_at": "2026-07-30T19:21:38.912008+00:00",
+      "title": "GOOGLE BACKS ANTHROPIC’S TEXAS AI CAMPUS Nexus Data Centers is in advanced talks for $15B in financing led by Morgan Stanley to build a 1.6GW campus and natural-gas power plant in Hubbard, Texas. Anthropic has signed four data-center leases and corresponding power-purchase agreements. Google would guarantee billions of dollars in lease and power obligations if Anthropic defaults and is expected to receive roughly a 20% equity stake in the project. The campus would use Google TPUs co-designed with Broadcom, with the chips financed separately through a vendor-financing agreement between Anthropic and Broadcom. The financing package includes a $14B bridge loan and a revolving credit facility. Source: WSJ",
+      "source": "Twitter @wallstengine",
+      "message": "גוגל מגבה קמפוס AI של Anthropic בטקסס בעסקה של 15 מיליארד דולר. Nexus Data Centers מגייסת מימון בהובלת Morgan Stanley לבניית קמפוס של 1.6 גיגה-וואט בהאברד, טקסס - כולל תחנת כוח על גז טבעי. גוגל ערבה למיליארדים אם Anthropic לא יעמוד בהתחייבויות, ובתמורה מקבלת כ-20% מהפרויקט.\n\nמעניין מי עוד יושפע: Broadcom, שמייצרת את המעבדים בשיתוף עם גוגל, נכנסת לעסקת מימון ספק נפרדת - עוד הכנסה עתידית שלא תמיד נכנסת לחשבון. וחברות גז טבעי בטקסס כנראה שמחות.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "תשתיות",
+        "השקעות",
+        "גוגל"
       ]
     }
   ]
