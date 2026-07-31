@@ -345,7 +345,8 @@
     "b0885a8e680d9dd4": "2026-07-30T15:09:24.821377+00:00",
     "b5307009fd96ceaa": "2026-07-30T17:24:25.654468+00:00",
     "376fc8de0c2fb096": "2026-07-30T19:21:38.912008+00:00",
-    "15bdb2f4cd426a7d": "2026-07-30T21:06:10.371372+00:00"
+    "15bdb2f4cd426a7d": "2026-07-30T21:06:10.371372+00:00",
+    "fc913559efa2e66d": "2026-07-31T07:48:58.076311+00:00"
   },
   "messages": [
     {
@@ -4899,6 +4900,20 @@
         "GDP",
         "אינפלציה",
         "מאקרו"
+      ]
+    },
+    {
+      "sent_at": "2026-07-31T07:48:58.076311+00:00",
+      "title": "TESLA $TSLA WEIGHS CHINA SPLIT BEFORE SPACEX $SPCX DEAL - WSJ Advisers have discussed a spinoff, sale or closure, while executives have been told to prepare for a potential separation. The plans remain preliminary and could change. A standalone China unit would create a regulatory firewall between Tesla and SpaceX, a major U.S. defense contractor, addressing concerns over Chinese customer data, dual-use technology and Beijing’s oversight. China accounted for about 18% of Tesla’s sales in the first half of 2026 and houses two major Shanghai factories. SpaceX generated 20.9% of its 2025 business from the U.S. government. Source: WSJ",
+      "source": "Twitter @wallstengine",
+      "message": "טסלה שוקלת לנתק את פעילותה בסין לפני עסקת המיזוג עם SpaceX - כך לפי ה-WSJ. על השולחן: מכירה, ספין-אוף, או סגירה. הסיבה היא בעיקרה רגולטורית - SpaceX היא קבלן ביטחוני אמריקאי גדול, וגישת סין לנתוני לקוחות ולטכנולוגיה דואלית הפכה לבעיה אמיתית.\n\nזה לא עניין קטן: סין היא 18% ממכירות טסלה בחצי הראשון של 2026, כולל שתי מפעלים ענקיים בשנגחאי. ספין-אוף כזה ישנה גם את מאזן הכוחות מול יצרניות רכב סיניות שמתחרות בה שם.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "טסלה",
+        "ספייס אקס",
+        "סין",
+        "ורדות"
       ]
     }
   ]
