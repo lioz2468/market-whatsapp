@@ -347,7 +347,8 @@
     "376fc8de0c2fb096": "2026-07-30T19:21:38.912008+00:00",
     "15bdb2f4cd426a7d": "2026-07-30T21:06:10.371372+00:00",
     "fc913559efa2e66d": "2026-07-31T07:48:58.076311+00:00",
-    "ce8d1c4a98d72853": "2026-07-31T10:36:06.575970+00:00"
+    "ce8d1c4a98d72853": "2026-07-31T10:36:06.575970+00:00",
+    "0134c3d38436616d": "2026-07-31T12:54:33.288760+00:00"
   },
   "messages": [
     {
@@ -4928,6 +4929,19 @@
         "Apple",
         "הנהלה",
         "תחזוקה"
+      ]
+    },
+    {
+      "sent_at": "2026-07-31T12:54:33.288760+00:00",
+      "title": "Morgan Stanley on $AMZN (OW, PT $335) Analyst comments: \"AWS's approximately 840bps growth acceleration to 36.8% year-over-year growth, versus our estimate of 34%, speaks to its pole position in the age of GenAI adoption across training and inference. AWS AI annual recurring revenue grew 67%, or $10 billion quarter over quarter, reaching $25 billion, or 15% of total AWS annual recurring revenue. Meanwhile, non-AI revenue accelerated to low-20% year-over-year growth from approximately 19%-20% growth in the first quarter. This speaks to AWS's ability to attach non-AI services, such as Graviton, to AI workloads, as well as continued strong demand for its core tools. AWS's $496 billion backlog, up $132 billion quarter over quarter, was 5%, or approximately $20 billion, better than expected. In our view, this remains an important indicator of durable, multiyear growth ahead for AWS. While higher-margin net accounting with Bedrock played a role, AWS profitability was impressive, as incremental margins rose to approximately 52%, excluding a one-time item—the highest level since the fourth quarter of 2024. We believe this was driven by capacity optimization, Bedrock, accelerating core growth, and other factors. As detailed in our July 27, 2026 report, 'Internet: The Paths to 25%-50% GenAI ROIC,' we see hyperscaler incremental margins during this GenAI inference era approaching 30%-70% or more, with AWS's results demonstrating the profitability potential ahead.\" Analyst: Brian Nowak",
+      "source": "Twitter @wallstengine",
+      "message": "AWS צמחה ב-36.8% ברבעון האחרון - הרבה מעל הצפי של 34% - והכנסות ה-AI שלה הגיעו ל-25 מיליארד דולר בשנה, קפיצה של 67% בתוך רבעון אחד. Morgan Stanley שמר על יעד מחיר של 335 דולר ל-Amazon.\n\nמה שמעניין פה הוא לא רק המספרים - זה שגם שירותים שאינם AI, כמו מעבדי Graviton, מאיצים בגלל ה-AI. כלומר, גל ה-AI מרים גם את החלקים \"הישנים\" של העסק. הצבר ההזמנות של AWS עומד על 496 מיליארד דולר - עלייה של 132 מיליארד ברבעון בלבד. זה לא עסקה חד-פעמית, זה נראה כמו צמיחה ממושכת לשנים קדימה.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "ענן",
+        "AI",
+        "צמיחה"
       ]
     }
   ]
