@@ -362,7 +362,8 @@
     "149e3582a623918f": "2026-08-02T17:59:42.508517+00:00",
     "bae0ab5224db900b": "2026-08-02T19:21:19.548155+00:00",
     "435eb0762d700994": "2026-08-02T20:52:03.634517+00:00",
-    "1ca3f46a39f909e1": "2026-08-03T08:26:21.386981+00:00"
+    "1ca3f46a39f909e1": "2026-08-03T08:26:21.386981+00:00",
+    "d15e8bd8aebc29cc": "2026-08-03T12:20:10.288100+00:00"
   },
   "messages": [
     {
@@ -5139,6 +5140,20 @@
         "מיזוגים",
         "פרמצבטיקה",
         "שוק הון"
+      ]
+    },
+    {
+      "sent_at": "2026-08-03T12:20:10.288100+00:00",
+      "title": "BERNSTEIN SEES $1T SERVER MARKET BY 2028 Bernstein raised its global server and GPU AI server shipment forecasts to 15% and 22% CAGRs through 2028. 8-GPU-equivalent server shipments are expected to grow 48% in 2026, with rack shipments reaching 61,000 this year and 88,000 in 2027. $NVDA Rubin and $AMD Helios racks are expected to begin shipping in Q4. Planned and under-construction data center investment now totals roughly $1.2T. Major cloud providers’ 2026 capex estimates have risen nearly 15% since March, with combined spending projected to reach around $1.1T by 2027. Bernstein expects custom ASICs to represent roughly 45% of CoWoS-based AI chip shipments, while Google TPU shipments are projected to grow about 90% in 2026.",
+      "source": "Twitter @wallstengine",
+      "message": "בנק ההשקעות Bernstein צופה שוק שרתים של טריליון דולר עד 2028, עם צמיחה שנתית של 22% בשרתי AI. השקעות במרכזי נתונים - בנויים ומתוכננים - כבר מגיעות ל-1.2 טריליון דולר, וההוצאות של ספקיות הענן הגדולות קפצו ב-15% רק מאז מרץ.\n\nמה שמעניין פה מעבר ל-NVIDIA ו-AMD: ספקיות חשמל, קירור תעשייתי ורשתות סיב אופטי הן אלו שמספקות את התשתית לכל הגידול הזה - והביקוש אליהן לא הולך לשום מקום.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "בנייה תשתיות",
+        "צ'יפים",
+        "ענני ענקיים"
       ]
     }
   ]
