@@ -371,7 +371,8 @@
     "b1667fccca2defb3": "2026-08-04T10:35:29.883478+00:00",
     "cc7a471c59ac1c6e": "2026-08-04T12:59:42.902956+00:00",
     "2b28980d0aff0b18": "2026-08-04T15:29:15.791061+00:00",
-    "d46dbfc88dd48c5f": "2026-08-04T17:45:24.775116+00:00"
+    "d46dbfc88dd48c5f": "2026-08-04T17:45:24.775116+00:00",
+    "8e52430f696b81c0": "2026-08-04T19:27:58.783199+00:00"
   },
   "messages": [
     {
@@ -5266,6 +5267,19 @@
         "מטבע",
         "בנק יפן",
         "ריבית"
+      ]
+    },
+    {
+      "sent_at": "2026-08-04T19:27:58.783199+00:00",
+      "title": "$FSLR $ENPH $TE U.S. WEIGHS POLYSILICON PRICE FLOOR AND TARIFFS TO COUNTER CHINA - Reuters The Trump administration is preparing a minimum import price and tariffs on polysilicon and related products, with a decision expected later this month. Polysilicon is a critical input for solar panels and semiconductor chips. The plan aims to protect domestic producers Hemlock Semiconductor, a joint venture between Corning and Shin-Etsu, and Wacker Chemie while reducing dependence on China, which controls roughly 80% of global solar manufacturing capacity. Importers investing in U.S. wafer and solar-cell production may be allowed to offset some of the added costs. The proposal is not yet final.",
+      "source": "Twitter @wallstengine",
+      "message": "ממשל טראמפ שוקל להטיל מחיר מינימום ומכסים על יבוא פוליסיליקון - החומר הגולמי הקריטי לייצור פאנלים סולאריים וגם שבבים. סין שולטת בכ-80% מהייצור הגלובלי, וזה בדיוק הבעיה.\n\nלמי זה חשוב מעבר לשמש? לתעשיית השבבים. פוליסיליקון הוא חומר גלם משותף, אז כל התייקרות שם מגיעה גם לחצרות של יצרני הסיליקון לאלקטרוניקה.\n\nהחברות שיכולות להרוויח: Hemlock Semiconductor ו-Wacker Chemie, היצרניות המקומיות שהתוכנית נועדה להגן עליהן. ההחלטה צפויה עד סוף החודש.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "תעריפים",
+        "אנרגיה",
+        "פוליסיה סחר"
       ]
     }
   ]
