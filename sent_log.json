@@ -366,7 +366,8 @@
     "d15e8bd8aebc29cc": "2026-08-03T12:20:10.288100+00:00",
     "da2eeae60893c7fc": "2026-08-03T17:48:50.158855+00:00",
     "2779b3a07492277c": "2026-08-03T19:27:14.730183+00:00",
-    "683fb1f076cdfd1c": "2026-08-03T21:00:07.872023+00:00"
+    "683fb1f076cdfd1c": "2026-08-03T21:00:07.872023+00:00",
+    "b056cbb062bb2612": "2026-08-04T07:36:31.493632+00:00"
   },
   "messages": [
     {
@@ -5196,6 +5197,19 @@
         "נפט",
         "הורמוז",
         "גיאופוליטיקה"
+      ]
+    },
+    {
+      "sent_at": "2026-08-04T07:36:31.493632+00:00",
+      "title": "PALANTIR $PLTR Q2'26 EARNINGS HIGHLIGHTS 🔹 Revenue: $1.94B (Est. $1.8B) 🟢; +93% YoY 🔹 Adj. EPS: $0.41 (Est. $0.35) 🟢 🔹 US Commercial Revenue: $764M; +149% YoY 🔹 Adj. Op Inc: $1.19B (Est. $1.06B) 🟢 Q3 2026 Guide: 🔹 Revenue: $2.160B-$2.164B (Est. $2B) 🟢 🔹 Adj. Op Inc: $1.29B-$1.30B (Est. $1.14B) 🟢 Raises FY26 Guide: 🔹 Revenue: $8.15B-$8.16B (Est. $7.69B) 🟢 🔹 US Comm Revenue: >$3.4B; 134%+ YoY 🔹 Adj. Op Inc: $4.89B-$4.90B (Est. $4.46B) 🟢 🔹 Adj. FCF: $4.5B-$4.7B (Est. $4.27B) 🟢 Revenue Breakdown: 🔹 US Revenue: $1.6B; +115% YoY 🔹 US Commercial: $764M; +149% YoY 🔹 US Government: $809M; +90% YoY Other Q2 Metrics: 🔹 Rule of 40: 155% 🔹 TCV: $3.4B; +49% YoY 🔹 US Commercial TCV: $2.1B; +153% YoY 🔹 US Commercial RDV: $6.2B; +124% YoY Comments: 🔸 \"This quarter was otherworldly: our U.S. commercial revenue grew 149% year-over-year, our overall revenue grew 93% year-over-year, and our Rule of 40 score climbed to 155%. The sovereign AI revolution makes us very optimistic about the future.\"",
+      "source": "Twitter @wallstengine",
+      "message": "Palantir דיווחה על הכנסות של 1.94 מיליארד דולר ברבעון השני - צמיחה של 93% לעומת אשתקד, הרבה מעל הצפי. הנתון שבאמת קופץ לעין: הכנסות מהסקטור המסחרי בארה\"ב זינקו ב-149%.\n\nזה לא סתם רבעון טוב - זה אימוץ AI ממשי בחברות גדולות, לא רק ניסויים. הממשלה האמריקאית ממשיכה להגדיל הזמנות, וה-guidance לשנה מלאה עלה ל-8.15 מיליארד.\n\nמי שכדאי לשים לב: ספקיות תשתית AI, ענן וחברות ייעוץ דיגיטלי - Palantir מושכת אחריה ביקושים שמסתיימים גם אצלהן.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "דאטה",
+        "ריווח"
       ]
     }
   ]
