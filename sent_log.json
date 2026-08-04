@@ -369,7 +369,8 @@
     "683fb1f076cdfd1c": "2026-08-03T21:00:07.872023+00:00",
     "b056cbb062bb2612": "2026-08-04T07:36:31.493632+00:00",
     "b1667fccca2defb3": "2026-08-04T10:35:29.883478+00:00",
-    "cc7a471c59ac1c6e": "2026-08-04T12:59:42.902956+00:00"
+    "cc7a471c59ac1c6e": "2026-08-04T12:59:42.902956+00:00",
+    "2b28980d0aff0b18": "2026-08-04T15:29:15.791061+00:00"
   },
   "messages": [
     {
@@ -5238,6 +5239,19 @@
         "ספייס-אקס",
         "IPO",
         "תשתיות תקשורת"
+      ]
+    },
+    {
+      "sent_at": "2026-08-04T15:29:15.791061+00:00",
+      "title": "BLACKSTONE MULLS $36B ANTHROPIC CHIP FINANCING Blackstone, one of the world’s largest alternative asset managers, has reportedly begun early talks with investors about arranging at least $36B in debt to finance Anthropic’s use of Google’s custom AI chips. If completed at the proposed size, it would surpass the $35B package arranged by Apollo and Blackstone two months ago, which financed Anthropic’s use of Google chips across five data centers. The size, structure and Blackstone’s role are still under discussion and could change. Source: Bloomberg",
+      "source": "Twitter @wallstengine",
+      "message": "36 מיליארד דולר - זה הסכום שבו Blackstone בוחנת לממן את רכישת שבבי ה-AI של גוגל עבור Anthropic. אם זה יצא לפועל, זה יעקוף את עסקת ה-35 מיליארד שהם עצמם סגרו לפני שני חודשים בלבד.\n\nמה שמעניין פה: הכסף לא הולך לפיתוח מודלים - הוא הולך לחומרה. Google מוכרת שבבים, Blackstone גובה ריבית, ו-Anthropic קונה כוח חישוב בקנה מידה שלא ראינו. מי שצריך לשים לב - כל מי שמשקיע בתשתיות AI ובמימון חוב.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "בינה מלאכותית",
+        "השקעות",
+        "מימון"
       ]
     }
   ]
