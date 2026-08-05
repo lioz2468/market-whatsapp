@@ -373,7 +373,8 @@
     "2b28980d0aff0b18": "2026-08-04T15:29:15.791061+00:00",
     "d46dbfc88dd48c5f": "2026-08-04T17:45:24.775116+00:00",
     "8e52430f696b81c0": "2026-08-04T19:27:58.783199+00:00",
-    "44e92c85b0d8529c": "2026-08-04T21:09:39.615319+00:00"
+    "44e92c85b0d8529c": "2026-08-04T21:09:39.615319+00:00",
+    "0faa492f3bef389e": "2026-08-05T07:36:38.749273+00:00"
   },
   "messages": [
     {
@@ -5295,6 +5296,19 @@
         "דטא סנטר",
         "טכנולוגיה",
         "צמיחה"
+      ]
+    },
+    {
+      "sent_at": "2026-08-05T07:36:38.749273+00:00",
+      "title": "Elon Musk says SpaceX will build exclusively on $NVDA: “We’ve decided to build exclusively on NVIDIA. We think Vera is the best architecture and the best AI computer.” Musk expects more than 2 GW of compute by year-end and closer to 10 GW than 5 GW by the end of 2027.",
+      "source": "Twitter @wallstengine",
+      "message": "SpaceX תבנה את כל תשתית המחשוב שלה על NVIDIA בלבד - זה הכריז מאסק הלילה. הוא מדבר על יותר מ-2 גיגה-וואט של כוח מחשוב עד סוף השנה, ועד סוף 2027 - קרוב ל-10 גיגה-וואט. זה עצום.\n\nמה שמעניין פה מעבר ל-NVIDIA עצמה: כל שרשרת האספקה נהנית - מקררים, אספקות חשמל, חברות הקמת מתקנים. ולחברות שחשבו לגוון לשבבים מתחרים - מאסק בעצם אומר שה-architecture של Vera הכי טובה עכשיו.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "NVDA",
+        "AI",
+        "חלל"
       ]
     }
   ]
