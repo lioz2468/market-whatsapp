@@ -380,7 +380,8 @@
     "99341983c81e17a0": "2026-08-05T15:12:00.879860+00:00",
     "e37bfc7fcc3ad521": "2026-08-05T17:27:07.907040+00:00",
     "ae9ef75f926ec395": "2026-08-05T19:25:37.094885+00:00",
-    "df03d031b4fee3f3": "2026-08-05T21:04:51.595940+00:00"
+    "df03d031b4fee3f3": "2026-08-05T21:04:51.595940+00:00",
+    "ce7b0f9482cbd5cb": "2026-08-06T07:37:10.386808+00:00"
   },
   "messages": [
     {
@@ -5392,6 +5393,19 @@
         "מדיניות",
         "מכס",
         "סחר בין-לאומי"
+      ]
+    },
+    {
+      "sent_at": "2026-08-06T07:37:10.386808+00:00",
+      "title": "RT by @wallstengine: SANDISK $SNDK Q4 EARNINGS HIGHLIGHTS 🔹 Revenue: $8.97B (Est. $8.6B) 🟢; +372% YoY, +51% QoQ 🔹 Adj. EPS: $39.25 (Est. $34.45) 🟢; +68% QoQ 🔹 Adj. Gross Margin: 84.6% (Est. 81.5%) 🟢; + 58.2 ppt YoY Q1'27 Guide: 🔹 Revenue: $10.3B-$10.8B (Est. $11.1B) 🔴 🔹 Adj. EPS: $44.00-$46.00 (Est. $45.50) 🟡 🔹 Adj. Gross Margin: 83.0%-85.0% 🔹 Diluted Shares Outstanding: ~155M End Market Revenue: 🔹 Datacenter: $2.98B; +103% QoQ 🔹 Edge: $5.43B; +48% QoQ, +392% YoY 🔹 Consumer: $556M; -32% QoQ, -5% YoY Other Q2 Metrics: 🔹 Adj. Operating Income: $7.10B; +68% QoQ 🔹 New Buyback Authorization: $14B; total remaining $15.5B Comments: 🔸 “We closed fiscal 2026 with a leading technology portfolio, established datacenter as a key growth pillar, and deepened our customer partnerships”",
+      "source": "Twitter @wallstengine",
+      "message": "SanDisk פרסמה תוצאות רבעון שבורות שיאים: הכנסות של 8.97 מיליארד דולר, גבוהות משמעותית מהתחזית, עם צמיחה של 372% לעומת אשתקד. שולי הרווח הגולמי הגיעו ל-84.6% - מספר שחברות רבות בתעשייה יכולות רק לחלום עליו.\n\nמה שמעניין במיוחד הוא החלוקה: הדאטה-סנטרים הכפילו את עצמם ברבעון אחד, בזמן שהצרכן הרגיל ממשיך להיחלש. זה מספר על שוק הזיכרון שהולך ומתמקד בתשתיות AI.\n\nהנקודה לשים לב אליה: התחזית לרבעון הבא הגיעה מעט מתחת לציפיות - מה שעלול להוריד את המניה למרות תוצאות מצוינות.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "זיכרון פלאש",
+        "דטאסנטרים",
+        "AI"
       ]
     }
   ]
