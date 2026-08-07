@@ -388,7 +388,8 @@
     "8e9d5fda13fa24fe": "2026-08-07T06:07:51.754993+00:00",
     "3134230e2de0a54d": "2026-08-07T08:11:34.649219+00:00",
     "4c6407614787008c": "2026-08-07T09:59:18.453270+00:00",
-    "aa3be2e03944058c": "2026-08-07T10:58:18.685155+00:00"
+    "aa3be2e03944058c": "2026-08-07T10:58:18.685155+00:00",
+    "f89cf4a8795c5cec": "2026-08-07T11:49:35.356917+00:00"
   },
   "messages": [
     {
@@ -5505,6 +5506,19 @@
         "עיסוקה",
         "פד",
         "ריבית"
+      ]
+    },
+    {
+      "sent_at": "2026-08-07T11:49:35.356917+00:00",
+      "title": "VISTRA $VST Q2’26 EARNINGS HIGHLIGHTS 🔹 Revenue: $4.0B (Est. $5.46B) 🔴 🔹 Net Income: $305M (Est. $556M) 🔴 🔹 Adj. EBITDA: $1.8B (Est. $1.64B) 🟢; +30% YoY 🔹 Operating Income: $553M (Est. $1.04B) 🔴 Affirms FY26 Guide: 🔹 Adjusted EBITDA: $6.8B-$7.6B 🔹 Adjusted FCFbG: $3.9B-$4.7B Segment Adjusted EBITDA: 🔹 Retail: $773M 🔹 Texas: $311M 🔹 East: $642M 🔹 West: $68M Other Q2 Metrics: 🔹 Commercial Availability: 97% or greater Comments: 🔸 “During recent periods of extreme heat in Texas and the PJM market, Vistra achieved commercial availability of 97% or greater across our fleet” 🔸 “The formation of Helix Digital Infrastructure, alongside our partners NVIDIA, KKR, and Kuwait Investment Authority, as well as Vistra's role as Helix's preferred power provider, create an exciting opportunity for the company.”",
+      "source": "Twitter @wallstengine",
+      "message": "Vistra דיווחה על הכנסות של 4 מיליארד דולר ברבעון השני - פספוס משמעותי מול תחזית של 5.46 מיליארד. גם הרווח הנקי הגיע לחצי מהציפיות. אבל ה-EBITDA המתואם עלה 30% ביחס לשנה שעברה וחצה את התחזיות - מה שמעיד שהעסק הבסיסי עובד, גם אם הכנסות חד-פעמיות לא הגיעו.\n\nמה שמעניין יותר: Vistra הכריזה על שותפות עם NVIDIA, KKR ורשות ההשקעות הכווויתית להקמת תשתית דיגיטלית בשם Helix - ו-Vistra תהיה ספקית האנרגיה המועדפת שלה. זו בדיוק המגמה שצריך לעקוב אחריה: חברות חשמל הופכות לתשתית קריטית של עידן ה-AI.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "אנרגיה",
+        "AI",
+        "דאטא סנטרים"
       ]
     }
   ]
