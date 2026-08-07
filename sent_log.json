@@ -392,7 +392,8 @@
     "f89cf4a8795c5cec": "2026-08-07T11:49:35.356917+00:00",
     "d9592475dede1478": "2026-08-07T12:56:22.246508+00:00",
     "4a28da77df35ae41": "2026-08-07T14:12:49.724803+00:00",
-    "e3e1a699f27d8d45": "2026-08-07T15:53:51.432303+00:00"
+    "e3e1a699f27d8d45": "2026-08-07T15:53:51.432303+00:00",
+    "9f4dfd49e17fa213": "2026-08-07T16:51:42.015818+00:00"
   },
   "messages": [
     {
@@ -5561,6 +5562,19 @@
         "אנרגיה",
         "שרשרת אספקה",
         "גיאופוליטיקה"
+      ]
+    },
+    {
+      "sent_at": "2026-08-07T16:51:42.015818+00:00",
+      "title": "OpenAI slows Astra over potential “critical” cyber capabilities They are expanding safety tests & security controls before release, potentially delaying the model. It could mark the first time a frontier AI lab has slowed its own model development over cyber risks.",
+      "source": "Twitter @wallstengine",
+      "message": "OpenAI עצרה את פיתוח Astra - המודל הבא שלה - כי גילו שיש לו יכולות סייבר שהם מגדירים כ\"קריטיות\". מרחיבים את בדיקות הבטיחות לפני שחרור.\n\nאם זה מדויק, זו הפעם הראשונה שחברת AI מובילה מאטה בכוונה את הפיתוח של המודל שלה בגלל סיכון בטיחותי - לא בגלל לחץ רגולטורי, אלא מבפנים.\n\nההשפעה העקיפה: זה יכול להגדיר סטנדרט חדש לכל התעשייה. אם OpenAI עושה את זה, גם על Google ו-Anthropic יהיה לחץ להוסיף שלבי בדיקה דומים. יותר זהירות - יותר עיכובים - טמפו שונה ממה שהתרגלנו אליו בשנתיים האחרונות.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "ביטחון סייבר",
+        "תקנון"
       ]
     }
   ]
