@@ -410,7 +410,8 @@
     "72ca6ec79c2384b9": "2026-08-09T14:31:19.201108+00:00",
     "b8d9590378987f67": "2026-08-09T15:28:18.788738+00:00",
     "9016477bf7c81b61": "2026-08-09T16:30:48.350492+00:00",
-    "f06abf56ba2916e2": "2026-08-09T17:29:06.362130+00:00"
+    "f06abf56ba2916e2": "2026-08-09T17:29:06.362130+00:00",
+    "940678feb97c84b9": "2026-08-09T18:35:53.274908+00:00"
   },
   "messages": [
     {
@@ -5814,6 +5815,19 @@
         "אינפלציה",
         "פד",
         "ריבית"
+      ]
+    },
+    {
+      "sent_at": "2026-08-09T18:35:53.274908+00:00",
+      "title": "Apple is testing CXMT memory chips across products including iPhones and MacBooks and has held early talks about using them in some devices sold in China, according to the WSJ. Important to note, U.S. rules prevent Apple from sharing technical specifications with CXMT, effectively blocking it from ordering customized chips. Apple can still purchase off-the-shelf components, but using standard CXMT memory could require redesigning parts of its products. Supply is another constraint. CXMT has already maxed out its 2026 production capacity. HP and Acer have secured limited volumes and are trying to lock in more for next year. Many CXMT products now sell at prices on par with, and sometimes above, comparable chips from $MU, SK Hynix and Samsung.",
+      "source": "Twitter @wallstengine",
+      "message": "Apple בוחנת שימוש בשבבי זיכרון של CXMT הסינית - במכשירי iPhone ו-MacBook, ולפי וול סטריט ג'ורנל גם שוקלת אותם לדגמים שנמכרים בסין.\n\nהסיבוך: רגולציה אמריקאית חוסמת על Apple לשתף מפרטים טכניים עם CXMT, מה שאומר שהיא יכולה לקנות רק שבבים סטנדרטיים - וזה עשוי לחייב עיצוב מחדש של חלקים במוצרים.\n\nמה שמעניין מעבר לאפל: HP ו-Acer כבר נאבקות על כמויות מוגבלות של CXMT לשנה הבאה, וכבר עכשיו המחירים של השבבים הסיניים מגיעים לרמה של Micron, SK Hynix וסמסונג. שוק הזיכרון מתחיל להיראות אחרת.",
+      "importance": 8,
+      "tag": "גלובלי",
+      "topics": [
+        "מחסומים כלכליים",
+        "שרשרת אספקה",
+        "חימום טכנולוגי"
       ]
     }
   ]
