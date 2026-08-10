@@ -421,7 +421,8 @@
     "2bc0a48dbb8c6382": "2026-08-10T13:00:23.330407+00:00",
     "20cbd48d3d31aba6": "2026-08-10T14:23:20.134368+00:00",
     "1ee231249af7694f": "2026-08-10T15:58:02.920680+00:00",
-    "aa620c42abfd7258": "2026-08-10T16:55:41.838734+00:00"
+    "aa620c42abfd7258": "2026-08-10T16:55:41.838734+00:00",
+    "cfd668cf0d2b4765": "2026-08-10T17:50:17.182813+00:00"
   },
   "messages": [
     {
@@ -5970,6 +5971,19 @@
         "מקרו",
         "עבודה",
         "כלכלה"
+      ]
+    },
+    {
+      "sent_at": "2026-08-10T17:50:17.182813+00:00",
+      "title": "$NVDA, WALL STREET TEAM UP ON $500B AI FUNDING PUSH Nvidia is working with Apollo, Blackstone, BlackRock’s GIP, Brookfield, Goldman Sachs and KKR on a potential $500B funding package for AI infrastructure, per FT. The capital would support chips, power generation and data centers, with a deal potentially announced as soon as Monday.",
+      "source": "Twitter @wallstengine",
+      "message": "חבילת מימון של 500 מיליארד דולר לתשתיות AI - זה הסכום שעליו עובדות כרגע Nvidia יחד עם כמה מהשמות הגדולים בוול סטריט: Apollo, Blackstone, Goldman Sachs, KKR ועוד.\n\nהכסף מיועד לשלושה דברים: שבבים, מרכזי נתונים, וייצור חשמל. כן, חשמל - כי מרכזי AI צורכים אנרגיה בקנה מידה שהעולם עדיין לא ראה.\n\nמי שאולי לא חושבים עליו? חברות תשתית, ספקי אנרגיה וקירור תעשייתי - אלה שבונים את הצינורות שדרכם זורם כל הכסף הזה.",
+      "importance": 10,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "השקעות",
+        "תשתיות"
       ]
     }
   ]
