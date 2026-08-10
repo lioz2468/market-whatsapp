@@ -415,7 +415,8 @@
     "2fcf2ebb220f64fd": "2026-08-09T19:31:30.067346+00:00",
     "ee55a65b8665de67": "2026-08-09T20:28:13.331595+00:00",
     "e6b51cd1f0189cbb": "2026-08-10T06:08:45.654541+00:00",
-    "e061c3a91dfab15a": "2026-08-10T08:25:10.644795+00:00"
+    "e061c3a91dfab15a": "2026-08-10T08:25:10.644795+00:00",
+    "067eef85dad769e1": "2026-08-10T10:14:22.049599+00:00"
   },
   "messages": [
     {
@@ -5884,6 +5885,19 @@
         "אשראי פרטי",
         "סיכון כושר פירעון",
         "בנקאות"
+      ]
+    },
+    {
+      "sent_at": "2026-08-10T10:14:22.049599+00:00",
+      "title": "$SONY AND TSMC PLAN $6.3B IMAGE SENSOR PLANT IN JAPAN The companies plan a 60/40 JV to mass-produce next-gen image sensors in Kumamoto starting in 2029. The plant is expected to supply Apple’s iPhone and later target physical AI applications in robotics and vehicles",
+      "source": "Twitter @wallstengine",
+      "message": "Sony ו-TSMC מכריזות על מפעל חיישני תמונה משותף ביפן בהיקף של 6.3 מיליארד דולר. 60% Sony, 40% TSMC - ייצור מסחרי מתחיל ב-2029 באזור קומאמוטו.\n\nהלקוח הראשון הצפוי הוא Apple לסדרת האייפון, אבל היעד האמיתי לטווח ארוך הוא רובוטיקה ורכבים אוטונומיים - תחומים שצמאים לחיישנים מדויקים יותר.\n\nמי שכדאי לעקוב אחריו מהצד: ספקי ציוד ייצור יפניים, וחברות שמתחרות על אותה ביקוש ב-AI הפיזי.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "סמיקונדקטור",
+        "השקעות",
+        "AI"
       ]
     }
   ]
