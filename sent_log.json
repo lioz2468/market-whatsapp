@@ -418,7 +418,8 @@
     "e061c3a91dfab15a": "2026-08-10T08:25:10.644795+00:00",
     "067eef85dad769e1": "2026-08-10T10:14:22.049599+00:00",
     "435773292659ec8b": "2026-08-10T11:44:46.283003+00:00",
-    "2bc0a48dbb8c6382": "2026-08-10T13:00:23.330407+00:00"
+    "2bc0a48dbb8c6382": "2026-08-10T13:00:23.330407+00:00",
+    "20cbd48d3d31aba6": "2026-08-10T14:23:20.134368+00:00"
   },
   "messages": [
     {
@@ -5927,6 +5928,20 @@
         "רכב חשמלי",
         "סין",
         "מיתון מסורתי"
+      ]
+    },
+    {
+      "sent_at": "2026-08-10T14:23:20.134368+00:00",
+      "title": "Microsoft $MSFT is planning a major ramp in its next-gen Maia 300 AI chips, with talks underway with TSMC to secure capacity for 300,000+ chips for 2027,. Microsoft plans to unveil Maia 300 as soon as September and ultimately wants capacity for 1M+ chips. The goal is to reduce reliance on Nvidia and win major Azure customers like Anthropic. Its current Maia 200 chips are already 30%-40% cheaper to operate than cutting-edge Nvidia chips for OpenAI and Microsoft models. Source: The Information",
+      "source": "Twitter @wallstengine",
+      "message": "Microsoft מזמינה מעל 300,000 שבבי AI מדור הבא - Maia 300 - מ-TSMC, עם יעד של מיליון שבבים בסך הכל. השבבים הנוכחיים שלה כבר זולים ב-30%-40% להפעלה לעומת NVIDIA. המטרה ברורה: להיגמל מ-NVIDIA ולשכנע לקוחות גדולים של Azure - כמו Anthropic - לרוץ על תשתית ביתית.\n\nההשפעות העקיפות שווה לשים אליהן לב: AMD עלולה להיפגע כי Microsoft היא אחת הלקוחות הגדולות שלה, ו-TSMC מצד שני רק מרוויחה - היא מייצרת את השבבים לכולם.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "שבבים",
+        "מיקרוסופט",
+        "TSMC"
       ]
     }
   ]
