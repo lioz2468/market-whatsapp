@@ -419,7 +419,8 @@
     "067eef85dad769e1": "2026-08-10T10:14:22.049599+00:00",
     "435773292659ec8b": "2026-08-10T11:44:46.283003+00:00",
     "2bc0a48dbb8c6382": "2026-08-10T13:00:23.330407+00:00",
-    "20cbd48d3d31aba6": "2026-08-10T14:23:20.134368+00:00"
+    "20cbd48d3d31aba6": "2026-08-10T14:23:20.134368+00:00",
+    "1ee231249af7694f": "2026-08-10T15:58:02.920680+00:00"
   },
   "messages": [
     {
@@ -5942,6 +5943,19 @@
         "שבבים",
         "מיקרוסופט",
         "TSMC"
+      ]
+    },
+    {
+      "sent_at": "2026-08-10T15:58:02.920680+00:00",
+      "title": "$KEEL INFRASTRUCTURE Q2’26 EARNINGS HIGHLIGHTS 🔹 Revenue: $30.0M (Est. $32.4M) 🔴; -50% YoY 🔹 EPS: -$0.11 (Est. -$0.07) 🔴 🔹 Operating Loss: -$141M; vs $11M LY 🔹 Adjusted EBITDA: -$24M (Est. -$10.6M) 🔴 Other Q2 Metrics: 🔹 Liquidity: $819M 🔹 G&A: $31M; vs $19M LY Comments: 🔸 “Power is the constraint. Everything else is downstream of it.” 🔸 “With $819 million of liquidity and uncommitted 2027 capacity across PJM and Washington, we are negotiating from a position of strength.”",
+      "source": "Twitter @wallstengine",
+      "message": "Keel Infrastructure פרסמה תוצאות רבעון שני עם הפסד תפעולי של 141 מיליון דולר - לעומת רווח של 11 מיליון בשנה שעברה. ההכנסות ירדו 50% ביחס לשנה שעברה, ל-30 מיליון דולר, מתחת לכל התחזיות.\n\nאבל מה שמעניין כאן זה לא המספרים - זה הציטוט של ההנהלה: \"חשמל הוא צוואר הבקבוק. כל השאר תלוי בו.\" זו הודאה גלויה שהתשתית האמריקאית לא מדביקה את הביקוש - וזה לחץ שמגיע עד לחברות ה-AI, מרכזי הנתונים, וכל מי שמחכה לחיבור לרשת.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "תשתיות",
+        "פתרון בקבוקים",
+        "ביקוש לחשמל"
       ]
     }
   ]
