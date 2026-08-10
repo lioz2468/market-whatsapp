@@ -416,7 +416,8 @@
     "ee55a65b8665de67": "2026-08-09T20:28:13.331595+00:00",
     "e6b51cd1f0189cbb": "2026-08-10T06:08:45.654541+00:00",
     "e061c3a91dfab15a": "2026-08-10T08:25:10.644795+00:00",
-    "067eef85dad769e1": "2026-08-10T10:14:22.049599+00:00"
+    "067eef85dad769e1": "2026-08-10T10:14:22.049599+00:00",
+    "435773292659ec8b": "2026-08-10T11:44:46.283003+00:00"
   },
   "messages": [
     {
@@ -5898,6 +5899,20 @@
         "סמיקונדקטור",
         "השקעות",
         "AI"
+      ]
+    },
+    {
+      "sent_at": "2026-08-10T11:44:46.283003+00:00",
+      "title": "$META CEO Mark wrote a piece laying out his vision for “personal superintelligence,” with some implications for AI products, compute spending, open source strategy & the future of work. Here are some of the most important parts if you don’t have time to read the full piece: “Everyone will have an exceptionally capable personal agent that understands you, your goals, and everything you care about. Your agent will work 24/7 on your behalf to improve your relationships, health, career, finances, home management, hobbies, and more.” “You'll be able to interact with your agent through any device, including your glasses to keep you present in the moment with the people you care about.” “We will offer free versions that will be accessible to billions of people. For those who want to pay to use more compute, there will be a dynamic auction mechanism that will guarantee that everyone gets the lowest price possible for the intelligence and compute they're using while also ensuring the capacity is used for whatever people collectively find most valuable.” “Company sizes may shrink -- just as they did in the transition from industrial giants to tech companies. But this doesn't mean fewer jobs overall. It implies a larger number of companies with fewer people each.” “I expect we will start seeing small numbers of people with personal superintelligence agents able to run companies at significant scale.” “We help keep electricity prices low by building our own energy-generating infrastructure wherever we invest.” “No matter how intelligent AI becomes, there will always be a finite amount of compute and therefore an opportunity cost for how we use it.” “Now that Meta Superintelligence Labs are up and running, we will resume releasing some open source models soon.” “For the US to lead in open source, we will need to rethink our policies in several areas, including distillation and data use in training.” “Countries like China are bringing online 1GW+ of nuclear capacity every other week, so we will need to accelerate building both energy and data centers to remain competitive.” “Any policy that slows American model releases -- even by a month -- could add significant risk to American leadership while letting foreign models race ahead.” “I propose that companies developing frontier AI should commit significant technical resources towards helping the government harden critical infrastructure. I also propose that frontier AI labs should share intermediate training checkpoints of new models for government use and review rather than waiting until training has completed.” “Meta, other frontier labs, and clouds committed to giving people a greater balance of power must collectively build out a sufficiently large amount of compute such that we can allocate enough to recursive self-improvement to remain competitive while still committing the significant majority towards people's individual goals.” “For example, if a self-improving AI system focused on optimizing its compute efficiency, it could theoretically invent ways to squeeze 100x or more intelligence out of each gigawatt.” “At Meta, we will focus our efforts on delivering personal superintelligence to billions of people and small businesses to help everyone achieve their goals and invent the things they want to see in the world.” “The future will be created by all of us and a reflection of all of our values and perspectives.”",
+      "source": "Twitter @wallstengine",
+      "message": "צוקרברג פרסם היום מסמך חזון על מה שהוא מכנה \"בינה מלאכותית אישית\" - ולא מדובר בשיווק, אלא בתוכנית עבודה אמיתית.\n\nהרעיון המרכזי: כל אחד יקבל סוכן AI אישי שעובד בשבילו 24/7 - על קריירה, בריאות, כסף, מערכות יחסים. גרסה בסיסית חינמית, גרסה משופרת בתשלום לפי שימוש.\n\nמה שמעניין מעבר לכותרות: Meta מתכננת לבנות תשתית אנרגיה עצמאית, לשחרר מודלים בקוד פתוח, ולשתף את הממשלה האמריקאית בגישה לנקודות ביניים של אימון מודלים. זו השפעה ישירה על חברות תשתית, ייצור חשמל ואפילו מדיניות רגולטורית. שווה לשים לב.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "סופר-אינטליגנציה",
+        "אנרגיה",
+        "מדיניות"
       ]
     }
   ]
