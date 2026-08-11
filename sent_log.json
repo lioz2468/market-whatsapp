@@ -426,7 +426,8 @@
     "97c53b726fee92b8": "2026-08-10T18:53:27.516486+00:00",
     "5d1f39f37d82240d": "2026-08-10T19:53:52.041661+00:00",
     "ac1fe5e1b5394ec6": "2026-08-10T20:39:19.908419+00:00",
-    "87491907211ecb9d": "2026-08-11T05:52:14.941262+00:00"
+    "87491907211ecb9d": "2026-08-11T05:52:14.941262+00:00",
+    "c829becfe23fc851": "2026-08-11T07:01:38.800758+00:00"
   },
   "messages": [
     {
@@ -6041,6 +6042,19 @@
         "אינפלציה",
         "מדיניות מוניטארית",
         "ריבית"
+      ]
+    },
+    {
+      "sent_at": "2026-08-11T07:01:38.800758+00:00",
+      "title": "Nvidia $NVDA is partnering with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to build financing platforms targeting $500B+ in third-party capital for AI infrastructure.",
+      "source": "Twitter @wallstengine",
+      "message": "NVIDIA הודיעה על שותפות עם Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs ו-KKR לבניית פלטפורמות מימון לתשתיות AI - עם יעד של 500 מיליארד דולר בהון חיצוני.\n\nזה לא עסקה רגילה. NVIDIA עוברת ממכירת שבבים לארכיטקט של כלל המערכת הפיננסית מסביב ל-AI. הכסף הזה ילך לבנייה של מרכזי נתונים, רשתות חשמל ותשתיות - מה שאומר שספקי אנרגיה, חברות בנייה וסקטור התשתיות כולו נמצאים בתמונה, גם אם לא ברור מיד.",
+      "importance": 10,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "אינפראסטרוקטורה",
+        "זרימת הון"
       ]
     }
   ]
