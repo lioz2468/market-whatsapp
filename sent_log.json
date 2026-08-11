@@ -433,7 +433,8 @@
     "c3663c8ad31e8929": "2026-08-11T10:51:42.571795+00:00",
     "b0a00283b96c8905": "2026-08-11T11:42:00.481616+00:00",
     "9e0c5169816e953b": "2026-08-11T12:56:50.701573+00:00",
-    "8c0a0f171af008f2": "2026-08-11T14:19:06.802736+00:00"
+    "8c0a0f171af008f2": "2026-08-11T14:19:06.802736+00:00",
+    "bfad2f934db6367d": "2026-08-11T15:58:45.755427+00:00"
   },
   "messages": [
     {
@@ -6139,6 +6140,19 @@
         "אשראי",
         "סיכון",
         "שווקים"
+      ]
+    },
+    {
+      "sent_at": "2026-08-11T15:58:45.755427+00:00",
+      "title": "Nvidia is developing Nemotron 4, a new open-source AI model expected to have at least 1 trillion parameters. $NVDA is aiming for it to compete with the world’s best open models, while using open source to broaden AI adoption and ultimately drive more demand for its GPUs. The effort includes contributors from firms like Cursor, Thinking Machines, Mistral and Reflection AI. Source: The Information",
+      "source": "Twitter @wallstengine",
+      "message": "NVIDIA בונה מודל בינה מלאכותית בקוד פתוח בשם Nemotron 4, עם לפחות טריליון פרמטרים - בסדר גודל של המודלים הטובים בעולם. הצעד נראה אלטרואיסטי, אבל ההיגיון העסקי ברור: ככל שיותר חברות יאמצו AI, כך יגדל הביקוש לכרטיסי המסך של NVIDIA. זה המשחק - לא למכור את המודל, אלא לבנות את התשתית שבלעדיה המודל לא רץ. מעניין לראות שמשתתפות בפרויקט חברות כמו Mistral ו-Cursor - זה מעיד על כמה כוח משיכה יש ל-NVIDIA בעולם הפיתוח.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "צ'יפים",
+        "תשתיות"
       ]
     }
   ]
