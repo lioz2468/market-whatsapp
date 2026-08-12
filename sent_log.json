@@ -440,7 +440,8 @@
     "0fc0296b94d5de58": "2026-08-11T19:59:44.558411+00:00",
     "d594d65ffb1e6b5c": "2026-08-11T20:55:41.296656+00:00",
     "64722b01b2c1ab07": "2026-08-12T06:11:33.231189+00:00",
-    "6c8f97e05387c5d2": "2026-08-12T08:14:43.383958+00:00"
+    "6c8f97e05387c5d2": "2026-08-12T08:14:43.383958+00:00",
+    "56fb4c262a06bdf6": "2026-08-12T09:59:41.137380+00:00"
   },
   "messages": [
     {
@@ -6238,6 +6239,19 @@
         "נפט",
         "אנרגיה",
         "כלכלה גלובלית"
+      ]
+    },
+    {
+      "sent_at": "2026-08-12T09:59:41.137380+00:00",
+      "title": "Bank of America $BAC plans to deploy $250B through mid-2027 across AI data centers, semiconductors, hardware, power generation, energy storage and critical minerals. The initiative will span lending, investing, capital markets, banking and advisory work. BofA says equity investments are not the focus, but it has not ruled them out for the right projects. The push also covers transportation, natural gas and water infrastructure, per WSJ.",
+      "source": "Twitter @wallstengine",
+      "message": "בנק אוף אמריקה מתכנן לפרוס 250 מיליארד דולר עד אמצע 2027 - מרכזי נתונים לבינה מלאכותית, מוליכים למחצה, ייצור חשמל, אחסון אנרגיה ומינרלים קריטיים.\n\nזה לא השקעה אחת גדולה - זו הצהרה שהתשתיות של עידן ה-AI הן עסקת הדור הבא. כשבנק בסדר גודל כזה שם את המאזן שלו על משהו, שווה לשים לב.\n\nמי שיושפע ישירות מעבר לחברות הברורות: חברות מים, גז טבעי ותשתיות תחבורה - ענפים שלא תמיד קישרנו ל-AI.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "תשתיות",
+        "AI",
+        "בנקאות"
       ]
     }
   ]
