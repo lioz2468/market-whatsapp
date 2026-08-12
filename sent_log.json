@@ -442,7 +442,8 @@
     "64722b01b2c1ab07": "2026-08-12T06:11:33.231189+00:00",
     "6c8f97e05387c5d2": "2026-08-12T08:14:43.383958+00:00",
     "56fb4c262a06bdf6": "2026-08-12T09:59:41.137380+00:00",
-    "a615eadadccf7da6": "2026-08-12T11:04:15.940954+00:00"
+    "a615eadadccf7da6": "2026-08-12T11:04:15.940954+00:00",
+    "cae6af20c01ab4fd": "2026-08-12T13:02:04.438294+00:00"
   },
   "messages": [
     {
@@ -6266,6 +6267,19 @@
         "ייצור מטוסים",
         "תחרות סינית",
         "שיבוש תעשייה"
+      ]
+    },
+    {
+      "sent_at": "2026-08-12T13:02:04.438294+00:00",
+      "title": "NEBIUS $NBIS Q2’26 EARNINGS HIGHLIGHTS 🔹 Revenue: $582.3M (Est. $573M) 🟢; +454% YoY 🔹 Adj. EBITDA: $236.2M (Est. $175M) 🟢; LY -$21M 🔸 “We could sell our entire 2027 capacity on these terms today. We are deliberately not doing so because we see higher value in retaining some capacity for immediate customer needs.” Reaffirms FY26 Guide: 🔹 Customer Prepayments: >$9B expected in 2026 🔹 Contracted Capacity: 5 GW (Prior: >4 GW) 🔹 Reaffirmed across all metrics Other Q2 Metrics: 🔹 Diluted EPS: -$0.68 (Est. -$0.62) 🔴 🔹 Net Income: -$190.4M (Est. -$183M) 🔴 🔹 Average Annual Contract Value: $20M+ per MW 🔹 AI Cloud Revenue: $575M (+514% YoY) 🔹 Adj. Net Loss: -$33.2M; -64% YoY 🔹 Operating Cash Flow: $2.25B; LY -$167.7M 🔹 Cash: $8.04B",
+      "source": "Twitter @wallstengine",
+      "message": "Nebius דיווחה על הכנסות של 582 מיליון דולר ברבעון האחרון - גידול של 454% בהשוואה לשנה שעברה. זה לא שגיאת הדפסה.\n\nמה שמעניין יותר מהמספרים: ההנהלה אמרה שהם יכלו למכור את כל קיבולת 2027 שלהם כבר היום, אבל בוחרים לא לעשות את זה - כדי לשמור מקום ללקוחות שצריכים אספקה מיידית. זה מאוד לא שגרתי, ומשקף את עוצמת הביקוש לתשתיות AI.\n\nהתזרים מפעילות קפץ מ-167 מיליון מינוס לפלוס 2.25 מיליארד דולר - זה השינוי הכי דרמטי בדוח. מי שיושפע בעקיפין: ספקי חשמל, יצרני שבבים ומי שמחכה לראות אם המודל העסקי של ענני AI אכן עומד בציפיות. נראה שכן.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "בנייה תשתיתית",
+        "הכנסות"
       ]
     }
   ]
