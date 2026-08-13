@@ -453,7 +453,8 @@
     "6acfb9e7ce54671b": "2026-08-13T06:14:02.666694+00:00",
     "231f83ec0ee39fe2": "2026-08-13T08:18:31.515377+00:00",
     "5eb38b4d962dacaa": "2026-08-13T10:01:13.702873+00:00",
-    "5a7555c56579e60e": "2026-08-13T11:43:04.769073+00:00"
+    "5a7555c56579e60e": "2026-08-13T11:43:04.769073+00:00",
+    "45019ce37d77a3da": "2026-08-13T13:02:42.548462+00:00"
   },
   "messages": [
     {
@@ -6422,6 +6423,19 @@
         "חומרה",
         "השקעות",
         "קוריאה דרומית"
+      ]
+    },
+    {
+      "sent_at": "2026-08-13T13:02:42.548462+00:00",
+      "title": "$IREN says Microsoft has accepted Horizon 1, the first of four 50MW AI cloud deployments under its 5-year, $9.7B contract. The site is running NVIDIA GB300 NVL72 systems and has also received NVIDIA Exemplar Cloud status. Horizons 2–4 are due later this year, while IREN continues to target 480MW of AI cloud capacity in 2026 and 1.2GW in 2027.",
+      "source": "Twitter @wallstengine",
+      "message": "IREN קיבלה אישור מ-Microsoft על ה-Horizon 1 - המתקן הראשון מתוך ארבעה במסגרת חוזה של 9.7 מיליארד דולר לחמש שנים. המתקן פועל עם מערכות GB300 NVL72 של NVIDIA, וגם קיבל סטטוס Exemplar Cloud מ-NVIDIA - סוג של תעודת הכשר לאיכות התשתית. שלושת המתקנים הנוספים אמורים להגיע עוד השנה, עם יעד של 480MW קיבולת ב-2026 ו-1.2GW ב-2027.\n\nמה שמעניין פה הוא לא רק IREN - זה אות לכמה הכסף ממשיך לזרום לתשתיות פיזיות של AI. חברות חשמל, קירור ונדל\"ן תעשייתי קרוב למרכזי נתונים ממשיכות להיות חלק מהסיפור הזה.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "ענן",
+        "השקעות"
       ]
     }
   ]
