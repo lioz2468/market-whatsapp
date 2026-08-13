@@ -455,7 +455,8 @@
     "5eb38b4d962dacaa": "2026-08-13T10:01:13.702873+00:00",
     "5a7555c56579e60e": "2026-08-13T11:43:04.769073+00:00",
     "45019ce37d77a3da": "2026-08-13T13:02:42.548462+00:00",
-    "ed0331ba0157dca0": "2026-08-13T14:54:15.576082+00:00"
+    "ed0331ba0157dca0": "2026-08-13T14:54:15.576082+00:00",
+    "16cabe8ff00a1d3b": "2026-08-13T15:56:47.388214+00:00"
   },
   "messages": [
     {
@@ -6450,6 +6451,20 @@
         "אינפלציה",
         "תעסוקה",
         "מדיניות כלכלית"
+      ]
+    },
+    {
+      "sent_at": "2026-08-13T15:56:47.388214+00:00",
+      "title": "SanDisk $SNDK says HBF could materially reduce GPU requirements for AI inference. 8x capex efficiency 1 HBF GPU ran the same model that required 8 HBM GPUs. 2x GPU efficiency 4 HBF GPUs matched the token output of 8 HBM GPUs. Based on internal testing.",
+      "source": "Twitter @wallstengine",
+      "message": "SanDisk מכריזה על טכנולוגיית זיכרון חדשה שנקראת HBF - ולפי הבדיקות הפנימיות שלה, GPU אחד עם HBF מחליף 8 יחידות GPU רגילות עם זיכרון HBM.\n\nאם זה מחזיק בעולם האמיתי, זו טלטלה עבור כל מי שבונה מרכזי נתונים לצרכי AI. פחות GPU אומר פחות הוצאות הון - וזה נוגע ישירות ל-NVIDIA, לספקי אנרגיה ולחברות הבנייה של מרכזי הנתונים. שווה לעקוב מקרוב עד שיש אימות עצמאי.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "GPU",
+        "AI",
+        "capex",
+        "inference"
       ]
     }
   ]
