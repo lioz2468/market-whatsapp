@@ -463,7 +463,8 @@
     "40dcd9d2141d440e": "2026-08-13T19:57:58.164279+00:00",
     "d324ea889e163d5b": "2026-08-13T20:45:39.361976+00:00",
     "1570066df16ab27e": "2026-08-14T06:11:28.615572+00:00",
-    "2e87487226ce0398": "2026-08-14T08:14:01.942785+00:00"
+    "2e87487226ce0398": "2026-08-14T08:14:01.942785+00:00",
+    "0635246b51cd3440": "2026-08-14T09:57:52.734061+00:00"
   },
   "messages": [
     {
@@ -6563,6 +6564,19 @@
         "מחירי סחורות",
         "מכסים",
         "סחר"
+      ]
+    },
+    {
+      "sent_at": "2026-08-14T09:57:52.734061+00:00",
+      "title": "JPMorgan Resumes Coverage on $SNDK with Overweight Rating, PT $2,250 Analyst comments: “In our view, Sandisk is in many respects uniquely positioned to capture the ongoing structural inflection in NAND demand driven by rapid growth in AI inference, with three key dynamics underpinning our OW thesis: 1) the New Business Model (NBM) framework (or LTAs - long-term agreements) has structurally reset SNDK’s margin profile higher and materially reduced cyclicality, with 8 signed NBMs representing ~$94B in total contract value at floor pricing, weighted-average contract duration of 4+ years, and ~80% GM even at the floor pricing tier; 2) NAND market TAM is inflecting from ~$70B in CY25 (JPMe) to $300B+ in CY26 and ~$500B in CY27, with Data Center representing the largest driver of growth (by far) as hyperscale/cloud customers increasingly deploy flash for inference-era workloads (incl. persistent KV cache - a major driver of bit demand growth); and 3) SNDK is delivering technology leadership, with BiCS10 sampling ahead of schedule (332-layer 2Tb QLC with 65% more bits per wafer than BiCS8), a projected 27% CAGR in per-wafer bit productivity through BiCS generations, and High Bandwidth Flash (HBF) emerging as a differentiated inference-era memory platform. Management introduced a long-term financial model for FY28-FY30 targeting mid-/high-teens% revenue growth (in line with bit growth - implying ~flat pricing was conservatively assumed), ~80% GM, ~75% OpM, and ~50% adjusted FCF margin, representing a clear step-change from historical norms where GMs oscillated well below this level. To us, this screens as a substantive reset rather than peak-cycle pricing capture, with NBMs accounting for >50% of FY27 bits and growing to ~2/3 in FY28, and contracts detailing month-by-month volume, mix, and price commitments backed by $16.5B in financial guarantees, significantly improving forward visibility from the ‘three months of pricing visibility’ that has been ‘standard operating procedure’ for the industry to 4+ years of committed economics with strategic customers. Even at floor pricing, we think NBMs sustain ~80% GMs across the multi-year contract lives, with upside captured through variable pricing mechanisms. We also view the LT financial model as embedding meaningful earnings leverage that we think is not fully captured in current consensus estimates, as mid-/high-teens% revenue growth ultimately translates into an EPS growth CAGR north of 25%. Layered on top, management's commitment to returning 100% of excess cash flow to shareholders should drive an aggressive share count reduction trajectory that further amplifies EPS growth on a per-share basis. We think this combination of higher through-cycle profitability, sustained bit demand growth, and share count reduction sets up a compounding earnings power dynamic that supports our CY27 EPS estimate of $250 and, in our view, points to a multi-year path toward meaningfully higher EPS levels beyond CY27. Longer-term, we view HBF and emerging 3D Matrix Memory technology as meaningful virtual call options on inference-era memory architecture that, in our view, are not fully reflected in current consensus estimates or valuation.” Analyst: Harlan Sur",
+      "source": "Twitter @wallstengine",
+      "message": "JPMorgan חידש כיסוי על SanDisk עם יעד מחיר של 2,250 דולר - ומה שמעניין פה הוא לא המניה עצמה אלא הסיפור מאחוריה.\n\nשוק ה-NAND, שעמד על כ-70 מיליארד דולר ב-2025, צפוי לפי JPMorgan להגיע ל-300 מיליארד ב-2026 ול-500 מיליארד ב-2027. הדלק: מרכזי נתונים שצריכים יותר ויותר זיכרון פלאש לעומסי עבודה של AI.\n\nSanDisk חתמה על חוזים ארוכי טווח עם לקוחות אסטרטגיים בשווי כולל של 94 מיליארד דולר - כלומר, חלק גדול מהביקוש הזה כבר \"נעול\" מראש. זה שינוי גדול בתעשייה שרגילה לעבוד עם נראות של שלושה חודשים בלבד.\n\nמי עוד יושפע? ספקי ציוד ייצור לשבבים, וגם NVIDIA ו-AMD - שהביקוש לשבבי הזיכרון שהם משתמשים בהם עומד לגדול בקצב שלא ראינו.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "מחצנים",
+        "שרשרת אספקה"
       ]
     }
   ]
