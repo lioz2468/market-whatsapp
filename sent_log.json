@@ -470,7 +470,8 @@
     "af74b50ae1239bfd": "2026-08-14T12:59:14.465257+00:00",
     "fa69e8387223f842": "2026-08-14T14:17:53.834786+00:00",
     "f9a7b04752a2bac8": "2026-08-14T15:48:26.441447+00:00",
-    "3e97c773546d2feb": "2026-08-14T16:49:15.218823+00:00"
+    "3e97c773546d2feb": "2026-08-14T16:49:15.218823+00:00",
+    "ee2ef50578ecf45c": "2026-08-14T17:50:18.545617+00:00"
   },
   "messages": [
     {
@@ -6662,6 +6663,19 @@
         "בנקאות",
         "רגולציה",
         "סיכוני פיננסיים"
+      ]
+    },
+    {
+      "sent_at": "2026-08-14T17:50:18.545617+00:00",
+      "title": "HOUSING INVESTOR SENTIMENT HITS RECORD LOW A new survey shows 45% of U.S. 🇺🇸 single-family investors say market conditions have worsened, the highest share since tracking began in 2023, while just 26% say conditions improved. Investor purchases fell 23% in Q1 both QoQ and YoY. 32% now plan to buy no properties at all in 2026, while only 9% expect to buy more than last year. More than half cite financing costs as a major problem, 75% expect no near-term rate relief, and 28% of recent purchases were made in cash. Despite the pullback, over 60% still expect home prices to rise over the next six months.",
+      "source": "Twitter @wallstengine",
+      "message": "סנטימנט משקיעי הנדל\"ן האמריקאי הגיע לשפל היסטורי: 45% מהמשקיעים בבתים פרטיים אומרים שהתנאים הורעו - הנתון הגבוה ביותר מאז שהסקר התחיל לפעול ב-2023. רכישות המשקיעים צנחו ב-23% ברבעון הראשון, ו-32% מתכננים לא לקנות כלום ב-2026.\n\nמה שמעניין כאן: למעלה מ-60% עדיין מצפים שמחירי הבתים יעלו בחצי השנה הקרובה. כלומר, הם פסימיים על הביצועים שלהם - אבל עדיין לא מאמינים שהשוק יתרסק. זה שילוב שמסביר למה מחירי הדיור ממשיכים להחזיק, גם כשהביקוש מהמשקיעים מתאדה.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "נדלן",
+        "השקעות",
+        "צרכנים"
       ]
     }
   ]
