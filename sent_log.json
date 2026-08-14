@@ -473,7 +473,8 @@
     "3e97c773546d2feb": "2026-08-14T16:49:15.218823+00:00",
     "ee2ef50578ecf45c": "2026-08-14T17:50:18.545617+00:00",
     "276ba502d6820786": "2026-08-14T18:49:10.839511+00:00",
-    "ebed3a366a301d0a": "2026-08-14T19:45:37.397800+00:00"
+    "ebed3a366a301d0a": "2026-08-14T19:45:37.397800+00:00",
+    "ec35de06f12d0d8a": "2026-08-14T20:27:42.220634+00:00"
   },
   "messages": [
     {
@@ -6704,6 +6705,19 @@
         "אי-שקיפות רווחים",
         "AI",
         "ביג טק"
+      ]
+    },
+    {
+      "sent_at": "2026-08-14T20:27:42.220634+00:00",
+      "title": "Morgan Stanley expects the Fed to stay on hold through year-end as 🇺🇸 inflation continues to cool, with tariff pass-through largely complete, energy pressures contained and shelter inflation moderating. Expects 50 bps of cuts in 2027, split between March & June.",
+      "source": "Twitter @wallstengine",
+      "message": "Morgan Stanley צופים שהפד לא יזוז עד סוף השנה - ואז יוריד ריבית פעמיים ב-2027, במרץ וביוני, סך הכל 0.5%.\n\nהנימוק: האינפלציה ממשיכה להתקרר. ההשפעה של המכסים על המחירים כבר מאחורינו ברובה, אנרגיה שקטה, ושכר הדירה מתמתן.\n\nמה שמעניין פה זה התזמון - השוק תמחר הורדות מוקדמות יותר. אם Morgan Stanley צודקים, זה אומר שמי שמחזיק אג\"ח קצר-טווח יצטרך לחכות יותר ממה שציפה.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "פד",
+        "ריבית",
+        "אינפלציה"
       ]
     }
   ]
