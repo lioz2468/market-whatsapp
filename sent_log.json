@@ -478,7 +478,8 @@
     "b7e47fe7419d4294": "2026-08-16T05:24:28.251519+00:00",
     "3f2924e79782d4a0": "2026-08-16T06:33:44.029655+00:00",
     "61aad6ca392d5402": "2026-08-16T07:28:12.847672+00:00",
-    "0ff6cde4602f66b2": "2026-08-16T08:25:15.248325+00:00"
+    "0ff6cde4602f66b2": "2026-08-16T08:25:15.248325+00:00",
+    "21fffd5c6fa1e150": "2026-08-16T09:24:09.828947+00:00"
   },
   "messages": [
     {
@@ -6775,6 +6776,19 @@
         "LPG",
         "הודו",
         "שרשראות אספקה"
+      ]
+    },
+    {
+      "sent_at": "2026-08-16T09:24:09.828947+00:00",
+      "title": "GAVIN BAKER Q2 PORTFOLIO UPDATE Atreides Management disclosed its portfolio as of June 30. Notable new positions $SPCX — $4.67B $CBRS — $687M stock + $155M calls $META — $227M stock + $676M calls $APH — $113M $GTLB — $103M $CIFR — $88M $IOT — $75M Biggest adds $CRWV: 810K → 2.12M shares $WIX: 650K → 1.46M $PANW: 562K → 877K $AKAM: 683K → 911K $MA: 50K → 94K Biggest trims $ALAB: 3.37M → 1.22M shares $U: 13.89M → 10.25M $W: 1.43M → 844K $TWLO: 922K → 720K $GOOGL: 555K → 488K $MU: 760K → 711K Largest positions $SPCX — $4.67B $MU — $821M $CBRS — $687M $ALAB — $588M $CIEN — $338M $CRDO — $307M $PANW — $299M $U — $293M Notable exits $LITE, $SATS, $ZM, $RKT, $VST, $HUBS, $RBLX, $SNPS, $AXON, $AVAV, $RBRK and $SNOW. SpaceX became Atreides’ largest disclosed equity position at $4.67B.",
+      "source": "Twitter @wallstengine",
+      "message": "גאווין בייקר מ-Atreides Management פרסם את תיק ה-Q2 שלו, וההימור הכי גדול שלו הוא SpaceX - פוזיציה של 4.67 מיליארד דולר, הגדולה בתיק. מעניין לראות שהוא בנה פוזיציה ענקית ב-Meta דרך אופציות בעיקר (676 מיליון דולר), הגדיל משמעותית ב-CoreWeave ו-Wix, ובמקביל קיצץ ב-ALAB ב-60% ויצא לגמרי מ-Snowflake ו-Axon. הכיוון ברור: AI אינפרסטרקטורה ותוכנה, פחות סייבר וחומרה מסורתית.",
+      "importance": 8,
+      "tag": "ארה\"ב",
+      "topics": [
+        "תיקי השקעות",
+        "מניות טכנולוגיה",
+        "מגמות"
       ]
     }
   ]
