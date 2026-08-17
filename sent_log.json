@@ -498,7 +498,8 @@
     "40cf7e0af6c019cd": "2026-08-17T09:37:26.323714+00:00",
     "1dbc440ca1d5bd8a": "2026-08-17T10:28:58.212605+00:00",
     "d211819478e87bcd": "2026-08-17T11:22:07.435030+00:00",
-    "273d16e839257d3d": "2026-08-17T13:37:12.175035+00:00"
+    "273d16e839257d3d": "2026-08-17T13:37:12.175035+00:00",
+    "5d082f9f7c966209": "2026-08-17T14:24:14.412942+00:00"
   },
   "messages": [
     {
@@ -7059,6 +7060,19 @@
         "כלכלה סינית",
         "צפי גלובלי",
         "דיסינפלציה"
+      ]
+    },
+    {
+      "sent_at": "2026-08-17T14:24:14.412942+00:00",
+      "title": "$NVDA BACKS OPENAI’S OHIO AI CAMPUS Nvidia will invest $1.5B in SB Energy and support an initial 4.25 GW of AI infrastructure for OpenAI at the PORTS-Pike campus in Ohio, with an option to expand to the full 8 GW. SB Energy will build and operate the site under a 20-year OpenAI lease, with capacity coming online in phases starting in 2028. SB Energy and SoftBank also plan at least 10 GW of new power generation and $4.2B of regional grid investment.",
+      "source": "Twitter @wallstengine",
+      "message": "Nvidia משקיעה 1.5 מיליארד דולר ב-SB Energy כדי לתמוך בקמפוס AI ענק של OpenAI באוהיו - 4.25 גיגהוואט של תשתית, עם אופציה להכפיל ל-8 גיגהוואט.\n\nSoftBank וSB Energy מתחייבות להוסיף לפחות 10 גיגהוואט של ייצור חשמל חדש ו-4.2 מיליארד דולר בהשקעות ברשת החשמל האזורית. הקיבולת מתחילה לעלות ב-2028, תחת חוזה שכירות של 20 שנה.\n\nמי שלא ברור במבט ראשון שיושפע: חברות תשתיות חשמל, קבלני בנייה תעשייתית, ויצרני ציוד לרשתות חשמל - הביקוש ל-AI מתחיל לזוז מהשבבים לכיוון האנרגיה עצמה.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "אנרגיה",
+        "בינה מלאכותית",
+        "תשתיות"
       ]
     }
   ]
