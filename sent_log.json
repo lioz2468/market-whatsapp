@@ -490,7 +490,8 @@
     "285da816f4b54e6e": "2026-08-16T17:16:44.758351+00:00",
     "25ff749fb4ec365b": "2026-08-16T18:23:59.097014+00:00",
     "c1929b4daa42250c": "2026-08-16T19:19:23.488725+00:00",
-    "7f591af7c63e256b": "2026-08-16T20:18:06.917416+00:00"
+    "7f591af7c63e256b": "2026-08-16T20:18:06.917416+00:00",
+    "8483e74428b705c9": "2026-08-17T05:32:09.555420+00:00"
   },
   "messages": [
     {
@@ -6944,6 +6945,19 @@
         "פד",
         "ריבית",
         "מדיניות"
+      ]
+    },
+    {
+      "sent_at": "2026-08-17T05:32:09.555420+00:00",
+      "title": "STRIPE TO BUY OPENROUTER FOR $7B+ Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B, Bloomberg reports, just months after the startup raised funding at a reported $1.3B valuation. OpenRouter serves 8M developers and provides access to 400+ AI models, allowing users to switch between providers based on cost, performance and availability.",
+      "source": "Twitter @wallstengine",
+      "message": "Stripe רוכשת את OpenRouter תמורת יותר מ-7 מיליארד דולר - זה מספר מדהים לחברה שהייתה שווה 1.3 מיליארד בלבד לפני כמה חודשים.\n\nOpenRouter היא הפלטפורמה שמאפשרת ל-8 מיליון מפתחים לגשת ליותר מ-400 מודלי AI ולעבור ביניהם בקלות. Stripe לא קונה סתם כלי - היא קונה את התשתית שעומדת מאחורי חלק גדול מהפיתוח בתעשייה.\n\nההשפעה העקיפה שלא ברור במבט ראשון: ספקיות ה-AI הגדולות כמו OpenAI, Anthropic ו-Google יגלו שיש עכשיו מתחרה מסחרי ענק שיושב בדיוק בנקודת ההתחברות בין המפתחים למודלים שלהן.",
+      "importance": 8,
+      "tag": "גלובלי",
+      "topics": [
+        "תשלומים דיגיטליים",
+        "AI",
+        "M&A"
       ]
     }
   ]
