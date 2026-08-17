@@ -495,7 +495,8 @@
     "1993f25cd0dc1846": "2026-08-17T06:47:46.915464+00:00",
     "3e67461c6dc2f520": "2026-08-17T07:50:28.963119+00:00",
     "385af828a48efb68": "2026-08-17T08:38:57.875654+00:00",
-    "40cf7e0af6c019cd": "2026-08-17T09:37:26.323714+00:00"
+    "40cf7e0af6c019cd": "2026-08-17T09:37:26.323714+00:00",
+    "1dbc440ca1d5bd8a": "2026-08-17T10:28:58.212605+00:00"
   },
   "messages": [
     {
@@ -7016,6 +7017,20 @@
         "גדילה",
         "מאקרו",
         "אתחול"
+      ]
+    },
+    {
+      "sent_at": "2026-08-17T10:28:58.212605+00:00",
+      "title": "Morgan Stanley on $AMZN (Bull Case Sees $500 PT) See AWS’s road to $1 trillion of revenue over the next 8-10 years, which paints a path toward $500 billion of company-wide EBIT and a $500 share price by year-end 2027. Our base case remains $335 PT, with the bull case increasingly in play if AWS delivers as we think it could. Amazon’s $1 trillion vision for AWS revenue reinforces the high-ROIC opportunity ahead. Believe Amazon is confident given 2Q26 earnings commentary laying out a vision of $1 trillion of AWS revenue, roughly 6x larger than the current ~$170 billion annualized, with long-term returns similar to the core AWS business over the past ~20 years. Amazon believes AWS could very possibly become a $1 trillion annual revenue business over time, with very appealing accompanying free cash flow and return on invested capital. Importantly, Amazon sees margins and returns in AI tracking what it saw with the core AWS business at the same point of evolution and actually a little ahead. Bringing on compute capacity remains the gating factor. As innovation and demand for GenAI tools continue to scale, we believe each hyperscaler’s ability to bring on compute capacity is the key factor driving forward revenue growth. Estimate Amazon will bring on 6-8 GW of compute capacity in 2026/2027. While visibility beyond 2027 is limited given server/rack purchase volumes, power requirements, regulatory uncertainty, and physical limits to faster data center openings, we believe Amazon is executing at an organized and rapid clip. As a base case, we assume adding 8 incremental GW per year is a reasonable range going forward. Analyst: Brian Nowak",
+      "source": "Twitter @wallstengine",
+      "message": "Morgan Stanley מציב יעד מחיר של 500 דולר למניית Amazon בתרחיש האופטימי, עם תחנת ביניים של 335 דולר בתרחיש הבסיס. הלב של הניתוח: AWS יכולה להגיע להכנסות של טריליון דולר בשנה תוך 8-10 שנים - פי 6 מהרמה הנוכחית.\n\nמה שמעניין כאן הוא לא המספרים עצמם, אלא הגורם המגביל: לא ביקוש, לא תחרות - אלא קצב הבאת קיבולת חישובית. Amazon מתכננת להוסיף 6-8 ג'יגאוואט של תשתית בשנתיים הקרובות.\n\nההשפעה העקיפה: חברות חשמל, תשתיות ויצרני ציוד למרכזי נתונים הן המרוויחות הגדולות האמיתיות מהמירוץ הזה.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "Amazon",
+        "AWS",
+        "AI",
+        "תשתיות"
       ]
     }
   ]
