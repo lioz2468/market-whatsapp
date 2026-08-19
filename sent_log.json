@@ -522,7 +522,8 @@
     "acf08f3a330e400e": "2026-08-18T18:33:35.199885+00:00",
     "4720655ed2a7b08f": "2026-08-18T19:25:20.655525+00:00",
     "d2bce66d991a0aed": "2026-08-18T20:20:03.156303+00:00",
-    "d606ffda36dc55a8": "2026-08-19T05:26:31.528779+00:00"
+    "d606ffda36dc55a8": "2026-08-19T05:26:31.528779+00:00",
+    "69b9e136293ce209": "2026-08-19T06:38:33.704613+00:00"
   },
   "messages": [
     {
@@ -7400,6 +7401,20 @@
         "מכסים",
         "סחר",
         "קנדה"
+      ]
+    },
+    {
+      "sent_at": "2026-08-19T06:38:33.704613+00:00",
+      "title": "U.S. NUCLEAR BUILDOUT STARTS MOVING INTO EXECUTION $OKLO says it has entered physical “build mode” at Idaho National Laboratory, a key step toward its planned 1.2 GW Ohio deployment supporting $META data centers. Meanwhile, TerraPower expects to announce another nuclear project for a data center this year. Big Tech is increasingly becoming the customer base for new nuclear: $META → Oklo + TerraPower $AMZN → X-energy $GOOGL → Kairos $MSFT → Three Mile Island restart There are now 22 active reactor projects in the U.S., while more than 130 SMR designs are being developed globally.",
+      "source": "Twitter @wallstengine",
+      "message": "Oklo נכנסה למצב בנייה פיזית במעבדת Idaho הלאומית - לא הכרזות, לא תוכניות, פשוט מתחילים לבנות. היעד: 1.2 גיגה-וואט שיזין את מרכזי הנתונים של Meta באוהיו.\n\nמה שמעניין פה זה התמונה הכוללת: ארבע חברות הענק בחרו לכל אחת ספק גרעיני אחר, ויש כרגע 22 פרויקטי כורים פעילים בארה\"ב. זה שינוי של ממש בשוק האנרגיה.\n\nמי שלא ברור שיושפע: יצרני הציוד לכורים, חברות הבנייה המתמחות בתשתיות גרעיניות, וספקיות אורניום - כולן מקבלות רוח גבית ממה שקורה עכשיו.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "אנרגיה",
+        "גרעין",
+        "תשתיות",
+        "ענני-מחשוב"
       ]
     }
   ]
