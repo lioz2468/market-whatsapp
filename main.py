@@ -69,6 +69,19 @@ class SentLog:
             encoding="utf-8",
         )
 
+    def last_sent_at(self) -> datetime | None:
+        latest: datetime | None = None
+        for m in self._data["messages"]:
+            try:
+                sent_at = datetime.fromisoformat(m["sent_at"])
+                if sent_at.tzinfo is None:
+                    sent_at = sent_at.replace(tzinfo=timezone.utc)
+                if latest is None or sent_at > latest:
+                    latest = sent_at
+            except (ValueError, KeyError):
+                pass
+        return latest
+
     def recent_messages(self, hours: int) -> list[dict]:
         cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
         out = []
@@ -310,6 +323,22 @@ async def run(args: argparse.Namespace) -> None:
     stats.reset()
     sent_log = SentLog()
     pending  = PendingQueue()
+
+    # ── 0. Minimum-gap guard ──────────────────────────────────────────────
+    # The workflow now triggers every ~15 min to work around GitHub dropping
+    # scheduled runs; this keeps actual sends spaced ~1.5h apart regardless.
+    last_sent = sent_log.last_sent_at()
+    if last_sent is not None:
+        elapsed = datetime.now(timezone.utc) - last_sent
+        min_gap = timedelta(minutes=config.MIN_SEND_INTERVAL_MINUTES)
+        if elapsed < min_gap:
+            remaining = min_gap - elapsed
+            mins = int(remaining.total_seconds() // 60)
+            print(
+                f"\n  {Fore.YELLOW}⏱ Last message sent {int(elapsed.total_seconds() // 60)} min ago — "
+                f"waiting for {config.MIN_SEND_INTERVAL_MINUTES}min gap ({mins} min left).{Style.RESET_ALL}"
+            )
+            return
 
     # ── 1. Drain pending queue (one article per run) ─────────────────────
     if len(pending):

@@ -39,9 +39,14 @@ GREEN_API_INSTANCE = os.getenv("GREEN_API_INSTANCE", "")
 GREEN_API_TOKEN    = os.getenv("GREEN_API_TOKEN", "")
 
 # ── Filter settings ────────────────────────────────────────────────────────
-MIN_IMPORTANCE_SCORE = int(os.getenv("MIN_IMPORTANCE_SCORE", "6"))
-MAX_ARTICLES_PER_RUN = int(os.getenv("MAX_ARTICLES_PER_RUN", "3"))
-DIGEST_HOURS         = int(os.getenv("DIGEST_HOURS", "12"))
+MIN_IMPORTANCE_SCORE     = int(os.getenv("MIN_IMPORTANCE_SCORE", "6"))
+MAX_ARTICLES_PER_RUN     = int(os.getenv("MAX_ARTICLES_PER_RUN", "3"))
+DIGEST_HOURS             = int(os.getenv("DIGEST_HOURS", "12"))
+# Minimum minutes between two sent WhatsApp messages. The GitHub Actions
+# workflow now triggers every ~15 min (to work around GitHub silently
+# dropping scheduled runs) — this keeps actual send cadence at ~1.5h
+# regardless of how often the workflow itself fires.
+MIN_SEND_INTERVAL_MINUTES = int(os.getenv("MIN_SEND_INTERVAL_MINUTES", "85"))
 
 # ── RSS Feeds ──────────────────────────────────────────────────────────────
 RSS_FEEDS = [
