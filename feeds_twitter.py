@@ -4,10 +4,17 @@ Uses GET /2/users/:id/tweets with since_id so each run only pulls tweets newer
 than the last one seen. The resolved user id and the last-seen tweet id are
 persisted in twitter_last_id.json (committed back to the repo by the GitHub
 Actions workflow, the same way sent_log.json is).
+
+Tweets fetched but not sent/queued by main.py are saved to
+twitter_unused.json (see save_unused()/load_unused()) and re-offered as
+candidates on the next fetch — otherwise since_id would make them
+unrecoverable the moment a tweet isn't picked, even if it was genuinely good
+content that just lost out to something else that run.
 """
 from __future__ import annotations
 
 import json
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -15,11 +22,14 @@ import requests
 
 import config
 
-API_BASE     = "https://api.twitter.com/2"
-USERNAME     = "wallstengine"
-LAST_ID_PATH = config.BASE_DIR / "twitter_last_id.json"
-MAX_RESULTS  = 15
-TIMEOUT      = 15
+API_BASE       = "https://api.twitter.com/2"
+USERNAME       = "wallstengine"
+LAST_ID_PATH   = config.BASE_DIR / "twitter_last_id.json"
+UNUSED_PATH    = config.BASE_DIR / "twitter_unused.json"
+MAX_RESULTS    = 15
+TIMEOUT        = 15
+UNUSED_MAX_AGE_HOURS = 24
+UNUSED_MAX_COUNT     = 30
 
 
 def _load_state() -> dict:
@@ -39,6 +49,47 @@ def _save_state(state: dict) -> None:
 
 def _headers(token: str) -> dict:
     return {"Authorization": f"Bearer {token}"}
+
+
+def load_unused() -> list[dict]:
+    """Tweets fetched in a previous run that weren't sent or queued — offered
+    again as candidates so they get a real second chance before being lost
+    for good (since_id never lets the live API return them again)."""
+    if not UNUSED_PATH.exists():
+        return []
+    try:
+        return json.loads(UNUSED_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+
+
+def save_unused(tweets: list[dict]) -> None:
+    """Persist the tweets a run considered but didn't end up sending/queuing.
+    Pruned by age (a stale tweet isn't worth resurfacing) and capped in size."""
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=UNUSED_MAX_AGE_HOURS)
+    fresh: list[dict] = []
+    for t in tweets:
+        try:
+            published = datetime.fromisoformat(t["published"].replace("Z", "+00:00"))
+        except Exception:
+            continue
+        if published >= cutoff:
+            fresh.append(t)
+    fresh = fresh[:UNUSED_MAX_COUNT]
+    UNUSED_PATH.write_text(
+        json.dumps(fresh, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+
+def _merge_unique(*groups: list[dict]) -> list[dict]:
+    seen: set[str] = set()
+    out: list[dict] = []
+    for group in groups:
+        for item in group:
+            if item["id"] not in seen:
+                seen.add(item["id"])
+                out.append(item)
+    return out
 
 
 def _resolve_user_id(token: str, state: dict) -> tuple[Optional[str], Optional[str]]:
@@ -146,15 +197,13 @@ def fetch_tweets() -> tuple[list[dict], Optional[str]]:
         return [], msg
 
     tweets = resp.json().get("data") or []
-    if not tweets:
-        print("  [twitter] 0 new tweet(s)")
-        return [], None
 
-    # Twitter returns newest-first; the first item becomes the new watermark.
-    state["last_id"] = tweets[0]["id"]
-    _save_state(state)
+    if tweets:
+        # Twitter returns newest-first; the first item becomes the new watermark.
+        state["last_id"] = tweets[0]["id"]
+        _save_state(state)
 
-    articles = [
+    new_articles = [
         {
             "id":        tweet["id"],
             "title":     tweet.get("text", "").strip(),
@@ -168,5 +217,11 @@ def fetch_tweets() -> tuple[list[dict], Optional[str]]:
         if tweet.get("text", "").strip()
     ]
 
-    print(f"  [twitter] {len(articles)} new tweet(s)")
-    return articles, None
+    unused   = load_unused()
+    combined = _merge_unique(new_articles, unused)
+
+    print(f"  [twitter] {len(new_articles)} new tweet(s)")
+    if unused:
+        print(f"  [twitter] {len(unused)} previously-unused tweet(s) offered again")
+
+    return combined, None

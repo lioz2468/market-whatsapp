@@ -136,6 +136,9 @@ class PendingQueue:
     def peek(self) -> dict | None:
         return self._items[0] if self._items else None
 
+    def hashes(self) -> set[str]:
+        return {item["hash"] for item in self._items}
+
     def pop(self) -> dict:
         """Remove and return the first pending item, then persist."""
         item = self._items.pop(0)
@@ -406,116 +409,129 @@ async def run(args: argparse.Namespace) -> None:
         print(f"\n  {Fore.YELLOW}All articles filtered out by pre-filter.{Style.RESET_ALL}")
         return
 
-    # ── 4. Classify ─────────────────────────────────────────────────────
-    print(f"\n{Fore.CYAN}🧠 Classifying {len(new_articles)} article(s) with Claude…{Style.RESET_ALL}")
-    results = await classifier.classify_all(new_articles)
+    # Candidates considered this run, for the Twitter "unused" reservoir —
+    # anything here not sent or pending by the time we're done gets saved
+    # back so it can be re-offered instead of lost once since_id moves on.
+    twitter_candidates = [a for a in new_articles if a.source.startswith("Twitter @")]
 
-    approved = sorted(
-        (r for r in results if r.approved and r.importance >= config.MIN_IMPORTANCE_SCORE),
-        key=lambda r: r.importance,
-        reverse=True,
-    )[:config.MAX_ARTICLES_PER_RUN]
-    rejected = len(results) - len(approved)
-    print(f"  Approved: {len(approved)} (cap {config.MAX_ARTICLES_PER_RUN}) | Rejected: {rejected}")
+    try:
+        # ── 4. Classify ─────────────────────────────────────────────────
+        print(f"\n{Fore.CYAN}🧠 Classifying {len(new_articles)} article(s) with Claude…{Style.RESET_ALL}")
+        results = await classifier.classify_all(new_articles)
 
-    if not approved:
-        print(f"\n  {Fore.YELLOW}No articles met the threshold (score ≥ {config.MIN_IMPORTANCE_SCORE}).{Style.RESET_ALL}")
-        _print_cost()
-        return
+        approved = sorted(
+            (r for r in results if r.approved and r.importance >= config.MIN_IMPORTANCE_SCORE),
+            key=lambda r: r.importance,
+            reverse=True,
+        )[:config.MAX_ARTICLES_PER_RUN]
+        rejected = len(results) - len(approved)
+        print(f"  Approved: {len(approved)} (cap {config.MAX_ARTICLES_PER_RUN}) | Rejected: {rejected}")
 
-    # ── 5. Topic deduplication (18h window) ─────────────────────────────
-    force_update_prefix = False
-    recent_sent = sent_log.recent_messages(18)
-    if recent_sent:
-        print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last 18h…{Style.RESET_ALL}")
-        pre_dedup_approved = approved[:]
-        before = len(approved)
-        approved = await classifier.topic_dedup_filter(approved, recent_sent)
-        skipped = before - len(approved)
-        if skipped:
-            print(f"  Skipped {skipped} duplicate topic(s)")
         if not approved:
-            print(f"\n  {Fore.YELLOW}כל הכתבות הן כפילויות נושאים — שולח את הכי גבוהה כ'עדכון'.{Style.RESET_ALL}")
-            approved = [pre_dedup_approved[0]]
-            force_update_prefix = True
-
-    # ── 5b. Within-batch dedup — prevent same topic queued multiple times ──
-    before = len(approved)
-    approved = classifier.within_batch_dedup(approved)
-    skipped = before - len(approved)
-    if skipped:
-        print(f"  Batch dedup: -{skipped} same-topic duplicate(s)")
-
-    # ── 6. Compose messages ─────────────────────────────────────────────
-    print(f"\n{Fore.CYAN}✍️  Composing {len(approved)} message(s)…{Style.RESET_ALL}")
-    await composer.compose_all(approved)
-
-    # ── 7. Humanizer (optional) ─────────────────────────────────────────
-    profile = None
-    if not args.skip_humanizer:
-        profile = humanizer.load_profile()
-        if profile:
-            print(f"\n{Fore.CYAN}🎨 Humanizing messages…{Style.RESET_ALL}")
-            await humanizer.humanize_all(approved, profile=profile)
-        else:
-            print(f"  {Fore.YELLOW}[humanizer] No style_profile.json found — skipping.{Style.RESET_ALL}")
-
-    # ── 8. Sort by importance ───────────────────────────────────────────
-    approved.sort(key=lambda r: r.importance, reverse=True)
-
-    # ── 9. Preview ──────────────────────────────────────────────────────
-    # Mark which article will be sent now vs queued for later
-    if len(approved) > 1:
-        print(f"\n  {Fore.CYAN}[NOW]{Style.RESET_ALL} Sending top article. "
-              f"{Fore.YELLOW}{len(approved)-1} article(s) → pending queue.{Style.RESET_ALL}")
-    _preview_results(approved, show_ab=args.ab)
-    _print_cost()
-
-    if args.dry_run:
-        print(f"\n  {Fore.YELLOW}--dry-run: nothing sent.{Style.RESET_ALL}")
-        return
-
-    # ── 10. Send top article; queue the rest ─────────────────────────────
-    if not args.auto:
-        if not _confirm():
-            print(f"\n  {Fore.YELLOW}Cancelled.{Style.RESET_ALL}")
+            print(f"\n  {Fore.YELLOW}No articles met the threshold (score ≥ {config.MIN_IMPORTANCE_SCORE}).{Style.RESET_ALL}")
+            _print_cost()
             return
 
-    to_send        = None
-    failed_compose = []
+        # ── 5. Topic deduplication (18h window) ─────────────────────────
+        force_update_prefix = False
+        recent_sent = sent_log.recent_messages(18)
+        if recent_sent:
+            print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last 18h…{Style.RESET_ALL}")
+            pre_dedup_approved = approved[:]
+            before = len(approved)
+            approved = await classifier.topic_dedup_filter(approved, recent_sent)
+            skipped = before - len(approved)
+            if skipped:
+                print(f"  Skipped {skipped} duplicate topic(s)")
+            if not approved:
+                print(f"\n  {Fore.YELLOW}כל הכתבות הן כפילויות נושאים — שולח את הכי גבוהה כ'עדכון'.{Style.RESET_ALL}")
+                approved = [pre_dedup_approved[0]]
+                force_update_prefix = True
 
-    for candidate in approved:
-        if not candidate.final_message:
-            print(
-                f"\n  {Fore.YELLOW}⚠ No message for \"{candidate.article.title[:60]}\" "
-                f"— retrying composition…{Style.RESET_ALL}"
-            )
-            await composer.compose_all([candidate])
-        if candidate.final_message:
-            to_send = candidate
-            break
-        print(f"  {Fore.RED}✗ Retry failed — skipping article.{Style.RESET_ALL}")
-        failed_compose.append(candidate)
+        # ── 5b. Within-batch dedup — prevent same topic queued multiple times ──
+        before = len(approved)
+        approved = classifier.within_batch_dedup(approved)
+        skipped = before - len(approved)
+        if skipped:
+            print(f"  Batch dedup: -{skipped} same-topic duplicate(s)")
 
-    if to_send is None:
-        print(f"\n  {Fore.RED}All articles failed composition — nothing sent.{Style.RESET_ALL}")
-        return
+        # ── 6. Compose messages ───────────────────────────────────────────
+        print(f"\n{Fore.CYAN}✍️  Composing {len(approved)} message(s)…{Style.RESET_ALL}")
+        await composer.compose_all(approved)
 
-    to_queue = [
-        r for r in approved
-        if r is not to_send and r not in failed_compose and r.final_message
-    ]
+        # ── 7. Humanizer (optional) ───────────────────────────────────────
+        profile = None
+        if not args.skip_humanizer:
+            profile = humanizer.load_profile()
+            if profile:
+                print(f"\n{Fore.CYAN}🎨 Humanizing messages…{Style.RESET_ALL}")
+                await humanizer.humanize_all(approved, profile=profile)
+            else:
+                print(f"  {Fore.YELLOW}[humanizer] No style_profile.json found — skipping.{Style.RESET_ALL}")
 
-    print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
-    msg_to_send = ("עדכון: " + to_send.final_message) if force_update_prefix else to_send.final_message
-    await _send([msg_to_send], args.provider)      # single message, always
-    sent_log.mark_sent([to_send])
+        # ── 8. Sort by importance ─────────────────────────────────────────
+        approved.sort(key=lambda r: r.importance, reverse=True)
 
-    if to_queue:
-        pending.push(to_queue)
-        print(f"  {Fore.YELLOW}{len(to_queue)} article(s) saved to pending queue.{Style.RESET_ALL}")
+        # ── 9. Preview ─────────────────────────────────────────────────────
+        # Mark which article will be sent now vs queued for later
+        if len(approved) > 1:
+            print(f"\n  {Fore.CYAN}[NOW]{Style.RESET_ALL} Sending top article. "
+                  f"{Fore.YELLOW}{len(approved)-1} article(s) → pending queue.{Style.RESET_ALL}")
+        _preview_results(approved, show_ab=args.ab)
+        _print_cost()
 
-    print(f"\n  {Fore.GREEN}✓ Done — 1 message sent, log updated.{Style.RESET_ALL}")
+        if args.dry_run:
+            print(f"\n  {Fore.YELLOW}--dry-run: nothing sent.{Style.RESET_ALL}")
+            return
+
+        # ── 10. Send top article; queue the rest ─────────────────────────
+        if not args.auto:
+            if not _confirm():
+                print(f"\n  {Fore.YELLOW}Cancelled.{Style.RESET_ALL}")
+                return
+
+        to_send        = None
+        failed_compose = []
+
+        for candidate in approved:
+            if not candidate.final_message:
+                print(
+                    f"\n  {Fore.YELLOW}⚠ No message for \"{candidate.article.title[:60]}\" "
+                    f"— retrying composition…{Style.RESET_ALL}"
+                )
+                await composer.compose_all([candidate])
+            if candidate.final_message:
+                to_send = candidate
+                break
+            print(f"  {Fore.RED}✗ Retry failed — skipping article.{Style.RESET_ALL}")
+            failed_compose.append(candidate)
+
+        if to_send is None:
+            print(f"\n  {Fore.RED}All articles failed composition — nothing sent.{Style.RESET_ALL}")
+            return
+
+        to_queue = [
+            r for r in approved
+            if r is not to_send and r not in failed_compose and r.final_message
+        ]
+
+        print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
+        msg_to_send = ("עדכון: " + to_send.final_message) if force_update_prefix else to_send.final_message
+        await _send([msg_to_send], args.provider)      # single message, always
+        sent_log.mark_sent([to_send])
+
+        if to_queue:
+            pending.push(to_queue)
+            print(f"  {Fore.YELLOW}{len(to_queue)} article(s) saved to pending queue.{Style.RESET_ALL}")
+
+        print(f"\n  {Fore.GREEN}✓ Done — 1 message sent, log updated.{Style.RESET_ALL}")
+    finally:
+        pending_hashes = pending.hashes()
+        still_unused = [
+            a for a in twitter_candidates
+            if not sent_log.is_sent(a.hash) and a.hash not in pending_hashes
+        ]
+        feeds.save_unused_twitter_articles(still_unused)
 
 
 # ── Morning digest pipeline ────────────────────────────────────────────────

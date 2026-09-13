@@ -258,6 +258,11 @@ _BROAD_CATEGORIES: dict[str, list[str]] = {
         "ישראל", "ממשלת ישראל", "בנק ישראל", "כלכלת ישראל", "שוק ישראלי",
         "מלחמה", "ביטחון",
     ],
+    "פנסיה_ביטוח_לאומי": [
+        "פנסיה", "פנסיות", "ביטוח לאומי", "ביטחון סוציאלי", "סוציאל סקיוריטי",
+        "סוציאל סיקיוריטי", "social security", "pension", "retirement",
+        "קצבה", "קצבאות", "פרישה",
+    ],
 }
 
 
@@ -277,7 +282,7 @@ def _topics_to_broad_categories(topics: list[str]) -> set[str]:
 
 _TOPIC_CHECK_SYSTEM = _CONTEXT + "\n\n" + """אתה בודק כפילויות בסיקור עיתונאי.
 
-חוק ברזל: אם הנושא כבר כוסה ב-24 שעות האחרונות — סנן החוצה, אלא אם יש אירוע חדש ספציפי.
+חוק ברזל: אם הנושא כבר כוסה ב-18 שעות האחרונות — סנן החוצה, אלא אם יש אירוע חדש ספציפי.
 
 "אירוע חדש ספציפי" = נתון חדש שפורסם, החלטה שהתקבלה, שינוי כיוון מפתיע, הכרזה רשמית.
 "לא אירוע חדש" = ניתוח נוסף של אותו מצב, פרשנות, עדכון שוטף, "תשואות עלו שוב".
@@ -296,19 +301,16 @@ async def topic_dedup_filter(
     if not recent_sent or not approved:
         return approved
 
-    # Build broad category coverage from recently sent articles
-    recent_broad_cats: set[str] = set()
-    for m in recent_sent:
-        recent_broad_cats.update(_topics_to_broad_categories(m.get("topics", [])))
-
-    # Fallback: exact topic matching for articles outside known categories
-    recent_exact_topics: set[str] = set(
-        t for m in recent_sent for t in m.get("topics", [])
-    )
-
-    if not recent_broad_cats and not recent_exact_topics:
-        return approved
-
+    # NOTE: this used to skip straight to `return r` (no Claude call at all)
+    # unless the new article's topics already overlapped a recently-sent
+    # article's broad category or exact topic string. That gate missed real
+    # duplicates whenever the batch classifier labeled the same underlying
+    # story differently across runs (e.g. "ביטחון סוציאלי" vs "סוציאל
+    # סיקיוריטי" for Social Security) — topic labels aren't consistent
+    # enough to safely decide "definitely not the same topic" without
+    # asking Claude. So every approved article is now checked against
+    # recent_sent unconditionally; the cost is one cheap Haiku call per
+    # approved article (capped at MAX_ARTICLES_PER_RUN) per run.
     recent_context = "\n".join(
         f"- {m['title']} | נושאים: {', '.join(m.get('topics', ['—']))}"
         for m in recent_sent
@@ -318,19 +320,7 @@ async def topic_dedup_filter(
     semaphore = asyncio.Semaphore(config.MAX_CONCURRENT_CLAUDE)
 
     async def _check_one(r: ClassificationResult) -> ClassificationResult | None:
-        article_broad_cats = _topics_to_broad_categories(r.topics)
-        broad_overlap      = article_broad_cats & recent_broad_cats
-        exact_overlap      = set(r.topics) & recent_exact_topics
-
-        # Pass through if no overlap in either broad categories or exact topics
-        if not broad_overlap and not exact_overlap:
-            return r
-
-        overlap_desc = (
-            f"קטגוריות: {broad_overlap}" if broad_overlap
-            else f"נושאים: {exact_overlap}"
-        )
-        print(f"  [topic-dedup] 🔍 Checking '{r.article.title[:55]}' — {overlap_desc}")
+        print(f"  [topic-dedup] 🔍 Checking '{r.article.title[:55]}'")
 
         async with semaphore:
             try:
@@ -341,7 +331,7 @@ async def topic_dedup_filter(
                     messages=[{"role": "user", "content":
                         f"כתבה חדשה: {r.article.title}\n"
                         f"נושאים: {', '.join(r.topics)}\n\n"
-                        f"כתבות שנשלחו ב-24 שעות האחרונות:\n{recent_context}\n\n"
+                        f"כתבות שנשלחו ב-18 שעות האחרונות:\n{recent_context}\n\n"
                         "האם הכתבה החדשה מביאה אירוע חדש ספציפי (לא רק ניתוח נוסף של אותו מצב)?"
                     }],
                 )

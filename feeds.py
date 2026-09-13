@@ -331,6 +331,27 @@ async def _fetch_twitter_articles() -> tuple[list[Article], FeedStatus]:
     return articles, FeedStatus(name=name, count=len(articles), ok=True)
 
 
+def save_unused_twitter_articles(articles: list[Article]) -> None:
+    """Tell feeds_twitter.py which Twitter-sourced candidates from this run
+    were never sent or queued, so it can re-offer them next time instead of
+    losing them once since_id moves past them. Safe to call with an empty
+    list — that correctly records "nothing left unused" for this run."""
+    twitter_articles = [a for a in articles if a.source.startswith("Twitter @")]
+    dicts = [
+        {
+            "id":        a.url.rsplit("/", 1)[-1],
+            "title":     a.title,
+            "url":       a.url,
+            "summary":   a.summary,
+            "published": a.published,
+            "source":    a.source,
+            "lang":      a.lang,
+        }
+        for a in twitter_articles
+    ]
+    feeds_twitter.save_unused(dicts)
+
+
 # ── Helpers ────────────────────────────────────────────────────────────────
 
 _TAG_RE = re.compile(r"<[^>]+>")
