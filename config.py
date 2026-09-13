@@ -38,6 +38,11 @@ TWILIO_MESSAGING_SERVICE_SID = os.getenv("TWILIO_MESSAGING_SERVICE_SID", "")
 GREEN_API_INSTANCE = os.getenv("GREEN_API_INSTANCE", "")
 GREEN_API_TOKEN    = os.getenv("GREEN_API_TOKEN", "")
 
+# ── X (Twitter) API v2 ─────────────────────────────────────────────────────
+# Feed source for @wallstengine, replacing the now-dead Nitter RSS mirrors.
+# If unset, the Twitter feed is skipped silently (see feeds_twitter.py).
+X_BEARER_TOKEN = os.getenv("X_BEARER_TOKEN", "")
+
 # ── Filter settings ────────────────────────────────────────────────────────
 MIN_IMPORTANCE_SCORE     = int(os.getenv("MIN_IMPORTANCE_SCORE", "6"))
 MAX_ARTICLES_PER_RUN     = int(os.getenv("MAX_ARTICLES_PER_RUN", "5"))
@@ -86,16 +91,8 @@ RSS_FEEDS = [
         "url":  "https://techcrunch.com/feed/",
         "lang": "en",
     },
-    # ── Twitter / X (via Nitter RSS mirrors) ──────────────────────────────
-    {
-        "name": "Twitter @wallstengine",
-        "url":  "https://nitter.net/wallstengine/rss",
-        "fallback_urls": [
-            "https://nitter.poast.org/wallstengine/rss",
-            "https://nitter.privacydev.net/wallstengine/rss",
-        ],
-        "lang": "en",
-    },
+    # Twitter / X is fetched separately via feeds_twitter.py (API v2, not RSS) —
+    # see _fetch_twitter_articles() in feeds.py.
     # ── Hebrew ─────────────────────────────────────────────────────────────
     {
         "name": "גלובס כללי",

@@ -14,6 +14,7 @@ import aiohttp
 import feedparser
 
 import config
+import feeds_twitter
 
 
 # ── Article model ──────────────────────────────────────────────────────────
@@ -98,6 +99,14 @@ async def fetch_all() -> tuple[list[Article], list[FeedStatus]]:
                 seen_hashes.add(article.hash)
                 articles.append(article)
 
+    if config.X_BEARER_TOKEN:
+        twitter_articles, twitter_status = await _fetch_twitter_articles()
+        statuses.append(twitter_status)
+        for article in twitter_articles:
+            if article.hash not in seen_hashes and article.title:
+                seen_hashes.add(article.hash)
+                articles.append(article)
+
     # Print feed summary
     working = sum(1 for s in statuses if s.ok)
     total   = len(statuses)
@@ -124,6 +133,11 @@ async def check_feeds() -> list[FeedStatus]:
         else:
             _, status = result
             statuses.append(status)
+
+    if config.X_BEARER_TOKEN:
+        _, twitter_status = await _fetch_twitter_articles()
+        statuses.append(twitter_status)
+
     return statuses
 
 
@@ -276,6 +290,39 @@ async def _fetch_feed(
             articles.append(article)
 
     print(f"  [feeds] {name}: {len(articles)} article(s)")
+    return articles, FeedStatus(name=name, count=len(articles), ok=True)
+
+
+# ── Twitter / X (API v2, not RSS) ──────────────────────────────────────────
+
+async def _fetch_twitter_articles() -> tuple[list[Article], FeedStatus]:
+    """Fetch new tweets via feeds_twitter.py and wrap them as Article objects."""
+    name = "Twitter @wallstengine"
+    loop = asyncio.get_event_loop()
+    try:
+        tweets = await loop.run_in_executor(None, feeds_twitter.fetch_tweets)
+    except Exception as e:
+        print(f"  [feeds] ✗ {name}: {e}")
+        return [], FeedStatus(name=name, count=0, ok=False, error=str(e))
+
+    articles = []
+    for t in tweets:
+        pub_dt: Optional[datetime] = None
+        if t.get("published"):
+            try:
+                pub_dt = datetime.fromisoformat(t["published"].replace("Z", "+00:00"))
+            except Exception:
+                pass
+        articles.append(Article(
+            title=_clean(t["title"]),
+            url=t["url"],
+            summary=_clean(t["summary"])[:800],
+            published=t.get("published", ""),
+            source=t["source"],
+            lang=t["lang"],
+            hash=_hash(t["title"]),
+            published_dt=pub_dt,
+        ))
     return articles, FeedStatus(name=name, count=len(articles), ok=True)
 
 

@@ -54,16 +54,18 @@ jobs:
           GREEN_API_INSTANCE: ${{ secrets.GREEN_API_INSTANCE }}
           GREEN_API_TOKEN:    ${{ secrets.GREEN_API_TOKEN }}
           WHATSAPP_TO:        ${{ secrets.WHATSAPP_TO }}
+          X_BEARER_TOKEN:     ${{ secrets.X_BEARER_TOKEN }}
         run: python main.py --auto
 
-      - name: Commit updated sent_log.json
+      - name: Commit updated sent_log.json / twitter_last_id.json
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add sent_log.json
+          if [ -f twitter_last_id.json ]; then git add twitter_last_id.json; fi
           if git diff --staged --quiet; then
-            echo "sent_log.json unchanged — nothing to commit."
+            echo "Nothing to commit."
           else
-            git commit -m "chore: update sent_log.json [skip ci]"
+            git commit -m "chore: update sent_log.json / twitter_last_id.json [skip ci]"
             git push
           fi
