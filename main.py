@@ -17,6 +17,7 @@ from __future__ import annotations
 import asyncio
 import argparse
 import json
+import os
 import sys
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -46,7 +47,7 @@ class SentLog:
                 return json.loads(config.SENT_LOG_PATH.read_text(encoding="utf-8"))
             except Exception:
                 pass
-        return {"hashes": {}, "messages": []}
+        return {"hashes": {}, "messages": [], "last_auto_run": None}
 
     def is_sent(self, hash_: str) -> bool:
         return hash_ in self._data["hashes"]
@@ -69,18 +70,28 @@ class SentLog:
             encoding="utf-8",
         )
 
-    def last_sent_at(self) -> datetime | None:
-        latest: datetime | None = None
-        for m in self._data["messages"]:
-            try:
-                sent_at = datetime.fromisoformat(m["sent_at"])
-                if sent_at.tzinfo is None:
-                    sent_at = sent_at.replace(tzinfo=timezone.utc)
-                if latest is None or sent_at > latest:
-                    latest = sent_at
-            except (ValueError, KeyError):
-                pass
-        return latest
+    def last_auto_run_at(self) -> datetime | None:
+        """Timestamp of the last *scheduled* (non-manual) run, regardless of
+        whether it ended up sending a message or bailing out early because
+        nothing qualified. Used to space out automatic runs without manual
+        workflow_dispatch runs interfering with that cadence."""
+        ts = self._data.get("last_auto_run")
+        if not ts:
+            return None
+        try:
+            dt = datetime.fromisoformat(ts)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt
+        except ValueError:
+            return None
+
+    def mark_auto_run(self) -> None:
+        self._data["last_auto_run"] = datetime.now(timezone.utc).isoformat()
+        config.SENT_LOG_PATH.write_text(
+            json.dumps(self._data, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
 
     def recent_messages(self, hours: int) -> list[dict]:
         cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
@@ -324,21 +335,28 @@ async def run(args: argparse.Namespace) -> None:
     sent_log = SentLog()
     pending  = PendingQueue()
 
-    # ── 0. Minimum-gap guard ──────────────────────────────────────────────
-    # The workflow now triggers every ~15 min to work around GitHub dropping
-    # scheduled runs; this keeps actual sends spaced ~1.5h apart regardless.
-    last_sent = sent_log.last_sent_at()
-    if last_sent is not None:
-        elapsed = datetime.now(timezone.utc) - last_sent
-        min_gap = timedelta(minutes=config.MIN_SEND_INTERVAL_MINUTES)
-        if elapsed < min_gap:
-            remaining = min_gap - elapsed
-            mins = int(remaining.total_seconds() // 60)
-            print(
-                f"\n  {Fore.YELLOW}⏱ Last message sent {int(elapsed.total_seconds() // 60)} min ago — "
-                f"waiting for {config.MIN_SEND_INTERVAL_MINUTES}min gap ({mins} min left).{Style.RESET_ALL}"
-            )
-            return
+    # ── 0. Minimum-gap guard (scheduled runs only) ─────────────────────────
+    # Manual runs (workflow_dispatch, or running locally) always bypass this
+    # gate and never affect it — the 85-min spacing is only enforced between
+    # consecutive *scheduled* runs, whatever their outcome (sent or bailed
+    # out early because nothing qualified). This keeps a manual test/run
+    # from either getting blocked, or throwing off the next scheduled run's
+    # timing.
+    is_scheduled = os.getenv("GITHUB_EVENT_NAME") == "schedule"
+    if is_scheduled:
+        last_auto = sent_log.last_auto_run_at()
+        if last_auto is not None:
+            elapsed = datetime.now(timezone.utc) - last_auto
+            min_gap = timedelta(minutes=config.MIN_SEND_INTERVAL_MINUTES)
+            if elapsed < min_gap:
+                remaining = min_gap - elapsed
+                mins = int(remaining.total_seconds() // 60)
+                print(
+                    f"\n  {Fore.YELLOW}⏱ Last scheduled run {int(elapsed.total_seconds() // 60)} min ago — "
+                    f"waiting for {config.MIN_SEND_INTERVAL_MINUTES}min gap ({mins} min left).{Style.RESET_ALL}"
+                )
+                return
+        sent_log.mark_auto_run()
 
     # ── 1. Drain pending queue (one article per run) ─────────────────────
     if len(pending):

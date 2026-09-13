@@ -47,9 +47,9 @@ X_BEARER_TOKEN = os.getenv("X_BEARER_TOKEN", "")
 MIN_IMPORTANCE_SCORE     = int(os.getenv("MIN_IMPORTANCE_SCORE", "6"))
 MAX_ARTICLES_PER_RUN     = int(os.getenv("MAX_ARTICLES_PER_RUN", "5"))
 DIGEST_HOURS             = int(os.getenv("DIGEST_HOURS", "12"))
-# Minimum minutes between two sent WhatsApp messages. The GitHub Actions
-# workflow now triggers every 2h — this is a safety floor underneath that,
-# not the main throttle.
+# Minimum minutes between consecutive *scheduled* runs (see the
+# min-gap guard in main.py's run()). Manual workflow_dispatch / local runs
+# never check or affect this.
 MIN_SEND_INTERVAL_MINUTES = int(os.getenv("MIN_SEND_INTERVAL_MINUTES", "85"))
 
 # ── RSS Feeds ──────────────────────────────────────────────────────────────
