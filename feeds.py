@@ -99,13 +99,14 @@ async def fetch_all() -> tuple[list[Article], list[FeedStatus]]:
                 seen_hashes.add(article.hash)
                 articles.append(article)
 
-    if config.X_BEARER_TOKEN:
-        twitter_articles, twitter_status = await _fetch_twitter_articles()
-        statuses.append(twitter_status)
-        for article in twitter_articles:
-            if article.hash not in seen_hashes and article.title:
-                seen_hashes.add(article.hash)
-                articles.append(article)
+    # Always call this (even without a token) so run logs show *why* Twitter
+    # isn't contributing articles, instead of failing silently either way.
+    twitter_articles, twitter_status = await _fetch_twitter_articles()
+    statuses.append(twitter_status)
+    for article in twitter_articles:
+        if article.hash not in seen_hashes and article.title:
+            seen_hashes.add(article.hash)
+            articles.append(article)
 
     # Print feed summary
     working = sum(1 for s in statuses if s.ok)
