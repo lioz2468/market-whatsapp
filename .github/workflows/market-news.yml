@@ -2,16 +2,22 @@ name: Market News Bot
 
 on:
   schedule:
-    # Every 2 hours, 05:00–19:00 UTC = 08:00–22:00 Israel (UTC+3 DST / UTC+2 winter)
+    # 10 runs/day, every 1.5h, 08:00–21:30 Israel time (UTC+3 DST / UTC+2 winter).
     # Days: 0=Sun, 1=Mon, 2=Tue, 3=Wed, 4=Thu, 5=Fri  (Israeli workweek Sun–Fri)
+    # Split into two cron lines (:00 and :30 UTC) since a single cron entry
+    # can't mix minutes — together they land on Israel :00/:30 marks.
+    #   08:00, 09:30, 11:00, 12:30, 14:00, 15:30, 17:00, 18:30, 20:00, 21:30
     #
     # GitHub's `schedule` trigger is best-effort: under load it silently DROPS
-    # scheduled firings rather than queueing them. The previous every-15-min
-    # workaround still only landed 4-5 runs/day in practice, so we widened the
-    # spacing to every 2 hours instead — fewer scheduled firings for GitHub to
-    # drop. main.py still enforces the actual minimum gap between sent
-    # WhatsApp messages (MIN_SEND_INTERVAL_MINUTES).
-    - cron: '0 5,7,9,11,13,15,17,19 * * 0-5'
+    # scheduled firings rather than queueing them, so exact timing isn't
+    # guaranteed even with this spacing. main.py still enforces the actual
+    # minimum gap between sent WhatsApp messages (MIN_SEND_INTERVAL_MINUTES),
+    # so a late/duplicate firing never sends more often than that.
+    #
+    # NOTE: when Israel exits DST (~late Oct), these UTC times land 1h
+    # earlier in local time (07:00–20:30) until the cron is adjusted back.
+    - cron: '0 5,8,11,14,17 * * 0-5'
+    - cron: '30 6,9,12,15,18 * * 0-5'
 
   # Allow manual trigger from the Actions tab
   workflow_dispatch:
