@@ -134,9 +134,10 @@ async def check_feeds() -> list[FeedStatus]:
             _, status = result
             statuses.append(status)
 
-    if config.X_BEARER_TOKEN:
-        _, twitter_status = await _fetch_twitter_articles()
-        statuses.append(twitter_status)
+    # Always call this (even without a token) so --check-feeds shows *why*
+    # Twitter isn't reporting, instead of silently omitting the row.
+    _, twitter_status = await _fetch_twitter_articles()
+    statuses.append(twitter_status)
 
     return statuses
 
@@ -300,10 +301,13 @@ async def _fetch_twitter_articles() -> tuple[list[Article], FeedStatus]:
     name = "Twitter @wallstengine"
     loop = asyncio.get_event_loop()
     try:
-        tweets = await loop.run_in_executor(None, feeds_twitter.fetch_tweets)
+        tweets, error = await loop.run_in_executor(None, feeds_twitter.fetch_tweets)
     except Exception as e:
         print(f"  [feeds] ✗ {name}: {e}")
         return [], FeedStatus(name=name, count=0, ok=False, error=str(e))
+
+    if error:
+        return [], FeedStatus(name=name, count=0, ok=False, error=error)
 
     articles = []
     for t in tweets:
