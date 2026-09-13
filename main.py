@@ -380,7 +380,7 @@ async def run(args: argparse.Namespace) -> None:
         return
 
     # ── 3. Pre-filter (no API cost) ──────────────────────────────────────
-    recent_sent_titles = [m["title"] for m in sent_log.recent_messages(24)]
+    recent_sent_titles = [m["title"] for m in sent_log.recent_messages(18)]
     new_articles, pre_skipped = feeds.pre_filter(new_articles, sent_titles=recent_sent_titles)
     if pre_skipped:
         print(f"  Pre-filter: -{pre_skipped} irrelevant/stale | Remaining: {len(new_articles)}")
@@ -405,11 +405,11 @@ async def run(args: argparse.Namespace) -> None:
         _print_cost()
         return
 
-    # ── 5. Topic deduplication (24h window) ─────────────────────────────
+    # ── 5. Topic deduplication (18h window) ─────────────────────────────
     force_update_prefix = False
-    recent_sent = sent_log.recent_messages(24)
+    recent_sent = sent_log.recent_messages(18)
     if recent_sent:
-        print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last 24h…{Style.RESET_ALL}")
+        print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last 18h…{Style.RESET_ALL}")
         pre_dedup_approved = approved[:]
         before = len(approved)
         approved = await classifier.topic_dedup_filter(approved, recent_sent)

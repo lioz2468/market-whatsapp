@@ -291,7 +291,7 @@ async def topic_dedup_filter(
     approved: list[ClassificationResult],
     recent_sent: list[dict],
 ) -> list[ClassificationResult]:
-    """Remove articles whose broad topics were already covered in the last 24 hours,
+    """Remove articles whose broad topics were already covered in the last 18 hours,
     unless Claude identifies a specific new event (not just new analysis)."""
     if not recent_sent or not approved:
         return approved
