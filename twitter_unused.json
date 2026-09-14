@@ -1,5 +1,41 @@
 [
   {
+    "id": "2099464991464452435",
+    "title": "Elon Musk hints at an upcoming 3T-parameter Grok model, saying improved training software and much better data should make it “dramatically better” than the current 2.5T Grok 4.8 run. https://t.co/vCYfSUKO4D",
+    "url": "https://twitter.com/wallstengine/status/2099464991464452435",
+    "summary": "Elon Musk hints at an upcoming 3T-parameter Grok model, saying improved training software and much better data should make it “dramatically better” than the current 2.5T Grok 4.8 run. https://t.co/vCYfSUKO4D",
+    "published": "2026-09-14T11:47:14.000Z",
+    "source": "Twitter @wallstengine",
+    "lang": "en"
+  },
+  {
+    "id": "2099454492005822487",
+    "title": "$IREN CEO Daniel Roberts on AI compute demand: Even if models stopped improving today, deploying what they can already do would require more compute than the world can build for years. He says demand risk remains skewed higher, while supply is more likely to fall short. https://t.co/HvYPi4Zbdw",
+    "url": "https://twitter.com/wallstengine/status/2099454492005822487",
+    "summary": "$IREN CEO Daniel Roberts on AI compute demand: Even if models stopped improving today, deploying what they can already do would require more compute than the world can build for years. He says demand risk remains skewed higher, while supply is more likely to fall short. https://t.co/HvYPi4Zbdw",
+    "published": "2026-09-14T11:05:31.000Z",
+    "source": "Twitter @wallstengine",
+    "lang": "en"
+  },
+  {
+    "id": "2099451394441036119",
+    "title": "Ethereum +34% over the last month. Bitcoin +23.7% S&P 500: -1.6% Nasdaq: -1.5% Dow: -2.1% Gold: -0.7% https://t.co/0fUqAAEMaa https://t.co/w3MsgFhRvo",
+    "url": "https://twitter.com/wallstengine/status/2099451394441036119",
+    "summary": "Ethereum +34% over the last month. Bitcoin +23.7% S&P 500: -1.6% Nasdaq: -1.5% Dow: -2.1% Gold: -0.7% https://t.co/0fUqAAEMaa https://t.co/w3MsgFhRvo",
+    "published": "2026-09-14T10:53:13.000Z",
+    "source": "Twitter @wallstengine",
+    "lang": "en"
+  },
+  {
+    "id": "2099440913764556865",
+    "title": "JPMORGAN UPGRADES $IREN TO OVERWEIGHT, RAISES PT TO $65 FROM $46 JPM says IREN is emerging as a top-tier neocloud provider, helped by its NVIDIA partnership, stronger customer momentum and rising AI infrastructure pricing. The firm notes neocloud contract pricing has moved from https://t.co/NAFHECNIqn",
+    "url": "https://twitter.com/wallstengine/status/2099440913764556865",
+    "summary": "JPMORGAN UPGRADES $IREN TO OVERWEIGHT, RAISES PT TO $65 FROM $46 JPM says IREN is emerging as a top-tier neocloud provider, helped by its NVIDIA partnership, stronger customer momentum and rising AI infrastructure pricing. The firm notes neocloud contract pricing has moved from https://t.co/NAFHECNIqn",
+    "published": "2026-09-14T10:11:34.000Z",
+    "source": "Twitter @wallstengine",
+    "lang": "en"
+  },
+  {
     "id": "2099430754895966341",
     "title": "Looks like one of those days. $IGV +1.5% https://t.co/4DpjuhDVF5 https://t.co/4SVwgD8JJP",
     "url": "https://twitter.com/wallstengine/status/2099430754895966341",
@@ -59,42 +95,6 @@
     "url": "https://twitter.com/wallstengine/status/2099422172611752187",
     "summary": "Global semiconductor revenue hit a record $425B in Q2 2026, up 31.4% QoQ, according to Omdia. Memory chips accounted for more than half of total revenue, driven by AI demand and rising DRAM, NAND and NOR pricing. Even excluding memory, semiconductor revenue grew more than 10%",
     "published": "2026-09-14T08:57:05.000Z",
-    "source": "Twitter @wallstengine",
-    "lang": "en"
-  },
-  {
-    "id": "2099409441905103086",
-    "title": "ANTHROPIC SIGNS $13.7B COMPUTE DEAL WITH $RUM GROUP Anthropic has signed a six-year, $13.7B compute agreement with Trump-linked RUM Group, formerly Rumble, according to The Information. Anthropic will lease AI compute capacity from RUM’s Maysville, Georgia data center, which is https://t.co/yv4EmEQOpX",
-    "url": "https://twitter.com/wallstengine/status/2099409441905103086",
-    "summary": "ANTHROPIC SIGNS $13.7B COMPUTE DEAL WITH $RUM GROUP Anthropic has signed a six-year, $13.7B compute agreement with Trump-linked RUM Group, formerly Rumble, according to The Information. Anthropic will lease AI compute capacity from RUM’s Maysville, Georgia data center, which is https://t.co/yv4EmEQOpX",
-    "published": "2026-09-14T08:06:30.000Z",
-    "source": "Twitter @wallstengine",
-    "lang": "en"
-  },
-  {
-    "id": "2099270874260222079",
-    "title": "Anthropic’s gross margins are above 80% before accounting for revenue shared with distribution partners, including Amazon, and the cost of training its models, according to two of the people, cited by FT.",
-    "url": "https://twitter.com/wallstengine/status/2099270874260222079",
-    "summary": "Anthropic’s gross margins are above 80% before accounting for revenue shared with distribution partners, including Amazon, and the cost of training its models, according to two of the people, cited by FT.",
-    "published": "2026-09-13T22:55:53.000Z",
-    "source": "Twitter @wallstengine",
-    "lang": "en"
-  },
-  {
-    "id": "2099268274114777379",
-    "title": "BREAKING: Elon Musk is “highly confident” SpaceX $SPCX will begin launching $NVDA Vera Rubin NVL72 AI systems into orbit in 2027, as part of its push to build AI compute infrastructure in space.",
-    "url": "https://twitter.com/wallstengine/status/2099268274114777379",
-    "summary": "BREAKING: Elon Musk is “highly confident” SpaceX $SPCX will begin launching $NVDA Vera Rubin NVL72 AI systems into orbit in 2027, as part of its push to build AI compute infrastructure in space.",
-    "published": "2026-09-13T22:45:33.000Z",
-    "source": "Twitter @wallstengine",
-    "lang": "en"
-  },
-  {
-    "id": "2099265723919200752",
-    "title": "In July, $NVDA CEO Jensen Huang called AI doom talk “complete nonsense.” The most important thing is not to scare our society into not using ai “It’s fine to warn people. It’s even better to warn people with a solution.” https://t.co/ELNCwBm5A4",
-    "url": "https://twitter.com/wallstengine/status/2099265723919200752",
-    "summary": "In July, $NVDA CEO Jensen Huang called AI doom talk “complete nonsense.” The most important thing is not to scare our society into not using ai “It’s fine to warn people. It’s even better to warn people with a solution.” https://t.co/ELNCwBm5A4",
-    "published": "2026-09-13T22:35:25.000Z",
     "source": "Twitter @wallstengine",
     "lang": "en"
   }
