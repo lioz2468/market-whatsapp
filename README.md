@@ -64,9 +64,9 @@ python main.py --ab                 # לפני/אחרי humanizer
 | `whatsapp_green.py` | שליחה דרך Green API |
 | `sent_log.json` | לוג הודעות שנשלחו (dedup) |
 
-## Email digest pool (בריף בוקר במייל)
+## Digest pool (מקור הנתונים לבריף בוקר)
 
-צינור נפרד לגמרי מהוואטסאפ, שמייצר `email_digest.json` פעם ביום — קובץ שמשמש כמקור נתונים לבריף בוקר שנשלח במייל (ניסוח ושליחה קורים מחוץ לריפו הזה).
+צינור נפרד לגמרי מהוואטסאפ הרגיל, שמייצר `email_digest.json` פעם ביום — קובץ שמשמש כמקור נתונים לבריף בוקר (ראו "שליחת בריף הבוקר" למטה).
 
 ```bash
 python main.py --collect-email-pool
@@ -74,14 +74,16 @@ python main.py --collect-email-pool
 
 מה זה עושה:
 1. מושך חדשות עולם מ-`WORLD_RSS_FEEDS` (config.py) ומסנן אותן עם `email_classifier.py` — קריטריון של משמעות גלובלית/גיאופוליטית, **לא** קשור לקריטריונים הכלכליים של `classifier.py`.
-2. שולף כתבות עסקים/טכנולוגיה שכבר אושרו לוואטסאפ ב-`sent_log.json` ב-24 השעות האחרונות (ברירת מחדל) — בלי קריאות נוספות ל-Claude.
-3. כותב הכל ל-`email_digest.json`, מחולק ל-`world` / `business` / `tech`.
+2. מושך חדשות טכנולוגיה מ-`TECH_RSS_FEEDS` ומסנן אותן עם `email_tech_classifier.py` — קריטריון של משמעות לתעשיית הטכנולוגיה. נפרד לגמרי מ-15 הקריטריונים הכלכליים של `classifier.py` (שכמעט אף פעם לא נותן מעבר לכתבות טכנולוגיה).
+3. שולף כתבות עסקים שכבר אושרו לוואטסאפ ב-`sent_log.json` ב-24 השעות האחרונות (ברירת מחדל) — בלי קריאות נוספות ל-Claude.
+4. כותב הכל ל-`email_digest.json`, מחולק ל-`world` / `business` / `tech`.
 
 Workflow נפרד (`email-digest-pool.yml`) מריץ את זה פעם ביום. הוא לא נוגע ב-`sent_log.json`, לא שולח וואטסאפ, ולא יכול להשפיע על ה-workflow הקיים (`market-news.yml`) — concurrency group נפרד לגמרי.
 
 | קובץ נוסף | תפקיד |
 |------|--------|
-| `email_classifier.py` | סינון חדשות עולם לבריף המייל (Claude, קריטריון גיאופוליטי) |
+| `email_classifier.py` | סינון חדשות עולם לבריף (Claude, קריטריון גיאופוליטי) |
+| `email_tech_classifier.py` | סינון חדשות טכנולוגיה לבריף (Claude, קריטריון משמעות לתעשייה) |
 | `email_digest.json` | פלט — נקרא ע"י `send_morning_brief.py` |
 
 ## שליחת בריף הבוקר — קבוצת WhatsApp
@@ -98,11 +100,16 @@ python send_morning_brief.py --auto      # שליחה בלי לשאול
 
 ה-workflow `send-morning-brief.yml` רץ אוטומטית כל יום ב-08:34 שעון ישראל (כ-2.5 שעות אחרי ה-06:00 של Email Digest Pool, כדי ש-`email_digest.json` יהיה טרי) — וגם ניתן להפעלה ידנית מטאב ה-Actions. דורש GitHub Secret נוסף: `MORNING_BRIEF_TO` (ליד `ANTHROPIC_API_KEY`/`GREEN_API_INSTANCE`/`GREEN_API_TOKEN` שכבר קיימים).
 
+**סגנון אישי:** אם קיים `../style-extractor/style_profile.json` (ראו "Humanizer" למעלה), הבריף נכתב ישירות בסגנון הזה — לא ניסוח גנרי ואז שכתוב, אלא קריאה אחת ל-Claude עם הנחיות הסגנון כבר בפנים.
+
+**"מניות הבית":** רשימת טיקרים ב-`config.WATCHLIST_STOCKS` (למשל `{"symbol": "NVDA", "name": "Nvidia"}`) — לכל אחד נשלפות כותרות חדשות אחרונות (Yahoo Finance), ו-Claude מחליט אם יש עדכון *משמעותי באמת* להזכיר. רוב הימים רוב המניות לא יוזכרו בכלל — זה בכוונה. רשימה ריקה = הסעיף מדולג.
+
 | קובץ נוסף | תפקיד |
 |------|--------|
 | `market_data.py` | תמונת מצב שוקים חיה (Yahoo Finance, בלי מפתח API) |
+| `watchlist_news.py` | כותרות חדשות גולמיות לכל טיקר ב-`WATCHLIST_STOCKS` (Yahoo Finance) |
 | `morning_brief_composer.py` | ניסוח הודעת ה-WhatsApp של הבריף (Claude, נפרד מ-`composer.py`) |
-| `send_morning_brief.py` | ה-CLI שמחבר הכל: digest → שוק → Claude → WhatsApp |
+| `send_morning_brief.py` | ה-CLI שמחבר הכל: digest → שוק → מניות בית → Claude → WhatsApp |
 
 ### מסלול שננטש: מייל דרך רב מסר (Responder)
 

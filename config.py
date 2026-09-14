@@ -66,14 +66,15 @@ EMAIL_DIGEST_PATH         = BASE_DIR / "email_digest.json"
 EMAIL_LOOKBACK_HOURS      = int(os.getenv("EMAIL_LOOKBACK_HOURS", "24"))
 MIN_WORLD_IMPORTANCE_SCORE = int(os.getenv("MIN_WORLD_IMPORTANCE_SCORE", "5"))
 MAX_WORLD_ARTICLES        = int(os.getenv("MAX_WORLD_ARTICLES", "10"))
+# "business" is still reused free from sent_log.json's WhatsApp-approved
+# articles. "tech" used to be split out of that same reuse (by source name)
+# but almost never had anything — nearly nothing tech-related clears the
+# WhatsApp bot's 15-criteria filter. It now has its own dedicated feeds +
+# classifier below (TECH_RSS_FEEDS / email_tech_classifier.py), same pattern
+# as world news.
+MIN_TECH_IMPORTANCE_SCORE = int(os.getenv("MIN_TECH_IMPORTANCE_SCORE", "5"))
+MAX_TECH_ARTICLES         = int(os.getenv("MAX_TECH_ARTICLES", "8"))
 
-# Source → email category, for splitting sent_log.json's WhatsApp-approved
-# articles into "business" vs "tech" without any extra classification call.
-# Anything not listed here (e.g. Twitter) falls back to "business".
-EMAIL_SOURCE_CATEGORY: dict[str, str] = {
-    "TechCrunch":    "tech",
-    "גיקטיים":        "tech",
-}
 # Minimum minutes between consecutive *scheduled* runs (see the
 # min-gap guard in main.py's run()). Manual workflow_dispatch / local runs
 # never check or affect this.
@@ -179,6 +180,47 @@ WORLD_RSS_FEEDS = [
         "url":  "https://www.ynet.co.il/Integration/StoryRss2.xml",
         "lang": "he",
     },
+]
+
+# ── Tech-news RSS feeds — used ONLY by the email digest pool's tech section ─
+# (`main.py --collect-email-pool`, via email_tech_classifier.py), never by
+# the WhatsApp path. Same isolation pattern as WORLD_RSS_FEEDS: each feed
+# fails independently, safe to list generously.
+TECH_RSS_FEEDS = [
+    {
+        "name": "TechCrunch",
+        "url":  "https://techcrunch.com/feed/",
+        "lang": "en",
+    },
+    {
+        "name": "The Verge",
+        "url":  "https://www.theverge.com/rss/index.xml",
+        "lang": "en",
+    },
+    {
+        "name": "Ars Technica",
+        "url":  "https://feeds.arstechnica.com/arstechnica/index",
+        "lang": "en",
+    },
+    {
+        "name": "Wired",
+        "url":  "https://www.wired.com/feed/rss",
+        "lang": "en",
+    },
+    {
+        "name": "גיקטיים",
+        "url":  "https://www.geektime.co.il/feed/",
+        "lang": "he",
+    },
+]
+
+# ── "House stocks" watchlist — used ONLY by the morning brief's dedicated
+# section (send_morning_brief.py / watchlist_news.py). For each entry, recent
+# news is pulled (Yahoo Finance, no API key) and Claude decides what's
+# actually significant enough to mention — most days most tickers get no
+# mention at all. Fill in your own tickers; empty list = section is skipped.
+WATCHLIST_STOCKS: list[dict] = [
+    # {"symbol": "NVDA", "name": "Nvidia"},
 ]
 
 

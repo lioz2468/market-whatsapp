@@ -629,6 +629,7 @@ async def run_morning_digest(args: argparse.Namespace) -> None:
 async def run_collect_email_pool(args: argparse.Namespace) -> None:
     config.validate_claude()
     import email_classifier
+    import email_tech_classifier
 
     print(f"\n{Fore.CYAN}📡 Fetching world-news feeds…{Style.RESET_ALL}")
     world_articles, _ = await feeds.fetch_feed_list(config.WORLD_RSS_FEEDS)
@@ -662,16 +663,49 @@ async def run_collect_email_pool(args: argparse.Namespace) -> None:
             for r in approved
         ]
 
-    # ── Business / tech: reuse what already passed the WhatsApp classifier —
-    # zero extra Claude calls. Split by source via EMAIL_SOURCE_CATEGORY.
+    # ── Tech: dedicated feeds + classifier (see TECH_RSS_FEEDS) — almost
+    # nothing tech-related clears the WhatsApp bot's 15-criteria filter, so
+    # reusing sent_log.json (like business does below) left this near-empty.
+    print(f"\n{Fore.CYAN}📡 Fetching tech-news feeds…{Style.RESET_ALL}")
+    tech_articles, _ = await feeds.fetch_feed_list(config.TECH_RSS_FEEDS)
+
+    tech_articles, tech_pre_skipped = feeds.pre_filter(
+        tech_articles, max_age_hours=config.EMAIL_LOOKBACK_HOURS
+    )
+    print(f"  After pre-filter: {len(tech_articles)} (-{tech_pre_skipped})")
+
+    tech_items: list[dict] = []
+    if tech_articles:
+        print(f"\n{Fore.CYAN}🧠 Classifying {len(tech_articles)} tech article(s)…{Style.RESET_ALL}")
+        tech_results = await email_tech_classifier.classify_all(tech_articles)
+        tech_approved = sorted(
+            (r for r in tech_results if r.approved and r.importance >= config.MIN_TECH_IMPORTANCE_SCORE),
+            key=lambda r: r.importance,
+            reverse=True,
+        )[:config.MAX_TECH_ARTICLES]
+        print(f"  Approved: {len(tech_approved)} (cap {config.MAX_TECH_ARTICLES})")
+
+        tech_items = [
+            {
+                "title":      r.article.title,
+                "source":     r.article.source,
+                "url":        r.article.url,
+                "summary":    r.article.summary[:400],
+                "importance": r.importance,
+                "topics":     r.topics,
+                "published":  r.article.published,
+            }
+            for r in tech_approved
+        ]
+
+    # ── Business: reuse what already passed the WhatsApp classifier — zero
+    # extra Claude calls.
     sent_log = SentLog()
     recent   = sent_log.recent_messages(config.EMAIL_LOOKBACK_HOURS)
 
     business_items: list[dict] = []
-    tech_items:     list[dict] = []
     for m in sorted(recent, key=lambda x: x.get("importance", 5), reverse=True):
-        category = config.EMAIL_SOURCE_CATEGORY.get(m.get("source", ""), "business")
-        item = {
+        business_items.append({
             "title":      m.get("title", ""),
             "source":     m.get("source", ""),
             "url":        m.get("url", ""),
@@ -679,8 +713,7 @@ async def run_collect_email_pool(args: argparse.Namespace) -> None:
             "importance": m.get("importance", 5),
             "topics":     m.get("topics", []),
             "tag":        m.get("tag", ""),
-        }
-        (tech_items if category == "tech" else business_items).append(item)
+        })
 
     digest = {
         "generated_at":   datetime.now(timezone.utc).isoformat(),

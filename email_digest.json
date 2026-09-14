@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T07:25:24.512489+00:00",
+  "generated_at": "2026-09-14T12:48:41.391400+00:00",
   "lookback_hours": 24,
   "world": [
     {
@@ -11,22 +11,35 @@
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מתח גיאופוליטי"
+        "גבולות"
       ],
       "published": "Mon, 14 Sep 2026 01:46:26 -0400"
     },
     {
-      "title": "תיעוד מהחלל: הנזק ל\"עוקף הורמוז\" שהושבת לחלוטין",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/byex811bffl",
-      "summary": "היקף ההרס לא ברור במלואו, אך תמונות לוויין חדשות מציגות את מתקן השאיבה בצינור הנפט הסעודי חרוך לגמרי. בתעשייה מזהירים שהמלאי הזמין לייצוא עלול להיגמר תוך ימים אם הפעילות לא תחודש, ומצרים מנסה לטפח ערוץ תיווך חדש - מחשש להשפעות על תעלת סואץ",
+      "title": "Daily Briefing Sept. 14 – IDF rejects film’s claim Israel killed Gazans with AI-assisted targeting",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/daily-briefing-sept-14-idf-rejects-films-claim-israel-killed-gazans-with-ai-assisted-targeting/",
+      "summary": "Military correspondent Emanuel Fabian discusses controversy over 'NAZA' documentary, Hamas commanders killed in Gaza, West Bank unrest and how the IDF blew up a Hezbollah complex The post Daily Briefing Sept. 14 – IDF rejects film’s claim Israel killed Gazans with AI-assisted targeting appeared first on The Times of Israel .",
       "importance": 8,
       "topics": [
-        "סעודיה",
-        "אנרגיה",
-        "גיאופוליטיקה"
+        "ישראל",
+        "גזה",
+        "AI טכנולוגיה"
       ],
-      "published": "Mon, 14 Sep 2026 09:47:51 +0300"
+      "published": "Mon, 14 Sep 2026 11:20:51 +0000"
+    },
+    {
+      "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
+      "summary": "Indonesian authorities intensified on Monday a search for people missing after a ferry overturned in bad weather in the Java Sea. At least six passengers were killed and 129 people are still missing.",
+      "importance": 7,
+      "topics": [
+        "אינדונזיה",
+        "אסון",
+        "ים"
+      ],
+      "published": "Mon, 14 Sep 2026 02:20:28 -0400"
     },
     {
       "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
@@ -36,10 +49,23 @@
       "importance": 7,
       "topics": [
         "BRICS",
-        "סין",
-        "איראן"
+        "גיאופוליטיקה",
+        "סין"
       ],
       "published": "Sun, 13 Sep 2026 17:03:15 -0400"
+    },
+    {
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "importance": 7,
+      "topics": [
+        "כלכלה",
+        "הנהגה אמריקאית",
+        "סחר בינלאומי"
+      ],
+      "published": "Sun, 13 Sep 2026 19:34:36 GMT"
     },
     {
       "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
@@ -48,90 +74,107 @@
       "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
       "importance": 7,
       "topics": [
-        "טורקיה",
         "זכויות אדם",
+        "טורקיה",
         "LGBTQ+"
       ],
       "published": "Sun, 13 Sep 2026 14:25:56 GMT"
     },
     {
-      "title": "Animated map shows spread of illegal Israeli settlements across Palestine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss",
-      "summary": "Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.",
+      "title": "Houthis seize more key islands in Red Sea, launch attacks into Saudi Arabia",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/houthis-seize-more-key-islands-in-red-sea-launch-attacks-into-saudi-arabia/",
+      "summary": "Houthis claim to fire dozens of projectiles at Saudi military sites in southern areas in response to alleged attacks, while rebel push across Red Sea meets little resistance The post Houthis seize more key islands in Red Sea, launch attacks into Saudi Arabia appeared first on The Times of Israel .",
+      "importance": 7,
+      "topics": [
+        "תימן",
+        "הוותי",
+        "ים האדום"
+      ],
+      "published": "Mon, 14 Sep 2026 11:53:04 +0000"
+    },
+    {
+      "title": "‘Blood libel’: Israeli politicians assail Israeli film alleging AI-powered killing in Gaza",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/blood-libel-israeli-politicians-assail-israeli-film-on-ai-powered-killing-in-gaza/",
+      "summary": "After IDF rejects claims made in 'NAZA,' chief of staff reportedly to hold meeting on response; MK Lazimi assails culture minister for bid to revoke filmmakers' citizenship The post ‘Blood libel’: Israeli politicians assail Israeli film alleging AI-powered killing in Gaza appeared first on The Times of Israel .",
       "importance": 7,
       "topics": [
         "ישראל",
-        "פלסטינה",
-        "התנחלויות"
+        "צה\"ל",
+        "פוליטיקה"
       ],
-      "published": "Mon, 14 Sep 2026 05:56:36 +0000"
+      "published": "Mon, 14 Sep 2026 09:48:33 +0000"
     },
     {
-      "title": "Indonesia intensifies search for 129 people missing after ship capsizes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss",
-      "summary": "Officials say more than 600 rescuers battle stormy seas in search for missing people.",
-      "importance": 7,
-      "topics": [
-        "אינדונזיה",
-        "אסון",
-        "חילוץ"
-      ],
-      "published": "Mon, 14 Sep 2026 05:51:35 +0000"
-    },
-    {
-      "title": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
-      "summary": "Israeli Culture Minister Miki Zohar labels Gaza genocide film 'vile' after it wins Venice Film Festival recognition.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "מדיניות",
-        "תרבות"
-      ],
-      "published": "Mon, 14 Sep 2026 03:50:25 +0000"
-    },
-    {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/russia-hits-ukrainian-train-shortly-after-boris-johnson-leaves-station?traffic_source=rss",
-      "summary": "A Russian drone struck a train near Ukraine-Poland border, shortly after Former UK PM Boris Johnson left the station.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה"
-      ],
-      "published": "Mon, 14 Sep 2026 03:37:12 +0000"
-    },
-    {
-      "title": "\"כל יהודי יהפוך פה לעבריין\": נורבגיה מבקשת להקצין ענישה על סחר עם יו\"ש",
+      "title": "דיפלומטים שמעו על נז\"א בארוחות חג, בישראל מתכננים קמפיין: \"אנחנו עמוק באירוע\"",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rj6c311htfx",
-      "summary": "אחרי ש-12 מדינות מערביות הכריזו על כוונתן להטיל סנקציות על הכנסת מוצרים שמקורם בהתנחלויות, באוסלו בוחנים לקחת את החרם צעד אחד קדימה. שר החוץ הנורבגי איידה מקדם חוק שיאפשר להטיל עד 3 שנות מאסר על אנשים או חברות שיסחרו עם מתנחלים. און, ישראלי שחי בנורבגיה: \"אנטישמי השנה איבד בורג\"",
+      "url": "https://www.ynet.co.il/news/article/bkrrqvhfme",
+      "summary": "דיונים קדחתניים בצה\"ל, משרד החוץ ומערך ההסברה הלאומי על הטענות הקשות בסרט שזכה בפרס היוקרתי בוונציה. \"יש שקרים בוטים\", אמרו בכירים. אבל גם ממשלות ידידותיות צפויות להידחק לקצה. אלה ההמלצות של השגרירים",
       "importance": 7,
       "topics": [
         "ישראל",
-        "נורבגיה",
-        "סנקציות"
+        "הסברה",
+        "דיפלומטיה"
       ],
-      "published": "Mon, 14 Sep 2026 09:42:42 +0300"
+      "published": "Mon, 14 Sep 2026 12:54:34 +0300"
     },
     {
-      "title": "Indonesia searches for 129 people missing after ferry capsizes",
+      "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
-      "summary": "Indonesian authorities intensified on Monday a search for people missing after a ferry overturned in bad weather in the Java Sea. At least six passengers were killed and 129 people are still missing.",
+      "url": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
+      "summary": "Some key leaders at artificial intelligence companies call for a slowdown in AI development. And, Iran-Gulf diplomacy hits a setback as talks in Oman are delayed.",
       "importance": 6,
       "topics": [
-        "אינדונזיה",
-        "אסון טבע"
+        "בינה מלאכותית",
+        "דיפלומטיה",
+        "איראן"
       ],
-      "published": "Mon, 14 Sep 2026 02:20:28 -0400"
+      "published": "Mon, 14 Sep 2026 07:39:06 -0400"
     }
   ],
   "business": [
+    {
+      "title": "ANTHROPIC EXPECTS SECOND STRAIGHT PROFITABLE QUARTER: FT Anthropic has told investors it expects positive adjusted operating income for the second consecutive quarter, as it prepares for a potential Nasdaq IPO at a $2T+ valuation. The company says gross margins are above 80% https://t.co/NeHv93oOCH",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2099267300054700451",
+      "summary": "Anthropic צופה רבעון רווחי שני ברציפות, עם מרווח גולמי של מעל 80% - ומתכוונת להנפקה בנאסד\"ק לפי שווי של טריליון דולר ומעלה.\n\nזה מספר שחשוב לשים לב אליו: 80% מרווח גולמי זה לא חברת תוכנה רגילה, זה פלטפורמה. הכסף שנשאר אחרי העלות הישירה הוא עצום.\n\nההשפעה העקיפה: חברות שמוכרות תשתית ל-AI - אחסון, ענן, אבטחה - הופכות מבחינת הכנסות לתלויות בהצלחה של Anthropic יותר מכפי שנראה מבחוץ.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "רווחיות",
+        "IPO"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Brent crude jumps above $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
+      "summary": "נפט ברנט קפץ מעל 108 דולר לחבית אחרי שסעודיה סגרה את צינור הנפט שעוקף את מיצר הורמוז - בתגובה להתקפות של קבוצות הקשורות לאיראן.\n\nזה חשוב יותר ממה שנראה: הצינור הזה קיים בדיוק בשביל מצבי חירום כאלה. כשהוא יוצא מהמשחק, כל הנפט הסעודי חייב לעבור דרך מיצר הורמוז - נקודת המחנק של שוק האנרגיה העולמי.\n\nמי יושפע מזה מיד? חברות שילוח, מחירי חשמל באירופה, וכל מה שמחירו תלוי בעלויות הובלה.",
+      "importance": 9,
+      "topics": [
+        "נפט",
+        "מזה\"ת",
+        "אנרגיה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "ANTHROPIC SIGNS $13.7B COMPUTE DEAL WITH $RUM GROUP Anthropic has signed a six-year, $13.7B compute agreement with Trump-linked RUM Group, formerly Rumble, according to The Information. Anthropic will lease AI compute capacity from RUM’s Maysville, Georgia data center, which is https://t.co/yv4EmEQOpX",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2099409441905103086",
+      "summary": "Anthropic חתמה על עסקת תשתיות בהיקף של 13.7 מיליארד דולר לשש שנים עם RUM Group - החברה שהייתה פעם Rumble. העסקה: Anthropic שוכרת כוח מחשוב ממרכז הנתונים של RUM בג'ורג'יה.\n\nזה מעניין כי זה מראה שהביקוש לתשתיות AI גדול בהרבה ממה שהענן הגדול (AWS, Azure, Google) יכול לספק לבד - חברות AI מחפשות כוח מחשוב בכל מקום שמוצאות. בשביל חברות כמו Equinix ומפעילות מרכזי נתונים קטנות - זה אות מאוד חיובי.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "compute",
+        "תשתיות",
+        "השקעות"
+      ],
+      "tag": "גלובלי"
+    },
     {
       "title": "Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.",
       "source": "MarketWatch",
@@ -209,19 +252,111 @@
         "תקציב ממלכתי"
       ],
       "tag": "ארה\"ב"
-    },
-    {
-      "title": "Altshuler Shaham owners mull selling controlling stake",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "אלטשולר שחם - אחת מחברות ניהול הכספים הגדולות בישראל - עשויה לעבור ידיים. גלעד אלטשולר ומשפחת שחם, שמחזיקים 55% מהחברה, שוקלים למכור את החזקתם השולטת.\n\nמה שמרתק פה: מניית החברה ירדה כ-60% בשנים האחרונות, אז זה לא בדיוק מכירה בשיא. מי שיקנה את הפיקוח על ניהול כספי הציבור יקבל גם אחריות כבדה - ואולי הזדמנות לשקם חברה שאיבדה מהברק שלה.\n\nשווה לעקוב: מהלך כזה עשוי להשפיע על תנאי הלקוחות, מבנה הדמי ניהול, ואולי גם להניע תנועה רחבה יותר של מיזוגים בענף ניהול הכספים הישראלי.",
-      "importance": 7,
-      "topics": [
-        "שוק הון",
-        "מנהלי השקעות"
-      ],
-      "tag": "ישראל"
     }
   ],
-  "tech": []
+  "tech": [
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "published": "2026-09-13T15:41:48-04:00"
+    },
+    {
+      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "summary": "Sam Altman and Elon Musk this weekend backed a call for restraint, after Dario Amodei called on Washington to slow AI development. Donald Trump, meanwhile, wants the US to maintain its lead over China.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "מדיניות",
+        "OpenAI"
+      ],
+      "published": "Mon, 14 Sep 2026 11:00:00 +0000"
+    },
+    {
+      "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+      "summary": "An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "deepfake",
+        "AI"
+      ],
+      "published": "Mon, 14 Sep 2026 11:00:00 +0000"
+    },
+    {
+      "title": "ותודה לדאטה-סנטרים: גיוס ענק ל-Buildots שמתקרב לשווי של מיליארד דולר",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/buildots-raises-130m/",
+      "summary": "במקביל לעלייה המטאורית בשימוש בכלי AI, ישנה כמובן עלייה אדירה בבנייה של דאטה סנטרים, שיתמכו בכל הקוד שאתם מג'נרטים ובכל התמונות המיותרות שאתם שולחים. אבל כל טעות בבנייה של הפרויקטים הללו עלולה להוביל להוצאות אדירות ועיכובים משמעותיים בתקופה שבה כל רגע חשוב. כאן נכנסת לתמונה פלטפורמה ישראלית שמנטרת פרויקטים במיליארדים בעזרת קסדות חכמות, ומגייסת עכשיו […] The post ותודה לדאטה-סנטרים: גיוס ענק ל-Buil",
+      "importance": 7,
+      "topics": [
+        "סטארטאפ",
+        "גיוס הון",
+        "דאטא-סנטרים"
+      ],
+      "published": "Mon, 14 Sep 2026 12:08:03 +0000"
+    },
+    {
+      "title": "המונית האוטונומית של גוגל זיהתה נוסעים עם נשק והסגירה אותם למשטרה",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/waymo-calls-cops-after-gun-is-found-in-its-vehicle/",
+      "summary": "האמת? נסיעה במוניות אוטונומיות נשמעת כמו חלום. בלי שיחות על פוליטיקה, ריח של סיגריות מהפסקת עישון, עקיפות מסוכנות או ויכוחים על לפתוח חלון. אבל כל זה בהנחה שאתם לא עוברים על החוק, כי אם אתם פחות בעניין של לציית לחוקים, תדעו לפחות שהמוניות האוטונומיות רואות ושומעות הכל. \"רובה רפאים\" טעון במושב האחורי מונית אוטונומית של […] The post המונית האוטונומית של גוגל זיהתה נוסעים עם נשק והסגירה אותם למשטרה a",
+      "importance": 7,
+      "topics": [
+        "רכבים אוטונומיים",
+        "גוגל",
+        "בטיחות"
+      ],
+      "published": "Mon, 14 Sep 2026 08:25:49 +0000"
+    },
+    {
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "importance": 6,
+      "topics": [
+        "Oracle",
+        "מייסדים"
+      ],
+      "published": "Sun, 13 Sep 2026 20:49:38 +0000"
+    },
+    {
+      "title": "What happens after a town de-Flocks",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
+      "summary": "From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn't necessarily mean the cameras will come down immediately - or that the information they've gathered will be deleted anytime soon. […]",
+      "importance": 6,
+      "topics": [
+        "AI",
+        "רגולציה",
+        "גבלת פרטיות"
+      ],
+      "published": "2026-09-14T07:00:00-04:00"
+    },
+    {
+      "title": "אחרי שהואשמה שהמסכים שלה מאזינים למשתמשים: LG מגיבה",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/lg-responds-to-smart-tv-spying-allegations/",
+      "summary": "בשנים האחרונות מסכי הטלוויזיה הפכו להרבה יותר חכמים, עם חיבורים לרשת, חנויות אפליקציות, שלטים מתוחכמים, אינטגרציות וכן – גם מיקרופונים ובחלק מהמקרים אפילו מצלמות. אבל כפי שכבר למדנו בעבר, עם היכולות הללו גם מגיעים סיכונים לא קטנים. כעת אנחנו מקבלים תזכורת לסכנות הללו, לאחר שתחקיר טען כי המסכים של LG לא סתם מאזינים לכם לכאורה, […] The post אחרי שהואשמה שהמסכים שלה מאזינים למשתמשים: LG מגיבה appeare",
+      "importance": 6,
+      "topics": [
+        "אבטחה",
+        "פרטיות",
+        "IoT"
+      ],
+      "published": "Mon, 14 Sep 2026 11:07:36 +0000"
+    }
+  ]
 }

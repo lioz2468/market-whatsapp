@@ -33,6 +33,7 @@ import config
 import market_data
 import morning_brief_composer
 import stats
+import watchlist_news
 
 colorama.init(autoreset=True)
 
@@ -67,8 +68,13 @@ async def _compose() -> str:
         print(f"  {mark} {q.name:<10} {detail}")
     market_text = market_data.format_snapshot_for_prompt(quotes)
 
+    if config.WATCHLIST_STOCKS:
+        print(f"\n{Fore.CYAN}📈 Fetching watchlist news ({len(config.WATCHLIST_STOCKS)} ticker(s))…{Style.RESET_ALL}")
+    watchlist_items = await watchlist_news.fetch_watchlist_news(config.WATCHLIST_STOCKS)
+    watchlist_text = watchlist_news.format_watchlist_for_prompt(watchlist_items)
+
     print(f"\n{Fore.CYAN}✍️  Composing morning brief with Claude…{Style.RESET_ALL}")
-    text = await morning_brief_composer.compose_morning_brief(digest, market_text)
+    text = await morning_brief_composer.compose_morning_brief(digest, market_text, watchlist_text)
     print(f"  {Fore.GREEN}✓ {len(text)} chars, {len(text.splitlines())} lines{Style.RESET_ALL}")
     return text
 
