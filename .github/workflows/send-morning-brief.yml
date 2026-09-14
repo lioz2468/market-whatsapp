@@ -5,12 +5,17 @@ name: Send Morning Brief
 # email-newsletter plan — see README ("רב מסר" V1 messaging is being
 # retired, V2.0 has no send endpoint) — with the WhatsApp group the account
 # already uses for the main bot.
-#
-# Manual trigger only, for now — flip to a schedule (after Email Digest
-# Pool's 06:00 Israel-time run) once a few manual sends have been verified
-# in the real group.
 
 on:
+  schedule:
+    # 08:34 Israel time (UTC+3 DST / UTC+2 winter) → 05:34 UTC.
+    # NOTE: when Israel exits DST (~late Oct), this lands at 09:34 local
+    # until adjusted back to '34 6 * * *' — same drift as email-digest-pool.yml.
+    # Runs ~2.5h after Email Digest Pool's 06:00 Israel-time run, so
+    # email_digest.json is fresh by the time this fires.
+    - cron: '34 5 * * *'
+
+  # Allow manual trigger from the Actions tab
   workflow_dispatch:
 
 concurrency:

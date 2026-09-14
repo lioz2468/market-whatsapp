@@ -96,7 +96,7 @@ python send_morning_brief.py --auto      # שליחה בלי לשאול
 
 **הגדרה:** צרו קבוצת WhatsApp ל-"בריף בוקר", הוסיפו אליה את המספר שהבוט שולח ממנו, ומלאו ב-`.env` את `MORNING_BRIEF_TO` עם ה-chat ID שלה (פורמט קבוצה ב-Green API: `1234567890-1234567890@g.us` — ראו "הגדרת WhatsApp" למעלה). בלי `MORNING_BRIEF_TO` זה נופל חזרה ל-`WHATSAPP_TO` הרגיל.
 
-ה-workflow `send-morning-brief.yml` כרגע **ידני בלבד** (`workflow_dispatch`) — לא רץ אוטומטית עד שכמה שליחות ידניות אומתו בקבוצה. להפעלת שליחה יומית אוטומטית: הוסיפו `schedule:` לקובץ, אחרי ה-06:00 של Email Digest Pool.
+ה-workflow `send-morning-brief.yml` רץ אוטומטית כל יום ב-08:34 שעון ישראל (כ-2.5 שעות אחרי ה-06:00 של Email Digest Pool, כדי ש-`email_digest.json` יהיה טרי) — וגם ניתן להפעלה ידנית מטאב ה-Actions. דורש GitHub Secret נוסף: `MORNING_BRIEF_TO` (ליד `ANTHROPIC_API_KEY`/`GREEN_API_INSTANCE`/`GREEN_API_TOKEN` שכבר קיימים).
 
 | קובץ נוסף | תפקיד |
 |------|--------|
