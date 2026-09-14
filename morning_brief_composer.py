@@ -164,7 +164,7 @@ async def compose_morning_brief(digest: dict, market_text: str, watchlist_text: 
 
     # Fixed opener/closer lines, added in code (not left to the model) so
     # they're always exactly this, every time.
-    text = "בוקר טוב :(\n" + text + "\n\n——\nשיהיה לכם אחלה יום ותשקיעו בהיגיון בריא- ליעוז"
+    text = "בוקר טוב :)\n" + text + "\n\n——\nשיהיה לכם אחלה יום ותשקיעו בהיגיון בריא- ליעוז"
 
     # Force right-alignment per line regardless of what character it starts with.
     text = "\n".join(_RLM + line if line else line for line in text.split("\n"))
