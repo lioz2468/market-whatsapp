@@ -94,6 +94,21 @@ class SentLog:
             encoding="utf-8",
         )
 
+    def rollback_auto_run(self, previous: datetime | None) -> None:
+        """Undo mark_auto_run() for this cycle. Used when a cycle had a
+        qualifying article but a technical failure (not an editorial
+        decision) meant nothing actually got sent — e.g. all candidates
+        failed composition. Without this, that cycle still "spends" the
+        85-min budget, so the next real send can end up 2-3x further out
+        than intended even though nothing was actually sent. Restoring the
+        previous timestamp lets the very next firing (~15 min later) retry
+        immediately instead of waiting out the full gap."""
+        self._data["last_auto_run"] = previous.isoformat() if previous else None
+        config.SENT_LOG_PATH.write_text(
+            json.dumps(self._data, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+
     def recent_messages(self, hours: int) -> list[dict]:
         cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
         out = []
@@ -376,6 +391,7 @@ async def run(args: argparse.Namespace) -> None:
             f"skipping automated trigger.{Style.RESET_ALL}"
         )
         return
+    prev_last_auto: datetime | None = None
     if is_scheduled:
         last_auto = sent_log.last_auto_run_at()
         if last_auto is not None:
@@ -389,6 +405,7 @@ async def run(args: argparse.Namespace) -> None:
                     f"waiting for {config.MIN_SEND_INTERVAL_MINUTES}min gap ({mins} min left).{Style.RESET_ALL}"
                 )
                 return
+        prev_last_auto = last_auto
         sent_log.mark_auto_run()
 
     # ── 1. Drain pending queue (one article per run) ─────────────────────
@@ -538,6 +555,12 @@ async def run(args: argparse.Namespace) -> None:
 
         if to_send is None:
             print(f"\n  {Fore.RED}All articles failed composition — nothing sent.{Style.RESET_ALL}")
+            if is_scheduled:
+                sent_log.rollback_auto_run(prev_last_auto)
+                print(
+                    f"  {Fore.YELLOW}↺ Not counting this cycle against the {config.MIN_SEND_INTERVAL_MINUTES}min "
+                    f"gap — next firing can retry immediately.{Style.RESET_ALL}"
+                )
             return
 
         to_queue = [
