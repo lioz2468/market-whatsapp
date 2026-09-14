@@ -116,6 +116,46 @@ async def fetch_all() -> tuple[list[Article], list[FeedStatus]]:
     return articles, statuses
 
 
+async def fetch_feed_list(feed_list: list[dict]) -> tuple[list[Article], list[FeedStatus]]:
+    """Fetch an arbitrary list of RSS feeds (same shape as config.RSS_FEEDS).
+
+    Used by the email-digest pool (`main.py --collect-email-pool`) to fetch
+    config.WORLD_RSS_FEEDS. Does NOT touch config.RSS_FEEDS, does not fetch
+    Twitter, and fetch_all() above is untouched and unaffected by this —
+    kept as a fully separate code path so the WhatsApp send pipeline can
+    never be impacted by a feed added here.
+    """
+    timeout = aiohttp.ClientTimeout(total=30)
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; MarketBot/1.0)"}
+
+    async with aiohttp.ClientSession(timeout=timeout, headers=headers) as session:
+        tasks = [_fetch_feed(session, feed) for feed in feed_list]
+        raw_results = await asyncio.gather(*tasks, return_exceptions=True)
+
+    articles:    list[Article]    = []
+    statuses:    list[FeedStatus] = []
+    seen_hashes: set[str]         = set()
+
+    for i, result in enumerate(raw_results):
+        feed_name = feed_list[i]["name"]
+        if isinstance(result, Exception):
+            statuses.append(FeedStatus(name=feed_name, count=0, ok=False,
+                                       error=str(result)))
+            continue
+        feed_articles, status = result
+        statuses.append(status)
+        for article in feed_articles:
+            if article.hash not in seen_hashes and article.title:
+                seen_hashes.add(article.hash)
+                articles.append(article)
+
+    working = sum(1 for s in statuses if s.ok)
+    total   = len(statuses)
+    print(f"  Working feeds: {working}/{total} | Total articles: {len(articles)}")
+
+    return articles, statuses
+
+
 async def check_feeds() -> list[FeedStatus]:
     """Fetch all feeds and report status — no filtering, no Claude."""
     timeout = aiohttp.ClientTimeout(total=30)

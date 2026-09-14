@@ -1,0 +1,69 @@
+name: Email Digest Pool
+
+# Populates email_digest.json once a day — the data source for the separate
+# morning-email pipeline (composed and sent elsewhere, not by this workflow).
+#
+# Fully independent from market-news.yml (the WhatsApp bot):
+#   - different concurrency group, so it can never block/be blocked by it
+#   - only ever writes email_digest.json — never touches sent_log.json,
+#     twitter_last_id.json, or pending_articles.json
+#   - only ever calls `python main.py --collect-email-pool`, which never
+#     sends a WhatsApp message (see main.py's run_collect_email_pool)
+
+on:
+  schedule:
+    # 06:00 Israel time (UTC+3 DST / UTC+2 winter) → 03:00 UTC.
+    # NOTE: when Israel exits DST (~late Oct), this lands at 07:00 local
+    # until adjusted back to '0 4 * * *'.
+    - cron: '0 3 * * *'
+
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+concurrency:
+  group: email-digest-pool
+  cancel-in-progress: false
+
+jobs:
+  collect-email-pool:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect email digest pool
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python main.py --collect-email-pool
+
+      - name: Commit email_digest.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add email_digest.json
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "chore: update email_digest.json [skip ci]"
+            git push
+          fi
