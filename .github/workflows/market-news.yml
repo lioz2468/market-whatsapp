@@ -2,22 +2,21 @@ name: Market News Bot
 
 on:
   schedule:
-    # 10 runs/day, every 1.5h, 08:00–21:30 Israel time (UTC+3 DST / UTC+2 winter).
-    # Days: 0=Sun, 1=Mon, 2=Tue, 3=Wed, 4=Thu, 5=Fri  (Israeli workweek Sun–Fri)
-    # Split into two cron lines (:00 and :30 UTC) since a single cron entry
-    # can't mix minutes — together they land on Israel :00/:30 marks.
-    #   08:00, 09:30, 11:00, 12:30, 14:00, 15:30, 17:00, 18:30, 20:00, 21:30
+    # Fire every 15 min, 08:00-21:30 Israel time (UTC+3 DST / UTC+2 winter),
+    # Israeli workweek Sun-Fri (0=Sun ... 5=Fri).
     #
     # GitHub's `schedule` trigger is best-effort: under load it silently DROPS
-    # scheduled firings rather than queueing them, so exact timing isn't
-    # guaranteed even with this spacing. main.py still enforces the actual
-    # minimum gap between sent WhatsApp messages (MIN_SEND_INTERVAL_MINUTES),
-    # so a late/duplicate firing never sends more often than that.
+    # scheduled firings rather than queueing them — this bit us on 2026-09-14,
+    # when every firing between 08:00-09:30 IL was dropped and no message went
+    # out all morning. Firing every 15 min (instead of every 90) means a
+    # dropped firing just gets picked up ~15 min later by the next one instead
+    # of leaving a multi-hour gap. main.py's own MIN_SEND_INTERVAL_MINUTES gate
+    # (85 min) is what actually paces sends, so the extra firings only add
+    # redundancy, not extra messages.
     #
-    # NOTE: when Israel exits DST (~late Oct), these UTC times land 1h
-    # earlier in local time (07:00–20:30) until the cron is adjusted back.
-    - cron: '0 5,8,11,14,17 * * 0-5'
-    - cron: '30 6,9,12,15,18 * * 0-5'
+    # NOTE: when Israel exits DST (~late Oct), 08:00-21:30 local becomes
+    # 05:00-18:30 UTC → adjust the hour range below to 05-18.
+    - cron: '*/15 5-18 * * 0-5'
 
   # Allow manual trigger from the Actions tab
   workflow_dispatch:
