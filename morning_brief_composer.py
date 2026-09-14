@@ -1,9 +1,8 @@
 """Compose the daily morning brief as a WhatsApp message (plain text, WhatsApp's
 own *bold*/_italic_ formatting — no HTML) from email_digest.json + a market
 snapshot, using Claude. Separate from composer.py (per-article WhatsApp
-messages) and newsletter_composer.py (parked HTML/email version) — same
-separation principle as email_classifier.py vs classifier.py. Used only by
-send_morning_brief.py.
+messages) — same separation principle as email_classifier.py vs classifier.py.
+Used only by send_morning_brief.py.
 """
 from __future__ import annotations
 

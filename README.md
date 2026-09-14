@@ -106,4 +106,4 @@ python send_morning_brief.py --auto      # שליחה בלי לשאול
 
 ### מסלול שננטש: מייל דרך רב מסר (Responder)
 
-`responder_client.py` / `responder_v2_client.py` / `newsletter_composer.py` / `send_newsletter.py` / `.github/workflows/send-newsletter.yml` נשארו בריפו אבל **לא בשימוש** — נבנו לפני שהתברר ש-API V1 של רב מסר (היחיד שיודע לשלוח הודעות) עומד להתבטל, ו-V2.0 (החדש) לא כולל בכלל endpoint לשליחת הודעות (רק ניהול רשימות/נרשמים — אומת מול ה-Swagger הרשמי שלהם). הוחלט לעבור לקבוצת WhatsApp במקום. `responder_v2_client.py` עדיין תקף אם ירצו בעתיד לנהל נרשמים/תגיות ברב מסר.
+נבדק ונדחה: API V1 של רב מסר (היחיד שיודע לשלוח הודעות) עומד להתבטל, ו-V2.0 (החדש) לא כולל בכלל endpoint לשליחת הודעות (רק ניהול רשימות/נרשמים — אומת מול ה-Swagger הרשמי שלהם). הקוד שנבנה לכיוון הזה הוסר מהריפו (ראו היסטוריית git, קומיט "feat: send morning brief to a WhatsApp group instead of email via Responder" ומה שאחריו) — כשרב מסר יפעילו מערכת חדשה שתומכת בזה, אפשר לבנות מחדש.
