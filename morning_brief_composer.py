@@ -150,7 +150,7 @@ async def compose_morning_brief(digest: dict, market_text: str, watchlist_text: 
 
     response = await client.messages.create(
         model=config.CLAUDE_MODEL,
-        max_tokens=2048,
+        max_tokens=3072,
         system=system,
         messages=[{"role": "user", "content": user}],
     )

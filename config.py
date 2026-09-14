@@ -220,7 +220,23 @@ TECH_RSS_FEEDS = [
 # actually significant enough to mention — most days most tickers get no
 # mention at all. Fill in your own tickers; empty list = section is skipped.
 WATCHLIST_STOCKS: list[dict] = [
-    # {"symbol": "NVDA", "name": "Nvidia"},
+    {"symbol": "HOOD",  "name": "Robinhood"},
+    {"symbol": "IBKR",  "name": "Interactive Brokers"},
+    {"symbol": "NBIS",  "name": "Nebius Group"},
+    {"symbol": "DGXX",  "name": "Digi Power X"},
+    {"symbol": "SHOP",  "name": "Shopify"},
+    {"symbol": "SOFI",  "name": "SoFi"},
+    {"symbol": "HIMS",  "name": "Hims & Hers"},
+    {"symbol": "RKLB",  "name": "Rocket Lab"},
+    {"symbol": "SPCX",  "name": "SpaceX"},
+    {"symbol": "SMCI",  "name": "Super Micro Computer"},
+    {"symbol": "DELL",  "name": "Dell Technologies"},
+    {"symbol": "SPOT",  "name": "Spotify"},
+    {"symbol": "META",  "name": "Meta"},
+    {"symbol": "RDDT",  "name": "Reddit"},
+    {"symbol": "AMZN",  "name": "Amazon"},
+    {"symbol": "FTAI",  "name": "FTAI Aviation"},
+    {"symbol": "PKE",   "name": "Park Aerospace"},
 ]
 
 
