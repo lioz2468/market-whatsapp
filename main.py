@@ -346,7 +346,14 @@ async def run(args: argparse.Namespace) -> None:
     # out early because nothing qualified). This keeps a manual test/run
     # from either getting blocked, or throwing off the next scheduled run's
     # timing.
-    is_scheduled = os.getenv("GITHUB_EVENT_NAME") == "schedule"
+    #
+    # repository_dispatch is treated the same as schedule: it's how the
+    # external cron-job.org backup pings this workflow to cover firings
+    # GitHub's own `schedule` trigger silently drops. It must be gated
+    # identically, or the backup would bypass the 85-min spacing and spam
+    # WhatsApp every time it fires. workflow_dispatch stays ungated because
+    # it's only ever fired by a human from the Actions tab.
+    is_scheduled = os.getenv("GITHUB_EVENT_NAME") in ("schedule", "repository_dispatch")
     if is_scheduled:
         last_auto = sent_log.last_auto_run_at()
         if last_auto is not None:

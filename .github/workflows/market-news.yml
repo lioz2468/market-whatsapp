@@ -18,8 +18,15 @@ on:
     # 05:00-18:30 UTC → adjust the hour range below to 05-18.
     - cron: '*/15 5-18 * * 0-5'
 
-  # Allow manual trigger from the Actions tab
+  # Allow manual trigger from the Actions tab (never gated by the 85-min guard)
   workflow_dispatch:
+
+  # External backup trigger (cron-job.org) that pings this workflow on its
+  # own schedule, independent of GitHub's own `schedule` trigger — covers
+  # firings GitHub silently drops. main.py gates this identically to
+  # `schedule` (see MIN_SEND_INTERVAL_MINUTES), so it only adds redundancy.
+  repository_dispatch:
+    types: [market-news-trigger]
 
 # Prevent overlapping runs
 concurrency:
