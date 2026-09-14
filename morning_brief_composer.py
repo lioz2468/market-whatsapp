@@ -46,7 +46,7 @@ _SYSTEM_BASE = _CONTEXT + """
 9. *לקריאה מעמיקה* — כתבה אחת, מה קרה + למה זה חשוב + קישור למקור (רק כאן מותר קישור/ציון מקור מפורש) — זה הסעיף האחרון, אל תוסיף אחריו שום שורת סיום/חתימה/פתיח - אלה מתווספים באופן קבוע מחוץ להודעה שלך
 
 כללי תוכן קריטיים:
-- **בלי כפילויות**: אם אותו סיפור/אירוע מופיע בכמה קטגוריות קלט (למשל גם ב"עולם" וגם ב"עסקים") — כלול אותו פעם אחת בלבד, בסעיף הכי רלוונטי, ודלג עליו בשאר.
+- **ספירה קשיחה — בלי כפילויות בכל ההודעה**: לפני שאתה מסיים, ספור בעצמך כמה פעמים כל נושא/סיפור/אירוע ספציפי (למשל "מנכ"לי AI קוראים להאטה") מופיע בכל ההודעה יחד — ⭐ נקודות מפתח + כל הסעיפים + לקריאה מעמיקה, הכל ביחד. ברירת המחדל: **פעם אחת בדיוק**, בסעיף הכי רלוונטי. **פעמיים לכל היותר** מותר רק אם זה ממש הסיפור המרכזי והחשוב ביותר של היום, ורק בקומבינציה אחת: (נקודות מפתח + לקריאה מעמיקה) *או* (סעיף גוף + לקריאה מעמיקה) — לעולם לא בשלוש הופעות (נקודות מפתח + סעיף גוף + לקריאה מעמיקה יחד). דוגמה לטעות: אם "מנכ"לים קוראים להאטת AI" מופיע גם בנקודות מפתח, גם בבולט בסעיף טכנולוגיה, וגם בלקריאה מעמיקה - זו טעות, תוריד אחת מההופעות. זה חל גם כשאותו סיפור מגיע מכמה קטגוריות קלט שונות (עולם/עסקים/טכנולוגיה) — הוא עדיין נספר כנושא אחד.
 - **בלי ציון מקור בבולטים**: אל תכתוב "(CNBC)"/"(Ynet)"/וכו' אחרי בולטים בסעיפים 4-8. רק עובדה נקייה. (חריג: סעיף 9, לקריאה מעמיקה, כן כולל קישור).
 - **סדר עדיפות עולם-ישראל**: בכל סעיף שיש בו גם תוכן עולמי וגם ישראלי, תמיד עולם קודם, ישראל אחרי.
 - שורות שמתחילות במספר/טיקר באנגלית (כמו מדדי השוק) — עדיף לנסח כך שהמילה הראשונה בשורה תהיה עברית כשאפשר (למשל "מדד S&P 500:" ולא "S&P 500 =").
@@ -130,6 +130,57 @@ def _style_addendum(profile: dict) -> str:
 ⛔ אסור בתכלית האיסור, גם אם מופיע למעלה: "מטורף", "מבסוט", "כסף על הרצפה", "הזדמנות פז", FOMO מכל סוג, המלצות קנייה/מכירה, פתיחה ב"חבר'ה", "אוקיי?"/"אוקי?"/"נכון?", ו-"אשכרה" יותר מפעם ביום."""
 
 
+# ── Dedup review pass ────────────────────────────────────────────────────
+# A single generation pass doesn't reliably self-count occurrences across a
+# long structured message (seen in practice: the same top story landing in
+# key points + a body section + the deep-dive — 3 places, over the 2-max
+# rule). A dedicated second pass, only checking this one rule, catches what
+# the first pass misses without risking the fixed section structure/style.
+
+_DEDUP_REVIEW_SYSTEM = """אתה עורך שבודק טיוטת הודעת WhatsApp ומחפש הפרות של כלל אחד בלבד:
+
+אף נושא/סיפור/אירוע ספציפי (גם אם מנוסח אחרת בכל פעם, או מוזכר רק כ"רקע"/"הקשר" למשהו אחר) לא יכול להופיע ביותר משני מקומות נפרדים בכל ההודעה - סופרים ביחד את ⭐ נקודות המפתח, כל סעיף (כולל "שווקים - מה זז באמת"), וה"לקריאה מעמיקה", כל אחד מהם נחשב "מקום". ברירת המחדל היא מקום אחד; שני מקומות מותר רק לנושא המרכזי ביותר של היום. גם אזכור חלקי/עקיף (למשל "בגלל קריאות ההאטה ב-AI" בתוך סעיף אחר) נחשב הופעה.
+
+שלב 1 - ניתוח (כתוב את זה קודם, זה חלק מהתשובה):
+רשום רשימה של כל נושא מרכזי בהודעה, ולידו בכמה "מקומות" הוא מופיע (פרט את שמות הסעיפים). לדוגמה:
+- "קריאה להאטת AI ע"י מנכ"לים": נקודות מפתח, שווקים-מה-זז, לקריאה מעמיקה → 3 מקומות ⚠️ הפרה
+- "סגירת צינור הנפט הסעודי": עולם, עסקים → 2 מקומות, מותר (נושא מרכזי)
+
+שלב 2 - תיקון:
+לכל נושא עם 3+ מקומות: השאר רק 2 (את המקום עם הפרטים העשירים ביותר, ואת נקודות המפתח אם היא אחת מהם), ומחק לגמרי את שאר ההופעות - כולל השורה/הבולט/האזכור העקיף כולו. אם המחיקה משאירה סעיף ריק לגמרי - מחק את כותרת הסעיף גם.
+אל תשנה שום דבר אחר - לא ניסוח, לא סגנון, לא נושאים אחרים שלא הופרו.
+
+בסוף התשובה, אחרי השלבים למעלה, כתוב בדיוק את השורה:
+===FINAL===
+ואחריה ההודעה הסופית המתוקנת (או ההודעה המקורית ללא שינוי אם לא הייתה הפרה) - טקסט מוכן לשליחה, בלי הסברים נוספים אחרי זה."""
+
+
+async def _dedup_review(client: anthropic.AsyncAnthropic, text: str) -> str:
+    response = await client.messages.create(
+        model=config.CLAUDE_MODEL,
+        max_tokens=4096,
+        system=_DEDUP_REVIEW_SYSTEM,
+        messages=[{"role": "user", "content": text}],
+    )
+    stats.record(response.usage.input_tokens, response.usage.output_tokens)
+    raw = response.content[0].text.strip()
+
+    marker = "===FINAL==="
+    if marker in raw:
+        reviewed = raw.split(marker, 1)[1].strip()
+    else:
+        # Model didn't follow the marker format — fall back to the original
+        # text rather than risking the analysis prose leaking into the send.
+        print("  [morning_brief_composer] ⚠ Dedup review: no ===FINAL=== marker — keeping pre-review text")
+        return text
+
+    if reviewed.startswith("```"):
+        reviewed = reviewed.split("\n", 1)[1]
+        if reviewed.rstrip().endswith("```"):
+            reviewed = reviewed.rstrip()[:-3]
+    return reviewed.strip()
+
+
 async def compose_morning_brief(digest: dict, market_text: str, watchlist_text: str) -> str:
     now      = datetime.now(_ISRAEL_TZ)
     date_str = now.strftime("%d.%m.%Y")
@@ -161,6 +212,8 @@ async def compose_morning_brief(digest: dict, market_text: str, watchlist_text: 
         if text.rstrip().endswith("```"):
             text = text.rstrip()[:-3]
     text = text.strip()
+
+    text = await _dedup_review(client, text)
 
     # Fixed opener/closer lines, added in code (not left to the model) so
     # they're always exactly this, every time.
