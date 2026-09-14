@@ -134,9 +134,18 @@ _USER_DIGEST = """נסח סיכום בוקר מהכתבות הבאות:
 _DIALOGUE_PATTERNS = _re.compile(
     r"האם|כדאי לוודא|אם תוכל|אם תוכלו|עדכון:|צריך לדעת|"
     r"אנא ספק|האם יש לך|האם אתה|האם את|"
-    r"(?<!\S)\d+\.\s",  # numbered list: "1. " at word boundary
-    _re.UNICODE,
+    r"^\s*\d{1,3}\.\s",  # numbered list: "1. " at the START OF A LINE only —
+    _re.UNICODE | _re.MULTILINE,
 )
+# NOTE: previously `(?<!\S)\d+\.\s` (any word boundary, anywhere in the text).
+# That matched a 4-digit year followed by a sentence-ending period — e.g.
+# "...הגבוה ביותר מאז 2023. השפעה..." — and silently discarded every message
+# that mentioned a year, which is most finance news. Real 2026-09-14 incident:
+# a 9/10-importance article about the 10Y Treasury yield hitting 5% ("highest
+# since Oct. 2023") failed composition 3x on this false positive and got
+# dropped with nothing sent. Anchoring to line-start (^ with MULTILINE) still
+# catches actual numbered lists ("1. ...\n2. ...") without matching a year
+# that happens to end a sentence mid-line.
 
 def _is_valid_message(text: str) -> bool:
     """Return True if text looks like a finished WhatsApp message, not a dialogue."""
