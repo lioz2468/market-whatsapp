@@ -192,6 +192,22 @@ def _is_shabbat() -> bool:
     )
 
 
+# Active send window — must match the .github/workflows/market-news.yml cron
+# comment (08:00-21:30 Israel time). This is the actual enforcement point:
+# the cron's hour range only controls GitHub's *internal* schedule trigger,
+# but automated runs can also arrive via repository_dispatch from an external
+# backup scheduler (cron-job.org) that isn't bound by that cron config at all
+# — if it's set to fire 24/7, this is what stops a 3am WhatsApp message.
+_ACTIVE_START_MIN = 8 * 60          # 08:00
+_ACTIVE_END_MIN   = 21 * 60 + 30    # 21:30
+
+
+def _is_outside_active_hours() -> bool:
+    now = datetime.now(_ISRAEL_TZ)
+    minutes = now.hour * 60 + now.minute
+    return not (_ACTIVE_START_MIN <= minutes <= _ACTIVE_END_MIN)
+
+
 # ── Safety filter ──────────────────────────────────────────────────────────
 
 _BLOCKED_PHRASES = [
@@ -354,6 +370,12 @@ async def run(args: argparse.Namespace) -> None:
     # WhatsApp every time it fires. workflow_dispatch stays ungated because
     # it's only ever fired by a human from the Actions tab.
     is_scheduled = os.getenv("GITHUB_EVENT_NAME") in ("schedule", "repository_dispatch")
+    if is_scheduled and _is_outside_active_hours():
+        print(
+            f"\n  {Fore.YELLOW}🌙 Outside active hours (08:00–21:30 IL) — "
+            f"skipping automated trigger.{Style.RESET_ALL}"
+        )
+        return
     if is_scheduled:
         last_auto = sent_log.last_auto_run_at()
         if last_auto is not None:
