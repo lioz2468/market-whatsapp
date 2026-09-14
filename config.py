@@ -75,14 +75,29 @@ MIN_SEND_INTERVAL_MINUTES = int(os.getenv("MIN_SEND_INTERVAL_MINUTES", "85"))
 
 # ── Responder (רב מסר) — newsletter send, separate from email digest pool ──
 # Used only by send_newsletter.py / responder_client.py / newsletter_composer.py.
-# Auth is a signed header (see responder_client.py), not a plain API key —
-# get c_key/c_secret/u_key/u_secret from Settings → "הגדרת חיבורים חיצוניים
-# (API)" in the Responder account, or from Responder support (03-7177777).
+#
+# Two *different* Responder APIs are involved, with separate credentials:
+#   - "V1" (legacy) — the only one with message create/test/send endpoints
+#     (responder_client.py). Auth is a signed header, not a token. The
+#     self-service "חיבורים חיצוניים (API)" account screen does NOT issue
+#     these — they only come from Responder support (03-7177777).
+#   - "V2.0" (current, self-service) — issued from that account screen
+#     (Client ID / Client Secret / User Token), OAuth2 client_credentials.
+#     Confirmed against Responder's official Swagger spec: it only covers
+#     lists/subscribers/tags/webhooks — it has NO message-sending endpoint.
+#     Used here (responder_v2_client.py) only to verify credentials and look
+#     up RESPONDER_LIST_ID without waiting on the support call.
 RESPONDER_C_KEY    = os.getenv("RESPONDER_C_KEY", "")
 RESPONDER_C_SECRET = os.getenv("RESPONDER_C_SECRET", "")
 RESPONDER_U_KEY    = os.getenv("RESPONDER_U_KEY", "")
 RESPONDER_U_SECRET = os.getenv("RESPONDER_U_SECRET", "")
 RESPONDER_LIST_ID  = os.getenv("RESPONDER_LIST_ID", "")
+
+# V2.0 — from Settings → "חיבורים חיצוניים (API)" → "מפתח כללי לחשבון".
+RESPONDER_V2_BASE_URL      = os.getenv("RESPONDER_V2_BASE_URL", "https://graph.responder.live/v2")
+RESPONDER_V2_CLIENT_ID     = os.getenv("RESPONDER_V2_CLIENT_ID", "")
+RESPONDER_V2_CLIENT_SECRET = os.getenv("RESPONDER_V2_CLIENT_SECRET", "")
+RESPONDER_V2_USER_TOKEN    = os.getenv("RESPONDER_V2_USER_TOKEN", "")
 
 NEWSLETTER_TEST_EMAIL = os.getenv("NEWSLETTER_TEST_EMAIL", "lioz2468@gmail.com")
 NEWSLETTER_TEST_NAME  = os.getenv("NEWSLETTER_TEST_NAME", "ליוז")
@@ -206,9 +221,22 @@ def validate_responder():
     ) if not os.getenv(k)]
     if missing:
         raise EnvironmentError(
-            f"Missing Responder env vars: {', '.join(missing)}. "
-            "See Settings → 'הגדרת חיבורים חיצוניים (API)' in the Responder account, "
-            "or call Responder support (03-7177777)."
+            f"Missing Responder (V1 — message-sending) env vars: {', '.join(missing)}. "
+            "These are NOT in the self-service API screen — call Responder support "
+            "(03-7177777) and ask for API V1 credentials (c_key/c_secret/u_key/u_secret) "
+            "for the Messages endpoint documented at github.com/responder/restapi."
+        )
+
+
+def validate_responder_v2():
+    missing = [k for k in (
+        "RESPONDER_V2_CLIENT_ID", "RESPONDER_V2_CLIENT_SECRET", "RESPONDER_V2_USER_TOKEN",
+    ) if not os.getenv(k)]
+    if missing:
+        raise EnvironmentError(
+            f"Missing Responder V2 env vars: {', '.join(missing)}. "
+            "Get them from Settings → 'חיבורים חיצוניים (API)' → 'מפתח כללי לחשבון' "
+            "in the Responder account."
         )
 
 

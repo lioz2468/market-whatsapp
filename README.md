@@ -97,13 +97,22 @@ python send_newsletter.py --send-live    # אחרי שאימתת את ה-TEST: �
 
 **בטיחות כברירת מחדל:** בלי `--send-live` שום דבר לא נשלח לרשימה האמיתית — רק שליחת בדיקה ל-`NEWSLETTER_TEST_EMAIL` (ברירת מחדל: lioz2468@gmail.com). `--send-live` דורש גם `NEWSLETTER_ALLOW_LIVE_SEND=true` — שני אישורים נפרדים, כי שליחה אמיתית לרשימה היא בלתי הפיכה וחוק הספאם הישראלי (תיקון 40) דורש הסכמה מפורשת + מנגנון הסרה בכל שליחה. **ודא שהרשימה ברב מסר היא opt-in אמיתי לפני שאי פעם מדליקים שליחה אוטומטית.**
 
-צריך ב-`.env` (או ב-GitHub Secrets, ראה `.github/workflows/send-newsletter.yml`): `RESPONDER_C_KEY` / `RESPONDER_C_SECRET` / `RESPONDER_U_KEY` / `RESPONDER_U_SECRET` / `RESPONDER_LIST_ID` — משיגים דרך הגדרות "חיבורים חיצוניים (API)" בחשבון הרב מסר, או תמיכה: 03-7177777.
+### שני API-ים שונים של רב מסר, שני סטים של credentials
 
-ה-workflow `send-newsletter.yml` כרגע **ידני בלבד** (`workflow_dispatch`) — לא רץ אוטומטית עד שיש credentials ואומתו כמה שליחות TEST. להפעלת שליחה יומית אוטומטית: הוסיפו `schedule:`/`workflow_run:` לקובץ, אחרי ה-06:00 של Email Digest Pool.
+- **V1 (הישן)** — היחיד שיודע ליצור/לבדוק/לשלוח הודעה (`responder_client.py`). **לא** נגיש מהמסך העצמאי בחשבון — משיגים רק מתמיכת רב מסר: **03-7177777** (בקשו credentials ל-API V1: c_key/c_secret/u_key/u_secret).
+- **V2.0 (החדש, עצמאי)** — Settings → "חיבורים חיצוניים (API)" → "מפתח כללי לחשבון" בחשבון (Client ID / Client Secret / User Token). אומת מול ה-Swagger הרשמי שלהם: **אין בו endpoint לשליחת הודעות** — רק ניהול רשימות/נרשמים/תגיות. משמש כאן (`responder_v2_client.py`) רק כדי לאמת credentials ולמצוא את `RESPONDER_LIST_ID` בלי לחכות לטלפון.
+
+```bash
+python send_newsletter.py --list-lists-v2  # V2: אימות + מציאת RESPONDER_LIST_ID (לא צריך שיחת תמיכה)
+python send_newsletter.py --list-lists     # V1: אותו דבר, אחרי שיש credentials מהתמיכה
+```
+
+ה-workflow `send-newsletter.yml` כרגע **ידני בלבד** (`workflow_dispatch`) — לא רץ אוטומטית עד שיש credentials V1 ואומתו כמה שליחות TEST. להפעלת שליחה יומית אוטומטית: הוסיפו `schedule:`/`workflow_run:` לקובץ, אחרי ה-06:00 של Email Digest Pool.
 
 | קובץ נוסף | תפקיד |
 |------|--------|
 | `market_data.py` | תמונת מצב שוקים חיה (Yahoo Finance, בלי מפתח API) |
 | `newsletter_composer.py` | ניסוח גוף ה-HTML המלא של הניוזלטר (Claude, נפרד מ-`composer.py`) |
-| `responder_client.py` | לקוח API של רב מסר — חתימת Auth, יצירת/בדיקת/שליחת הודעה |
+| `responder_client.py` | לקוח API V1 של רב מסר — חתימת Auth, יצירת/בדיקת/שליחת הודעה |
+| `responder_v2_client.py` | לקוח API V2.0 של רב מסר — OAuth2, לאימות credentials + מציאת list ID בלבד |
 | `send_newsletter.py` | ה-CLI שמחבר הכל: digest → שוק → Claude → רב מסר |

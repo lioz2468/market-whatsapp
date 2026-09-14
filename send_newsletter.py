@@ -34,6 +34,7 @@ import config
 import market_data
 import newsletter_composer
 import responder_client
+import responder_v2_client
 import stats
 
 colorama.init(autoreset=True)
@@ -69,6 +70,17 @@ def _print_cost() -> None:
 
 
 async def main_async(args: argparse.Namespace) -> None:
+    if args.list_lists_v2:
+        print(f"\n{Fore.CYAN}Authenticating against Responder V2.0…{Style.RESET_ALL}")
+        lists_ = await responder_v2_client.get_lists()
+        if not lists_:
+            print(f"  {Fore.YELLOW}No lists returned.{Style.RESET_ALL}")
+            return
+        print(f"\n{Fore.CYAN}Lists in your Responder account (via V2.0):{Style.RESET_ALL}")
+        for l in lists_:
+            print(f"  {l}")
+        return
+
     if args.list_lists:
         config.validate_responder()
         print(f"\n{Fore.CYAN}Fetching lists from Responder…{Style.RESET_ALL}")
@@ -150,7 +162,13 @@ def _build_parser() -> argparse.ArgumentParser:
                          help="After a successful test send, also send to the real list "
                               "(needs NEWSLETTER_ALLOW_LIVE_SEND=true)")
     parser.add_argument("--list-lists", action="store_true",
-                         help="GET /main/lists and print list IDs/names, then exit")
+                         help="V1: GET /main/lists and print list IDs/names, then exit "
+                              "(needs RESPONDER_C_KEY/C_SECRET/U_KEY/U_SECRET from Responder support)")
+    parser.add_argument("--list-lists-v2", action="store_true",
+                         help="V2.0: authenticate + GET /lists via the self-service API "
+                              "(needs RESPONDER_V2_CLIENT_ID/CLIENT_SECRET/USER_TOKEN) — "
+                              "use this to verify credentials and find RESPONDER_LIST_ID "
+                              "without waiting on the support call")
     return parser
 
 
@@ -166,6 +184,9 @@ def main() -> None:
         sys.exit(1)
     except responder_client.ResponderError as exc:
         print(f"\n  {Fore.RED}Responder API error: {exc}{Style.RESET_ALL}")
+        sys.exit(1)
+    except responder_v2_client.ResponderV2Error as exc:
+        print(f"\n  {Fore.RED}Responder V2 API error: {exc}{Style.RESET_ALL}")
         sys.exit(1)
 
 
