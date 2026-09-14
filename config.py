@@ -23,6 +23,12 @@ MAX_CONCURRENT_CLAUDE    = int(os.getenv("MAX_CONCURRENT_CLAUDE", "3"))
 WHATSAPP_TO      = os.getenv("WHATSAPP_TO", "")
 DEFAULT_PROVIDER = os.getenv("DEFAULT_PROVIDER", "green")
 
+# Separate target for the morning brief group (send_morning_brief.py) — a
+# dedicated WhatsApp group for "בריף בוקר" subscribers, distinct from
+# WHATSAPP_TO (the main per-article bot's target). Falls back to WHATSAPP_TO
+# if unset, so a single-target setup still works without extra config.
+MORNING_BRIEF_TO = os.getenv("MORNING_BRIEF_TO", "") or WHATSAPP_TO
+
 # ── Twilio ─────────────────────────────────────────────────────────────────
 TWILIO_SID                   = os.getenv("TWILIO_SID", "")
 TWILIO_AUTH_TOKEN            = os.getenv("TWILIO_AUTH_TOKEN", "")

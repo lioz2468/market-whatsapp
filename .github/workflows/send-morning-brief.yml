@@ -1,0 +1,49 @@
+name: Send Morning Brief
+
+# Sends the daily morning brief (markets + world + business + tech, from
+# email_digest.json) to a WhatsApp group. Replaces the earlier Responder
+# email-newsletter plan — see README ("רב מסר" V1 messaging is being
+# retired, V2.0 has no send endpoint) — with the WhatsApp group the account
+# already uses for the main bot.
+#
+# Manual trigger only, for now — flip to a schedule (after Email Digest
+# Pool's 06:00 Israel-time run) once a few manual sends have been verified
+# in the real group.
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: send-morning-brief
+  cancel-in-progress: false
+
+jobs:
+  send-morning-brief:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send morning brief
+        env:
+          ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
+          GREEN_API_INSTANCE: ${{ secrets.GREEN_API_INSTANCE }}
+          GREEN_API_TOKEN:    ${{ secrets.GREEN_API_TOKEN }}
+          MORNING_BRIEF_TO:   ${{ secrets.MORNING_BRIEF_TO }}
+        run: python send_morning_brief.py --auto --provider green

@@ -82,37 +82,28 @@ Workflow נפרד (`email-digest-pool.yml`) מריץ את זה פעם ביום. 
 | קובץ נוסף | תפקיד |
 |------|--------|
 | `email_classifier.py` | סינון חדשות עולם לבריף המייל (Claude, קריטריון גיאופוליטי) |
-| `email_digest.json` | פלט — נקרא ע"י `send_newsletter.py` |
+| `email_digest.json` | פלט — נקרא ע"י `send_morning_brief.py` |
 
-## שליחת הניוזלטר (רב מסר / Responder)
+## שליחת בריף הבוקר — קבוצת WhatsApp
 
-`send_newsletter.py` קורא את `email_digest.json`, מושך תמונת מצב שוקים חיה (S&P/Nasdaq/Dow/VIX/10Y/DXY/USD-ILS דרך Yahoo Finance), מנסח את גוף ה-HTML המלא עם Claude, ושולח דרך ה-API של רב מסר (`responder_client.py`).
-
-```bash
-python send_newsletter.py --list-lists   # פעם ראשונה: מוצא את RESPONDER_LIST_ID
-python send_newsletter.py --dry-run      # ניסוח בלבד, בלי קריאות לרב מסר
-python send_newsletter.py                # ניסוח + יצירת הודעה + שליחת TEST בלבד (ברירת מחדל, בטוח)
-python send_newsletter.py --send-live    # אחרי שאימתת את ה-TEST: שליחה בפועל לרשימה
-```
-
-**בטיחות כברירת מחדל:** בלי `--send-live` שום דבר לא נשלח לרשימה האמיתית — רק שליחת בדיקה ל-`NEWSLETTER_TEST_EMAIL` (ברירת מחדל: lioz2468@gmail.com). `--send-live` דורש גם `NEWSLETTER_ALLOW_LIVE_SEND=true` — שני אישורים נפרדים, כי שליחה אמיתית לרשימה היא בלתי הפיכה וחוק הספאם הישראלי (תיקון 40) דורש הסכמה מפורשת + מנגנון הסרה בכל שליחה. **ודא שהרשימה ברב מסר היא opt-in אמיתי לפני שאי פעם מדליקים שליחה אוטומטית.**
-
-### שני API-ים שונים של רב מסר, שני סטים של credentials
-
-- **V1 (הישן)** — היחיד שיודע ליצור/לבדוק/לשלוח הודעה (`responder_client.py`). **לא** נגיש מהמסך העצמאי בחשבון — משיגים רק מתמיכת רב מסר: **03-7177777** (בקשו credentials ל-API V1: c_key/c_secret/u_key/u_secret).
-- **V2.0 (החדש, עצמאי)** — Settings → "חיבורים חיצוניים (API)" → "מפתח כללי לחשבון" בחשבון (Client ID / Client Secret / User Token). אומת מול ה-Swagger הרשמי שלהם: **אין בו endpoint לשליחת הודעות** — רק ניהול רשימות/נרשמים/תגיות. משמש כאן (`responder_v2_client.py`) רק כדי לאמת credentials ולמצוא את `RESPONDER_LIST_ID` בלי לחכות לטלפון.
+`send_morning_brief.py` קורא את `email_digest.json`, מושך תמונת מצב שוקים חיה (S&P/Nasdaq/Dow/VIX/10Y/DXY/USD-ILS דרך Yahoo Finance), מנסח הודעת WhatsApp (עם עיצוב WhatsApp טבעי — *מודגש*, לא HTML) עם Claude, ושולח לקבוצת "בריף בוקר" דרך אותו נתיב שליחה שהבוט הראשי כבר משתמש בו (Green API / Twilio).
 
 ```bash
-python send_newsletter.py --list-lists-v2  # V2: אימות + מציאת RESPONDER_LIST_ID (לא צריך שיחת תמיכה)
-python send_newsletter.py --list-lists     # V1: אותו דבר, אחרי שיש credentials מהתמיכה
+python send_morning_brief.py --dry-run   # ניסוח בלבד, בלי שליחה
+python send_morning_brief.py             # preview + אישור ידני
+python send_morning_brief.py --auto      # שליחה בלי לשאול
 ```
 
-ה-workflow `send-newsletter.yml` כרגע **ידני בלבד** (`workflow_dispatch`) — לא רץ אוטומטית עד שיש credentials V1 ואומתו כמה שליחות TEST. להפעלת שליחה יומית אוטומטית: הוסיפו `schedule:`/`workflow_run:` לקובץ, אחרי ה-06:00 של Email Digest Pool.
+**הגדרה:** צרו קבוצת WhatsApp ל-"בריף בוקר", הוסיפו אליה את המספר שהבוט שולח ממנו, ומלאו ב-`.env` את `MORNING_BRIEF_TO` עם ה-chat ID שלה (פורמט קבוצה ב-Green API: `1234567890-1234567890@g.us` — ראו "הגדרת WhatsApp" למעלה). בלי `MORNING_BRIEF_TO` זה נופל חזרה ל-`WHATSAPP_TO` הרגיל.
+
+ה-workflow `send-morning-brief.yml` כרגע **ידני בלבד** (`workflow_dispatch`) — לא רץ אוטומטית עד שכמה שליחות ידניות אומתו בקבוצה. להפעלת שליחה יומית אוטומטית: הוסיפו `schedule:` לקובץ, אחרי ה-06:00 של Email Digest Pool.
 
 | קובץ נוסף | תפקיד |
 |------|--------|
 | `market_data.py` | תמונת מצב שוקים חיה (Yahoo Finance, בלי מפתח API) |
-| `newsletter_composer.py` | ניסוח גוף ה-HTML המלא של הניוזלטר (Claude, נפרד מ-`composer.py`) |
-| `responder_client.py` | לקוח API V1 של רב מסר — חתימת Auth, יצירת/בדיקת/שליחת הודעה |
-| `responder_v2_client.py` | לקוח API V2.0 של רב מסר — OAuth2, לאימות credentials + מציאת list ID בלבד |
-| `send_newsletter.py` | ה-CLI שמחבר הכל: digest → שוק → Claude → רב מסר |
+| `morning_brief_composer.py` | ניסוח הודעת ה-WhatsApp של הבריף (Claude, נפרד מ-`composer.py`) |
+| `send_morning_brief.py` | ה-CLI שמחבר הכל: digest → שוק → Claude → WhatsApp |
+
+### מסלול שננטש: מייל דרך רב מסר (Responder)
+
+`responder_client.py` / `responder_v2_client.py` / `newsletter_composer.py` / `send_newsletter.py` / `.github/workflows/send-newsletter.yml` נשארו בריפו אבל **לא בשימוש** — נבנו לפני שהתברר ש-API V1 של רב מסר (היחיד שיודע לשלוח הודעות) עומד להתבטל, ו-V2.0 (החדש) לא כולל בכלל endpoint לשליחת הודעות (רק ניהול רשימות/נרשמים — אומת מול ה-Swagger הרשמי שלהם). הוחלט לעבור לקבוצת WhatsApp במקום. `responder_v2_client.py` עדיין תקף אם ירצו בעתיד לנהל נרשמים/תגיות ברב מסר.

@@ -63,9 +63,11 @@ async def get_access_token() -> str:
         "user_token":    config.RESPONDER_V2_USER_TOKEN,
     }
     payload = await _request("POST", "/oauth/token", json_body=body)
-    token = payload.get("access_token")
+    # Despite the spec calling this field access_token, the live API returns
+    # it as `token` inside a broader login/account payload.
+    token = payload.get("token") or payload.get("access_token")
     if not token:
-        raise ResponderV2Error(f"POST /oauth/token — no access_token in response: {payload}")
+        raise ResponderV2Error(f"POST /oauth/token — no token in response: {payload}")
     return token
 
 
