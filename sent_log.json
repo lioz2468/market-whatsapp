@@ -691,7 +691,8 @@
     "f6eb60ffaf396d26": "2026-09-13T19:38:00.891843+00:00",
     "f50990a9d9b5fa25": "2026-09-13T20:06:34.840720+00:00",
     "3baea7f3fd97ebd9": "2026-09-13T20:13:46.099613+00:00",
-    "c28ddb370585505e": "2026-09-13T20:23:43.875976+00:00"
+    "c28ddb370585505e": "2026-09-13T20:23:43.875976+00:00",
+    "2ecf9b1f3e49d685": "2026-09-14T08:25:52.142972+00:00"
   },
   "messages": [
     {
@@ -9793,6 +9794,22 @@
         "סוציאל סיקיוריטי",
         "תקציב ממלכתי"
       ]
+    },
+    {
+      "sent_at": "2026-09-14T08:25:52.142972+00:00",
+      "title": "ANTHROPIC EXPECTS SECOND STRAIGHT PROFITABLE QUARTER: FT Anthropic has told investors it expects positive adjusted operating income for the second consecutive quarter, as it prepares for a potential Nasdaq IPO at a $2T+ valuation. The company says gross margins are above 80% https://t.co/NeHv93oOCH",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2099267300054700451",
+      "message": "Anthropic צופה רבעון רווחי שני ברציפות, עם מרווח גולמי של מעל 80% - ומתכוונת להנפקה בנאסד\"ק לפי שווי של טריליון דולר ומעלה.\n\nזה מספר שחשוב לשים לב אליו: 80% מרווח גולמי זה לא חברת תוכנה רגילה, זה פלטפורמה. הכסף שנשאר אחרי העלות הישירה הוא עצום.\n\nההשפעה העקיפה: חברות שמוכרות תשתית ל-AI - אחסון, ענן, אבטחה - הופכות מבחינת הכנסות לתלויות בהצלחה של Anthropic יותר מכפי שנראה מבחוץ.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "Anthropic",
+        "רווחיות",
+        "IPO"
+      ]
     }
-  ]
+  ],
+  "last_auto_run": "2026-09-14T08:25:12.605221+00:00"
 }
