@@ -1,0 +1,71 @@
+name: Send Newsletter
+
+# Sends the daily morning newsletter through Responder (רב מסר).
+# Reads email_digest.json (produced by the Email Digest Pool workflow),
+# pulls a live market snapshot, composes the HTML body with Claude, then
+# talks to Responder via send_newsletter.py.
+#
+# SAFETY — manual trigger only, for now:
+#   This workflow is workflow_dispatch-only until RESPONDER_* secrets exist
+#   and a few manual test sends have been verified. Once ready for daily
+#   automation, add a `schedule:` trigger (after Email Digest Pool's 06:00
+#   Israel-time run) or a `workflow_run:` trigger on "Email Digest Pool".
+#
+#   Even then, send_newsletter.py defaults to a TEST-ONLY send (to
+#   NEWSLETTER_TEST_EMAIL) — the `send_live` input below must be explicitly
+#   set to true AND the NEWSLETTER_ALLOW_LIVE_SEND secret must be "true" for
+#   anything to reach the real subscriber list. Two separate opt-ins,
+#   because an unattended real send has no undo and Israeli anti-spam law
+#   (תיקון 40) requires confirmed opt-in + easy unsubscribe on every send.
+
+on:
+  workflow_dispatch:
+    inputs:
+      send_live:
+        description: "Send to the real list (not just a test email)? Also needs the NEWSLETTER_ALLOW_LIVE_SEND secret set to true."
+        type: boolean
+        default: false
+
+concurrency:
+  group: send-newsletter
+  cancel-in-progress: false
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send newsletter
+        env:
+          ANTHROPIC_API_KEY:          ${{ secrets.ANTHROPIC_API_KEY }}
+          RESPONDER_C_KEY:            ${{ secrets.RESPONDER_C_KEY }}
+          RESPONDER_C_SECRET:         ${{ secrets.RESPONDER_C_SECRET }}
+          RESPONDER_U_KEY:            ${{ secrets.RESPONDER_U_KEY }}
+          RESPONDER_U_SECRET:         ${{ secrets.RESPONDER_U_SECRET }}
+          RESPONDER_LIST_ID:          ${{ secrets.RESPONDER_LIST_ID }}
+          NEWSLETTER_TEST_EMAIL:      ${{ secrets.NEWSLETTER_TEST_EMAIL }}
+          NEWSLETTER_ALLOW_LIVE_SEND: ${{ secrets.NEWSLETTER_ALLOW_LIVE_SEND }}
+        run: |
+          if [ "${{ github.event.inputs.send_live }}" = "true" ]; then
+            python send_newsletter.py --send-live
+          else
+            python send_newsletter.py
+          fi

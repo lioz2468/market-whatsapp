@@ -82,4 +82,28 @@ Workflow נפרד (`email-digest-pool.yml`) מריץ את זה פעם ביום. 
 | קובץ נוסף | תפקיד |
 |------|--------|
 | `email_classifier.py` | סינון חדשות עולם לבריף המייל (Claude, קריטריון גיאופוליטי) |
-| `email_digest.json` | פלט — נקרא ע"י תהליך המייל החיצוני |
+| `email_digest.json` | פלט — נקרא ע"י `send_newsletter.py` |
+
+## שליחת הניוזלטר (רב מסר / Responder)
+
+`send_newsletter.py` קורא את `email_digest.json`, מושך תמונת מצב שוקים חיה (S&P/Nasdaq/Dow/VIX/10Y/DXY/USD-ILS דרך Yahoo Finance), מנסח את גוף ה-HTML המלא עם Claude, ושולח דרך ה-API של רב מסר (`responder_client.py`).
+
+```bash
+python send_newsletter.py --list-lists   # פעם ראשונה: מוצא את RESPONDER_LIST_ID
+python send_newsletter.py --dry-run      # ניסוח בלבד, בלי קריאות לרב מסר
+python send_newsletter.py                # ניסוח + יצירת הודעה + שליחת TEST בלבד (ברירת מחדל, בטוח)
+python send_newsletter.py --send-live    # אחרי שאימתת את ה-TEST: שליחה בפועל לרשימה
+```
+
+**בטיחות כברירת מחדל:** בלי `--send-live` שום דבר לא נשלח לרשימה האמיתית — רק שליחת בדיקה ל-`NEWSLETTER_TEST_EMAIL` (ברירת מחדל: lioz2468@gmail.com). `--send-live` דורש גם `NEWSLETTER_ALLOW_LIVE_SEND=true` — שני אישורים נפרדים, כי שליחה אמיתית לרשימה היא בלתי הפיכה וחוק הספאם הישראלי (תיקון 40) דורש הסכמה מפורשת + מנגנון הסרה בכל שליחה. **ודא שהרשימה ברב מסר היא opt-in אמיתי לפני שאי פעם מדליקים שליחה אוטומטית.**
+
+צריך ב-`.env` (או ב-GitHub Secrets, ראה `.github/workflows/send-newsletter.yml`): `RESPONDER_C_KEY` / `RESPONDER_C_SECRET` / `RESPONDER_U_KEY` / `RESPONDER_U_SECRET` / `RESPONDER_LIST_ID` — משיגים דרך הגדרות "חיבורים חיצוניים (API)" בחשבון הרב מסר, או תמיכה: 03-7177777.
+
+ה-workflow `send-newsletter.yml` כרגע **ידני בלבד** (`workflow_dispatch`) — לא רץ אוטומטית עד שיש credentials ואומתו כמה שליחות TEST. להפעלת שליחה יומית אוטומטית: הוסיפו `schedule:`/`workflow_run:` לקובץ, אחרי ה-06:00 של Email Digest Pool.
+
+| קובץ נוסף | תפקיד |
+|------|--------|
+| `market_data.py` | תמונת מצב שוקים חיה (Yahoo Finance, בלי מפתח API) |
+| `newsletter_composer.py` | ניסוח גוף ה-HTML המלא של הניוזלטר (Claude, נפרד מ-`composer.py`) |
+| `responder_client.py` | לקוח API של רב מסר — חתימת Auth, יצירת/בדיקת/שליחת הודעה |
+| `send_newsletter.py` | ה-CLI שמחבר הכל: digest → שוק → Claude → רב מסר |

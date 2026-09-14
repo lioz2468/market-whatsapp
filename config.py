@@ -73,6 +73,25 @@ EMAIL_SOURCE_CATEGORY: dict[str, str] = {
 # never check or affect this.
 MIN_SEND_INTERVAL_MINUTES = int(os.getenv("MIN_SEND_INTERVAL_MINUTES", "85"))
 
+# ── Responder (רב מסר) — newsletter send, separate from email digest pool ──
+# Used only by send_newsletter.py / responder_client.py / newsletter_composer.py.
+# Auth is a signed header (see responder_client.py), not a plain API key —
+# get c_key/c_secret/u_key/u_secret from Settings → "הגדרת חיבורים חיצוניים
+# (API)" in the Responder account, or from Responder support (03-7177777).
+RESPONDER_C_KEY    = os.getenv("RESPONDER_C_KEY", "")
+RESPONDER_C_SECRET = os.getenv("RESPONDER_C_SECRET", "")
+RESPONDER_U_KEY    = os.getenv("RESPONDER_U_KEY", "")
+RESPONDER_U_SECRET = os.getenv("RESPONDER_U_SECRET", "")
+RESPONDER_LIST_ID  = os.getenv("RESPONDER_LIST_ID", "")
+
+NEWSLETTER_TEST_EMAIL = os.getenv("NEWSLETTER_TEST_EMAIL", "lioz2468@gmail.com")
+NEWSLETTER_TEST_NAME  = os.getenv("NEWSLETTER_TEST_NAME", "ליוז")
+# Second, independent opt-in on top of send_newsletter.py's --send-live flag.
+# A real send goes to the whole subscriber list with no undo — Israeli
+# anti-spam law (תיקון 40) makes an accidental unattended blast a real
+# problem, not just an annoyance, so both gates must be set explicitly.
+NEWSLETTER_ALLOW_LIVE_SEND = os.getenv("NEWSLETTER_ALLOW_LIVE_SEND", "false").lower() == "true"
+
 # ── RSS Feeds ──────────────────────────────────────────────────────────────
 RSS_FEEDS = [
     # ── English — Markets ──────────────────────────────────────────────────
@@ -179,6 +198,18 @@ WORLD_RSS_FEEDS = [
 def validate_claude():
     if not ANTHROPIC_API_KEY:
         raise EnvironmentError("ANTHROPIC_API_KEY is not set. Copy .env.example to .env.")
+
+
+def validate_responder():
+    missing = [k for k in (
+        "RESPONDER_C_KEY", "RESPONDER_C_SECRET", "RESPONDER_U_KEY", "RESPONDER_U_SECRET",
+    ) if not os.getenv(k)]
+    if missing:
+        raise EnvironmentError(
+            f"Missing Responder env vars: {', '.join(missing)}. "
+            "See Settings → 'הגדרת חיבורים חיצוניים (API)' in the Responder account, "
+            "or call Responder support (03-7177777)."
+        )
 
 
 def validate_provider(provider: str):
