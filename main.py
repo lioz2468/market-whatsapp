@@ -408,60 +408,76 @@ async def run(args: argparse.Namespace) -> None:
         prev_last_auto = last_auto
         sent_log.mark_auto_run()
 
-    # ── 1. Drain pending queue (one article per run) ─────────────────────
-    if len(pending):
-        item   = pending.peek()
-        result = _pending_to_result(item)
-        print(f"\n{Fore.CYAN}📬 Pending queue: {len(pending)} article(s) waiting{Style.RESET_ALL}")
-        print(f"  {Style.BRIGHT}{result.article.title}{Style.RESET_ALL}")
-        print(f"  {result.article.source} | {result.tag} | ⭐ {result.importance}/10")
-        _print_divider()
-        print(f"  {Fore.GREEN}{result.final_message}{Style.RESET_ALL}")
-
-        if args.dry_run:
-            print(f"\n  {Fore.YELLOW}--dry-run: nothing sent.{Style.RESET_ALL}")
-            return
-        if not args.auto and not _confirm():
-            print(f"\n  {Fore.YELLOW}Cancelled.{Style.RESET_ALL}")
-            return
-
-        print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
-        await _send([result.final_message], args.provider)
-        pending.pop()
-        sent_log.mark_sent([result])
-        remaining = len(pending)
-        if remaining:
-            print(f"  {Fore.YELLOW}{remaining} article(s) still in pending queue.{Style.RESET_ALL}")
-        print(f"\n  {Fore.GREEN}✓ Done — pending article sent, log updated.{Style.RESET_ALL}")
-        return
-
-    # ── 2. Fetch feeds ──────────────────────────────────────────────────
-    print(f"\n{Fore.CYAN}📡 Fetching RSS feeds…{Style.RESET_ALL}")
-    all_articles, _ = await feeds.fetch_all()
-
-    # ── 2. Deduplicate ──────────────────────────────────────────────────
-    new_articles = [a for a in all_articles if not sent_log.is_sent(a.hash)]
-    print(f"  New (not yet sent): {len(new_articles)}")
-
-    if not new_articles:
-        print(f"\n  {Fore.YELLOW}Nothing new to process.{Style.RESET_ALL}")
-        return
-
-    # ── 3. Pre-filter (no API cost) ──────────────────────────────────────
-    recent_sent_titles = [m["title"] for m in sent_log.recent_messages(18)]
-    new_articles, pre_skipped = feeds.pre_filter(new_articles, sent_titles=recent_sent_titles)
-    if pre_skipped:
-        print(f"  Pre-filter: -{pre_skipped} irrelevant/stale | Remaining: {len(new_articles)}")
-    if not new_articles:
-        print(f"\n  {Fore.YELLOW}All articles filtered out by pre-filter.{Style.RESET_ALL}")
-        return
-
-    # Candidates considered this run, for the Twitter "unused" reservoir —
-    # anything here not sent or pending by the time we're done gets saved
-    # back so it can be re-offered instead of lost once since_id moves on.
-    twitter_candidates = [a for a in new_articles if a.source.startswith("Twitter @")]
+    # Everything below this point either sends a real message or makes a
+    # clean, deliberate "nothing qualifies" decision — both are legitimate
+    # uses of this cycle's slot. But a technical failure anywhere in here
+    # (feed fetch error, an API exception, a provider outage on the actual
+    # WhatsApp send) is NOT a deliberate decision, and without this guard it
+    # would still burn the 85-min budget with nothing sent, same bug class
+    # as the composition-failure case below. Roll back and re-raise so the
+    # run still shows as failed in GitHub Actions (never swallow a real
+    # error), but the next firing (~15 min later) gets an immediate retry
+    # instead of waiting out the full gap on top of whatever already elapsed.
+    # Defined up-front (not just where it's populated below) so the `finally`
+    # block can safely reference it even on an early return/exception before
+    # that point is reached — an empty list there just means "nothing to
+    # save as unused" instead of a NameError masking the real return/exception.
+    twitter_candidates: list = []
 
     try:
+        # ── 1. Drain pending queue (one article per run) ─────────────────
+        if len(pending):
+            item   = pending.peek()
+            result = _pending_to_result(item)
+            print(f"\n{Fore.CYAN}📬 Pending queue: {len(pending)} article(s) waiting{Style.RESET_ALL}")
+            print(f"  {Style.BRIGHT}{result.article.title}{Style.RESET_ALL}")
+            print(f"  {result.article.source} | {result.tag} | ⭐ {result.importance}/10")
+            _print_divider()
+            print(f"  {Fore.GREEN}{result.final_message}{Style.RESET_ALL}")
+
+            if args.dry_run:
+                print(f"\n  {Fore.YELLOW}--dry-run: nothing sent.{Style.RESET_ALL}")
+                return
+            if not args.auto and not _confirm():
+                print(f"\n  {Fore.YELLOW}Cancelled.{Style.RESET_ALL}")
+                return
+
+            print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
+            await _send([result.final_message], args.provider)
+            pending.pop()
+            sent_log.mark_sent([result])
+            remaining = len(pending)
+            if remaining:
+                print(f"  {Fore.YELLOW}{remaining} article(s) still in pending queue.{Style.RESET_ALL}")
+            print(f"\n  {Fore.GREEN}✓ Done — pending article sent, log updated.{Style.RESET_ALL}")
+            return
+
+        # ── 2. Fetch feeds ──────────────────────────────────────────────
+        print(f"\n{Fore.CYAN}📡 Fetching RSS feeds…{Style.RESET_ALL}")
+        all_articles, _ = await feeds.fetch_all()
+
+        # ── 2. Deduplicate ──────────────────────────────────────────────
+        new_articles = [a for a in all_articles if not sent_log.is_sent(a.hash)]
+        print(f"  New (not yet sent): {len(new_articles)}")
+
+        if not new_articles:
+            print(f"\n  {Fore.YELLOW}Nothing new to process.{Style.RESET_ALL}")
+            return
+
+        # ── 3. Pre-filter (no API cost) ───────────────────────────────────
+        recent_sent_titles = [m["title"] for m in sent_log.recent_messages(18)]
+        new_articles, pre_skipped = feeds.pre_filter(new_articles, sent_titles=recent_sent_titles)
+        if pre_skipped:
+            print(f"  Pre-filter: -{pre_skipped} irrelevant/stale | Remaining: {len(new_articles)}")
+        if not new_articles:
+            print(f"\n  {Fore.YELLOW}All articles filtered out by pre-filter.{Style.RESET_ALL}")
+            return
+
+        # Candidates considered this run, for the Twitter "unused" reservoir —
+        # anything here not sent or pending by the time we're done gets saved
+        # back so it can be re-offered instead of lost once since_id moves on.
+        twitter_candidates = [a for a in new_articles if a.source.startswith("Twitter @")]
+
         # ── 4. Classify ─────────────────────────────────────────────────
         print(f"\n{Fore.CYAN}🧠 Classifying {len(new_articles)} article(s) with Claude…{Style.RESET_ALL}")
         results = await classifier.classify_all(new_articles)
@@ -578,6 +594,14 @@ async def run(args: argparse.Namespace) -> None:
             print(f"  {Fore.YELLOW}{len(to_queue)} article(s) saved to pending queue.{Style.RESET_ALL}")
 
         print(f"\n  {Fore.GREEN}✓ Done — 1 message sent, log updated.{Style.RESET_ALL}")
+    except Exception:
+        if is_scheduled:
+            sent_log.rollback_auto_run(prev_last_auto)
+            print(
+                f"  {Fore.YELLOW}↺ Not counting this cycle against the {config.MIN_SEND_INTERVAL_MINUTES}min "
+                f"gap — next firing can retry immediately.{Style.RESET_ALL}"
+            )
+        raise
     finally:
         pending_hashes = pending.hashes()
         still_unused = [
