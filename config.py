@@ -187,7 +187,10 @@ def validate_claude():
         raise EnvironmentError("ANTHROPIC_API_KEY is not set. Copy .env.example to .env.")
 
 
-def validate_provider(provider: str):
+def validate_whatsapp_credentials(provider: str):
+    """Provider API credentials only — no destination check. Use this (not
+    validate_provider) for callers with their own target, like
+    send_morning_brief.py's MORNING_BRIEF_TO."""
     if provider == "twilio":
         missing = [k for k in ("TWILIO_SID", "TWILIO_AUTH_TOKEN") if not os.getenv(k)]
         if missing:
@@ -196,5 +199,9 @@ def validate_provider(provider: str):
         missing = [k for k in ("GREEN_API_INSTANCE", "GREEN_API_TOKEN") if not os.getenv(k)]
         if missing:
             raise EnvironmentError(f"Missing Green API env vars: {', '.join(missing)}")
+
+
+def validate_provider(provider: str):
+    validate_whatsapp_credentials(provider)
     if not WHATSAPP_TO:
         raise EnvironmentError("WHATSAPP_TO is not set.")

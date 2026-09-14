@@ -87,7 +87,7 @@ def _confirm() -> bool:
 async def main_async(args: argparse.Namespace) -> None:
     config.validate_claude()
     if not args.dry_run:
-        config.validate_provider(args.provider)
+        config.validate_whatsapp_credentials(args.provider)
 
     text = await _compose()
     _print_cost()
