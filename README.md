@@ -63,3 +63,23 @@ python main.py --ab                 # לפני/אחרי humanizer
 | `whatsapp_twilio.py` | שליחה דרך Twilio |
 | `whatsapp_green.py` | שליחה דרך Green API |
 | `sent_log.json` | לוג הודעות שנשלחו (dedup) |
+
+## Email digest pool (בריף בוקר במייל)
+
+צינור נפרד לגמרי מהוואטסאפ, שמייצר `email_digest.json` פעם ביום — קובץ שמשמש כמקור נתונים לבריף בוקר שנשלח במייל (ניסוח ושליחה קורים מחוץ לריפו הזה).
+
+```bash
+python main.py --collect-email-pool
+```
+
+מה זה עושה:
+1. מושך חדשות עולם מ-`WORLD_RSS_FEEDS` (config.py) ומסנן אותן עם `email_classifier.py` — קריטריון של משמעות גלובלית/גיאופוליטית, **לא** קשור לקריטריונים הכלכליים של `classifier.py`.
+2. שולף כתבות עסקים/טכנולוגיה שכבר אושרו לוואטסאפ ב-`sent_log.json` ב-24 השעות האחרונות (ברירת מחדל) — בלי קריאות נוספות ל-Claude.
+3. כותב הכל ל-`email_digest.json`, מחולק ל-`world` / `business` / `tech`.
+
+Workflow נפרד (`email-digest-pool.yml`) מריץ את זה פעם ביום. הוא לא נוגע ב-`sent_log.json`, לא שולח וואטסאפ, ולא יכול להשפיע על ה-workflow הקיים (`market-news.yml`) — concurrency group נפרד לגמרי.
+
+| קובץ נוסף | תפקיד |
+|------|--------|
+| `email_classifier.py` | סינון חדשות עולם לבריף המייל (Claude, קריטריון גיאופוליטי) |
+| `email_digest.json` | פלט — נקרא ע"י תהליך המייל החיצוני |

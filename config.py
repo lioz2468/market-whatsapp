@@ -47,6 +47,27 @@ X_BEARER_TOKEN = os.getenv("X_BEARER_TOKEN", "")
 MIN_IMPORTANCE_SCORE     = int(os.getenv("MIN_IMPORTANCE_SCORE", "6"))
 MAX_ARTICLES_PER_RUN     = int(os.getenv("MAX_ARTICLES_PER_RUN", "5"))
 DIGEST_HOURS             = int(os.getenv("DIGEST_HOURS", "12"))
+
+# ── Email digest pool (separate pipeline — does not affect WhatsApp sending) ─
+# Populates email_digest.json once/day for the morning email, by combining:
+#   (a) world-news articles fetched from WORLD_RSS_FEEDS and classified here, and
+#   (b) business/tech articles already approved for WhatsApp in the last
+#       EMAIL_LOOKBACK_HOURS (read straight from sent_log.json — no extra
+#       Claude calls needed for those).
+# Entirely additive: does not read or modify RSS_FEEDS, MIN_IMPORTANCE_SCORE,
+# or anything the WhatsApp send path depends on.
+EMAIL_DIGEST_PATH         = BASE_DIR / "email_digest.json"
+EMAIL_LOOKBACK_HOURS      = int(os.getenv("EMAIL_LOOKBACK_HOURS", "24"))
+MIN_WORLD_IMPORTANCE_SCORE = int(os.getenv("MIN_WORLD_IMPORTANCE_SCORE", "5"))
+MAX_WORLD_ARTICLES        = int(os.getenv("MAX_WORLD_ARTICLES", "10"))
+
+# Source → email category, for splitting sent_log.json's WhatsApp-approved
+# articles into "business" vs "tech" without any extra classification call.
+# Anything not listed here (e.g. Twitter) falls back to "business".
+EMAIL_SOURCE_CATEGORY: dict[str, str] = {
+    "TechCrunch":    "tech",
+    "גיקטיים":        "tech",
+}
 # Minimum minutes between consecutive *scheduled* runs (see the
 # min-gap guard in main.py's run()). Manual workflow_dispatch / local runs
 # never check or affect this.
@@ -112,6 +133,44 @@ RSS_FEEDS = [
     {
         "name": "גיקטיים",
         "url":  "https://www.geektime.co.il/feed/",
+        "lang": "he",
+    },
+]
+
+# ── World-news RSS feeds — used ONLY by the email digest pool ──────────────
+# (`main.py --collect-email-pool`), never by the WhatsApp path. Kept separate
+# from RSS_FEEDS above so a broken/blocked feed here can never affect what
+# gets sent to WhatsApp. Each feed fails independently (see feeds.py) so a
+# dead one just logs an error and is skipped — safe to list generously.
+WORLD_RSS_FEEDS = [
+    {
+        "name": "NPR World",
+        "url":  "https://feeds.npr.org/1004/rss.xml",
+        "lang": "en",
+    },
+    {
+        "name": "BBC World",
+        "url":  "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "lang": "en",
+    },
+    {
+        "name": "Al Jazeera",
+        "url":  "https://www.aljazeera.com/xml/rss/all.xml",
+        "lang": "en",
+    },
+    {
+        "name": "Times of Israel",
+        "url":  "https://www.timesofisrael.com/feed/",
+        "lang": "en",
+    },
+    {
+        "name": "Kyiv Independent",
+        "url":  "https://kyivindependent.com/feed/",
+        "lang": "en",
+    },
+    {
+        "name": "Ynet חדשות",
+        "url":  "https://www.ynet.co.il/Integration/StoryRss2.xml",
         "lang": "he",
     },
 ]

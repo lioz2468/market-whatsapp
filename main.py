@@ -60,6 +60,7 @@ class SentLog:
                 "sent_at":    now,
                 "title":      r.article.title,
                 "source":     r.article.source,
+                "url":        r.article.url,   # additive field — used by the email digest, ignored elsewhere
                 "message":    r.final_message,
                 "importance": r.importance,
                 "tag":        r.tag,
@@ -590,6 +591,88 @@ async def run_morning_digest(args: argparse.Namespace) -> None:
     print(f"\n  {Fore.GREEN}✓ Digest sent.{Style.RESET_ALL}")
 
 
+# ── Email digest pool ──────────────────────────────────────────────────────
+# Populates email_digest.json for the morning email. Fully separate from the
+# WhatsApp send pipeline above: reads sent_log.json (read-only) and writes
+# only email_digest.json. Never calls _send(), never touches sent_log.json,
+# never sends WhatsApp or any other message. Safe to run on its own schedule.
+
+async def run_collect_email_pool(args: argparse.Namespace) -> None:
+    config.validate_claude()
+    import email_classifier
+
+    print(f"\n{Fore.CYAN}📡 Fetching world-news feeds…{Style.RESET_ALL}")
+    world_articles, _ = await feeds.fetch_feed_list(config.WORLD_RSS_FEEDS)
+
+    world_articles, pre_skipped = feeds.pre_filter(
+        world_articles, max_age_hours=config.EMAIL_LOOKBACK_HOURS
+    )
+    print(f"  After pre-filter: {len(world_articles)} (-{pre_skipped})")
+
+    world_items: list[dict] = []
+    if world_articles:
+        print(f"\n{Fore.CYAN}🧠 Classifying {len(world_articles)} world article(s)…{Style.RESET_ALL}")
+        results = await email_classifier.classify_all(world_articles)
+        approved = sorted(
+            (r for r in results if r.approved and r.importance >= config.MIN_WORLD_IMPORTANCE_SCORE),
+            key=lambda r: r.importance,
+            reverse=True,
+        )[:config.MAX_WORLD_ARTICLES]
+        print(f"  Approved: {len(approved)} (cap {config.MAX_WORLD_ARTICLES})")
+
+        world_items = [
+            {
+                "title":      r.article.title,
+                "source":     r.article.source,
+                "url":        r.article.url,
+                "summary":    r.article.summary[:400],
+                "importance": r.importance,
+                "topics":     r.topics,
+                "published":  r.article.published,
+            }
+            for r in approved
+        ]
+
+    # ── Business / tech: reuse what already passed the WhatsApp classifier —
+    # zero extra Claude calls. Split by source via EMAIL_SOURCE_CATEGORY.
+    sent_log = SentLog()
+    recent   = sent_log.recent_messages(config.EMAIL_LOOKBACK_HOURS)
+
+    business_items: list[dict] = []
+    tech_items:     list[dict] = []
+    for m in sorted(recent, key=lambda x: x.get("importance", 5), reverse=True):
+        category = config.EMAIL_SOURCE_CATEGORY.get(m.get("source", ""), "business")
+        item = {
+            "title":      m.get("title", ""),
+            "source":     m.get("source", ""),
+            "url":        m.get("url", ""),
+            "summary":    m.get("message", ""),  # already-composed WhatsApp text — usable as a summary
+            "importance": m.get("importance", 5),
+            "topics":     m.get("topics", []),
+            "tag":        m.get("tag", ""),
+        }
+        (tech_items if category == "tech" else business_items).append(item)
+
+    digest = {
+        "generated_at":   datetime.now(timezone.utc).isoformat(),
+        "lookback_hours": config.EMAIL_LOOKBACK_HOURS,
+        "world":          world_items,
+        "business":       business_items,
+        "tech":           tech_items,
+    }
+    config.EMAIL_DIGEST_PATH.write_text(
+        json.dumps(digest, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+    print(
+        f"\n  {Fore.GREEN}✓ email_digest.json written — "
+        f"world: {len(world_items)} | business: {len(business_items)} | tech: {len(tech_items)}"
+        f"{Style.RESET_ALL}"
+    )
+    _print_cost()
+
+
 # ── CLI ────────────────────────────────────────────────────────────────────
 
 async def run_check_feeds() -> None:
@@ -644,6 +727,8 @@ def _build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--ab",             action="store_true", help="Show before/after humanizer")
     parser.add_argument("--test",           metavar="MESSAGE",   help="Send MESSAGE directly, skip all feeds")
     parser.add_argument("--check-feeds",   action="store_true", help="Check which feeds are working, no Claude")
+    parser.add_argument("--collect-email-pool", action="store_true",
+                         help="Fetch world feeds + recent WhatsApp-approved items into email_digest.json (no sending)")
     return parser
 
 
@@ -654,6 +739,8 @@ def main() -> None:
     try:
         if args.check_feeds:
             asyncio.run(run_check_feeds())
+        elif args.collect_email_pool:
+            asyncio.run(run_collect_email_pool(args))
         elif args.test is not None:
             asyncio.run(run_test(args))
         elif args.morning_digest:
