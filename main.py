@@ -495,11 +495,11 @@ async def run(args: argparse.Namespace) -> None:
             _print_cost()
             return
 
-        # ── 5. Topic deduplication (18h window) ─────────────────────────
+        # ── 5. Topic deduplication (TOPIC_DEDUP_HOURS window) ────────────
         force_update_prefix = False
-        recent_sent = sent_log.recent_messages(18)
+        recent_sent = sent_log.recent_messages(config.TOPIC_DEDUP_HOURS)
         if recent_sent:
-            print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last 18h…{Style.RESET_ALL}")
+            print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last {config.TOPIC_DEDUP_HOURS}h…{Style.RESET_ALL}")
             pre_dedup_approved = approved[:]
             before = len(approved)
             approved = await classifier.topic_dedup_filter(approved, recent_sent)

@@ -54,6 +54,14 @@ MIN_IMPORTANCE_SCORE     = int(os.getenv("MIN_IMPORTANCE_SCORE", "6"))
 MAX_ARTICLES_PER_RUN     = int(os.getenv("MAX_ARTICLES_PER_RUN", "5"))
 DIGEST_HOURS             = int(os.getenv("DIGEST_HOURS", "12"))
 
+# How far back topic_dedup_filter() looks when deciding whether a "new"
+# article is really just a restatement of something already sent (e.g.
+# "bond yields near 5%" sent 3 days apart with the same framing). Used to be
+# hardcoded to 18h, which meant anything sent >18h ago wasn't shown to the
+# dedup check at all — slow-moving macro topics (rates, yields, inflation
+# prints) routinely resurface 2-4 days apart and sailed straight through.
+TOPIC_DEDUP_HOURS        = int(os.getenv("TOPIC_DEDUP_HOURS", "96"))
+
 # ── Email digest pool (separate pipeline — does not affect WhatsApp sending) ─
 # Populates email_digest.json once/day for the morning email, by combining:
 #   (a) world-news articles fetched from WORLD_RSS_FEEDS and classified here, and

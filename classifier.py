@@ -280,12 +280,19 @@ def _topics_to_broad_categories(topics: list[str]) -> set[str]:
 
 # ── Topic deduplication ────────────────────────────────────────────────────
 
-_TOPIC_CHECK_SYSTEM = _CONTEXT + "\n\n" + """אתה בודק כפילויות בסיקור עיתונאי.
+def _topic_check_system() -> str:
+    window_desc = (
+        f"{config.TOPIC_DEDUP_HOURS // 24} הימים" if config.TOPIC_DEDUP_HOURS % 24 == 0
+        else f"{config.TOPIC_DEDUP_HOURS} השעות"
+    )
+    return _CONTEXT + "\n\n" + f"""אתה בודק כפילויות בסיקור עיתונאי.
 
-חוק ברזל: אם הנושא כבר כוסה ב-18 שעות האחרונות — סנן החוצה, אלא אם יש אירוע חדש ספציפי.
+חוק ברזל: אם הנושא כבר כוסה ב-{window_desc} האחרונות — סנן החוצה, אלא אם יש אירוע חדש ספציפי.
 
 "אירוע חדש ספציפי" = נתון חדש שפורסם, החלטה שהתקבלה, שינוי כיוון מפתיע, הכרזה רשמית.
-"לא אירוע חדש" = ניתוח נוסף של אותו מצב, פרשנות, עדכון שוטף, "תשואות עלו שוב".
+"לא אירוע חדש" = ניתוח נוסף של אותו מצב, פרשנות, עדכון שוטף, "תשואות עלו שוב" / "המחיר עלה עוד קצת".
+זה חל גם כשהפער בין הכתבות הוא כמה ימים ולא רק שעות — נושא איטי (ריבית, תשואות אג"ח,
+אינפלציה) שחוזר על אותה מסקנה כמה ימים אחרי, הוא עדיין כפילות, לא חדשות.
 
 ענה "כן" רק אם יש אירוע חדש ספציפי שלא הופיע בכתבות הקודמות.
 ענה "לא" בכל מקרה אחר — כולל כשהכותרת שונה אך הנושא זהה.
@@ -296,8 +303,9 @@ async def topic_dedup_filter(
     approved: list[ClassificationResult],
     recent_sent: list[dict],
 ) -> list[ClassificationResult]:
-    """Remove articles whose broad topics were already covered in the last 18 hours,
-    unless Claude identifies a specific new event (not just new analysis)."""
+    """Remove articles whose broad topics were already covered in the last
+    config.TOPIC_DEDUP_HOURS hours, unless Claude identifies a specific new
+    event (not just new analysis)."""
     if not recent_sent or not approved:
         return approved
 
@@ -327,11 +335,11 @@ async def topic_dedup_filter(
                 resp = await client.messages.create(
                     model=config.CLAUDE_CLASSIFIER_MODEL,
                     max_tokens=16,
-                    system=_TOPIC_CHECK_SYSTEM,
+                    system=_topic_check_system(),
                     messages=[{"role": "user", "content":
                         f"כתבה חדשה: {r.article.title}\n"
                         f"נושאים: {', '.join(r.topics)}\n\n"
-                        f"כתבות שנשלחו ב-18 שעות האחרונות:\n{recent_context}\n\n"
+                        f"כתבות שנשלחו ב-{config.TOPIC_DEDUP_HOURS} השעות האחרונות:\n{recent_context}\n\n"
                         "האם הכתבה החדשה מביאה אירוע חדש ספציפי (לא רק ניתוח נוסף של אותו מצב)?"
                     }],
                 )
