@@ -703,7 +703,8 @@
     "6141711ede2a052a": "2026-09-15T07:29:21.595249+00:00",
     "9f8a42a2b5f94b37": "2026-09-15T08:01:29.540954+00:00",
     "a8b17d3731cf3800": "2026-09-15T09:31:11.646771+00:00",
-    "45fbe5b7456e3170": "2026-09-15T11:01:23.761386+00:00"
+    "45fbe5b7456e3170": "2026-09-15T11:01:23.761386+00:00",
+    "9eba84238ddc9ea9": "2026-09-15T12:31:28.369229+00:00"
   },
   "messages": [
     {
@@ -9976,7 +9977,22 @@
         "ערכיות",
         "בורסה"
       ]
+    },
+    {
+      "sent_at": "2026-09-15T12:31:28.369229+00:00",
+      "title": "BYTEDANCE H1 PROFIT FALLS AS REVENUE SURGES 30% TO $120B ByteDance’s net profit fell by a single-digit percentage to roughly $20 billion in the first half of 2026 as the company sharply increased spending on AI. Revenue grew about 30% YoY to $120 billion, helped by strong https://t.co/pETkqgAwGl",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2099832707836785048",
+      "message": "ByteDance דיווחה על הכנסות של 120 מיליארד דולר בחצי הראשון של 2026 - גידול של 30% לעומת אשתקד. אבל הרווח נפל לכ-20 מיליארד דולר, ירידה קלה, כי החברה שופכת כסף על AI בקצב שלא ראינו ממנה קודם.\n\nזה בדיוק אותו תבנית שראינו אצל Meta ו-Amazon לפני כמה שנים - הכנסות עולות, רווח נחתך, וכולם שואלים \"למה\". התשובה תמיד אותה: בנייה. מי שנהנה מזה עכשיו הם ספקי תשתיות ענן ושבבים - הביקוש שלהם מגיע גם מהמזרח, לא רק מהמערב.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "טכנולוגיה",
+        "השקעות",
+        "China"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-15T11:00:33.399692+00:00"
+  "last_auto_run": "2026-09-15T12:30:32.171163+00:00"
 }
