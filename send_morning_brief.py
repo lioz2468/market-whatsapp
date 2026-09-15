@@ -24,6 +24,7 @@ import asyncio
 import json
 import sys
 from datetime import datetime
+from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import colorama
@@ -38,6 +39,31 @@ import watchlist_news
 colorama.init(autoreset=True)
 
 _ISRAEL_TZ = ZoneInfo("Asia/Jerusalem")
+_STATE_PATH = Path(__file__).resolve().parent / "morning_brief_log.json"
+
+
+def _today_israel() -> str:
+    return datetime.now(_ISRAEL_TZ).date().isoformat()
+
+
+def _already_sent_today() -> bool:
+    """True once a brief already went out today — guards the redundant
+    repository_dispatch backup trigger (see send-morning-brief.yml) from
+    causing a second send if the primary `schedule` firing also succeeds."""
+    if not _STATE_PATH.exists():
+        return False
+    try:
+        state = json.loads(_STATE_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return False
+    return state.get("last_sent_date") == _today_israel()
+
+
+def _mark_sent_today() -> None:
+    _STATE_PATH.write_text(
+        json.dumps({"last_sent_date": _today_israel()}, indent=2),
+        encoding="utf-8",
+    )
 
 
 def _is_shabbat() -> bool:
@@ -95,6 +121,10 @@ async def main_async(args: argparse.Namespace) -> None:
     if not args.dry_run:
         config.validate_whatsapp_credentials(args.provider)
 
+    if not args.dry_run and not args.force and _already_sent_today():
+        print(f"\n  {Fore.YELLOW}⏭  Already sent today — skipping (use --force to override).{Style.RESET_ALL}")
+        return
+
     text = await _compose()
     _print_cost()
 
@@ -132,6 +162,7 @@ async def main_async(args: argparse.Namespace) -> None:
             mid = resp.get("idMessage", "?")
             print(f"  {Fore.GREEN}✓ Sent via Green API — id: {mid}{Style.RESET_ALL}")
 
+    _mark_sent_today()
     print(f"\n  {Fore.GREEN}✓ Done.{Style.RESET_ALL}")
 
 
@@ -143,6 +174,7 @@ def _build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument("--auto",     action="store_true", help="Send without confirmation")
     parser.add_argument("--dry-run",  action="store_true", help="Preview only, do not send")
+    parser.add_argument("--force",    action="store_true", help="Send even if already sent today")
     parser.add_argument("--provider", choices=["twilio", "green"], default=config.DEFAULT_PROVIDER)
     return parser
 

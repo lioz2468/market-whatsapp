@@ -18,6 +18,19 @@ on:
   # Allow manual trigger from the Actions tab
   workflow_dispatch:
 
+  # External backup trigger (cron-job.org) that pings this workflow on its
+  # own schedule, independent of GitHub's own `schedule` trigger. GitHub's
+  # `schedule` is best-effort and can silently drop firings under load (see
+  # market-news.yml's 2026-09-14 incident) — this workflow only had the one
+  # daily firing, with no redundancy, so a single dropped firing meant no
+  # message went out all day (happened 2026-09-15). send_morning_brief.py's
+  # "already sent today" gate (morning_brief_log.json) makes it safe for
+  # both the schedule and this backup to fire the same morning — only the
+  # first one actually sends. Point the external cron at a time shortly
+  # after 08:34 Israel time.
+  repository_dispatch:
+    types: [morning-brief-trigger]
+
 concurrency:
   group: send-morning-brief
   cancel-in-progress: false
@@ -25,6 +38,8 @@ concurrency:
 jobs:
   send-morning-brief:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -52,3 +67,15 @@ jobs:
           GREEN_API_TOKEN:    ${{ secrets.GREEN_API_TOKEN }}
           MORNING_BRIEF_TO:   ${{ secrets.MORNING_BRIEF_TO }}
         run: python send_morning_brief.py --auto --provider green
+
+      - name: Commit morning_brief_log.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add morning_brief_log.json
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "chore: update morning_brief_log.json [skip ci]"
+            git push
+          fi
