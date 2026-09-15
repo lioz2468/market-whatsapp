@@ -1,153 +1,139 @@
 {
-  "generated_at": "2026-09-14T12:48:41.391400+00:00",
+  "generated_at": "2026-09-15T08:33:59.245561+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train",
-      "summary": "A Russian drone struck a train near the Ukraine-Poland border shortly after senior visiting officials, including the former prime ministers of the U.K. and Sweden, passed through.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "גבולות"
-      ],
-      "published": "Mon, 14 Sep 2026 01:46:26 -0400"
-    },
-    {
-      "title": "Daily Briefing Sept. 14 – IDF rejects film’s claim Israel killed Gazans with AI-assisted targeting",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/daily-briefing-sept-14-idf-rejects-films-claim-israel-killed-gazans-with-ai-assisted-targeting/",
-      "summary": "Military correspondent Emanuel Fabian discusses controversy over 'NAZA' documentary, Hamas commanders killed in Gaza, West Bank unrest and how the IDF blew up a Hezbollah complex The post Daily Briefing Sept. 14 – IDF rejects film’s claim Israel killed Gazans with AI-assisted targeting appeared first on The Times of Israel .",
+      "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
+      "summary": "New B'Tselem report frames events on ground as Israel's 'project of elimination' of Palestinians.",
       "importance": 8,
       "topics": [
         "ישראל",
-        "גזה",
-        "AI טכנולוגיה"
+        "פלסטינים",
+        "התנחלויות"
       ],
-      "published": "Mon, 14 Sep 2026 11:20:51 +0000"
+      "published": "Tue, 15 Sep 2026 06:53:50 +0000"
     },
     {
-      "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
+      "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
-      "summary": "Indonesian authorities intensified on Monday a search for people missing after a ferry overturned in bad weather in the Java Sea. At least six passengers were killed and 129 people are still missing.",
-      "importance": 7,
-      "topics": [
-        "אינדונזיה",
-        "אסון",
-        "ים"
-      ],
-      "published": "Mon, 14 Sep 2026 02:20:28 -0400"
-    },
-    {
-      "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/13/nx-s1-5967045/world-leaders-gathered-for-the-annual-brics-summit-here-are-the-takeaways",
-      "summary": "India hosted the an annual summit which gathered leaders from 28 countries, including the presidents of China and Iran. Though, the U.S. was notably absent.",
-      "importance": 7,
-      "topics": [
-        "BRICS",
-        "גיאופוליטיקה",
-        "סין"
-      ],
-      "published": "Sun, 13 Sep 2026 17:03:15 -0400"
-    },
-    {
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-      "importance": 7,
-      "topics": [
-        "כלכלה",
-        "הנהגה אמריקאית",
-        "סחר בינלאומי"
-      ],
-      "published": "Sun, 13 Sep 2026 19:34:36 GMT"
-    },
-    {
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-      "importance": 7,
-      "topics": [
-        "זכויות אדם",
-        "טורקיה",
-        "LGBTQ+"
-      ],
-      "published": "Sun, 13 Sep 2026 14:25:56 GMT"
-    },
-    {
-      "title": "Houthis seize more key islands in Red Sea, launch attacks into Saudi Arabia",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/houthis-seize-more-key-islands-in-red-sea-launch-attacks-into-saudi-arabia/",
-      "summary": "Houthis claim to fire dozens of projectiles at Saudi military sites in southern areas in response to alleged attacks, while rebel push across Red Sea meets little resistance The post Houthis seize more key islands in Red Sea, launch attacks into Saudi Arabia appeared first on The Times of Israel .",
-      "importance": 7,
-      "topics": [
-        "תימן",
-        "הוותי",
-        "ים האדום"
-      ],
-      "published": "Mon, 14 Sep 2026 11:53:04 +0000"
-    },
-    {
-      "title": "‘Blood libel’: Israeli politicians assail Israeli film alleging AI-powered killing in Gaza",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/blood-libel-israeli-politicians-assail-israeli-film-on-ai-powered-killing-in-gaza/",
-      "summary": "After IDF rejects claims made in 'NAZA,' chief of staff reportedly to hold meeting on response; MK Lazimi assails culture minister for bid to revoke filmmakers' citizenship The post ‘Blood libel’: Israeli politicians assail Israeli film alleging AI-powered killing in Gaza appeared first on The Times of Israel .",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
+      "summary": "One of the country's leading human rights organizations says Israel is dismantling all aspects of Palestinian life at a breakneck rate. The group has extensively documented what it says are the mechanisms Israel has used to \"ethnically cleanse\" the West Bank of Palestinians.",
       "importance": 7,
       "topics": [
         "ישראל",
-        "צה\"ל",
-        "פוליטיקה"
+        "פלסטינים",
+        "זכויות אדם"
       ],
-      "published": "Mon, 14 Sep 2026 09:48:33 +0000"
+      "published": "Mon, 14 Sep 2026 16:34:20 -0400"
     },
     {
-      "title": "דיפלומטים שמעו על נז\"א בארוחות חג, בישראל מתכננים קמפיין: \"אנחנו עמוק באירוע\"",
+      "title": "US confirms for first time it has deployed space weapons",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
+      "importance": 7,
+      "topics": [
+        "ארה״ב",
+        "חלל",
+        "ביטחון"
+      ],
+      "published": "Tue, 15 Sep 2026 01:52:02 GMT"
+    },
+    {
+      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
+      "importance": 7,
+      "topics": [
+        "ארה\"ב",
+        "בחירות",
+        "משפט"
+      ],
+      "published": "Tue, 15 Sep 2026 01:15:15 GMT"
+    },
+    {
+      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
+      "summary": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "חופש ביטוי",
+        "עזה"
+      ],
+      "published": "Mon, 14 Sep 2026 18:26:20 GMT"
+    },
+    {
+      "title": "US scraps limits on emissions from coal and gas power plants",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
+      "importance": 7,
+      "topics": [
+        "ארה\"ב",
+        "סביבה",
+        "מדיניות אנרגיה"
+      ],
+      "published": "Mon, 14 Sep 2026 22:04:14 GMT"
+    },
+    {
+      "title": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss",
+      "summary": "Israeli rights group B’Tselem says Israeli settler violence aims to eliminate Palestinian existence.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "פלסטינים",
+        "זכויות אדם"
+      ],
+      "published": "Tue, 15 Sep 2026 01:23:53 +0000"
+    },
+    {
+      "title": "מהאוויר ועד הים, כבר בשעה ראשונה: הלקח מ-7/10 - והשינוי בתרחיש הייחוס של צה\"ל",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bkrrqvhfme",
-      "summary": "דיונים קדחתניים בצה\"ל, משרד החוץ ומערך ההסברה הלאומי על הטענות הקשות בסרט שזכה בפרס היוקרתי בוונציה. \"יש שקרים בוטים\", אמרו בכירים. אבל גם ממשלות ידידותיות צפויות להידחק לקצה. אלה ההמלצות של השגרירים",
+      "url": "https://www.ynet.co.il/news/article/yokra14896987",
+      "summary": "הטבח הוביל לשינוי עמוק בצבא: חיל האוויר כבר לא מחכה לבקשת סיוע מהכוחות בשטח, אלא נערך להפעיל אש כבדה ולשלוח מסה של כלי טיס מיד עם תחילת חדירה. בתרגילים האחרונים תורגלו פשיטות יבשתיות, חדירות מהים, כטב\"מים וירי מסיבי - לצד תקיפת מפקדות אויב בעומק. וגם: ההיערכות באילת לחגים",
       "importance": 7,
       "topics": [
         "ישראל",
-        "הסברה",
+        "צבא",
+        "ביטחון"
+      ],
+      "published": "Tue, 15 Sep 2026 11:21:23 +0300"
+    },
+    {
+      "title": "בצל השמועות על גיוס לצבא פוטין, צעירים בורחים מרוסיה: \"זו שאלה של הישרדות\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/skn61v8tfg",
+      "summary": "ארגון המסייע לרוסים העוזבים את ארצם מדווח על עלייה של כמעט פי 8 במספר הפניות של נמלטים המבקשים סיוע, על רקע הדיווחים שצבא רוסיה יכריז על גיוס כוחות לחזית באוקראינה מיד אחרי סיום הבחירות לפרלמנט ביום ראשון: \"יש גל פאניקה, אתה לא יודע מה יקרה מחר\". העזיבה - גם בצל הדיכוי הגובר של חירויות הפרט, כולל הגבלות קשות על האינטרנט: \"רוסיה הפכה לכלא דיגיטלי ענק\"",
+      "importance": 7,
+      "topics": [
+        "רוסיה",
+        "אוקראינה",
+        "צבא"
+      ],
+      "published": "Tue, 15 Sep 2026 10:03:08 +0300"
+    },
+    {
+      "title": "\"נז\"א הצית את המדינה\": הסרט השנוי במחלוקת בכותרות בעולם - וקו ההגנה של ישראל",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rk4ejmifmx",
+      "summary": "אחרי הזכייה בוונציה והסערה בישראל, משרד החוץ הפיץ לשגרירויות דף מסרים שמכנה את הסרט \"תעמולה חמאסית במסווה של תיעוד\" - ודוחה את הטענות על רצח עם, הרג המוני ושימוש ב-AI. מהאיומים בשלילת אזרחות ועד לביקורת על \"תגובה סמכותנית\": אלה הכותרות בעולם סביב התגובה הישראלית החריפה לנז\"א",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "תרבות",
         "דיפלומטיה"
       ],
-      "published": "Mon, 14 Sep 2026 12:54:34 +0300"
-    },
-    {
-      "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
-      "summary": "Some key leaders at artificial intelligence companies call for a slowdown in AI development. And, Iran-Gulf diplomacy hits a setback as talks in Oman are delayed.",
-      "importance": 6,
-      "topics": [
-        "בינה מלאכותית",
-        "דיפלומטיה",
-        "איראן"
-      ],
-      "published": "Mon, 14 Sep 2026 07:39:06 -0400"
+      "published": "Tue, 15 Sep 2026 08:05:47 +0300"
     }
   ],
   "business": [
-    {
-      "title": "ANTHROPIC EXPECTS SECOND STRAIGHT PROFITABLE QUARTER: FT Anthropic has told investors it expects positive adjusted operating income for the second consecutive quarter, as it prepares for a potential Nasdaq IPO at a $2T+ valuation. The company says gross margins are above 80% https://t.co/NeHv93oOCH",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2099267300054700451",
-      "summary": "Anthropic צופה רבעון רווחי שני ברציפות, עם מרווח גולמי של מעל 80% - ומתכוונת להנפקה בנאסד\"ק לפי שווי של טריליון דולר ומעלה.\n\nזה מספר שחשוב לשים לב אליו: 80% מרווח גולמי זה לא חברת תוכנה רגילה, זה פלטפורמה. הכסף שנשאר אחרי העלות הישירה הוא עצום.\n\nההשפעה העקיפה: חברות שמוכרות תשתית ל-AI - אחסון, ענן, אבטחה - הופכות מבחינת הכנסות לתלויות בהצלחה של Anthropic יותר מכפי שנראה מבחוץ.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "רווחיות",
-        "IPO"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "Brent crude jumps above $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
       "source": "CNBC Top News",
@@ -176,187 +162,201 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.",
+      "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
       "source": "MarketWatch",
-      "url": "",
-      "summary": "תחזיות הרווח של החברות האמריקאיות מכות את הציפיות בקצב שלא ראינו הרבה זמן - וה-AI הוא סיבה מרכזית לזה.\n\nסקטור הטכנולוגיה בולט במיוחד: חברות מנפיקות תחזיות אופטימיות לרבעון הבא בקצב גבוה מהרגיל. זה לא רק מחמאה לסקטור - זה אומר שה-AI כבר מתורגם לרווחיות אמיתית, לא רק להבטחות.\n\nמי שכדאי לשים לב אליו: חברות שמספקות תשתית לאותן חברות טכנולוגיה - ענן, שבבים, אבטחת מידע - נהנות מהגל הזה בלי שתמיד רואים אותן בכותרות.",
-      "importance": 8,
+      "url": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
+      "summary": "סיטי מזהירה: אם קצב הפיתוח של מודלי AI יואט - תחזיות הרווח של חברות הטכנולוגיה עלולות לרדת, וזה יכול למשוך את השוק כולו למטה. עד כה, שדרוגי התחזיות האלו היו הגורם המרכזי לעליות השנה. מה שמעניין כאן זה ההיקף של ההשפעה העקיפה - חברות שתלויות בביקוש של ספקי AI, כמו נדל\"ן מסחרי לדאטה סנטרים וספקי אנרגיה, יחושו את זה כנראה לפני שהשוק הרחב בכלל יבחין.",
+      "importance": 9,
       "topics": [
         "AI",
-        "רווחיות",
-        "טכנולוגיה"
+        "רווחים",
+        "שוק מניות"
       ],
       "tag": "ארה\"ב"
     },
     {
-      "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "ספינה נפגעה במיצר הורמוז - אחד מנקודות המחנק הכי קריטיות בעולם לאנרגיה. זה קורה ממש לפני פגישה מתוכננת בין איראן למדינות המפרץ באומן, שאמורה הייתה לייצב את המצב בסביבה הימית.\n\nכשהורמוז לא רגוע, כולם מרגישים את זה: ביטוח ימי מתייקר, מכליות נוטות מסלול, ובסוף - העלויות נוחתות על מחירי הנפט. מי שפחות ברור שיושפע: חברות לוגיסטיקה אסיאתיות שתלויות ישירות במסדרון הזה.",
-      "importance": 8,
-      "topics": [
-        "אנרגיה",
-        "ג׳יאופוליטיקה",
-        "שרשרת אספקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
+      "title": "10-year Treasury yield briefly tops 5%, hitting its highest level since 2007 as bond-market selloff deepens",
       "source": "MarketWatch",
-      "url": "",
-      "summary": "תשואת האג\"ח האמריקאית ל-10 שנים צמודה ל-5% - ורף הזה הוא אחד הסימנים המטרידים ביותר לשוק המניות כרגע.\n\nלמה זה חשוב? כשאג\"ח ממשלתי מציע תשואה גבוהה בלי סיכון, המשקיעים מתחילים לשאול את עצמם למה להיות במניות בכלל. הכסף זז. לא בבת אחת, אבל זז.\n\nמה שמעניין פה הוא שהפד לא ממש יכול לפתור את בעיית מחירי הדלק דרך ריבית - אבל שוק האג\"ח דוחף לעלייה בכל זאת. זה לחץ שמגיע מלמטה, לא מלמעלה.",
-      "importance": 8,
+      "url": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+      "summary": "תשואת האג\"ח האמריקאי ל-10 שנים נגעה ב-5% - רמה שלא ראינו מאז 2007. זה לא רק מספר סימבולי.\n\nכשהתשואות עולות לשם, עלות ההלוואות עולה לכולם - משכנתאות, אשראי לעסקים, מימון ממשלתי. השוק מתחיל לשאול למה להסתכן במניות כשאג\"ח מממשלה נותן 5% כמעט ללא סיכון.\n\nמי שצריך לשים לב במיוחד: חברות טכנולוגיה עם הערכות שווי גבוהות, ושוק הנדל\"ן - שני המקומות שהכי רגישים לעלייה בריביות.",
+      "importance": 9,
       "topics": [
         "ריבית",
         "אג״ח",
-        "אינפלציה"
+        "מניות"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "The future of retirement? Work until you die.",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "ביטוח לאומי אמריקאי (Social Security) עומד בפני משבר קיומי - וחוקרים מתחילים לדבר בפתיחות על כך שהמערכת פשוט לא תשרוד לטווח ארוך. הלחץ דמוגרפי ברור: פחות עובדים, יותר גמלאים, ופחות כסף שנכנס לקופה.\n\nההשפעה העקיפה שלא רואים מיד - לחץ כזה מזרים הון לכיוון מוצרי פנסיה פרטיים, קרנות השקעה לטווח ארוך ומוצרי ביטוח. חברות כמו BlackRock ו-Vanguard מתמצבות בדיוק שם. וגם בישראל - כשמערכות ביטחון סוציאלי נחלשות בעולם, זה מגביר לחץ על מדינות אחרות לחשוב מחדש על מודלים דומים.",
-      "importance": 8,
+      "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+      "summary": "תשואת האג\"ח האמריקאית ל-10 שנים נגעה ב-5% היום - רמה שלא ראינו כמה שנים - לפני שירדה בחזרה. זה קורה ממש לפני ישיבת הפד השבוע, וזה לא מקרי.\n\nכשהתשואה מגיעה ל-5%, כסף נוטה לזרום לאג\"ח ולצאת ממניות - כי פתאום יש תשואה בטוחה שמתחרה ברצינות בשוק המניות. בישראל זה מורגש ישירות: עלות גיוס הון לחברות עולה, והדולר מתחזק ביחס לשקל.\n\nהמספר הזה שווה לעקוב אחריו השבוע.",
+      "importance": 9,
       "topics": [
-        "פנסיה",
-        "ביטחון סוציאלי",
-        "דמוגרפיה"
+        "אג\"ח",
+        "ריבית",
+        "פד"
       ],
       "tag": "ארה\"ב"
     },
     {
-      "title": "Luxembourg blocks Israel Bonds in EU",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "לוקסמבורג הפסיקה לאשר הנפקות של אג\"ח ישראל באיחוד האירופי - וזה יכול להיות רק ההתחלה.\n\nלוקסמבורג היא מרכז פיננסי מרכזי שדרכו עוברות הרבה מאוד הנפקות אירופאיות. אם ישראל לא תמצא מסלול חלופי, היכולת שלה לגייס חוב מהשוק האירופאי תיפגע - וזה משפיע ישירות על עלויות המימון של המדינה.\n\nמי שכדאי לשים לב: ישראלים שמחזיקים אג\"ח ממשלתי, וכל מי שעוקב אחרי שקל - לחץ כזה על גיוסי חוב בחו\"ל לא נשאר בלי השפעה על המטבע.",
-      "importance": 8,
+      "title": "Wall Street Confronts Prospect of a New Era After Treasury Yield Hits 5%",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/wall-street-confronts-prospect-of-new-era-after-treasury-yield-hits-5-e3f05b38?mod=rss_markets_main",
+      "summary": "תשואת אגרות החוב האמריקאיות ל-10 שנים נגעה ב-5% - רף שלא ראינו ממנו הרבה בעשור האחרון. זה לא רק מספר: כשהתשואה מגיעה לשם, המשמעות היא שהשוק מתמחר עולם שבו הריבית נשארת גבוהה לאורך זמן, לא כמה חודשים.\n\nההשפעה הישירה היא על עלויות מימון - משכנתאות, הלוואות לעסקים, חוב ממשלתי. אבל מה שפחות מדברים עליו: זה מגדיל את הלחץ על חברות טכנולוגיה עם הערכות שווי גבוהות, על שוקי הנדל\"ן בכל העולם, ועל כל מדינה שמחזיקה חוב בדולרים. כדאי לשים לב לאן זה הולך.",
+      "importance": 9,
       "topics": [
-        "רגולציה",
-        "אג\"ח",
-        "ממשל"
+        "ריבית",
+        "אג״ח",
+        "מקרו"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Taxing high earners to help fund Social Security gains bipartisan attention — what it could mean for benefits",
+      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
       "source": "CNBC Top News",
-      "url": "",
-      "summary": "ביטוח לאומי אמריקאי עומד בפני גירעון מימון בעוד שש שנים - וכעת עולה הצעה דו-מפלגתית: להטיל מס על בעלי הכנסות גבוהות כדי לממן אותו.\n\nזה לא ברור מאליו. כיום יש תקרה להכנסות החייבות בתשלום לסוציאל סיקיוריטי, ויש שרוצים לבטל אותה לבעלי הכנסות גבוהות. אם זה יקרה, זו העלאת מס אפקטיבית על מרבית ה\"טאלנט\" האמריקאי - מה שיכול להשפיע על שכר, תמחור חברות ותכנון פיננסי של מיליוני אמריקאים.",
-      "importance": 8,
+      "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+      "summary": "תשואת האג\"ח האמריקאית ל-10 שנים עלתה לשיא מאז 2007 - והשוק כבר מתמחר העלאת ריבית נוספת של הפד השבוע.\n\nזה חשוב גם למי שלא נוגע באג\"ח: כשהתשואות עולות, הכסף זז מניות לאג\"ח, חברות טכנולוגיה עם הערכות שווי גבוהות סופגות לחץ, וגם הריבית על משכנתאות ועסקים בכל העולם - כולל בישראל - מושפעת. זה הברומטר האמיתי של עלות הכסף הגלובלית.",
+      "importance": 9,
       "topics": [
-        "מיסוי",
-        "סוציאל סיקיוריטי",
-        "תקציב ממלכתי"
+        "פד",
+        "ריבית",
+        "אג\"ח"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+      "summary": "מחיר הנפט הספוט - כלומר, מה שמשלמים עליו עכשיו, למסירה מיידית - קפץ בחדות ביחס למחיר העתידי, וזה אחד הסימנים הכי רציניים שיש לשוק הנפט לגבי חומרת המצב. הסיבה: החשש שהסכסוך עם איראן יפגע בזרימת הנפט מהמפרץ.\n\nההשפעה הישירה היא כמובן מחירי הדלק בתחנות - אבל מי שפחות מסתכלים עליו הוא ענף התעופה, שמגדר (hedge) חלק מסיכוני הדלק שלו וחלק לא. ועוד צינור: כל מה שמיוצר עם נפט - אריזות, כימיקלים, פלסטיק - גם הוא מתייקר.",
+      "importance": 9,
+      "topics": [
+        "נפט",
+        "אנרגיה",
+        "ינפלציה",
+        "גיאופוליטיקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+      "summary": "כלכלנים בכירים מזהירים שהפד עומד לעשות טעות רצינית. הדרישה שלהם: לחכות לפני שמעלים ריבית, כי מתחת לפני השטח הכלכלה עשויה להיות שברירית יותר ממה שנראה.\n\nזה לא ויכוח אקדמי - כשהפד מעלה ריבית על רקע חולשה נסתרת, האפקט מגיע בפיגור של 12-18 חודשים. שוק הדיור, האשראי לצרכנים, ואפילו השוק הישראלי דרך פוזיציות בדולר - כולם יחושו את זה.\n\nשווה לשים לב למה שהפד אומר בהמשך השבוע.",
+      "importance": 9,
+      "topics": [
+        "פד",
+        "ריבית",
+        "מדיניות מוניטרית"
       ],
       "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, […]",
+      "title": "50 דולר בשעה: האנשים שמקבלים כסף מ-OpenAI לקרוא את הצ'אטים שלכם",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/these-people-read-your-chatgpt-prompts/",
+      "summary": "רבים כבר התרגלו להתייעץ עם ChatGPT על הכל – מבעיות קוד ומסמכים פיננסיים ועד לשיחות נפש אינטימיות. אבל מה אם נגיד לכם שמאחורי הקלעים, יש אנשים אמיתיים שמקבלים תשלום כדי לקרוא את ההודעות הכי אישיות שלכם? תחקיר חדש חושף את הפרויקט הסודי (עד עכשיו) של OpenAI, שאמור להדליק לכולנו נורה אדומה. זרים נחשפים לפרומפטים רגישים […] The post 50 דולר בשעה: האנשים שמקבלים כסף מ-OpenAI לקרוא את הצ'אטים שלכם appear",
+      "importance": 8,
+      "topics": [
+        "OpenAI",
+        "פרטיות",
+        "AI"
+      ],
+      "published": "Tue, 15 Sep 2026 08:14:52 +0000"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "importance": 7,
+      "topics": [
+        "OpenAI",
+        "רכישה",
+        "טכנולוגיית חזון"
+      ],
+      "published": "Mon, 14 Sep 2026 20:44:14 +0000"
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
       "importance": 7,
       "topics": [
         "AI",
-        "Anthropic",
-        "OpenAI"
+        "NVIDIA",
+        "תשתיות"
       ],
-      "published": "2026-09-13T15:41:48-04:00"
+      "published": "Mon, 14 Sep 2026 20:07:37 +0000"
+    },
+    {
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "summary": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "סייבר",
+        "תקלה"
+      ],
+      "published": "Mon, 14 Sep 2026 18:08:43 +0000"
+    },
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "רגולציה"
+      ],
+      "published": "2026-09-14T18:59:41-04:00"
+    },
+    {
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "אנטי-טראסט"
+      ],
+      "published": "Mon, 14 Sep 2026 19:45:13 +0000"
+    },
+    {
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+      "importance": 7,
+      "topics": [
+        "רובוטיקה",
+        "AI",
+        "Unitree"
+      ],
+      "published": "Mon, 14 Sep 2026 19:38:46 +0000"
     },
     {
       "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
       "source": "Wired",
       "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-      "summary": "Sam Altman and Elon Musk this weekend backed a call for restraint, after Dario Amodei called on Washington to slow AI development. Donald Trump, meanwhile, wants the US to maintain its lead over China.",
+      "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
       "importance": 7,
-      "topics": [
-        "AI",
-        "מדיניות",
-        "OpenAI"
-      ],
-      "published": "Mon, 14 Sep 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-      "summary": "An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women.",
-      "importance": 7,
-      "topics": [
-        "אבטחה",
-        "deepfake",
-        "AI"
-      ],
-      "published": "Mon, 14 Sep 2026 11:00:00 +0000"
-    },
-    {
-      "title": "ותודה לדאטה-סנטרים: גיוס ענק ל-Buildots שמתקרב לשווי של מיליארד דולר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/buildots-raises-130m/",
-      "summary": "במקביל לעלייה המטאורית בשימוש בכלי AI, ישנה כמובן עלייה אדירה בבנייה של דאטה סנטרים, שיתמכו בכל הקוד שאתם מג'נרטים ובכל התמונות המיותרות שאתם שולחים. אבל כל טעות בבנייה של הפרויקטים הללו עלולה להוביל להוצאות אדירות ועיכובים משמעותיים בתקופה שבה כל רגע חשוב. כאן נכנסת לתמונה פלטפורמה ישראלית שמנטרת פרויקטים במיליארדים בעזרת קסדות חכמות, ומגייסת עכשיו […] The post ותודה לדאטה-סנטרים: גיוס ענק ל-Buil",
-      "importance": 7,
-      "topics": [
-        "סטארטאפ",
-        "גיוס הון",
-        "דאטא-סנטרים"
-      ],
-      "published": "Mon, 14 Sep 2026 12:08:03 +0000"
-    },
-    {
-      "title": "המונית האוטונומית של גוגל זיהתה נוסעים עם נשק והסגירה אותם למשטרה",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/waymo-calls-cops-after-gun-is-found-in-its-vehicle/",
-      "summary": "האמת? נסיעה במוניות אוטונומיות נשמעת כמו חלום. בלי שיחות על פוליטיקה, ריח של סיגריות מהפסקת עישון, עקיפות מסוכנות או ויכוחים על לפתוח חלון. אבל כל זה בהנחה שאתם לא עוברים על החוק, כי אם אתם פחות בעניין של לציית לחוקים, תדעו לפחות שהמוניות האוטונומיות רואות ושומעות הכל. \"רובה רפאים\" טעון במושב האחורי מונית אוטונומית של […] The post המונית האוטונומית של גוגל זיהתה נוסעים עם נשק והסגירה אותם למשטרה a",
-      "importance": 7,
-      "topics": [
-        "רכבים אוטונומיים",
-        "גוגל",
-        "בטיחות"
-      ],
-      "published": "Mon, 14 Sep 2026 08:25:49 +0000"
-    },
-    {
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
-      "importance": 6,
-      "topics": [
-        "Oracle",
-        "מייסדים"
-      ],
-      "published": "Sun, 13 Sep 2026 20:49:38 +0000"
-    },
-    {
-      "title": "What happens after a town de-Flocks",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
-      "summary": "From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn't necessarily mean the cameras will come down immediately - or that the information they've gathered will be deleted anytime soon. […]",
-      "importance": 6,
       "topics": [
         "AI",
         "רגולציה",
-        "גבלת פרטיות"
+        "OpenAI"
       ],
-      "published": "2026-09-14T07:00:00-04:00"
-    },
-    {
-      "title": "אחרי שהואשמה שהמסכים שלה מאזינים למשתמשים: LG מגיבה",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/lg-responds-to-smart-tv-spying-allegations/",
-      "summary": "בשנים האחרונות מסכי הטלוויזיה הפכו להרבה יותר חכמים, עם חיבורים לרשת, חנויות אפליקציות, שלטים מתוחכמים, אינטגרציות וכן – גם מיקרופונים ובחלק מהמקרים אפילו מצלמות. אבל כפי שכבר למדנו בעבר, עם היכולות הללו גם מגיעים סיכונים לא קטנים. כעת אנחנו מקבלים תזכורת לסכנות הללו, לאחר שתחקיר טען כי המסכים של LG לא סתם מאזינים לכם לכאורה, […] The post אחרי שהואשמה שהמסכים שלה מאזינים למשתמשים: LG מגיבה appeare",
-      "importance": 6,
-      "topics": [
-        "אבטחה",
-        "פרטיות",
-        "IoT"
-      ],
-      "published": "Mon, 14 Sep 2026 11:07:36 +0000"
+      "published": "Mon, 14 Sep 2026 11:00:00 +0000"
     }
   ]
 }
