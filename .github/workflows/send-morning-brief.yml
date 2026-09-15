@@ -73,6 +73,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add morning_brief_log.json
+          if [ -f morning_brief_history.json ]; then git add morning_brief_history.json; fi
           if git diff --staged --quiet; then
             echo "Nothing to commit."
           else

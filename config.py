@@ -83,6 +83,20 @@ MAX_WORLD_ARTICLES        = int(os.getenv("MAX_WORLD_ARTICLES", "10"))
 MIN_TECH_IMPORTANCE_SCORE = int(os.getenv("MIN_TECH_IMPORTANCE_SCORE", "5"))
 MAX_TECH_ARTICLES         = int(os.getenv("MAX_TECH_ARTICLES", "8"))
 
+# ── Morning brief cross-day dedup (send_morning_brief.py) ───────────────────
+# email_digest.json is rebuilt fresh every morning from the last
+# EMAIL_LOOKBACK_HOURS (world/tech: re-classified from RSS; business: reused
+# from sent_log.json) — nothing in that collection step knows what actually
+# went out in *yesterday's* brief, so the same story (e.g. an Anthropic or
+# Nvidia item still circulating a day later) could repeat verbatim across
+# consecutive mornings. morning_brief_history.json records what was actually
+# included in each sent brief, and send_morning_brief.py filters new
+# candidates against the last MORNING_BRIEF_HISTORY_DAYS of it before
+# composing — same "specific new event, not just more coverage" rule as
+# TOPIC_DEDUP_HOURS above, applied to a different pipeline.
+MORNING_BRIEF_HISTORY_PATH = BASE_DIR / "morning_brief_history.json"
+MORNING_BRIEF_HISTORY_DAYS = int(os.getenv("MORNING_BRIEF_HISTORY_DAYS", "4"))
+
 # Minimum minutes between consecutive *scheduled* runs (see the
 # min-gap guard in main.py's run()). Manual workflow_dispatch / local runs
 # never check or affect this.

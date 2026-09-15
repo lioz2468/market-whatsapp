@@ -23,7 +23,7 @@ import argparse
 import asyncio
 import json
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -66,6 +66,37 @@ def _mark_sent_today() -> None:
     )
 
 
+def _load_history() -> list[dict]:
+    if not config.MORNING_BRIEF_HISTORY_PATH.exists():
+        return []
+    try:
+        return json.loads(config.MORNING_BRIEF_HISTORY_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return []
+
+
+def _record_history(digest: dict) -> None:
+    """Append today's world/business/tech items to morning_brief_history.json
+    (pruned to MORNING_BRIEF_HISTORY_DAYS) so tomorrow's cross-day dedup can
+    see them — see morning_brief_composer.cross_day_dedup_filter."""
+    history = _load_history()
+    today   = _today_israel()
+    for section in ("world", "business", "tech"):
+        for it in digest.get(section, []):
+            history.append({
+                "date":   today,
+                "title":  it.get("title", ""),
+                "topics": it.get("topics", []),
+            })
+
+    cutoff  = (datetime.now(_ISRAEL_TZ) - timedelta(days=config.MORNING_BRIEF_HISTORY_DAYS)).date().isoformat()
+    pruned  = [h for h in history if h.get("date", "") >= cutoff]
+    config.MORNING_BRIEF_HISTORY_PATH.write_text(
+        json.dumps(pruned, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+
 def _is_shabbat() -> bool:
     """True from Friday 17:00 until Sunday 09:00 (Israel time) — mirrors main.py."""
     now = datetime.now(_ISRAEL_TZ)
@@ -77,7 +108,7 @@ def _is_shabbat() -> bool:
     )
 
 
-async def _compose() -> str:
+async def _compose() -> tuple[str, dict]:
     if not config.EMAIL_DIGEST_PATH.exists():
         print(
             f"  {Fore.RED}email_digest.json not found — run "
@@ -85,6 +116,23 @@ async def _compose() -> str:
         )
         sys.exit(1)
     digest = json.loads(config.EMAIL_DIGEST_PATH.read_text(encoding="utf-8"))
+
+    history = _load_history()
+    if history:
+        combined = [
+            {**it, "_section": section}
+            for section in ("world", "business", "tech")
+            for it in digest.get(section, [])
+        ]
+        print(
+            f"\n{Fore.CYAN}🔍 Cross-day dedup — checking {len(combined)} item(s) against "
+            f"{len(history)} sent in the last {config.MORNING_BRIEF_HISTORY_DAYS}d…{Style.RESET_ALL}"
+        )
+        filtered = await morning_brief_composer.cross_day_dedup_filter(combined, history)
+        if len(filtered) != len(combined):
+            print(f"  {Fore.YELLOW}Filtered {len(combined) - len(filtered)} already-covered item(s){Style.RESET_ALL}")
+        for section in ("world", "business", "tech"):
+            digest[section] = [it for it in filtered if it["_section"] == section]
 
     print(f"\n{Fore.CYAN}📊 Fetching market snapshot…{Style.RESET_ALL}")
     quotes = await market_data.fetch_snapshot()
@@ -102,7 +150,7 @@ async def _compose() -> str:
     print(f"\n{Fore.CYAN}✍️  Composing morning brief with Claude…{Style.RESET_ALL}")
     text = await morning_brief_composer.compose_morning_brief(digest, market_text, watchlist_text)
     print(f"  {Fore.GREEN}✓ {len(text)} chars, {len(text.splitlines())} lines{Style.RESET_ALL}")
-    return text
+    return text, digest
 
 
 def _print_cost() -> None:
@@ -125,7 +173,7 @@ async def main_async(args: argparse.Namespace) -> None:
         print(f"\n  {Fore.YELLOW}⏭  Already sent today — skipping (use --force to override).{Style.RESET_ALL}")
         return
 
-    text = await _compose()
+    text, digest = await _compose()
     _print_cost()
 
     print(f"\n{'─'*60}\n{Fore.GREEN}{text}{Style.RESET_ALL}\n{'─'*60}")
@@ -163,6 +211,7 @@ async def main_async(args: argparse.Namespace) -> None:
             print(f"  {Fore.GREEN}✓ Sent via Green API — id: {mid}{Style.RESET_ALL}")
 
     _mark_sent_today()
+    _record_history(digest)
     print(f"\n  {Fore.GREEN}✓ Done.{Style.RESET_ALL}")
 
 

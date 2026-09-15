@@ -6,6 +6,7 @@ email_classifier.py vs classifier.py. Used only by send_morning_brief.py.
 """
 from __future__ import annotations
 
+import asyncio
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -14,6 +15,7 @@ import anthropic
 import config
 import humanizer
 import stats
+from classifier import CreditBalanceError
 
 _ISRAEL_TZ = ZoneInfo("Asia/Jerusalem")
 
@@ -128,6 +130,89 @@ def _style_addendum(profile: dict) -> str:
 {ex_str or "  —"}
 
 ⛔ אסור בתכלית האיסור, גם אם מופיע למעלה: "מטורף", "מבסוט", "כסף על הרצפה", "הזדמנות פז", FOMO מכל סוג, המלצות קנייה/מכירה, פתיחה ב"חבר'ה", "אוקיי?"/"אוקי?"/"נכון?", ו-"אשכרה" יותר מפעם ביום."""
+
+
+# ── Cross-day dedup (against previously-sent briefs) ────────────────────────
+# email_digest.json is rebuilt fresh every morning with no memory of what
+# yesterday's brief actually sent (world/tech are re-classified straight
+# from RSS; business is just "approved for WhatsApp in the last 24h") — so
+# the same story (e.g. an Anthropic or Nvidia item still circulating a day
+# later) could repeat across consecutive mornings undetected. This checks
+# each candidate against config.MORNING_BRIEF_HISTORY_PATH, the last
+# MORNING_BRIEF_HISTORY_DAYS of what was actually included, using the same
+# "specific new event, not just more coverage" rule as classifier.py's
+# topic_dedup_filter (which does this for the per-article WhatsApp bot).
+
+def _history_check_system() -> str:
+    return _CONTEXT + "\n\n" + f"""אתה בודק כפילויות בין ידיעות שכבר נכללו בבריפים קודמים לבין ידיעה מועמדת לבריף היום.
+
+חוק ברזל: אם הנושא כבר כוסה באחד הבריפים ב-{config.MORNING_BRIEF_HISTORY_DAYS} הימים האחרונים — סנן החוצה, אלא אם יש אירוע חדש ספציפי.
+
+"אירוע חדש ספציפי" = נתון חדש שפורסם, החלטה שהתקבלה, שינוי כיוון מפתיע, הכרזה רשמית.
+"לא אירוע חדש" = ניתוח נוסף של אותו מצב, פרשנות, עדכון שוטף, עוד פרטים על אותו הסיפור.
+
+ענה "כן" רק אם יש אירוע חדש ספציפי שלא הופיע בבריפים הקודמים.
+ענה "לא" בכל מקרה אחר — כולל כשהכותרת שונה אך הנושא זהה.
+ענה רק "כן" או "לא", ללא הסבר."""
+
+
+async def cross_day_dedup_filter(items: list[dict], history: list[dict]) -> list[dict]:
+    """Drop items whose story already appeared in a recent morning brief,
+    unless Claude identifies a specific new event. Both `items` and
+    `history` entries need "title" and "topics"."""
+    if not history or not items:
+        return items
+
+    history_context = "\n".join(
+        f"- {h.get('date', '')}: {h.get('title', '')} | נושאים: {', '.join(h.get('topics') or ['—'])}"
+        for h in history
+    )
+
+    client    = anthropic.AsyncAnthropic(api_key=config.ANTHROPIC_API_KEY)
+    semaphore = asyncio.Semaphore(config.MAX_CONCURRENT_CLAUDE)
+
+    async def _check_one(it: dict) -> dict | None:
+        async with semaphore:
+            try:
+                resp = await client.messages.create(
+                    model=config.CLAUDE_CLASSIFIER_MODEL,
+                    max_tokens=16,
+                    system=_history_check_system(),
+                    messages=[{"role": "user", "content":
+                        f"ידיעה מועמדת: {it.get('title', '')}\n"
+                        f"נושאים: {', '.join(it.get('topics') or [])}\n\n"
+                        f"בריפים קודמים ({config.MORNING_BRIEF_HISTORY_DAYS} ימים אחרונים):\n{history_context}\n\n"
+                        "האם הידיעה המועמדת מביאה אירוע חדש ספציפי (לא רק ניתוח נוסף של אותו מצב)?"
+                    }],
+                )
+                stats.record(
+                    resp.usage.input_tokens,
+                    resp.usage.output_tokens,
+                    model=config.CLAUDE_CLASSIFIER_MODEL,
+                )
+                answer = resp.content[0].text.strip()
+            except CreditBalanceError:
+                raise
+            except Exception as exc:
+                print(f"  [morning-brief-dedup] ⚠ Check error for '{it.get('title', '')[:40]}': {exc}")
+                return it
+
+        if answer.startswith("לא"):
+            print(f"  [morning-brief-dedup] ⏭ Skipping '{it.get('title', '')[:55]}' — already covered")
+            return None
+        return it
+
+    tasks   = [_check_one(it) for it in items]
+    results = await asyncio.gather(*tasks, return_exceptions=True)
+    out: list[dict] = []
+    for r in results:
+        if isinstance(r, CreditBalanceError):
+            raise r
+        if isinstance(r, Exception):
+            print(f"  [morning-brief-dedup] ⚠ Unexpected error: {r}")
+        elif r is not None:
+            out.append(r)
+    return out
 
 
 # ── Dedup review pass ────────────────────────────────────────────────────
