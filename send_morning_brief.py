@@ -22,6 +22,7 @@ from __future__ import annotations
 import argparse
 import asyncio
 import json
+import re
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -97,6 +98,30 @@ def _record_history(digest: dict) -> None:
     )
 
 
+def _strip_watchlist_from_business(digest: dict) -> None:
+    """A watchlist company's news belongs only in "מניות הבית" (see
+    morning_brief_composer._SYSTEM_BASE section 5) — enforced here in code,
+    not just prompted, so it's guaranteed rather than best-effort. Mutates
+    digest["business"] in place."""
+    business = digest.get("business", [])
+    if not business or not config.WATCHLIST_STOCKS:
+        return
+
+    needles: list[re.Pattern] = []
+    for w in config.WATCHLIST_STOCKS:
+        needles.append(re.compile(rf"\b{re.escape(w['symbol'])}\b", re.IGNORECASE))
+        needles.append(re.compile(rf"\b{re.escape(w['name'])}\b", re.IGNORECASE))
+
+    kept = [it for it in business if not any(p.search(it.get("title", "")) for p in needles)]
+    dropped = len(business) - len(kept)
+    if dropped:
+        print(
+            f"  {Fore.YELLOW}Business: dropped {dropped} watchlist-company item(s) "
+            f"— belongs only in מניות הבית{Style.RESET_ALL}"
+        )
+    digest["business"] = kept
+
+
 def _is_shabbat() -> bool:
     """True from Friday 17:00 until Sunday 09:00 (Israel time) — mirrors main.py."""
     now = datetime.now(_ISRAEL_TZ)
@@ -116,6 +141,7 @@ async def _compose() -> tuple[str, dict]:
         )
         sys.exit(1)
     digest = json.loads(config.EMAIL_DIGEST_PATH.read_text(encoding="utf-8"))
+    _strip_watchlist_from_business(digest)
 
     history = _load_history()
     if history:
