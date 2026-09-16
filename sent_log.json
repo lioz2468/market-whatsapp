@@ -708,7 +708,8 @@
     "d86717b4ae55430c": "2026-09-15T14:01:42.317704+00:00",
     "264cce4c93098a23": "2026-09-15T15:31:38.432402+00:00",
     "8977bb5e201e9e0b": "2026-09-15T17:01:43.098462+00:00",
-    "e2b9a4ec86a8974a": "2026-09-15T18:31:41.149651+00:00"
+    "e2b9a4ec86a8974a": "2026-09-15T18:31:41.149651+00:00",
+    "aaf5f6a42fa69750": "2026-09-16T05:01:29.753552+00:00"
   },
   "messages": [
     {
@@ -10052,7 +10053,21 @@
         "הון סיכון",
         "פיתוח תוכנה"
       ]
+    },
+    {
+      "sent_at": "2026-09-16T05:01:29.753552+00:00",
+      "title": "OPENAI WEIGHS NEW FUNDING ROUND AT $1.2 TRILLION VALUATION OpenAI has held early talks with investors about another private funding round that could value the company at roughly $1.2T, up from $852B in March. The discussions were reportedly initiated by investors and are still https://t.co/Dzb0Wp12Vr",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2099981375780880671",
+      "message": "OpenAI מגייסת שוב - הפעם בשווי של 1.2 טריליון דולר, קפיצה מ-852 מיליארד רק מחודש מרץ. מה שמעניין: הסבב הזה יזם על ידי המשקיעים עצמם, לא על ידי החברה.\n\nזה אומר שיש ביקוש אמיתי, לא רק גיוס מתוך צורך. ההשפעה העקיפה: כשOpenAI מתומחרת כך, זה מושך את הרף כלפי מעלה לכל חברות ה-AI הפרטיות - ומגביר את הלחץ על Anthropic, xAI ואחרות לגייס במחירים גבוהים גם הן.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "הון סיכון",
+        "היוון"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-15T18:30:40.295066+00:00"
+  "last_auto_run": "2026-09-16T05:00:34.105112+00:00"
 }
