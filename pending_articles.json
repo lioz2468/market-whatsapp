@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "final_message": "Generac קפצה ב-30% אחרי שאמזון הזמינה ממנה גנרטורי גיבוי בהיקף של 2.4 מיליארד דולר.\n\nלמה זה מעניין: הביקוש לחשמל של מרכזי הנתונים כבר לא תיאורטי - אמזון חותמת עסקאות ענק עם ספקי תשתית פיזית. זה לא רק טוב ל-Generac - זה אות לכל שרשרת האספקה שמאחורי ה-AI: חברות תשתית חשמל, קירור, ותחזוקה שרובנו לא מכירים לפי שם. הכסף זורם רחוק מהרדאר.",
+    "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
+    "source": "MarketWatch",
+    "hash": "da5938ae0a60aa66",
+    "importance": 8,
+    "tag": "ארה\"ב",
+    "topics": [
+      "AI",
+      "אנרגיה",
+      "אמזון"
+    ]
+  }
+]
