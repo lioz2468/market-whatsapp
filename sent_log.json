@@ -738,7 +738,8 @@
     "ef810370016a8c86": "2026-09-18T14:01:12.258208+00:00",
     "fb468ae324a2ef27": "2026-09-18T15:31:15.185631+00:00",
     "acf1ef42bdc0ac91": "2026-09-18T17:00:38.047665+00:00",
-    "242cb211e2ab3ee8": "2026-09-18T18:31:22.318967+00:00"
+    "242cb211e2ab3ee8": "2026-09-18T18:31:22.318967+00:00",
+    "51220b7c6e3d8071": "2026-09-19T05:01:24.868779+00:00"
   },
   "messages": [
     {
@@ -10505,7 +10506,21 @@
         "אנרגיה",
         "תזרים"
       ]
+    },
+    {
+      "sent_at": "2026-09-19T05:01:24.868779+00:00",
+      "title": "ANTHROPIC EXPECTS $100B+ ARR AHEAD OF IPO The Claude maker’s revenue run rate is expected to exceed $100B by year-end, up from $65B in July. Anthropic could publicly release its IPO filing in the coming weeks, putting shares on track to begin trading as soon as November. https://t.co/he9OAaurNm",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2101042482960298252",
+      "message": "Anthropic - החברה מאחורי Claude - צפויה לסיים את 2025 עם קצב הכנסות שנתי של מעל 100 מיליארד דולר, לעומת 65 מיליארד ביולי בלבד. הצמיחה הזו מגיעה בדיוק כשהחברה מתכננת להגיש בקרוב את מסמכי ה-IPO שלה, עם יעד לתחילת מסחר כבר בנובמבר.\n\nמה שמעניין כאן זה לא רק Anthropic עצמה - הנפקה של חברת AI בסדר גודל כזה תגרור תשומת לב עצומה למגזר כולו: OpenAI, Mistral וחברות שתלויות בתשתית שהן בנו. בלי לדבר על ההשפעה על הביקוש לשבבים.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "IPO",
+        "AI",
+        "צמיחה"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-18T18:30:31.717166+00:00"
+  "last_auto_run": "2026-09-19T05:00:34.205079+00:00"
 }
