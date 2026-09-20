@@ -1,377 +1,375 @@
 {
-  "generated_at": "2026-09-19T07:57:20.534113+00:00",
+  "generated_at": "2026-09-20T08:28:18.447495+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "US and Denmark reach deal to build US military presence in Greenland",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-      "summary": "President Donald Trump says he has a deal with Denmark to bolster the U.S. military presence in Greenland. The announcement comes after months of threatening to take the island by force from the NATO ally.",
-      "importance": 8,
-      "topics": [
-        "גרינלנד",
-        "ארצות הברית",
-        "דנמרק"
-      ],
-      "published": "Sat, 19 Sep 2026 00:44:46 -0400"
-    },
-    {
-      "title": "Could US pull one-third of troops from Europe? What that would mean",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean?traffic_source=rss",
-      "summary": "US Pentagon is reportedly considering proposals for reducing military footprint across the Atlantic.",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "importance": 8,
       "topics": [
         "ארה״ב",
+        "דנמרק",
+        "NATO"
+      ],
+      "published": "Sat, 19 Sep 2026 23:00:27 GMT"
+    },
+    {
+      "title": "Mass Ukrainian drone attack on Moscow kills two, Russia says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
+      "summary": "Moscow mayor reports intercepting 1,600 drones during 'unprecedented' attack, accusing Ukraine of election interference.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
+      ],
+      "published": "Sun, 20 Sep 2026 06:57:05 +0000"
+    },
+    {
+      "title": "\"תנאי הכניעה\" של איראן, האיום הגרעיני החדש - והחשש מחולשת הסעודים: \"לא יצליחו לבד\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rkxvjvnyzg",
+      "summary": "טראמפ איים ב\"חיסול\" איראן אבל גם פתח דלת למו\"מ - ובאיראן הודיעו ששלחו \"7 תנאים\" לחזרה לשיחות: \"אין לכם ברירה אלא לקבל את זכויותינו ותנאינו\", הצהיר הבכיר מוחסן רזאי, שאיים בפרישה מהאמנה למניעת הפצת נשק גרעיני. הוא טען שהפתווה נגד פיתוח פצצה עדיין בתוקף - אך לא שלל שינוי: \"איננו יודעים מה צופן העתיד\". וגם: החשש שהבליץ החות'י בתימן \"מעודד\" את משמרות המהפכה",
+      "importance": 8,
+      "topics": [
+        "איראן",
+        "גרעין",
+        "טראמפ"
+      ],
+      "published": "Sun, 20 Sep 2026 00:29:00 +0300"
+    },
+    {
+      "title": "Saudi Arabia says Houthis tried to attack its capital",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+      "summary": "Saudi Arabia on Saturday said that Yemen's Houthi rebels tried to attack Riyadh with a ballistic missile, the first time the Saudi capital has been targeted since the escalation in fighting with the Iran-backed rebels opened a new front in the Iran war.",
+      "importance": 7,
+      "topics": [
+        "סעודיה",
+        "חוות",
+        "איראן"
+      ],
+      "published": "Sat, 19 Sep 2026 23:57:23 -0400"
+    },
+    {
+      "title": "France, Poland and European allies warn of escalating Russian 'hybrid' attacks",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks",
+      "summary": "The leaders of France, Poland, and other leading European nations are alarmed over what they describe as Russian \"hybrid\" attacks.",
+      "importance": 7,
+      "topics": [
+        "רוסיה",
         "אירופה",
         "ביטחון"
       ],
-      "published": "Sat, 19 Sep 2026 06:30:24 +0000"
+      "published": "Sat, 19 Sep 2026 07:40:48 -0400"
     },
     {
-      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
-      "summary": "Russia's parliamentary election for the first time is being held in Ukraine's regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago.",
+      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "summary": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
       "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "בחירות"
+        "מלחמה"
       ],
-      "published": "Sat, 19 Sep 2026 02:39:57 -0400"
+      "published": "Sun, 20 Sep 2026 07:22:04 GMT"
     },
     {
-      "title": "Syrian regime planned American journalist's kidnapping for weeks",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
-      "summary": "New reporting finds the abduction of journalist Austin Tice was planned by the Syrian government for weeks.",
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
       "importance": 7,
       "topics": [
-        "סוריה",
+        "גרמניה",
+        "בחירות",
+        "אירופה"
+      ],
+      "published": "Sun, 20 Sep 2026 07:57:32 GMT"
+    },
+    {
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "importance": 7,
+      "topics": [
+        "טכנולוגיה",
         "ארצות הברית",
-        "זכויות אדם"
+        "בינה מלאכותית"
       ],
-      "published": "Fri, 18 Sep 2026 15:13:52 -0400"
+      "published": "Sat, 19 Sep 2026 21:01:56 GMT"
     },
     {
-      "title": "Trump signs sweeping Russia sanctions bill",
+      "title": "Google's Gemini AI hacked three companies in security test",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "importance": 7,
+      "topics": [
+        "טכנולוגיה",
+        "בינה מלאכותית",
+        "סייבר"
+      ],
+      "published": "Sat, 19 Sep 2026 13:39:32 GMT"
+    },
+    {
+      "title": "Journalists locked out of the White House after Trump ban",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
+      "summary": "Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets.",
       "importance": 7,
       "topics": [
         "ארצות הברית",
-        "רוסיה",
-        "אוקראינה"
+        "דמוקרציה",
+        "תקשורת"
       ],
-      "published": "Fri, 18 Sep 2026 22:05:47 GMT"
-    },
-    {
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "importance": 7,
-      "topics": [
-        "פקיסטן",
-        "טרור",
-        "ביטחון"
-      ],
-      "published": "Fri, 18 Sep 2026 20:17:50 GMT"
-    },
-    {
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-      "importance": 7,
-      "topics": [
-        "רוסיה",
-        "אירופה",
-        "ביטחון"
-      ],
-      "published": "Fri, 18 Sep 2026 18:04:38 GMT"
-    },
-    {
-      "title": "Trump ‘settled for less’ with new US-Denmark Greenland security deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-settled-for-less-with-new-us-denmark-greenland-security-deal?traffic_source=rss",
-      "summary": "The US-Denmark Greenland security deal gives Trump an agreement without delivering his ambition to annex the territory.",
-      "importance": 7,
-      "topics": [
-        "ארה״ב",
-        "דנמרק",
-        "גיאופוליטיקה"
-      ],
-      "published": "Sat, 19 Sep 2026 07:35:05 +0000"
-    },
-    {
-      "title": "Indonesia ferry search: Divers retrieve three bodies, 126 people missing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/operations-to-right-capsized-ferry-begin-as-126-people-remain-missing?traffic_source=rss",
-      "summary": "Bad weather has pushed authorities to begin operations to right the capsized ferry.",
-      "importance": 7,
-      "topics": [
-        "אינדונזיה",
-        "אסון",
-        "בטיחות"
-      ],
-      "published": "Sat, 19 Sep 2026 05:24:06 +0000"
-    },
-    {
-      "title": "Trump bans CNN, MS NOW, Politico from the White House",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss",
-      "summary": "Trump bans CNN, MS NOW and Politico from the White House, accusing them of ‘fake news.’",
-      "importance": 7,
-      "topics": [
-        "ארה״ב",
-        "עיתונות",
-        "פוליטיקה"
-      ],
-      "published": "Sat, 19 Sep 2026 04:28:54 +0000"
+      "published": "Sun, 20 Sep 2026 05:43:01 +0000"
     }
   ],
   "business": [
     {
-      "title": "BOJ HIKES RATES TO 1.25%, HIGHEST LEVEL IN 31 YEARS The Bank of Japan 🇯🇵 raised rates by 25 bps in a 7-2 vote, just three months after its last hike, marking its fastest tightening pace since 1990. The BOJ said inflation risks remain tilted to the upside and reiterated that it https://t.co/CcDDU24Q0t",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2100878973077217667",
-      "summary": "הבנק המרכזי של יפן העלה את הריבית ל-1.25% - הרמה הגבוהה ביותר מזה 31 שנה. ההחלטה התקבלה ברוב של 7-2, רק שלושה חודשים אחרי ההעלאה הקודמת - קצב ההידוק המהיר ביותר מאז 1990.\n\nלמה זה משנה מעבר ליפן: שנים שהיין היה מטבע ה\"carry trade\" הגדול בעולם - משקיעים לוו בזול ביין והשקיעו בכל מקום אחר. ככל שהריבית שם עולה, ההיגיון הזה מתפרק - וזה יוצר לחץ על נכסים ברחבי העולם, כולל מניות ואגרות חוב.",
+      "title": "Europe’s Winter Power Surge Is Biggest Since Energy Crisis",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-19/europe-s-winter-power-surge-is-biggest-since-energy-crisis",
+      "summary": "מחירי החשמל באירופה רושמים את הזינוק החד ביותר שלהם מאז משבר האנרגיה של 2022. שוקי החשמל מאותתים שהחורף הקרוב עלול להיות הכי מאתגר מבחינה אנרגטית מאז אז.\n\nלמה זה חשוב מעבר לחשבון החשמל האירופי: תעשיות עתירות אנרגיה - כימיה, פלדה, אלומיניום - נלחצות ראשונות, מה שמתגלגל לעלויות ייצור גבוהות יותר בכל שרשרת האספקה. זה גם לחץ ישיר על הבנקים המרכזיים שמנסים לבלום אינפלציה.",
       "importance": 9,
       "topics": [
-        "בנק יפן",
-        "ריבית",
-        "אינפלציה",
-        "מדיניות מוניטרית"
+        "אנרגיה",
+        "אירופה",
+        "חשמל"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "ANTHROPIC EXPECTS $100B+ ARR AHEAD OF IPO The Claude maker’s revenue run rate is expected to exceed $100B by year-end, up from $65B in July. Anthropic could publicly release its IPO filing in the coming weeks, putting shares on track to begin trading as soon as November. https://t.co/he9OAaurNm",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2101042482960298252",
-      "summary": "Anthropic - החברה מאחורי Claude - צפויה לסיים את 2025 עם קצב הכנסות שנתי של מעל 100 מיליארד דולר, לעומת 65 מיליארד ביולי בלבד. הצמיחה הזו מגיעה בדיוק כשהחברה מתכננת להגיש בקרוב את מסמכי ה-IPO שלה, עם יעד לתחילת מסחר כבר בנובמבר.\n\nמה שמעניין כאן זה לא רק Anthropic עצמה - הנפקה של חברת AI בסדר גודל כזה תגרור תשומת לב עצומה למגזר כולו: OpenAI, Mistral וחברות שתלויות בתשתית שהן בנו. בלי לדבר על ההשפעה על הביקוש לשבבים.",
-      "importance": 9,
+      "title": "Stocks face a key hurdle in next week’s U.S.-China summit. Here’s what’s at stake",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html",
+      "summary": "פגישת הסיכום בין ארה\"ב לסין שבוע הבא היא אחד האירועים המשמעותיים ביותר לשווקים ברבעון הזה. ה-S&P 500 וה-Dow סיימו את השבוע בירידות על רקע עלייה בתשואות האג\"ח - וה-summit הזה יכול לשנות את התמונה לכל כיוון.\n\nמה באמת בסכנה: אם השיחות ייכשלו או יתקעו, תשואות האג\"ח יכולות להמשיך לטפס - וזה לוחץ על כל מי שלווה בזול, מחברות נדל\"ן ועד סטארטאפים. מצד שני, פריצת דרך קטנה יכולה להחזיר את האופטימיות לשווקים מהר מאוד.",
+      "importance": 8,
       "topics": [
-        "IPO",
-        "AI",
-        "צמיחה"
+        "סחר בינ״ל",
+        "מטבע",
+        "שווקים"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+      "title": "A new arms race is unfolding on the ocean floor",
       "source": "CNBC Top News",
       "url": "",
-      "summary": "בנק יפן העלה את הריבית ל-0.5% - הרמה הגבוהה ביותר מאז 1994. ההחלטה עברה 7-2, מה שמראה שזה לא היה פשוט.\n\nלמה זה חשוב? יפן שמרה על ריבית אפסית שנים ארוכות, ועכשיו היא בשלב אמיתי של שינוי כיוון. כשכסף יפני יקר יותר, ה-carry trade - הלוואה בין ריביות נמוכות - הופך לפחות אטרקטיבי, וזה יכול לזעזע שווקים רחוקים מיפן. מי שצריך לשים לב: שווקי מט\"ח, בורסות אסיה, ואפילו אג\"ח אמריקאיות.",
+      "summary": "תשתית הים העמוק הפכה לזירת תחרות חדשה. מדינות וחברות גדולות מזרימות השקעות לטכנולוגיות תת-ימיות, על רקע חשש גובר לגבי הפגיעות של כבלי האינטרנט והצינורות שעוברים בקרקעית הים.\n\nהסיבה לדאגה ברורה: כ-95% מתעבורת האינטרנט הגלובלית עוברת דרך כבלים תת-ימיים. פגיעה בהם - בין אם מכוונת ובין אם לאו - משמעותה שיבוש של שרשראות אספקה דיגיטליות, פיננסים ותקשורת. מי שלא נמצא על המפה עכשיו, עלול להיות תלוי בתשתית של מישהו אחר.",
       "importance": 8,
       "topics": [
-        "ריבית",
-        "בנק ציבורי",
-        "אינפלציה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "source": "TechCrunch",
-      "url": "",
-      "summary": "Crusoe גייסה 3.9 מיליארד דולר לבניית מרכזי נתונים ומפעלי AI מודולריים קטנים - והערכת השווי שלה עומדת על 30.9 מיליארד דולר.\n\nזה לא עוד סיבוב גיוס. זה כסף מוסדי כבד שנכנס לפתרון אחד מצווארי הבקבוק הכי קריטיים ב-AI: כוח חישובי. כולם מדברים על מודלים, אבל הקרב האמיתי הוא על תשתיות.\n\nמי שצריך לשים לב: חברות חשמל ואנרגיה, יצרני ציוד קירור ותשתיות - הביקוש שלהן הולך לגדול בצורה משמעותית.",
-      "importance": 8,
-      "topics": [
-        "AI",
         "תשתיות",
-        "השקעה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
-      "summary": "Anthropic ו-OpenAI כבר לא מחפשות רק מגה-מתקנים - הן עוברות לעסקאות קטנות יותר של מרכזי נתונים, לפי CNBC. הסיבה פשוטה: מרכזי נתונים גדולים לוקחים שנים לבנות, והביקוש לא מחכה. עסקאות קטנות יותר מאפשרות להן לפרוס קיבולת מהר יותר. מי שצריך לשים לב: ספקיות תשתיות קטנות ובינוניות שעד עכשיו לא היו ברדאר - הן עלולות להפוך לשחקניות מרכזיות בשרשרת הזו.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "בנייה-מחשוב",
+        "ביטחון סייבר",
         "השקעות"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
-      "source": "CNBC World",
-      "url": "",
-      "summary": "טויוטה הודיעה שהיא מתכננת להשקיע 6.4 מיליארד דולר בשנה מ-2028 באוטומציה ורובוטיקה במפעלים שלה. זה אחד הצעדים התעשייתיים הגדולים ביותר שראינו בשנים האחרונות.\n\nהסיבה ברורה - עלויות עבודה עולות בכל מקום בעולם, וטויוטה רוצה לשמור על שולי רווח. אבל ההשלכה שפחות מדברים עליה: כשיצרנית הרכב הגדולה בעולם עושה צעד כזה, זה לחץ אמיתי על מתחרות כמו Stellantis ו-GM לעשות את אותו הדבר - מהר.",
+      "title": "Buffett Son Takes Chair as Berkshire Transition Ends",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-19/buffett-son-takes-chair-as-berkshire-transition-ends-video",
+      "summary": "וורן באפט סיים רשמית את תפקידו כיו\"ר Berkshire Hathaway אחרי יותר משישים שנה. בנו הווארד לוקח את כיסא היו\"ר, וגרג אייבל נשאר מנכ\"ל - בדיוק כמו שתוכנן.\n\nהווארד לא אמור לנהל את ההשקעות - הוא שם כדי לשמור על התרבות הארגונית של החברה. זה מבנה מעניין: מנכ\"ל שמנהל את העסק, ויו\"ר שמגן על הזהות.\n\nמה שפחות מדוברים: קרנות ה-index שמחזיקות Berkshire יצטרכו להעריך מחדש את מדיניות ההצבעה שלהן למנהיגות חדשה, וחברות שהיו ממתינות לאיתות מ-באפט לפני מהלכים גדולים - עכשיו פחות ברור למי להסתכל.",
       "importance": 8,
       "topics": [
-        "אוטומציה",
-        "יצור",
-        "השקעות הון"
+        "ברקשייר האת'וויי",
+        "מעבר שלטון",
+        "השקעות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/warshs-fed-shows-its-serious-about-taming-inflation-why-wall-street-now-believes-it-55dc5af5?mod=mw_rss_topstories",
+      "summary": "הפד מסמן שהוא מתכנן להוריד את האינפלציה ל-2% עד 2029 - עם העלאות ריבית מתונות בלבד. וול סטריט מתחילה להאמין לו.\n\nזה שינוי טון משמעותי. אחרי יותר מחמש שנים שבהן הפד הבטיח ולא הצליח, השוק עדיין זוכר. אבל עכשיו משהו בתקשורת של הפד נשמע אחרת - יותר רציני, יותר מחויב.\n\nלמה זה חשוב גם למי שלא עוקב אחרי הריבית האמריקאית? כי ציפיות לאינפלציה יציבה בארה\"ב מאפשרות לבנקים מרכזיים אחרים, כולל בנק ישראל, לנשום ולקבל החלטות בצורה עצמאית יותר.",
+      "importance": 8,
+      "topics": [
+        "פד",
+        "אינפלציה",
+        "ריבית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Buffett takes next step in plan to keep Berkshire from straying",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
+      "summary": "וורן באפט העביר רשמית את כס היו\"ר של Berkshire Hathaway לבנו האוורד - וזה לא סתם שינוי תפקיד. הרעיון הוא שהאוורד ישמש כסוג של שומר ערכים, כדי שהחברה לא תסטה מהתרבות שבנה אביו לאורך עשרות שנים. זה שלב נוסף בתוכנית יציאה מוסדרת שבאפט תכנן זמן רב. מי שכדאי לעקוב אחריו עכשיו זה גרג אבל, שמנהל את הצד התפעולי - כי הוא זה שבאמת יקבע לאן הולכת הספינה.",
+      "importance": 8,
+      "topics": [
+        "השקעות",
+        "בכיר",
+        "זרימת הון"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "summary": "חוקרי אבטחה השתמשו ב-Claude של Anthropic כדי לפרוץ למערכות של OpenAI - השתלטו על חשבונות עובדים וגישה למאגר קוד פנימי, לפני שדיווחו על הממצאים. זה לא תרחיש תיאורטי: AI אחד שובר את ההגנות של AI אחר. הנקודה המעניינת היא ההשלכה הרגולטורית - רגולטורים בארה\"ב ובאירופה שמחפשים סיבות להגביל את תעשיית ה-AI, זה בדיוק סוג הכותרת שמאיץ חקיקה. שתי החברות יוצאות מזה עם שאלות שקשה לענות עליהן.",
+      "title": "Trump is creating an “AI Force” & will name an AI czar. He says the U.S. will not slow or stifle AI development. Trump says AI could eventually account for as much as 25% of U.S. GDP. https://t.co/Ti2DjTPtpI",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2101364540013514866",
+      "summary": "טראמפ הכריז על הקמת \"כוח AI\" ממשלתי ועל מינוי \"ממונה על AI\" ברמה הלאומית. המסר ברור: אמריקה לא מתכוונת להאט את קצב הפיתוח - להפך. הוא אפילו זרק מספר: עד 25% מהתמ\"ג האמריקאי יכול בסופו של דבר לנבוע מ-AI.\n\nמה שמעניין כאן הוא ההשפעה העקיפה: מדיניות כזו שמה לחץ על האיחוד האירופי ועל סין להגיב. וחברות רגולציה, ביטוח וציות שצמחו על גל הרגולציה של AI - עלולות למצוא את עצמן פחות רלוונטיות בשוק האמריקאי.",
       "importance": 8,
       "topics": [
-        "בטיחות סייבר",
         "AI",
-        "תחרות",
-        "OpenAI"
+        "מדיניות",
+        "טכנולוגיה"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "U.S. judge signals rejection of part of TikTok $400 million privacy settlement",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/19/us-judge-signals-rejection-of-part-of-tiktok-privacy-settlement.html",
+      "summary": "פסק הדין של שופט אמריקאי בעניין ההסדר של TikTok מראה שזה לא נגמר בקלות. TikTok הסכימה לשלם 400 מיליון דולר - 300 מיליון ישירות, ועוד 100 מיליון אם בית המשפט יבטל צו מ-2019 שהוטל על Musical.ly, הפלטפורמה שמה שהפכה ל-TikTok. השופט מסמן שהוא לא מקבל חלק מההסדר, מה שמשאיר את הסאגה הרגולטורית פתוחה. מעניין כי כל החלטה פה משפיעה ישירות על Meta ו-YouTube - ככל שהדרישות מ-TikTok מחמירות, כך גדל הלחץ הרגולטורי על כולן.",
+      "importance": 7,
+      "topics": [
+        "רגולציה",
+        "TikTok",
+        "פיקוח",
+        "פרטיות"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Czech Republic nears deal for Rafael’s Spyder system",
-      "source": "גלובס כללי",
+      "title": "Venezuela, TotalEnergies Pave Way for Oil Company’s Return",
+      "source": "Bloomberg Markets",
       "url": "",
-      "summary": "עסקת הגנה של מיליארדי דולרים עומדת להיסגר בין צ'כיה לרפאל, סביב מערכת ההגנה האווירית ספיידר (Spyder). זו עסקה משמעותית ביותר לתעשייה הביטחונית הישראלית - לא רק בגלל הסכום, אלא כי היא מחזקת את המעמד של ישראל כספקית ביטחון מרכזית לאירופה, בדיוק כשהיבשת מגדילה תקציבי הגנה בקצב שלא ראינו עשרות שנים. צריך לעקוב גם אחרי אלביט - הצלחות של רפאל בשוק הזה פותחות דלתות לכולם בסקטור.",
-      "importance": 8,
+      "summary": "ונצואלה וחברת TotalEnergies הצרפתית חתמו על הסכם עקרונות שפותח את הדרך לחזרת החברה לפעילות בוונצואלה - אחד ממאגרי הנפט הגדולים בעולם, שנים אחרי שנסוגה מהשוק.\n\nמה שמעניין פה הוא הסיגנל הגיאופוליטי: חברות מערביות גדולות מתחילות לבדוק מחדש את ונצואלה, למרות הסנקציות האמריקאיות. אם התהליך יתקדם, זה עלול ללחוץ על מחירי הנפט הגלובליים - וגם על ההכנסות של מדינות מפרץ שמרוויחות מהתנודתיות.",
+      "importance": 7,
       "topics": [
-        "הגנה",
-        "Rafael",
-        "ייצוא",
+        "אנרגיה",
+        "נפט",
+        "גיאופוליטיקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "WeSure acquiring control of Altshuler Shaham Finance",
+      "source": "גלובס שוק ההון",
+      "url": "",
+      "summary": "וי-שור רוכשת את השליטה באלטשולר שחם פיננסים - זה עסקה שכדאי לשים אליה לב.\n\nאלטשולר שחם פיננסים היא הזרוע הציבורית של בית ההשקעות, ומנהלת קרנות פנסיה וקופות גמל. העסק נמצא בירידה כבר תקופה, מה שהפך אותו ליעד רכישה אטרקטיבי. וי-שור, שעד כה הייתה שחקן צנוע יחסית בשוק הביטוח, קופצת לליגה אחרת במהלך אחד.\n\nמעניין לראות מה זה אומר לחוסכים הפנסיוניים שמנוהלים שם - ולחברות הביטוח והפנסיה האחרות שייאלצו להתמודד עם מתחרה חדש עם שאיפות גדולות.",
+      "importance": 7,
+      "topics": [
+        "מיזוגים",
+        "פיננסים",
         "השקעות"
       ],
       "tag": "ישראל"
-    },
-    {
-      "title": "Saudis Give European Oil Buyers No Supplies for Next Month",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/saudis-tell-european-refiners-they-ll-get-no-crude-next-month",
-      "summary": "ארמקו הסעודית הודיעה לשני לקוחות זיקוק אירופיים לפחות שהם לא יקבלו נפט גולמי החודש הבא - לאחר שצינור מפתח לים האדום הותקף.\n\nזה לא רק בעיה של אספקה. כשסעודיה לא מספקת, אירופה צריכה להחליף מקור בזמן אמת - וזה בדרך כלל אומר נפט יקר יותר מנורווגיה, ארה\"ב או המפרץ. ספנות, זיקוק ומחירי הנפט הגולמי כולם עלולים להגיב. שווה לעקוב אחרי Brent השבוע.",
-      "importance": 8,
-      "topics": [
-        "נפט",
-        "אנרגיה",
-        "תזרים"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Buffett Hands Berkshire Chairman’s Seat to Son Howard",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "וורן באפט מעביר את כס היו\"ר של Berkshire Hathaway לבנו הווארד - זה רשמי.\n\nגרג אבל ימשיך לנהל את העסקים בפועל כ-CEO, אבל הסמל חשוב: משפחת באפט שומרת על השליטה הערכית בחברה. זה לא רק ירושה - זו הצהרה שהתרבות של Berkshire לא הולכת לשום מקום.\n\nמה שמעניין פחות ברור: עשרות החברות הבנות של Berkshire - מביטוח ועד רכבות - ינוהלו עכשיו תחת שני מרכזי כוח. יהיה מעניין לראות איך זה משפיע על קבלת ההחלטות לאורך זמן.",
-      "importance": 8,
-      "topics": [
-        "מחנות",
-        "שחיקה",
-        "קריפטו"
-      ],
-      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't […]",
       "importance": 8,
       "topics": [
         "AI",
-        "OpenAI",
-        "Microsoft"
+        "Google",
+        "אבטחה"
       ],
-      "published": "2026-09-18T17:07:24-04:00"
+      "published": "2026-09-19T11:25:03-04:00"
     },
     {
-      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-      "summary": "But the military's overall use of AI seems to be accelerating.",
-      "importance": 8,
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "importance": 7,
       "topics": [
         "AI",
-        "בטיחות",
-        "צבא"
+        "Google",
+        "אבטחה"
       ],
-      "published": "Fri, 18 Sep 2026 20:26:33 +0000"
+      "published": "Sat, 19 Sep 2026 17:30:00 +0000"
     },
     {
-      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-      "summary": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
-      "importance": 8,
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "רגולציה",
+        "אנטי-טראסט"
+      ],
+      "published": "2026-09-19T10:00:00-04:00"
+    },
+    {
+      "title": "It’s not just LG. Every TV company is spying on you",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+      "summary": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you watch, and could even be hacked remotely and turned into covert surveillance […]",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "פרטיות",
+        "טלוויזיה"
+      ],
+      "published": "2026-09-19T09:00:00-04:00"
+    },
+    {
+      "title": "ג'מיני פרץ ל-3 חברות בבדיקה של חברה ישראלית, וגוגל ניסתה להסתיר את זה",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/google-did-not-disclose-gemini-incident-involving-irregular/",
+      "summary": "לגוגל יש מסורת של איחורים בתחום ה-AI, בין אם זו העובדה שהיא נתפסה עם המכנסיים למטה בהשקת ChatGPT, או שהיא עדיין לא מצליחה להשיק את הגירסה החדשה של Gemini ונשארת מאחור בעוד כל שאר החברות מזנקות קדימה. ובסוף השבוע האחרון נחשף עוד תחום שבו גוגל נשארה מאחור: דיווח על תקריות אבטחה. אחרי שניסתה להסתיר את […] The post ג'מיני פרץ ל-3 חברות בבדיקה של חברה ישראלית, וגוגל ניסתה להסתיר את זה appeared first on",
+      "importance": 7,
       "topics": [
         "אבטחה",
         "Google",
-        "האקרים"
+        "AI"
       ],
-      "published": "Fri, 18 Sep 2026 16:00:00 +0000"
+      "published": "Sun, 20 Sep 2026 06:51:39 +0000"
     },
     {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "importance": 7,
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "importance": 6,
       "topics": [
         "AI",
-        "Anthropic",
-        "ביוטכנולוגיה"
+        "Vals",
+        "Benchmarking"
       ],
-      "published": "Fri, 18 Sep 2026 23:13:31 +0000"
+      "published": "Sat, 19 Sep 2026 13:00:00 +0000"
     },
     {
-      "title": "AI hallucination nearly triggers US military operation",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "importance": 7,
+      "title": "The AI regulation smackdown isn’t over",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially […]",
+      "importance": 6,
       "topics": [
         "AI",
-        "LLM",
-        "בטיחות"
-      ],
-      "published": "Fri, 18 Sep 2026 23:12:32 +0000"
-    },
-    {
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "מודל",
-        "OpenAI"
-      ],
-      "published": "Fri, 18 Sep 2026 18:49:30 +0000"
-    },
-    {
-      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-      "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-      "importance": 7,
-      "topics": [
-        "אוטונומיה",
-        "תעופה",
-        "רובוטיקה"
-      ],
-      "published": "Fri, 18 Sep 2026 17:26:41 +0000"
-    },
-    {
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch ",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "בטיחות AI",
+        "רגולציה",
         "Anthropic"
       ],
-      "published": "Fri, 18 Sep 2026 17:09:56 +0000"
+      "published": "2026-09-19T09:00:00-04:00"
+    },
+    {
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "importance": 6,
+      "topics": [
+        "AI",
+        "אבטחה",
+        "vulnerability"
+      ],
+      "published": "Sat, 19 Sep 2026 11:00:00 +0000"
     }
   ]
 }
