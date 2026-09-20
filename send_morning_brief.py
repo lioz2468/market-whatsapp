@@ -76,10 +76,11 @@ def _load_history() -> list[dict]:
         return []
 
 
-def _record_history(digest: dict) -> None:
-    """Append today's world/business/tech items to morning_brief_history.json
-    (pruned to MORNING_BRIEF_HISTORY_DAYS) so tomorrow's cross-day dedup can
-    see them — see morning_brief_composer.cross_day_dedup_filter."""
+def _record_history(digest: dict, watchlist_items: list[watchlist_news.TickerNews] | None = None) -> None:
+    """Append today's world/business/tech items — and watchlist headlines —
+    to morning_brief_history.json (pruned to MORNING_BRIEF_HISTORY_DAYS) so
+    tomorrow's cross-day dedup can see them — see
+    morning_brief_composer.cross_day_dedup_filter."""
     history = _load_history()
     today   = _today_israel()
     for section in ("world", "business", "tech"):
@@ -88,6 +89,13 @@ def _record_history(digest: dict) -> None:
                 "date":   today,
                 "title":  it.get("title", ""),
                 "topics": it.get("topics", []),
+            })
+    for t in (watchlist_items or []):
+        for h in t.headlines:
+            history.append({
+                "date":   today,
+                "title":  h.title,
+                "topics": [t.symbol],
             })
 
     cutoff  = (datetime.now(_ISRAEL_TZ) - timedelta(days=config.MORNING_BRIEF_HISTORY_DAYS)).date().isoformat()
@@ -133,7 +141,7 @@ def _is_shabbat() -> bool:
     )
 
 
-async def _compose() -> tuple[str, dict]:
+async def _compose() -> tuple[str, dict, list[watchlist_news.TickerNews]]:
     if not config.EMAIL_DIGEST_PATH.exists():
         print(
             f"  {Fore.RED}email_digest.json not found — run "
@@ -143,12 +151,20 @@ async def _compose() -> tuple[str, dict]:
     digest = json.loads(config.EMAIL_DIGEST_PATH.read_text(encoding="utf-8"))
     _strip_watchlist_from_business(digest)
 
+    if config.WATCHLIST_STOCKS:
+        print(f"\n{Fore.CYAN}📈 Fetching watchlist news ({len(config.WATCHLIST_STOCKS)} ticker(s))…{Style.RESET_ALL}")
+    watchlist_items = await watchlist_news.fetch_watchlist_news(config.WATCHLIST_STOCKS)
+
     history = _load_history()
     if history:
         combined = [
             {**it, "_section": section}
             for section in ("world", "business", "tech")
             for it in digest.get(section, [])
+        ] + [
+            {"title": h.title, "topics": [t.symbol], "_section": "watchlist", "_symbol": t.symbol, "_headline": h}
+            for t in watchlist_items
+            for h in t.headlines
         ]
         print(
             f"\n{Fore.CYAN}🔍 Cross-day dedup — checking {len(combined)} item(s) against "
@@ -159,6 +175,14 @@ async def _compose() -> tuple[str, dict]:
             print(f"  {Fore.YELLOW}Filtered {len(combined) - len(filtered)} already-covered item(s){Style.RESET_ALL}")
         for section in ("world", "business", "tech"):
             digest[section] = [it for it in filtered if it["_section"] == section]
+        kept_by_symbol: dict[str, list] = {}
+        for it in filtered:
+            if it["_section"] == "watchlist":
+                kept_by_symbol.setdefault(it["_symbol"], []).append(it["_headline"])
+        for t in watchlist_items:
+            t.headlines = kept_by_symbol.get(t.symbol, [])
+
+    watchlist_text = watchlist_news.format_watchlist_for_prompt(watchlist_items)
 
     print(f"\n{Fore.CYAN}📊 Fetching market snapshot…{Style.RESET_ALL}")
     quotes = await market_data.fetch_snapshot()
@@ -168,15 +192,10 @@ async def _compose() -> tuple[str, dict]:
         print(f"  {mark} {q.name:<10} {detail}")
     market_text = market_data.format_snapshot_for_prompt(quotes)
 
-    if config.WATCHLIST_STOCKS:
-        print(f"\n{Fore.CYAN}📈 Fetching watchlist news ({len(config.WATCHLIST_STOCKS)} ticker(s))…{Style.RESET_ALL}")
-    watchlist_items = await watchlist_news.fetch_watchlist_news(config.WATCHLIST_STOCKS)
-    watchlist_text = watchlist_news.format_watchlist_for_prompt(watchlist_items)
-
     print(f"\n{Fore.CYAN}✍️  Composing morning brief with Claude…{Style.RESET_ALL}")
     text = await morning_brief_composer.compose_morning_brief(digest, market_text, watchlist_text)
     print(f"  {Fore.GREEN}✓ {len(text)} chars, {len(text.splitlines())} lines{Style.RESET_ALL}")
-    return text, digest
+    return text, digest, watchlist_items
 
 
 def _print_cost() -> None:
@@ -199,7 +218,7 @@ async def main_async(args: argparse.Namespace) -> None:
         print(f"\n  {Fore.YELLOW}⏭  Already sent today — skipping (use --force to override).{Style.RESET_ALL}")
         return
 
-    text, digest = await _compose()
+    text, digest, watchlist_items = await _compose()
     _print_cost()
 
     print(f"\n{'─'*60}\n{Fore.GREEN}{text}{Style.RESET_ALL}\n{'─'*60}")
@@ -237,7 +256,7 @@ async def main_async(args: argparse.Namespace) -> None:
             print(f"  {Fore.GREEN}✓ Sent via Green API — id: {mid}{Style.RESET_ALL}")
 
     _mark_sent_today()
-    _record_history(digest)
+    _record_history(digest, watchlist_items)
     print(f"\n  {Fore.GREEN}✓ Done.{Style.RESET_ALL}")
 
 

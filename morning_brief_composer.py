@@ -135,13 +135,16 @@ def _style_addendum(profile: dict) -> str:
 # ── Cross-day dedup (against previously-sent briefs) ────────────────────────
 # email_digest.json is rebuilt fresh every morning with no memory of what
 # yesterday's brief actually sent (world/tech are re-classified straight
-# from RSS; business is just "approved for WhatsApp in the last 24h") — so
-# the same story (e.g. an Anthropic or Nvidia item still circulating a day
-# later) could repeat across consecutive mornings undetected. This checks
-# each candidate against config.MORNING_BRIEF_HISTORY_PATH, the last
-# MORNING_BRIEF_HISTORY_DAYS of what was actually included, using the same
-# "specific new event, not just more coverage" rule as classifier.py's
-# topic_dedup_filter (which does this for the per-article WhatsApp bot).
+# from RSS; business is just "approved for WhatsApp in the last 24h"), and
+# watchlist_news.py just re-fetches each ticker's last 48h of headlines from
+# scratch — so the same story (e.g. an Anthropic/Nvidia item, or a watchlist
+# company's story still circulating within that 48h window) could repeat
+# across consecutive mornings undetected. This checks each candidate —
+# world/business/tech items and watchlist headlines alike — against
+# config.MORNING_BRIEF_HISTORY_PATH, the last MORNING_BRIEF_HISTORY_DAYS of
+# what was actually included, using the same "specific new event, not just
+# more coverage" rule as classifier.py's topic_dedup_filter (which does this
+# for the per-article WhatsApp bot).
 
 def _history_check_system() -> str:
     return _CONTEXT + "\n\n" + f"""אתה בודק כפילויות בין ידיעות שכבר נכללו בבריפים קודמים לבין ידיעה מועמדת לבריף היום.
