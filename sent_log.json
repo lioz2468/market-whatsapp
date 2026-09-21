@@ -763,7 +763,8 @@
     "10807c43b27cf4b4": "2026-09-21T06:31:03.566867+00:00",
     "362137b81ca350ff": "2026-09-21T08:01:16.230232+00:00",
     "d5a6a6c53a63dd4d": "2026-09-21T09:31:10.830507+00:00",
-    "062bc6ebaae57dca": "2026-09-21T11:01:28.102242+00:00"
+    "062bc6ebaae57dca": "2026-09-21T11:01:28.102242+00:00",
+    "f7856c88001723af": "2026-09-21T12:31:19.354514+00:00"
   },
   "messages": [
     {
@@ -10881,7 +10882,21 @@
         "לוגיסטיקה",
         "גיאופוליטיקה"
       ]
+    },
+    {
+      "sent_at": "2026-09-21T12:31:19.354514+00:00",
+      "title": "$META UNVEILS FIRST PETABIT-SCALE TRANSATLANTIC CABLE BETWEEN U.S. AND FRANCE Meta announced Petal, a new roughly 7,000-km subsea cable designed to carry 1 petabit per second between the U.S. and France when it enters service in 2029. Meta says that is roughly 2x the capacity https://t.co/dkvl3RL4H6",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2102006516735971517",
+      "message": "Meta הכריזה על \"Petal\" - כבל תת-ימי חדש באורך כ-7,000 ק\"מ שיחבר את ארה\"ב לצרפת ויעביר פטביט שלם לשנייה. זה פי שניים מהקיבולת של כבלים קיימים, ומתוכנן להיכנס לפעולה ב-2029.\n\nמה שמעניין פה: Meta בונה תשתית אינטרנט גלובלית משלה - לא מסתמכת על ספקים חיצוניים. זה לחץ ישיר על חברות כמו Lumen ו-Telecom Italia שמחזיקות כבלים מתחרים, וגם אות שהביקוש לרוחב פס בעשור הקרוב יהיה אדיר.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "תקשורת",
+        "תשתיות",
+        "meta"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-21T11:00:37.409713+00:00"
+  "last_auto_run": "2026-09-21T12:30:38.503535+00:00"
 }
