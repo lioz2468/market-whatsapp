@@ -765,7 +765,8 @@
     "d5a6a6c53a63dd4d": "2026-09-21T09:31:10.830507+00:00",
     "062bc6ebaae57dca": "2026-09-21T11:01:28.102242+00:00",
     "f7856c88001723af": "2026-09-21T12:31:19.354514+00:00",
-    "78194c17b386378f": "2026-09-21T14:00:44.116614+00:00"
+    "78194c17b386378f": "2026-09-21T14:00:44.116614+00:00",
+    "28b6ef25e20bac4e": "2026-09-21T15:31:12.035338+00:00"
   },
   "messages": [
     {
@@ -10911,7 +10912,21 @@
         "שרשרת אספקה",
         "מדינות מתפתחות"
       ]
+    },
+    {
+      "sent_at": "2026-09-21T15:31:12.035338+00:00",
+      "title": "OPENAI HAS LARGELY AUTOMATED TRAINING OF NEW EXPERIMENTAL AI MODELS OpenAI’s internal AI models can now handle much of the process of building and training experimental models, including writing GPU kernels and optimizing the code used to run them. Researchers can reportedly https://t.co/XZp2pQTQbV",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2102047257784881556",
+      "message": "OpenAI הגיעה לנקודת מפנה: המודלים הפנימיים שלה מסוגלים עכשיו לנהל בעצמם חלק גדול מתהליך בניית ואימון מודלים חדשים - כולל כתיבת קוד GPU ואופטימיזציה שלו.\n\nבמילים פשוטות: AI שבונה AI. פחות מהנדסים בלולאה, מחזורי פיתוח הרבה יותר מהירים.\n\nההשפעה העקיפה שלא ברורה מיד: זה לחץ ישיר על חברות שמספקות כלי פיתוח ותשתיות לצוותי AI - הביקוש לחלק מהכלים האלה עלול פשוט להצטמצם. גם המירוץ בין החברות המתחרות מואץ - אם OpenAI יכולה לאמן מודלים מהר יותר, כולם יצטרכו להתאים את הקצב.",
+      "importance": 8,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "טכנולוגיה",
+        "אוטומציה"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-21T14:00:42.059377+00:00"
+  "last_auto_run": "2026-09-21T15:30:32.270762+00:00"
 }
