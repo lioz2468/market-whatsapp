@@ -762,7 +762,8 @@
     "44e128906f1c871f": "2026-09-21T05:01:12.382248+00:00",
     "10807c43b27cf4b4": "2026-09-21T06:31:03.566867+00:00",
     "362137b81ca350ff": "2026-09-21T08:01:16.230232+00:00",
-    "d5a6a6c53a63dd4d": "2026-09-21T09:31:10.830507+00:00"
+    "d5a6a6c53a63dd4d": "2026-09-21T09:31:10.830507+00:00",
+    "062bc6ebaae57dca": "2026-09-21T11:01:28.102242+00:00"
   },
   "messages": [
     {
@@ -10866,7 +10867,21 @@
         "השקעות",
         "SoftBank"
       ]
+    },
+    {
+      "sent_at": "2026-09-21T11:01:28.102242+00:00",
+      "title": "OIL TANKER RATES HIT RECORD $1 MILLION A DAY AS HORMUZ TRAFFIC COLLAPSES The cost of chartering a VLCC from the Persian Gulf to China has surged to roughly $1.035M per day, up nearly 5x from around $208K before the Iran war. Only 17 commodity vessels crossed the Strait of https://t.co/zWaIJD77yW",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2101980658147168684",
+      "message": "עלות השכרת מכלית נפט ממפרץ פרס לסין קפצה ל-1.035 מיליון דולר ליום - פי 5 ממה שהיה לפני המלחמה עם איראן. רק 17 אוניות סחורה חצו את מיצר הורמוז ב-24 שעות האחרונות, לעומת עשרות בימים רגילים.\n\nזה לא רק נפט. כשמיצר הורמוז נחסם - עולות גם עלויות המשלוח של כל מה שעובר דרכו: פטרוכימיה, LNG וסחורות אחרות. מי שישלם על זה בסוף הוא הצרכן.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "נפט",
+        "לוגיסטיקה",
+        "גיאופוליטיקה"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-21T09:30:29.514684+00:00"
+  "last_auto_run": "2026-09-21T11:00:37.409713+00:00"
 }
