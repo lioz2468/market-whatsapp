@@ -1,97 +1,71 @@
 {
-  "generated_at": "2026-09-21T08:47:48.840987+00:00",
+  "generated_at": "2026-09-22T08:25:35.204137+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "נתנאל נרצח בפיגוע ירי במעיין בבנימין, המחבל נלכד בבי\"ח אחרי כשלוש שעות",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hybligtffx",
-      "summary": "פיגוע טרור לפני כניסת יום הכיפורים: אב לשישה שאותר מחוסר הכרה ברכב באזור מעיין עין ריא ליד נווה צוף פונה לביה\"ח בילינסון, אך שם נאלצו הרופאים לקבוע את מותו. בנו שהיה ברכב לא נפגע, חייל ירה לעבר המחבל שנמלט ברגל ונתפס ע\"י יחידת דובדבן. במקביל חוסל מחבל שניסה לבצע פיגוע דריסה סמוך ליישוב גנים",
-      "importance": 9,
-      "topics": [
-        "טרור",
-        "ישראל",
-        "ביטחון"
-      ],
-      "published": "Sun, 20 Sep 2026 15:54:45 +0300"
-    },
-    {
-      "title": "Defining global leadership in AI at Trump-Xi summit",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5973116/defining-global-leadership-in-ai-at-trump-xi-summit",
-      "summary": "Former U.S. deputy national security advisor Anne Neuberger is watching for signs of competition and cooperation on artificial intelligence at President Trump and Chinese leader Xi Jinping's summit this week.",
-      "importance": 8,
-      "topics": [
-        "ארה״ב",
-        "סין",
-        "טכנולוגיה"
-      ],
-      "published": "Sun, 20 Sep 2026 17:15:56 -0400"
-    },
-    {
-      "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
-      "summary": "Moscow's mayor described the wave of drones as the \"largest ever\" attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building.",
+      "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss",
+      "summary": "Overnight missile and drone attacks hit several Ukrainian regions as world leaders gather in New York, US.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
         "מלחמה"
       ],
-      "published": "Sun, 20 Sep 2026 05:16:42 -0400"
+      "published": "Tue, 22 Sep 2026 08:07:13 +0000"
     },
     {
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
-      ],
-      "published": "Sun, 20 Sep 2026 10:45:39 GMT"
-    },
-    {
-      "title": "Iran’s military says US preparing to resume strikes",
+      "title": "Why does the US want to send Israel 40,000 bombs?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
-      "summary": "Tehran threatens retaliation as Trump weighs military action while Qatar pushes to revive talks.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/why-does-the-us-want-to-send-israel-40000-bombs?traffic_source=rss",
+      "summary": "Is the planned $2.8bn US arms deal proportionate to Israel’s threat, or could it cause more civilian casualties in Gaza?",
       "importance": 8,
       "topics": [
-        "איראן",
-        "ארה״ב",
-        "ביטחון"
-      ],
-      "published": "Mon, 21 Sep 2026 05:21:41 +0000"
-    },
-    {
-      "title": "Iran war live: Tehran says world will be ‘astonished’ by its new weapons",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
-      "summary": "Tehran says it has learnt the US may be planning a new round of strikes, warns of retaliation 'without limitations'.",
-      "importance": 8,
-      "topics": [
-        "איראן",
-        "ארה״ב",
-        "ביטחון"
-      ],
-      "published": "Mon, 21 Sep 2026 00:00:47 +0000"
-    },
-    {
-      "title": "הראשון שיוצא להורג? המחבל מהמעיין ושאלת יישום חוק עונש מוות",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hkmixl6kme",
-      "summary": "פעיל חמאס קדרי סמארה נלכד במרפאה ברמאללה, לאחר שרצח ביריות את נתנאל שקרון. בן גביר דרש \"הוצאה להורג עכשיו\", אבל למרות שחוק עונש מוות למחבלים אושר סופית - הדרך עוד ארוכה. האם בג\"ץ יתערב, מה תהיה עמדת היועמ\"שית - ואיך השופטים הצבאיים יוכלו בכל זאת לחמוק מלגזור עונש מוות?",
-      "importance": 8,
-      "topics": [
-        "טרור",
         "ישראל",
-        "משפט"
+        "ארה״ב",
+        "עזה"
       ],
-      "published": "Sun, 20 Sep 2026 16:20:05 +0300"
+      "published": "Tue, 22 Sep 2026 05:15:34 +0000"
+    },
+    {
+      "title": "האם אנחנו בדרך לאבד שליטה על הבינה המלאכותית?",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/theheadline/article/frj28yiv6",
+      "summary": "בשבועיים האחרונים התחוללה סערה סביב אובדן השליטה על הבינה המלאכותית, אחרי שחוקר שעבד ב-OpenAI ובאנתרופיק פרסם אזהרה שנחשפה למאות מיליוני צפיות ובכירים בתעשייה קראו להאט. אלא שהחברות שמשמיעות את האזהרות החריפות ביותר הן אלה שמרוויחות הכי הרבה מהמשך המרוץ ואי אפשר לבנות רק עליהן. עמית קרפ, שותף בקרן בסמר, מסביר מה עורר את הבהלה ועד כמה החשש מוצדק",
+      "importance": 8,
+      "topics": [
+        "בינה מלאכותית",
+        "טכנולוגיה",
+        "ביטחון גלובלי"
+      ],
+      "published": "Tue, 22 Sep 2026 05:00:00 +0300"
+    },
+    {
+      "title": "AI and autonomous weapons are high on the agenda at the UN General Assembly",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5974200/ai-and-autonomous-weapons-are-high-on-the-agenda-at-the-un-general-assembly",
+      "summary": "As world leaders gather for the U.N. General Assembly's annual general debate, Colombia's former president and Nobel Peace Prize laureate discusses the growing risks of autonomous weapons and AI",
+      "importance": 7,
+      "topics": [
+        "בינה מלאכותית",
+        "נשקים אוטונומיים",
+        "אום"
+      ],
+      "published": "Mon, 21 Sep 2026 17:18:10 -0400"
+    },
+    {
+      "title": "What to know as world leaders converge at the United Nations this week",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
+      "summary": "United Nations head António Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions.",
+      "importance": 7,
+      "topics": [
+        "אום",
+        "אוקראינה",
+        "מזרח תיכון"
+      ],
+      "published": "Mon, 21 Sep 2026 05:00:00 -0400"
     },
     {
       "title": "How Russia's parliamentary election might affect the war in Ukraine",
@@ -107,227 +81,292 @@
       "published": "Mon, 21 Sep 2026 04:39:56 -0400"
     },
     {
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+      "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
       "importance": 7,
       "topics": [
-        "ארה״ב",
-        "סין",
-        "דיפלומטיה"
+        "ארצות הברית",
+        "מדיה",
+        "פוליטיקה"
       ],
-      "published": "Mon, 21 Sep 2026 05:50:56 GMT"
+      "published": "Tue, 22 Sep 2026 08:17:15 GMT"
     },
     {
-      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "title": "First UK charges brought over 1994 Rwanda genocide",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
       "importance": 7,
       "topics": [
-        "פקיסטן",
-        "פוליטיקה",
-        "הפגנות"
+        "רואנדה",
+        "משפט בינלאומי",
+        "גנוסייד"
       ],
-      "published": "Sun, 20 Sep 2026 19:04:11 GMT"
+      "published": "Mon, 21 Sep 2026 17:48:23 GMT"
+    },
+    {
+      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A report says the attacks, of which there have been at least 68, were not self-defence.",
+      "importance": 7,
+      "topics": [
+        "ארצות הברית",
+        "זכויות אדם",
+        "משפט בינלאומי"
+      ],
+      "published": "Mon, 21 Sep 2026 12:08:56 GMT"
+    },
+    {
+      "title": "Palestinians turn to communal ovens to bake bread in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss",
+      "summary": "Amid Gaza’s food crisis, bread remains a staple as displaced families use communal ovens to save on costly fuel.",
+      "importance": 7,
+      "topics": [
+        "עזה",
+        "משבר הומניטרי",
+        "ישראל"
+      ],
+      "published": "Tue, 22 Sep 2026 07:26:16 +0000"
     }
   ],
   "business": [
     {
-      "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-      "summary": "שר האוצר האמריקאי ביסנט נפגש עם סגן ראש ממשלת סין לפני הפסגה של טראמפ ושי ב-24 בספטמבר. על השולחן: סחר, AI ומינרלים קריטיים.\n\nזה לא פגישת נימוס - זה ניסיון לסגור מסגרת לפני שהגדולים נכנסים לחדר. אם יצא ממנה משהו על מכסים, זה ישפיע על כל שרשרת האספקה הגלובלית - כולל חברות טכנולוגיה שתלויות במינרלים סינים לייצור סוללות, שבבים ורכבים חשמליים.",
+      "title": "SoftBank Seeks Over $11 Billion in Junk Bonds for OpenAI Bet",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-21/softbank-seeks-over-11-billion-in-junk-bond-deal-for-openai-bet",
+      "summary": "סופטבנק מגייסת מעל 11 מיליארד דולר באג\"ח זבל - כדי להמר על OpenAI. אם הסכום הזה לא עוצר אותך לרגע, כדאי שיעצור.\n\nזו אחת ממכירות האג\"ח הזבל הגדולות בהיסטוריה, והכסף מיועד כולו להגדלת ההחזקה ב-OpenAI. מסאיושי סון שם את כל הכובד מאחורי ההימור הזה - ולא מהון עצמי, אלא מחוב.\n\nמה שפחות ברור: כשכזה היקף חוב נכנס לשוק, הוא מתחרה על כסף של משקיעים אחרים. זה משפיע על התמחור של כל שאר האג\"ח הקונצרניות בשוק, כולל של חברות שלא קשורות בכלל ל-AI.",
       "importance": 9,
       "topics": [
-        "סחר בינלאומי",
-        "גיאופוליטיקה",
-        "AI"
+        "AI",
+        "השקעות",
+        "SoftBank"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Trump & Xi to Meet Amidst Friction on Wars, Tech, Trade",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-21/trump-xi-to-meet-amidst-friction-on-wars-tech-trade-video",
-      "summary": "טראמפ ושי נפגשים בוושינגטון - וזה עשוי להיות אחד הפגישות הגיאופוליטיות החשובות של השנה.\n\nעל השולחן: תחרות בינה מלאכותית, מדיניות ייצוא שבבים, ואפשרות שחברות סיניות יייצרו רכבים חשמליים בתוך ארה\"ב. הכל תחת לחץ של דדליין לשביתת הנשק הסחרי.\n\nמי שכדאי לשים לב אליו מעבר לכותרות: יצרני שבבים אמריקאיים, חברות AI, וכל מי שתלוי בשרשרת אספקה בין שתי המדינות.",
+      "title": "OIL TANKER RATES HIT RECORD $1 MILLION A DAY AS HORMUZ TRAFFIC COLLAPSES The cost of chartering a VLCC from the Persian Gulf to China has surged to roughly $1.035M per day, up nearly 5x from around $208K before the Iran war. Only 17 commodity vessels crossed the Strait of https://t.co/zWaIJD77yW",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2101980658147168684",
+      "summary": "עלות השכרת מכלית נפט ממפרץ פרס לסין קפצה ל-1.035 מיליון דולר ליום - פי 5 ממה שהיה לפני המלחמה עם איראן. רק 17 אוניות סחורה חצו את מיצר הורמוז ב-24 שעות האחרונות, לעומת עשרות בימים רגילים.\n\nזה לא רק נפט. כשמיצר הורמוז נחסם - עולות גם עלויות המשלוח של כל מה שעובר דרכו: פטרוכימיה, LNG וסחורות אחרות. מי שישלם על זה בסוף הוא הצרכן.",
       "importance": 9,
       "topics": [
-        "סחר בינלאומי",
-        "בינה מלאכותית",
+        "נפט",
+        "לוגיסטיקה",
+        "גיאופוליטיקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "$META UNVEILS FIRST PETABIT-SCALE TRANSATLANTIC CABLE BETWEEN U.S. AND FRANCE Meta announced Petal, a new roughly 7,000-km subsea cable designed to carry 1 petabit per second between the U.S. and France when it enters service in 2029. Meta says that is roughly 2x the capacity https://t.co/dkvl3RL4H6",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2102006516735971517",
+      "summary": "Meta הכריזה על \"Petal\" - כבל תת-ימי חדש באורך כ-7,000 ק\"מ שיחבר את ארה\"ב לצרפת ויעביר פטביט שלם לשנייה. זה פי שניים מהקיבולת של כבלים קיימים, ומתוכנן להיכנס לפעולה ב-2029.\n\nמה שמעניין פה: Meta בונה תשתית אינטרנט גלובלית משלה - לא מסתמכת על ספקים חיצוניים. זה לחץ ישיר על חברות כמו Lumen ו-Telecom Italia שמחזיקות כבלים מתחרים, וגם אות שהביקוש לרוחב פס בעשור הקרוב יהיה אדיר.",
+      "importance": 9,
+      "topics": [
+        "תקשורת",
+        "תשתיות",
+        "meta"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "summary": "Samsung C&T משקיעה עד 100 מיליון דולר ב-Kairos Power - חברת הגרעין שבונה כור גרעיני קטן עבור Google.\n\nזה לא רק עסקת אנרגיה - זה אות לשוק שהביקוש לחשמל מגרעין בשביל מרכזי נתונים הוא אמיתי ומאסיבי. חברה קוריאנית גדולה ממרכאות את עצמה לתוך שרשרת האספקה של ה-AI האמריקאי.\n\nשווה לשים לב לחברות שבונות תשתיות אנרגיה לטכנולוגיה - הן הולכות להיות נדבך מרכזי בכל הסיפור הזה.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "אנרגיה גרעינית",
+        "השקעות תשתיות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+      "summary": "ג'יימי דיימון, מנכ\"ל JPMorgan, אומר שהוצאות ה-AI של חברות הענן הגדולות עשויות להגיע לטריליון דולר בשנה הבאה. טריליון. זה לא טעות כתיב.\n\nכדי לתת פרספקטיבה - זה בערך הגודל של כלכלת הולנד, שנשאב בשנה אחת לשרתים, מעבדים וכבלי חשמל.\n\nמי שלא ברור שיושפע: חברות החשמל והקירור, יצרניות הנחושת, וכל מי שמוכר תשתיות לבניית מרכזי נתונים (data centers). הכסף הזה לא עוצר ב-NVIDIA.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "השקעות",
         "טכנולוגיה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Why It’s So Hard to Work Out What the Bond Market Is Telling Us",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/why-its-so-hard-to-work-out-what-the-bond-market-is-telling-us-aeac2d3a?mod=rss_markets_main",
-      "summary": "תשואות האג\"ח האמריקאיות עולות - אבל אף אחד לא בטוח למה, וזה בדיוק הבעיה.\n\nשתי פרשנויות מתחרות: אחת אומרת שהכלכלה חזקה וזה בסדר. השנייה אומרת שהאמון ביכולת של ארה\"ב לשלם את חובותיה מתחיל להסדק. התשואות זהות - הסיבה שונה לחלוטין, וההשלכות הפוכות.\n\nלמה זה חשוב לנו? כשהאג\"ח האמריקאי מאבד את תפקידו כנכס הבטוח בעולם, זה משפיע על כל מה שמתומחר ביחס אליו - מהמשכנתאות בארה\"ב ועד הריבית שישראל משלמת על החוב שלה.",
+      "title": "Here's what the Saudi East-West pipeline shutdown means for Asia's biggest crude importers",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "צינור הנפט המרכזי של סעודיה - East-West Pipeline - הושבת, וזה לא חדשות שקטות. הצינור הזה מוביל נפט מהחוף המזרחי ישירות לים האדום, ומשם לאסיה. דרום קוריאה היא הנחשפת ביותר, אבל יפן וסין ירגישו את זה גם. כשאספקה מתהדקת, מחירי הנפט יכולים לזוז מהר - וזה משפיע על כל מה שתלוי בעלויות אנרגיה: חברות תעופה, כימיה, פטרוכימיה. שווה לעקוב.",
       "importance": 8,
       "topics": [
-        "אג״ח",
-        "ריבית",
-        "מאקרו"
+        "אנרגיה",
+        "שרשרת אספקה",
+        "מדינות מתפתחות"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
-      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
-      "summary": "ג'נסן הואנג הפך לאחד האנשים המשפיעים ביותר על מדיניות ה-AI האמריקאית - לא כפוליטיקאי, אלא כמנכ\"ל החברה השווה הכי הרבה בעולם. לפי CNBC, טראמפ מקשיב לו בנושאי בטיחות AI יותר מלכמעט כל אחד אחר.\n\nזה חשוב מעבר ל-NVIDIA: מי שנמצא בחדר כשמחליטים על רגולציה קובע מי יכול לפעול בשוק ומי לא. חברות AI קטנות יותר, ומדינות שמתחרות על גישה לשבבים - כולן ירגישו את זה.",
+      "title": "OPENAI HAS LARGELY AUTOMATED TRAINING OF NEW EXPERIMENTAL AI MODELS OpenAI’s internal AI models can now handle much of the process of building and training experimental models, including writing GPU kernels and optimizing the code used to run them. Researchers can reportedly https://t.co/XZp2pQTQbV",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2102047257784881556",
+      "summary": "OpenAI הגיעה לנקודת מפנה: המודלים הפנימיים שלה מסוגלים עכשיו לנהל בעצמם חלק גדול מתהליך בניית ואימון מודלים חדשים - כולל כתיבת קוד GPU ואופטימיזציה שלו.\n\nבמילים פשוטות: AI שבונה AI. פחות מהנדסים בלולאה, מחזורי פיתוח הרבה יותר מהירים.\n\nההשפעה העקיפה שלא ברורה מיד: זה לחץ ישיר על חברות שמספקות כלי פיתוח ותשתיות לצוותי AI - הביקוש לחלק מהכלים האלה עלול פשוט להצטמצם. גם המירוץ בין החברות המתחרות מואץ - אם OpenAI יכולה לאמן מודלים מהר יותר, כולם יצטרכו להתאים את הקצב.",
       "importance": 8,
       "topics": [
         "AI",
         "טכנולוגיה",
-        "רגולציה"
+        "אוטומציה"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
-      "title": "China Names Li Chenggang Its Top International Trade Negotiator",
-      "source": "Bloomberg Markets",
+      "title": "The U.S. 🇺🇸 has proposed extending its China 🇨🇳 trade truce by six months, while Beijing is pushing for a longer deal, per NYT.",
+      "source": "Twitter @wallstengine",
       "url": "",
-      "summary": "סין מינתה אתמול את לי צ'נגגאנג למשא ומתן המסחרי מול ארה\"ב - ממש שעות לפני שהמשלחות של שתי המדינות נפגשו בניו יורק.\n\nזה לא רק שינוי כותרת. כשסין מרימה את הדרגה של המו\"מ שלה ברגע האחרון, זה בדרך כלל אומר שהיא רוצה להגיע עם יותר סמכות לשולחן - ולהראות שהיא מתייחסת ברצינות לשיחות.\n\nמי שכדאי לעקוב אחריהם: חברות שמייצרות בסין לשוק האמריקאי, וסקטור השבבים שתלוי ישירות בתוצאות.",
+      "summary": "ארה\"ב הציעה להאריך את הפסקת האש במלחמת הסחר עם סין בשישה חודשים - אבל סין דוחפת להסכם ארוך יותר, לפי הניו יורק טיימס.\n\nפה מסתתרת הדינמיקה המעניינת: סין רוצה ודאות ארוכת טווח, ארה\"ב שומרת לעצמה גמישות. המשמעות היא שהשווקים ימשיכו לנוע על כל כותרת מהמשא ומתן.\n\nמי שכדאי לשים לב - חברות שרשרת האספקה הגלובלית, ובראשן יצואנים שחשופים לשני הכיוונים.",
       "importance": 8,
       "topics": [
         "סחר בינלאומי",
-        "סין",
-        "ארה\"ב"
+        "טריפים",
+        "כלכלה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Record diesel prices are exposing pain points in the stock market and economy",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
-      "summary": "מחירי הדיזל בארה\"ב שוברים שיאים - וזה לא רק בעיה של משאיות וחקלאים.\n\nדיזל הוא בעצם מדד הכאב של הכלכלה האמיתית: כל מה שאתה קונה - אוכל, בגדים, מוצרי חשמל - מגיע על גבי משאית שרצה על דיזל. כשהדיזל יקר, העלות הזו מחלחלת לכל שרשרת האספקה ומעלה מחירים מכל הכיוונים.\n\nמה שמדאיג יותר: כל עוד המחירים נשארים גבוהים, האינפלציה תקבל דחיפה שקשה מאוד לבלום אותה בריבית בלבד.",
+      "title": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "שליש מהמטופלים החדשים שמקבלים כדורי GLP-1 בוחרים ב-Foundayo של Eli Lilly - זה מספר משמעותי לחברה שמנסה לצמצם את הפיגור מול Novo Nordisk, שנכנסה לשוק הזה קודם.\n\nהמעניין פה הוא לאו דווקא הכדור עצמו, אלא מה שקורה מסביבו: כשתרופות לירידה במשקל עוברות לפורמט כדור במקום זריקה, השוק מתרחב בקפיצה. פחות חסם, יותר מטופלים - וזה לחץ ישיר על חברות הביטוח, רשתות הרוקחות, ואפילו ספקי ציוד רפואי לטיפול בסוכרת.",
       "importance": 8,
       "topics": [
-        "אינפלציה",
-        "אנרגיה",
-        "שרשרת אספקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang says governments should enforce existing laws on AI before creating new ones. He argues cybersecurity, product liability and contract laws already cover many AI risks. “We have plenty of laws, so let’s apply those first.” https://t.co/fOHhqXPthD",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2101685350917980344",
-      "summary": "ג'נסן הואנג, מנכ\"ל Nvidia, אמר השבוע שממשלות לא צריכות למהר לחוקק חוקים חדשים על AI - יש כבר מספיק. חוקי אחריות על מוצרים, סייברסקיוריטי וחוזים כבר מכסים את רוב הסיכונות, לדבריו. \"יש לנו מספיק חוקים - בואו נאכוף אותם קודם.\"\n\nזה לא סתם עמדה עקרונית. פחות רגולציה חדשה על AI זה חדשות טובות לחברות שמוכרות שבבים, תשתיות ופתרונות - כלומר בדיוק ל-Nvidia ולכל המערכת האקולוגית שסביבה. שווה לשים לב איך האיחוד האירופי יגיב לזה.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "רגולציה",
-        "ממשל"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "See the 10-Year Treasury Yield’s Wild Ride on the Road to 5%",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/see-the-10-year-treasury-yields-wild-ride-on-the-road-to-5-22e4bbc2?mod=rss_markets_main",
-      "summary": "תשואת האג\"ח האמריקאית ל-10 שנים מתקרבת ל-5% - ומה שמעניין הוא הדרך שם. בתוך פחות מעשור עברנו מריביות אפסיות של תקופת הקורונה, דרך אינפלציה שלא ראינו מ-1980, ועד לגירעונות ממשלתיים שמשנים את כללי המשחק בשוק האג\"ח. כשהתשואות גבוהות, ההון זורם בחזרה לאג\"ח - וזה מושך כסף החוצה ממניות, נדל\"ן ונכסים מסוכנים. השפעה שלא תמיד מורגשת מיד, אבל היא שם.",
-      "importance": 8,
-      "topics": [
-        "ריבית",
-        "אג״ח",
-        "פד"
+        "פרמה",
+        "בריאות",
+        "שיבוש תעשייה"
       ],
       "tag": "ארה\"ב"
     },
     {
-      "title": "Turkey Freezes Assets of Fund Executives in Redemption Crisis",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/turkey-freezes-assets-of-fund-executives-in-redemption-crisis",
-      "summary": "קפיאת נכסים של בכירים בקרנות השקעה בטורקיה - זה לא רק עניין מקומי.\n\nהרשויות בטורקיה הקפיאו נכסים של מנהלים בכמה חברות השקעה, כחלק מחקירה שמתרחבת סביב כשלים בפדיונות של קרנות. כבר יש מעצרים, ושוק המניות בטורקיה ירד בחדות.\n\nמה שמעניין כאן: כשקרן לא יכולה להחזיר כסף למשקיעים שביקשו לצאת, זה מסמן בעיה עמוקה הרבה יותר - בנזילות, בניהול הסיכונים, ואולי גם באמון הציבור במערכת הפיננסית שם. כשזה קורה בכלכלה מתפתחת עם היסטוריה של אינפלציה ומשברי מטבע - כדאי לשים לב.",
+      "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "סנקציות אמריקניות חדשות על איראן ייכנסו לתוקף ביום רביעי - וכל חברות התעופה האיראניות ייסגרו. שר האוצר בסנט אמר בראיון ל-CNBC שהלחץ על טהראן \"חסר תקדים\".\n\nמה שמעניין כאן הוא לא התעופה - זו רק הכותרת. הסנקציות האלה משפיעות על שרשראות אספקה שלמות: נפט, מתכות, ביטוח ימי. חברות בינלאומיות שעדיין עוקפות מגבלות בשקט - זה הרגע שהן שמות לב.",
       "importance": 8,
       "topics": [
-        "טורקיה",
-        "קרנות",
-        "רגולציה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-20/yen-is-vulnerable-with-japan-on-holiday-after-boj-disappoints",
-      "summary": "הין היפני עלול להיות תנודתי בשבוע הקרוב. בנק יפן השאיר את הריבית ללא שינוי ולא נתן אותות ברורים על העלאות עתידיות - וזה אכזב משקיעים שציפו לכיוון יותר נחרץ. מעל זה, יפן נכנסת לחופשה של שלושה ימים, מה שאומר פחות נזילות ויותר פוטנציאל לתנועות חדות.\n\nמה שמעניין לשים לב אליו: ין חלש משפיע ישירות על יצואניות יפניות כמו Toyota ו-Sony, אבל גם על שוקי מטבעות אחרים באסיה - וכשהין זז, זה בדרך כלל סימן שמשהו גדול יותר קורה בתיאבון הסיכון הגלובלי.",
-      "importance": 7,
-      "topics": [
-        "בנקים מרכזיים",
-        "מטבעות",
-        "יפן"
+        "סנקציות",
+        "גיאופוליטיקה",
+        "תעופה"
       ],
       "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-      "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
       "importance": 8,
       "topics": [
-        "אבטחה סייבר",
+        "אנרגיה גרעינית",
         "Google",
-        "האקינג"
+        "Samsung"
       ],
-      "published": "Sun, 20 Sep 2026 11:07:00 +0000"
+      "published": "Mon, 21 Sep 2026 18:23:05 +0000"
     },
     {
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder […]",
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+      "importance": 8,
+      "topics": [
+        "Google",
+        "AI",
+        "אבטחה"
+      ],
+      "published": "Mon, 21 Sep 2026 16:57:26 +0000"
+    },
+    {
+      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+      "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "רגולציה",
+        "ביטחון לאומי"
+      ],
+      "published": "Mon, 21 Sep 2026 18:33:02 +0000"
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
       "importance": 7,
       "topics": [
         "AI",
-        "מדיניות",
-        "ממשל"
+        "OpenAI",
+        "מתמטיקה"
       ],
-      "published": "2026-09-20T11:39:22-04:00"
+      "published": "Mon, 21 Sep 2026 20:15:58 +0000"
     },
     {
-      "title": "World model companies are keeping a lot of secrets",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "importance": 6,
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "importance": 7,
       "topics": [
         "AI",
-        "חברות טכנולוגיה"
-      ],
-      "published": "Sun, 20 Sep 2026 20:29:07 +0000"
-    },
-    {
-      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
-      "importance": 6,
-      "topics": [
         "Meta",
-        "AI",
-        "פרטיות"
+        "ChatGPT"
       ],
-      "published": "Sun, 20 Sep 2026 10:30:00 +0000"
+      "published": "Mon, 21 Sep 2026 19:19:21 +0000"
     },
     {
-      "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
-      "summary": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
-      "importance": 6,
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+      "importance": 7,
       "topics": [
-        "רגולציה",
-        "תשתיות ינטרנט"
+        "Google",
+        "Gemini",
+        "AI"
       ],
-      "published": "Sun, 20 Sep 2026 10:00:00 +0000"
+      "published": "Mon, 21 Sep 2026 14:39:22 +0000"
+    },
+    {
+      "title": "A cut cable disrupted hundreds of flights across the US",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+      "summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outage hammered airports across the Northeast, causing […]",
+      "importance": 7,
+      "topics": [
+        "תשתיות",
+        "קריסה"
+      ],
+      "published": "2026-09-21T19:48:56-04:00"
+    },
+    {
+      "title": "California tightens rules on AI data center energy and water use",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "רגולציה"
+      ],
+      "published": "2026-09-21T16:29:45-04:00"
     }
   ]
 }
