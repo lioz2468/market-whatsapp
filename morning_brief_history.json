@@ -1,29 +1,56 @@
 [
   {
-    "date": "2026-09-18",
-    "title": "Photos show widespread damage at US sites from Iranian attacks",
-    "topics": [
-      "איראן",
-      "ישראל",
-      "ביטחון"
-    ]
-  },
-  {
-    "date": "2026-09-18",
-    "title": "Fed dot plot shifts sharply higher for 2026: 12 see 1 more hike 4 see 2 more hikes 2 see no more hikes In June, half of submitted dots were for a hold or cut. Now 16 of 18 see at least one more hike. Warsh again appears not to have submitted a dot. 2027 is much more split: 8 https://t.co/oG1i421IVt",
-    "topics": [
-      "פד",
-      "ריבית",
-      "מדיניות מונטרית"
-    ]
-  },
-  {
     "date": "2026-09-20",
     "title": "Trump is creating an “AI Force” & will name an AI czar. He says the U.S. will not slow or stifle AI development. Trump says AI could eventually account for as much as 25% of U.S. GDP. https://t.co/Ti2DjTPtpI",
     "topics": [
       "AI",
       "מדיניות",
       "טכנולוגיה"
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "title": "OIL TANKER RATES HIT RECORD $1 MILLION A DAY AS HORMUZ TRAFFIC COLLAPSES The cost of chartering a VLCC from the Persian Gulf to China has surged to roughly $1.035M per day, up nearly 5x from around $208K before the Iran war. Only 17 commodity vessels crossed the Strait of https://t.co/zWaIJD77yW",
+    "topics": [
+      "נפט",
+      "לוגיסטיקה",
+      "גיאופוליטיקה"
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+    "topics": [
+      "AI",
+      "אנרגיה גרעינית",
+      "השקעות תשתיות"
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+    "topics": [
+      "סנקציות",
+      "גיאופוליטיקה",
+      "תעופה"
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Google confirms Gemini models hacked three companies in May 2026",
+    "topics": [
+      "Google",
+      "AI",
+      "אבטחה"
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "topics": [
+      "AI",
+      "OpenAI",
+      "מתמטיקה"
     ]
   }
 ]
