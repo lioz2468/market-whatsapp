@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "final_message": "Supermicro התחילה לשלוח את ה-racks של NVIDIA מדגם Vera Rubin - כל מתלה כולל 72 כרטיסי גרפיקה, 36 מעבדים ו-20.7 טרה-בייט של זיכרון HBM4. יש גם גרסת על עם 1,152 כרטיסים ב-16 מתלים ביחד.\n\nמה שמעניין כאן זה לא רק NVIDIA ו-Supermicro - זה גם היצרנים של רכיבי הקירור, ספקי החשמל ומפעילי מרכזי הנתונים שצריכים לקלוט תשתית בסדר גודל כזה. כשמחשב בודד שוקל כמה טונות ואוכל מגה-ואטים - כל שרשרת האספקה נכנסת להילוך גבוה.",
+    "title": "$SMCI BEGINS SHIPPING $NVDA VERA RUBIN NVL72 RACKS Each rack includes 72 Rubin GPUs, 36 Vera CPUs, 20.7 TB of HBM4 memory and 216 TB/s of NVLink scale-up bandwidth. Supermicro is also offering a 16-rack Scalable Unit with 1,152 Rubin GPUs and 331 TB of HBM4, paired with its https://t.co/PpfPh16kKv",
+    "source": "Twitter @wallstengine",
+    "hash": "0136725e8edc7149",
+    "importance": 9,
+    "tag": "גלובלי",
+    "topics": [
+      "AI",
+      "צ'יפים",
+      "תשתיות"
+    ]
+  },
+  {
+    "final_message": "סין בוחנת את השימוש בציוד רשת של Broadcom במרכזי הנתונים הממשלתיים שלה. הממצאים הראשוניים מצביעים על כך שהציוד של החברה מהווה כ-90% מהתשתית המותקנת שם - מספר שמסביר למה הסינים נדלקו על זה.\n\nזו לא סתם ביקורת טכנית. אם סין תחליט להחליף את הציוד, מדובר בחשיפה ענקית של Broadcom לשוק מרכזי. מנגד, זה בדיוק הסוג של מהלך שמאיץ את המרוץ הסיני לפתח ציוד רשת מקומי - מה שמשפיע על כל שרשרת האספקה של רכיבי תשתית.",
+    "title": "China 🇨🇳 is reviewing Broadcom $AVGO switch use across state-backed data centers, with preliminary findings suggesting they may account for as much as 90% of installed equipment. https://t.co/9me0UpHcue",
+    "source": "Twitter @wallstengine",
+    "hash": "eccdac23c4f8e63b",
+    "importance": 9,
+    "tag": "גלובלי",
+    "topics": [
+      "סין",
+      "רגולציה",
+      "תשתיות",
+      "צי"
+    ]
+  },
+  {
+    "final_message": "המניה של IonQ קפצה בחדות ב-pre-market אחרי שהחברה הודיעה על פריצת דרך: היא הפעילה בהצלחה את מפענח השגיאות הראשון בזמן אמת מקצה לקצה בתעשייה. זה נשמע טכני, אבל זה בעצם אחד מאבני הנגף הגדולים בדרך למחשוב קוונטי שימושי. המי שצריך לשים לב מעבר לשוק הקוונטי עצמו: חברות אבטחת סייבר, הצפנה, ופארמה - כי מחשב קוונטי אמיתי ישנה את כל החישובים שהם מסתמכים עליהם היום.",
+    "title": "IonQ shares rally after company says it made a major quantum computing breakthrough",
+    "source": "CNBC Top News",
+    "hash": "ba6278fc77f4fcd6",
+    "importance": 8,
+    "tag": "ארה\"ב",
+    "topics": [
+      "קוונטום",
+      "טכנולוגיה",
+      "אימוץ מוסדי"
+    ]
+  }
+]
