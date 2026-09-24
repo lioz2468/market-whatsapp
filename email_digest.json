@@ -1,196 +1,144 @@
 {
-  "generated_at": "2026-09-23T08:27:46.463440+00:00",
+  "generated_at": "2026-09-24T08:20:05.457646+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "War between U.S. and Iran becomes a test of who will blink first",
+      "title": "Trump and Xi meet at moment of global consequence",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/22/nx-s1-5966364/war-between-u-s-and-iran-becomes-a-test-of-who-will-blink-first",
-      "summary": "More than six months into the conflict between the U.S. and Iran, it's become a high-stakes game of endurance.",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+      "summary": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
       "importance": 8,
       "topics": [
-        "ארה״ב",
-        "איראן",
-        "קונפליקט"
+        "טראמפ",
+        "סין",
+        "דיפלומטיה"
       ],
-      "published": "Tue, 22 Sep 2026 04:47:37 -0400"
+      "published": "Wed, 23 Sep 2026 14:23:19 -0400"
     },
     {
-      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
-      "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
       "importance": 8,
       "topics": [
         "ארה״ב",
-        "איראן",
-        "דיפלומטיה"
+        "סין",
+        "AI"
       ],
-      "published": "Wed, 23 Sep 2026 06:12:56 GMT"
+      "published": "Wed, 23 Sep 2026 22:01:17 GMT"
     },
     {
-      "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+      "title": "Trump-Xi summit: Here’s what’s on the agenda, and why it matters",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
-      "summary": "Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters?traffic_source=rss",
+      "summary": "The leaders of the US and China are expected to discuss trade, AI and Iran in their third in-person meeting in a year.",
       "importance": 8,
       "topics": [
-        "אירן",
         "ארה״ב",
-        "דיפלומטיה"
+        "סין",
+        "סחר"
       ],
-      "published": "Wed, 23 Sep 2026 04:42:15 +0000"
+      "published": "Thu, 24 Sep 2026 06:11:30 +0000"
     },
     {
-      "title": "\"רצח עם\", \"מחנה ריכוז\", \"פשע מלחמה\": נאום אחרי נאום נגד ישראל בעצרת האו\"ם",
+      "title": "תחקיר הקרב במוצב פגה ב-7/10: הכוחות לא תרגלו תרחיש פשיטה, 18 לוחמים נהרגו",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bkwx500e5fe",
-      "summary": "ארדואן כינה את עזה \"מחנה ריכוז לא אנושי\", אמיר קטאר טען ל\"רצח עם בכל מובן המילה\", מקרון אמר שהמתרחש ברצועה \"צריך לבייש את כולנו\" ומלך ירדן האשים ב\"תיאבון התפשטות\". גם ר\"מ בריטניה ונשיא ברזיל הצטרפו לביקורת, מחוץ לאולם א-שרע תקף: \"7/10 לא צריך לקבוע מדיניות\". המתקפה באו\"ם - סיכום ביניים",
+      "url": "https://www.ynet.co.il/news/article/hybtwxf9gg",
+      "summary": "ממצאי התחקיר על אודות המוצב שהיה אמור להגן על קיבוץ בארי העלו כי צה\"ל נכשל במשימתו בשל קונספציה מוטעית. לצד זאת, התחקיר מעיד על גילויי גבורה עילאיים וחתירה למגע של לוחמים שניהלו קרב נואש עד הכדור האחרון",
       "importance": 8,
       "topics": [
         "ישראל",
-        "או\"ם",
-        "דיפלומטיה"
+        "צה\"ל",
+        "7/10"
       ],
-      "published": "Wed, 23 Sep 2026 07:58:02 +0300"
+      "published": "Thu, 24 Sep 2026 07:28:12 +0300"
     },
     {
-      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
+      "title": "Fears of return to war grow in Ethiopia's Tigray region",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
-      "summary": "As the U.S. conflict with Iran drags, the Iranian-backed Houthis in Yemen have opened a new front, taking new territory and displacing more than 100,000 people.",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
+      "summary": "Fears are growing of a return to war in Ethiopia's Tigray region, just four years after a devastating conflict ended in a fragile peace deal.",
       "importance": 7,
       "topics": [
-        "תימן",
-        "חות'ים",
-        "איראן"
+        "אתיופיה",
+        "קונפליקט",
+        "שלום"
       ],
-      "published": "Tue, 22 Sep 2026 06:59:37 -0400"
+      "published": "Thu, 24 Sep 2026 00:23:38 -0400"
     },
     {
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "title": "Iran's president gives a rare wartime speech at the U.N.",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
+      "summary": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
       "importance": 7,
       "topics": [
-        "גרינלנד",
-        "דנמרק",
-        "ארקטיקה"
+        "איראן",
+        "ארה״ב",
+        "מתח"
       ],
-      "published": "Tue, 22 Sep 2026 21:36:55 GMT"
+      "published": "Wed, 23 Sep 2026 14:14:40 -0400"
     },
     {
-      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-      "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+      "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
       "importance": 7,
       "topics": [
-        "אקלים",
-        "אירוע טבע"
+        "ארה״ב",
+        "סין",
+        "AI"
       ],
-      "published": "Tue, 22 Sep 2026 12:54:14 GMT"
+      "published": "Wed, 23 Sep 2026 12:13:52 -0400"
     },
     {
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
       "importance": 7,
       "topics": [
-        "אירופה",
+        "איראן",
+        "ארה״ב",
+        "מתח"
+      ],
+      "published": "Wed, 23 Sep 2026 18:15:31 GMT"
+    },
+    {
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "importance": 7,
+      "topics": [
+        "אתיופיה",
+        "קונפליקט אזורי"
+      ],
+      "published": "Thu, 24 Sep 2026 04:37:47 GMT"
+    },
+    {
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
         "רוסיה",
-        "אוקראינה"
+        "משבר הומניטרי"
       ],
-      "published": "Tue, 22 Sep 2026 19:06:06 GMT"
-    },
-    {
-      "title": "Pakistan seals roads to Islamabad before protests for Imran Khan’s release",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/pakistan-seals-islamabad-roads-before-protests-for-imran-khans-release?traffic_source=rss",
-      "summary": "Police close major highways into Islamabad as supporters of jailed former prime minister plan to march into the capital.",
-      "importance": 7,
-      "topics": [
-        "פקיסטן",
-        "מהלומות פוליטיות",
-        "הפגנות"
-      ],
-      "published": "Wed, 23 Sep 2026 06:59:03 +0000"
-    },
-    {
-      "title": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
-      "summary": "France's Macron says suffering in Gaza should 'shame all of us' as Canada's Carney pledges $71m for two-state efforts.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "פלסטינה",
-        "דיפלומטיה"
-      ],
-      "published": "Wed, 23 Sep 2026 02:36:32 +0000"
+      "published": "Wed, 23 Sep 2026 23:58:50 GMT"
     }
   ],
   "business": [
     {
-      "title": "$SOFI + 5% Became the first national bank to settle payments with a stablecoin on Mastercard’s network, moving its entire $25B+ annualized card program to blockchain-based settlement. https://t.co/nKzIiZicTd https://t.co/2imBmMECiR",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2102390879344594947",
-      "summary": "SoFi קפצה 5% אחרי שהפכה לבנק הלאומי הראשון בארה\"ב שמסלק תשלומים דרך סטייבלקוין על הרשת של Mastercard. כל תוכנית כרטיסי האשראי שלה - מעל 25 מיליארד דולר בשנה - עוברת עכשיו לסליקה מבוססת בלוקצ'יין.\n\nזה לא עוד פיילוט. בנק עם רישיון פדרלי עושה את זה בקנה מידה מלא, וזה משנה את מה שאפשר לעשות בתשלומים. מי שצריך לשים לב: Visa, חברות הסליקה המסורתיות, וכל מי שמחזיק בתשתית התשלומים הישנה.",
-      "importance": 9,
-      "topics": [
-        "בלוקצ'יין",
-        "תשלומים",
-        "רגולציה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Paramount’s $49 Billion Debt Sale to Kick Off After Lawsuits End",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/paramount-s-49-billion-debt-sale-to-kick-off-after-lawsuits-end",
-      "summary": "עסקת הענק של Skydance על Warner Bros. Discovery מתקדמת - הבנקאים מתחילים למכור חוב של 49 מיליארד דולר למשקיעים, אחרי שהחברה סיימה את כל התביעות המשפטיות שעיכבו את העסקה. בסה\"כ מדובר ברכישה של 110 מיליארד דולר.\n\nמה שמעניין פה: כשעסקה בסקייל כזה מגיעה לשוק החוב, היא מושכת ביקוש ממשקיעים מוסדיים גדולים שאחרת היו מפנים כסף לאפיקים אחרים - זה לא ניטרלי לשוק.",
-      "importance": 9,
-      "topics": [
-        "מיזוג עיתונות",
-        "מממון",
-        "הון סיכון"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning",
+      "title": "Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening",
       "source": "CNBC Top News",
-      "url": "",
-      "summary": "הנפט עלה היום על רקע הודעת שר האוצר האמריקאי בסנט, שאמר ב-CNBC שמחר נסגרות כל חברות התעופה האיראניות - צעד שמאותת על הסלמה ממשית ביחסי ארה\"ב-איראן.\n\nכשהמתח בין השתיים עולה, השוק מתחיל לתמחר סיכון אמיתי על אספקת נפט מהמזרח התיכון. ומעבר לנפט - ביטוח ימי, תחבורה ושרשראות אספקה אזוריות כבר מרגישים את זה לפני שמישהו בכלל ירה יריה.",
-      "importance": 8,
-      "topics": [
-        "נפט",
-        "סנקציות",
-        "אנרגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Alibaba shares jump as new AI chip, data center buildout plans unveiled",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
-      "summary": "המניה של Alibaba קפצה 3% בהונג קונג אחרי שהחברה הכריזה על שבב AI חדש ותוכנית להרחבה משמעותית של מרכזי הנתונים שלה ברחבי העולם.\n\nזה לא רק חדשות על Alibaba - זה סימן שהמרוץ לתשתיות AI מתרחב מעבר לחברות האמריקאיות. כשחברה כזו מגדילה את ההשקעה בשבבים ובמרכזי נתונים, זה לחץ ישיר על NVIDIA ועל ספקיות תשתית ענן שיצטרכו להתמודד עם מתחרה רציני יותר ממה שחשבו.",
-      "importance": 8,
-      "topics": [
-        "בינה מלאכותית",
-        "טכנולוגיה",
-        "אליבאבא"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
-      "summary": "איראן מסרה לארה\"ב שהיא יכולה לפתוח מחדש את מיצר הורמוז תוך 7 ימים - אם ייפסק הלחץ הצבאי. מיצר הורמוז הוא נקודת המחנק של שוק הנפט העולמי: כמעט 20% מסחר הנפט הגלובלי עובר דרכו. מחירי הנפט ירדו על הידיעה - השוק מתמחר הפחתת סיכון. מי שפחות ברור שייפגע: חברות ביטוח ימי, יצואני נפט אמריקאיים שנהנו מהמחירים הגבוהים, ומדינות המפרץ שצברו כוח מיקוח בשנתיים האחרונות.",
-      "importance": 8,
+      "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+      "summary": "מצרי הורמוז חזר לכותרות - איראן מציעה לראשונה תנאים לפתיחה מחדש של המצר. זה שינוי טון משמעותי: עד כה טהראן דחתה כל שיח, עכשיו היא שולחת איתות דיפלומטי. כ-20% מסחר הנפט העולמי עובר דרך המצר הזה, ולמחירי הנפט יש השפעות עקיפות שרבים לא מחשיבים - על כרטיסי טיסה, מחירי אוכל ועלויות ייצור. שווה לעקוב אחרי זה בימים הקרובים.",
+      "importance": 9,
       "topics": [
         "אנרגיה",
         "נפט",
@@ -199,173 +147,228 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Wall Street and AI ruined your ‘diversified’ portfolio",
+      "title": "Fed's Collins warns inflation could be 'notably' higher after backing rate hike",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html",
+      "summary": "נשיאת הפד של בוסטון, סוזן קולינס, אמרה אתמול שהסיכוי שהאינפלציה תישאר גבוהה משמעותית מעל יעד ה-2% של הפד - עלה. זה לא סתם הצהרה: מדובר באחד מחברי הפד שבעבר תמך בהעלאות ריבית, וכשמישהו כזה מדבר על \"notably higher\", שווה לשים לב.\n\nההשפעה הפחות ברורה: אג\"ח ממשלתיות ומשכנתאות בריבית קבועה יספגו לחץ, וכל חברה שמחזיקה חוב גדול בריבית משתנה עלולה למצוא את עצמה בסחבת.",
+      "importance": 9,
+      "topics": [
+        "אינפלציה",
+        "פד",
+        "ריבית"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "U.S. 10Y yield: 5.044% - highest since 2007 Mfg. PMI: highest since May 2022 Services PMI: highest since July 2021 Composite PMI: highest since July 2021 https://t.co/MEEsC0BPX2 https://t.co/aynuD9Wudc",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2102759349307498698",
+      "summary": "תשואת האג\"ח האמריקאי ל-10 שנים קפצה ל-5.044% - הרמה הגבוהה ביותר מאז 2007. ובאותו זמן, נתוני ה-PMI (מדדי פעילות כלכלית) מגיעים בשיאים של שנים - הייצור, השירותים והמדד המשולב כולם ברמות שלא ראינו מאז 2021-2022.\n\nהבעיה: הכלכלה חזקה מדי. זה בדיוק מה שגורם לפד להישאר בעמדה קשוחה - ולתשואות לטפס. השפעה עקיפה שפחות מדברים עליה: תשואה של 5% על אג\"ח אמריקאי \"בטוח\" שואבת כסף החוצה מכל שוק אחר - מניות, נדל\"ן, שווקים מתעוררים.",
+      "importance": 9,
+      "topics": [
+        "ריבית",
+        "אינפלציה",
+        "פד"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "$SMCI BEGINS SHIPPING $NVDA VERA RUBIN NVL72 RACKS Each rack includes 72 Rubin GPUs, 36 Vera CPUs, 20.7 TB of HBM4 memory and 216 TB/s of NVLink scale-up bandwidth. Supermicro is also offering a 16-rack Scalable Unit with 1,152 Rubin GPUs and 331 TB of HBM4, paired with its https://t.co/PpfPh16kKv",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "summary": "Supermicro התחילה לשלוח את ה-racks של NVIDIA מדגם Vera Rubin - כל מתלה כולל 72 כרטיסי גרפיקה, 36 מעבדים ו-20.7 טרה-בייט של זיכרון HBM4. יש גם גרסת על עם 1,152 כרטיסים ב-16 מתלים ביחד.\n\nמה שמעניין כאן זה לא רק NVIDIA ו-Supermicro - זה גם היצרנים של רכיבי הקירור, ספקי החשמל ומפעילי מרכזי הנתונים שצריכים לקלוט תשתית בסדר גודל כזה. כשמחשב בודד שוקל כמה טונות ואוכל מגה-ואטים - כל שרשרת האספקה נכנסת להילוך גבוה.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "צ'יפים",
+        "תשתיות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "China 🇨🇳 is reviewing Broadcom $AVGO switch use across state-backed data centers, with preliminary findings suggesting they may account for as much as 90% of installed equipment. https://t.co/9me0UpHcue",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "summary": "סין בוחנת את השימוש בציוד רשת של Broadcom במרכזי הנתונים הממשלתיים שלה. הממצאים הראשוניים מצביעים על כך שהציוד של החברה מהווה כ-90% מהתשתית המותקנת שם - מספר שמסביר למה הסינים נדלקו על זה.\n\nזו לא סתם ביקורת טכנית. אם סין תחליט להחליף את הציוד, מדובר בחשיפה ענקית של Broadcom לשוק מרכזי. מנגד, זה בדיוק הסוג של מהלך שמאיץ את המרוץ הסיני לפתח ציוד רשת מקומי - מה שמשפיע על כל שרשרת האספקה של רכיבי תשתית.",
+      "importance": 9,
+      "topics": [
+        "סין",
+        "רגולציה",
+        "תשתיות",
+        "צי"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
-      "summary": "הפיזור שחשבת שיש לך בתיק - אולי הוא לא באמת קיים.\n\nמחקרים אחרונים מראים שתיקים שנראים \"מגוונים\" חשופים להרבה יותר AI ממה שנדמה. S&P 500, קרנות טכנולוגיה, ואפילו קרנות \"גלובליות\" - כולן נשענות כבר על אותן 5-6 חברות. כשמשהו זז שם, הכל זז ביחד.\n\nמה שמעניין הוא ההשפעה העקיפה: גם מי שמחזיק נדל\"ן מסחרי, תשתיות או אנרגיה - חלק גדול מהביקוש שם מגיע בדיוק מהצמיחה של אותן חברות AI.",
+      "url": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
+      "summary": "מנהל הקרן של BNY Mellon שמתמחה בתשתיות גלובליות אומר שהשוק טועה כשהוא חושב שה-AI כבר \"תמחר\" הכל.\n\nהטיעון שלו: רוב הדיון על AI מתמקד ב-NVIDIA ובחברות הטכנולוגיה הגדולות - אבל מי שמסתכל רק שם מפספס את התמונה הגדולה. הביקוש לחשמל, לחיבורים, לתשתיות פיזיות - זה עוד בהתחלה.\n\nמה שמעניין פה הוא ההשפעה העקיפה: חברות שירותי ציבור, ספקיות תשתית, אפילו חברות מים וקירור - אלה שכמעט לא מדברים עליהן בהקשר AI הן אלה שרואות ביקוש אמיתי.",
       "importance": 8,
       "topics": [
         "AI",
-        "תיקים",
-        "ריכוז סיכון"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Looking for Real-Estate Bargains? Watch These Apartment Loans",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/real-estate/looking-for-real-estate-bargains-watch-these-apartment-loans-cc49fa8e?mod=rss_markets_main",
-      "summary": "53% מהמשכנתאות על דירות להשכרה שהונפקו ב-2021 כבר בפיגור - זה מספר שעוצר אותי.\n\nמה קרה? אותן שנים של ריבית אפס יצרו גל הלוואות לרוכשי נדל\"ן מניב. הריבית עלתה, שכר הדירה לא עמד בקצב, והלווים נשארו עם תשלומים שהם לא יכולים לעמוד בהם. עכשיו הבנקים והמשקיעים שקנו את האג\"ח האלה סופגים.\n\nמי שלא ברור שיושפע: קרנות הפנסיה שמחזיקות ניירות ערך מגובי משכנתאות, וגם שוק האשראי לנדל\"ן מסחרי בכלל - כשמשקיעים רואים נתון כזה, הם מחמירים תנאים לכולם.",
-      "importance": 8,
-      "topics": [
-        "נדלן",
-        "אשראי",
-        "בועה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
-      "summary": "חוק הקריפטו האמריקאי תקוע בסנאט - וזה יוצר מצב מעניין: הרגולטורים הפדרליים והמדינתיים מתחרים עכשיו על מי יכתוב את חוקי המשחק לפניהם.\n\nכשאין חוק מאוחד, כל רגולטור מושך לכיוון שלו - ה-SEC, ה-CFTC, ומדינות בודדות כמו ניו יורק. זה יוצר פסיפס של כללים שונים, ומי שייפגע הכי הרבה הם הבורסות והסטארטאפים שצריכים לנווט במציאות שבה הכללים שונים ממדינה למדינה. לא כאוס, אבל גם לא הבהירות שהמוסדיים חיכו לה.",
-      "importance": 8,
-      "topics": [
-        "קריפטו",
-        "רגולציה",
-        "פינטק"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Meta’s Muse Comes for Financial Stocks",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/metas-muse-comes-for-financial-stocks-17bdf11a?mod=rss_markets_main",
-      "summary": "הסוכן החדש של Meta מאיים על אחד מהמגזרים הכי \"מוגנים\" בשוק - חברות ניהול הנכסים, הברוקרים וחברות הביטוח.\n\nהרעיון פשוט: אם בינה מלאכותית יכולה לתת ייעוץ פיננסי, לנהל תיקים ולחתום על פוליסות ביטוח - למה לשלם עמלות גבוהות לאנשים שעושים בדיוק את זה?\n\nמה שמעניין הוא ההשפעה העקיפה: חברות תוכנה פיננסית כמו SS&C ו-FIS, שהכלים שלהן מוטמעים עמוק אצל המוסדיים, עלולות למצוא את עצמן פחות רלוונטיות הרבה יותר מהר ממה שמישהו חשב.",
-      "importance": 8,
-      "topics": [
-        "בינה מלאכותית",
-        "FinTech",
-        "תעשיות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "איראן מציעה תנאים לפתיחה מחדש של מצר הורמוז - ואם זה יקרה, שליש מסחר הנפט הימי בעולם יחזור לזרום.\n\nטראמפ אמר שהסכם יכול לבוא אחרי הבחירות האמריקאיות לקונגרס, מה שמציב טווח זמן די ברור. השוק כבר מתחיל לתמחר את האפשרות - מחירי הנפט רגישים מאוד לכל שינוי בכיוון הזה.\n\nמה שפחות מדברים עליו: חברות ביטוח ימי ומחירי משלוח גלובליים הם הברומטר האמיתי פה. שם נראה את התנועה הראשונה.",
-      "importance": 8,
-      "topics": [
-        "אנרגיה",
-        "ג'יאופוליטיקה",
-        "סחר"
+        "תשתיות",
+        "השקעות"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "IonQ shares rally after company says it made a major quantum computing breakthrough",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "המניה של IonQ קפצה בחדות ב-pre-market אחרי שהחברה הודיעה על פריצת דרך: היא הפעילה בהצלחה את מפענח השגיאות הראשון בזמן אמת מקצה לקצה בתעשייה. זה נשמע טכני, אבל זה בעצם אחד מאבני הנגף הגדולים בדרך למחשוב קוונטי שימושי. המי שצריך לשים לב מעבר לשוק הקוונטי עצמו: חברות אבטחת סייבר, הצפנה, ופארמה - כי מחשב קוונטי אמיתי ישנה את כל החישובים שהם מסתמכים עליהם היום.",
+      "importance": 8,
+      "topics": [
+        "קוונטום",
+        "טכנולוגיה",
+        "אימוץ מוסדי"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "summary": "הפסקת האש בין ארה\"ב לסין הוארכה בשני חודשים נוספים - עד ה-10 בינואר. בסנט הודיע על זה ברקע ביקור המדינה של שי, ואמר בגלוי שסין עדיין צריכה לעמוד בהתחייבויות שלה.\n\nזה אומר שהמכסים הגבוהים לא חוזרים עכשיו - וזה נשימה של הקלה לחברות שמסתמכות על שרשרות אספקה מסין. מי שאולי לא חושבים עליו: יצרניות אירופאיות שמייצרות בסין לשוק האמריקאי - גם הן מרוויחות מהארכה הזו.",
+      "importance": 8,
+      "topics": [
+        "סחר",
+        "ארה״ב-סין",
+        "טריפים"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
+      "summary": "חלקי מטוס F-35 - כנופיית הקוקפיט ודלת תא הנשק - הגיעו לידי הרשויות הסיניות בהונג קונג, לפי CNBC. המשלוח של UPS יצא מאוסטרליה לארה\"ב בסוף מאי ופשוט... הגיע לשם.\n\nזה לא רק עניין ביטחוני. הפרת חוקי ייצוא טכנולוגיה צבאית היא חזית רגולטורית שיכולה לפגוע בחברות לוגיסטיקה, ספקי ביטחון ואפילו חברות שמייצרות רכיבים שנמצאים בשרשרת ייצור של מטוסים צבאיים. כשהפנטגון מתחיל לחקור - השלכות חוזות רחוק.",
+      "importance": 8,
+      "topics": [
+        "רגולציה",
+        "סין",
+        "ביטחון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "A Perfect Storm Is Raging in the Bond Market",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/a-perfect-storm-is-raging-in-the-bond-market-43d9b44b?mod=rss_markets_main",
+      "summary": "תשואת אגרות החוב האמריקאיות קפצה מעל 5.1% - העלייה היומית החדה ביותר בלמעלה משנה. זה לא מספר טכני - זה סימן שהשוק מתחיל לפקפק בתוואי הריבית של הפד, ואולי גם בעוצמת הגירעון האמריקאי.\n\nההשפעה העקיפה: כשתשואות עולות ככה, כל מי שמחזיק מניות צמיחה יושב לא נוח - כי עלות ההון עולה ורווחים עתידיים שווים פחות היום. גם שוק הנדל\"ן האמריקאי ירגיש את זה בריביות המשכנתאות.",
+      "importance": 8,
+      "topics": [
+        "אגרות חוב",
+        "ריבית",
+        "מאקרו"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "מודלים שפה"
-      ],
-      "published": "Tue, 22 Sep 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
-      "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
+      "title": "משקפי VR, משקפיים בלי מצלמה והרבה Muse: הנה כל מה שמטא חשפה הלילה",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/meta-connect-2026-muse-glasses-announcements/",
+      "summary": "אחרי כמה שנים שבהן היא השתרכה מאחור, נראה ש-Meta מצאה את המוג'ו שלה בתחום ה-AI עם Muse, סוכן ה-AI החדש שלה שבקושי חוגג שבועיים, וכבר מסתמן כלהיט גדול. כמה גדול? עד כדי כך שכנס Meta Connect 2026 שהתקיים הלילה סבב כמעט כולו סביב העוזר החדש. לצידו, נחשפו גם לא מעט משקפיים חדשים, בהם קונספט חדש […] The post משקפי VR, משקפיים בלי מצלמה והרבה Muse: הנה כל מה שמטא חשפה הלילה appeared first on גיקטיים .",
       "importance": 8,
       "topics": [
-        "אבטחה",
-        "סייבר"
-      ],
-      "published": "Tue, 22 Sep 2026 18:40:30 +0000"
-    },
-    {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "importance": 8,
-      "topics": [
+        "Meta",
         "AI",
-        "Anthropic",
-        "מודלים שפה"
+        "סוכנים"
       ],
-      "published": "Tue, 22 Sep 2026 16:30:07 +0000"
+      "published": "Thu, 24 Sep 2026 06:42:41 +0000"
     },
     {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "title": "Everything new coming to Meta’s AI agent Muse",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
       "importance": 7,
       "topics": [
-        "AI",
-        "מימון",
-        "טכנולוגיית נתונים"
+        "Meta",
+        "AI agents",
+        "משקפיים חכמים"
       ],
-      "published": "Tue, 22 Sep 2026 21:56:43 +0000"
+      "published": "Thu, 24 Sep 2026 01:13:32 +0000"
     },
     {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
       "importance": 7,
       "topics": [
-        "שבבים",
+        "Biotech",
         "AI",
-        "Qualcomm"
+        "מימון"
       ],
-      "published": "Tue, 22 Sep 2026 20:00:00 +0000"
+      "published": "Wed, 23 Sep 2026 19:31:28 +0000"
     },
     {
-      "title": "Stolen passwords are exposing America’s water providers to hackers",
+      "title": "The old cybersecurity model is breaking",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
-      "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a […]",
       "importance": 7,
       "topics": [
-        "אבטחה",
-        "תשתיות קריטיות"
+        "AI safety",
+        "Cybersecurity",
+        "סיבוב הון"
       ],
-      "published": "Tue, 22 Sep 2026 15:50:58 +0000"
+      "published": "Wed, 23 Sep 2026 17:44:02 +0000"
     },
     {
-      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+      "title": "Meta is making a standalone Muse AI gadget",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-      "summary": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips […]",
+      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for […]",
       "importance": 7,
       "topics": [
-        "מוליכים למחצה",
-        "Qualcomm",
-        "AI"
+        "Meta",
+        "AI agents",
+        "חומרה"
       ],
-      "published": "2026-09-22T16:00:00-04:00"
+      "published": "2026-09-23T20:15:20-04:00"
     },
     {
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "title": "Meta’s next VR device isn’t a headset — it’s glasses",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
+      "summary": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and getting work done. Imagine a pair of hefty black sunglasses with […]",
       "importance": 7,
       "topics": [
-        "AI",
-        "OpenAI",
-        "Anthropic"
+        "Meta",
+        "VR/AR",
+        "חומרה"
       ],
-      "published": "Tue, 22 Sep 2026 21:25:18 +0000"
+      "published": "2026-09-23T19:42:10-04:00"
+    },
+    {
+      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+      "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
+      "importance": 7,
+      "topics": [
+        "אבטחה סייבר",
+        "עדויות פרובה",
+        "הכרזה"
+      ],
+      "published": "Wed, 23 Sep 2026 21:46:36 +0000"
+    },
+    {
+      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+      "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+      "importance": 7,
+      "topics": [
+        "נהיגה אוטונומית",
+        "בטיחות",
+        "רגולציה"
+      ],
+      "published": "Wed, 23 Sep 2026 14:20:23 +0000"
     }
   ]
 }
