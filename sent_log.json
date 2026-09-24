@@ -792,7 +792,8 @@
     "28e10fbaade890ae": "2026-09-24T05:01:34.719580+00:00",
     "2e04ee93c8037aab": "2026-09-24T06:31:22.719029+00:00",
     "81eddd66c4177337": "2026-09-24T08:01:25.008402+00:00",
-    "0c3219e9ba0dad9f": "2026-09-24T09:31:12.909594+00:00"
+    "0c3219e9ba0dad9f": "2026-09-24T09:31:12.909594+00:00",
+    "4471f6c9cd888f06": "2026-09-24T11:01:23.023124+00:00"
   },
   "messages": [
     {
@@ -11318,7 +11319,21 @@
         "Apple",
         "חומרה"
       ]
+    },
+    {
+      "sent_at": "2026-09-24T11:01:23.023124+00:00",
+      "title": "DeepSeek has completed a $7.5B funding round at a $75B valuation, while annualized revenue has reached ~$1B, more than doubling from just a few months ago. Source: The Information https://t.co/OhUUcheeoX",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2103061265249919385",
+      "message": "גיוס של 7.5 מיליארד דולר בשווי של 75 מיליארד - זה מה ש-DeepSeek סגרה עכשיו, לפי The Information.\n\nמה שמעניין יותר: ההכנסות השנתיות שלהם הגיעו למיליארד דולר, והן הוכפלו בתוך כמה חודשים בלבד. קצב הצמיחה הזה הוא שמספר את הסיפור האמיתי.\n\nשווה לשים לב - זו לא עוד חברת AI סינית. DeepSeek הצליחה לשנות את השאלה מ\"מי הכי חזק טכנולוגית\" ל\"מי הכי יעיל ורווחי\". זה לחץ ישיר על כל מי שבנה את תזת ההשקעה שלו סביב ה-moat של OpenAI.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "מימון",
+        "מגמות טכנולוגיה"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-24T09:30:27.012655+00:00"
+  "last_auto_run": "2026-09-24T11:00:35.461187+00:00"
 }
