@@ -52,5 +52,68 @@
       "OpenAI",
       "מתמטיקה"
     ]
+  },
+  {
+    "date": "2026-09-24",
+    "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+    "topics": [
+      "ארה״ב",
+      "איראן",
+      "דיפלומטיה"
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "title": "US to build two military bases in Greenland under new deal with Denmark",
+    "topics": [
+      "גרינלנד",
+      "דנמרק",
+      "ארקטיקה"
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
+    "topics": [
+      "אנרגיה",
+      "נפט",
+      "גיאופוליטיקה"
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms",
+    "topics": [
+      "אנרגיה",
+      "ג'יאופוליטיקה",
+      "סחר"
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "topics": [
+      "AI",
+      "OpenAI",
+      "מודלים שפה"
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "topics": [
+      "AI",
+      "Anthropic",
+      "מודלים שפה"
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "topics": [
+      "AI",
+      "מימון",
+      "טכנולוגיית נתונים"
+    ]
   }
 ]
