@@ -791,7 +791,8 @@
     "ba6278fc77f4fcd6": "2026-09-23T18:30:31.467014+00:00",
     "28e10fbaade890ae": "2026-09-24T05:01:34.719580+00:00",
     "2e04ee93c8037aab": "2026-09-24T06:31:22.719029+00:00",
-    "81eddd66c4177337": "2026-09-24T08:01:25.008402+00:00"
+    "81eddd66c4177337": "2026-09-24T08:01:25.008402+00:00",
+    "0c3219e9ba0dad9f": "2026-09-24T09:31:12.909594+00:00"
   },
   "messages": [
     {
@@ -11302,7 +11303,22 @@
         "ריבית",
         "מאקרו"
       ]
+    },
+    {
+      "sent_at": "2026-09-24T09:31:12.909594+00:00",
+      "title": "$META launches its new $1,299 VR Glasses, weighing just 100g by moving the battery + compute into an external pack. They’re about 1/3 the price of Apple’s Vision Pro, with 3-hour battery life. Meta says the hardware is on track to be sold without a loss. https://t.co/IvtZGhFpsg",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2102909842574987371",
+      "message": "Meta משיקה משקפי VR חדשים במחיר 1,299 דולר - כשליש ממחיר Vision Pro של Apple. המשקפים שוקלים 100 גרם בלבד כי הסוללה ומערכת העיבוד עברו לחבילה חיצונית, עם סוללה לשלוש שעות. מה שמעניין במיוחד: Meta אומרת שהם כבר מוכרים את החומרה ללא הפסד - זה שינוי גדול לחברה שהיתה רגילה לסבסד מכשירים.\n\nלאפל יש סיבה לדאוג, אבל הפגיעה הפחות ברורה היא בחברות שמפתחות תוכן ואפליקציות לפלטפורמת Vision Pro - נפח המשתמשים שהן יכולות לצפות לו ירד כנראה עוד יותר.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "Meta",
+        "VR",
+        "Apple",
+        "חומרה"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-24T08:00:39.987984+00:00"
+  "last_auto_run": "2026-09-24T09:30:27.012655+00:00"
 }
