@@ -807,7 +807,8 @@
     "fcb8e77826ab8b90": "2026-09-25T12:31:28.729371+00:00",
     "3827c7ed42f300f6": "2026-09-25T14:01:30.285431+00:00",
     "4849fa3ca3defd65": "2026-09-25T15:31:38.012894+00:00",
-    "07c9c555c20f040f": "2026-09-25T17:01:34.852089+00:00"
+    "07c9c555c20f040f": "2026-09-25T17:01:34.852089+00:00",
+    "e21b21f2471a2fb1": "2026-09-25T18:31:36.592490+00:00"
   },
   "messages": [
     {
@@ -11546,7 +11547,21 @@
         "ארה\"ב-סין",
         "רגולציה"
       ]
+    },
+    {
+      "sent_at": "2026-09-25T18:31:36.592490+00:00",
+      "title": "Supermicro $SMCI says it’s moving “full speed ahead” with SpaceXAI on a gigawatt-scale AI data center buildout powered by Nvidia $NVDA GB300 systems. The company also teased a “surprise Christmas gift” before year-end. - Reuters",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2103544246200668187",
+      "message": "Supermicro מכריזה שהיא מתקדמת במלוא הקצב עם SpaceX AI על מרכז נתונים בקנה מידה של גיגאוואט - שיופעל על מערכות GB300 של NVIDIA.\n\nהסדר הזה מעניין לא רק בגלל הגודל שלו, אלא בגלל מה שהוא מסמן: השוק עובר מ-GPU בודדים לתשתיות שלמות שמישהו צריך לבנות, לאוורר ולתחזק. זה בדיוק הנישה של Supermicro. מי שעוד יושפע? ספקי קירור, חברות תשתית רשת וכמובן NVIDIA שממשיכה להיות הלב של כל פרויקט כזה.\n\nבנוסף - החברה רמזה ל\"מתנת חנוכה\" לפני סוף השנה. שווה לשים לב.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "תשתיות",
+        "השקעות"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-25T17:00:41.422252+00:00"
+  "last_auto_run": "2026-09-25T18:30:44.585088+00:00"
 }
