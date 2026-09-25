@@ -800,7 +800,8 @@
     "8aa4e76e9d0b1b1a": "2026-09-24T17:01:42.358079+00:00",
     "f3d1226aa2a046af": "2026-09-24T18:30:33.533831+00:00",
     "1bc8268776afefae": "2026-09-25T05:01:21.273445+00:00",
-    "392510a367b11673": "2026-09-25T06:31:10.591470+00:00"
+    "392510a367b11673": "2026-09-25T06:31:10.591470+00:00",
+    "1f090a0a9b84e490": "2026-09-25T08:01:28.615484+00:00"
   },
   "messages": [
     {
@@ -11440,7 +11441,21 @@
         "Anthropic",
         "השקעות"
       ]
+    },
+    {
+      "sent_at": "2026-09-25T08:01:28.615484+00:00",
+      "title": "ANTHROPIC SEEKS FOUNDER CONTROL AHEAD OF IPO Anthropic is asking shareholders to approve a new structure that would give CEO Dario Amodei and the company’s six other co-founders a combined 50.1% of voting power on most corporate matters, per The Information. The founders would",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2103242264906768452",
+      "message": "Anthropic מבקשת מבעלי המניות שלה לאשר מבנה שליטה חדש: שבעת המייסדים, בראשות המנכ\"ל דריו אמודאי, יקבלו יחד 50.1% מזכויות ההצבעה - עוד לפני הנפקה.\n\nזה לא רק עניין פנימי. הצעד מזכיר את מה שעשו Google ו-Meta בזמנם - לנעול שליטה מייסדים לפני שהציבור נכנס. המשמעות: מי שישקיע ב-IPO של Anthropic יקבל חשיפה לצמיחה, אבל לא השפעה אמיתית על הכיוון. שווה לשים לב לזה כשה-IPO יתקרב.",
+      "importance": 8,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "IPO",
+        "שלטון חברות"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-25T06:30:28.143712+00:00"
+  "last_auto_run": "2026-09-25T08:00:33.466725+00:00"
 }
