@@ -799,7 +799,8 @@
     "5b6568809b7b4cc9": "2026-09-24T15:31:57.193065+00:00",
     "8aa4e76e9d0b1b1a": "2026-09-24T17:01:42.358079+00:00",
     "f3d1226aa2a046af": "2026-09-24T18:30:33.533831+00:00",
-    "1bc8268776afefae": "2026-09-25T05:01:21.273445+00:00"
+    "1bc8268776afefae": "2026-09-25T05:01:21.273445+00:00",
+    "392510a367b11673": "2026-09-25T06:31:10.591470+00:00"
   },
   "messages": [
     {
@@ -11424,7 +11425,22 @@
         "נדלן",
         "צרכנות"
       ]
+    },
+    {
+      "sent_at": "2026-09-25T06:31:10.591470+00:00",
+      "title": "ANTHROPIC SIGNS $11.6B AKAMAI CLOUD DEAL Anthropic has committed $11.6B over seven years to use Akamai $AKAM infrastructure for growing CPU workloads, with options to expand the relationship by another $9B, bringing the potential total to ~$20B. As part of the deal, Anthropic https://t.co/vXNTZ3j6I6",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2103214384327840109",
+      "message": "Anthropic חתמה על עסקה של 11.6 מיליארד דולר עם Akamai - לשבע שנים, עם אופציה להרחבה של עוד 9 מיליארד. סך הכול עשרים מיליארד דולר פוטנציאלי לתשתיות ענן ומעבדים.\n\nהנקודה המעניינת פה: זו לא עסקת GPU. Anthropic מגדילה את ההוצאה על מעבדים רגילים לעומסי עבודה שלא דורשים כוח חישובי של בינה מלאכותית. זה רמז לכך שמודלי AI גדלים גם לרוחב - לא רק לעומק. Akamai, שרובנו מכירים כחברת CDN, הופכת לשחקן רציני בשוק ה-AI.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "תשתיות ענן",
+        "Anthropic",
+        "השקעות"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-25T05:00:34.023353+00:00"
+  "last_auto_run": "2026-09-25T06:30:28.143712+00:00"
 }
