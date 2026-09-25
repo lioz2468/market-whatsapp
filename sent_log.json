@@ -805,7 +805,8 @@
     "9c55d89a0f8d89dc": "2026-09-25T09:31:11.220773+00:00",
     "4aafecccb186a1e8": "2026-09-25T11:01:24.532517+00:00",
     "fcb8e77826ab8b90": "2026-09-25T12:31:28.729371+00:00",
-    "3827c7ed42f300f6": "2026-09-25T14:01:30.285431+00:00"
+    "3827c7ed42f300f6": "2026-09-25T14:01:30.285431+00:00",
+    "4849fa3ca3defd65": "2026-09-25T15:31:38.012894+00:00"
   },
   "messages": [
     {
@@ -11516,7 +11517,21 @@
         "פרמaceuticals",
         "שיבוש תעשיות"
       ]
+    },
+    {
+      "sent_at": "2026-09-25T15:31:38.012894+00:00",
+      "title": "Cracks in Oracle’s AI Data-Center Build-Out Appear in Massive New Mexico Project",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2?mod=rss_markets_main",
+      "message": "פרויקט ענק של Oracle לבניית מרכז נתונים בניו מקסיקו - שנקרא Project Jupiter - מראה סימני לחץ רציניים. החברה שלחה הודעת force majeure למפתח הפרויקט, הוציאה שותף מרכזי מהצוות, ונתקלת בהתנגדות מקומית. זה לא רק בעיה של Oracle - זה משקף אתגר שכל ענקיות ה-AI מתמודדות איתו: לבנות תשתיות בקצב שהביקוש דורש זה קשה בצורה מפתיעה. כשהתשתית נתקעת, גם הלקוחות שסומכים על הענן של Oracle נתקעים איתה - וזה שווה תשומת לב.",
+      "importance": 8,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "תשתיות",
+        "Oracle"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-25T14:00:38.662331+00:00"
+  "last_auto_run": "2026-09-25T15:30:51.081680+00:00"
 }
