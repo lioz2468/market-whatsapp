@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-09-20",
-    "title": "Trump is creating an “AI Force” & will name an AI czar. He says the U.S. will not slow or stifle AI development. Trump says AI could eventually account for as much as 25% of U.S. GDP. https://t.co/Ti2DjTPtpI",
-    "topics": [
-      "AI",
-      "מדיניות",
-      "טכנולוגיה"
-    ]
-  },
-  {
     "date": "2026-09-23",
     "title": "OIL TANKER RATES HIT RECORD $1 MILLION A DAY AS HORMUZ TRAFFIC COLLAPSES The cost of chartering a VLCC from the Persian Gulf to China has surged to roughly $1.035M per day, up nearly 5x from around $208K before the Iran war. Only 17 commodity vessels crossed the Strait of https://t.co/zWaIJD77yW",
     "topics": [
@@ -114,6 +105,52 @@
       "AI",
       "מימון",
       "טכנולוגיית נתונים"
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "title": "U.S. 10Y yield: 5.044% - highest since 2007 Mfg. PMI: highest since May 2022 Services PMI: highest since July 2021 Composite PMI: highest since July 2021 https://t.co/MEEsC0BPX2 https://t.co/aynuD9Wudc",
+    "topics": [
+      "ריבית",
+      "אינפלציה",
+      "פד"
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "title": "China 🇨🇳 is reviewing Broadcom $AVGO switch use across state-backed data centers, with preliminary findings suggesting they may account for as much as 90% of installed equipment. https://t.co/9me0UpHcue",
+    "topics": [
+      "סין",
+      "רגולציה",
+      "תשתיות",
+      "צי"
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "title": "משקפי VR, משקפיים בלי מצלמה והרבה Muse: הנה כל מה שמטא חשפה הלילה",
+    "topics": [
+      "Meta",
+      "AI",
+      "סוכנים"
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "title": "Meta is making a standalone Muse AI gadget",
+    "topics": [
+      "Meta",
+      "AI agents",
+      "חומרה"
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+    "topics": [
+      "נהיגה אוטונומית",
+      "בטיחות",
+      "רגולציה"
     ]
   }
 ]
