@@ -1,374 +1,377 @@
 {
-  "generated_at": "2026-09-24T08:20:05.457646+00:00",
+  "generated_at": "2026-09-25T08:42:31.645216+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Trump and Xi meet at moment of global consequence",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
-      "summary": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
+      "title": "Converging crises, chaos and walkouts dominate UNGA Day Three",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/converging-crises-chaos-and-walkouts-dominate-unga-day-three?traffic_source=rss",
+      "summary": "Dozens of delegates walked out on Netanyahu, Yemen’s government pleaded for help, and Kuwait riled against threats.",
       "importance": 8,
       "topics": [
-        "טראמפ",
+        "דיפלומטיה",
+        "ישראל",
+        "תימן"
+      ],
+      "published": "Fri, 25 Sep 2026 06:28:00 +0000"
+    },
+    {
+      "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss",
+      "summary": "Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities.",
+      "importance": 8,
+      "topics": [
+        "תימן",
+        "סעודיה",
+        "אנרגיה"
+      ],
+      "published": "Fri, 25 Sep 2026 03:41:25 +0000"
+    },
+    {
+      "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
+      "summary": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low.",
+      "importance": 7,
+      "topics": [
+        "ארה״ב",
+        "סין",
+        "סחר בינלאומי"
+      ],
+      "published": "Thu, 24 Sep 2026 08:43:15 -0400"
+    },
+    {
+      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+      "importance": 7,
+      "topics": [
+        "ארה״ב",
         "סין",
         "דיפלומטיה"
       ],
-      "published": "Wed, 23 Sep 2026 14:23:19 -0400"
+      "published": "Fri, 25 Sep 2026 08:09:26 GMT"
     },
     {
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "importance": 8,
-      "topics": [
-        "ארה״ב",
-        "סין",
-        "AI"
-      ],
-      "published": "Wed, 23 Sep 2026 22:01:17 GMT"
-    },
-    {
-      "title": "Trump-Xi summit: Here’s what’s on the agenda, and why it matters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters?traffic_source=rss",
-      "summary": "The leaders of the US and China are expected to discuss trade, AI and Iran in their third in-person meeting in a year.",
-      "importance": 8,
-      "topics": [
-        "ארה״ב",
-        "סין",
-        "סחר"
-      ],
-      "published": "Thu, 24 Sep 2026 06:11:30 +0000"
-    },
-    {
-      "title": "תחקיר הקרב במוצב פגה ב-7/10: הכוחות לא תרגלו תרחיש פשיטה, 18 לוחמים נהרגו",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hybtwxf9gg",
-      "summary": "ממצאי התחקיר על אודות המוצב שהיה אמור להגן על קיבוץ בארי העלו כי צה\"ל נכשל במשימתו בשל קונספציה מוטעית. לצד זאת, התחקיר מעיד על גילויי גבורה עילאיים וחתירה למגע של לוחמים שניהלו קרב נואש עד הכדור האחרון",
-      "importance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+      "importance": 7,
       "topics": [
         "ישראל",
-        "צה\"ל",
-        "7/10"
+        "איו״ם",
+        "דיפלומטיה"
       ],
-      "published": "Thu, 24 Sep 2026 07:28:12 +0300"
+      "published": "Fri, 25 Sep 2026 00:44:04 GMT"
     },
     {
-      "title": "Fears of return to war grow in Ethiopia's Tigray region",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
-      "summary": "Fears are growing of a return to war in Ethiopia's Tigray region, just four years after a devastating conflict ended in a fragile peace deal.",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
       "importance": 7,
       "topics": [
         "אתיופיה",
-        "קונפליקט",
-        "שלום"
+        "מלחמה",
+        "אפריקה"
       ],
-      "published": "Thu, 24 Sep 2026 00:23:38 -0400"
+      "published": "Thu, 24 Sep 2026 15:37:45 GMT"
     },
     {
-      "title": "Iran's president gives a rare wartime speech at the U.N.",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
-      "summary": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
-      "importance": 7,
-      "topics": [
-        "איראן",
-        "ארה״ב",
-        "מתח"
-      ],
-      "published": "Wed, 23 Sep 2026 14:14:40 -0400"
-    },
-    {
-      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
-      "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
-      "importance": 7,
-      "topics": [
-        "ארה״ב",
-        "סין",
-        "AI"
-      ],
-      "published": "Wed, 23 Sep 2026 12:13:52 -0400"
-    },
-    {
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
       "importance": 7,
       "topics": [
-        "איראן",
-        "ארה״ב",
-        "מתח"
+        "רוסיה",
+        "אוקראינה",
+        "סייבר"
       ],
-      "published": "Wed, 23 Sep 2026 18:15:31 GMT"
+      "published": "Thu, 24 Sep 2026 16:00:29 GMT"
     },
     {
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "importance": 7,
       "topics": [
-        "אתיופיה",
-        "קונפליקט אזורי"
+        "AI",
+        "סייבר",
+        "אבטחה"
       ],
-      "published": "Thu, 24 Sep 2026 04:37:47 GMT"
+      "published": "Thu, 24 Sep 2026 15:42:07 GMT"
     },
     {
-      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+      "title": "Multiple regions in Russia come under Ukrainian drone attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss",
+      "summary": "Ukraine has targeted an industrial plant in Russia's Perm region with a massive drone swarm.",
       "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "משבר הומניטרי"
+        "עימות צבאי"
       ],
-      "published": "Wed, 23 Sep 2026 23:58:50 GMT"
+      "published": "Fri, 25 Sep 2026 05:18:35 +0000"
+    },
+    {
+      "title": "צה\"ל עצר שימוש ברחפנים תוקפים אחרי האסון: התקדים בנחל עוז - והדגם הקטלני",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rkqrc9qqgx",
+      "summary": "האסון שבו נהרגו הלוחמים נדב קלי אופק מועלם הביא את הרמטכ\"ל להודיע על צוות מומחים שיבחן את הנסיבות. צה\"ל עצר את השימוש ברחפנים תוקפים ליומיים, אחרי שה\"עטלף\" התפוצץ וגרם למותם של אנשי המילואים. ביולי אותר רחפן דומה עם מטען נפץ בעוטף - ועורר בהלה. התושבים לא עודכנו למה נפל שם",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "צה\"ל",
+        "בטיחות"
+      ],
+      "published": "Fri, 25 Sep 2026 10:26:58 +0300"
     }
   ],
   "business": [
     {
-      "title": "Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
-      "summary": "מצרי הורמוז חזר לכותרות - איראן מציעה לראשונה תנאים לפתיחה מחדש של המצר. זה שינוי טון משמעותי: עד כה טהראן דחתה כל שיח, עכשיו היא שולחת איתות דיפלומטי. כ-20% מסחר הנפט העולמי עובר דרך המצר הזה, ולמחירי הנפט יש השפעות עקיפות שרבים לא מחשיבים - על כרטיסי טיסה, מחירי אוכל ועלויות ייצור. שווה לעקוב אחרי זה בימים הקרובים.",
+      "title": "$META launches its new $1,299 VR Glasses, weighing just 100g by moving the battery + compute into an external pack. They’re about 1/3 the price of Apple’s Vision Pro, with 3-hour battery life. Meta says the hardware is on track to be sold without a loss. https://t.co/IvtZGhFpsg",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2102909842574987371",
+      "summary": "Meta משיקה משקפי VR חדשים במחיר 1,299 דולר - כשליש ממחיר Vision Pro של Apple. המשקפים שוקלים 100 גרם בלבד כי הסוללה ומערכת העיבוד עברו לחבילה חיצונית, עם סוללה לשלוש שעות. מה שמעניין במיוחד: Meta אומרת שהם כבר מוכרים את החומרה ללא הפסד - זה שינוי גדול לחברה שהיתה רגילה לסבסד מכשירים.\n\nלאפל יש סיבה לדאוג, אבל הפגיעה הפחות ברורה היא בחברות שמפתחות תוכן ואפליקציות לפלטפורמת Vision Pro - נפח המשתמשים שהן יכולות לצפות לו ירד כנראה עוד יותר.",
       "importance": 9,
       "topics": [
-        "אנרגיה",
-        "נפט",
+        "Meta",
+        "VR",
+        "Apple",
+        "חומרה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "DeepSeek has completed a $7.5B funding round at a $75B valuation, while annualized revenue has reached ~$1B, more than doubling from just a few months ago. Source: The Information https://t.co/OhUUcheeoX",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2103061265249919385",
+      "summary": "גיוס של 7.5 מיליארד דולר בשווי של 75 מיליארד - זה מה ש-DeepSeek סגרה עכשיו, לפי The Information.\n\nמה שמעניין יותר: ההכנסות השנתיות שלהם הגיעו למיליארד דולר, והן הוכפלו בתוך כמה חודשים בלבד. קצב הצמיחה הזה הוא שמספר את הסיפור האמיתי.\n\nשווה לשים לב - זו לא עוד חברת AI סינית. DeepSeek הצליחה לשנות את השאלה מ\"מי הכי חזק טכנולוגית\" ל\"מי הכי יעיל ורווחי\". זה לחץ ישיר על כל מי שבנה את תזת ההשקעה שלו סביב ה-moat של OpenAI.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "מימון",
+        "מגמות טכנולוגיה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "As the Trump-Xi meetings unfold, investors should watch for this hidden AI trade",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
+      "summary": "פגישת טראמפ-שי השבוע היא לא רק כותרת גיאופוליטית - יש בה עניין ישיר למי שעוקב אחרי מניות השבבים וה-AI.\n\nהסיבה: חלק גדול מהמתח סביב טייוואן מתורגם ישירות לפרמיית סיכון על TSMC ועל כל שרשרת האספקה של מוליכים למחצה. הקלה בטון - גם בלי הסכם רשמי - יכולה להוריד את אותה פרמייה ולדחוף מעלה מניות כמו NVIDIA, AMD ו-Broadcom.\n\nמי שפחות ברור: חברות ביטוח וענקיות לוגיסטיקה שמתמחרות סיכון מצרי טייוואן - גם הן ירגישו את זה.",
+      "importance": 9,
+      "topics": [
+        "צ'יפים",
+        "AI",
         "גיאופוליטיקה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Fed's Collins warns inflation could be 'notably' higher after backing rate hike",
+      "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
       "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html",
-      "summary": "נשיאת הפד של בוסטון, סוזן קולינס, אמרה אתמול שהסיכוי שהאינפלציה תישאר גבוהה משמעותית מעל יעד ה-2% של הפד - עלה. זה לא סתם הצהרה: מדובר באחד מחברי הפד שבעבר תמך בהעלאות ריבית, וכשמישהו כזה מדבר על \"notably higher\", שווה לשים לב.\n\nההשפעה הפחות ברורה: אג\"ח ממשלתיות ומשכנתאות בריבית קבועה יספגו לחץ, וכל חברה שמחזיקה חוב גדול בריבית משתנה עלולה למצוא את עצמה בסחבת.",
+      "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+      "summary": "תשואת האג\"ח האמריקאי ל-30 שנה עלתה לרמה הגבוהה ביותר מאז 2004 - שיא של 19 שנה. זה לא רק מספר: כשאג\"ח ממשלתי מניב יותר, המשמעות היא שעלות הכסף עולה בכל המערכת. משכנתאות, הלוואות עסקיות, מימון חברות טכנולוגיה - הכל נהיה יקר יותר. ההשפעה העקיפה שפחות מדברים עליה: חברות שגייסו חוב בזול בשנים האחרונות הולכות לפגוש מציאות אחרת לחלוטין כשיגיע זמן המימון מחדש.",
       "importance": 9,
       "topics": [
-        "אינפלציה",
-        "פד",
-        "ריבית"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "U.S. 10Y yield: 5.044% - highest since 2007 Mfg. PMI: highest since May 2022 Services PMI: highest since July 2021 Composite PMI: highest since July 2021 https://t.co/MEEsC0BPX2 https://t.co/aynuD9Wudc",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2102759349307498698",
-      "summary": "תשואת האג\"ח האמריקאי ל-10 שנים קפצה ל-5.044% - הרמה הגבוהה ביותר מאז 2007. ובאותו זמן, נתוני ה-PMI (מדדי פעילות כלכלית) מגיעים בשיאים של שנים - הייצור, השירותים והמדד המשולב כולם ברמות שלא ראינו מאז 2021-2022.\n\nהבעיה: הכלכלה חזקה מדי. זה בדיוק מה שגורם לפד להישאר בעמדה קשוחה - ולתשואות לטפס. השפעה עקיפה שפחות מדברים עליה: תשואה של 5% על אג\"ח אמריקאי \"בטוח\" שואבת כסף החוצה מכל שוק אחר - מניות, נדל\"ן, שווקים מתעוררים.",
-      "importance": 9,
-      "topics": [
+        "אג״ח",
         "ריבית",
-        "אינפלציה",
         "פד"
       ],
       "tag": "ארה\"ב"
     },
     {
-      "title": "$SMCI BEGINS SHIPPING $NVDA VERA RUBIN NVL72 RACKS Each rack includes 72 Rubin GPUs, 36 Vera CPUs, 20.7 TB of HBM4 memory and 216 TB/s of NVLink scale-up bandwidth. Supermicro is also offering a 16-rack Scalable Unit with 1,152 Rubin GPUs and 331 TB of HBM4, paired with its https://t.co/PpfPh16kKv",
+      "title": "Goldman Sachs now expects global data center capacity to reach 217GW by 2030, up from 168GW previously. It also raised: 2025-30 power demand growth: 117% → 170% 2030 behind-the-meter power: 40GW → 67GW",
       "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "Supermicro התחילה לשלוח את ה-racks של NVIDIA מדגם Vera Rubin - כל מתלה כולל 72 כרטיסי גרפיקה, 36 מעבדים ו-20.7 טרה-בייט של זיכרון HBM4. יש גם גרסת על עם 1,152 כרטיסים ב-16 מתלים ביחד.\n\nמה שמעניין כאן זה לא רק NVIDIA ו-Supermicro - זה גם היצרנים של רכיבי הקירור, ספקי החשמל ומפעילי מרכזי הנתונים שצריכים לקלוט תשתית בסדר גודל כזה. כשמחשב בודד שוקל כמה טונות ואוכל מגה-ואטים - כל שרשרת האספקה נכנסת להילוך גבוה.",
+      "url": "https://twitter.com/wallstengine/status/2103144638395863138",
+      "summary": "גולדמן זאקס עדכן מעלה את התחזית שלו לצריכת חשמל של מרכזי נתונים עולמיים: מ-168 גיגאוואט ל-217 גיגאוואט עד 2030. אבל המספר שבאמת תופס את העין הוא גידול ביקוש האנרגיה - מ-117% ל-170% בין 2025 ל-2030. זה לא רק סיפור של AI ומחשוב. מי שיושב על תשתיות חשמל, טורבינות גז, קווי הולכה וייצור ציוד חשמלי - גם הם בתוך הסיפור הזה, לפעמים יותר מהשחקנים הטכנולוגיים הברורים.",
       "importance": 9,
       "topics": [
+        "אנרגיה",
         "AI",
-        "צ'יפים",
         "תשתיות"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "China 🇨🇳 is reviewing Broadcom $AVGO switch use across state-backed data centers, with preliminary findings suggesting they may account for as much as 90% of installed equipment. https://t.co/9me0UpHcue",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "סין בוחנת את השימוש בציוד רשת של Broadcom במרכזי הנתונים הממשלתיים שלה. הממצאים הראשוניים מצביעים על כך שהציוד של החברה מהווה כ-90% מהתשתית המותקנת שם - מספר שמסביר למה הסינים נדלקו על זה.\n\nזו לא סתם ביקורת טכנית. אם סין תחליט להחליף את הציוד, מדובר בחשיפה ענקית של Broadcom לשוק מרכזי. מנגד, זה בדיוק הסוג של מהלך שמאיץ את המרוץ הסיני לפתח ציוד רשת מקומי - מה שמשפיע על כל שרשרת האספקה של רכיבי תשתית.",
+      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+      "summary": "סין אישרה שהתקיימו שיחות AI ראשונות עם ארה\"ב - וזה קרה ממש כמה שעות לפני שטראמפ ושי נפגשו. לצד זה, יש רמזים להארכה של הפסקת האש בסחר.\n\nאם יש פה גם הסכמה על כללי משחק בתחום ה-AI - זה ענק. לא רק לחברות הטכנולוגיה הגדולות, אלא לכל מי שנסחר סביב המתח בין שתי המעצמות: שבבים, תשתיות ענן, ואפילו מניות ייצור שהושפעו מהמלחמה הטכנולוגית.\n\nשווה לשים לב איך השוק מגיב לפרטים שיצאו מהפגישה.",
       "importance": 9,
       "topics": [
-        "סין",
+        "סחר",
         "רגולציה",
-        "תשתיות",
-        "צי"
+        "ארה״ב-סין"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
+      "title": "BREAKING: U.S. 🇺🇸 and Iran 🇮🇷 are discussing a phased deal to reopen the Strait of Hormuz and end the conflict. A first step could see Iran reopen Hormuz in exchange for the U.S. lifting its economic blockade, potentially with access to frozen Iranian assets. Source: Reuters",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "summary": "לפי רויטרס, ארה\"ב ואיראן מנהלות שיחות על הסכם שלבי לפתיחת מיצר הורמוז. המהלך הראשון שעל הפרק: איראן פותחת את המיצר, ובתמורה ארה\"ב מרימה את הסנקציות הכלכליות - ואולי גם מאפשרת גישה לנכסים איראניים שהוקפאו.\n\nאם זה יקרה, מדובר בשינוי גדול בשוק האנרגיה. כ-20% מהנפט העולמי עובר דרך הורמוז, ומחירי הנפט כבר משקפים את הסיכון הזה. פתיחה מחדש תלחץ את המחירים כלפי מטה - טוב לצרכנים, פחות טוב לחברות האנרגיה ולמדינות המייצאות. שווה לעקוב מקרוב.",
+      "importance": 9,
+      "topics": [
+        "אנרגיה",
+        "גיאופוליטיקה",
+        "ספקולציה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
-      "summary": "מנהל הקרן של BNY Mellon שמתמחה בתשתיות גלובליות אומר שהשוק טועה כשהוא חושב שה-AI כבר \"תמחר\" הכל.\n\nהטיעון שלו: רוב הדיון על AI מתמקד ב-NVIDIA ובחברות הטכנולוגיה הגדולות - אבל מי שמסתכל רק שם מפספס את התמונה הגדולה. הביקוש לחשמל, לחיבורים, לתשתיות פיזיות - זה עוד בהתחלה.\n\nמה שמעניין פה הוא ההשפעה העקיפה: חברות שירותי ציבור, ספקיות תשתית, אפילו חברות מים וקירור - אלה שכמעט לא מדברים עליהן בהקשר AI הן אלה שרואות ביקוש אמיתי.",
-      "importance": 8,
+      "url": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+      "summary": "ריבית המשכנתא ל-30 שנה בארה\"ב ממשיכה לטפס, וחלק מהאנליסטים כבר מדברים על 8% - רמה שראינו לפני כשנה וגרמה לשוק הנדל\"ן האמריקאי להיקפא כמעט לחלוטין.\n\nהרקע: תשואות האוצר ל-10 שנים עולות בחדות, ורוב המשכנתאות בארה\"ב צמודות אליהן. כשהריבית עולה, פחות אנשים יכולים להרשות לעצמם לקנות - ומי שכבר נעול על ריבית נמוכה לא מוכר. שוק שנתקע.\n\nמה שפחות ברור: ריבית גבוהה על משכנתאות מכה גם בחברות בנייה, בבנקים שמוכרים הלוואות, ובכל הסקטור של שיפוץ ודיור - הרבה מעבר לסוכן הנדל\"ן השכונתי.",
+      "importance": 9,
+      "topics": [
+        "ריבית",
+        "משכנתא",
+        "נדלן",
+        "צרכנות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "ANTHROPIC SIGNS $11.6B AKAMAI CLOUD DEAL Anthropic has committed $11.6B over seven years to use Akamai $AKAM infrastructure for growing CPU workloads, with options to expand the relationship by another $9B, bringing the potential total to ~$20B. As part of the deal, Anthropic https://t.co/vXNTZ3j6I6",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2103214384327840109",
+      "summary": "Anthropic חתמה על עסקה של 11.6 מיליארד דולר עם Akamai - לשבע שנים, עם אופציה להרחבה של עוד 9 מיליארד. סך הכול עשרים מיליארד דולר פוטנציאלי לתשתיות ענן ומעבדים.\n\nהנקודה המעניינת פה: זו לא עסקת GPU. Anthropic מגדילה את ההוצאה על מעבדים רגילים לעומסי עבודה שלא דורשים כוח חישובי של בינה מלאכותית. זה רמז לכך שמודלי AI גדלים גם לרוחב - לא רק לעומק. Akamai, שרובנו מכירים כחברת CDN, הופכת לשחקן רציני בשוק ה-AI.",
+      "importance": 9,
       "topics": [
         "AI",
-        "תשתיות",
+        "תשתיות ענן",
+        "Anthropic",
         "השקעות"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "IonQ shares rally after company says it made a major quantum computing breakthrough",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "המניה של IonQ קפצה בחדות ב-pre-market אחרי שהחברה הודיעה על פריצת דרך: היא הפעילה בהצלחה את מפענח השגיאות הראשון בזמן אמת מקצה לקצה בתעשייה. זה נשמע טכני, אבל זה בעצם אחד מאבני הנגף הגדולים בדרך למחשוב קוונטי שימושי. המי שצריך לשים לב מעבר לשוק הקוונטי עצמו: חברות אבטחת סייבר, הצפנה, ופארמה - כי מחשב קוונטי אמיתי ישנה את כל החישובים שהם מסתמכים עליהם היום.",
+      "title": "ANTHROPIC SEEKS FOUNDER CONTROL AHEAD OF IPO Anthropic is asking shareholders to approve a new structure that would give CEO Dario Amodei and the company’s six other co-founders a combined 50.1% of voting power on most corporate matters, per The Information. The founders would",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2103242264906768452",
+      "summary": "Anthropic מבקשת מבעלי המניות שלה לאשר מבנה שליטה חדש: שבעת המייסדים, בראשות המנכ\"ל דריו אמודאי, יקבלו יחד 50.1% מזכויות ההצבעה - עוד לפני הנפקה.\n\nזה לא רק עניין פנימי. הצעד מזכיר את מה שעשו Google ו-Meta בזמנם - לנעול שליטה מייסדים לפני שהציבור נכנס. המשמעות: מי שישקיע ב-IPO של Anthropic יקבל חשיפה לצמיחה, אבל לא השפעה אמיתית על הכיוון. שווה לשים לב לזה כשה-IPO יתקרב.",
       "importance": 8,
       "topics": [
-        "קוונטום",
-        "טכנולוגיה",
-        "אימוץ מוסדי"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
-      "summary": "הפסקת האש בין ארה\"ב לסין הוארכה בשני חודשים נוספים - עד ה-10 בינואר. בסנט הודיע על זה ברקע ביקור המדינה של שי, ואמר בגלוי שסין עדיין צריכה לעמוד בהתחייבויות שלה.\n\nזה אומר שהמכסים הגבוהים לא חוזרים עכשיו - וזה נשימה של הקלה לחברות שמסתמכות על שרשרות אספקה מסין. מי שאולי לא חושבים עליו: יצרניות אירופאיות שמייצרות בסין לשוק האמריקאי - גם הן מרוויחות מהארכה הזו.",
-      "importance": 8,
-      "topics": [
-        "סחר",
-        "ארה״ב-סין",
-        "טריפים"
+        "AI",
+        "IPO",
+        "שלטון חברות"
       ],
       "tag": "גלובלי"
-    },
-    {
-      "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
-      "summary": "חלקי מטוס F-35 - כנופיית הקוקפיט ודלת תא הנשק - הגיעו לידי הרשויות הסיניות בהונג קונג, לפי CNBC. המשלוח של UPS יצא מאוסטרליה לארה\"ב בסוף מאי ופשוט... הגיע לשם.\n\nזה לא רק עניין ביטחוני. הפרת חוקי ייצוא טכנולוגיה צבאית היא חזית רגולטורית שיכולה לפגוע בחברות לוגיסטיקה, ספקי ביטחון ואפילו חברות שמייצרות רכיבים שנמצאים בשרשרת ייצור של מטוסים צבאיים. כשהפנטגון מתחיל לחקור - השלכות חוזות רחוק.",
-      "importance": 8,
-      "topics": [
-        "רגולציה",
-        "סין",
-        "ביטחון"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "A Perfect Storm Is Raging in the Bond Market",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/a-perfect-storm-is-raging-in-the-bond-market-43d9b44b?mod=rss_markets_main",
-      "summary": "תשואת אגרות החוב האמריקאיות קפצה מעל 5.1% - העלייה היומית החדה ביותר בלמעלה משנה. זה לא מספר טכני - זה סימן שהשוק מתחיל לפקפק בתוואי הריבית של הפד, ואולי גם בעוצמת הגירעון האמריקאי.\n\nההשפעה העקיפה: כשתשואות עולות ככה, כל מי שמחזיק מניות צמיחה יושב לא נוח - כי עלות ההון עולה ורווחים עתידיים שווים פחות היום. גם שוק הנדל\"ן האמריקאי ירגיש את זה בריביות המשכנתאות.",
-      "importance": 8,
-      "topics": [
-        "אגרות חוב",
-        "ריבית",
-        "מאקרו"
-      ],
-      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "משקפי VR, משקפיים בלי מצלמה והרבה Muse: הנה כל מה שמטא חשפה הלילה",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/meta-connect-2026-muse-glasses-announcements/",
-      "summary": "אחרי כמה שנים שבהן היא השתרכה מאחור, נראה ש-Meta מצאה את המוג'ו שלה בתחום ה-AI עם Muse, סוכן ה-AI החדש שלה שבקושי חוגג שבועיים, וכבר מסתמן כלהיט גדול. כמה גדול? עד כדי כך שכנס Meta Connect 2026 שהתקיים הלילה סבב כמעט כולו סביב העוזר החדש. לצידו, נחשפו גם לא מעט משקפיים חדשים, בהם קונספט חדש […] The post משקפי VR, משקפיים בלי מצלמה והרבה Muse: הנה כל מה שמטא חשפה הלילה appeared first on גיקטיים .",
+      "title": "There's a new way to break RSA that's faster than anything we've seen before",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+      "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
+      "importance": 9,
+      "topics": [
+        "קריפטוגרפיה",
+        "אבטחה",
+        "מחקר"
+      ],
+      "published": "Thu, 24 Sep 2026 11:15:44 +0000"
+    },
+    {
+      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+      "summary": "\"There will obviously be legal consequences,\" prime minister promises.",
       "importance": 8,
       "topics": [
-        "Meta",
         "AI",
-        "סוכנים"
+        "אבטחה",
+        "OpenAI"
       ],
-      "published": "Thu, 24 Sep 2026 06:42:41 +0000"
+      "published": "Thu, 24 Sep 2026 16:01:16 +0000"
     },
     {
-      "title": "Everything new coming to Meta’s AI agent Muse",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
       "importance": 7,
       "topics": [
-        "Meta",
-        "AI agents",
-        "משקפיים חכמים"
-      ],
-      "published": "Thu, 24 Sep 2026 01:13:32 +0000"
-    },
-    {
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "importance": 7,
-      "topics": [
-        "Biotech",
         "AI",
-        "מימון"
+        "edge computing",
+        "מכשירים ניידים"
       ],
-      "published": "Wed, 23 Sep 2026 19:31:28 +0000"
+      "published": "Thu, 24 Sep 2026 19:00:42 +0000"
     },
     {
-      "title": "The old cybersecurity model is breaking",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-      "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a […]",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
       "importance": 7,
       "topics": [
-        "AI safety",
-        "Cybersecurity",
-        "סיבוב הון"
+        "Oracle",
+        "Stargate",
+        "מוקדי נתונים"
       ],
-      "published": "Wed, 23 Sep 2026 17:44:02 +0000"
+      "published": "Thu, 24 Sep 2026 18:11:44 +0000"
     },
     {
-      "title": "Meta is making a standalone Muse AI gadget",
+      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for […]",
+      "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+      "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document […]",
       "importance": 7,
       "topics": [
         "Meta",
-        "AI agents",
-        "חומרה"
-      ],
-      "published": "2026-09-23T20:15:20-04:00"
-    },
-    {
-      "title": "Meta’s next VR device isn’t a headset — it’s glasses",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-      "summary": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and getting work done. Imagine a pair of hefty black sunglasses with […]",
-      "importance": 7,
-      "topics": [
-        "Meta",
-        "VR/AR",
-        "חומרה"
-      ],
-      "published": "2026-09-23T19:42:10-04:00"
-    },
-    {
-      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
-      "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
-      "importance": 7,
-      "topics": [
-        "אבטחה סייבר",
-        "עדויות פרובה",
-        "הכרזה"
-      ],
-      "published": "Wed, 23 Sep 2026 21:46:36 +0000"
-    },
-    {
-      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-      "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
-      "importance": 7,
-      "topics": [
-        "נהיגה אוטונומית",
         "בטיחות",
-        "רגולציה"
+        "עניינים משפטיים"
       ],
-      "published": "Wed, 23 Sep 2026 14:20:23 +0000"
+      "published": "2026-09-24T19:50:55-04:00"
+    },
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 […]",
+      "importance": 7,
+      "topics": [
+        "Google",
+        "AI",
+        "Gemini"
+      ],
+      "published": "2026-09-24T15:59:26-04:00"
+    },
+    {
+      "title": "Muse will apparently let you download its entire filesystem",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "אבטחה",
+        "Meta"
+      ],
+      "published": "2026-09-24T13:14:12-04:00"
+    },
+    {
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+      "importance": 7,
+      "topics": [
+        "Google",
+        "infrastructure",
+        "חדשנות"
+      ],
+      "published": "Thu, 24 Sep 2026 16:16:34 +0000"
     }
   ]
 }
