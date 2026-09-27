@@ -822,7 +822,8 @@
     "418e5468bbb4ef24": "2026-09-27T05:00:59.121741+00:00",
     "0c8805d333231fc2": "2026-09-27T06:30:53.899639+00:00",
     "dc183aa4b7d4af8c": "2026-09-27T08:01:03.740908+00:00",
-    "7be2b5822e565694": "2026-09-27T09:31:00.791515+00:00"
+    "7be2b5822e565694": "2026-09-27T09:31:00.791515+00:00",
+    "fe0d9816f48e8981": "2026-09-27T11:01:04.029896+00:00"
   },
   "messages": [
     {
@@ -11774,7 +11775,22 @@
         "תשתיות",
         "אנוי"
       ]
+    },
+    {
+      "sent_at": "2026-09-27T11:01:04.029896+00:00",
+      "title": "Nvidia CEO Jensen Huang says $NVDA’s all-in investment across the AI ecosystem may be over $100B. “All in, we might be like a hundred billion dollars.” That's larger than the $52.7B 🇺🇸 CHIPS Act semiconductor funding Major announced investments / commitments: • OpenAI: up to https://t.co/AnfLjpJVEO",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2104141916270964834",
+      "message": "ג'נסן הואנג הכריז שסך ההשקעות של NVIDIA במערכת ה-AI הכוללת עשוי להגיע ל-100 מיליארד דולר - יותר מכפול מתוכנית ה-CHIPS Act האמריקאית כולה (52.7 מיליארד דולר). זה לא השקעה בבניין אחד אלא פיזור רחב: OpenAI, מחשוב ענן, תשתיות, שותפויות.\n\nמה שמעניין פה מעבר לסכום: כשיצרן שבבים הופך למממן הגדול ביותר של מערכת שלמה, הוא הופך לשחקן אחר לגמרי. לא ספק - שותף אסטרטגי. זה משנה את הדינמיקה גם עם AMD, גם עם הלקוחות הגדולים.",
+      "importance": 8,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "השקעות",
+        "Nvidia",
+        "תשתיות"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-27T09:30:30.593571+00:00"
+  "last_auto_run": "2026-09-27T11:00:34.454618+00:00"
 }
