@@ -72,11 +72,14 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add morning_brief_log.json
+          git add morning_brief_log.json email_digest.json
           if [ -f morning_brief_history.json ]; then git add morning_brief_history.json; fi
           if git diff --staged --quiet; then
             echo "Nothing to commit."
           else
             git commit -m "chore: update morning_brief_log.json [skip ci]"
+            # email-digest-pool.yml may have pushed email_digest.json meanwhile;
+            # -X theirs (= this commit, during a rebase) keeps our fresh copy
+            git pull --rebase -X theirs
             git push
           fi

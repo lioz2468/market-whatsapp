@@ -23,6 +23,7 @@ import argparse
 import asyncio
 import json
 import re
+import subprocess
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -131,14 +132,37 @@ def _strip_watchlist_from_business(digest: dict) -> None:
 
 
 def _is_shabbat() -> bool:
-    """True from Friday 17:00 until Sunday 09:00 (Israel time) — mirrors main.py."""
+    """True from Friday 17:00 through Saturday (Israel time). Unlike main.py's
+    gate this does NOT extend to Sunday 09:00 — the brief's 08:34 run falls
+    inside that window, so every Sunday brief was blocked and only went out
+    hours later via the backup trigger (13:41 on 2026-09-27)."""
     now = datetime.now(_ISRAEL_TZ)
-    wd  = now.weekday()   # Friday=4, Saturday=5, Sunday=6
-    return (
-        (wd == 4 and now.hour >= 17)
-        or wd == 5
-        or (wd == 6 and now.hour < 9)
-    )
+    wd  = now.weekday()   # Friday=4, Saturday=5
+    return (wd == 4 and now.hour >= 17) or wd == 5
+
+
+# email-digest-pool.yml's 06:00 schedule routinely fires hours late
+# (08:20-09:07 UTC in practice), so at 08:34 the brief was reading
+# yesterday's digest — the same stories as the previous brief. Refresh it
+# here when it's older than this.
+_MAX_DIGEST_AGE = timedelta(hours=6)
+
+
+def _refresh_digest_if_stale() -> None:
+    generated_at = None
+    if config.EMAIL_DIGEST_PATH.exists():
+        try:
+            digest = json.loads(config.EMAIL_DIGEST_PATH.read_text(encoding="utf-8"))
+            generated_at = datetime.fromisoformat(digest["generated_at"])
+        except (json.JSONDecodeError, OSError, KeyError, ValueError):
+            pass
+    if generated_at and datetime.now(generated_at.tzinfo) - generated_at < _MAX_DIGEST_AGE:
+        return
+
+    print(f"\n{Fore.CYAN}🔄 email_digest.json is stale ({generated_at or 'missing'}) — collecting a fresh one…{Style.RESET_ALL}")
+    result = subprocess.run([sys.executable, "main.py", "--collect-email-pool"], cwd=Path(__file__).resolve().parent)
+    if result.returncode != 0:
+        print(f"  {Fore.YELLOW}⚠ Collection failed (exit {result.returncode}) — using the existing digest{Style.RESET_ALL}")
 
 
 async def _compose() -> tuple[str, dict, list[watchlist_news.TickerNews]]:
@@ -193,7 +217,7 @@ async def _compose() -> tuple[str, dict, list[watchlist_news.TickerNews]]:
     market_text = market_data.format_snapshot_for_prompt(quotes)
 
     print(f"\n{Fore.CYAN}✍️  Composing morning brief with Claude…{Style.RESET_ALL}")
-    text = await morning_brief_composer.compose_morning_brief(digest, market_text, watchlist_text)
+    text = await morning_brief_composer.compose_morning_brief(digest, market_text, watchlist_text, history)
     print(f"  {Fore.GREEN}✓ {len(text)} chars, {len(text.splitlines())} lines{Style.RESET_ALL}")
     return text, digest, watchlist_items
 
@@ -218,6 +242,11 @@ async def main_async(args: argparse.Namespace) -> None:
         print(f"\n  {Fore.YELLOW}⏭  Already sent today — skipping (use --force to override).{Style.RESET_ALL}")
         return
 
+    if not args.dry_run and _is_shabbat():
+        print(f"\n  {Fore.YELLOW}⛔ שבת — שליחה מושהית עד ראשון (שעון ישראל).{Style.RESET_ALL}")
+        return
+
+    _refresh_digest_if_stale()
     text, digest, watchlist_items = await _compose()
     _print_cost()
 
@@ -233,10 +262,6 @@ async def main_async(args: argparse.Namespace) -> None:
             f"point it at your WhatsApp group's chat ID.{Style.RESET_ALL}"
         )
         sys.exit(1)
-
-    if _is_shabbat():
-        print(f"\n  {Fore.YELLOW}⛔ שבת — שליחה מושהית עד ראשון (שעון ישראל).{Style.RESET_ALL}")
-        return
 
     if not args.auto and not _confirm():
         print(f"\n  {Fore.YELLOW}Cancelled.{Style.RESET_ALL}")
