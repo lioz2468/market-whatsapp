@@ -834,7 +834,8 @@
     "48d8fa57fb3edf43": "2026-09-28T08:01:28.486640+00:00",
     "ae58d5eaadfaeb84": "2026-09-28T09:31:11.967017+00:00",
     "934978372289be7b": "2026-09-28T11:01:28.632291+00:00",
-    "38a8432887d12c11": "2026-09-28T12:31:38.070394+00:00"
+    "38a8432887d12c11": "2026-09-28T12:31:38.070394+00:00",
+    "759b8b566361c181": "2026-09-28T14:01:48.131572+00:00"
   },
   "messages": [
     {
@@ -11956,7 +11957,21 @@
         "בורסה",
         "AI"
       ]
+    },
+    {
+      "sent_at": "2026-09-28T14:01:48.131572+00:00",
+      "title": "Anthropic has now contracted 2.6GW of $NVDA AI infrastructure to date, with shipments through 2028 Across CSPs/neoclouds, its reported contracted value now exceeds $180B It also has ~15-year data-center leases starting FY28-29 that are expected to be reassigned to 3rd parties https://t.co/0YMr8sfmVd",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2104545522782749055",
+      "message": "Anthropic חתמה על חוזים לתשתיות AI בהיקף של 2.6 ג'יגה-וואט מ-NVIDIA - עם משלוחים עד 2028 ושווי כולל שעובר 180 מיליארד דולר. זה לא סתם מספר גדול - זה אחד מהמהלכי רכש הגדולים בהיסטוריה של ענף ה-AI.\n\nמה שמעניין פחות ברור: Anthropic חותמת גם על חוזי שכירות למרכזי נתונים ל-15 שנה, אבל לא בכוונה להחזיק בהם - היא מתכננת להעביר אותם לצדדים שלישיים. פה קורה משהו מעניין: Anthropic בעצם מרכזת כוח רכש ומחלקת אותו הלאה - וזה הופך אותה לשחקן תשתיות, לא רק לחברת מודלים.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "תשתיות",
+        "נביידיה"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-28T12:30:29.081812+00:00"
+  "last_auto_run": "2026-09-28T14:00:42.561885+00:00"
 }
