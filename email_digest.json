@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-28T05:45:10.808810+00:00",
+  "generated_at": "2026-09-28T09:36:21.244208+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "After more than two decades, U.S. forces prepare to leave Iraq",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5981123/after-more-than-two-decades-u-s-forces-prepare-to-leave-iraq",
+      "summary": "The U.S. military formally ends a more than two-decade-long presence in Iraq this week.",
+      "importance": 8,
+      "topics": [
+        "עיראק",
+        "ארה״ב",
+        "גיאופוליטיקה"
+      ],
+      "published": "Sun, 27 Sep 2026 17:14:43 -0400"
+    },
+    {
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+      "importance": 8,
+      "topics": [
+        "ארה״ב",
+        "סין",
+        "גיאופוליטיקה"
+      ],
+      "published": "Mon, 28 Sep 2026 07:52:23 GMT"
+    },
     {
       "title": "Russian strikes kill eight, injure dozens across Ukraine",
       "source": "Al Jazeera",
@@ -16,69 +42,56 @@
       "published": "Mon, 28 Sep 2026 05:06:11 +0000"
     },
     {
-      "title": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
-      "summary": "Abbas Araghchi's warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.",
+      "title": "חיילי קים ג'ונג און, ההסכם הסודי – והעריקה שנחשפה: סיאול רותחת על זלנסקי",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/r1tm00cd5ze",
+      "summary": "נשיא אוקראינה חשף באו\"ם כי ארצו העבירה לידי דרום קוריאה שני שבויי מלחמה צפון קוריאנים שנלחמו לצד רוסיה ונתפסו בשדה הקרב, וסיפר שאחד מהם ניסה להתאבד ולא הצליח. בסיאול אומרים שהשניים, אנשי הכוחות המיוחדים שיכולים לחשוף מידע על צבא פיונגיאנג, ביקשו לערוק מהדיקטטורה לדרום, ושזלנסקי הפר סיכום שלפיו העברתם תישמר בסוד כדי למנוע פגיעה במשפחתם בצפון: \"תתנצל\"",
       "importance": 8,
       "topics": [
-        "איראן",
-        "ארה\"ב",
-        "דיפלומטיה"
+        "אוקראינה",
+        "צפון קוריאה",
+        "גיאופוליטיקה"
       ],
-      "published": "Mon, 28 Sep 2026 00:00:00 +0000"
+      "published": "Mon, 28 Sep 2026 11:53:06 +0300"
     },
     {
-      "title": "הקונספציה של נסראללה אחרי הביפרים: \"נכנס לקיפאון, לא חשב שישראל תלך עד הסוף\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14910458",
-      "summary": "ממעקב של עשור, דרך מבצע הביפרים ועד ל-83 טונות פצצות על הבונקר - קציני המודיעין שהובילו את החיסול ששינה את המזרח התיכון חושפים פרטים חדשים: \"ידענו מתי הוא הולך לישון, ומה הוא אוהב לאכול\". הלחץ לצאת לדרך מחשש שנסראללה יחליף מיקום, מה גרם לו ליפול לקונספציה השגויה - ומה היה הנז\"א",
-      "importance": 8,
+      "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
+      "summary": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S. military has been using to launch attacks on Iran.",
+      "importance": 7,
       "topics": [
-        "לבנון",
-        "חיזבאללה",
+        "בריטניה",
+        "טרור",
+        "איראן"
+      ],
+      "published": "Sun, 27 Sep 2026 17:14:44 -0400"
+    },
+    {
+      "title": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5949210/amid-changing-dynamics-in-the-middle-east-turkey-seeks-to-emerge-as-a-leader",
+      "summary": "Turkey's attempts at expanding its Middle East footprint has put it in a position of power, coming head-to-head with Israel.",
+      "importance": 7,
+      "topics": [
+        "טורקיה",
+        "מזרח תיכון",
         "ישראל"
       ],
-      "published": "Mon, 28 Sep 2026 07:41:29 +0300"
+      "published": "Sun, 27 Sep 2026 08:06:19 -0400"
     },
     {
-      "title": "After more than two decades, U.S. forces prepare to leave Iraq",
+      "title": "5 arrested near a U.K. air base used by U.S. on suspicion of preparing a terrorist act",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5981123/after-more-than-two-decades-u-s-forces-prepare-to-leave-iraq",
-      "summary": "The U.S. military formally ends a more than two-decade-long presence in Iraq this week.",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
+      "summary": "Police evacuated homes Sunday near an air base in England used by the U.S. and arrested several men over suspected explosives offenses.",
       "importance": 7,
       "topics": [
-        "גיאופוליטיקה",
-        "עיראק",
-        "ארה״ב"
+        "בריטניה",
+        "טרור",
+        "ביטחון"
       ],
-      "published": "Sun, 27 Sep 2026 17:14:43 -0400"
-    },
-    {
-      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
-      "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
-      "importance": 7,
-      "topics": [
-        "אסון",
-        "דרום אפריקה",
-        "אלימות"
-      ],
-      "published": "Sun, 27 Sep 2026 09:01:27 -0400"
-    },
-    {
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
-      "importance": 7,
-      "topics": [
-        "סרביה",
-        "פוליטיקה",
-        "בחירות"
-      ],
-      "published": "Sun, 27 Sep 2026 20:04:21 GMT"
+      "published": "Sun, 27 Sep 2026 06:49:36 -0400"
     },
     {
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
@@ -87,50 +100,37 @@
       "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
       "importance": 7,
       "topics": [
-        "וונצואלה",
+        "ונצואלה",
         "דיפלומטיה",
         "זכויות אדם"
       ],
       "published": "Sun, 27 Sep 2026 15:56:25 GMT"
     },
     {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "importance": 7,
-      "topics": [
-        "איראן",
-        "ארה״ב",
-        "דיפלומטיה"
-      ],
-      "published": "Sun, 27 Sep 2026 07:44:11 GMT"
-    },
-    {
-      "title": "Venezuelans rally for opposition leader’s return and presidential elections",
+      "title": "Mapping Israel’s 300 checkpoints: Where they are and how they work",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/venezuelans-rally-for-opposition-leaders-return-and-presidential-elections?traffic_source=rss",
-      "summary": "Nobel laureate Maria Corina Machado has been living in exile, with plans to return to Venezuela spoiled multiple times.",
-      "importance": 7,
-      "topics": [
-        "ונצואלה",
-        "פוליטיקה",
-        "אופוזיציה"
-      ],
-      "published": "Mon, 28 Sep 2026 02:36:00 +0000"
-    },
-    {
-      "title": "Ben-Gvir releases video threatening to kill senior Hamas figure in jail",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/ben-gvir-releases-video-threatening-to-kill-senior-hamas-figure-in-jail?traffic_source=rss",
-      "summary": "Israel’s security minister Itamar Ben-Gvir has released a video in which he is seen threatening to kill Hassan Salameh.",
+      "url": "https://www.aljazeera.com/news/2026/9/28/mapping-israels-300-checkpoints-where-they-are-and-how-they-work?traffic_source=rss",
+      "summary": "Israel has shut occupied West Bank crossings for a week, further restricting Palestinian movement and holy site access.",
       "importance": 7,
       "topics": [
         "ישראל",
-        "חמאס",
-        "עזה"
+        "פלסטינים",
+        "גדה המערבית"
       ],
-      "published": "Mon, 28 Sep 2026 01:33:52 +0000"
+      "published": "Mon, 28 Sep 2026 08:50:37 +0000"
+    },
+    {
+      "title": "‘Terror’ incident near RAF base used for Iran war: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss",
+      "summary": "Five men were arrested on suspicion of the 'preparation of a terrorist act' near RAF Fairford, a base used by the US.",
+      "importance": 7,
+      "topics": [
+        "בריטניה",
+        "טרור",
+        "איראן"
+      ],
+      "published": "Mon, 28 Sep 2026 08:44:16 +0000"
     }
   ],
   "business": [
@@ -161,18 +161,30 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "Inside AT&S and the race to make the critical layer beneath AI chips",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/video/2026/09/26/ats-ai-chip-substrate-bottleneck.html",
-      "summary": "מעטים מדברים על זה, אבל אחד מצווארי הבקבוק האמיתיים בשרשרת ה-AI הוא לא המעבד עצמו - אלא השכבה שמתחתיו.\n\nAT&S, חברה אוסטרית עם מפעל במלזיה, מייצרת את מה שנקרא IC substrates - בגדול, הבסיס שעליו יושב כל שבב AI מתקדם. בלי זה, אין NVIDIA, אין AMD, אין כלום.\n\nהביקוש עולה מהר יותר מהיכולת לייצר, וכרגע ספק קטן יחסית שרוב האנשים מעולם לא שמעו עליו הוא חלק קריטי בפאזל.",
-      "importance": 8,
+      "title": "$ASML CEO Christophe Fouquet warns tighter chip-equipment restrictions on China 🇨🇳 could backfire by accelerating domestic alternatives. “If you over-restrict, you bring desperation.” He also says ASML would add 20% more capacity if its supply chain allowed it.",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2104472406240973128",
+      "summary": "מנכ\"ל ASML אמר משהו שכדאי לשים לב אליו: אם המערב יהדק יותר מדי את ההגבלות על יצוא ציוד שבבים לסין, התוצאה עשויה להיות הפוכה מהמצופה. \"כשאתה מגביל יותר מדי, אתה יוצר ייאוש\" - והייאוש הזה מזרז את הסינים לפתח חלופות מקומיות. בנוסף, הוא ציין ש-ASML יכולה להגדיל את הייצור ב-20% - אם שרשרת האספקה שלה הייתה מאפשרת. כלומר, הביקוש קיים, הבעיה היא בצד הייצור. מי שצריך לשים לב: ספקי רכיבים ל-ASML, ומתחרים אסייתיים שמנסים לסגור את הפער הטכנולוגי.",
+      "importance": 9,
       "topics": [
-        "בינה מלאכותית",
-        "שרתים",
-        "תשתיות",
-        "אנוי"
+        "צ'יפים",
+        "רגולציה",
+        "ג'יאופוליטיקה"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Bond Selloff Resumes as Oil Rises After Trump Spurns Iran Offer",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-28/bond-selloff-resumes-as-oil-rises-after-trump-spurns-iran-offer",
+      "summary": "אגרות חוב אמריקאיות ירדו היום ומחירי הנפט עלו, אחרי שטראמפ דחה את הצעת איראן לפתוח מחדש את מיצר הורמוז.\n\nזה לא סתם מתח גיאופוליטי - מיצר הורמוז הוא צוואר הבקבוק של כ-20% מסחר הנפט העולמי. סגירה שלו, גם חלקית, דוחפת את מחירי האנרגיה למעלה - וזה מחמם את האינפלציה בדיוק כשהפד מנסה לרסן אותה.\n\nמי שצריך לשים לב מעבר לשווקים: חברות תובלה, מגזר הפטרוכימיה, ובעצם כל עסק שתלוי בשרשראות אספקה גלובליות.",
+      "importance": 9,
+      "topics": [
+        "נפט",
+        "איראן",
+        "ריבית"
+      ],
+      "tag": "ארה\"ב"
     },
     {
       "title": "Nvidia CEO Jensen Huang says $NVDA’s all-in investment across the AI ecosystem may be over $100B. “All in, we might be like a hundred billion dollars.” That's larger than the $52.7B 🇺🇸 CHIPS Act semiconductor funding Major announced investments / commitments: • OpenAI: up to https://t.co/AnfLjpJVEO",
@@ -241,46 +253,20 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "summary": "גוגל מתנסה בהודו בשיתוף עם Flipkart (רשת קמעונאות בבעלות Walmart) - אפשר לקנות מוצרים ישירות דרך Gemini ומצב ה-AI החדש, בלי לצאת מהחיפוש. זה עדיין טסט מצומצם, אבל ההשלכות מעניינות: אם זה יצליח ויתרחב, גוגל הופכת ממנוע חיפוש לנקודת קנייה. מי שצריך לדאוג? Amazon, שעברה שנים בונה את ה\"שלב הסופי\" של הצרכן. זה שווה לעקוב.",
-      "importance": 7,
+      "title": "US, China Release Product List for $30B Tariff Deal",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-28/the-china-show-9-28-2026-video",
+      "summary": "הרשימות של הסכם המכסים בין ארה\"ב לסין על 30 מיליארד דולר של מוצרים פורסמו רשמית. זה לא סתם מסמך - כשיודעים בדיוק אילו מוצרים נכנסים לעסקה, אפשר לראות מי מרוויח ומי פחות: יצואנים סינים בתחומים ספציפיים נושמים לרווחה, ובצד האמריקאי - ייצור, קמעונאות ואפילו חברות לוגיסטיקה ירגישו את זה בעלויות. שווה לשים לב לאילו קטגוריות נכנסו לרשימה - פה מסתתרת הסיפור האמיתי.",
+      "importance": 8,
       "topics": [
-        "AI",
-        "ריטייל",
-        "התנהגות צרכנים"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html",
-      "summary": "אוסטרליה קוראת ל-CEOs של OpenAI ו-Anthropic להעיד בפני ועדת חקירה פרלמנטרית על AI. הרקע: פריצת אבטחה במערכת הבריאות הממשלתית שם, שבה סוכן AI קיבל גישה למידע רפואי רגיש של מיליוני אזרחים - אחד האירועים הבולטים בעולם מסוג זה. זה מרתק כי זו פעם ראשונה שמדינה דמוקרטית מערבית מזמנת רשמית את מנהיגי ה-AI הגדולים לתשובות. מי שכדאי לעקוב אחריו: חברות שמציעות כלי AI למגזר הציבורי - הרגולציה שתצא מזה תשנה את כללי המשחק עבורן.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "רגולציה",
-        "סייבר"
+        "מכסים",
+        "סחר",
+        "ארה\"ב-סין"
       ],
       "tag": "גלובלי"
     }
   ],
   "tech": [
-    {
-      "title": "ב-OpenAI מודים: אנחנו עוצרים את פיתוח מודלי הענק שלנו אחרי שורת תקריות חמורות",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/openai-halts-sota-models-due-to-misaligned-agents/",
-      "summary": "תקרית Hugging Face הייתה רק ההתחלה. OpenAI לא מפסיקה לחשוף עוד ועוד מקרים שבהם המודלים שלה ברחו לעולם האמיתי ועשו ככל העולה על רוחם. בסוף השבוע היא חשפה שהתקריות הבלתי נגמרות האלו הובילו גם להשלכה משמעותית על ההתקדמות שלה בקרב על ההובלה בתחום ה-AI. התקריות לא עוצרות, אבל החברה כן OpenAI חשפה בסוף השבוע עוד […] The post ב-OpenAI מודים: אנחנו עוצרים את פיתוח מודלי הענק שלנו אחרי שורת תקריות חמורות a",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "בטיחות"
-      ],
-      "published": "Sun, 27 Sep 2026 07:12:28 +0000"
-    },
     {
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
       "source": "TechCrunch",
@@ -290,22 +276,35 @@
       "topics": [
         "AI",
         "Anthropic",
-        "מדיניות"
+        "פוליטיקה"
       ],
       "published": "Sun, 27 Sep 2026 20:34:28 +0000"
     },
     {
-      "title": "בגלל המנגנון ההפטי: אפל תשלם 5.7 מיליארד דולר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/apple-owes-5-7b-in-damages-over-haptic-engine/",
-      "summary": "זוכרים את הימים שבהם שכל הסמארטפונים והשעונים הגיעו עם מנגנוני רטט בסיסיים? מאז, אפל הצליחה להכניס למיינסטרים את ה-Taptic Engine, מנגנון הפידבק ההפטי שהחליף את הרטט במנוע שנותן תחושות מדויקות יותר של קליקים, תנועות, טקסטורות ועוד. המנגנון הזה הפך לסטנדרט שכולנו כבר שוכחים שהוא נמצא בכמעט כל מכשיר, אבל עכשיו הוא חוזר לכותרות, כיוון שאפל […] The post בגלל המנגנון ההפטי: אפל תשלם 5.7 מיליארד דולר app",
+      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+      "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
       "importance": 7,
       "topics": [
-        "אפל",
-        "פטנטים",
-        "אנטי-טראסט"
+        "AI",
+        "NVIDIA",
+        "אבטחה"
       ],
-      "published": "Sun, 27 Sep 2026 08:12:56 +0000"
+      "published": "Mon, 28 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "title": "ה-AI של גוגל כבר יכול להתקשר לחנויות ולעסקים במקומכם",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/google-gemini-can-now-make-business-calls/",
+      "summary": "כמה שעות מחייכם בזבזתם על מענה קולי חופר או המתנה מייגעת לנציג שירות? גוגל רוצה לסגור את הפינה הזו עם יכולת חדשה ב-Gemini, שמבטיחה להוריד מהראש שלכם את השיחות לבתי עסק וחברות. הסוף להמתנות על הקו? במקום שאתם תצטרכו להתקשר לבית עסק, לחכות על הקו או לנווט דרך אינספור תתי תפריטים שמנסים לגרום לכם לוותר […] The post ה-AI של גוגל כבר יכול להתקשר לחנויות ולעסקים במקומכם appeared first on גיקטיים .",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Google",
+        "Gemini"
+      ],
+      "published": "Mon, 28 Sep 2026 06:58:10 +0000"
     },
     {
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
@@ -315,10 +314,36 @@
       "importance": 6,
       "topics": [
         "AI",
-        "אבטחה",
-        "OpenAI"
+        "OpenAI",
+        "אבטחה"
       ],
       "published": "2026-09-27T13:21:07-04:00"
+    },
+    {
+      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+      "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+      "importance": 6,
+      "topics": [
+        "AI",
+        "למידת מכונה",
+        "סטארטאפ"
+      ],
+      "published": "Mon, 28 Sep 2026 09:00:00 +0000"
+    },
+    {
+      "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
+      "summary": "Climate groups are latching onto the data center opposition movement, but it remains to be seen if they can get people to care about the facilities’ impact on the atmosphere.",
+      "importance": 6,
+      "topics": [
+        "מרכזי נתונים",
+        "AI",
+        "סביבה"
+      ],
+      "published": "Sun, 27 Sep 2026 10:00:00 +0000"
     }
   ]
 }
