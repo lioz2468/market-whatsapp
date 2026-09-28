@@ -835,7 +835,8 @@
     "ae58d5eaadfaeb84": "2026-09-28T09:31:11.967017+00:00",
     "934978372289be7b": "2026-09-28T11:01:28.632291+00:00",
     "38a8432887d12c11": "2026-09-28T12:31:38.070394+00:00",
-    "759b8b566361c181": "2026-09-28T14:01:48.131572+00:00"
+    "759b8b566361c181": "2026-09-28T14:01:48.131572+00:00",
+    "9d1f29c01771d838": "2026-09-28T15:31:43.436211+00:00"
   },
   "messages": [
     {
@@ -11971,7 +11972,22 @@
         "תשתיות",
         "נביידיה"
       ]
+    },
+    {
+      "sent_at": "2026-09-28T15:31:43.436211+00:00",
+      "title": "$NVDA says its revenue opportunity per gigawatt of AI infrastructure has more than doubled across generations: Hopper: $18B Blackwell: $25B Rubin: $40B Based on Nvidia’s reference designs, Rubin represents roughly 60% more revenue per GW than Blackwell.",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2104539877669040391",
+      "message": "NVIDIA חשפה נתון שמסביר למה כל מי שבונה תשתיות AI ממשיך לשפוך כסף: ההכנסה שלה לכל גיגה-וואט של תשתית AI יותר מהכפילה את עצמה בין דורות - Hopper 18 מיליארד דולר, Blackwell 25 מיליארד, ו-Rubin שמגיע בהמשך - 40 מיליארד. כלומר 60% יותר הכנסה לאותה כמות חשמל.\n\nזה לא רק חדשות טובות ל-NVIDIA. זה אומר שחברות החשמל, קמעונאי הנחושת ויצרני ציוד הקירור צפויים לראות ביקוש שממשיך לגדול - כי כל דור חדש דורש יותר תשתית כדי לפעול.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "Nvidia",
+        "AI",
+        "תשתיות",
+        "נתונים"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-28T14:00:42.561885+00:00"
+  "last_auto_run": "2026-09-28T15:30:41.685245+00:00"
 }
