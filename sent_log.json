@@ -846,7 +846,8 @@
     "f2a6c179c434a1a2": "2026-09-29T11:00:36.230292+00:00",
     "58c2798698bef56e": "2026-09-29T12:31:11.802187+00:00",
     "ffcb036aa6f2034f": "2026-09-29T14:01:39.684063+00:00",
-    "c1c404d697853164": "2026-09-29T15:31:31.633970+00:00"
+    "c1c404d697853164": "2026-09-29T15:31:31.633970+00:00",
+    "1a958811bf21241b": "2026-09-29T17:01:35.966847+00:00"
   },
   "messages": [
     {
@@ -12139,7 +12140,21 @@
         "כלכלת ענקיים",
         "רגולציה"
       ]
+    },
+    {
+      "sent_at": "2026-09-29T17:01:35.966847+00:00",
+      "title": "OPENAI ARR NEARS $70B AS ENTERPRISE SALES MORE THAN DOUBLE - AXIOS OpenAI’s annualized revenue run rate is approaching $70 billion, up more than 70% since the start of Q3, according to Axios. The biggest acceleration is coming from enterprise. Its B2B revenue has grown more https://t.co/XGkjqAXJd0",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2104939254942187640",
+      "message": "ההכנסות השנתיות של OpenAI מתקרבות ל-70 מיליארד דולר - עלייה של יותר מ-70% מתחילת הרבעון השלישי בלבד. הצמיחה המשמעותית ביותר מגיעה מלקוחות ארגוניים, שם ההכנסות יותר מהכפילו את עצמן.\n\nזה חשוב גם למי שלא מכיר OpenAI ישירות: החברות שמספקות את התשתית לאימון ולהרצת מודלים - ספקיות הענן, יצרניות השבבים - הן אלה שמרגישות את הצמיחה הזו בהזמנות. כשארגונים גדולים פותחים את הכיס, כל שרשרת האספקה של ה-AI זוכה.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "OpenAI",
+        "הכנסות"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-29T15:30:35.128909+00:00"
+  "last_auto_run": "2026-09-29T17:00:36.304204+00:00"
 }
