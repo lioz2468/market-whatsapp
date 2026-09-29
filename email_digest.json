@@ -1,165 +1,139 @@
 {
-  "generated_at": "2026-09-28T09:36:21.244208+00:00",
+  "generated_at": "2026-09-29T05:45:11.687377+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "After more than two decades, U.S. forces prepare to leave Iraq",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5981123/after-more-than-two-decades-u-s-forces-prepare-to-leave-iraq",
-      "summary": "The U.S. military formally ends a more than two-decade-long presence in Iraq this week.",
-      "importance": 8,
-      "topics": [
-        "עיראק",
-        "ארה״ב",
-        "גיאופוליטיקה"
-      ],
-      "published": "Sun, 27 Sep 2026 17:14:43 -0400"
-    },
-    {
-      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
       "importance": 8,
       "topics": [
-        "ארה״ב",
-        "סין",
-        "גיאופוליטיקה"
+        "סחר חוץ",
+        "ארה\"ב",
+        "קנדה"
       ],
-      "published": "Mon, 28 Sep 2026 07:52:23 GMT"
+      "published": "Tue, 29 Sep 2026 04:10:33 GMT"
     },
     {
-      "title": "Russian strikes kill eight, injure dozens across Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
-      "summary": "Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
+      "title": "לכודים ברחו מהחלונות: \"כטב\"ם הסילון\" של פוטין התפוצץ על האקדמיה למדעים בקייב | תיעוד",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/bycmsv00qfx",
+      "summary": "עוד 7 הרוגים במתקפה רוסית נרחבת על ערי אוקראינה - נגד תחנות דלק, בנייני משרדים ומרכז רפואי - וגם נגד האקדמיה הלאומית למדעים בלב קייב, שם לכודים תועדו בורחים מהחלונות. הקרמלין נוקם על המתקפות האוקראיניות בעומק רוסיה נגד מתקני נפט ומחסני סחורות, דוברו של פוטין: \"שלום? אוקראינה תצטרך לשלם מחיר, וזה קורה עכשיו\". קייב טוענת במקביל כי שחררה שטחים כבושים בדונבאס, עם נגמ\"שים שהוסבו לרכבים אוטונומיים: \"הם ",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
         "מלחמה"
       ],
-      "published": "Mon, 28 Sep 2026 05:06:11 +0000"
+      "published": "Tue, 29 Sep 2026 00:38:44 +0300"
     },
     {
-      "title": "חיילי קים ג'ונג און, ההסכם הסודי – והעריקה שנחשפה: סיאול רותחת על זלנסקי",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/r1tm00cd5ze",
-      "summary": "נשיא אוקראינה חשף באו\"ם כי ארצו העבירה לידי דרום קוריאה שני שבויי מלחמה צפון קוריאנים שנלחמו לצד רוסיה ונתפסו בשדה הקרב, וסיפר שאחד מהם ניסה להתאבד ולא הצליח. בסיאול אומרים שהשניים, אנשי הכוחות המיוחדים שיכולים לחשוף מידע על צבא פיונגיאנג, ביקשו לערוק מהדיקטטורה לדרום, ושזלנסקי הפר סיכום שלפיו העברתם תישמר בסוד כדי למנוע פגיעה במשפחתם בצפון: \"תתנצל\"",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "צפון קוריאה",
-        "גיאופוליטיקה"
-      ],
-      "published": "Mon, 28 Sep 2026 11:53:06 +0300"
-    },
-    {
-      "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
+      "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
-      "summary": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S. military has been using to launch attacks on Iran.",
+      "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
+      "summary": "Investigators haven't concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups.",
       "importance": 7,
       "topics": [
         "בריטניה",
         "טרור",
         "איראן"
       ],
-      "published": "Sun, 27 Sep 2026 17:14:44 -0400"
+      "published": "Mon, 28 Sep 2026 06:51:25 -0400"
     },
     {
-      "title": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5949210/amid-changing-dynamics-in-the-middle-east-turkey-seeks-to-emerge-as-a-leader",
-      "summary": "Turkey's attempts at expanding its Middle East footprint has put it in a position of power, coming head-to-head with Israel.",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
       "importance": 7,
       "topics": [
-        "טורקיה",
-        "מזרח תיכון",
+        "בינה מלאכותית",
+        "בטיחות",
+        "טכנולוגיה"
+      ],
+      "published": "Tue, 29 Sep 2026 04:30:13 GMT"
+    },
+    {
+      "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+      "summary": "US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.",
+      "importance": 7,
+      "topics": [
+        "ארה\"ב",
+        "איראן",
+        "דיפלומטיה"
+      ],
+      "published": "Tue, 29 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Fiery end for SpaceX Starship mission",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss",
+      "summary": "Elon Musk’s SpaceX's next-generation Starship rocket reached orbit for the first time despite an engine shutdown.",
+      "importance": 7,
+      "topics": [
+        "חלל",
+        "SpaceX",
+        "טכנולוגיה"
+      ],
+      "published": "Mon, 28 Sep 2026 23:48:48 +0000"
+    },
+    {
+      "title": "חוסל מח\"ט צפון הרצועה בחמאס, ששרד ניסיון חיסול לפני 4 חודשים",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rj6mdau9fe",
+      "summary": "עז א-דין ביכ הותקף כבר בחודש מאי האחרון לצד סגן מפקד חטיבת העיר עזה בחמאס, אבל מאז לא דווח על מותו. הלילה הותקף שוב בדירה בעיר עזה - וחוסל",
+      "importance": 7,
+      "topics": [
+        "עזה",
+        "חמאס",
         "ישראל"
       ],
-      "published": "Sun, 27 Sep 2026 08:06:19 -0400"
+      "published": "Tue, 29 Sep 2026 08:19:51 +0300"
     },
     {
-      "title": "5 arrested near a U.K. air base used by U.S. on suspicion of preparing a terrorist act",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
-      "summary": "Police evacuated homes Sunday near an air base in England used by the U.S. and arrested several men over suspected explosives offenses.",
-      "importance": 7,
-      "topics": [
-        "בריטניה",
-        "טרור",
-        "ביטחון"
-      ],
-      "published": "Sun, 27 Sep 2026 06:49:36 -0400"
-    },
-    {
-      "title": "Venezuela releases dozens of political prisoners as election calls grow",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-      "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
-      "importance": 7,
-      "topics": [
-        "ונצואלה",
-        "דיפלומטיה",
-        "זכויות אדם"
-      ],
-      "published": "Sun, 27 Sep 2026 15:56:25 GMT"
-    },
-    {
-      "title": "Mapping Israel’s 300 checkpoints: Where they are and how they work",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/mapping-israels-300-checkpoints-where-they-are-and-how-they-work?traffic_source=rss",
-      "summary": "Israel has shut occupied West Bank crossings for a week, further restricting Palestinian movement and holy site access.",
+      "title": "100 מתפרעים יהודים פשטו על כפר פלסטיני והציתו בית משפחה שגורשה וניסתה לחזור",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hkejru009ge",
+      "summary": "נערי הגבעות הזעיקו \"תגבורת\" - ו-100 מתפרעים פשטו על הכפר ג'אלוד, בזמן החזרת משפחת טובאסי לביתה אחרי שגורשה בתום חודשים של הטרדות. הם השליכו אבנים והבעירו צמיגים, מבנים ותקפו לוחמים. התוצאה: 3 פצועים לצד 3 עצורים. אב המשפחה ל-ynet לפני כחודש: \"איימו לשרוף כמו משפחת דוואבשה'\"",
       "importance": 7,
       "topics": [
         "ישראל",
-        "פלסטינים",
-        "גדה המערבית"
+        "כפיים",
+        "ביטחון"
       ],
-      "published": "Mon, 28 Sep 2026 08:50:37 +0000"
+      "published": "Tue, 29 Sep 2026 07:41:15 +0300"
     },
     {
-      "title": "‘Terror’ incident near RAF base used for Iran war: What we know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss",
-      "summary": "Five men were arrested on suspicion of the 'preparation of a terrorist act' near RAF Fairford, a base used by the US.",
+      "title": "מהידידה הקרובה לחוד החנית של הלחץ על ישראל: מה קרה להולנד?",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hkd2bkocgx",
+      "summary": "במשך עשרות שנים הולנד נחשבה לאחת מבעלות הברית הקרובות ביותר של ישראל באירופה; איך הידרדרו היחסים, מה מחכה לישראלי שנוחת בסכיפהול, מה השתנה בדעת הקהל ובפוליטיקה בהאג - והאם מדינות נוספות בדרך? ynet מסביר",
       "importance": 7,
+      "topics": [
+        "ישראל",
+        "הולנד",
+        "דיפלומטיה"
+      ],
+      "published": "Tue, 29 Sep 2026 00:32:58 +0300"
+    },
+    {
+      "title": "British men released on bail after suspected terror plot",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5983550/british-men-released-on-bail-after-suspected-terror-plot",
+      "summary": "Five British men have been released on bail after being detained near a military base for alleged terror offenses. The British base is used by the U.S. military for strikes on Iran.",
+      "importance": 6,
       "topics": [
         "בריטניה",
         "טרור",
         "איראן"
       ],
-      "published": "Mon, 28 Sep 2026 08:44:16 +0000"
+      "published": "Mon, 28 Sep 2026 18:10:02 -0400"
     }
   ],
   "business": [
-    {
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-      "summary": "תשואות האג\"ח הממשלתי קפצו בחדות, וזה מתחיל להכאיב לחברות ה-AI הגדולות. מי שבונה מרכזי נתונים ותשתיות ענק ממנן את זה בחוב - וחוב יקר יותר אומר שהפרויקטים האלה צריכים לייצר תשואה גבוהה יותר כדי שהמספרים יסתדרו.\n\nההשפעה העקיפה: חברות שמספקות ציוד לתשתיות - שרתים, כבלים, קירור - עשויות לראות האטה בהזמנות אם המימון מתייקר. וגם ספקיות החשמל שהתרגלו לצמיחה חדה בביקוש מ-data centers - כדאי לעקוב.",
-      "importance": 9,
-      "topics": [
-        "אינטליגנציה מלאכותית",
-        "הון השקעות",
-        "עלויות דלק"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Inflation Keeps Pressure on the Fed",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-27/inflation-keeps-pressure-on-the-fed-video",
-      "summary": "האינפלציה בארה\"ב לא נרגעת - ואחד מהאנליסטים של Renaissance Macro Research טוען שהפד עשוי להעלות ריבית מהר יותר ממה שהשוק מתמחר כרגע.\n\nהסיבה: מחירי אנרגיה ומזון ממשיכים לעלות, ויכולים לגרור את ציפיות האינפלציה כלפי מעלה - וזה בדיוק מה שהפד רוצה למנוע.\n\nההשפעות הלא מיידיות: עלייה בריבית בארה\"ב תחזק את הדולר, תייקר אשראי בשווקים מתעוררים ותלחץ מניות צמיחה גם כאן. שוק האג\"ח כבר מתחיל להרגיש את זה.",
-      "importance": 9,
-      "topics": [
-        "אינפלציה",
-        "פד",
-        "ריבית"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "$ASML CEO Christophe Fouquet warns tighter chip-equipment restrictions on China 🇨🇳 could backfire by accelerating domestic alternatives. “If you over-restrict, you bring desperation.” He also says ASML would add 20% more capacity if its supply chain allowed it.",
       "source": "Twitter @wallstengine",
@@ -187,70 +161,31 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "Nvidia CEO Jensen Huang says $NVDA’s all-in investment across the AI ecosystem may be over $100B. “All in, we might be like a hundred billion dollars.” That's larger than the $52.7B 🇺🇸 CHIPS Act semiconductor funding Major announced investments / commitments: • OpenAI: up to https://t.co/AnfLjpJVEO",
+      "title": "Anthropic has now contracted 2.6GW of $NVDA AI infrastructure to date, with shipments through 2028 Across CSPs/neoclouds, its reported contracted value now exceeds $180B It also has ~15-year data-center leases starting FY28-29 that are expected to be reassigned to 3rd parties https://t.co/0YMr8sfmVd",
       "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2104141916270964834",
-      "summary": "ג'נסן הואנג הכריז שסך ההשקעות של NVIDIA במערכת ה-AI הכוללת עשוי להגיע ל-100 מיליארד דולר - יותר מכפול מתוכנית ה-CHIPS Act האמריקאית כולה (52.7 מיליארד דולר). זה לא השקעה בבניין אחד אלא פיזור רחב: OpenAI, מחשוב ענן, תשתיות, שותפויות.\n\nמה שמעניין פה מעבר לסכום: כשיצרן שבבים הופך למממן הגדול ביותר של מערכת שלמה, הוא הופך לשחקן אחר לגמרי. לא ספק - שותף אסטרטגי. זה משנה את הדינמיקה גם עם AMD, גם עם הלקוחות הגדולים.",
-      "importance": 8,
+      "url": "https://twitter.com/wallstengine/status/2104545522782749055",
+      "summary": "Anthropic חתמה על חוזים לתשתיות AI בהיקף של 2.6 ג'יגה-וואט מ-NVIDIA - עם משלוחים עד 2028 ושווי כולל שעובר 180 מיליארד דולר. זה לא סתם מספר גדול - זה אחד מהמהלכי רכש הגדולים בהיסטוריה של ענף ה-AI.\n\nמה שמעניין פחות ברור: Anthropic חותמת גם על חוזי שכירות למרכזי נתונים ל-15 שנה, אבל לא בכוונה להחזיק בהם - היא מתכננת להעביר אותם לצדדים שלישיים. פה קורה משהו מעניין: Anthropic בעצם מרכזת כוח רכש ומחלקת אותו הלאה - וזה הופך אותה לשחקן תשתיות, לא רק לחברת מודלים.",
+      "importance": 9,
       "topics": [
         "AI",
-        "השקעות",
+        "תשתיות",
+        "נביידיה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "$NVDA says its revenue opportunity per gigawatt of AI infrastructure has more than doubled across generations: Hopper: $18B Blackwell: $25B Rubin: $40B Based on Nvidia’s reference designs, Rubin represents roughly 60% more revenue per GW than Blackwell.",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2104539877669040391",
+      "summary": "NVIDIA חשפה נתון שמסביר למה כל מי שבונה תשתיות AI ממשיך לשפוך כסף: ההכנסה שלה לכל גיגה-וואט של תשתית AI יותר מהכפילה את עצמה בין דורות - Hopper 18 מיליארד דולר, Blackwell 25 מיליארד, ו-Rubin שמגיע בהמשך - 40 מיליארד. כלומר 60% יותר הכנסה לאותה כמות חשמל.\n\nזה לא רק חדשות טובות ל-NVIDIA. זה אומר שחברות החשמל, קמעונאי הנחושת ויצרני ציוד הקירור צפויים לראות ביקוש שממשיך לגדול - כי כל דור חדש דורש יותר תשתית כדי לפעול.",
+      "importance": 9,
+      "topics": [
         "Nvidia",
-        "תשתיות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "How to Know When the AI Boom Is About to Go Bust",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/how-to-know-when-the-ai-boom-is-about-to-go-bust-61af3d26?mod=rss_markets_main",
-      "summary": "ה-WSJ שאל היום את השאלה שכולם חושבים עליה אבל לא אומרים בקול: מתי בועת ה-AI נגמרת?\n\nהתשובה ההיסטורית היא פשוטה - הבומים הגדולים נגמרים כשהכסף הזול מפסיק לזרום. לא כשהטכנולוגיה נכשלת, אלא כשהריבית עולה, האשראי מתייקר, וחברות שרפו מיליארדים בלי להרוויח לא מצליחות לגייס סיבוב הבא.\n\nמי שכדאי לעקוב אחריו: לא רק חברות ה-AI הגדולות, אלא הסטארטאפים שתלויים בהשקעות פרטיות. הם יהיו הראשונים להרגיש את זה.",
-      "importance": 8,
-      "topics": [
         "AI",
-        "בולות שוק",
-        "הון סיכון"
+        "תשתיות",
+        "נתונים"
       ],
       "tag": "ארה\"ב"
-    },
-    {
-      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
-      "summary": "Micron הפכה לאחת מנקודות המפתח של עונת הדוחות הקרובה - לפי MarketWatch, היא עשויה להפוך לגורם הצמיחה הגדול ביותר ברווחי S&P 500, ולדחוק את Nvidia למקום השני.\n\nזה לא סתם תג'קפוט לאחת החברות. כשחברת זיכרון הופכת לעגינה של ציפיות הרווח של המדד כולו, זה מספר משהו על הכיוון שה-AI לוקח - פחות GPU, יותר אחסון ותעבורת נתונים. חברות כמו SK Hynix ו-Samsung ייצאו מזה עם מסקנות משלהן.",
-      "importance": 8,
-      "topics": [
-        "טכנולוגיה",
-        "מניות",
-        "עודף ערך"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/27/china-bytedance-alibaba-nvidia-chips.html",
-      "summary": "סין שוקלת לאפשר ל-ByteDance ו-Alibaba לרכוש שבבי Nvidia - ספציפית את ה-RTX PRO 5500, דגם שפחות מוכר ממה שיש בכותרות בדרך כלל.\n\nזה לא עניין טכני. מה שקורה פה הוא שסין מנסה למצוא את הפרצות ברשימות הסנקציות האמריקאיות - לאפשר גישה לכוח עיבוד מבלי להפר את ההגבלות. אם זה יתרחש, זה ישנה את האופן שבו שני הצדדים משרטטים את הגבולות של מלחמת השבבים.\n\nמי שכדאי לשים לב אליו מהצד: ספקיות ענן אמריקאיות שמתחרות מול Alibaba Cloud.",
-      "importance": 8,
-      "topics": [
-        "טכנולוגיה",
-        "סנקציות",
-        "AI"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Chinese Stocks Hit One-Year Low as Chip, Optical Firms Slide",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-28/chinese-stocks-hit-one-year-low-as-chip-optical-firms-slide",
-      "summary": "מניות סין נגעו בשפל של שנה, עם ירידות חדות בחברות טכנולוגיה ואופטיקה. הטריגר: דיווח שהממשל בסין שוקל לאפשר לחברות מקומיות לרכוש שבבי Nvidia - מה שפוגע בביקוש לחלופות המקומיות, ובמקביל ארה\"ב מקדמת סנקציות על יצרני אופטיקה זרים.\n\nפה קורה משהו מעניין: הלחץ לא מגיע רק מוושינגטון - הוא מגיע גם מפנים סין. חברות אופטיקה שמספקות רכיבים לתעשיית השבבים הגלובלית - כולל בישראל ובאירופה - עלולות למצוא את עצמן בלחץ שוק אמיתי.",
-      "importance": 8,
-      "topics": [
-        "טכנולוגיה",
-        "סנקציות",
-        "סין"
-      ],
-      "tag": "גלובלי"
     },
     {
       "title": "US, China Release Product List for $30B Tariff Deal",
@@ -264,86 +199,178 @@
         "ארה\"ב-סין"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+      "summary": "60 מיליארד דולר של סחורות יורדות במכסים בין ארה\"ב לסין - וזה לא מספר תיאורטי.\n\nהרשימה כוללת צעצועים, ציוד ספורט ועיטורי חג מטעם סין, ומוצרים חקלאיים אמריקאים לשוק הסיני. כלומר: מוצרי צריכה יומיומיים שהצרכן האמריקאי שילם עליהם פרמיה כבדה.\n\nמי שאולי לא חשב על זה - חברות לוגיסטיקה, ספנות וקמעונאים שעיצבו מחדש את שרשראות האספקה שלהם בשנתיים האחרונות. עכשיו הם צריכים להחליט אם לחזור לסין או להישאר עם ה-setup החדש.",
+      "importance": 8,
+      "topics": [
+        "סחר",
+        "טריפים",
+        "מדיניות",
+        "סין"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+      "summary": "Nvidia הודיעה על תוכנית רכישה עצמית של מניות בשווי 150 מיליארד דולר - הגדולה בהיסטוריה של החברה - עד ינואר 2028.\n\nרכישה עצמית אומרת שהחברה קונה בחזרה את המניות שלה מהשוק, מה שמקטין את מספר המניות הקיימות ומגדיל את הרווח למניה. זה בדרך כלל סימן לכך שההנהלה מאמינה שהמניה זולה ביחס לפוטנציאל העתידי.\n\nההשפעה העקיפה: כשחברה בגודל של Nvidia מצהירה כזו אמירה, זה מחזק את האמון בכל מגזר ה-AI - ספקי ענן, יצרני שבבים ומשקיעים שהיו מהססים.",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "בורסה",
+        "AI"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "SpaceX sends its Starship rocket to orbit for the first time",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "ספייסX שלחה את Starship למסלול סביב כדור הארץ לראשונה בהיסטוריה - וזה גדול ממה שזה נשמע.\n\nהרקטה הזו היא הלב של כל התוכניות של מאסק: ירח, מאדים, ובייחוד הורדת עלות ההשקה פי כמה. למה? כי Starship אמורה להיות לגמרי לשימוש חוזר - כמו מטוס, לא כמו רקטה שנזרקת אחרי פעם אחת.\n\nמי שכדאי לעקוב אחריהם עכשיו: חברות לוויינים, ספקיות ביטוח חלל, וכל מי שמחכה לשגר מטענים - כי אם העלויות יורדות, כל התעשייה הזו משתנה.",
+      "importance": 8,
+      "topics": [
+        "טכנולוגיה",
+        "תחבורה",
+        "השקעות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Nvidia share buyback plan gets $150 billion boost",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+      "summary": "Nvidia אישרה תוכנית רכישה חוזרת של מניות בשווי 150 מיליארד דולר - הגדולה בהיסטוריה. זה לא תרגיל יחסי ציבור: כשחברה קונה את המניות שלה בסכום כזה, היא אומרת בקול שהיא מאמינה שהמניה זולה ביחס לעתיד שהיא רואה. ה-cash flow של Nvidia כרגע עצום, וזו דרך להחזיר אותו לבעלי המניות. השפעה עקיפה שכדאי לשים לב אליה: פחות מניות בשוק אומר רווח למניה גבוה יותר - מה שיכול לדחוף ציפיות כלפי מעלה גם בחברות שמתחרות על אותם משקיעים.",
+      "importance": 8,
+      "topics": [
+        "טכנולוגיה",
+        "בורסה",
+        "AI"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/currencies/senate-investigation-finds-rampant-use-of-tethers-stablecoin-by-iranian-regime-ce652e22?mod=rss_markets_main",
+      "summary": "חקירת סנאט אמריקני חשפה שארנקים שקושרו לאיראן ועברו סנקציות - כמעט כולם עבדו עם USDT של Tether. זה לא סתם כותרת: זו תחמושת פוליטית ממש בזמן שהקונגרס דן בחקיקת סטייבלקוין.\n\nTether כבר שנים נמצאת בקו האש על שקיפות ופיקוח, ועכשיו הסנאטורים הדמוקרטים נותנים לה עוד בעיה. כל חברה שמחזיקה USDT, מקבלת אותו כתשלום, או בונה עליו תשתית - צריכה לעקוב מה יוצא מהחקירה הזו.",
+      "importance": 8,
+      "topics": [
+        "קריפטו",
+        "סנקציות",
+        "רגולציה"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "פוליטיקה"
-      ],
-      "published": "Sun, 27 Sep 2026 20:34:28 +0000"
-    },
-    {
-      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-      "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "NVIDIA",
-        "אבטחה"
-      ],
-      "published": "Mon, 28 Sep 2026 09:00:00 +0000"
-    },
-    {
-      "title": "ה-AI של גוגל כבר יכול להתקשר לחנויות ולעסקים במקומכם",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/google-gemini-can-now-make-business-calls/",
-      "summary": "כמה שעות מחייכם בזבזתם על מענה קולי חופר או המתנה מייגעת לנציג שירות? גוגל רוצה לסגור את הפינה הזו עם יכולת חדשה ב-Gemini, שמבטיחה להוריד מהראש שלכם את השיחות לבתי עסק וחברות. הסוף להמתנות על הקו? במקום שאתם תצטרכו להתקשר לבית עסק, לחכות על הקו או לנווט דרך אינספור תתי תפריטים שמנסים לגרום לכם לוותר […] The post ה-AI של גוגל כבר יכול להתקשר לחנויות ולעסקים במקומכם appeared first on גיקטיים .",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Google",
-        "Gemini"
-      ],
-      "published": "Mon, 28 Sep 2026 06:58:10 +0000"
-    },
-    {
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI […]",
-      "importance": 6,
+      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model […]",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "רכישה",
+        "AMD"
+      ],
+      "published": "2026-09-28T17:31:35-04:00"
+    },
+    {
+      "title": "היסטוריה: SpaceX שיגרה בהצלחה את הטיל הגדול ביותר בעולם למסלול סביב כדור הארץ",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/spacex-starship-orbital-flight-starlink-v3/",
+      "summary": "אחרי לא פחות מ-13 שיגורים, חברת SpaceX יכולה סוף סוף לסמן וי, כשהחללית הענקית שלה, Starship, מצליחה בטיסת המבחן ה-14 להגיע למסלול סביב כדור הארץ ומהירות של כ-28 אלף קמ\"ש. השיגור ההיסטורי, שיצא לדרך לפני כשעה מ-Starbase בטקסס, לווה (בנוהל) בהתלהבות, מחיאות כפיים וקריאות של עובדי החברה הנלהבים אחרי חודשים של עבודה מאומצת. זמן קצר […] The post היסטוריה: SpaceX שיגרה בהצלחה את הטיל הגדול ביותר בעולם ל",
+      "importance": 9,
+      "topics": [
+        "SpaceX",
+        "חלל",
+        "טכנולוגיה"
+      ],
+      "published": "Mon, 28 Sep 2026 14:38:32 +0000"
+    },
+    {
+      "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+      "summary": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
+      "importance": 8,
+      "topics": [
+        "SpaceX",
+        "תחבורה חלל",
+        "Starlink"
+      ],
+      "published": "Mon, 28 Sep 2026 21:26:19 +0000"
+    },
+    {
+      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+      "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+      "importance": 8,
+      "topics": [
+        "OpenAI",
+        "AI",
+        "בטיחות AI"
+      ],
+      "published": "Mon, 28 Sep 2026 16:43:18 +0000"
+    },
+    {
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+      "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+      "importance": 8,
       "topics": [
         "AI",
         "OpenAI",
         "אבטחה"
       ],
-      "published": "2026-09-27T13:21:07-04:00"
+      "published": "Mon, 28 Sep 2026 11:32:19 +0000"
     },
     {
-      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-      "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-      "importance": 6,
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "importance": 7,
       "topics": [
         "AI",
-        "למידת מכונה",
-        "סטארטאפ"
+        "OpenAI",
+        "בטיחות"
       ],
-      "published": "Mon, 28 Sep 2026 09:00:00 +0000"
+      "published": "Mon, 28 Sep 2026 17:09:02 +0000"
     },
     {
-      "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
-      "summary": "Climate groups are latching onto the data center opposition movement, but it remains to be seen if they can get people to care about the facilities’ impact on the atmosphere.",
-      "importance": 6,
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "importance": 7,
       "topics": [
-        "מרכזי נתונים",
         "AI",
-        "סביבה"
+        "Meta",
+        "Enterprise"
       ],
-      "published": "Sun, 27 Sep 2026 10:00:00 +0000"
+      "published": "Mon, 28 Sep 2026 16:52:38 +0000"
+    },
+    {
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned cal",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "אבטחה",
+        "סייבר"
+      ],
+      "published": "2026-09-28T14:30:00-04:00"
     }
   ]
 }
