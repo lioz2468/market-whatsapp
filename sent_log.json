@@ -847,7 +847,8 @@
     "58c2798698bef56e": "2026-09-29T12:31:11.802187+00:00",
     "ffcb036aa6f2034f": "2026-09-29T14:01:39.684063+00:00",
     "c1c404d697853164": "2026-09-29T15:31:31.633970+00:00",
-    "1a958811bf21241b": "2026-09-29T17:01:35.966847+00:00"
+    "1a958811bf21241b": "2026-09-29T17:01:35.966847+00:00",
+    "bd3107b71817db5d": "2026-09-29T18:31:40.662551+00:00"
   },
   "messages": [
     {
@@ -12154,7 +12155,21 @@
         "OpenAI",
         "הכנסות"
       ]
+    },
+    {
+      "sent_at": "2026-09-29T18:31:40.662551+00:00",
+      "title": "Anthropic could pay SpaceX up to $84.5 billion for NVIDIA-based computing capacity through 2029. That’s nearly double the roughly $45B in potential spending $SPCX had previously disclosed. Anthropic’s original agreement, announced in May, called for payments of about $1.25B per https://t.co/hlzRYTt4s2",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2104975521126003010",
+      "message": "Anthropic עשויה לשלם ל-SpaceX עד 84.5 מיליארד דולר על כוח מחשוב מבוסס NVIDIA - עד 2029. זה כמעט כפול מה-45 מיליארד שהיה ידוע עד עכשיו.\n\nההסכם המקורי נחתם במאי על 1.25 מיליארד בשנה. המספר החדש מרמז שהם הרחיבו אותו משמעותית.\n\nמי שכדאי לשים לב אליו פה הוא לא רק NVIDIA - אלא כל מי שמספק תשתית לצנרת הזו: חברות קירור, אחסון, אנרגיה. הכסף הגדול ב-AI לא זורם רק לצ'יפים.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "השקעות AI",
+        "תשתיות",
+        "זרימת הון"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-29T17:00:36.304204+00:00"
+  "last_auto_run": "2026-09-29T18:30:36.824765+00:00"
 }
