@@ -1,123 +1,123 @@
 {
-  "generated_at": "2026-09-29T05:45:11.687377+00:00",
+  "generated_at": "2026-09-29T09:41:19.838532+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss",
+      "summary": "Google Maps images show scale of Israel's destruction of Gaza, where more than 74,000 Palestinians have been killed.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "עזה",
+        "קונפליקט"
+      ],
+      "published": "Tue, 29 Sep 2026 07:41:59 +0000"
+    },
+    {
+      "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
+      "summary": "Turkey's bid for regional influence comes at a time when the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel, and continues with the stalemated, seven-month-old war on Iran.",
+      "importance": 7,
+      "topics": [
+        "טורקיה",
+        "המזרח התיכון",
+        "גיאופוליטיקה"
+      ],
+      "published": "Tue, 29 Sep 2026 05:00:00 -0400"
+    },
     {
       "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
       "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
-      "importance": 8,
+      "importance": 7,
       "topics": [
-        "סחר חוץ",
-        "ארה\"ב",
-        "קנדה"
+        "קנדה",
+        "ארצות הברית",
+        "מסחר"
       ],
       "published": "Tue, 29 Sep 2026 04:10:33 GMT"
     },
     {
-      "title": "לכודים ברחו מהחלונות: \"כטב\"ם הסילון\" של פוטין התפוצץ על האקדמיה למדעים בקייב | תיעוד",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bycmsv00qfx",
-      "summary": "עוד 7 הרוגים במתקפה רוסית נרחבת על ערי אוקראינה - נגד תחנות דלק, בנייני משרדים ומרכז רפואי - וגם נגד האקדמיה הלאומית למדעים בלב קייב, שם לכודים תועדו בורחים מהחלונות. הקרמלין נוקם על המתקפות האוקראיניות בעומק רוסיה נגד מתקני נפט ומחסני סחורות, דוברו של פוטין: \"שלום? אוקראינה תצטרך לשלם מחיר, וזה קורה עכשיו\". קייב טוענת במקביל כי שחררה שטחים כבושים בדונבאס, עם נגמ\"שים שהוסבו לרכבים אוטונומיים: \"הם ",
-      "importance": 8,
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+      "importance": 7,
       "topics": [
         "אוקראינה",
-        "רוסיה",
-        "מלחמה"
+        "קוריאה צפונית",
+        "דיפלומטיה"
       ],
-      "published": "Tue, 29 Sep 2026 00:38:44 +0300"
+      "published": "Mon, 28 Sep 2026 14:57:31 GMT"
     },
     {
-      "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
-      "summary": "Investigators haven't concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups.",
-      "importance": 7,
-      "topics": [
-        "בריטניה",
-        "טרור",
-        "איראן"
-      ],
-      "published": "Mon, 28 Sep 2026 06:51:25 -0400"
-    },
-    {
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-      "importance": 7,
-      "topics": [
-        "בינה מלאכותית",
-        "בטיחות",
-        "טכנולוגיה"
-      ],
-      "published": "Tue, 29 Sep 2026 04:30:13 GMT"
-    },
-    {
-      "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+      "title": "UNGA 81: Five key takeaways from general debate",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
-      "summary": "US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/unga-81-five-key-takeaways-from-general-debate?traffic_source=rss",
+      "summary": "The 81st United Nations General Assembly ends with AI, Palestine and wars dominating speeches.",
       "importance": 7,
       "topics": [
-        "ארה\"ב",
+        "האומות המאוחדות",
+        "גיאופוליטיקה",
+        "בינלאום"
+      ],
+      "published": "Tue, 29 Sep 2026 08:30:40 +0000"
+    },
+    {
+      "title": "US-Iran talks continue, but ‘deal unlikely’ before midterm elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections?traffic_source=rss",
+      "summary": "The US and Iran are talking through mediators, but there are major differences over what a deal should look like.",
+      "importance": 7,
+      "topics": [
         "איראן",
+        "ארצות הברית",
         "דיפלומטיה"
       ],
-      "published": "Tue, 29 Sep 2026 00:00:00 +0000"
+      "published": "Tue, 29 Sep 2026 08:15:48 +0000"
     },
     {
-      "title": "Fiery end for SpaceX Starship mission",
+      "title": "Israeli settlers attack Jalud village in occupied West Bank, torch homes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss",
-      "summary": "Elon Musk’s SpaceX's next-generation Starship rocket reached orbit for the first time despite an engine shutdown.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/israeli-settlers-attack-jalud-village-in-occupied-west-bank-torch-homes?traffic_source=rss",
+      "summary": "A group of settlers attacked two homes belonging to the Al-Tubasi family in a northern West Bank village.",
       "importance": 7,
       "topics": [
-        "חלל",
-        "SpaceX",
-        "טכנולוגיה"
+        "ישראל",
+        "הגדה המערבית",
+        "התנחלויות"
       ],
-      "published": "Mon, 28 Sep 2026 23:48:48 +0000"
+      "published": "Tue, 29 Sep 2026 08:01:14 +0000"
     },
     {
-      "title": "חוסל מח\"ט צפון הרצועה בחמאס, ששרד ניסיון חיסול לפני 4 חודשים",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rj6mdau9fe",
-      "summary": "עז א-דין ביכ הותקף כבר בחודש מאי האחרון לצד סגן מפקד חטיבת העיר עזה בחמאס, אבל מאז לא דווח על מותו. הלילה הותקף שוב בדירה בעיר עזה - וחוסל",
+      "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss",
+      "summary": "Head of Hamas's armed wing in northern Gaza killed in ⁠an Israeli strike on an apartment building in Gaza City.",
       "importance": 7,
       "topics": [
+        "ישראל",
         "עזה",
-        "חמאס",
-        "ישראל"
+        "חמאס"
       ],
-      "published": "Tue, 29 Sep 2026 08:19:51 +0300"
+      "published": "Tue, 29 Sep 2026 07:34:50 +0000"
     },
     {
-      "title": "100 מתפרעים יהודים פשטו על כפר פלסטיני והציתו בית משפחה שגורשה וניסתה לחזור",
+      "title": "בבריטניה חושפים: הקפאנו כמעט פי 3 רישיונות ייצוא לצה\"ל, המדיניות כלפי ישראל הוחמרה",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hkejru009ge",
-      "summary": "נערי הגבעות הזעיקו \"תגבורת\" - ו-100 מתפרעים פשטו על הכפר ג'אלוד, בזמן החזרת משפחת טובאסי לביתה אחרי שגורשה בתום חודשים של הטרדות. הם השליכו אבנים והבעירו צמיגים, מבנים ותקפו לוחמים. התוצאה: 3 פצועים לצד 3 עצורים. אב המשפחה ל-ynet לפני כחודש: \"איימו לשרוף כמו משפחת דוואבשה'\"",
+      "url": "https://www.ynet.co.il/news/article/byw5uefqfe",
+      "summary": "יום אחרי מחיאות הכפיים הסוערות לשר החוץ שדיבר בלהט על פשעי מלחמה בעזה, חשף שר המזרח התיכון הבריטי: עצרנו עוד 50 רישיונות ייצוא לישראל, לפריטים שעשויים לשמש את הצבא למלחמה ברצועה. חלקי חילוף ל-F-35 הוחרגו משיקולי \"ביטחון לאומי\"",
       "importance": 7,
       "topics": [
         "ישראל",
-        "כפיים",
-        "ביטחון"
-      ],
-      "published": "Tue, 29 Sep 2026 07:41:15 +0300"
-    },
-    {
-      "title": "מהידידה הקרובה לחוד החנית של הלחץ על ישראל: מה קרה להולנד?",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hkd2bkocgx",
-      "summary": "במשך עשרות שנים הולנד נחשבה לאחת מבעלות הברית הקרובות ביותר של ישראל באירופה; איך הידרדרו היחסים, מה מחכה לישראלי שנוחת בסכיפהול, מה השתנה בדעת הקהל ובפוליטיקה בהאג - והאם מדינות נוספות בדרך? ynet מסביר",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "הולנד",
+        "בריטניה",
         "דיפלומטיה"
       ],
-      "published": "Tue, 29 Sep 2026 00:32:58 +0300"
+      "published": "Tue, 29 Sep 2026 12:04:59 +0300"
     },
     {
       "title": "British men released on bail after suspected terror plot",
@@ -128,38 +128,12 @@
       "topics": [
         "בריטניה",
         "טרור",
-        "איראן"
+        "אירן"
       ],
       "published": "Mon, 28 Sep 2026 18:10:02 -0400"
     }
   ],
   "business": [
-    {
-      "title": "$ASML CEO Christophe Fouquet warns tighter chip-equipment restrictions on China 🇨🇳 could backfire by accelerating domestic alternatives. “If you over-restrict, you bring desperation.” He also says ASML would add 20% more capacity if its supply chain allowed it.",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2104472406240973128",
-      "summary": "מנכ\"ל ASML אמר משהו שכדאי לשים לב אליו: אם המערב יהדק יותר מדי את ההגבלות על יצוא ציוד שבבים לסין, התוצאה עשויה להיות הפוכה מהמצופה. \"כשאתה מגביל יותר מדי, אתה יוצר ייאוש\" - והייאוש הזה מזרז את הסינים לפתח חלופות מקומיות. בנוסף, הוא ציין ש-ASML יכולה להגדיל את הייצור ב-20% - אם שרשרת האספקה שלה הייתה מאפשרת. כלומר, הביקוש קיים, הבעיה היא בצד הייצור. מי שצריך לשים לב: ספקי רכיבים ל-ASML, ומתחרים אסייתיים שמנסים לסגור את הפער הטכנולוגי.",
-      "importance": 9,
-      "topics": [
-        "צ'יפים",
-        "רגולציה",
-        "ג'יאופוליטיקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Bond Selloff Resumes as Oil Rises After Trump Spurns Iran Offer",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-28/bond-selloff-resumes-as-oil-rises-after-trump-spurns-iran-offer",
-      "summary": "אגרות חוב אמריקאיות ירדו היום ומחירי הנפט עלו, אחרי שטראמפ דחה את הצעת איראן לפתוח מחדש את מיצר הורמוז.\n\nזה לא סתם מתח גיאופוליטי - מיצר הורמוז הוא צוואר הבקבוק של כ-20% מסחר הנפט העולמי. סגירה שלו, גם חלקית, דוחפת את מחירי האנרגיה למעלה - וזה מחמם את האינפלציה בדיוק כשהפד מנסה לרסן אותה.\n\nמי שצריך לשים לב מעבר לשווקים: חברות תובלה, מגזר הפטרוכימיה, ובעצם כל עסק שתלוי בשרשראות אספקה גלובליות.",
-      "importance": 9,
-      "topics": [
-        "נפט",
-        "איראן",
-        "ריבית"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "Anthropic has now contracted 2.6GW of $NVDA AI infrastructure to date, with shipments through 2028 Across CSPs/neoclouds, its reported contracted value now exceeds $180B It also has ~15-year data-center leases starting FY28-29 that are expected to be reassigned to 3rd parties https://t.co/0YMr8sfmVd",
       "source": "Twitter @wallstengine",
@@ -188,15 +162,16 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "US, China Release Product List for $30B Tariff Deal",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-28/the-china-show-9-28-2026-video",
-      "summary": "הרשימות של הסכם המכסים בין ארה\"ב לסין על 30 מיליארד דולר של מוצרים פורסמו רשמית. זה לא סתם מסמך - כשיודעים בדיוק אילו מוצרים נכנסים לעסקה, אפשר לראות מי מרוויח ומי פחות: יצואנים סינים בתחומים ספציפיים נושמים לרווחה, ובצד האמריקאי - ייצור, קמעונאות ואפילו חברות לוגיסטיקה ירגישו את זה בעלויות. שווה לשים לב לאילו קטגוריות נכנסו לרשימה - פה מסתתרת הסיפור האמיתי.",
-      "importance": 8,
+      "title": "ANTHROPIC FILES FOR IPO, PROSPECTUS SEEN BY REUTERS Here’s everything you need to know: Anthropic could seek a valuation above $2 trillion. 2025 financials: Rev: $4.59B, up 1,088% YoY from $386M Oper loss: $8.06B, widening from $2.98B GAAP net loss: $41.97B, vs $8.31B in 2024 https://t.co/ntYJ03uszx",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2104715031837622595",
+      "summary": "Anthropic הגישה תשקיף IPO - ושווי היעד הוא מעל 2 טריליון דולר.\n\nהמספרים של 2025: הכנסות של 4.6 מיליארד דולר, עלייה של פי 12 משנה שעברה. אבל ההפסד התפעולי עמד על 8 מיליארד דולר, וההפסד הנקי הכולל קפץ ל-42 מיליארד. זו חברה שמוציאה הרבה יותר ממה שהיא מכניסה - ובכל זאת מבקשת שווי שרק חברות ספורות בעולם הגיעו אליו.\n\nמי שמושפע מזה מעבר לאנתרופיק עצמה: OpenAI, שתצטרך להגיב בהנפקה שלה, ו-Google שמחזיקה חלק משמעותי מאנתרופיק - הצלחת ה-IPO תשפיע ישירות על הספרים שלה.",
+      "importance": 9,
       "topics": [
-        "מכסים",
-        "סחר",
-        "ארה\"ב-סין"
+        "AI",
+        "IPO",
+        "טכנולוגיה",
+        "השקעות"
       ],
       "tag": "גלובלי"
     },
@@ -265,6 +240,32 @@
         "רגולציה"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "יצוא הנפט מהמזרח התיכון קפץ לשיא של תקופת המלחמה - וזה בדיוק כשארה\"ב ואיראן מנהלות שיחות עקיפות על הפסקת אש דרך מתווכים.\n\nהקשר ישיר: כל התקדמות דיפלומטית מורידה את פרמיית הסיכון שמתומחרת בנפט כבר חודשים. אם המתיחות תרד - מחיר החבית ירד גם הוא, וזה ישפיע על הכנסות של כל מדינות המפרץ, על תקציבי ממשלות, ועל אינפלציה גלובלית.\n\nמי שאולי לא חושבים עליו עכשיו: חברות הספנות שמובילות את הנפט הזה, ותעשיית הביטוח הימי שנהנתה מפרמיות גבוהות בגלל הסיכון האזורי - גם הן בתמונה.",
+      "importance": 8,
+      "topics": [
+        "נפט",
+        "ביטחון אנרגיה",
+        "ניירות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
+      "summary": "TSMC שוקלת להקים אתר ייצור שני בארה\"ב - בנוסף למפעל שכבר נבנה באריזונה.\n\nזה חלק ממגמה ברורה: ארה\"ב רוצה שרשרת אספקה של שבבים שלא תלויה בטייוואן, ו-TSMC - שמייצרת שבבים עבור Nvidia, Apple ועוד - היא הלב של כל הסיפור הזה.\n\nמי שכדאי לשים אליו לב: חברות בנייה, ספקי ציוד, ורשתות חשמל אזוריות - פרויקטים כאלה הם ענקיים גם מבחינת תשתיות.",
+      "importance": 8,
+      "topics": [
+        "צפויים",
+        "חיסמים",
+        "ארה״ב"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
@@ -276,8 +277,8 @@
       "importance": 9,
       "topics": [
         "AI",
-        "רכישה",
-        "AMD"
+        "AMD",
+        "מיזוגים-ורכישות"
       ],
       "published": "2026-09-28T17:31:35-04:00"
     },
@@ -289,23 +290,49 @@
       "importance": 9,
       "topics": [
         "SpaceX",
-        "חלל",
-        "טכנולוגיה"
+        "טכנולוגיה חלל",
+        "פריצת דרך"
       ],
       "published": "Mon, 28 Sep 2026 14:38:32 +0000"
     },
     {
-      "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
-      "summary": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
       "importance": 8,
       "topics": [
-        "SpaceX",
-        "תחבורה חלל",
-        "Starlink"
+        "AI",
+        "Anthropic",
+        "IPO"
       ],
-      "published": "Mon, 28 Sep 2026 21:26:19 +0000"
+      "published": "Tue, 29 Sep 2026 05:13:43 +0000"
+    },
+    {
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "importance": 8,
+      "topics": [
+        "AMD",
+        "AI",
+        "M&A"
+      ],
+      "published": "Mon, 28 Sep 2026 20:39:33 +0000"
+    },
+    {
+      "title": "OpenAI’s AI agents need to catch up",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - […]",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "agents"
+      ],
+      "published": "2026-09-28T14:45:00-04:00"
     },
     {
       "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
@@ -316,61 +343,35 @@
       "topics": [
         "OpenAI",
         "AI",
-        "בטיחות AI"
+        "בטיחות"
       ],
       "published": "Mon, 28 Sep 2026 16:43:18 +0000"
     },
     {
-      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "אבטחה"
-      ],
-      "published": "Mon, 28 Sep 2026 11:32:19 +0000"
-    },
-    {
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
       "importance": 7,
       "topics": [
         "AI",
-        "OpenAI",
-        "בטיחות"
+        "Infrastructure",
+        "Funding"
       ],
-      "published": "Mon, 28 Sep 2026 17:09:02 +0000"
+      "published": "Mon, 28 Sep 2026 21:29:18 +0000"
     },
     {
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
       "importance": 7,
       "topics": [
+        "Nvidia",
         "AI",
-        "Meta",
-        "Enterprise"
+        "Security"
       ],
-      "published": "Mon, 28 Sep 2026 16:52:38 +0000"
-    },
-    {
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned cal",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "אבטחה",
-        "סייבר"
-      ],
-      "published": "2026-09-28T14:30:00-04:00"
+      "published": "Mon, 28 Sep 2026 18:31:23 +0000"
     }
   ]
 }
