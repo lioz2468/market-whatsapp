@@ -1,31 +1,32 @@
 {
-  "generated_at": "2026-09-30T05:45:04.919524+00:00",
+  "generated_at": "2026-09-30T09:32:46.129368+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-      "importance": 8,
+      "title": "מטוס פליי דובאי צלל 20 אלף רגל, \"כמויות של דם בתא הטייס\". גוברת ההערכה: זו פעולת טרור",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/sj1jneccfe",
+      "summary": "בצמרת מערכת הביטחון בישראל מעריכים כי טייס משנה מעומאן ניסה לרסק את מטוס פליי דובאי שנחת בסעודיה, בעוד הטייס מהאמירויות השתלט עליו בסיוע הצוות וכמה מהנוסעים הישראלים. ל-ynet נודע: נתניהו וכ\"ץ הנחו את צה\"ל לשלוח מטוסים צבאיים להשבת הנוסעים. מהאיתות הראשוני על מצוקה ועד הנחיתה בטאבוק - דקה אחר דקה",
+      "importance": 9,
       "topics": [
-        "בינה מלאכותית",
-        "סיכוני ביטחון"
+        "ביטחון",
+        "טרור",
+        "ישראל"
       ],
-      "published": "Tue, 29 Sep 2026 23:15:29 GMT"
+      "published": "Wed, 30 Sep 2026 10:59:58 +0300"
     },
     {
-      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
-      "importance": 8,
+      "title": "מטוס מדובאי צלל באוויר, דיווח על חשש לחטיפה ונחת בסעודיה - אחרי עימות אלים בין הטייסים",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/sjc00c7q5gx",
+      "summary": "קטטה פרצה בין הטייסים בטיסת Flydubai מדובאי לנתב\"ג, חשד שטייס המשנה ניסה לרסק את המטוס - ונבלם בידי הטייס הראשי ונוסעים ישראלים. לפני כן המטוס צלל כ-20 אלף רגל במהירות, אות מצוקה הופעל מחשש לחטיפה ובישראל נדרכו: מטוסי קרב הוזנקו, נתניהו וכ\"ץ כינסו התייעצות דחופה. המטוס נחת בסעודיה, חברת התעופה פתחה בחקירה ותטיס את יותר מ-170 הנוסעים לישראל",
+      "importance": 9,
       "topics": [
-        "ישראל",
-        "פלסטינים",
-        "גדה מערבית"
+        "ביטחון",
+        "טרור",
+        "ישראל"
       ],
-      "published": "Tue, 29 Sep 2026 12:39:18 GMT"
+      "published": "Wed, 30 Sep 2026 09:23:09 +0300"
     },
     {
       "title": "\"טראמפ לכוד\": הפשרה של קטאר וההערכה האמריקנית לחידוש העימות עם איראן",
@@ -41,111 +42,98 @@
       "published": "Wed, 30 Sep 2026 08:22:35 +0300"
     },
     {
-      "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
-      "summary": "Turkey's bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Iran.",
-      "importance": 7,
-      "topics": [
-        "טורקיה",
-        "בליווה",
-        "השלכות גיאופוליטיות"
-      ],
-      "published": "Tue, 29 Sep 2026 05:00:00 -0400"
-    },
-    {
-      "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss",
-      "summary": "The resolution cites a 'lack of accountability' by Israel's government and an 'inability to secure justice' by the US.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "ארה\"ב",
-        "דיפלומטיה"
-      ],
-      "published": "Wed, 30 Sep 2026 02:26:20 +0000"
-    },
-    {
-      "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
-      "summary": "US President Donald Trump reiterates that Tehran will not have a nuclear weapon.",
-      "importance": 7,
-      "topics": [
-        "איראן",
-        "ארה\"ב",
-        "גיאופוליטיקה"
-      ],
-      "published": "Wed, 30 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "title": "אחד החשודים התקשר בעצמו למשטרה - והפיגוע ב\"בסיס המפציצים\" סוכל",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rjg96ctcge",
-      "summary": "כלי תקשורת בבריטניה דיווחו כי למשטרה לא ברור אם החשוד התקשר למוקד החירום 999 כי נבהל ורצה לחזור בו או שמא היה זה מעין \"כרטיס ביקור\" שנועד להעביר מסר לארה\"ב ולבריטניה כאחד. היחידה ללוחמה בטרור הודיעה שבכלי הרכב שנמצאו היה דלק - ולא חומרי נפץ",
-      "importance": 7,
-      "topics": [
-        "בריטניה",
-        "ביטחון",
-        "טרור"
-      ],
-      "published": "Wed, 30 Sep 2026 05:14:34 +0300"
-    },
-    {
-      "title": "סוריה עצרה חוליית חיזבאללה: \"ניסו להציב משגרי טילים\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/sy5z9cfcfg",
-      "summary": "שלושה מחבלים המזוהים עם ארגון הטרור הלבנוני נעצרו ע\"י כוחות משטר א-שרע, שממשיך בפעילותו נגד חיזבאללה. בסוריה דווח כי הסיכול כוון ל\"פעילות עוינת\" באזור אגן הירמוך שבדרום-מערב סוריה - באזור הגבול עם ישראל",
-      "importance": 7,
-      "topics": [
-        "סוריה",
-        "חיזבאללה",
-        "ביטחון"
-      ],
-      "published": "Wed, 30 Sep 2026 00:08:02 +0300"
-    },
-    {
       "title": "Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit",
       "source": "NPR World",
       "url": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
       "summary": "The sudden change was precipitated because of Chinese displeasure over one document that the U.S. had planned to show.",
-      "importance": 6,
+      "importance": 7,
       "topics": [
-        "תיוואן",
+        "טייוואן",
         "סין",
-        "ארה״ב"
+        "ארה\"ב"
       ],
       "published": "Tue, 29 Sep 2026 13:17:04 -0400"
     },
     {
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-      "importance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+      "importance": 7,
       "topics": [
-        "קוריאה הדרומית",
-        "קוריאה הצפונית"
+        "AI",
+        "סין",
+        "ביטחון קיברנטי"
       ],
-      "published": "Wed, 30 Sep 2026 05:24:52 GMT"
+      "published": "Tue, 29 Sep 2026 23:15:29 GMT"
+    },
+    {
+      "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss",
+      "summary": "Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.",
+      "importance": 7,
+      "topics": [
+        "סומליה",
+        "ביטחון ימי",
+        "פיראטיות"
+      ],
+      "published": "Wed, 30 Sep 2026 06:41:35 GMT"
+    },
+    {
+      "title": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines?traffic_source=rss",
+      "summary": "South Korea calls for a formal apology from North Korea over the DMZ explosion that injured three soldiers.",
+      "importance": 7,
+      "topics": [
+        "קוריאה",
+        "DMZ",
+        "ביטחון"
+      ],
+      "published": "Wed, 30 Sep 2026 08:02:20 +0000"
+    },
+    {
+      "title": "Pakistan vows to defend Saudi Arabia against Houthis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss",
+      "summary": "Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis.",
+      "importance": 7,
+      "topics": [
+        "פקיסטן",
+        "סעודיה",
+        "חות'ים"
+      ],
+      "published": "Wed, 30 Sep 2026 07:22:52 +0000"
+    },
+    {
+      "title": "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal?traffic_source=rss",
+      "summary": "US president's comments came after he was asked why North Korea can have nuclear weapons when Iran cannot.",
+      "importance": 7,
+      "topics": [
+        "קוריאה הצפונית",
+        "ארצות הברית",
+        "דיפלומטיה"
+      ],
+      "published": "Wed, 30 Sep 2026 06:48:09 +0000"
+    },
+    {
+      "title": "לפני אזהרת נתניהו ממתקפה: הרמטכ\"ל ביטל ביקור בארה\"ב \"בשל המצב הביטחוני\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/h1zgqxccmg",
+      "summary": "פרסום ראשון: רב-אלוף זמיר היה אמור להיפגש בעוד כשבוע וחצי עם מפקד סנטקום ויו\"ר המטות המשולבים של הצבא האמריקני, אך הודיע להם כי בעקבות העלאת הכוננות בכל הגזרות - לא נכון שייעדר מהארץ. החלטתו התקבלה לפני דברי רה\"מ על \"מתקפה לפני הבחירות\"",
+      "importance": 7,
+      "topics": [
+        "ביטחון",
+        "ישראל",
+        "ארה\"ב"
+      ],
+      "published": "Wed, 30 Sep 2026 10:41:34 +0300"
     }
   ],
   "business": [
-    {
-      "title": "ANTHROPIC FILES FOR IPO, PROSPECTUS SEEN BY REUTERS Here’s everything you need to know: Anthropic could seek a valuation above $2 trillion. 2025 financials: Rev: $4.59B, up 1,088% YoY from $386M Oper loss: $8.06B, widening from $2.98B GAAP net loss: $41.97B, vs $8.31B in 2024 https://t.co/ntYJ03uszx",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2104715031837622595",
-      "summary": "Anthropic הגישה תשקיף IPO - ושווי היעד הוא מעל 2 טריליון דולר.\n\nהמספרים של 2025: הכנסות של 4.6 מיליארד דולר, עלייה של פי 12 משנה שעברה. אבל ההפסד התפעולי עמד על 8 מיליארד דולר, וההפסד הנקי הכולל קפץ ל-42 מיליארד. זו חברה שמוציאה הרבה יותר ממה שהיא מכניסה - ובכל זאת מבקשת שווי שרק חברות ספורות בעולם הגיעו אליו.\n\nמי שמושפע מזה מעבר לאנתרופיק עצמה: OpenAI, שתצטרך להגיב בהנפקה שלה, ו-Google שמחזיקה חלק משמעותי מאנתרופיק - הצלחת ה-IPO תשפיע ישירות על הספרים שלה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "IPO",
-        "טכנולוגיה",
-        "השקעות"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
       "source": "TechCrunch",
@@ -199,30 +187,17 @@
       "tag": "גלובלי"
     },
     {
-      "title": "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high",
-      "source": "CNBC Top News",
+      "title": "OPENAI TARGETS $30 BILLION IN FUNDING AT $1.4 TRILLION VALUE: BBG",
+      "source": "Twitter @wallstengine",
       "url": "",
-      "summary": "יצוא הנפט מהמזרח התיכון קפץ לשיא של תקופת המלחמה - וזה בדיוק כשארה\"ב ואיראן מנהלות שיחות עקיפות על הפסקת אש דרך מתווכים.\n\nהקשר ישיר: כל התקדמות דיפלומטית מורידה את פרמיית הסיכון שמתומחרת בנפט כבר חודשים. אם המתיחות תרד - מחיר החבית ירד גם הוא, וזה ישפיע על הכנסות של כל מדינות המפרץ, על תקציבי ממשלות, ועל אינפלציה גלובלית.\n\nמי שאולי לא חושבים עליו עכשיו: חברות הספנות שמובילות את הנפט הזה, ותעשיית הביטוח הימי שנהנתה מפרמיות גבוהות בגלל הסיכון האזורי - גם הן בתמונה.",
-      "importance": 8,
+      "summary": "OpenAI מגייסת 30 מיליארד דולר לפי שווי של 1.4 טריליון דולר - עלייה של כ-40% לעומת סבב הגיוס האחרון לפני פחות משנה.\n\nכשחברה אחת שואבת סכום כזה, זה לא רק סיפור של OpenAI - זה לחץ על כל שאר שחקני ה-AI לגייס, להוכיח ולספק. מי שצריך לשים לב: ספקיות התשתית - שרתים, קירור, חשמל - כי 30 מיליארד צריכים לנחות איפשהו.",
+      "importance": 9,
       "topics": [
-        "נפט",
-        "ביטחון אנרגיה",
-        "ניירות"
+        "AI",
+        "השקעות",
+        "שווקי-הון"
       ],
       "tag": "גלובלי"
-    },
-    {
-      "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
-      "summary": "TSMC שוקלת להקים אתר ייצור שני בארה\"ב - בנוסף למפעל שכבר נבנה באריזונה.\n\nזה חלק ממגמה ברורה: ארה\"ב רוצה שרשרת אספקה של שבבים שלא תלויה בטייוואן, ו-TSMC - שמייצרת שבבים עבור Nvidia, Apple ועוד - היא הלב של כל הסיפור הזה.\n\nמי שכדאי לשים אליו לב: חברות בנייה, ספקי ציוד, ורשתות חשמל אזוריות - פרויקטים כאלה הם ענקיים גם מבחינת תשתיות.",
-      "importance": 8,
-      "topics": [
-        "צפויים",
-        "חיסמים",
-        "ארה״ב"
-      ],
-      "tag": "ארה\"ב"
     },
     {
       "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
@@ -263,6 +238,32 @@
         "הערכות"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Bond Yields Keep Rising Despite Drop in Oil Price, Dovish Fed Speech",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/bond-yields-keep-rising-despite-drop-in-oil-price-dovish-fed-speech-49aeab91?mod=rss_markets_main",
+      "summary": "תשואת האג\"ח האמריקאי ל-30 שנה נגעה השבוע בשיא של 24 שנה - וזה קורה בדיוק כשנשיא הפד של ניו יורק אמר שאין דחיפות להמשיך להעלות ריבית. זה הפוך ממה שהיינו מצפים.\n\nהשוק בעצם אומר שהוא לא מאמין לפד. המשקיעים דורשים פיצוי גבוה יותר על החזקת אג\"ח ארוכות - גם בלי עלייה בציפיות האינפלציה. זה לחץ ישיר על שווי המניות, על שוק הנדל\"ן, ועל כל מי שצריך לגייס חוב - ממשלות, חברות וצרכנים.",
+      "importance": 8,
+      "topics": [
+        "ריבית",
+        "אג\"ח",
+        "מדיניות מוניטארית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Pressure on U.S. Treasurys eases after 30-year yield hits highest level since 2002",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
+      "summary": "התשואה על האג\"ח האמריקאי ל-30 שנה הגיעה אתמול לרמה הגבוהה ביותר מאז 2002 - ואז נסוגה מעט היום. שוק האג\"ח מתנהג כרגע כמו מד לחץ של החרדה מאינפלציה: כשמשקיעים מוכרים אג\"ח, התשואות עולות, ומי שמרגיש את זה קודם כולם הם הזוגות שלוקחים משכנתא ועסקים שצריכים אשראי. ומה שלא תמיד שמים לב אליו - תשואות גבוהות כאלה מגבירות את הלחץ על מניות הצמיחה, כי פתאום האג\"ח הבטוחה מציעה תשואה אמיתית.",
+      "importance": 8,
+      "topics": [
+        "ריביות",
+        "ט'רז'ורי",
+        "אינפלציה"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
@@ -271,13 +272,26 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "importance": 8,
+      "importance": 9,
       "topics": [
-        "AI",
         "OpenAI",
-        "מימון"
+        "מימון",
+        "AI"
       ],
       "published": "Tue, 29 Sep 2026 19:52:37 +0000"
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "importance": 8,
+      "topics": [
+        "OpenAI",
+        "AI",
+        "שינוי תעשיה"
+      ],
+      "published": "Tue, 29 Sep 2026 20:15:47 +0000"
     },
     {
       "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
@@ -288,48 +302,61 @@
       "topics": [
         "AI",
         "רכישות",
-        "NVIDIA"
+        "שבבים"
       ],
       "published": "Tue, 29 Sep 2026 21:14:49 +0000"
     },
     {
-      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "OpenAI",
+        "סייבר"
+      ],
+      "published": "Tue, 29 Sep 2026 18:11:09 +0000"
+    },
+    {
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
       "source": "Wired",
-      "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-      "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+      "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
       "importance": 8,
       "topics": [
-        "OpenAI",
         "AI",
-        "אבטחה"
+        "OpenAI",
+        "סוכנים-אוטונומיים"
       ],
-      "published": "Tue, 29 Sep 2026 10:36:22 +0000"
+      "published": "Tue, 29 Sep 2026 17:15:00 +0000"
     },
     {
-      "title": "תכירו: Dots, האייג'נטים החדשים של OpenAI, שיתחרו ב-Muse ו-Instinct",
+      "title": "ממודל Sol החדש ועד קודקס: אלו ההכרזות החשובות של OpenAI",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/openai-devday-2026-keynote/",
-      "summary": "חברת OpenAI עורכת בשעות אלו (ג') את DevDay 2026, אירוע הפיתוח וההכרזות השנתי שלה, עם יותר מ-20 \"הכרזות\" (בשידור חי עם מלא פאשלות כמו תמיד) שכוללות יכולות חדשות ופריצות דרך שונות בתחום ה-AI. אבל כמובן שאת מרכז הבמה תופס המענה של OpenAI לטירוף האייג'נטים של החודשים האחרונים. הכירו את Dots אחרי שמטא כבשה את השיח […] The post תכירו: Dots, האייג'נטים החדשים של OpenAI, שיתחרו ב-Muse ו-Instinct appeared ",
+      "url": "https://www.geektime.co.il/openai-devday-sol-codex-chatgpt-space/",
+      "summary": "אירוע הפיתוח השנתי של OpenAI, ה-DevDay, הבטיח להיות עמוס במיוחד עם כ-20 הכרזות שונות, והחברה בהחלט עמדה בהבטחה. מכלים חדשים ועד שדרוגי תשתיות, הנה ההכרזות המרכזיות שלה מהאירוע. מודל Sol חדש על ההכרזה של Dots, פרויקט סוכני הבינה המלאכותית החדש של החברה, כבר חפרנו לכם לעומק בכתבה נפרדת, אז רק נאמלק שמדובר בסוכנים חכמים, שיודעים […] The post ממודל Sol החדש ועד קודקס: אלו ההכרזות החשובות של OpenAI app",
       "importance": 8,
       "topics": [
         "AI",
         "OpenAI",
-        "אייג'נטים"
+        "סוכנים"
       ],
-      "published": "Tue, 29 Sep 2026 17:47:37 +0000"
+      "published": "Wed, 30 Sep 2026 07:18:37 +0000"
     },
     {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+      "summary": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
       "importance": 7,
       "topics": [
-        "AI",
-        "OpenAI",
-        "מודל עסקי"
+        "Tesla",
+        "מימון",
+        "רכב אוטונומי"
       ],
-      "published": "Tue, 29 Sep 2026 20:15:47 +0000"
+      "published": "Tue, 29 Sep 2026 21:20:12 +0000"
     },
     {
       "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
@@ -338,37 +365,11 @@
       "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
       "importance": 7,
       "topics": [
-        "AI",
         "OpenAI",
-        "תחרות"
+        "AI",
+        "תוכנה משרדית"
       ],
       "published": "Tue, 29 Sep 2026 17:45:51 +0000"
-    },
-    {
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "אגנטים"
-      ],
-      "published": "Tue, 29 Sep 2026 17:17:15 +0000"
-    },
-    {
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see […]",
-      "importance": 7,
-      "topics": [
-        "OpenAI",
-        "IPO",
-        "ביטחון AI"
-      ],
-      "published": "2026-09-29T20:19:13-04:00"
     }
   ]
 }
