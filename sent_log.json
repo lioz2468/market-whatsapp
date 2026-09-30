@@ -853,7 +853,8 @@
     "26c77c98e3625802": "2026-09-30T06:30:31.572764+00:00",
     "075b52df9b96b62e": "2026-09-30T08:01:21.450606+00:00",
     "b8c0b5a7054f4f9d": "2026-09-30T09:31:12.114935+00:00",
-    "2593218b057b46ad": "2026-09-30T11:01:48.528885+00:00"
+    "2593218b057b46ad": "2026-09-30T11:01:48.528885+00:00",
+    "5256cf3e0138524f": "2026-09-30T12:30:41.754311+00:00"
   },
   "messages": [
     {
@@ -12245,7 +12246,22 @@
         "תשתיות",
         "טקסס"
       ]
+    },
+    {
+      "sent_at": "2026-09-30T12:30:41.754311+00:00",
+      "title": "DeepSeek says it partnered with Huawei to build programming tools for Ascend AI chips and is open-sourcing infrastructure including TileLang. It also said it advanced a 128-chip “super node” system based on the Ascend 950. https://t.co/pzPpndv5Lj",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "message": "DeepSeek ו-Huawei הכריזו על שיתוף פעולה לבניית כלי תכנות לשבבי ה-Ascend AI - וחשוב מזה, הן מוציאות את הכלים האלה לקוד פתוח. בנוסף, הן פיתחו מערכת של 128 שבבים שפועלת יחד כיחידה אחת, מה שמאפשר אימון מודלים בקנה מידה גדול בלי להסתמך על חומרה אמריקאית. זה לא רק מחזק את סין - זה בונה אלטרנטיבה אמיתית לאקוסיסטם של NVIDIA. מי שכדאי לשים לב הם ספקי תשתית ענן ויצרני שבבים שמתחרים על אותו שוק.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "DeepSeek",
+        "Huawei",
+        "AI",
+        "צ'יפים"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-30T11:00:39.012439+00:00"
+  "last_auto_run": "2026-09-30T12:30:36.679038+00:00"
 }

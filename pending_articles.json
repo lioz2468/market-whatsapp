@@ -1,19 +1,5 @@
 [
   {
-    "final_message": "DeepSeek ו-Huawei הכריזו על שיתוף פעולה לבניית כלי תכנות לשבבי ה-Ascend AI - וחשוב מזה, הן מוציאות את הכלים האלה לקוד פתוח. בנוסף, הן פיתחו מערכת של 128 שבבים שפועלת יחד כיחידה אחת, מה שמאפשר אימון מודלים בקנה מידה גדול בלי להסתמך על חומרה אמריקאית. זה לא רק מחזק את סין - זה בונה אלטרנטיבה אמיתית לאקוסיסטם של NVIDIA. מי שכדאי לשים לב הם ספקי תשתית ענן ויצרני שבבים שמתחרים על אותו שוק.",
-    "title": "DeepSeek says it partnered with Huawei to build programming tools for Ascend AI chips and is open-sourcing infrastructure including TileLang. It also said it advanced a 128-chip “super node” system based on the Ascend 950. https://t.co/pzPpndv5Lj",
-    "source": "Twitter @wallstengine",
-    "hash": "5256cf3e0138524f",
-    "importance": 9,
-    "tag": "גלובלי",
-    "topics": [
-      "DeepSeek",
-      "Huawei",
-      "AI",
-      "צ'יפים"
-    ]
-  },
-  {
     "final_message": "Boeing קפצה כמעט 3% ב-pre-market אחרי שהצי האמריקאי בחר בה לפתח את מטוס הקרב הדור הבא. זה לא עוד חוזה הגנה רגיל - עד לפני זמן לא רב החברה הייתה בסכנה אמיתית לאבד את כל ייצור מטוסי הקרב שלה לטובת המתחרים.\n\nההשפעה העקיפה מעניינת: ספקיות משנה קטנות שתלויות ב-Boeing על רכיבי מטוסי קרב נשמו לרווחה, וגם לוקהיד מרטין צריכה לשקול מחדש את ההנחות שלה על חלוקת השוק.",
     "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
     "source": "MarketWatch",
