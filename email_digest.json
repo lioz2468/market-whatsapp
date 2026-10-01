@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-01T05:45:12.419823+00:00",
+  "generated_at": "2026-10-01T09:59:21.510386+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+      "importance": 9,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
+      ],
+      "published": "Wed, 30 Sep 2026 14:53:02 GMT"
+    },
     {
       "title": "How Ukrainians are coping with new, more deadly Russian attacks",
       "source": "NPR World",
@@ -11,7 +24,7 @@
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מלחמה"
+        "קונפליקט"
       ],
       "published": "Wed, 30 Sep 2026 11:33:19 -0400"
     },
@@ -24,87 +37,48 @@
       "topics": [
         "ישראל",
         "ביטחון",
-        "התקודם"
+        "דרום קוקסוס"
       ],
       "published": "Wed, 30 Sep 2026 09:35:11 -0400"
     },
     {
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "אירן",
+        "ביטחון"
+      ],
+      "published": "Thu, 01 Oct 2026 09:22:35 GMT"
+    },
+    {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "ביטחון",
+        "דובאי"
+      ],
+      "published": "Thu, 01 Oct 2026 02:31:24 GMT"
+    },
+    {
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
       "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
       "importance": 8,
       "topics": [
-        "אוקראינה",
         "רוסיה",
-        "פוטין"
+        "אוקראינה",
+        "פוליטיקה"
       ],
       "published": "Wed, 30 Sep 2026 23:10:06 GMT"
-    },
-    {
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "גיאופוליטיקה"
-      ],
-      "published": "Wed, 30 Sep 2026 14:53:02 GMT"
-    },
-    {
-      "title": "Gaza prepares to bury 105 Palestinians killed in October 2023",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
-      "summary": "The bodies of 105 Palestinians have been recovered from the rubble of a residential block destroyed by Israel.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "עזה",
-        "מזרח תיכון"
-      ],
-      "published": "Thu, 01 Oct 2026 05:04:28 +0000"
-    },
-    {
-      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
-      "summary": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.",
-      "importance": 8,
-      "topics": [
-        "ארה\"ב",
-        "איראן",
-        "גיאופוליטיקה"
-      ],
-      "published": "Thu, 01 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "title": "נתניהו טוען שלישראל לא היה מודיעין ספציפי: \"נמנע 11/9 נוסף, נדע בקרוב אם איראן קשורה\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/sk4mypcczx",
-      "summary": "רה\"מ התראיין לרשתות CNN ו\"פוקס ניוז\" ואמר כי לא הייתה התרעה מוקדמת לפעולת הטרור בטיסת פליי דובאי, וכי ייתכן שישראל תשתתף בחקירת סעודיה: \"נגיע לשורש העניין. אני חושב שנגלה בקרוב אם יש לאיראן קשר\". הוא שוחח עם בן זאיד: \"הטובים ניצחו\". זמנית: שב\"כ אישר לחברות ישראליות לטוס לאמירויות",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "אירן",
-        "טרור"
-      ],
-      "published": "Thu, 01 Oct 2026 07:00:10 +0300"
-    },
-    {
-      "title": "בריטניה מצביעה על איראן ב\"פיגוע שסוכל\" ליד הבסיס האמריקני; טראמפ: \"תהיה תשובה\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/sjvni7s5fx",
-      "summary": "רה\"מ ברנהאם אמר כי יש \"אינדיקציות חזקות\" לכך שטהרן הייתה מעורבת במתקפה שסוכלה בבסיס חיל האוויר פיירפורד באנגליה, ששימש מפציצים אמריקניים בתקיפות באיראן. שר החוץ האיראני לעג: \"אתם נובחים על העץ הלא נכון\". טראמפ: \"בוחנים תגובה ברצינות רבה. הם רצו לפוצץ את הבסיס\". דיווח: רוביו הורה למשלחת האיראנית לעזוב את ארה\"ב לאחר שהמו\"מ נקלע למבוי סתום",
-      "importance": 8,
-      "topics": [
-        "בריטניה",
-        "אירן",
-        "ביטחון"
-      ],
-      "published": "Thu, 01 Oct 2026 04:42:31 +0300"
     },
     {
       "title": "Swiss glaciers suffer another year of record ice loss",
@@ -113,7 +87,7 @@
       "summary": "Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe.",
       "importance": 7,
       "topics": [
-        "שינויי אקלים",
+        "אקלים",
         "שוויץ",
         "סביבה"
       ],
@@ -126,26 +100,51 @@
       "summary": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
       "importance": 7,
       "topics": [
+        "ארה״ב",
         "עיראק",
-        "איראן",
-        "ארה״ב"
+        "אירן"
       ],
       "published": "Wed, 30 Sep 2026 07:13:17 -0400"
+    },
+    {
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+      "importance": 7,
+      "topics": [
+        "אקלים",
+        "שוויץ",
+        "משבר"
+      ],
+      "published": "Thu, 01 Oct 2026 00:08:23 GMT"
+    },
+    {
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "importance": 7,
+      "topics": [
+        "נפאל",
+        "אסון טבע"
+      ],
+      "published": "Wed, 30 Sep 2026 22:01:16 GMT"
     }
   ],
   "business": [
     {
-      "title": "OPENAI TARGETS $30 BILLION IN FUNDING AT $1.4 TRILLION VALUE: BBG",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "OpenAI מגייסת 30 מיליארד דולר לפי שווי של 1.4 טריליון דולר - עלייה של כ-40% לעומת סבב הגיוס האחרון לפני פחות משנה.\n\nכשחברה אחת שואבת סכום כזה, זה לא רק סיפור של OpenAI - זה לחץ על כל שאר שחקני ה-AI לגייס, להוכיח ולספק. מי שצריך לשים לב: ספקיות התשתית - שרתים, קירור, חשמל - כי 30 מיליארד צריכים לנחות איפשהו.",
-      "importance": 9,
+      "title": "Surging Yields Bring the Bond Market Back to the Turn of the Century",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f?mod=rss_markets_main",
+      "summary": "תשואת האג\"ח האמריקאי ל-10 שנים חצתה את רף ה-5.3% - רמה שלא ראינו מאז שנת 2000.\n\nזה לא רק מספר. כשאג\"ח ממשלתי \"בטוח\" מניב יותר מ-5%, כל שאר הנכסים נדרשים להצדיק את עצמם מחדש - מניות, נדל\"ן, קרנות. למה לקחת סיכון אם אפשר לקבל 5% בלי לזוז?\n\nההשפעה העקיפה שפחות מדברים עליה: משכנתאות, הלוואות לעסקים, ומימון ממשלות בכל העולם - כולם מתייקרים ביחד.",
+      "importance": 10,
       "topics": [
-        "AI",
-        "השקעות",
-        "שווקי-הון"
+        "תשואות",
+        "אג\"ח",
+        "מדיניות כלכלית"
       ],
-      "tag": "גלובלי"
+      "tag": "ארה\"ב"
     },
     {
       "title": "TSMC is evaluating a potential investment in Texas to expand U.S. 🇺🇸 chip production, on top of the $265 billion it has committed to Arizona, the plans have not been finalized. https://t.co/4FOCt9UZPg",
@@ -202,30 +201,31 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "Bond Yields Keep Rising Despite Drop in Oil Price, Dovish Fed Speech",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/bond-yields-keep-rising-despite-drop-in-oil-price-dovish-fed-speech-49aeab91?mod=rss_markets_main",
-      "summary": "תשואת האג\"ח האמריקאי ל-30 שנה נגעה השבוע בשיא של 24 שנה - וזה קורה בדיוק כשנשיא הפד של ניו יורק אמר שאין דחיפות להמשיך להעלות ריבית. זה הפוך ממה שהיינו מצפים.\n\nהשוק בעצם אומר שהוא לא מאמין לפד. המשקיעים דורשים פיצוי גבוה יותר על החזקת אג\"ח ארוכות - גם בלי עלייה בציפיות האינפלציה. זה לחץ ישיר על שווי המניות, על שוק הנדל\"ן, ועל כל מי שצריך לגייס חוב - ממשלות, חברות וצרכנים.",
-      "importance": 8,
+      "title": "Micron $MU now has 26 multi-year take-or-pay agreements covering more than 35% of expected revenue through 2030. Customer financial commitments have increased to $32B, from $22B last quarter, with the vast majority in cash deposits. Some agreements now extend into 2031.",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "summary": "Micron חתמה על 26 הסכמי אספקה רב-שנתיים שמכסים יותר מ-35% מהכנסות החברה הצפויות עד 2030. ההתחייבויות הכספיות של הלקוחות קפצו מ-22 מיליארד דולר ל-32 מיליארד דולר ברבעון אחד בלבד - רובם המוחלט בהפקדות מזומן.\n\nזה לא הסכמות עמומות. מישהו מוציא מזומן עכשיו כדי לנעול זיכרון לשנים הבאות.\n\nההשפעה שפחות מדברים עליה: כל מתחרה שלא הצליח לנעול הסכמים דומים - Samsung, SK Hynix - עלול למצוא את עצמו עם בעיית תמחור רצינית כשהביקוש יתמתן.",
+      "importance": 9,
       "topics": [
-        "ריבית",
-        "אג\"ח",
-        "מדיניות מוניטארית"
+        "מחסנים",
+        "הסכמים",
+        "היצע-ביקוש"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
-      "title": "Pressure on U.S. Treasurys eases after 30-year yield hits highest level since 2002",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
-      "summary": "התשואה על האג\"ח האמריקאי ל-30 שנה הגיעה אתמול לרמה הגבוהה ביותר מאז 2002 - ואז נסוגה מעט היום. שוק האג\"ח מתנהג כרגע כמו מד לחץ של החרדה מאינפלציה: כשמשקיעים מוכרים אג\"ח, התשואות עולות, ומי שמרגיש את זה קודם כולם הם הזוגות שלוקחים משכנתא ועסקים שצריכים אשראי. ומה שלא תמיד שמים לב אליו - תשואות גבוהות כאלה מגבירות את הלחץ על מניות הצמיחה, כי פתאום האג\"ח הבטוחה מציעה תשואה אמיתית.",
-      "importance": 8,
+      "title": "JAPAN 🇯🇵 PLANS $140B AI DATA CENTER PUSH WITH DELL & JERA Japan is planning a major AI infrastructure buildout aimed at becoming the largest AI compute hub outside the U.S. and China, according to the FT. Dell, Jera and Rhaelm have agreed to develop a $15B, 400 MW AI data https://t.co/Ozc7E6pZcL",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2105570847758901365",
+      "summary": "יפן מכריזה על תוכנית תשתיות AI בהיקף 140 מיליארד דולר - המטרה: להפוך למרכז המחשוב הגדול בעולם מחוץ לארה\"ב ולסין. Dell ו-JERA כבר חתמו על פרויקט ראשון של 15 מיליארד דולר, 400 מגה-וואט.\n\nזה לא רק יפן - זה סימן שהמירוץ על תשתיות AI הפך לאסטרטגיה לאומית בכל מקום. מי שייצא מזה מחוזק הוא לא רק ענקיות הטכנולוגיה, אלא גם ספקיות אנרגיה, חברות קירור תעשייתי וכבלים תת-ימיים שמחברים את אסיה לשאר העולם.",
+      "importance": 9,
       "topics": [
-        "ריביות",
-        "ט'רז'ורי",
-        "אינפלציה"
+        "AI",
+        "תשתיות",
+        "יפן",
+        "גיאופוליטיקה"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
       "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
@@ -269,24 +269,11 @@
   ],
   "tech": [
     {
-      "title": "Hackers stole millions of US military personnel records during months-long data breach",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
-      "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
-      "importance": 8,
-      "topics": [
-        "אבטחה",
-        "סייבר",
-        "הפרת נתונים"
-      ],
-      "published": "Wed, 30 Sep 2026 19:29:08 +0000"
-    },
-    {
       "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
       "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at […]",
-      "importance": 8,
+      "importance": 9,
       "topics": [
         "AI",
         "Google",
@@ -295,42 +282,30 @@
       "published": "2026-09-30T16:41:41-04:00"
     },
     {
-      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
-      "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
-      "importance": 8,
-      "topics": [
-        "אבטחה סייבר",
-        "זומברה",
-        "האקינג"
-      ],
-      "published": "Wed, 30 Sep 2026 20:44:48 +0000"
-    },
-    {
-      "title": "ממודל Sol החדש ועד קודקס: אלו ההכרזות החשובות של OpenAI",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/openai-devday-sol-codex-chatgpt-space/",
-      "summary": "אירוע הפיתוח השנתי של OpenAI, ה-DevDay, הבטיח להיות עמוס במיוחד עם כ-20 הכרזות שונות, והחברה בהחלט עמדה בהבטחה. מכלים חדשים ועד שדרוגי תשתיות, הנה ההכרזות המרכזיות שלה מהאירוע. מודל Sol חדש על ההכרזה של Dots, פרויקט סוכני הבינה המלאכותית החדש של החברה, כבר חפרנו לכם לעומק בכתבה נפרדת, אז רק נאמלק שמדובר בסוכנים חכמים, שיודעים […] The post ממודל Sol החדש ועד קודקס: אלו ההכרזות החשובות של OpenAI app",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "OpenAI"
-      ],
-      "published": "Wed, 30 Sep 2026 07:18:37 +0000"
-    },
-    {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
       "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "importance": 7,
+      "importance": 8,
       "topics": [
         "AI",
         "Google",
         "Gemini"
       ],
       "published": "Wed, 30 Sep 2026 23:43:07 +0000"
+    },
+    {
+      "title": "Hackers stole millions of US military personnel records during months-long data breach",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "הדלף נתונים",
+        "יחסי ציבור"
+      ],
+      "published": "Wed, 30 Sep 2026 19:29:08 +0000"
     },
     {
       "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
@@ -341,7 +316,7 @@
       "topics": [
         "AI",
         "OpenAI",
-        "API"
+        "Agents"
       ],
       "published": "Wed, 30 Sep 2026 19:00:57 +0000"
     },
@@ -353,8 +328,8 @@
       "importance": 7,
       "topics": [
         "AI",
-        "ElevenLabs",
-        "גיוס הון"
+        "סבבי גיוס",
+        "ElevenLabs"
       ],
       "published": "Wed, 30 Sep 2026 18:23:57 +0000"
     },
@@ -365,11 +340,36 @@
       "summary": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take \"several thousand captures in a single driver's typical shift,\" which Amazon plans to upload to its AI […]",
       "importance": 7,
       "topics": [
-        "AR/VR",
         "Amazon",
+        "חומרה",
         "פרטיות"
       ],
       "published": "2026-09-30T13:21:29-04:00"
+    },
+    {
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+      "importance": 7,
+      "topics": [
+        "אבטחה סייבר",
+        "פגיעויות"
+      ],
+      "published": "Wed, 30 Sep 2026 20:44:48 +0000"
+    },
+    {
+      "title": "The Secrets of the US Spyware King",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
+      "summary": "In an exclusive interview with WIRED, Paragon Solutions CEO Andrew Boyd reveals the limits of the company’s promise to keep bad actors from abusing its powerful espionage tool.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "סייבר",
+        "תעשייה"
+      ],
+      "published": "Thu, 01 Oct 2026 09:30:00 +0000"
     }
   ]
 }
