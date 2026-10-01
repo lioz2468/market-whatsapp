@@ -858,7 +858,8 @@
     "250856875211d0c5": "2026-09-30T14:00:39.270728+00:00",
     "c476430e2e2e3efd": "2026-09-30T15:31:26.848760+00:00",
     "a7bc6820cf41ba4b": "2026-09-30T17:00:39.758212+00:00",
-    "ef53bcae9ce1e883": "2026-09-30T18:31:21.462530+00:00"
+    "ef53bcae9ce1e883": "2026-09-30T18:31:21.462530+00:00",
+    "b6b450a4f52feaec": "2026-10-01T05:01:41.229127+00:00"
   },
   "messages": [
     {
@@ -12321,7 +12322,21 @@
         "רגולציה",
         "ביטחון"
       ]
+    },
+    {
+      "sent_at": "2026-10-01T05:01:41.229127+00:00",
+      "title": "NextEra $NEE is leading a $22.3B Texas energy project selected by the U.S. and South Korea. Project Star will build 6.47 GW of gas-fired generation, primarily to power Related Digital’s adjacent 5 GW data center campus, with excess power going to ERCOT. Initial generation could",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2105423499498279247",
+      "message": "פרויקט אנרגיה בהיקף 22.3 מיליארד דולר בטקסס - זה מספר שכדאי לעצור עליו רגע.\n\nNextEra מובילה את \"Project Star\": 6.47 גיגה-וואט של ייצור גז טבעי, שנבחר על ידי ארה\"ב ודרום קוריאה יחד. רוב האנרגיה תזין מרכז נתונים ענק של Related Digital - 5 גיגה-וואט בלבד למתחם אחד. העודפים ילכו לרשת החשמל המקומית בטקסס.\n\nמה שמעניין פה: זה מודל חדש לגמרי - מרכזי נתונים שמתחילים לבנות את תשתית האנרגיה שלהם בעצמם, במקום להסתמך על הרשת הקיימת. ספקי חשמל מסורתיים ורשתות הולכה יצטרכו להתאים את עצמם למציאות הזו.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "אנרגיה",
+        "מרכזי נתונים",
+        "AI"
+      ]
     }
   ],
-  "last_auto_run": "2026-09-30T18:30:30.848201+00:00"
+  "last_auto_run": "2026-10-01T05:00:33.957421+00:00"
 }
