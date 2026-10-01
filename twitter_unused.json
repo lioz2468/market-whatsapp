@@ -1,5 +1,50 @@
 [
   {
+    "id": "2105633408626135445",
+    "title": "Cybersecurity stocks are trading lower after Google unveiled Gemini 4 Argon, which is highly capable at cyber defense & will be offered to trusted defenders without cyber guardrails OpenAI execs have also said they’re actively building cybersecurity products around Astra https://t.co/dTget3I2r3 https://t.co/l9eZCZH2jc",
+    "url": "https://twitter.com/wallstengine/status/2105633408626135445",
+    "summary": "Cybersecurity stocks are trading lower after Google unveiled Gemini 4 Argon, which is highly capable at cyber defense & will be offered to trusted defenders without cyber guardrails OpenAI execs have also said they’re actively building cybersecurity products around Astra https://t.co/dTget3I2r3 https://t.co/l9eZCZH2jc",
+    "published": "2026-10-01T12:18:20.000Z",
+    "source": "Twitter @wallstengine",
+    "lang": "en"
+  },
+  {
+    "id": "2105620590858277152",
+    "title": "ACCENTURE $ACN Q4’26 EARNINGS HIGHLIGHTS 🔹 Revenue: $18.7B (Est. $18.03B) 🟢; +6% YoY 🔹 EPS: $3.29 (Est. $3.18) 🟢; +9% YoY vs adj. 🔹 Oper Margin: 15.3% (Est. 15.2%) 🟢; +20 bps vs adj. 🔹 New Bookings: $22.17B; +4% YoY FY27 Guide: 🔹 EPS: $14.39-$14.81 (Est. $14.62) 🟡 🔹 https://t.co/Fe4eOQTl5J",
+    "url": "https://twitter.com/wallstengine/status/2105620590858277152",
+    "summary": "ACCENTURE $ACN Q4’26 EARNINGS HIGHLIGHTS 🔹 Revenue: $18.7B (Est. $18.03B) 🟢; +6% YoY 🔹 EPS: $3.29 (Est. $3.18) 🟢; +9% YoY vs adj. 🔹 Oper Margin: 15.3% (Est. 15.2%) 🟢; +20 bps vs adj. 🔹 New Bookings: $22.17B; +4% YoY FY27 Guide: 🔹 EPS: $14.39-$14.81 (Est. $14.62) 🟡 🔹 https://t.co/Fe4eOQTl5J",
+    "published": "2026-10-01T11:27:24.000Z",
+    "source": "Twitter @wallstengine",
+    "lang": "en"
+  },
+  {
+    "id": "2105617459978092549",
+    "title": "TIME asked why the U.S. shouldn’t pursue an Intel-style ownership deal with OpenAI and Anthropic. Trump: “I might. Maybe I could do that.” https://t.co/5qe33SkmQW",
+    "url": "https://twitter.com/wallstengine/status/2105617459978092549",
+    "summary": "TIME asked why the U.S. shouldn’t pursue an Intel-style ownership deal with OpenAI and Anthropic. Trump: “I might. Maybe I could do that.” https://t.co/5qe33SkmQW",
+    "published": "2026-10-01T11:14:57.000Z",
+    "source": "Twitter @wallstengine",
+    "lang": "en"
+  },
+  {
+    "id": "2105615101051228608",
+    "title": "Nebius $NBIS has acquired Inferize, an AI inference optimization startup, with terms undisclosed. Inferize’s technology is designed to reduce model “cold starts,” cutting the time GPUs sit idle while models load and new capacity spins up. Nebius will integrate the technology https://t.co/IC5y06BKrT",
+    "url": "https://twitter.com/wallstengine/status/2105615101051228608",
+    "summary": "Nebius $NBIS has acquired Inferize, an AI inference optimization startup, with terms undisclosed. Inferize’s technology is designed to reduce model “cold starts,” cutting the time GPUs sit idle while models load and new capacity spins up. Nebius will integrate the technology https://t.co/IC5y06BKrT",
+    "published": "2026-10-01T11:05:35.000Z",
+    "source": "Twitter @wallstengine",
+    "lang": "en"
+  },
+  {
+    "id": "2105614598800027855",
+    "title": "U.S. 🇺🇸 employers announced 43,281 job cuts in September, down 18% MoM and 20% YoY, the lowest September total since 2022. Q3 cuts also fell 43% from Q2. But hiring plans remain weak. Employers announced 90,787 planned hires in September, down 23% YoY and the lowest September https://t.co/zIpkd8kESb",
+    "url": "https://twitter.com/wallstengine/status/2105614598800027855",
+    "summary": "U.S. 🇺🇸 employers announced 43,281 job cuts in September, down 18% MoM and 20% YoY, the lowest September total since 2022. Q3 cuts also fell 43% from Q2. But hiring plans remain weak. Employers announced 90,787 planned hires in September, down 23% YoY and the lowest September https://t.co/zIpkd8kESb",
+    "published": "2026-10-01T11:03:35.000Z",
+    "source": "Twitter @wallstengine",
+    "lang": "en"
+  },
+  {
     "id": "2105599239674077187",
     "title": "AWS is raising prices for reserved GPU capacity through EC2 Capacity Blocks for ML by about 15% starting Oct. 7 New U.S. GPU rates: B300: $16.146 per accelerator-hour, from $14.04 B200: $14.208, from $12.355 H100: $5.97, from $5.191 The increases apply across regions, while https://t.co/5grZfvD4qE",
     "url": "https://twitter.com/wallstengine/status/2105599239674077187",
@@ -50,15 +95,6 @@
     "url": "https://twitter.com/wallstengine/status/2105583257748475970",
     "summary": "XPeng $XPEV delivered 41,256 vehicles in September, up 5% MoM. Q3 deliveries reached 118,390 vehicles, up 15% QoQ. The L03 also topped 10,000 monthly deliveries for the first time. https://t.co/pPMtTiIUyA",
     "published": "2026-10-01T08:59:03.000Z",
-    "source": "Twitter @wallstengine",
-    "lang": "en"
-  },
-  {
-    "id": "2105578023881957745",
-    "title": "$ORCL SIGNS $7B AI COMPUTE DEAL WITH TENCENT Oracle has reportedly signed a five-year deal with Tencent to provide access to roughly 100,000 advanced AI chips across Oracle data centers in Southeast Asia. The agreement is estimated at about $7B, with roughly 30% paid upfront. https://t.co/cch0UzAZPf",
-    "url": "https://twitter.com/wallstengine/status/2105578023881957745",
-    "summary": "$ORCL SIGNS $7B AI COMPUTE DEAL WITH TENCENT Oracle has reportedly signed a five-year deal with Tencent to provide access to roughly 100,000 advanced AI chips across Oracle data centers in Southeast Asia. The agreement is estimated at about $7B, with roughly 30% paid upfront. https://t.co/cch0UzAZPf",
-    "published": "2026-10-01T08:38:15.000Z",
     "source": "Twitter @wallstengine",
     "lang": "en"
   },

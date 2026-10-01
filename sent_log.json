@@ -863,7 +863,8 @@
     "ed801a8c83b09934": "2026-10-01T06:30:41.224060+00:00",
     "39ed8a634536919b": "2026-10-01T08:01:43.912288+00:00",
     "f31624a2235dd53a": "2026-10-01T09:31:15.195398+00:00",
-    "71c54002a360dc51": "2026-10-01T11:01:30.755891+00:00"
+    "71c54002a360dc51": "2026-10-01T11:01:30.755891+00:00",
+    "27442d56765b96e7": "2026-10-01T12:31:32.159424+00:00"
   },
   "messages": [
     {
@@ -12397,7 +12398,21 @@
         "תשתיות",
         "מיזוג הון"
       ]
+    },
+    {
+      "sent_at": "2026-10-01T12:31:32.159424+00:00",
+      "title": "$ORCL SIGNS $7B AI COMPUTE DEAL WITH TENCENT Oracle has reportedly signed a five-year deal with Tencent to provide access to roughly 100,000 advanced AI chips across Oracle data centers in Southeast Asia. The agreement is estimated at about $7B, with roughly 30% paid upfront. https://t.co/cch0UzAZPf",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2105578023881957745",
+      "message": "Oracle חתמה על עסקה של 7 מיליארד דולר עם Tencent - חמש שנים של גישה ל-100 אלף שבבי AI מתקדמים, דרך מרכזי הנתונים של Oracle בדרום מזרח אסיה. כשלושים אחוז מהסכום משולם מראש.\n\nמה שמעניין פה: Tencent לא בונה את התשתית בעצמה - היא שוכרת אותה מחברה אמריקאית. זה אומר שהמשחק של מי בונה את עמוד השדרה של ה-AI האסייתי עדיין פתוח. גם ספקיות ה-cloud האחרות וגם יצרניות השבבים עוקבות אחרי מהלכים כאלה מקרוב.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "בינה מלאכותית",
+        "תשתיות",
+        "טק"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-01T11:00:41.123820+00:00"
+  "last_auto_run": "2026-10-01T12:30:32.525024+00:00"
 }
