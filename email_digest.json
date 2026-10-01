@@ -1,191 +1,139 @@
 {
-  "generated_at": "2026-09-30T09:32:46.129368+00:00",
+  "generated_at": "2026-10-01T05:45:12.419823+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "מטוס פליי דובאי צלל 20 אלף רגל, \"כמויות של דם בתא הטייס\". גוברת ההערכה: זו פעולת טרור",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/sj1jneccfe",
-      "summary": "בצמרת מערכת הביטחון בישראל מעריכים כי טייס משנה מעומאן ניסה לרסק את מטוס פליי דובאי שנחת בסעודיה, בעוד הטייס מהאמירויות השתלט עליו בסיוע הצוות וכמה מהנוסעים הישראלים. ל-ynet נודע: נתניהו וכ\"ץ הנחו את צה\"ל לשלוח מטוסים צבאיים להשבת הנוסעים. מהאיתות הראשוני על מצוקה ועד הנחיתה בטאבוק - דקה אחר דקה",
-      "importance": 9,
-      "topics": [
-        "ביטחון",
-        "טרור",
-        "ישראל"
-      ],
-      "published": "Wed, 30 Sep 2026 10:59:58 +0300"
-    },
-    {
-      "title": "מטוס מדובאי צלל באוויר, דיווח על חשש לחטיפה ונחת בסעודיה - אחרי עימות אלים בין הטייסים",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/sjc00c7q5gx",
-      "summary": "קטטה פרצה בין הטייסים בטיסת Flydubai מדובאי לנתב\"ג, חשד שטייס המשנה ניסה לרסק את המטוס - ונבלם בידי הטייס הראשי ונוסעים ישראלים. לפני כן המטוס צלל כ-20 אלף רגל במהירות, אות מצוקה הופעל מחשש לחטיפה ובישראל נדרכו: מטוסי קרב הוזנקו, נתניהו וכ\"ץ כינסו התייעצות דחופה. המטוס נחת בסעודיה, חברת התעופה פתחה בחקירה ותטיס את יותר מ-170 הנוסעים לישראל",
-      "importance": 9,
-      "topics": [
-        "ביטחון",
-        "טרור",
-        "ישראל"
-      ],
-      "published": "Wed, 30 Sep 2026 09:23:09 +0300"
-    },
-    {
-      "title": "\"טראמפ לכוד\": הפשרה של קטאר וההערכה האמריקנית לחידוש העימות עם איראן",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rjkbbgq5zx",
-      "summary": "נשיא ארה\"ב בטוח ש\"איראן תוותר\", אך בינתיים בוושינגטון מעריכים כי הסיכוי לחידוש המערכה עם טהרן גובר. דוחא הציגה פשרה המשתרעת על פני שני עמודים: \"המצב תקוע\". המידע שהציג נתניהו לבן זאיד באבו דאבי, ההכחשה של טראמפ על הדיווחים שישקול הקלה בסנקציות - והתגובה האיראנית",
+      "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+      "summary": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
       "importance": 8,
       "topics": [
-        "איראן",
-        "ארה\"ב",
-        "דיפלומטיה"
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
       ],
-      "published": "Wed, 30 Sep 2026 08:22:35 +0300"
+      "published": "Wed, 30 Sep 2026 11:33:19 -0400"
     },
     {
-      "title": "Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit",
+      "title": "On flight to Israel, pilot is stabbed, plane plunges before passengers tackle attacker",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
-      "summary": "The sudden change was precipitated because of Chinese displeasure over one document that the U.S. had planned to show.",
-      "importance": 7,
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+      "summary": "As the plane went into a spin and began to plunge, passengers and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
+      "importance": 8,
       "topics": [
-        "טייוואן",
-        "סין",
-        "ארה\"ב"
+        "ישראל",
+        "ביטחון",
+        "התקודם"
       ],
-      "published": "Tue, 29 Sep 2026 13:17:04 -0400"
+      "published": "Wed, 30 Sep 2026 09:35:11 -0400"
     },
     {
-      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-      "importance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+      "importance": 8,
       "topics": [
-        "AI",
-        "סין",
-        "ביטחון קיברנטי"
+        "אוקראינה",
+        "רוסיה",
+        "פוטין"
       ],
-      "published": "Tue, 29 Sep 2026 23:15:29 GMT"
+      "published": "Wed, 30 Sep 2026 23:10:06 GMT"
     },
     {
-      "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss",
-      "summary": "Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.",
-      "importance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+      "importance": 8,
       "topics": [
-        "סומליה",
-        "ביטחון ימי",
-        "פיראטיות"
+        "אוקראינה",
+        "רוסיה",
+        "גיאופוליטיקה"
       ],
-      "published": "Wed, 30 Sep 2026 06:41:35 GMT"
+      "published": "Wed, 30 Sep 2026 14:53:02 GMT"
     },
     {
-      "title": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
+      "title": "Gaza prepares to bury 105 Palestinians killed in October 2023",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines?traffic_source=rss",
-      "summary": "South Korea calls for a formal apology from North Korea over the DMZ explosion that injured three soldiers.",
-      "importance": 7,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
+      "summary": "The bodies of 105 Palestinians have been recovered from the rubble of a residential block destroyed by Israel.",
+      "importance": 8,
       "topics": [
-        "קוריאה",
-        "DMZ",
+        "ישראל",
+        "עזה",
+        "מזרח תיכון"
+      ],
+      "published": "Thu, 01 Oct 2026 05:04:28 +0000"
+    },
+    {
+      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+      "summary": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.",
+      "importance": 8,
+      "topics": [
+        "ארה\"ב",
+        "איראן",
+        "גיאופוליטיקה"
+      ],
+      "published": "Thu, 01 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "title": "נתניהו טוען שלישראל לא היה מודיעין ספציפי: \"נמנע 11/9 נוסף, נדע בקרוב אם איראן קשורה\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/sk4mypcczx",
+      "summary": "רה\"מ התראיין לרשתות CNN ו\"פוקס ניוז\" ואמר כי לא הייתה התרעה מוקדמת לפעולת הטרור בטיסת פליי דובאי, וכי ייתכן שישראל תשתתף בחקירת סעודיה: \"נגיע לשורש העניין. אני חושב שנגלה בקרוב אם יש לאיראן קשר\". הוא שוחח עם בן זאיד: \"הטובים ניצחו\". זמנית: שב\"כ אישר לחברות ישראליות לטוס לאמירויות",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "אירן",
+        "טרור"
+      ],
+      "published": "Thu, 01 Oct 2026 07:00:10 +0300"
+    },
+    {
+      "title": "בריטניה מצביעה על איראן ב\"פיגוע שסוכל\" ליד הבסיס האמריקני; טראמפ: \"תהיה תשובה\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/sjvni7s5fx",
+      "summary": "רה\"מ ברנהאם אמר כי יש \"אינדיקציות חזקות\" לכך שטהרן הייתה מעורבת במתקפה שסוכלה בבסיס חיל האוויר פיירפורד באנגליה, ששימש מפציצים אמריקניים בתקיפות באיראן. שר החוץ האיראני לעג: \"אתם נובחים על העץ הלא נכון\". טראמפ: \"בוחנים תגובה ברצינות רבה. הם רצו לפוצץ את הבסיס\". דיווח: רוביו הורה למשלחת האיראנית לעזוב את ארה\"ב לאחר שהמו\"מ נקלע למבוי סתום",
+      "importance": 8,
+      "topics": [
+        "בריטניה",
+        "אירן",
         "ביטחון"
       ],
-      "published": "Wed, 30 Sep 2026 08:02:20 +0000"
+      "published": "Thu, 01 Oct 2026 04:42:31 +0300"
     },
     {
-      "title": "Pakistan vows to defend Saudi Arabia against Houthis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss",
-      "summary": "Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis.",
+      "title": "Swiss glaciers suffer another year of record ice loss",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
+      "summary": "Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe.",
       "importance": 7,
       "topics": [
-        "פקיסטן",
-        "סעודיה",
-        "חות'ים"
+        "שינויי אקלים",
+        "שוויץ",
+        "סביבה"
       ],
-      "published": "Wed, 30 Sep 2026 07:22:52 +0000"
+      "published": "Wed, 30 Sep 2026 19:00:00 -0400"
     },
     {
-      "title": "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal?traffic_source=rss",
-      "summary": "US president's comments came after he was asked why North Korea can have nuclear weapons when Iran cannot.",
+      "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+      "summary": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
       "importance": 7,
       "topics": [
-        "קוריאה הצפונית",
-        "ארצות הברית",
-        "דיפלומטיה"
+        "עיראק",
+        "איראן",
+        "ארה״ב"
       ],
-      "published": "Wed, 30 Sep 2026 06:48:09 +0000"
-    },
-    {
-      "title": "לפני אזהרת נתניהו ממתקפה: הרמטכ\"ל ביטל ביקור בארה\"ב \"בשל המצב הביטחוני\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/h1zgqxccmg",
-      "summary": "פרסום ראשון: רב-אלוף זמיר היה אמור להיפגש בעוד כשבוע וחצי עם מפקד סנטקום ויו\"ר המטות המשולבים של הצבא האמריקני, אך הודיע להם כי בעקבות העלאת הכוננות בכל הגזרות - לא נכון שייעדר מהארץ. החלטתו התקבלה לפני דברי רה\"מ על \"מתקפה לפני הבחירות\"",
-      "importance": 7,
-      "topics": [
-        "ביטחון",
-        "ישראל",
-        "ארה\"ב"
-      ],
-      "published": "Wed, 30 Sep 2026 10:41:34 +0300"
+      "published": "Wed, 30 Sep 2026 07:13:17 -0400"
     }
   ],
   "business": [
-    {
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "summary": "Anthropic פרסמה תשקיף למשקיעים עם שלוש עובדות שקשה להחזיק אותן ביחד: הפסדים של עשרות מיליארדי דולרים בשנה, צמיחה מטאורית בהכנסות, ואזהרה רשמית שה-AI שלה עלול להוות סיכון קיומי לאנושות.\n\nזו כנראה הפעם הראשונה שחברה כותבת במסמך רשמי למשקיעים שהמוצר שלה עשוי לסכן את המין האנושי - ועדיין מגייסת הון.\n\nההשפעה העקיפה: זה יגביר לחץ רגולטורי על כל ענף ה-AI, ויאלץ חברות כמו OpenAI ו-Google להיות יותר שקופות לגבי הסיכונים שהן עצמן מזהות.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "כלכלת ענקיים",
-        "רגולציה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "OPENAI ARR NEARS $70B AS ENTERPRISE SALES MORE THAN DOUBLE - AXIOS OpenAI’s annualized revenue run rate is approaching $70 billion, up more than 70% since the start of Q3, according to Axios. The biggest acceleration is coming from enterprise. Its B2B revenue has grown more https://t.co/XGkjqAXJd0",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2104939254942187640",
-      "summary": "ההכנסות השנתיות של OpenAI מתקרבות ל-70 מיליארד דולר - עלייה של יותר מ-70% מתחילת הרבעון השלישי בלבד. הצמיחה המשמעותית ביותר מגיעה מלקוחות ארגוניים, שם ההכנסות יותר מהכפילו את עצמן.\n\nזה חשוב גם למי שלא מכיר OpenAI ישירות: החברות שמספקות את התשתית לאימון ולהרצת מודלים - ספקיות הענן, יצרניות השבבים - הן אלה שמרגישות את הצמיחה הזו בהזמנות. כשארגונים גדולים פותחים את הכיס, כל שרשרת האספקה של ה-AI זוכה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "הכנסות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Anthropic could pay SpaceX up to $84.5 billion for NVIDIA-based computing capacity through 2029. That’s nearly double the roughly $45B in potential spending $SPCX had previously disclosed. Anthropic’s original agreement, announced in May, called for payments of about $1.25B per https://t.co/hlzRYTt4s2",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2104975521126003010",
-      "summary": "Anthropic עשויה לשלם ל-SpaceX עד 84.5 מיליארד דולר על כוח מחשוב מבוסס NVIDIA - עד 2029. זה כמעט כפול מה-45 מיליארד שהיה ידוע עד עכשיו.\n\nההסכם המקורי נחתם במאי על 1.25 מיליארד בשנה. המספר החדש מרמז שהם הרחיבו אותו משמעותית.\n\nמי שכדאי לשים לב אליו פה הוא לא רק NVIDIA - אלא כל מי שמספק תשתית לצנרת הזו: חברות קירור, אחסון, אנרגיה. הכסף הגדול ב-AI לא זורם רק לצ'יפים.",
-      "importance": 9,
-      "topics": [
-        "השקעות AI",
-        "תשתיות",
-        "זרימת הון"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "$FICO -27%; worst day on record since 1989 https://t.co/U0LxKWTTpT https://t.co/1eax9AVgKR",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2105029014402535868",
-      "summary": "Fair Isaac (FICO) צנחה 27% אתמול - הירידה החדה ביותר שלה מאז 1989. החברה שמפרסמת את ציוני האשראי שכולם מכירים לא פרסמה תוצאות רעות במיוחד, אלא הזהירה שנפח השאילתות לציוני אשראי יורד - כלומר פחות אנשים לוקחים משכנתאות והלוואות.\n\nזה משקף משהו שכבר יודעים אבל עכשיו רואים בנתונים: שוק הנדל\"ן האמריקאי פשוט קפוא. הריביות הגבוהות ממשיכות לחנוק את הביקוש לאשראי, וזה נוגע גם לבנקים, לחברות ביטוח משכנתאות, ולכל מי שתלוי בפעילות הלוואות.",
-      "importance": 9,
-      "topics": [
-        "FICO",
-        "אשראי",
-        "שוק הון"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "OPENAI TARGETS $30 BILLION IN FUNDING AT $1.4 TRILLION VALUE: BBG",
       "source": "Twitter @wallstengine",
@@ -200,44 +148,58 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "סמסונג משקיעה מיליארד דולר ב-Helix - חברת תשתיות AI שגיבתה אותה KKR ו-NVIDIA. זה לא מקרי: הכסף הגדול מתחיל להבין שמרוץ ה-AI לא מסתיים בשבבים, אלא בתשתית שמריצה אותם - מרכזי נתונים, קווי חשמל, קירור. מי שנמצא שם עכשיו בונה את הצינורות שכולם יצטרכו. שווה לשים לב לחברות תשתית שנסחרות בצל, הן מרוויחות מהטרנד בלי להיות בכותרות.",
-      "importance": 8,
+      "title": "TSMC is evaluating a potential investment in Texas to expand U.S. 🇺🇸 chip production, on top of the $265 billion it has committed to Arizona, the plans have not been finalized. https://t.co/4FOCt9UZPg",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2105242943728882105",
+      "summary": "TSMC שוקלת השקעה נוספת בטקסס, מעבר ל-265 מיליארד דולר שכבר התחייבה להם באריזונה. התוכניות עדיין לא סגורות, אבל הכיוון ברור: אמריקה רוצה שייצור השבבים יקרה על האדמה שלה, ולא רק בטייוואן.\n\nמי שמרוויח מזה בשקט - חברות הבנייה, ספקי הציוד התעשייתי וערי הטקסס שעומדות לקבל עשרות אלפי מקומות עבודה. ומי שצופה בחשש - יצרנים אסייתים שמרגישים את שרשרת ההיצע מתארגנת נגדם.",
+      "importance": 9,
       "topics": [
+        "TSMC",
+        "צ'יפים",
+        "תשתיות",
+        "טקסס"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "DeepSeek says it partnered with Huawei to build programming tools for Ascend AI chips and is open-sourcing infrastructure including TileLang. It also said it advanced a 128-chip “super node” system based on the Ascend 950. https://t.co/pzPpndv5Lj",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "summary": "DeepSeek ו-Huawei הכריזו על שיתוף פעולה לבניית כלי תכנות לשבבי ה-Ascend AI - וחשוב מזה, הן מוציאות את הכלים האלה לקוד פתוח. בנוסף, הן פיתחו מערכת של 128 שבבים שפועלת יחד כיחידה אחת, מה שמאפשר אימון מודלים בקנה מידה גדול בלי להסתמך על חומרה אמריקאית. זה לא רק מחזק את סין - זה בונה אלטרנטיבה אמיתית לאקוסיסטם של NVIDIA. מי שכדאי לשים לב הם ספקי תשתית ענן ויצרני שבבים שמתחרים על אותו שוק.",
+      "importance": 9,
+      "topics": [
+        "DeepSeek",
+        "Huawei",
         "AI",
-        "השקעות",
-        "תשתיות"
+        "צ'יפים"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Shell backs $23 billion LNG Canada expansion in boost to Carney's ‘energy superpower’ push",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/09/29/shell-canada-lng-carney-oil-gas-energy.html",
-      "summary": "Shell משקיעה 23 מיליארד דולר בהרחבת פרויקט LNG Canada - זה אחד מפרויקטי הגז הטבעי המונזל הגדולים ביותר שאושרו בשנים האחרונות.\n\nקנדה מתמצבת ברצינות כמעצמת אנרגיה: הגז הקנדי יועד בעיקר לשווקים באסיה, שמחפשים חלופות לגז הרוסי. מי שנהנה מזה מעבר לקנדה? יפן, דרום קוריאה וטייוואן - שמנסות שנים להוריד תלות בספקים לא יציבים.\n\nולהיפך - זה לחץ נוסף על אירופה שמתחרה על אותם מטענים בדיוק.",
-      "importance": 8,
+      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "summary": "אינפלציית הליבה בארה\"ב ירדה ל-3.0% באוגוסט - נמוך משמעותית מהתחזית של 3.3%. זה המדד שהפד מסתכל עליו הכי ברצינות כשהוא מחליט על ריבית, אז הנתון הזה חשוב.\n\nמה זה אומר בפועל? הפד קיבל כאן מרחב תמרון. פחות לחץ להמשיך ולהעלות ריבית, ואולי אפילו לדון בהורדות מוקדם יותר מהצפוי. זה משפיע על כל מי שלקח משכנתא בריבית משתנה, על שוק האג\"ח, ועל חברות שנשאו עלויות מימון גבוהות בשנה האחרונה.",
+      "importance": 9,
+      "topics": [
+        "אינפלציה",
+        "פד",
+        "מדיניות כלכלית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "NextEra $NEE is leading a $22.3B Texas energy project selected by the U.S. and South Korea. Project Star will build 6.47 GW of gas-fired generation, primarily to power Related Digital’s adjacent 5 GW data center campus, with excess power going to ERCOT. Initial generation could",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2105423499498279247",
+      "summary": "פרויקט אנרגיה בהיקף 22.3 מיליארד דולר בטקסס - זה מספר שכדאי לעצור עליו רגע.\n\nNextEra מובילה את \"Project Star\": 6.47 גיגה-וואט של ייצור גז טבעי, שנבחר על ידי ארה\"ב ודרום קוריאה יחד. רוב האנרגיה תזין מרכז נתונים ענק של Related Digital - 5 גיגה-וואט בלבד למתחם אחד. העודפים ילכו לרשת החשמל המקומית בטקסס.\n\nמה שמעניין פה: זה מודל חדש לגמרי - מרכזי נתונים שמתחילים לבנות את תשתית האנרגיה שלהם בעצמם, במקום להסתמך על הרשת הקיימת. ספקי חשמל מסורתיים ורשתות הולכה יצטרכו להתאים את עצמם למציאות הזו.",
+      "importance": 9,
       "topics": [
         "אנרגיה",
-        "LNG",
-        "תשתיות",
-        "קנדה"
+        "מרכזי נתונים",
+        "AI"
       ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Investors who have shunned diversification face maybe the best buying opportunity for bonds in decades",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/09/29/investors-who-have-shunned-diversification-face-maybe-the-best-buying-opportunity-for-bonds-in-decades.html",
-      "summary": "הפער בין תשואות המניות לאגרות החוב ב-10 שנים קרוב לשיא היסטורי - וזה בדיוק מה שהופך את האג\"ח למעניין עכשיו.\n\nשנים של ריביות נמוכות גרמו למשקיעים לזנוח אג\"ח לגמרי. אבל כשהפער בין נכסים גדל לרמות קיצוניות, בדרך כלל מגיע רגע של תיקון. לא חייב לקרות מחר - אבל ההיסטוריה אומרת שמי שמחזיק רק מניות ומתעלם מאגרות חוב לחלוטין, עשוי לפספס כרית ביטחון ברגע שהשוק יחליט לשנות כיוון.",
-      "importance": 8,
-      "topics": [
-        "אג״ח",
-        "דיווריסיפיקציה",
-        "הערכות"
-      ],
-      "tag": "גלובלי"
+      "tag": "ארה\"ב"
     },
     {
       "title": "Bond Yields Keep Rising Despite Drop in Oil Price, Dovish Fed Speech",
@@ -264,73 +226,86 @@
         "אינפלציה"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "Boeing קפצה כמעט 3% ב-pre-market אחרי שהצי האמריקאי בחר בה לפתח את מטוס הקרב הדור הבא. זה לא עוד חוזה הגנה רגיל - עד לפני זמן לא רב החברה הייתה בסכנה אמיתית לאבד את כל ייצור מטוסי הקרב שלה לטובת המתחרים.\n\nההשפעה העקיפה מעניינת: ספקיות משנה קטנות שתלויות ב-Boeing על רכיבי מטוסי קרב נשמו לרווחה, וגם לוקהיד מרטין צריכה לשקול מחדש את ההנחות שלה על חלוקת השוק.",
+      "importance": 8,
+      "topics": [
+        "הגנה",
+        "התקשרויות ממשלתיות",
+        "בואינג"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Adding Lilly’s new drug to Zepbound helped people lose up to 23% of their weight. But there were more side effects.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "אילי לילי פרסמה תוצאות ניסוי קליני שמראות ירידה של עד 23% במשקל - כשמשלבים את Zepbound עם תרופה ניסיונית חדשה מסוג amylin. זה יותר מכל תרופה בודדת שאנחנו מכירים היום.\n\nהמשמעות לשוק היא לא רק על לילי עצמה - תחשבו על מה קורה לנובו נורדיסק, שהמוצר המוביל שלה נחשב עד לא מזמן לסטנדרט הזהב. אבל גם ענפים שלמים כמו ביגוד, תעשיית הדיאטות, ואפילו חברות מזון - כולם עוקבים אחרי הנתונים האלה בדריכות.",
+      "importance": 8,
+      "topics": [
+        "GLP-1",
+        "ביוטכנולוגיה",
+        "צרכנות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "summary": "הרגולטור הפדרלי בארה\"ב (FTC) פתח בחקירה נגד OpenAI, Anthropic וחברות AI נוספות - הפעם על סיכוני המוצרים עצמם, לא רק פרטיות או תחרותיות.\n\nזה מגיע אחרי שפלטפורמת Hugging Face נפרצה, מה שהעלה שאלות רציניות על מה קורה כשמודלי AI נחשפים לשחקנים זדוניים.\n\nמי שצריך לשים לב מעבר לחברות הגדולות: כל הסטארטאפים שבנויים על ה-API של OpenAI ו-Anthropic - אם יגיעו הגבלות רגולטוריות, הם הראשונים שירגישו את זה.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "רגולציה",
+        "ביטחון"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "title": "Hackers stole millions of US military personnel records during months-long data breach",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "importance": 9,
-      "topics": [
-        "OpenAI",
-        "מימון",
-        "AI"
-      ],
-      "published": "Tue, 29 Sep 2026 19:52:37 +0000"
-    },
-    {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "importance": 8,
-      "topics": [
-        "OpenAI",
-        "AI",
-        "שינוי תעשיה"
-      ],
-      "published": "Tue, 29 Sep 2026 20:15:47 +0000"
-    },
-    {
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "רכישות",
-        "שבבים"
-      ],
-      "published": "Tue, 29 Sep 2026 21:14:49 +0000"
-    },
-    {
-      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+      "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
       "importance": 8,
       "topics": [
         "אבטחה",
-        "OpenAI",
-        "סייבר"
+        "סייבר",
+        "הפרת נתונים"
       ],
-      "published": "Tue, 29 Sep 2026 18:11:09 +0000"
+      "published": "Wed, 30 Sep 2026 19:29:08 +0000"
     },
     {
-      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at […]",
       "importance": 8,
       "topics": [
         "AI",
-        "OpenAI",
-        "סוכנים-אוטונומיים"
+        "Google",
+        "Gemini"
       ],
-      "published": "Tue, 29 Sep 2026 17:15:00 +0000"
+      "published": "2026-09-30T16:41:41-04:00"
+    },
+    {
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+      "importance": 8,
+      "topics": [
+        "אבטחה סייבר",
+        "זומברה",
+        "האקינג"
+      ],
+      "published": "Wed, 30 Sep 2026 20:44:48 +0000"
     },
     {
       "title": "ממודל Sol החדש ועד קודקס: אלו ההכרזות החשובות של OpenAI",
@@ -340,36 +315,61 @@
       "importance": 8,
       "topics": [
         "AI",
-        "OpenAI",
-        "סוכנים"
+        "OpenAI"
       ],
       "published": "Wed, 30 Sep 2026 07:18:37 +0000"
     },
     {
-      "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
-      "summary": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
       "importance": 7,
       "topics": [
-        "Tesla",
-        "מימון",
-        "רכב אוטונומי"
+        "AI",
+        "Google",
+        "Gemini"
       ],
-      "published": "Tue, 29 Sep 2026 21:20:12 +0000"
+      "published": "Wed, 30 Sep 2026 23:43:07 +0000"
     },
     {
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
       "importance": 7,
       "topics": [
-        "OpenAI",
         "AI",
-        "תוכנה משרדית"
+        "OpenAI",
+        "API"
       ],
-      "published": "Tue, 29 Sep 2026 17:45:51 +0000"
+      "published": "Wed, 30 Sep 2026 19:00:57 +0000"
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "ElevenLabs",
+        "גיוס הון"
+      ],
+      "published": "Wed, 30 Sep 2026 18:23:57 +0000"
+    },
+    {
+      "title": "Amazon’s delivery driver smart glasses will reportedly take photos ‘almost constantly’",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+      "summary": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take \"several thousand captures in a single driver's typical shift,\" which Amazon plans to upload to its AI […]",
+      "importance": 7,
+      "topics": [
+        "AR/VR",
+        "Amazon",
+        "פרטיות"
+      ],
+      "published": "2026-09-30T13:21:29-04:00"
     }
   ]
 }
