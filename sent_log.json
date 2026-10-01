@@ -862,7 +862,8 @@
     "b6b450a4f52feaec": "2026-10-01T05:01:41.229127+00:00",
     "ed801a8c83b09934": "2026-10-01T06:30:41.224060+00:00",
     "39ed8a634536919b": "2026-10-01T08:01:43.912288+00:00",
-    "f31624a2235dd53a": "2026-10-01T09:31:15.195398+00:00"
+    "f31624a2235dd53a": "2026-10-01T09:31:15.195398+00:00",
+    "71c54002a360dc51": "2026-10-01T11:01:30.755891+00:00"
   },
   "messages": [
     {
@@ -12382,7 +12383,21 @@
         "יפן",
         "גיאופוליטיקה"
       ]
+    },
+    {
+      "sent_at": "2026-10-01T11:01:30.755891+00:00",
+      "title": "Broadcom $AVGO has agreed to provide Anthropic with up to $42B in financing tied to its AI infrastructure buildout. The facility could cover roughly one-third of Anthropic’s $125.2B five-year TPU compute commitment, and the debt may be convertible into Anthropic shares. https://t.co/fAa4Qb2U4f",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2105600530558918931",
+      "message": "Broadcom הסכימה לתת ל-Anthropic מימון של עד 42 מיליארד דולר לבניית תשתיות AI. זה מכסה בערך שליש מהתחייבות של 125 מיליארד דולר שנטלה על עצמה Anthropic לרכישת כוח חישוב לאורך חמש שנים - ספציפית שבבי TPU של גוגל. מה שמעניין כאן: החוב עשוי להיות להמיר למניות Anthropic, כלומר Broadcom לא רק מממנת - היא אולי נכנסת כבעלת עניין.\n\nההשפעה העקיפה: זרימת הון בסדר גודל כזה לעבר שבבי TPU של גוגל מחזקת את המעמד של גוגל בתחרות על תשתיות AI - ולוחצת על NVIDIA שנמצאת פחות בתמונה בעסקה הזו.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "תשתיות",
+        "מיזוג הון"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-01T09:30:29.363734+00:00"
+  "last_auto_run": "2026-10-01T11:00:41.123820+00:00"
 }
