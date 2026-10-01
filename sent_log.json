@@ -861,7 +861,8 @@
     "ef53bcae9ce1e883": "2026-09-30T18:31:21.462530+00:00",
     "b6b450a4f52feaec": "2026-10-01T05:01:41.229127+00:00",
     "ed801a8c83b09934": "2026-10-01T06:30:41.224060+00:00",
-    "39ed8a634536919b": "2026-10-01T08:01:43.912288+00:00"
+    "39ed8a634536919b": "2026-10-01T08:01:43.912288+00:00",
+    "f31624a2235dd53a": "2026-10-01T09:31:15.195398+00:00"
   },
   "messages": [
     {
@@ -12366,7 +12367,22 @@
         "אג\"ח",
         "מדיניות כלכלית"
       ]
+    },
+    {
+      "sent_at": "2026-10-01T09:31:15.195398+00:00",
+      "title": "JAPAN 🇯🇵 PLANS $140B AI DATA CENTER PUSH WITH DELL & JERA Japan is planning a major AI infrastructure buildout aimed at becoming the largest AI compute hub outside the U.S. and China, according to the FT. Dell, Jera and Rhaelm have agreed to develop a $15B, 400 MW AI data https://t.co/Ozc7E6pZcL",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2105570847758901365",
+      "message": "יפן מכריזה על תוכנית תשתיות AI בהיקף 140 מיליארד דולר - המטרה: להפוך למרכז המחשוב הגדול בעולם מחוץ לארה\"ב ולסין. Dell ו-JERA כבר חתמו על פרויקט ראשון של 15 מיליארד דולר, 400 מגה-וואט.\n\nזה לא רק יפן - זה סימן שהמירוץ על תשתיות AI הפך לאסטרטגיה לאומית בכל מקום. מי שייצא מזה מחוזק הוא לא רק ענקיות הטכנולוגיה, אלא גם ספקיות אנרגיה, חברות קירור תעשייתי וכבלים תת-ימיים שמחברים את אסיה לשאר העולם.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "תשתיות",
+        "יפן",
+        "גיאופוליטיקה"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-01T08:00:35.550594+00:00"
+  "last_auto_run": "2026-10-01T09:30:29.363734+00:00"
 }
