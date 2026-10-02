@@ -872,7 +872,8 @@
     "0848684bf5405fdf": "2026-10-02T05:01:34.725631+00:00",
     "6aa92621fd5c3b54": "2026-10-02T06:31:15.373293+00:00",
     "a837f89f4473f4d2": "2026-10-02T08:01:20.639884+00:00",
-    "a847dcc7753f0852": "2026-10-02T09:31:11.203421+00:00"
+    "a847dcc7753f0852": "2026-10-02T09:31:11.203421+00:00",
+    "dbc2b82c07dfb0f9": "2026-10-02T11:01:15.792875+00:00"
   },
   "messages": [
     {
@@ -12533,7 +12534,21 @@
         "פד",
         "ריבית"
       ]
+    },
+    {
+      "sent_at": "2026-10-02T11:01:15.792875+00:00",
+      "title": "Volantis Semiconductor raised an $88M Series A, bringing total funding to $97M, to attack AI’s memory bottleneck with photonics. Backers include: OpenAI's Sam Altman SemiAnalysis'S Dylan Patel Jeff Dean John Doerr and others The company is building an optical “fabric” https://t.co/0i1CPtkHS4 https://t.co/4LUwvmpWVZ",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2105817534515867700",
+      "message": "Volantis Semiconductor גייסה 88 מיליון דולר בסבב A - סה\"כ 97 מיליון דולר - כדי לפתור אחת מבעיות הליבה של AI: צוואר הבקבוק של הזיכרון.\n\nהרעיון: במקום חוטי נחושת רגילים, הם בונים רשת תקשורת אופטית שמעבירה נתונים בין שבבים באור. המשמעות - פחות עיכובים, פחות אנרגיה, יותר ביצועים.\n\nמי שגיבה: סם אלטמן, ג'ון דואר, ג'ף דין. לא בדיוק אנשים שמשקיעים סתם.\n\nההשפעה העקיפה שלא רואים מיד: אם הפתרון הזה עובד, NVIDIA ואינטל יצטרכו להסתגל - כי היתרון התחרותי שלהן על חיבוריות בין שבבים עשוי להיות פחות רלוונטי.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "הון סיכון",
+        "פוטוניקה"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-02T09:30:29.060920+00:00"
+  "last_auto_run": "2026-10-02T11:00:32.504752+00:00"
 }
