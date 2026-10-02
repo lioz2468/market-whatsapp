@@ -877,7 +877,8 @@
     "bfc59ee3ad758545": "2026-10-02T12:31:11.965562+00:00",
     "2a64765618399ec9": "2026-10-02T14:01:28.938391+00:00",
     "1540bbe40fec7f5f": "2026-10-02T15:30:33.173215+00:00",
-    "90daab363e895b8c": "2026-10-02T17:01:58.976429+00:00"
+    "90daab363e895b8c": "2026-10-02T17:01:58.976429+00:00",
+    "50a9d7e95c33c6c7": "2026-10-02T18:31:17.201434+00:00"
   },
   "messages": [
     {
@@ -12609,7 +12610,21 @@
         "ETF",
         "עושר"
       ]
+    },
+    {
+      "sent_at": "2026-10-02T18:31:17.201434+00:00",
+      "title": "Anthropic is committing $100M to train 10,000 “Frontier Deployed Engineers” by the end of 2027 through its new Claude Frontier Academy. First cohorts include engineers from Accenture, Bain, Capgemini, Deloitte, McKinsey, Morgan Stanley, Commonwealth Bank and Novo Nordisk. https://t.co/zxiPXTRNpS",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2106071460456570929",
+      "message": "Anthropic משקיעה 100 מיליון דולר לאמן 10,000 מהנדסים בתוך שלוש שנים - דרך האקדמיה החדשה שלה. הקוהורט הראשון כולל אנשים מ-McKinsey, Deloitte, Morgan Stanley, Bain ועוד.\n\nזה לא רק קורס מקצועי. Anthropic בעצם בונה צבא של אנשים שיודעים לפרוס את המודלים שלה בתוך הארגונים הגדולים בעולם. ההשפעה העקיפה: כל הכלים, הפלטפורמות והתוכנות שאותם ארגונים משתמשים בהם - יצטרכו להתממשק עם Claude. זה נתח שוק שנבנה מלמטה.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "השכלה",
+        "טלנט"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-02T17:01:15.084304+00:00"
+  "last_auto_run": "2026-10-02T18:30:32.898742+00:00"
 }
