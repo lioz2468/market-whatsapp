@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T05:45:09.816586+00:00",
+  "generated_at": "2026-10-02T09:35:46.423343+00:00",
   "lookback_hours": 24,
   "world": [
     {
@@ -11,35 +11,74 @@
       "topics": [
         "רוסיה",
         "מערב",
-        "נשקים גרעינים"
+        "גרעין"
       ],
       "published": "Thu, 01 Oct 2026 19:38:30 GMT"
     },
     {
-      "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
+      "title": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss",
-      "summary": "Massive US military deployment to the Middle East includes 50,000 troops, F-35s and Marines to pressure Tehran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss",
+      "summary": "Israel’s top court told Palestinian politician Sami Abu Shehadeh to withdraw from the election or face disqualification.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "פלסטינים",
+        "בחירות"
+      ],
+      "published": "Fri, 02 Oct 2026 09:24:39 +0000"
+    },
+    {
+      "title": "US delivers F-16V fighter jets to Taiwan as island eyes threat from China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china?traffic_source=rss",
+      "summary": "Amid threats from China, Taipai is growing concerned about the Trump administration's commitment to arming the island.",
       "importance": 8,
       "topics": [
         "ארה\"ב",
-        "איראן",
-        "מזרח תיכון"
+        "טייוואן",
+        "סין"
       ],
-      "published": "Fri, 02 Oct 2026 03:14:47 +0000"
+      "published": "Fri, 02 Oct 2026 08:26:22 +0000"
     },
     {
-      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+      "title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss",
+      "summary": "Moscow has suffered further losses of occupied territory, but is using new drones to beat Ukraine's defences.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "קונפליקט"
+      ],
+      "published": "Fri, 02 Oct 2026 08:03:02 +0000"
+    },
+    {
+      "title": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Asia",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
+      "summary": "Activists across Asia are being hunted down by authoritarian governments even across international borders. Human rights groups have been warning of a \"swap market\" of repression in Southeast Asia.",
       "importance": 7,
       "topics": [
-        "סחר",
-        "אנרגיה",
-        "ארה״ב"
+        "אסיה",
+        "זכויות אדם",
+        "דכאון פוליטי"
       ],
-      "published": "Fri, 02 Oct 2026 05:26:06 GMT"
+      "published": "Fri, 02 Oct 2026 05:00:00 -0400"
+    },
+    {
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "importance": 7,
+      "topics": [
+        "ביטחון",
+        "תעופה",
+        "טרור"
+      ],
+      "published": "Fri, 02 Oct 2026 09:08:06 GMT"
     },
     {
       "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
@@ -48,130 +87,53 @@
       "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
       "importance": 7,
       "topics": [
-        "קוריאה",
+        "דרום קוריאה",
         "אוקראינה",
-        "דיפלומטיה"
+        "מתחים דיפלומטיים"
       ],
       "published": "Fri, 02 Oct 2026 03:09:13 GMT"
     },
     {
-      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
-      "importance": 7,
-      "topics": [
-        "אלג'יריה",
-        "אסון טבע"
-      ],
-      "published": "Thu, 01 Oct 2026 16:31:35 GMT"
-    },
-    {
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
-      "importance": 7,
-      "topics": [
-        "אתיופיה",
-        "ביטחון"
-      ],
-      "published": "Thu, 01 Oct 2026 15:05:36 GMT"
-    },
-    {
-      "title": "Eritrea severs diplomatic ties with Ethiopia in row over Tigray",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray?traffic_source=rss",
-      "summary": "Eritrea has severed diplomatic ties with Ethiopia after Addis Ababa closed its embassy in Asmara",
+      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
       "importance": 7,
       "topics": [
         "אתיופיה",
         "אריתריאה",
-        "דיפלומטיה"
+        "קונפליקט"
       ],
-      "published": "Fri, 02 Oct 2026 04:40:14 +0000"
+      "published": "Fri, 02 Oct 2026 08:01:10 GMT"
     },
     {
-      "title": "Row between Ukraine, South Korea mounts over North Korean POWs",
+      "title": "Arab party leader forced to withdraw from Israeli elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss",
-      "summary": "South Korea’s ⁠President accused Ukraine of ⁠undermining him by disclosing POW transfer deal",
+      "url": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
+      "summary": "Palestinian participation in upcoming Knesset vote continues to shrink with withdrawal of Sami Abu Shehadeh.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "קוריאה",
-        "גיאופוליטיקה"
+        "ישראל",
+        "פלסטינים",
+        "בחירות"
       ],
-      "published": "Fri, 02 Oct 2026 02:54:13 +0000"
+      "published": "Fri, 02 Oct 2026 09:25:23 +0000"
     },
     {
-      "title": "Trump says US may ask Europe to release diesel reserves",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss",
-      "summary": "Skyrocketing diesel prices have pushed Washington to weigh an export ban, raising alarm across European economies.",
-      "importance": 7,
+      "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+      "summary": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data.",
+      "importance": 6,
       "topics": [
-        "דלק",
-        "כלכלה גלובלית",
-        "ארה\"ב"
+        "ישראל",
+        "ביטחון",
+        "תעופה"
       ],
-      "published": "Fri, 02 Oct 2026 01:23:35 +0000"
-    },
-    {
-      "title": "7 מחטים, שתי מנות רעל ורופא שכבר כשל: כך קרסה ההוצאה להורג של הרוצחת מטנסי",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bklikmn9gg",
-      "summary": "קריסטה פייק, שהייתה אמורה להיות האישה הראשונה זה 200 שנה שמוצאת להורג בטנסי, נותרה בחיים ומצבה קריטי. עורכי דינה קוראים להמיר את עונשה אחרי שלטענתם הוחדרו לגופה 7 מחטים, אחת מהן התעקמה, בזמן שהיא עצמה ניסתה לסייע לצוות למצוא וריד להכנסת העירוי: \"זה היה עינוי אכזרי״. במקביל מתברר שהרופא האחראי כשל בניסיון הוצאה להורג נוסף רק לפני כמה חודשים, בארה\"ב כבר מתחילים להתווכח על השיטה: \"להחזיר את הכיסא החש",
-      "importance": 7,
-      "topics": [
-        "מערכת משפטית",
-        "הוצאה להורג",
-        "ארה\"ב"
-      ],
-      "published": "Fri, 02 Oct 2026 00:34:57 +0300"
+      "published": "Thu, 01 Oct 2026 07:37:10 -0400"
     }
   ],
   "business": [
-    {
-      "title": "Surging Yields Bring the Bond Market Back to the Turn of the Century",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f?mod=rss_markets_main",
-      "summary": "תשואת האג\"ח האמריקאי ל-10 שנים חצתה את רף ה-5.3% - רמה שלא ראינו מאז שנת 2000.\n\nזה לא רק מספר. כשאג\"ח ממשלתי \"בטוח\" מניב יותר מ-5%, כל שאר הנכסים נדרשים להצדיק את עצמם מחדש - מניות, נדל\"ן, קרנות. למה לקחת סיכון אם אפשר לקבל 5% בלי לזוז?\n\nההשפעה העקיפה שפחות מדברים עליה: משכנתאות, הלוואות לעסקים, ומימון ממשלות בכל העולם - כולם מתייקרים ביחד.",
-      "importance": 10,
-      "topics": [
-        "תשואות",
-        "אג\"ח",
-        "מדיניות כלכלית"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Micron $MU now has 26 multi-year take-or-pay agreements covering more than 35% of expected revenue through 2030. Customer financial commitments have increased to $32B, from $22B last quarter, with the vast majority in cash deposits. Some agreements now extend into 2031.",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "Micron חתמה על 26 הסכמי אספקה רב-שנתיים שמכסים יותר מ-35% מהכנסות החברה הצפויות עד 2030. ההתחייבויות הכספיות של הלקוחות קפצו מ-22 מיליארד דולר ל-32 מיליארד דולר ברבעון אחד בלבד - רובם המוחלט בהפקדות מזומן.\n\nזה לא הסכמות עמומות. מישהו מוציא מזומן עכשיו כדי לנעול זיכרון לשנים הבאות.\n\nההשפעה שפחות מדברים עליה: כל מתחרה שלא הצליח לנעול הסכמים דומים - Samsung, SK Hynix - עלול למצוא את עצמו עם בעיית תמחור רצינית כשהביקוש יתמתן.",
-      "importance": 9,
-      "topics": [
-        "מחסנים",
-        "הסכמים",
-        "היצע-ביקוש"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "JAPAN 🇯🇵 PLANS $140B AI DATA CENTER PUSH WITH DELL & JERA Japan is planning a major AI infrastructure buildout aimed at becoming the largest AI compute hub outside the U.S. and China, according to the FT. Dell, Jera and Rhaelm have agreed to develop a $15B, 400 MW AI data https://t.co/Ozc7E6pZcL",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2105570847758901365",
-      "summary": "יפן מכריזה על תוכנית תשתיות AI בהיקף 140 מיליארד דולר - המטרה: להפוך למרכז המחשוב הגדול בעולם מחוץ לארה\"ב ולסין. Dell ו-JERA כבר חתמו על פרויקט ראשון של 15 מיליארד דולר, 400 מגה-וואט.\n\nזה לא רק יפן - זה סימן שהמירוץ על תשתיות AI הפך לאסטרטגיה לאומית בכל מקום. מי שייצא מזה מחוזק הוא לא רק ענקיות הטכנולוגיה, אלא גם ספקיות אנרגיה, חברות קירור תעשייתי וכבלים תת-ימיים שמחברים את אסיה לשאר העולם.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "תשתיות",
-        "יפן",
-        "גיאופוליטיקה"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "Broadcom $AVGO has agreed to provide Anthropic with up to $42B in financing tied to its AI infrastructure buildout. The facility could cover roughly one-third of Anthropic’s $125.2B five-year TPU compute commitment, and the debt may be convertible into Anthropic shares. https://t.co/fAa4Qb2U4f",
       "source": "Twitter @wallstengine",
@@ -238,6 +200,19 @@
       "tag": "גלובלי"
     },
     {
+      "title": "Pimco’s Stracke Says AI Spending Drove Yields, Not Inflation",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-02/pimco-s-stracke-says-ai-spending-drove-yields-not-inflation",
+      "summary": "תשואות האג\"ח עולות - ולא בגלל אינפלציה. לפי נשיא Pimco, הכוח שמניע את הריביות למעלה הוא הביקוש העצום להון מצד ענקיות הטכנולוגיה שמשקיעות בתשתיות AI. כשמיקרוסופט, גוגל ואמזון שואבות מאות מיליארדי דולרים משוק ההון - יש לזה מחיר, והמחיר הוא ריבית גבוהה יותר לכולם. זה שינוי תפיסה מעניין: אנחנו רגילים לחשוב על תשואות אג\"ח כברומטר של ציפיות אינפלציה - אבל אולי הפעם הסיפור שונה לחלוטין.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "ריבית",
+        "הון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
       "title": "Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude back above $100",
       "source": "CNBC Top News",
       "url": "",
@@ -262,9 +237,49 @@
         "השקעות"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "The Bond Rout Is Deepening Even as Oil Tankers Return to the Strait of Hormuz",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/the-bond-rout-is-deepening-even-as-oil-tankers-return-to-the-strait-of-hormuz-30d8189d?mod=rss_markets_main",
+      "summary": "מחירי הדלק נשארים גבוהים - וזה מגיע לשוק האג\"ח בצורה קשה.\n\nנכון שמכליות הנפט חוזרות למיצר הורמוז, אבל שרשרת האספקה שהופכת את הנפט לדלק בפועל עדיין מופרעת. התוצאה: מחירי אנרגיה גבוהים שמחזיקים את האינפלציה חיה - וזה מה שמוכר את האג\"ח החוצה עכשיו.\n\nמה שמעניין פה: הלחץ מגיע לא מהנפט הגולמי אלא מהזיקוק והלוגיסטיקה שאחריו - חוליות שהרבה אנשים לא חושבים עליהן בכלל. כשאלה נתקעות, כל שוק הריביות מרגיש את זה.",
+      "importance": 8,
+      "topics": [
+        "שרשרת אספקה",
+        "דלק",
+        "מחירים",
+        "ריביות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Jobs Report Today: Bond Market Steadies as Investors Await Employment Numbers",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026?mod=rss_markets_main",
+      "summary": "דוח התעסוקה האמריקאי יוצא היום, והתחזית עומדת על תוספת של 84,000 משרות בלבד - נמוך משמעותית מהממוצע החודשי של השנה האחרונה. המספר הזה כנראה לא יניע את הפד לשנות כיוון, כי הוא עדיין גבוה מספיק כדי שהאינפלציה תישאר בראש סדר העדיפויות.\n\nמה שמעניין פה הוא שוק האג\"ח - שנרגע לפני הנתון אחרי שבועות של תנודתיות. זה אומר שהמשקיעים לא מצפים להפתעות גדולות. אם המספר יצא גבוה מהתחזית, הריביות הארוכות עלולות לעלות - וזה ישפיע על כל מי שמחזיק נדל\"ן, אג\"ח, או מניות צמיחה.",
+      "importance": 8,
+      "topics": [
+        "תעסוקה",
+        "פד",
+        "ריבית"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
+    {
+      "title": "Inside Microsoft’s big Copilot rethink",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+      "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI assistant as the \"OS for work.\" Microsoft is […]",
+      "importance": 8,
+      "topics": [
+        "Microsoft",
+        "AI",
+        "Copilot"
+      ],
+      "published": "2026-10-01T12:00:00-04:00"
+    },
     {
       "title": "Memory executives expect RAM shortage to continue through 2028",
       "source": "Ars Technica",
@@ -272,10 +287,24 @@
       "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
       "importance": 8,
       "topics": [
-        "שבבים",
-        "זיכרון RAM"
+        "מוליכים למחצה",
+        "חומרה",
+        "שרשרת אספקה"
       ],
       "published": "Thu, 01 Oct 2026 17:49:56 +0000"
+    },
+    {
+      "title": "סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/nebius-acquires-inferize-ai-gpu-optimization/",
+      "summary": "אחת הבעיות המוכרות והכואבות ביותר בהפעלה של LLM's בסביבות פרודקשן היא בעיית ההתנעה הקרה, המוכרת גם כ-Cold Start, כלומר, הזמן שלוקח למודל להיטען לפני שהוא בכלל מסוגל לעבד ולשרת את הבקשה הראשונה של המשתמש, מה שיוצר צוואר בקבוק משמעותי. בזמן ההמתנה הזה, מעבדי GPU חזקים ויקרים עומדים בפועל בלי שימוש. התופעה הזו מתרחשת בעיקר כשיש […] The post סטארטאפ ישראלי בן 8 חודשים נמכר עכשיו ב-150 מיליון דולר appe",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "רכישה",
+        "סטארטאפים"
+      ],
+      "published": "Thu, 01 Oct 2026 11:38:24 +0000"
     },
     {
       "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
@@ -285,8 +314,7 @@
       "importance": 7,
       "topics": [
         "AI",
-        "סייבר-אבטחה",
-        "סטארטאפ"
+        "אבטחה מידע"
       ],
       "published": "Thu, 01 Oct 2026 21:55:22 +0000"
     },
@@ -297,24 +325,11 @@
       "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
       "importance": 7,
       "topics": [
-        "ענן",
-        "שיטוח",
-        "Google"
+        "Google",
+        "טכנולוגיה חלל",
+        "שבבים"
       ],
       "published": "Thu, 01 Oct 2026 19:18:03 +0000"
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "importance": 7,
-      "topics": [
-        "OpenAI",
-        "AI-בטיחות",
-        "ניהול"
-      ],
-      "published": "Thu, 01 Oct 2026 18:14:42 +0000"
     },
     {
       "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
@@ -342,27 +357,15 @@
       "published": "2026-10-01T12:02:37-04:00"
     },
     {
-      "title": "Inside Microsoft’s big Copilot rethink",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-      "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI assistant as the \"OS for work.\" Microsoft is […]",
-      "importance": 7,
-      "topics": [
-        "Microsoft",
-        "Copilot",
-        "AI"
-      ],
-      "published": "2026-10-01T12:00:00-04:00"
-    },
-    {
       "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
       "summary": "It has been a bad month for federal government cybersecurity.",
       "importance": 7,
       "topics": [
-        "אבטחה סייברית",
-        "ממשל"
+        "אבטחה סייבר",
+        "ממשל",
+        "נתונים"
       ],
       "published": "Thu, 01 Oct 2026 20:28:45 +0000"
     }
