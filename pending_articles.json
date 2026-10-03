@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "final_message": "TSMC ו-Terafab של מאסק נמצאות במשא ומתן על שיתוף פעולה בייצור שבבים בטקסס - כשהרעיון הוא ש-TSMC תשתמש ב-Terafab כלקוח עוגן למפעל עתידי. זה לא עסקה סגורה, אבל אם זה יקרה - מדובר בהסדר שמשנה את כללי המשחק.\n\nהצד המעניין: מפעל כזה ייצור ביקוש ישיר לציוד ייצור שבבים - חברות כמו ASML ו-Applied Materials יושפעו. גם ספקיות חשמל ותשתיות בטקסס נכנסות לתמונה. המהלך ממשיך את הסיפור הגדול של החזרת ייצור שבבים לאדמת אמריקה.",
+    "title": "Elon Musk confirms TSMC and Terafab are in talks over potential chip manufacturing cooperation in Texas, including TSMC potentially using Terafab as an anchor customer for a future Texas fab. https://t.co/tid75FjYLD",
+    "source": "Twitter @wallstengine",
+    "hash": "ded5ed6e9f93e731",
+    "importance": 8,
+    "tag": "ארה\"ב",
+    "topics": [
+      "צ'יפים",
+      "תשתיות",
+      "TSMC"
+    ]
+  }
+]
