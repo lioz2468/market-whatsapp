@@ -886,7 +886,8 @@
     "149bd40e336e9497": "2026-10-03T11:01:11.304999+00:00",
     "3f88de18da1ce312": "2026-10-03T12:30:59.436372+00:00",
     "29cc176c87c248fe": "2026-10-03T14:01:10.948128+00:00",
-    "b4cbd6a0576ca450": "2026-10-03T15:31:09.470035+00:00"
+    "b4cbd6a0576ca450": "2026-10-03T15:31:09.470035+00:00",
+    "603f85a593c61b25": "2026-10-03T17:01:27.119721+00:00"
   },
   "messages": [
     {
@@ -12744,7 +12745,21 @@
         "תשתיות",
         "השקעות"
       ]
+    },
+    {
+      "sent_at": "2026-10-03T17:01:27.119721+00:00",
+      "title": "The Treasury Department started Trump accounts for 60 million kids — but families still have to take this step if they want one",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
+      "message": "משרד האוצר האמריקאי פתח חשבונות חיסכון על שם 60 מיליון ילדים - עם 1,000 דולר כסף פתיחה לכל אחד. זה חלק מתוכנית \"Trump Accounts\" שהממשל מקדם, אבל ההפקדה לא קורית אוטומטית: ההורים צריכים לעשות צעד אקטיבי כדי שהכסף אכן יועבר.\n\nמה שמעניין כאן זה לא רק הכסף - זה שמדינה מנסה להכניס עשרות מיליוני משפחות לשוק ההון בבת אחת. אם גם חלק קטן מהן ימשיכו להפקיד לאורך השנים, זה שינוי מבני בדפוסי החיסכון האמריקאי.",
+      "importance": 8,
+      "tag": "ארה\"ב",
+      "topics": [
+        "פוליטיקה",
+        "חיסכון",
+        "תינוקות"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-03T15:30:31.836263+00:00"
+  "last_auto_run": "2026-10-03T17:00:38.574497+00:00"
 }
