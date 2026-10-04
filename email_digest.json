@@ -1,205 +1,139 @@
 {
-  "generated_at": "2026-10-03T09:02:10.459574+00:00",
+  "generated_at": "2026-10-04T05:45:02.640073+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
-      "summary": "NAZA is an acronym for nezek agavi , Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
       "importance": 8,
       "topics": [
-        "ישראל",
-        "עזה",
-        "זכויות אדם"
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
       ],
-      "published": "Fri, 02 Oct 2026 10:37:27 -0400"
+      "published": "Sat, 03 Oct 2026 16:16:49 GMT"
     },
     {
-      "title": "New claims that Netanyahu rejected Hamas offer to release captives",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss",
-      "summary": "Reports are building that Israel rejected a Hamas offer to release all civilian hostages taken on October 7, 2023.",
-      "importance": 8,
+      "title": "U.S. withdrawal from Iraq is complete",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
+      "summary": "Twenty-three years after President George W. Bush's campaign of \"shock and awe,\" the U.S. military has completed its withdrawal from Iraq.",
+      "importance": 7,
       "topics": [
-        "ישראל",
-        "חמאס",
+        "עיראק",
+        "ארה״ב",
+        "צבא"
+      ],
+      "published": "Sat, 03 Oct 2026 17:57:33 -0400"
+    },
+    {
+      "title": "Why has Brazil accused the US of election interference?",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "importance": 7,
+      "topics": [
+        "ברזיל",
+        "בחירות",
+        "גיאופוליטיקה"
+      ],
+      "published": "Sat, 03 Oct 2026 13:52:13 GMT"
+    },
+    {
+      "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
+      "summary": "No immediate comment from Saudi authorities after Houthis claim attack on energy facility.",
+      "importance": 7,
+      "topics": [
+        "תימן",
+        "חותים",
+        "אבטחה אנרגטית"
+      ],
+      "published": "Sun, 04 Oct 2026 03:33:49 +0000"
+    },
+    {
+      "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
+      "summary": "Ethiopia’s government forces say they’ve seized Mekelle from Tigray fighters after a week of intense battles.",
+      "importance": 7,
+      "topics": [
+        "אתיופיה",
+        "טיגריי",
         "קונפליקט"
       ],
-      "published": "Sat, 03 Oct 2026 04:58:43 +0000"
+      "published": "Sun, 04 Oct 2026 01:41:28 +0000"
     },
     {
-      "title": "Brazil's big political rematch: What to know",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
-      "summary": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
+      "title": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss",
+      "summary": "Latest polls suggest Lula's lead over Bolsonaro is narrowing, with neither candidate likely to win outright on Sunday.",
       "importance": 7,
       "topics": [
         "ברזיל",
         "בחירות",
         "פוליטיקה"
       ],
-      "published": "Fri, 02 Oct 2026 22:57:07 -0400"
+      "published": "Sun, 04 Oct 2026 00:07:12 +0000"
     },
     {
-      "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months",
-      "summary": "After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say they will release 100 million barrels of oil and diesel fuel in their reserves.",
-      "importance": 7,
-      "topics": [
-        "G7",
-        "אנרגיה",
-        "נפט"
-      ],
-      "published": "Fri, 02 Oct 2026 16:23:49 -0400"
-    },
-    {
-      "title": "Germany's political center fights for relevance after far-right and far-left gains",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
-      "summary": "Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today's weak coalitions, political fragmentation and dire economy echo a past that led to the rise of fascism.",
-      "importance": 7,
-      "topics": [
-        "גרמניה",
-        "בחירות",
-        "פוליטיקה"
-      ],
-      "published": "Fri, 02 Oct 2026 15:22:57 -0400"
-    },
-    {
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
-      ],
-      "published": "Sat, 03 Oct 2026 07:25:09 GMT"
-    },
-    {
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+      "title": "מגורים מעלי צחנה, אלימות משתוללת וסירנות – כך הפכה העיירה סאוטה, לסיוט של אירופה",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/yokra14912069",
+      "summary": "אלפי בני אדם שחדרו ממרוקו לסאוטה, המובלעת הספרדית הזעירה באפריקה, פזורים עדיין במחנות מוכי צחנה ואלימות בחוף, ביערות ובבית הקברות. האוויר מלא סירנות ומסוקים, ועל הקרקע הייאוש אוחז בכולם - מהגרים כמקומיים. בינתיים הציבור הספרדי זועם, הימין הקיצוני חוכך ידיים בהנאה ואירופה כולה מתבוננת מבחוץ בחרדה. ביקור בעיר הפסטורלית שהפכה בן–לילה לאפוקליפסה שמאיימת לפרק את היבשת",
       "importance": 7,
       "topics": [
         "ספרד",
-        "משבר פוליטי",
-        "קנסו"
+        "הגירה",
+        "משבר"
       ],
-      "published": "Fri, 02 Oct 2026 15:30:12 GMT"
+      "published": "Sun, 04 Oct 2026 06:56:41 +0300"
     },
     {
-      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+      "title": "זום מהקוקפיט על מטוס אל על, ב-11/10: סרטוני הטייס-מחבל - וכל מה שידוע עליו",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hkddos05zg",
+      "summary": "שעות לאחר ניסיון ריסוק המטוס, פורסמו שני סרטונים בפרופיל של המאם אל-המאמי: CNN חשף את אותם סרטונים, שבהם נראו מטוסים ישראליים ימים אחרי הטבח - ותמונת מנהיג אל-קאעידה. מהלימודים במוסד בריטי, דרך ההקצנה בסוריה ועד לסילוק משתי חברות תעופה: כל הפרטים הידועים על הטייס שניסה לרסק את מטוס פליי דובאי",
       "importance": 7,
       "topics": [
-        "בינה מלאכותית",
-        "משפט",
-        "ארצות הברית"
+        "ביטחון",
+        "טרור",
+        "ישראל"
       ],
-      "published": "Fri, 02 Oct 2026 23:06:00 GMT"
+      "published": "Sun, 04 Oct 2026 00:42:04 +0300"
     },
     {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "title": "כולם מתנערים, משרד התחבורה \"לא משך נתונים שנתיים\" ומגיב: \"בטוח לטוס? אין 100%\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/byu70hc9fx",
+      "summary": "העובדות: ישראל קיבלה מראש את רשימת נוסעי טיסת פליי דובאי, כולל הטייס-מחבל מעומאן. מי שאמון על הבדיקה הוא משרד התחבורה, שמאשר הגעת חברות זרות, אך שם טענו: \"אנו לא גוף מודיעיני\". גם לשב\"כ, למוסד ולמשטרה יש גישה לנתונים שמועברים לרשות המיסים. המחדל: ייתכן שזו לא הייתה הפעם הראשונה",
       "importance": 7,
       "topics": [
-        "ביטחון תעופה",
-        "דובאי",
-        "פיגוע"
-      ],
-      "published": "Fri, 02 Oct 2026 09:08:06 GMT"
-    },
-    {
-      "title": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
-      "summary": "An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.",
-      "importance": 7,
-      "topics": [
-        "עזה",
+        "ביטחון",
         "ישראל",
-        "קונפליקט"
+        "טרור"
       ],
-      "published": "Sat, 03 Oct 2026 07:57:47 +0000"
+      "published": "Sun, 04 Oct 2026 00:26:31 +0300"
+    },
+    {
+      "title": "For some Brazilians, this election is a vote on Trump",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
+      "summary": "President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their country.",
+      "importance": 6,
+      "topics": [
+        "ברזיל",
+        "בחירות",
+        "גיאופוליטיקה"
+      ],
+      "published": "Sat, 03 Oct 2026 17:57:36 -0400"
     }
   ],
   "business": [
-    {
-      "title": "Volantis Semiconductor raised an $88M Series A, bringing total funding to $97M, to attack AI’s memory bottleneck with photonics. Backers include: OpenAI's Sam Altman SemiAnalysis'S Dylan Patel Jeff Dean John Doerr and others The company is building an optical “fabric” https://t.co/0i1CPtkHS4 https://t.co/4LUwvmpWVZ",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2105817534515867700",
-      "summary": "Volantis Semiconductor גייסה 88 מיליון דולר בסבב A - סה\"כ 97 מיליון דולר - כדי לפתור אחת מבעיות הליבה של AI: צוואר הבקבוק של הזיכרון.\n\nהרעיון: במקום חוטי נחושת רגילים, הם בונים רשת תקשורת אופטית שמעבירה נתונים בין שבבים באור. המשמעות - פחות עיכובים, פחות אנרגיה, יותר ביצועים.\n\nמי שגיבה: סם אלטמן, ג'ון דואר, ג'ף דין. לא בדיוק אנשים שמשקיעים סתם.\n\nההשפעה העקיפה שלא רואים מיד: אם הפתרון הזה עובד, NVIDIA ואינטל יצטרכו להסתגל - כי היתרון התחרותי שלהן על חיבוריות בין שבבים עשוי להיות פחות רלוונטי.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "הון סיכון",
-        "פוטוניקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
-      "summary": "ענף התעסוקה האמריקאי הוסיף רק 29,000 משרות בספטמבר - רחוק מאוד מהתחזית של 84,000 - ושיעור האבטלה עלה ל-4.2%.\n\nזה הנתון שה-Fed מסתכל עליו כשהוא מחליט על ריביות. שוק עבודה שמתקרר ככה מגדיל את הסיכוי לעוד הורדות ריבית בחודשים הקרובים - וזה ישפיע על כל מי שמחזיק אג\"ח, נדל\"ן או פשוט לקח משכנתא.",
-      "importance": 9,
-      "topics": [
-        "שוק עבודה",
-        "אבטלה",
-        "פד",
-        "מאקרו"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
-      "summary": "ה-IRS וממשלת ארה\"ב הכריזו השבוע על סגירת פרצת מס שעשירים השתמשו בה דרך תעודות סל (ETF) כדי לדחות - ובמקרים רבים למנוע לחלוטין - תשלום מס רווחי הון. האסטרטגיה אפשרה להעביר נכסים מניבים לתוך מבנה של ETF באופן שה-IRS לא מיסה אותם. עכשיו זה נסגר.\n\nמה שמעניין פה: זה לא רק עניין של עשירים. כשפרצות כאלה נסגרות, יועצי מס מחפשים חלופות - מה שלפעמים יוצר ביקוש לכלים פיננסיים אחרים, כולל מוצרים שזמינים גם למשקיע הרגיל.",
-      "importance": 9,
-      "topics": [
-        "מיסוי",
-        "ETF",
-        "עושר"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Anthropic is committing $100M to train 10,000 “Frontier Deployed Engineers” by the end of 2027 through its new Claude Frontier Academy. First cohorts include engineers from Accenture, Bain, Capgemini, Deloitte, McKinsey, Morgan Stanley, Commonwealth Bank and Novo Nordisk. https://t.co/zxiPXTRNpS",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2106071460456570929",
-      "summary": "Anthropic משקיעה 100 מיליון דולר לאמן 10,000 מהנדסים בתוך שלוש שנים - דרך האקדמיה החדשה שלה. הקוהורט הראשון כולל אנשים מ-McKinsey, Deloitte, Morgan Stanley, Bain ועוד.\n\nזה לא רק קורס מקצועי. Anthropic בעצם בונה צבא של אנשים שיודעים לפרוס את המודלים שלה בתוך הארגונים הגדולים בעולם. ההשפעה העקיפה: כל הכלים, הפלטפורמות והתוכנות שאותם ארגונים משתמשים בהם - יצטרכו להתממשק עם Claude. זה נתח שוק שנבנה מלמטה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "השכלה",
-        "טלנט"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "summary": "יש כלכלנים שמתחילים לדבר בגלוי על שנות ה-70 - ולא כנוסטלגיה. האינפלציה דביקה, מחירי האנרגיה עולים, ושכר ריאלי בירידה - שלושת המרכיבים שהגדירו את אותו עשור קשה מתכנסים שוב. מה שמעניין הוא ההשפעה העקיפה: אם התבנית הזו מתחזקת, הנחות הבסיס של שוק המניות - שהריבית תרד מהר - עשויות להיות הרבה פחות בטוחות ממה שהשוק מתמחר כרגע. שווה לשים לב.",
-      "importance": 9,
-      "topics": [
-        "אינפלציה",
-        "מיגור",
-        "מאקרו"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
       "source": "CNBC Top News",
@@ -214,41 +148,28 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Jobs Report Today: Bond Market Steadies as Investors Await Employment Numbers",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026?mod=rss_markets_main",
-      "summary": "דוח התעסוקה האמריקאי יוצא היום, והתחזית עומדת על תוספת של 84,000 משרות בלבד - נמוך משמעותית מהממוצע החודשי של השנה האחרונה. המספר הזה כנראה לא יניע את הפד לשנות כיוון, כי הוא עדיין גבוה מספיק כדי שהאינפלציה תישאר בראש סדר העדיפויות.\n\nמה שמעניין פה הוא שוק האג\"ח - שנרגע לפני הנתון אחרי שבועות של תנודתיות. זה אומר שהמשקיעים לא מצפים להפתעות גדולות. אם המספר יצא גבוה מהתחזית, הריביות הארוכות עלולות לעלות - וזה ישפיע על כל מי שמחזיק נדל\"ן, אג\"ח, או מניות צמיחה.",
-      "importance": 8,
+      "title": "Europe’s Stocks Are Straining Under Pressure From Bond Yields",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/europe-s-stocks-are-straining-under-pressure-from-bond-yields",
+      "summary": "תשואות האג\"ח הגלובליות קופצות בקצב שלא ראינו כבר הרבה זמן, וזה מתחיל ללחוץ ברצינות על מניות אירופה.\n\nהלוגיקה פשוטה: כשאפשר לקבל תשואה גבוהה על אג\"ח ממשלתי בלי סיכון, כסף מתחיל לזוז מהמניות לשם. ובאירופה זה כואב יותר - כי שם חוב ממשלתי גבוה פלוס אינפלציה שלא נשברת הם שילוב בעייתי.\n\nמה שפחות ברור: זה לא רק אירופה. כשהון מחפש מקלט באג\"ח, גם שווקים אחרים מרגישים את זה.",
+      "importance": 9,
       "topics": [
-        "תעסוקה",
-        "פד",
+        "אג״ח",
+        "מניות אירופאיות",
         "ריבית"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Why Have Diesel Prices Been Soaring and What Can Be Done to Bring Them Down?",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/why-are-diesel-prices-soaring-and-what-would-a-u-s-export-ban-do-e453fd47?mod=rss_markets_main",
-      "summary": "מחירי הדיזל עלו בחדות בחודשים האחרונים, והסיבה פשוטה אבל לא מספיק מדוברת: המלחמות במזרח התיכון ובאוקראינה חסמו משלוחים מאזורים שמספקים בדרך כלל כמעט שליש מיצוא הדיזל העולמי.\n\nהדיזל הוא לא רק דלק למשאיות - הוא עמוד השדרה של שרשראות האספקה. כשהוא מתייקר, ייקור המחירים מגיע לכל מקום: מחירי מזון, מוצרי צריכה, ומשלוחים בינלאומיים. חברות לוגיסטיקה, ספנות וחקלאות הן הראשונות לספוג - אבל הצרכן הוא שמרגיש את זה בסוף.",
-      "importance": 8,
-      "topics": [
-        "דלק",
-        "שרשרת אספקה",
-        "מחירים"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Tesla reports 486,532 vehicle deliveries for third quarter, topping expectation",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "טסלה סיפקה 486,532 רכבים ברבעון השלישי - מעל מה שהשוק ציפה, ואחרי שני רבעונים של אכזבה. נשמע טוב, אבל השאלה האמיתית היא לכמה זמן.\n\nהלחץ על טסלה מגיע מכיוונים שלא היו קיימים לפני שנתיים: יצרנים סינים כמו BYD מוכרים רכבים חשמליים איכותיים במחיר שטסלה לא מסוגלת להתחרות בו, ויצרנים אירופיים מתעוררים. השוק הגלובלי לרכב חשמלי מסתדר בלי שטסלה תשלוט בו - וזה שינוי גדול.\n\nמי שכדאי לשים לב: ספקיות הסוללות וחברות הטעינה - גם הן ירגישו את הדינמיקה הזו.",
-      "importance": 8,
+      "title": "As Treasury yields touch generational highs, investors brace for the market fallout",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout-0457e698?mod=mw_rss_topstories",
+      "summary": "תשואות האוצר האמריקאי הגיעו לרמות שלא ראינו מדורות - וזה מתחיל לשנות את כל חישובי הסיכון בשווקים.\n\nכשעלות ההלוואה עולה לרמות כאלה, ההשפעה לא עוצרת בשוק האג\"ח. חברות שהסתמכו על חוב זול לצמיחה נמצאות פתאום במצוקה, ושוקי הנדל\"ן - שמתומחרים על ריביות נמוכות - מרגישים את הלחץ ישירות. גם מדינות מתפתחות שחובן דולרי מתכווצות עכשיו, כי כל עלייה בתשואות האמריקאיות מושכת קפיטל החוצה מהשווקים שלהן. זה לא משבר בינתיים - אבל הכיוון שווה מעקב.",
+      "importance": 9,
       "topics": [
-        "רכב חשמלי",
-        "תחרות סינית",
-        "חדשנות תעשיה"
+        "ריבית",
+        "חובות",
+        "סיכון שוק"
       ],
       "tag": "גלובלי"
     },
@@ -264,111 +185,176 @@
         "טכנולוגיה"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "America’s data center fight is a preview of what's to come for the rest of the world",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+      "summary": "מה שקורה עכשיו בארה\"ב סביב מרכזי נתונים - זה רק הטריילר.\n\nקהילות באירופה ובאסיה מתחילות לדחוף חזרה נגד גל ההשקעות בתשתיות AI: עלויות חשמל שמזנקות, לחץ על רשתות מים לקירור, ועומס על תשתיות מקומיות שלא תוכננו לזה. מה שנראה בהתחלה כמו \"כסף שזורם פנימה\" מתחיל להרגיש כמו נטל.\n\nמי שאולי לא שם לב: חברות תשתיות חשמל, ספקיות מים ורשתות הולכה - הן בעצם נמצאות בלב הסיפור הזה.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "תשתיות",
+        "קהילות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "JPMorgan sees memory supply remaining tight through 2028, with customer order discussions already extending into 2031. Its estimates point to: • HBM bit demand growth: +63% • Non-HBM server DRAM: +37% • CY27 HBM blended ASP: +54% YoY JPM also believes Micron’s >35% revenue",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2106377353018626530",
+      "summary": "ניתוח של JPMorgan על שוק הזיכרון: ההיצע יישאר הדוק עד 2028, וכבר עכשיו יש לקוחות שמזמינים ל-2031. המספרים חדים - גידול של 63% בביקוש לזיכרון מסוג HBM, עלייה של 54% במחירים הממוצעים ב-2027, ו-37% צמיחה בזיכרון שרתים רגיל. מי שיושפע מזה מעבר לברור? יצרניות השרתים, ספקיות הענן, וכל מי שבונה תשתיות AI - כולם עומדים בפני עלויות חומרה גבוהות יותר לשנים הקרובות. Micron נראית כמוהנת הגדולה.",
+      "importance": 8,
+      "topics": [
+        "מחצבים",
+        "טכנולוגיה",
+        "אספקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "U.S. to lend $4.2 billion to Vistra to boost nuclear power output, source says",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/03/us-vistra-loan-nuclear-power.html",
+      "summary": "ממשלת ארה\"ב מלווה 4.2 מיליארד דולר ל-Vistra להרחבת תפוקת הגרעין שלה. ההכרזה תגיע היום מפי שר האנרגיה כריס רייט, ישירות ממתחם הגרעין של החברה באוהיו.\n\nזה לא רק חדשות טובות ל-Vistra - זה אות לכל שוק האנרגיה. כסף פדרלי בסדר גודל כזה מאותת שגרעין הופך לעמוד השדרה של תוכנית האנרגיה האמריקאית, ולא רק \"אופציה אחת מתוך רבות\". מי שכדאי לשים עליו עין: ספקי דלק גרעיני, חברות תחזוקת כורים, ומי שמתמודד על חוזי תשתית עתידיים.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
+        "תשתיות",
+        "השקעות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "The Treasury Department started Trump accounts for 60 million kids — but families still have to take this step if they want one",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
+      "summary": "משרד האוצר האמריקאי פתח חשבונות חיסכון על שם 60 מיליון ילדים - עם 1,000 דולר כסף פתיחה לכל אחד. זה חלק מתוכנית \"Trump Accounts\" שהממשל מקדם, אבל ההפקדה לא קורית אוטומטית: ההורים צריכים לעשות צעד אקטיבי כדי שהכסף אכן יועבר.\n\nמה שמעניין כאן זה לא רק הכסף - זה שמדינה מנסה להכניס עשרות מיליוני משפחות לשוק ההון בבת אחת. אם גם חלק קטן מהן ימשיכו להפקיד לאורך השנים, זה שינוי מבני בדפוסי החיסכון האמריקאי.",
+      "importance": 8,
+      "topics": [
+        "פוליטיקה",
+        "חיסכון",
+        "תינוקות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Valley National buys Israeli fintech co Bluevine for $340m",
+      "source": "גלובס שוק ההון",
+      "url": "https://www.globes.co.il/en/article-1001557736",
+      "summary": "Valley National רוכשת את Bluevine הישראלית תמורת 340 מיליון דולר - אחת העסקאות הגדולות השנה בפינטק ישראלי.\n\nBluevine בנתה פלטפורמת בנקאות דיגיטלית לעסקים קטנים בארה\"ב, ועכשיו בנק אמריקאי מסורתי מחליט שעדיף לקנות מאשר לבנות בעצמו. זה מספר הרבה על הקושי של הבנקים הוותיקים להתחרות בחוויית המשתמש שחברות הפינטק מציעות.\n\nמעניין לשים לב: הרכישה יכולה ללחוץ על מתחרות כמו Relay ו-Mercury לזוז מהר יותר.",
+      "importance": 8,
+      "topics": [
+        "פינטק",
+        "מיזוגים ורכישות",
+        "עסקים קטנים"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "Elon Musk confirms TSMC and Terafab are in talks over potential chip manufacturing cooperation in Texas, including TSMC potentially using Terafab as an anchor customer for a future Texas fab. https://t.co/tid75FjYLD",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "summary": "TSMC ו-Terafab של מאסק נמצאות במשא ומתן על שיתוף פעולה בייצור שבבים בטקסס - כשהרעיון הוא ש-TSMC תשתמש ב-Terafab כלקוח עוגן למפעל עתידי. זה לא עסקה סגורה, אבל אם זה יקרה - מדובר בהסדר שמשנה את כללי המשחק.\n\nהצד המעניין: מפעל כזה ייצור ביקוש ישיר לציוד ייצור שבבים - חברות כמו ASML ו-Applied Materials יושפעו. גם ספקיות חשמל ותשתיות בטקסס נכנסות לתמונה. המהלך ממשיך את הסיפור הגדול של החזרת ייצור שבבים לאדמת אמריקה.",
+      "importance": 8,
+      "topics": [
+        "צ'יפים",
+        "תשתיות",
+        "TSMC"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
       "importance": 8,
       "topics": [
         "OpenAI",
-        "AI agents",
-        "Enterprise"
-      ],
-      "published": "2026-10-02T14:00:00-04:00"
-    },
-    {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "importance": 7,
-      "topics": [
-        "Apple",
-        "אבטחה",
-        "AI"
-      ],
-      "published": "Fri, 02 Oct 2026 18:11:27 +0000"
-    },
-    {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]",
-      "importance": 7,
-      "topics": [
-        "AI agents",
-        "Meta",
-        "Open Source"
-      ],
-      "published": "2026-10-02T17:08:37-04:00"
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do […]",
-      "importance": 7,
-      "topics": [
-        "Apple",
-        "AI agents",
-        "אבטחה"
-      ],
-      "published": "2026-10-02T16:08:40-04:00"
-    },
-    {
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-      "importance": 7,
-      "topics": [
-        "NVIDIA",
-        "סחר משפטי",
-        "שבבים"
-      ],
-      "published": "Fri, 02 Oct 2026 18:39:36 +0000"
-    },
-    {
-      "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/",
-      "summary": "DHS agents not only tracked and intimidated people observing ICE activity in Maine, but stored information about them in a Palantir-built database, newly unsealed court filings say.",
-      "importance": 7,
-      "topics": [
-        "פרטיות",
-        "רגולציה",
-        "מעקב ממשלתי"
-      ],
-      "published": "Fri, 02 Oct 2026 19:52:36 +0000"
-    },
-    {
-      "title": "Sanders introduces bill to ban the federal government from using Flock",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-      "summary": "The proposed legislation would extend to all automotica license plate readers.",
-      "importance": 6,
-      "topics": [
-        "רגולציה",
-        "פרטיות"
-      ],
-      "published": "Sat, 03 Oct 2026 00:21:57 +0000"
-    },
-    {
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as t",
-      "importance": 6,
-      "topics": [
         "AI",
-        "מדיניות",
         "בטיחות"
       ],
-      "published": "Fri, 02 Oct 2026 17:48:16 +0000"
+      "published": "2026-10-03T10:31:56-04:00"
+    },
+    {
+      "title": "בהשראת חתן פרס הנובל הישראלי: המודל החדש של יוצר ChatGPT הפך לוויראלי",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/jev-is-the-new-ai-buzzword/",
+      "summary": "אנחנו רגילים שמודלי ה-AI שמשמשים אותנו היום מייצרים כמויות של טקסט, קוד, תמונות, וידאו ואפילו מוזיקה – רק תנו להם את הפרומפט הנכון (ומספיק טוקנים כמובן). מודל חדש עושה בדיוק את ההפך, ולא ייצר לכם מילה אחת או הזייה אחת. אז למה הוא בכל זאת הפך ללהיט מאז שהושק? \"כלאנו ברק בבקבוק, ועדיין הוא לא […] The post בהשראת חתן פרס הנובל הישראלי: המודל החדש של יוצר ChatGPT הפך לוויראלי appeared first on גיקטיים",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "OpenAI"
+      ],
+      "published": "Sat, 03 Oct 2026 10:00:05 +0000"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "importance": 7,
+      "topics": [
+        "OpenAI",
+        "AI",
+        "שינוי הנהלה"
+      ],
+      "published": "Sat, 03 Oct 2026 16:30:01 +0000"
+    },
+    {
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Meta",
+        "פרטיות"
+      ],
+      "published": "Sat, 03 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "importance": 6,
+      "topics": [
+        "רגולציה",
+        "פרטיות",
+        "אבטחה"
+      ],
+      "published": "Sat, 03 Oct 2026 19:33:15 +0000"
+    },
+    {
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "importance": 6,
+      "topics": [
+        "רגולציה",
+        "הצנזורה",
+        "בלוקצ'יין"
+      ],
+      "published": "Sat, 03 Oct 2026 15:02:01 +0000"
+    },
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "importance": 5,
+      "topics": [
+        "AWS",
+        "תשתיות ענן",
+        "כלכלה"
+      ],
+      "published": "Sat, 03 Oct 2026 18:43:57 +0000"
     }
   ]
 }
