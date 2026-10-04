@@ -1,19 +1,58 @@
 {
-  "generated_at": "2026-10-04T05:45:02.640073+00:00",
+  "generated_at": "2026-10-04T09:33:53.057218+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מלחמה"
+        "קונפליקט"
       ],
-      "published": "Sat, 03 Oct 2026 16:16:49 GMT"
+      "published": "Sun, 04 Oct 2026 08:48:38 GMT"
+    },
+    {
+      "title": "ליברמן הציג תוכנית רשמית: ירדן תנהל את חיי הפלסטינים ביו\"ש",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/elections2026/article/r1ni0tjofx",
+      "summary": "יו\"ר ישראל ביתנו טען כי צריך לנתק בין יו\"ש לרצועת עזה. הוא הציע למצוא גורם בינלאומי, המקובל על העולם הערבי, שייקח שליטה בשטחים - כי אחרת \"עתידנו ייקבע בידי אחרים\". בכל הנוגע לעזה, הבהיר ליברמן כי \"אין מנוס מחיסול מוחלט של חמאס. לאחר מכן תועבר השליטה לגורם חיצוני שיישא באחריות הניהול\"",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "פלסטינה",
+        "יהודה ושומרון"
+      ],
+      "published": "Sun, 04 Oct 2026 12:05:47 +0300"
+    },
+    {
+      "title": "תומכי אל קאעידה קוראים לפיגועי חיקוי - ובישראל עדיין לא בודקים מי נוחת כאן",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/r1q6qukjfg",
+      "summary": "תומכי ארגון הטרור שיבחו את טייס המשנה המאם אל-המאמי. לצד תמונות מפיגועי 11 בספטמבר ומניסיון ההשתלטות על טיסת פליי דובאי, נכתב: \"מטוסים ציוניים חגים בשמיים - אפשר לפגוע בהם\". ארבעה ימים אחרי, אף אחד לא מתחייב שזה לא יחזור",
+      "importance": 8,
+      "topics": [
+        "טרור",
+        "אל קאעידה",
+        "בטיחות ישראל"
+      ],
+      "published": "Sun, 04 Oct 2026 10:20:28 +0300"
+    },
+    {
+      "title": "יותר מ-87 אלף נפגעי פעולות איבה מאז 7/10. רוב הנכויות שהוכרו - נפשיות",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/yokra14915944",
+      "summary": "ערב יום השנה השלישי לטבח, הביטוח הלאומי ומשרד הביטחון מפרסמים את נתוני הנפגעים במלחמה: 1,029 אזרחים נרצחו מאז 7/10, בהם 63 ילדים ובני נוער. כ-40 אלף הוכרו כבעלי נכות, רובם על רקע נפשי, ויותר מ-6 מיליארד שקלים שולמו לנפגעי האיבה, למשפחות החללים ולמשפחות החטופים. כל המספרים",
+      "importance": 8,
+      "topics": [
+        "מלחמה",
+        "נפגעים",
+        "ישראל"
+      ],
+      "published": "Sun, 04 Oct 2026 06:00:03 +0300"
     },
     {
       "title": "U.S. withdrawal from Iraq is complete",
@@ -23,62 +62,49 @@
       "importance": 7,
       "topics": [
         "עיראק",
-        "ארה״ב",
-        "צבא"
+        "ארצות הברית",
+        "ביטחון"
       ],
       "published": "Sat, 03 Oct 2026 17:57:33 -0400"
     },
     {
-      "title": "Why has Brazil accused the US of election interference?",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "title": "Gaza’s Christians mourn mother and daughter killed in Israeli attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss",
+      "summary": "Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.",
       "importance": 7,
       "topics": [
-        "ברזיל",
-        "בחירות",
-        "גיאופוליטיקה"
+        "עזה",
+        "ישראל",
+        "קונפליקט"
       ],
-      "published": "Sat, 03 Oct 2026 13:52:13 GMT"
+      "published": "Sun, 04 Oct 2026 08:02:38 +0000"
     },
     {
-      "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
+      "title": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
-      "summary": "No immediate comment from Saudi authorities after Houthis claim attack on energy facility.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
+      "summary": "Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.",
       "importance": 7,
       "topics": [
         "תימן",
-        "חותים",
-        "אבטחה אנרגטית"
-      ],
-      "published": "Sun, 04 Oct 2026 03:33:49 +0000"
-    },
-    {
-      "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
-      "summary": "Ethiopia’s government forces say they’ve seized Mekelle from Tigray fighters after a week of intense battles.",
-      "importance": 7,
-      "topics": [
-        "אתיופיה",
-        "טיגריי",
+        "הותיים",
         "קונפליקט"
       ],
-      "published": "Sun, 04 Oct 2026 01:41:28 +0000"
+      "published": "Sun, 04 Oct 2026 04:09:13 +0000"
     },
     {
-      "title": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss",
-      "summary": "Latest polls suggest Lula's lead over Bolsonaro is narrowing, with neither candidate likely to win outright on Sunday.",
+      "title": "אור דולק, חפצים שזזו, אסלה שלא נשטפה: מדינה זרה פורצת לבתים של חברי פרלמנט?",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/h1tlfu1jmg",
+      "summary": "פינלנד, שהצטרפה לנאט\"ו עקב הפלישה הרוסית לאוקראינה וחוששת מעימות עם מוסקבה, פתחה בחקירה בעקבות דיווחים על שורת פריצות לבתי פוליטיקאים. הפורצים לא גנבו דבר ונראה שהשאירו בכוונה סימנים לפריצה, כמו דלתות פתוחות ושימוש בשירותים בלי להוריד את המים. החשד: זו מלחמה פסיכולוגית של \"מעצמה זרה\". הממשלה שרדה הצעת אי-אמון שהוגשה בגלל ביקור בישראל",
       "importance": 7,
       "topics": [
-        "ברזיל",
-        "בחירות",
-        "פוליטיקה"
+        "פינלנד",
+        "נאטו",
+        "מלחמה היברידית"
       ],
-      "published": "Sun, 04 Oct 2026 00:07:12 +0000"
+      "published": "Sun, 04 Oct 2026 10:27:52 +0300"
     },
     {
       "title": "מגורים מעלי צחנה, אלימות משתוללת וסירנות – כך הפכה העיירה סאוטה, לסיוט של אירופה",
@@ -87,37 +113,11 @@
       "summary": "אלפי בני אדם שחדרו ממרוקו לסאוטה, המובלעת הספרדית הזעירה באפריקה, פזורים עדיין במחנות מוכי צחנה ואלימות בחוף, ביערות ובבית הקברות. האוויר מלא סירנות ומסוקים, ועל הקרקע הייאוש אוחז בכולם - מהגרים כמקומיים. בינתיים הציבור הספרדי זועם, הימין הקיצוני חוכך ידיים בהנאה ואירופה כולה מתבוננת מבחוץ בחרדה. ביקור בעיר הפסטורלית שהפכה בן–לילה לאפוקליפסה שמאיימת לפרק את היבשת",
       "importance": 7,
       "topics": [
-        "ספרד",
         "הגירה",
-        "משבר"
+        "ספרד",
+        "קראח אירופי"
       ],
       "published": "Sun, 04 Oct 2026 06:56:41 +0300"
-    },
-    {
-      "title": "זום מהקוקפיט על מטוס אל על, ב-11/10: סרטוני הטייס-מחבל - וכל מה שידוע עליו",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hkddos05zg",
-      "summary": "שעות לאחר ניסיון ריסוק המטוס, פורסמו שני סרטונים בפרופיל של המאם אל-המאמי: CNN חשף את אותם סרטונים, שבהם נראו מטוסים ישראליים ימים אחרי הטבח - ותמונת מנהיג אל-קאעידה. מהלימודים במוסד בריטי, דרך ההקצנה בסוריה ועד לסילוק משתי חברות תעופה: כל הפרטים הידועים על הטייס שניסה לרסק את מטוס פליי דובאי",
-      "importance": 7,
-      "topics": [
-        "ביטחון",
-        "טרור",
-        "ישראל"
-      ],
-      "published": "Sun, 04 Oct 2026 00:42:04 +0300"
-    },
-    {
-      "title": "כולם מתנערים, משרד התחבורה \"לא משך נתונים שנתיים\" ומגיב: \"בטוח לטוס? אין 100%\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/byu70hc9fx",
-      "summary": "העובדות: ישראל קיבלה מראש את רשימת נוסעי טיסת פליי דובאי, כולל הטייס-מחבל מעומאן. מי שאמון על הבדיקה הוא משרד התחבורה, שמאשר הגעת חברות זרות, אך שם טענו: \"אנו לא גוף מודיעיני\". גם לשב\"כ, למוסד ולמשטרה יש גישה לנתונים שמועברים לרשות המיסים. המחדל: ייתכן שזו לא הייתה הפעם הראשונה",
-      "importance": 7,
-      "topics": [
-        "ביטחון",
-        "ישראל",
-        "טרור"
-      ],
-      "published": "Sun, 04 Oct 2026 00:26:31 +0300"
     },
     {
       "title": "For some Brazilians, this election is a vote on Trump",
@@ -134,19 +134,6 @@
     }
   ],
   "business": [
-    {
-      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-      "summary": "מחירי הנפט יורדים היום אחרי שה-G7 הכריז על שחרור 100 מיליון חביות ממאגרי הדלסק הלאומיים שלו - פרוסות על פני ארבעה חודשים. זה צעד מתואם שמטרתו לרסן את מחירי האנרגיה מלמעלה.\n\nמה שמעניין פה: זה לא רק הנפט. ירידה במחירי האנרגיה מקלה על הלחץ האינפלציוני הרחב - ויש לזה השפעה על ציפיות הריבית. גם חברות שיפור תובלה ופיזית, כמו חברות שילוח, נהנות מעלויות תפעול נמוכות יותר.",
-      "importance": 9,
-      "topics": [
-        "נפט",
-        "אנרגיה",
-        "אספקה"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "Europe’s Stocks Are Straining Under Pressure From Bond Yields",
       "source": "Bloomberg Markets",
@@ -170,32 +157,6 @@
         "ריבית",
         "חובות",
         "סיכון שוק"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "AI Is Squeezing Out the Rest of the Stock Market",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3?mod=rss_markets_main",
-      "summary": "חברות מחוץ לטק מפגרות בצורה חדה - ה-S&P 500 נראה חזק, אבל רוב הרווחים מגיעים ממניות ה-AI. השאר? צומחים לאט, לוקחים יותר חוב, ומתקשים להתחרות.\n\nזה מעניין כי זה לא רק סיפור של בורסה - כשהכסף מתרכז בסקטור אחד, גם שוק האשראי משתנה. חברות מחוץ לטק ישלמו יותר על הלוואות, ותחושת ה\"שוק עולה\" לא בהכרח מגיעה אליהן.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "שווקי מניות",
-        "טכנולוגיה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "America’s data center fight is a preview of what's to come for the rest of the world",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
-      "summary": "מה שקורה עכשיו בארה\"ב סביב מרכזי נתונים - זה רק הטריילר.\n\nקהילות באירופה ובאסיה מתחילות לדחוף חזרה נגד גל ההשקעות בתשתיות AI: עלויות חשמל שמזנקות, לחץ על רשתות מים לקירור, ועומס על תשתיות מקומיות שלא תוכננו לזה. מה שנראה בהתחלה כמו \"כסף שזורם פנימה\" מתחיל להרגיש כמו נטל.\n\nמי שאולי לא שם לב: חברות תשתיות חשמל, ספקיות מים ורשתות הולכה - הן בעצם נמצאות בלב הסיפור הזה.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "תשתיות",
-        "קהילות"
       ],
       "tag": "גלובלי"
     },
@@ -263,34 +224,48 @@
         "TSMC"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
+      "summary": "הגיוסי הון בהונג קונג שברו שיא בקיץ הזה - בנקאים ויתרו על החופשה כי הביקוש פשוט לא הפסיק. הדלק: AI. חברות שמחפשות מימון לתשתיות ומיזמים בתחום הבינה המלאכותית שטפו את השוק בהנפקות, גם בזמן שמניות הונג קונג עצמן ירדו חדות.\n\nזה מעניין כי זה מראה שהכסף הגדול מסתכל קדימה, לא על הנתונים של היום. ומי שצריך לשים לב? חברות ישראליות שחושבות על גיוסי הון בחו\"ל - המזרח הרחוק הפך לשחקן רציני לצד וול סטריט.",
+      "importance": 8,
+      "topics": [
+        "בינה מלאכותית",
+        "הון הון",
+        "הונג קונג"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Competition Authority puts Discount Bank’s Cal sale in doubt",
+      "source": "גלובס שוק ההון",
+      "url": "",
+      "summary": "רשות התחרות מסבכת את העסקה של בנק דיסקונט על Cal - והדרישה שלה מעניינת: משפחת הורש, שרוצה לרכוש את Cal, תצטרך למכור את Super-Pharm אם תרצה להמשיך בעסקה. הרציונל הוא חשש מריכוזיות - לאותה משפחה יהיה שליטה גם על כרטיסי אשראי וגם על רשת קמעונאית גדולה. שווה לשים לב: אם העסקה תיפול, בנק דיסקונט יצטרך למצוא קונה אחר ל-Cal, מה שיכול להשפיע על לוחות הזמנים ועל מחיר המניה.",
+      "importance": 7,
+      "topics": [
+        "בנקאות",
+        "תחרות",
+        "רגולציה"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+      "summary": "טראמפ מינה את ג'יי קלייטון - ראש הגוף לביון לאומי - לתפקיד \"ממונה ה-AI\" של הממשל. זה הסיגנל הראשון הרציני שהממשל מתחיל לגבש מדיניות AI ברמה הלאומית, ולא רק מדבר עליה.\n\nמה שמעניין כאן: קלייטון הוא איש פיננסים ורגולציה, לא טכנולוגיה. זה אומר שהפוקוס יהיה כנראה על שליטה, ביטחון לאומי וזרימת השקעות - ופחות על עידוד חדשנות. כדאי לשים לב מה זה אומר לחברות AI הפועלות מחוץ לארה\"ב.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "פוליטיקה רגולטורית",
+        "טכנולוגיה"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
-    {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
-      "importance": 8,
-      "topics": [
-        "OpenAI",
-        "AI",
-        "בטיחות"
-      ],
-      "published": "2026-10-03T10:31:56-04:00"
-    },
-    {
-      "title": "בהשראת חתן פרס הנובל הישראלי: המודל החדש של יוצר ChatGPT הפך לוויראלי",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/jev-is-the-new-ai-buzzword/",
-      "summary": "אנחנו רגילים שמודלי ה-AI שמשמשים אותנו היום מייצרים כמויות של טקסט, קוד, תמונות, וידאו ואפילו מוזיקה – רק תנו להם את הפרומפט הנכון (ומספיק טוקנים כמובן). מודל חדש עושה בדיוק את ההפך, ולא ייצר לכם מילה אחת או הזייה אחת. אז למה הוא בכל זאת הפך ללהיט מאז שהושק? \"כלאנו ברק בבקבוק, ועדיין הוא לא […] The post בהשראת חתן פרס הנובל הישראלי: המודל החדש של יוצר ChatGPT הפך לוויראלי appeared first on גיקטיים",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "OpenAI"
-      ],
-      "published": "Sat, 03 Oct 2026 10:00:05 +0000"
-    },
     {
       "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
       "source": "TechCrunch",
@@ -300,22 +275,48 @@
       "topics": [
         "OpenAI",
         "AI",
-        "שינוי הנהלה"
+        "בטיחות"
       ],
       "published": "Sat, 03 Oct 2026 16:30:01 +0000"
     },
     {
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
+      "importance": 7,
+      "topics": [
+        "OpenAI",
+        "AI",
+        "בטיחות"
+      ],
+      "published": "2026-10-03T10:31:56-04:00"
+    },
+    {
+      "title": "עוד בכיר בצוות הבטיחות של OpenAI פורש עם אזהרה מהמצב",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/former-openai-researcher-says-company-culture-is-broken/",
+      "summary": "השבועות האחרונים מלווים בשיח בלתי פוסק על האטת מהירות הפיתוח של מודלי ה-AI עקב שורה של תקריות, כולל הפריצה ל-Hugging Face ע\"י סוכני OpenAI. לצד הקריאות הללו נחשפים עוד ועוד עובדים שעזבו את החברות על רקע טענות לטיפול לקוי בבטיחות של המודלים. עובד חדש כזה נחשף בסוף השבוע, שטוען כי \"התרבות ב-OpenAI שבורה\". להתנהל כמו […] The post עוד בכיר בצוות הבטיחות של OpenAI פורש עם אזהרה מהמצב appeared first on ",
       "importance": 7,
       "topics": [
         "AI",
-        "Meta",
-        "פרטיות"
+        "OpenAI",
+        "בטיחות"
       ],
-      "published": "Sat, 03 Oct 2026 12:00:00 +0000"
+      "published": "Sun, 04 Oct 2026 08:16:36 +0000"
+    },
+    {
+      "title": "בהשראת חתן פרס הנובל הישראלי: המודל החדש של יוצר ChatGPT הפך לוויראלי",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/jev-is-the-new-ai-buzzword/",
+      "summary": "אנחנו רגילים שמודלי ה-AI שמשמשים אותנו היום מייצרים כמויות של טקסט, קוד, תמונות, וידאו ואפילו מוזיקה – רק תנו להם את הפרומפט הנכון (ומספיק טוקנים כמובן). מודל חדש עושה בדיוק את ההפך, ולא ייצר לכם מילה אחת או הזייה אחת. אז למה הוא בכל זאת הפך ללהיט מאז שהושק? \"כלאנו ברק בבקבוק, ועדיין הוא לא […] The post בהשראת חתן פרס הנובל הישראלי: המודל החדש של יוצר ChatGPT הפך לוויראלי appeared first on גיקטיים",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "מודלים"
+      ],
+      "published": "Sat, 03 Oct 2026 10:00:05 +0000"
     },
     {
       "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
@@ -326,22 +327,35 @@
       "topics": [
         "רגולציה",
         "פרטיות",
-        "אבטחה"
+        "מעקב"
       ],
       "published": "Sat, 03 Oct 2026 19:33:15 +0000"
     },
     {
-      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-      "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
       "importance": 6,
       "topics": [
-        "רגולציה",
-        "הצנזורה",
-        "בלוקצ'יין"
+        "AI",
+        "Meta",
+        "פרטיות"
       ],
-      "published": "Sat, 03 Oct 2026 15:02:01 +0000"
+      "published": "Sat, 03 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "מהשבוע תשלמו הרבה יותר לגוגל על Gemini Pro",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/google-will-charge-you-more-for-gemini-pro-models/",
+      "summary": "בתקופה האחרונה גוגל מוצאת את עצמה בעמדת נחיתות בתחום ה-AI. בזמן שמטא חוגגת על Muse, ב-OpenAI כבר משיקים את Dots לצד Astra ו-Sol החדשים, ואנת'רופיק שולטת על יותר מ-40 אחוז מהשוק הארגוני ואף קוראת לעצור את קצב הפיתוח (ובמקביל ממשיכה להשיק מודלים חזקים), נראה שבגוגל קופאים על השמרים ולוקחים את הזמן המתוק שלהם עם Gemini […] The post מהשבוע תשלמו הרבה יותר לגוגל על Gemini Pro appeared first on גיקטיים ",
+      "importance": 6,
+      "topics": [
+        "AI",
+        "Google",
+        "Gemini"
+      ],
+      "published": "Sun, 04 Oct 2026 06:51:11 +0000"
     },
     {
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -350,9 +364,8 @@
       "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
       "importance": 5,
       "topics": [
-        "AWS",
-        "תשתיות ענן",
-        "כלכלה"
+        "Amazon",
+        "מרכזי נתונים"
       ],
       "published": "Sat, 03 Oct 2026 18:43:57 +0000"
     }
