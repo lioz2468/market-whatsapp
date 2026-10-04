@@ -894,7 +894,8 @@
     "b77ab8462eae84c3": "2026-10-04T08:00:34.615022+00:00",
     "4c6ab5f036a51cf2": "2026-10-04T09:31:07.863821+00:00",
     "27f8c3663214ab4d": "2026-10-04T11:01:23.352679+00:00",
-    "c2ffb1a3f15d75c5": "2026-10-04T12:31:04.917567+00:00"
+    "c2ffb1a3f15d75c5": "2026-10-04T12:31:04.917567+00:00",
+    "f2c2b04c6b2365c2": "2026-10-04T14:01:08.397420+00:00"
   },
   "messages": [
     {
@@ -12864,7 +12865,21 @@
         "ריבית",
         "מדיניות מוניטרית"
       ]
+    },
+    {
+      "sent_at": "2026-10-04T14:01:08.397420+00:00",
+      "title": "NVIDIA-backed Reflection is preparing to release a new open-weight AI model expected to compete with top Chinese 🇨🇳 models. Note: Reflection has signed major compute deals recently with Nebius and SpaceX. https://t.co/PWtHATzR0I",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2106737247274065925",
+      "message": "חברת Reflection, שמגובה על ידי NVIDIA, מתכוונת לשחרר בקרוב מודל AI פתוח שמטרתו להתחרות ישירות במודלים הסיניים המובילים. מה שמעניין כאן הוא לא רק המודל עצמו - Reflection כבר חתמה על עסקאות תשתית גדולות עם Nebius ועם SpaceX. זו זרימת הון שווה לשים לב אליה: NVIDIA ממנת תחרות על שוק המודלים הפתוחים, וחברות תשתית ענן כמו Nebius נמצאות ממש במרכז.",
+      "importance": 8,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "השקעה",
+        "תחרות טכנולוגיה"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-04T12:30:28.312806+00:00"
+  "last_auto_run": "2026-10-04T14:00:36.878608+00:00"
 }
