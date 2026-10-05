@@ -1,229 +1,165 @@
 {
-  "generated_at": "2026-10-04T09:33:53.057218+00:00",
+  "generated_at": "2026-10-05T05:45:06.314746+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "כל המפציצים האמריקניים פונו בבהילות מהבסיס הבריטי: \"איום איראני חדש\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/ry52w4gogl",
+      "summary": "שבוע אחרי התקרית ליד בסיס פיירפורד, הודיע הפנטגון כי מפציצי ה-B-1 שהוצבו בו ושימשו למתקפות על איראן במלחמה הוחזרו לבסיסי האם: \"יש לנו יכולת תקיפה גלובלית גם משטח ארה\"ב\". דיווח: \"נטשו בבהילות בעקבות מידע חדש\". 6 חשודים שנעצרו שוחררו בערבות. ישראל הזהירה גם את גרמניה",
+      "importance": 8,
+      "topics": [
+        "אירן",
+        "ארה\"ב",
+        "ביטחון"
+      ],
+      "published": "Mon, 05 Oct 2026 00:42:23 +0300"
+    },
     {
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
-      "importance": 8,
+      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "קונפליקט"
+        "מלחמה"
       ],
-      "published": "Sun, 04 Oct 2026 08:48:38 GMT"
+      "published": "Sun, 04 Oct 2026 12:09:04 GMT"
     },
     {
-      "title": "ליברמן הציג תוכנית רשמית: ירדן תנהל את חיי הפלסטינים ביו\"ש",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/elections2026/article/r1ni0tjofx",
-      "summary": "יו\"ר ישראל ביתנו טען כי צריך לנתק בין יו\"ש לרצועת עזה. הוא הציע למצוא גורם בינלאומי, המקובל על העולם הערבי, שייקח שליטה בשטחים - כי אחרת \"עתידנו ייקבע בידי אחרים\". בכל הנוגע לעזה, הבהיר ליברמן כי \"אין מנוס מחיסול מוחלט של חמאס. לאחר מכן תועבר השליטה לגורם חיצוני שיישא באחריות הניהול\"",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "פלסטינה",
-        "יהודה ושומרון"
-      ],
-      "published": "Sun, 04 Oct 2026 12:05:47 +0300"
-    },
-    {
-      "title": "תומכי אל קאעידה קוראים לפיגועי חיקוי - ובישראל עדיין לא בודקים מי נוחת כאן",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/r1q6qukjfg",
-      "summary": "תומכי ארגון הטרור שיבחו את טייס המשנה המאם אל-המאמי. לצד תמונות מפיגועי 11 בספטמבר ומניסיון ההשתלטות על טיסת פליי דובאי, נכתב: \"מטוסים ציוניים חגים בשמיים - אפשר לפגוע בהם\". ארבעה ימים אחרי, אף אחד לא מתחייב שזה לא יחזור",
-      "importance": 8,
-      "topics": [
-        "טרור",
-        "אל קאעידה",
-        "בטיחות ישראל"
-      ],
-      "published": "Sun, 04 Oct 2026 10:20:28 +0300"
-    },
-    {
-      "title": "יותר מ-87 אלף נפגעי פעולות איבה מאז 7/10. רוב הנכויות שהוכרו - נפשיות",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14915944",
-      "summary": "ערב יום השנה השלישי לטבח, הביטוח הלאומי ומשרד הביטחון מפרסמים את נתוני הנפגעים במלחמה: 1,029 אזרחים נרצחו מאז 7/10, בהם 63 ילדים ובני נוער. כ-40 אלף הוכרו כבעלי נכות, רובם על רקע נפשי, ויותר מ-6 מיליארד שקלים שולמו לנפגעי האיבה, למשפחות החללים ולמשפחות החטופים. כל המספרים",
-      "importance": 8,
-      "topics": [
-        "מלחמה",
-        "נפגעים",
-        "ישראל"
-      ],
-      "published": "Sun, 04 Oct 2026 06:00:03 +0300"
-    },
-    {
-      "title": "U.S. withdrawal from Iraq is complete",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
-      "summary": "Twenty-three years after President George W. Bush's campaign of \"shock and awe,\" the U.S. military has completed its withdrawal from Iraq.",
-      "importance": 7,
-      "topics": [
-        "עיראק",
-        "ארצות הברית",
-        "ביטחון"
-      ],
-      "published": "Sat, 03 Oct 2026 17:57:33 -0400"
-    },
-    {
-      "title": "Gaza’s Christians mourn mother and daughter killed in Israeli attack",
+      "title": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss",
-      "summary": "Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
+      "summary": "Brazil’s presidential election is heading to a run-off after Bolsonaro and Lula both fell short of the 50% needed to win",
       "importance": 7,
-      "topics": [
-        "עזה",
-        "ישראל",
-        "קונפליקט"
-      ],
-      "published": "Sun, 04 Oct 2026 08:02:38 +0000"
-    },
-    {
-      "title": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
-      "summary": "Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.",
-      "importance": 7,
-      "topics": [
-        "תימן",
-        "הותיים",
-        "קונפליקט"
-      ],
-      "published": "Sun, 04 Oct 2026 04:09:13 +0000"
-    },
-    {
-      "title": "אור דולק, חפצים שזזו, אסלה שלא נשטפה: מדינה זרה פורצת לבתים של חברי פרלמנט?",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/h1tlfu1jmg",
-      "summary": "פינלנד, שהצטרפה לנאט\"ו עקב הפלישה הרוסית לאוקראינה וחוששת מעימות עם מוסקבה, פתחה בחקירה בעקבות דיווחים על שורת פריצות לבתי פוליטיקאים. הפורצים לא גנבו דבר ונראה שהשאירו בכוונה סימנים לפריצה, כמו דלתות פתוחות ושימוש בשירותים בלי להוריד את המים. החשד: זו מלחמה פסיכולוגית של \"מעצמה זרה\". הממשלה שרדה הצעת אי-אמון שהוגשה בגלל ביקור בישראל",
-      "importance": 7,
-      "topics": [
-        "פינלנד",
-        "נאטו",
-        "מלחמה היברידית"
-      ],
-      "published": "Sun, 04 Oct 2026 10:27:52 +0300"
-    },
-    {
-      "title": "מגורים מעלי צחנה, אלימות משתוללת וסירנות – כך הפכה העיירה סאוטה, לסיוט של אירופה",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14912069",
-      "summary": "אלפי בני אדם שחדרו ממרוקו לסאוטה, המובלעת הספרדית הזעירה באפריקה, פזורים עדיין במחנות מוכי צחנה ואלימות בחוף, ביערות ובבית הקברות. האוויר מלא סירנות ומסוקים, ועל הקרקע הייאוש אוחז בכולם - מהגרים כמקומיים. בינתיים הציבור הספרדי זועם, הימין הקיצוני חוכך ידיים בהנאה ואירופה כולה מתבוננת מבחוץ בחרדה. ביקור בעיר הפסטורלית שהפכה בן–לילה לאפוקליפסה שמאיימת לפרק את היבשת",
-      "importance": 7,
-      "topics": [
-        "הגירה",
-        "ספרד",
-        "קראח אירופי"
-      ],
-      "published": "Sun, 04 Oct 2026 06:56:41 +0300"
-    },
-    {
-      "title": "For some Brazilians, this election is a vote on Trump",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
-      "summary": "President Trump says he's been having success winning races in Latin America. As Brazilian voters go to the polls, they're also deciding how much influence Trump should have in their country.",
-      "importance": 6,
       "topics": [
         "ברזיל",
         "בחירות",
-        "גיאופוליטיקה"
+        "פוליטיקה"
       ],
-      "published": "Sat, 03 Oct 2026 17:57:36 -0400"
+      "published": "Mon, 05 Oct 2026 05:08:23 +0000"
+    },
+    {
+      "title": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
+      "summary": "A California woman allegedly sent photos and videos of President Lai's son and his family to Chinese officials.",
+      "importance": 7,
+      "topics": [
+        "סין",
+        "תאיוואן",
+        "מודיעין"
+      ],
+      "published": "Mon, 05 Oct 2026 04:13:20 +0000"
+    },
+    {
+      "title": "Yemen gov’t forces commence major combat operation against Houthis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss",
+      "summary": "Yemeni government forces have declared a ‘battle for liberation’ to retake remaining territory held by the Houthis.",
+      "importance": 7,
+      "topics": [
+        "ימן",
+        "חוסיים",
+        "קונפליקט"
+      ],
+      "published": "Mon, 05 Oct 2026 03:11:03 +0000"
+    },
+    {
+      "title": "Brazil’s presidential race: Three key takeaways from the first round",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round?traffic_source=rss",
+      "summary": "Flavio Bolsonaro beat polling expectations as Brazil’s right gained ground, setting up October 25 run-off with Lula.",
+      "importance": 7,
+      "topics": [
+        "ברזיל",
+        "בחירות",
+        "דרום אמריקה"
+      ],
+      "published": "Mon, 05 Oct 2026 01:55:50 +0000"
+    },
+    {
+      "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
+      "summary": "The capture of Tigray’s regional capital revives fears of another prolonged conflict, displacement and crisis.",
+      "importance": 7,
+      "topics": [
+        "אתיופיה",
+        "טיגריי",
+        "קונפליקט"
+      ],
+      "published": "Mon, 05 Oct 2026 01:03:54 +0000"
+    },
+    {
+      "title": "שלוש שנים אחרי: חמאס עדיין בעזה, וההכרעה רחוקה | תמונת מצב",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/yokra14916685",
+      "summary": "חרף הסיכולים הממוקדים של צה\"ל והשליטה שלו ביותר מ-60% מהרצועה, חמאס עדיין שולט בשטח גם 3 שנים אחרי הטבח והמחדל. בהיעדר תוכנית מדינית לעתיד עזה, במערכת הביטחון מודים: אין פתרון להשתלטות ארגון הטרור על משאיות הסיוע, שנכנסות באישור ישראלי. בכירים בצבא מבהירים: לא נוותר על פירוז מלא",
+      "importance": 7,
+      "topics": [
+        "עזה",
+        "חמאס",
+        "ביטחון"
+      ],
+      "published": "Mon, 05 Oct 2026 06:15:05 +0300"
+    },
+    {
+      "title": "מחכים לבחירות: לארצות הברית נמאס מאלימות המתנחלים",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/theheadline/article/ml1wqrlvv",
+      "summary": "עוד סוף שבוע אלים ביהודה ושומרון עם דיווחים רבים על אלימות במספר מוקדים ביהודה ושומרון. נתניהו מתעקש שמדובר בקומץ, אבל גם בממשל שהתקרב לישראל במלחמה האחרונה כבר מעבירים אזהרות ומפסיקים להאמין לו. עו\"ד עידו דמבין, מומחה לפוליטיקה אמריקנית וליחסי ישראל-ארה\"ב, מסביר מה עומד מאחורי השינוי בוושינגטון ואיך הוא קשור לבחירות גם כאן, וגם שם",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "ארה\"ב",
+        "יהודה ושומרון"
+      ],
+      "published": "Mon, 05 Oct 2026 05:00:00 +0300"
+    },
+    {
+      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
+      "importance": 6,
+      "topics": [
+        "פקיסטן",
+        "פוליטיקה",
+        "הפגנות"
+      ],
+      "published": "Mon, 05 Oct 2026 05:28:46 GMT"
     }
   ],
   "business": [
     {
-      "title": "Europe’s Stocks Are Straining Under Pressure From Bond Yields",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-03/europe-s-stocks-are-straining-under-pressure-from-bond-yields",
-      "summary": "תשואות האג\"ח הגלובליות קופצות בקצב שלא ראינו כבר הרבה זמן, וזה מתחיל ללחוץ ברצינות על מניות אירופה.\n\nהלוגיקה פשוטה: כשאפשר לקבל תשואה גבוהה על אג\"ח ממשלתי בלי סיכון, כסף מתחיל לזוז מהמניות לשם. ובאירופה זה כואב יותר - כי שם חוב ממשלתי גבוה פלוס אינפלציה שלא נשברת הם שילוב בעייתי.\n\nמה שפחות ברור: זה לא רק אירופה. כשהון מחפש מקלט באג\"ח, גם שווקים אחרים מרגישים את זה.",
+      "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+      "summary": "ספינות נוספות הותקפו במפרץ הפרסי, ואיראן הבהירה את התנאים שלה לפתיחה מחדש של מצר הורמוז - הפסקת \"מעשי התוקפנות\" האמריקאיים, סיום הסגר הימי והחזרת הנכסים האיראניים הקפואים.\n\nכ-20% מסחר הנפט העולמי עובר דרך המצר הזה. סגירה אפילו חלקית תשפיע לא רק על מחירי הנפט - גם ספנות, ביטוח ימי, ותעשיות שתלויות בשרשרת האספקה של המפרץ יחטפו מכה. שווה לעקוב.",
       "importance": 9,
       "topics": [
-        "אג״ח",
-        "מניות אירופאיות",
-        "ריבית"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "As Treasury yields touch generational highs, investors brace for the market fallout",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout-0457e698?mod=mw_rss_topstories",
-      "summary": "תשואות האוצר האמריקאי הגיעו לרמות שלא ראינו מדורות - וזה מתחיל לשנות את כל חישובי הסיכון בשווקים.\n\nכשעלות ההלוואה עולה לרמות כאלה, ההשפעה לא עוצרת בשוק האג\"ח. חברות שהסתמכו על חוב זול לצמיחה נמצאות פתאום במצוקה, ושוקי הנדל\"ן - שמתומחרים על ריביות נמוכות - מרגישים את הלחץ ישירות. גם מדינות מתפתחות שחובן דולרי מתכווצות עכשיו, כי כל עלייה בתשואות האמריקאיות מושכת קפיטל החוצה מהשווקים שלהן. זה לא משבר בינתיים - אבל הכיוון שווה מעקב.",
-      "importance": 9,
-      "topics": [
-        "ריבית",
-        "חובות",
-        "סיכון שוק"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "JPMorgan sees memory supply remaining tight through 2028, with customer order discussions already extending into 2031. Its estimates point to: • HBM bit demand growth: +63% • Non-HBM server DRAM: +37% • CY27 HBM blended ASP: +54% YoY JPM also believes Micron’s >35% revenue",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2106377353018626530",
-      "summary": "ניתוח של JPMorgan על שוק הזיכרון: ההיצע יישאר הדוק עד 2028, וכבר עכשיו יש לקוחות שמזמינים ל-2031. המספרים חדים - גידול של 63% בביקוש לזיכרון מסוג HBM, עלייה של 54% במחירים הממוצעים ב-2027, ו-37% צמיחה בזיכרון שרתים רגיל. מי שיושפע מזה מעבר לברור? יצרניות השרתים, ספקיות הענן, וכל מי שבונה תשתיות AI - כולם עומדים בפני עלויות חומרה גבוהות יותר לשנים הקרובות. Micron נראית כמוהנת הגדולה.",
-      "importance": 8,
-      "topics": [
-        "מחצבים",
-        "טכנולוגיה",
-        "אספקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "U.S. to lend $4.2 billion to Vistra to boost nuclear power output, source says",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/03/us-vistra-loan-nuclear-power.html",
-      "summary": "ממשלת ארה\"ב מלווה 4.2 מיליארד דולר ל-Vistra להרחבת תפוקת הגרעין שלה. ההכרזה תגיע היום מפי שר האנרגיה כריס רייט, ישירות ממתחם הגרעין של החברה באוהיו.\n\nזה לא רק חדשות טובות ל-Vistra - זה אות לכל שוק האנרגיה. כסף פדרלי בסדר גודל כזה מאותת שגרעין הופך לעמוד השדרה של תוכנית האנרגיה האמריקאית, ולא רק \"אופציה אחת מתוך רבות\". מי שכדאי לשים עליו עין: ספקי דלק גרעיני, חברות תחזוקת כורים, ומי שמתמודד על חוזי תשתית עתידיים.",
-      "importance": 8,
-      "topics": [
+        "ספקה גלובלית",
         "אנרגיה",
-        "תשתיות",
-        "השקעות"
+        "גיאופוליטיקה",
+        "מדרום תיכון"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
-      "title": "The Treasury Department started Trump accounts for 60 million kids — but families still have to take this step if they want one",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
-      "summary": "משרד האוצר האמריקאי פתח חשבונות חיסכון על שם 60 מיליון ילדים - עם 1,000 דולר כסף פתיחה לכל אחד. זה חלק מתוכנית \"Trump Accounts\" שהממשל מקדם, אבל ההפקדה לא קורית אוטומטית: ההורים צריכים לעשות צעד אקטיבי כדי שהכסף אכן יועבר.\n\nמה שמעניין כאן זה לא רק הכסף - זה שמדינה מנסה להכניס עשרות מיליוני משפחות לשוק ההון בבת אחת. אם גם חלק קטן מהן ימשיכו להפקיד לאורך השנים, זה שינוי מבני בדפוסי החיסכון האמריקאי.",
-      "importance": 8,
+      "title": "Jobs Slow but Inflation Keeps Fed on Alert",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-04/jobs-slow-but-inflation-keeps-fed-on-alert-video",
+      "summary": "נתוני התעסוקה של ספטמבר יצאו חלשים יותר מהצפי - וזה נותן לפד מרחב נשימה להשאיר את הריבית יציבה באוקטובר. אבל האינפלציה עדיין לא נכנעת, ולכן עדיין יש סיכוי להעלאה נוספת בדצמבר או תחילת 2024.\n\nמה שפחות ברור: התשואות על אגרות החוב עולות גם בגלל גירעונות פיסקאליים גדולים בארה\"ב - לא רק בגלל הריבית. זה לחץ שמורגש גם באירופה וגם בשווקים המתעוררים. לא רק סיפור אמריקאי.",
+      "importance": 9,
       "topics": [
-        "פוליטיקה",
-        "חיסכון",
-        "תינוקות"
+        "פד",
+        "אינפלציה",
+        "שוק עבודה"
       ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Valley National buys Israeli fintech co Bluevine for $340m",
-      "source": "גלובס שוק ההון",
-      "url": "https://www.globes.co.il/en/article-1001557736",
-      "summary": "Valley National רוכשת את Bluevine הישראלית תמורת 340 מיליון דולר - אחת העסקאות הגדולות השנה בפינטק ישראלי.\n\nBluevine בנתה פלטפורמת בנקאות דיגיטלית לעסקים קטנים בארה\"ב, ועכשיו בנק אמריקאי מסורתי מחליט שעדיף לקנות מאשר לבנות בעצמו. זה מספר הרבה על הקושי של הבנקים הוותיקים להתחרות בחוויית המשתמש שחברות הפינטק מציעות.\n\nמעניין לשים לב: הרכישה יכולה ללחוץ על מתחרות כמו Relay ו-Mercury לזוז מהר יותר.",
-      "importance": 8,
-      "topics": [
-        "פינטק",
-        "מיזוגים ורכישות",
-        "עסקים קטנים"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "Elon Musk confirms TSMC and Terafab are in talks over potential chip manufacturing cooperation in Texas, including TSMC potentially using Terafab as an anchor customer for a future Texas fab. https://t.co/tid75FjYLD",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "TSMC ו-Terafab של מאסק נמצאות במשא ומתן על שיתוף פעולה בייצור שבבים בטקסס - כשהרעיון הוא ש-TSMC תשתמש ב-Terafab כלקוח עוגן למפעל עתידי. זה לא עסקה סגורה, אבל אם זה יקרה - מדובר בהסדר שמשנה את כללי המשחק.\n\nהצד המעניין: מפעל כזה ייצור ביקוש ישיר לציוד ייצור שבבים - חברות כמו ASML ו-Applied Materials יושפעו. גם ספקיות חשמל ותשתיות בטקסס נכנסות לתמונה. המהלך ממשיך את הסיפור הגדול של החזרת ייצור שבבים לאדמת אמריקה.",
-      "importance": 8,
-      "topics": [
-        "צ'יפים",
-        "תשתיות",
-        "TSMC"
-      ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
       "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
@@ -235,6 +171,71 @@
         "בינה מלאכותית",
         "הון הון",
         "הונג קונג"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Iraq Shifts Oil Strategy by Arranging Tanker to Move Past Hormuz",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-04/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz",
+      "summary": "עיראק שולחת ספינת נפט ענקית עם 2 מיליון חביות מחוץ למיצר הורמוז - זה לא עוד מכירה רגילה, זה שינוי אסטרטגי. עד עכשיו רוב הנפט העיראקי עבר דרך המפרץ הפרסי; עכשיו עיראק מתחילה לנתב מסלולים עוקפים.\n\nלמה זה משנה? כי מיצר הורמוז הוא נקודת חנק שכל מתח עם איראן יכול לסגור אותה תוך שעות. מי שמרוויח מזה עכשיו - חברות הטנקרים שעובדות במסלולים ארוכים יותר, ונמלים שמחוץ למפרץ שיראו יותר תנועה.",
+      "importance": 8,
+      "topics": [
+        "נפט",
+        "שרשרת אספקה",
+        "התחרות גיאופוליטית"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+      "summary": "פרוטוקול ישיבת הפד מספטמבר מתפרסם השבוע, והשוק ממתין לו בעניין אמיתי.\n\nהסיבה: הריבית הריאלית - כלומר הריבית פחות אינפלציה - נמוכה בהרבה ממה שציפו. זה אומר שהמדיניות של הפד מרסנת פחות מהנראה, וייתכן שיש עוד העלאות בדרך.\n\nמי שכדאי לעקוב מקרוב? שוק האג\"ח, יזמי נדל\"ן, וכל עסק שמממן את עצמו בחוב - הם הראשונים שירגישו את זה.",
+      "importance": 8,
+      "topics": [
+        "פד",
+        "ריבית",
+        "מדיניות מוניטרית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "NVIDIA-backed Reflection is preparing to release a new open-weight AI model expected to compete with top Chinese 🇨🇳 models. Note: Reflection has signed major compute deals recently with Nebius and SpaceX. https://t.co/PWtHATzR0I",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2106737247274065925",
+      "summary": "חברת Reflection, שמגובה על ידי NVIDIA, מתכוונת לשחרר בקרוב מודל AI פתוח שמטרתו להתחרות ישירות במודלים הסיניים המובילים. מה שמעניין כאן הוא לא רק המודל עצמו - Reflection כבר חתמה על עסקאות תשתית גדולות עם Nebius ועם SpaceX. זו זרימת הון שווה לשים לב אליה: NVIDIA ממנת תחרות על שוק המודלים הפתוחים, וחברות תשתית ענן כמו Nebius נמצאות ממש במרכז.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "השקעה",
+        "תחרות טכנולוגיה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Paramount’s $52 Billion Debt Sale Shows How Higher Rates Are Biting Corporate America",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/paramounts-52-billion-debt-sale-shows-how-higher-rates-are-biting-corporate-america-aed59897?mod=rss_markets_main",
+      "summary": "פרמאונט גייסה 52 מיליארד דולר באג\"ח חברות - והריבית שהיא שילמה הייתה הגבוהה ביותר שראינו בדיל מהסוג הזה מזה שנים. זה לא סתם סיפור של חברת מדיה אחת שמתקשה - זה סימן לכך שעלויות החוב הקורפורטיבי עולות על פני כל הסקטורים. חברות שרגילות לגייס כסף זול עכשיו נאלצות לשלם הרבה יותר, מה שמכניס לחץ על רווחיות, תוכניות השקעה ואפילו על יציבות של חברות שנראות בריאות על פני השטח.",
+      "importance": 8,
+      "topics": [
+        "ריביות",
+        "חוב קורפוראטיבי",
+        "מימון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Schneider Electric is nearing a ~$20B deal to acquire $PTC, according to the FT. The deal could be announced as soon as Monday and would be Schneider’s largest acquisition ever. PTC currently has a market value of about $15.6B. PTC’s industrial software, including Creo, would https://t.co/dqAHmjxKQ4",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2106897673907540233",
+      "summary": "Schneider Electric קרובה לרכישת PTC תמורת כ-20 מיליארד דולר - פרמיה של כמעט 30% על שווי השוק הנוכחי שלה, שעומד על כ-15.6 מיליארד. זו תהיה הרכישה הגדולה ביותר בהיסטוריה של Schneider, וההכרזה עשויה להגיע כבר ביום שני.\n\nמה שמעניין פה זה לא רק העסקה עצמה - PTC מפתחת תוכנה תעשייתית כמו Creo, שמשמשת מהנדסים לתכנון מוצרים. השילוב עם מערכות הניהול האנרגטי של Schneider יכול לשנות איך מפעלים עובדים מקצה לקצה. כדאי גם לעקוב אחרי Siemens ו-Rockwell Automation - הם ישירות בקרוסהייר של הצעד הזה.",
+      "importance": 8,
+      "topics": [
+        "M&A",
+        "טכנולוגיה",
+        "תעשייה"
       ],
       "tag": "גלובלי"
     },
@@ -267,37 +268,11 @@
   ],
   "tech": [
     {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "importance": 7,
-      "topics": [
-        "OpenAI",
-        "AI",
-        "בטיחות"
-      ],
-      "published": "Sat, 03 Oct 2026 16:30:01 +0000"
-    },
-    {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
-      "importance": 7,
-      "topics": [
-        "OpenAI",
-        "AI",
-        "בטיחות"
-      ],
-      "published": "2026-10-03T10:31:56-04:00"
-    },
-    {
       "title": "עוד בכיר בצוות הבטיחות של OpenAI פורש עם אזהרה מהמצב",
       "source": "גיקטיים",
       "url": "https://www.geektime.co.il/former-openai-researcher-says-company-culture-is-broken/",
       "summary": "השבועות האחרונים מלווים בשיח בלתי פוסק על האטת מהירות הפיתוח של מודלי ה-AI עקב שורה של תקריות, כולל הפריצה ל-Hugging Face ע\"י סוכני OpenAI. לצד הקריאות הללו נחשפים עוד ועוד עובדים שעזבו את החברות על רקע טענות לטיפול לקוי בבטיחות של המודלים. עובד חדש כזה נחשף בסוף השבוע, שטוען כי \"התרבות ב-OpenAI שבורה\". להתנהל כמו […] The post עוד בכיר בצוות הבטיחות של OpenAI פורש עם אזהרה מהמצב appeared first on ",
-      "importance": 7,
+      "importance": 8,
       "topics": [
         "AI",
         "OpenAI",
@@ -306,68 +281,68 @@
       "published": "Sun, 04 Oct 2026 08:16:36 +0000"
     },
     {
-      "title": "בהשראת חתן פרס הנובל הישראלי: המודל החדש של יוצר ChatGPT הפך לוויראלי",
+      "title": "\"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/jev-is-the-new-ai-buzzword/",
-      "summary": "אנחנו רגילים שמודלי ה-AI שמשמשים אותנו היום מייצרים כמויות של טקסט, קוד, תמונות, וידאו ואפילו מוזיקה – רק תנו להם את הפרומפט הנכון (ומספיק טוקנים כמובן). מודל חדש עושה בדיוק את ההפך, ולא ייצר לכם מילה אחת או הזייה אחת. אז למה הוא בכל זאת הפך ללהיט מאז שהושק? \"כלאנו ברק בבקבוק, ועדיין הוא לא […] The post בהשראת חתן פרס הנובל הישראלי: המודל החדש של יוצר ChatGPT הפך לוויראלי appeared first on גיקטיים",
+      "url": "https://www.geektime.co.il/16-year-old-researcher-finds-microsoft-bug/",
+      "summary": "תארו לכם מצב שבו אתם בני 16, השעה 2 בלילה, ופתאום אתם מגלים שיש לכם גישה ל-17 טריליון שורות מידע של אחת מחברות הטכנולוגיה הגדולות בעולם. זה בדיוק מה שקרה להאקר צעיר שנעזר בבוט מבוסס AI כדי לחשוף חור אבטחה מביך במערכות של מיקרוסופט. אז איך הוא עשה את זה? ההורים ישנו, הגישה לדאטה-בייס נפתחה […] The post \"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס appeared first on גיקטיי",
       "importance": 7,
       "topics": [
-        "AI",
-        "OpenAI",
-        "מודלים"
+        "אבטחה סייבר",
+        "מיקרוסופט"
       ],
-      "published": "Sat, 03 Oct 2026 10:00:05 +0000"
+      "published": "Sun, 04 Oct 2026 16:02:01 +0000"
     },
     {
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
-      "importance": 6,
-      "topics": [
-        "רגולציה",
-        "פרטיות",
-        "מעקב"
-      ],
-      "published": "Sat, 03 Oct 2026 19:33:15 +0000"
-    },
-    {
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-      "importance": 6,
-      "topics": [
-        "AI",
-        "Meta",
-        "פרטיות"
-      ],
-      "published": "Sat, 03 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "מהשבוע תשלמו הרבה יותר לגוגל על Gemini Pro",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/google-will-charge-you-more-for-gemini-pro-models/",
-      "summary": "בתקופה האחרונה גוגל מוצאת את עצמה בעמדת נחיתות בתחום ה-AI. בזמן שמטא חוגגת על Muse, ב-OpenAI כבר משיקים את Dots לצד Astra ו-Sol החדשים, ואנת'רופיק שולטת על יותר מ-40 אחוז מהשוק הארגוני ואף קוראת לעצור את קצב הפיתוח (ובמקביל ממשיכה להשיק מודלים חזקים), נראה שבגוגל קופאים על השמרים ולוקחים את הזמן המתוק שלהם עם Gemini […] The post מהשבוע תשלמו הרבה יותר לגוגל על Gemini Pro appeared first on גיקטיים ",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
       "importance": 6,
       "topics": [
         "AI",
         "Google",
-        "Gemini"
+        "אבטחה"
       ],
-      "published": "Sun, 04 Oct 2026 06:51:11 +0000"
+      "published": "Sun, 04 Oct 2026 20:31:07 +0000"
     },
     {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]",
+      "importance": 6,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "Claude"
+      ],
+      "published": "2026-10-04T11:21:59-04:00"
+    },
+    {
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "importance": 6,
+      "topics": [
+        "Infrastructure",
+        "פדרלי",
+        "Data Centers"
+      ],
+      "published": "Sun, 04 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
       "importance": 5,
       "topics": [
-        "Amazon",
-        "מרכזי נתונים"
+        "AI",
+        "פוליטיקה",
+        "רגולציה"
       ],
-      "published": "Sat, 03 Oct 2026 18:43:57 +0000"
+      "published": "Sun, 04 Oct 2026 15:15:10 +0000"
     }
   ]
 }
