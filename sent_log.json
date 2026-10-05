@@ -906,7 +906,8 @@
     "19c95300a5def1fb": "2026-10-05T11:01:35.627602+00:00",
     "176a6b63be58502b": "2026-10-05T12:31:10.216958+00:00",
     "c9d2f0da48af6791": "2026-10-05T14:01:37.082668+00:00",
-    "902a2a1b898d5874": "2026-10-05T15:31:19.938507+00:00"
+    "902a2a1b898d5874": "2026-10-05T15:31:19.938507+00:00",
+    "57e8f17a04cb97e7": "2026-10-05T17:01:30.805124+00:00"
   },
   "messages": [
     {
@@ -13047,7 +13048,21 @@
         "נתונים",
         "אנרגיה"
       ]
+    },
+    {
+      "sent_at": "2026-10-05T17:01:30.805124+00:00",
+      "title": "Foxconn, Nvidia’s biggest server maker, reported Q3 revenue of $95.4B, up 47% YoY and above estimates, driven by AI server demand. September revenue rose 38%, and Foxconn expects AI-related operations to keep growing in Q4. https://t.co/mCl1PHZWXV",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107056020833079777",
+      "message": "Foxconn פרסמה תוצאות רבעון שלישי עם הכנסות של 95.4 מיליארד דולר - עלייה של 47% לעומת אשתקד, מעל כל התחזיות. הדלק? ביקוש לשרתי AI.\n\nזה לא רק חדשות טובות ל-Foxconn. כשיצרן השרתים הכי גדול של NVIDIA צומח בקצב כזה, זה אומר שהביקוש לתשתיות AI הוא אמיתי ולא מתקרר. מי שצריך לשים לב: ספקי חשמל, קירור למרכזי נתונים, וכל מי שיושב בשרשרת האספקה של מרכזי ענן.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "צ'יפים",
+        "ביקוש"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-05T15:30:27.460695+00:00"
+  "last_auto_run": "2026-10-05T17:00:40.341554+00:00"
 }
