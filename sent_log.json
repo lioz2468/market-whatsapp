@@ -898,7 +898,8 @@
     "f2c2b04c6b2365c2": "2026-10-04T14:01:08.397420+00:00",
     "ab2069634bf08734": "2026-10-04T15:31:19.567675+00:00",
     "2eee22bf5c5ba5a7": "2026-10-04T17:01:27.626441+00:00",
-    "1b4757c6857794ab": "2026-10-04T18:31:15.815208+00:00"
+    "1b4757c6857794ab": "2026-10-04T18:31:15.815208+00:00",
+    "290ca26ad5ca7a5a": "2026-10-05T05:01:07.586893+00:00"
   },
   "messages": [
     {
@@ -12925,7 +12926,21 @@
         "חוב קורפוראטיבי",
         "מימון"
       ]
+    },
+    {
+      "sent_at": "2026-10-05T05:01:07.586893+00:00",
+      "title": "Schneider Electric is nearing a ~$20B deal to acquire $PTC, according to the FT. The deal could be announced as soon as Monday and would be Schneider’s largest acquisition ever. PTC currently has a market value of about $15.6B. PTC’s industrial software, including Creo, would https://t.co/dqAHmjxKQ4",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2106897673907540233",
+      "message": "Schneider Electric קרובה לרכישת PTC תמורת כ-20 מיליארד דולר - פרמיה של כמעט 30% על שווי השוק הנוכחי שלה, שעומד על כ-15.6 מיליארד. זו תהיה הרכישה הגדולה ביותר בהיסטוריה של Schneider, וההכרזה עשויה להגיע כבר ביום שני.\n\nמה שמעניין פה זה לא רק העסקה עצמה - PTC מפתחת תוכנה תעשייתית כמו Creo, שמשמשת מהנדסים לתכנון מוצרים. השילוב עם מערכות הניהול האנרגטי של Schneider יכול לשנות איך מפעלים עובדים מקצה לקצה. כדאי גם לעקוב אחרי Siemens ו-Rockwell Automation - הם ישירות בקרוסהייר של הצעד הזה.",
+      "importance": 8,
+      "tag": "גלובלי",
+      "topics": [
+        "M&A",
+        "טכנולוגיה",
+        "תעשייה"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-04T18:30:30.500542+00:00"
+  "last_auto_run": "2026-10-05T05:00:33.932398+00:00"
 }
