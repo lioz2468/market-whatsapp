@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-05T05:45:06.314746+00:00",
+  "generated_at": "2026-10-05T10:15:29.026632+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "כל המפציצים האמריקניים פונו בבהילות מהבסיס הבריטי: \"איום איראני חדש\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/ry52w4gogl",
-      "summary": "שבוע אחרי התקרית ליד בסיס פיירפורד, הודיע הפנטגון כי מפציצי ה-B-1 שהוצבו בו ושימשו למתקפות על איראן במלחמה הוחזרו לבסיסי האם: \"יש לנו יכולת תקיפה גלובלית גם משטח ארה\"ב\". דיווח: \"נטשו בבהילות בעקבות מידע חדש\". 6 חשודים שנעצרו שוחררו בערבות. ישראל הזהירה גם את גרמניה",
+      "title": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
+      "summary": "Russia's jet-powered drones are targeting bridges in the Ukrainian capital, an escalation after more than a month of day-and-night strikes that have left Kyiv feeling almost like a frontline city.",
       "importance": 8,
       "topics": [
-        "אירן",
-        "ארה\"ב",
-        "ביטחון"
+        "אוקראינה",
+        "רוסיה",
+        "הסלמה צבאית"
       ],
-      "published": "Mon, 05 Oct 2026 00:42:23 +0300"
+      "published": "Mon, 05 Oct 2026 04:44:06 -0400"
     },
     {
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
       "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-      "importance": 7,
+      "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מלחמה"
+        "גיאופוליטיקה"
       ],
       "published": "Sun, 04 Oct 2026 12:09:04 GMT"
     },
@@ -33,104 +33,100 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
       "summary": "Brazil’s presidential election is heading to a run-off after Bolsonaro and Lula both fell short of the 50% needed to win",
+      "importance": 8,
+      "topics": [
+        "ברזיל",
+        "בחירות"
+      ],
+      "published": "Mon, 05 Oct 2026 05:08:23 +0000"
+    },
+    {
+      "title": "כל ההגנות קרסו: כך כשלו 3 מדינות בדרך לכמעט מגה-פיגוע בנתב\"ג",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/byrhmoejzx",
+      "summary": "עומאן זיהתה את ההקצנה אבל לא התריעה, האמירויות בדקה רק רקע פלילי, ישראל הייתה עיוורת מול הסכנה - ועכשיו גופי הפיקוח מתנערים מאחריות. מול כל מנגנוני ההגנה, הטייס-מחבל הצליח לטוס בקו הרגיש לנתב\"ג, שם לפי החקירה רצה להתרסק. כל תמרורי האזהרה - והצניחה הדרמטית שכמעט והסתיימה באסון, דקה אחר דקה",
+      "importance": 8,
+      "topics": [
+        "ביטחון ישראל",
+        "נתב\"ג",
+        "טרור"
+      ],
+      "published": "Mon, 05 Oct 2026 08:45:53 +0300"
+    },
+    {
+      "title": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "summary": "Now there are two: Brazil heads into a runoff after a first round that failed to fully energize voters, setting the stage for a more polarized contest that Washington is watching very closely.",
+      "importance": 7,
+      "topics": [
+        "ברזיל",
+        "בחירות",
+        "יחסים גיאופוליטיים"
+      ],
+      "published": "Sun, 04 Oct 2026 20:17:35 -0400"
+    },
+    {
+      "title": "Brazil votes, with Lula facing Bolsonaro's son",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+      "summary": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
       "importance": 7,
       "topics": [
         "ברזיל",
         "בחירות",
         "פוליטיקה"
       ],
-      "published": "Mon, 05 Oct 2026 05:08:23 +0000"
+      "published": "Sun, 04 Oct 2026 17:52:09 -0400"
     },
     {
-      "title": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
-      "summary": "A California woman allegedly sent photos and videos of President Lai's son and his family to Chinese officials.",
-      "importance": 7,
-      "topics": [
-        "סין",
-        "תאיוואן",
-        "מודיעין"
-      ],
-      "published": "Mon, 05 Oct 2026 04:13:20 +0000"
-    },
-    {
-      "title": "Yemen gov’t forces commence major combat operation against Houthis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss",
-      "summary": "Yemeni government forces have declared a ‘battle for liberation’ to retake remaining territory held by the Houthis.",
-      "importance": 7,
-      "topics": [
-        "ימן",
-        "חוסיים",
-        "קונפליקט"
-      ],
-      "published": "Mon, 05 Oct 2026 03:11:03 +0000"
-    },
-    {
-      "title": "Brazil’s presidential race: Three key takeaways from the first round",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round?traffic_source=rss",
-      "summary": "Flavio Bolsonaro beat polling expectations as Brazil’s right gained ground, setting up October 25 run-off with Lula.",
-      "importance": 7,
-      "topics": [
-        "ברזיל",
-        "בחירות",
-        "דרום אמריקה"
-      ],
-      "published": "Mon, 05 Oct 2026 01:55:50 +0000"
-    },
-    {
-      "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
-      "summary": "The capture of Tigray’s regional capital revives fears of another prolonged conflict, displacement and crisis.",
-      "importance": 7,
-      "topics": [
-        "אתיופיה",
-        "טיגריי",
-        "קונפליקט"
-      ],
-      "published": "Mon, 05 Oct 2026 01:03:54 +0000"
-    },
-    {
-      "title": "שלוש שנים אחרי: חמאס עדיין בעזה, וההכרעה רחוקה | תמונת מצב",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14916685",
-      "summary": "חרף הסיכולים הממוקדים של צה\"ל והשליטה שלו ביותר מ-60% מהרצועה, חמאס עדיין שולט בשטח גם 3 שנים אחרי הטבח והמחדל. בהיעדר תוכנית מדינית לעתיד עזה, במערכת הביטחון מודים: אין פתרון להשתלטות ארגון הטרור על משאיות הסיוע, שנכנסות באישור ישראלי. בכירים בצבא מבהירים: לא נוותר על פירוז מלא",
-      "importance": 7,
-      "topics": [
-        "עזה",
-        "חמאס",
-        "ביטחון"
-      ],
-      "published": "Mon, 05 Oct 2026 06:15:05 +0300"
-    },
-    {
-      "title": "מחכים לבחירות: לארצות הברית נמאס מאלימות המתנחלים",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/theheadline/article/ml1wqrlvv",
-      "summary": "עוד סוף שבוע אלים ביהודה ושומרון עם דיווחים רבים על אלימות במספר מוקדים ביהודה ושומרון. נתניהו מתעקש שמדובר בקומץ, אבל גם בממשל שהתקרב לישראל במלחמה האחרונה כבר מעבירים אזהרות ומפסיקים להאמין לו. עו\"ד עידו דמבין, מומחה לפוליטיקה אמריקנית וליחסי ישראל-ארה\"ב, מסביר מה עומד מאחורי השינוי בוושינגטון ואיך הוא קשור לבחירות גם כאן, וגם שם",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "ארה\"ב",
-        "יהודה ושומרון"
-      ],
-      "published": "Mon, 05 Oct 2026 05:00:00 +0300"
-    },
-    {
-      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+      "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
-      "importance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+      "importance": 7,
       "topics": [
-        "פקיסטן",
-        "פוליטיקה",
-        "הפגנות"
+        "מדע",
+        "רפואה",
+        "פרס נובל"
       ],
-      "published": "Mon, 05 Oct 2026 05:28:46 GMT"
+      "published": "Mon, 05 Oct 2026 10:10:27 GMT"
+    },
+    {
+      "title": "All six passengers presumed dead after plane went missing off US coast",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "importance": 7,
+      "topics": [
+        "תאונה",
+        "ארצות הברית"
+      ],
+      "published": "Mon, 05 Oct 2026 04:00:35 GMT"
+    },
+    {
+      "title": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis?traffic_source=rss",
+      "summary": "Spanish Prime Minister Pedro Sanchez has called a snap election for November 29.",
+      "importance": 7,
+      "topics": [
+        "ספרד",
+        "פוליטיקה"
+      ],
+      "published": "Mon, 05 Oct 2026 08:55:21 +0000"
+    },
+    {
+      "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+      "summary": "IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.",
+      "importance": 7,
+      "topics": [
+        "נפט",
+        "מזרח תיכון"
+      ],
+      "published": "Mon, 05 Oct 2026 05:20:57 +0000"
     }
   ],
   "business": [
@@ -158,19 +154,6 @@
         "פד",
         "אינפלציה",
         "שוק עבודה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer",
-      "summary": "הגיוסי הון בהונג קונג שברו שיא בקיץ הזה - בנקאים ויתרו על החופשה כי הביקוש פשוט לא הפסיק. הדלק: AI. חברות שמחפשות מימון לתשתיות ומיזמים בתחום הבינה המלאכותית שטפו את השוק בהנפקות, גם בזמן שמניות הונג קונג עצמן ירדו חדות.\n\nזה מעניין כי זה מראה שהכסף הגדול מסתכל קדימה, לא על הנתונים של היום. ומי שצריך לשים לב? חברות ישראליות שחושבות על גיוסי הון בחו\"ל - המזרח הרחוק הפך לשחקן רציני לצד וול סטריט.",
-      "importance": 8,
-      "topics": [
-        "בינה מלאכותית",
-        "הון הון",
-        "הונג קונג"
       ],
       "tag": "גלובלי"
     },
@@ -240,45 +223,60 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Competition Authority puts Discount Bank’s Cal sale in doubt",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "רשות התחרות מסבכת את העסקה של בנק דיסקונט על Cal - והדרישה שלה מעניינת: משפחת הורש, שרוצה לרכוש את Cal, תצטרך למכור את Super-Pharm אם תרצה להמשיך בעסקה. הרציונל הוא חשש מריכוזיות - לאותה משפחה יהיה שליטה גם על כרטיסי אשראי וגם על רשת קמעונאית גדולה. שווה לשים לב: אם העסקה תיפול, בנק דיסקונט יצטרך למצוא קונה אחר ל-Cal, מה שיכול להשפיע על לוחות הזמנים ועל מחיר המניה.",
-      "importance": 7,
+      "title": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
+      "summary": "חברות יפניות עוזבות את סין בקצב שיא - זה לא טריוויאלי.\n\nהרקע: שילוב של יחסים דיפלומטיים קפואים וכלכלה סינית שממשיכה להאט דוחף עסקים יפניים לבחון מחדש את הנוכחות שלהם שם. מה שמעניין הוא שיפן הייתה מהשחקנים הכי מחויבים לשוק הסיני - אם גם הם עוזבים, זה אומר משהו.\n\nההשפעה הרחבה: נסיגה יפנית מסין מזיזה שרשראות אספקה שלמות - לטובת וייטנאם, אינדונזיה ושאר מדינות דרום-מזרח אסיה. עבור חברות שמחפשות לגוון ייצור מחוץ לסין, זה מוסיף עוד אישור לכיוון שכבר נראה בלתי הפיך.",
+      "importance": 8,
       "topics": [
-        "בנקאות",
-        "תחרות",
-        "רגולציה"
+        "סין",
+        "שרשרת אספקה",
+        "גיאופוליטיקה"
       ],
-      "tag": "ישראל"
+      "tag": "גלובלי"
     },
     {
-      "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
-      "summary": "טראמפ מינה את ג'יי קלייטון - ראש הגוף לביון לאומי - לתפקיד \"ממונה ה-AI\" של הממשל. זה הסיגנל הראשון הרציני שהממשל מתחיל לגבש מדיניות AI ברמה הלאומית, ולא רק מדבר עליה.\n\nמה שמעניין כאן: קלייטון הוא איש פיננסים ורגולציה, לא טכנולוגיה. זה אומר שהפוקוס יהיה כנראה על שליטה, ביטחון לאומי וזרימת השקעות - ופחות על עידוד חדשנות. כדאי לשים לב מה זה אומר לחברות AI הפועלות מחוץ לארה\"ב.",
-      "importance": 7,
+      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
+      "summary": "שניידר אלקטריק רוכשת חברת תוכנה תעשייתית תמורת 23 מיליארד דולר - ולפי הדיווחים, המחיר הוא הנמוך ביותר לחברה כזו בעשור האחרון.\n\nשניידר היא אחת מהמרוויחות הגדולות מבום ה-AI - היא מוכרת את הציוד החשמלי שמריץ מרכזי נתונים. ועכשיו היא משתמשת בכסף הזה כדי לקנות שחקן בתחום תוכנת התכנון התעשייתי שנמצא בלחץ.\n\nפה יש סיפור מעניין: חברות שמשרתות את תשתיות ה-AI עכשיו בולעות חברות תוכנה שלא עמדו בקצב - ובמחירים שלפני שנתיים היו נשמעים בלתי אפשריים.",
+      "importance": 8,
       "topics": [
         "AI",
-        "פוליטיקה רגולטורית",
-        "טכנולוגיה"
+        "M&A",
+        "אנרגיה תעשייתית",
+        "ריכוז שוק"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+      "summary": "תשואות האג\"ח האמריקאיות ממשיכות לעלות - וזה מביך את שר האוצר בסנט. לפני חודש הוא הכריז בביטחון \"I am the house\" - כלומר שהאוצר שולט במצב. השוק לא ממש שיתף פעולה, והתשואות המשיכו לטפס. עכשיו הוא חוזר בו מהניסוח הזה בראיון לאקסיוס.\n\nלמה זה חשוב גם למי שלא מחזיק אג\"ח: תשואות גבוהות יותר על חוב ממשלתי אמריקאי מייקרות אשראי לכולם - משכנתאות, הלוואות עסקיות, ומימון גירעונות. כשאפילו שר האוצר לא מצליח לרסן את השוק עם הצהרות - זה סימן שהלחץ הפיסקלי שם הוא אמיתי.",
+      "importance": 8,
+      "topics": [
+        "בונדים",
+        "פיסקל",
+        "הד\"מ",
+        "ריבית"
       ],
       "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "עוד בכיר בצוות הבטיחות של OpenAI פורש עם אזהרה מהמצב",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/former-openai-researcher-says-company-culture-is-broken/",
-      "summary": "השבועות האחרונים מלווים בשיח בלתי פוסק על האטת מהירות הפיתוח של מודלי ה-AI עקב שורה של תקריות, כולל הפריצה ל-Hugging Face ע\"י סוכני OpenAI. לצד הקריאות הללו נחשפים עוד ועוד עובדים שעזבו את החברות על רקע טענות לטיפול לקוי בבטיחות של המודלים. עובד חדש כזה נחשף בסוף השבוע, שטוען כי \"התרבות ב-OpenAI שבורה\". להתנהל כמו […] The post עוד בכיר בצוות הבטיחות של OpenAI פורש עם אזהרה מהמצב appeared first on ",
-      "importance": 8,
+      "title": "Trump unveils his new Super Intelligence Force",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "importance": 7,
       "topics": [
         "AI",
-        "OpenAI",
-        "בטיחות"
+        "רגולציה",
+        "מדיניות"
       ],
-      "published": "Sun, 04 Oct 2026 08:16:36 +0000"
+      "published": "Sun, 04 Oct 2026 15:15:10 +0000"
     },
     {
       "title": "\"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס",
@@ -287,8 +285,9 @@
       "summary": "תארו לכם מצב שבו אתם בני 16, השעה 2 בלילה, ופתאום אתם מגלים שיש לכם גישה ל-17 טריליון שורות מידע של אחת מחברות הטכנולוגיה הגדולות בעולם. זה בדיוק מה שקרה להאקר צעיר שנעזר בבוט מבוסס AI כדי לחשוף חור אבטחה מביך במערכות של מיקרוסופט. אז איך הוא עשה את זה? ההורים ישנו, הגישה לדאטה-בייס נפתחה […] The post \"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס appeared first on גיקטיי",
       "importance": 7,
       "topics": [
-        "אבטחה סייבר",
-        "מיקרוסופט"
+        "Microsoft",
+        "אבטחה",
+        "פריצה"
       ],
       "published": "Sun, 04 Oct 2026 16:02:01 +0000"
     },
@@ -300,8 +299,8 @@
       "importance": 6,
       "topics": [
         "AI",
-        "Google",
-        "אבטחה"
+        "אבטחה",
+        "Google"
       ],
       "published": "Sun, 04 Oct 2026 20:31:07 +0000"
     },
@@ -314,35 +313,34 @@
       "topics": [
         "AI",
         "OpenAI",
-        "Claude"
+        "מחקר"
       ],
       "published": "2026-10-04T11:21:59-04:00"
     },
     {
-      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "title": "A Prediction Market About the Past? Sure, Why Not!",
       "source": "Wired",
-      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-      "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "url": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
+      "summary": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
       "importance": 6,
       "topics": [
-        "Infrastructure",
-        "פדרלי",
-        "Data Centers"
+        "פינטק",
+        "שוקי תחזוקות"
       ],
-      "published": "Sun, 04 Oct 2026 10:00:00 +0000"
+      "published": "Mon, 05 Oct 2026 09:30:00 +0000"
     },
     {
-      "title": "Trump unveils his new Super Intelligence Force",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "importance": 5,
+      "title": "אחרי החודש הראשון בתפקיד נראה שג'ון טרנוס הוא ממש לא טים קוק",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/john-ternus-is-not-tim-cook/",
+      "summary": "רק חודש עבר מאז שטים קוק פרש מתפקידו באופן רשמי כמנכ\"ל Apple, ולנעליו נכנס מחליפו, ג'ון טרנוס. מאז הספקנו לראות אותו מבצע הופעת בכורה בתפקיד החדש כאירוע השקת ה-iPhone 18 Pro וגם בכמה ראיונות לתקשורת. כעת מתחילים לדלוף דיווחים ראשונים על דרך ההתנהלות שלו מאחורי הקלעים, ומתברר שטרנוס ממש לא מתכנן להיות \"טים קוק 2.0\" […] The post אחרי החודש הראשון בתפקיד נראה שג'ון טרנוס הוא ממש לא טים קוק appeared f",
+      "importance": 6,
       "topics": [
-        "AI",
-        "פוליטיקה",
-        "רגולציה"
+        "Apple",
+        "שינוי הנהלה",
+        "ממנהיגות"
       ],
-      "published": "Sun, 04 Oct 2026 15:15:10 +0000"
+      "published": "Mon, 05 Oct 2026 07:44:05 +0000"
     }
   ]
 }
