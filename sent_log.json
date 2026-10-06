@@ -911,7 +911,8 @@
     "ba93bb32cd5f7c23": "2026-10-05T18:31:24.512775+00:00",
     "10b75eb51b3a6c85": "2026-10-06T05:00:34.901352+00:00",
     "407e7856e68b5939": "2026-10-06T06:31:23.050078+00:00",
-    "7dd59d89c24609e9": "2026-10-06T08:01:24.094368+00:00"
+    "7dd59d89c24609e9": "2026-10-06T08:01:24.094368+00:00",
+    "2841348d3a320d3b": "2026-10-06T09:31:20.918130+00:00"
   },
   "messages": [
     {
@@ -13123,7 +13124,21 @@
         "Broadcom",
         "Anthropic"
       ]
+    },
+    {
+      "sent_at": "2026-10-06T09:31:20.918130+00:00",
+      "title": "About 80% of Anthropic’s planned $518B in cloud and compute spending over the next decade is non-cancelable or payable regardless of how much capacity it actually uses. https://t.co/Y4pAvO2SJT https://t.co/VYqWxO9HyE",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107357687918801360",
+      "message": "כ-415 מיליארד דולר מתוך תכנית ההוצאות של Anthropic על ענן ומחשוב - סכום שמגיע בסך הכול ל-518 מיליארד לעשור הקרוב - הם התחייבויות שלא ניתן לבטל, בין אם ישתמשו בקיבולת ובין אם לא.\n\nזה לא רק מספר גדול. זה אומר שה-hyperscalers - AWS, Google Cloud ואחרות - כבר נעולים על הכנסות ענק לשנים קדימה, גם בתרחיש שבו AI מאכזב. עבור יצרני השבבים וספקיות התשתית, זה אותו סיפור - הביקוש \"מאובטח\" ברמה שקשה לדמיין.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "ענן",
+        "השקעות"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-06T08:00:38.607613+00:00"
+  "last_auto_run": "2026-10-06T09:30:38.323603+00:00"
 }
