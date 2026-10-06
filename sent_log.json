@@ -909,7 +909,8 @@
     "902a2a1b898d5874": "2026-10-05T15:31:19.938507+00:00",
     "57e8f17a04cb97e7": "2026-10-05T17:01:30.805124+00:00",
     "ba93bb32cd5f7c23": "2026-10-05T18:31:24.512775+00:00",
-    "10b75eb51b3a6c85": "2026-10-06T05:00:34.901352+00:00"
+    "10b75eb51b3a6c85": "2026-10-06T05:00:34.901352+00:00",
+    "407e7856e68b5939": "2026-10-06T06:31:23.050078+00:00"
   },
   "messages": [
     {
@@ -13092,7 +13093,21 @@
         "רגולציה",
         "CFTC"
       ]
+    },
+    {
+      "sent_at": "2026-10-06T06:31:23.050078+00:00",
+      "title": "OPENAI IN TALKS WITH UAE FUNDS, BLACKROCK FOR $30B FUNDING ROUND AT ~$1.4T VALUATION: BBG OpenAI is in talks with several UAE investment funds, including Abu Dhabi-based MGX, to help anchor a new financing round of at least $30B. UAE investors have discussed contributing as https://t.co/QLkeg3SFLC",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107218141927592319",
+      "message": "OpenAI מגייסת לפחות 30 מיליארד דולר בסבב מימון חדש, לפי בלומברג, לפי שווי של כ-1.4 טריליון דולר. בין המשקיעים שנמצאים במשא ומתן: קרנות השקעה מאיחוד האמירויות, ביניהן MGX מאבו דאבי, ו-BlackRock.\n\nפה קורה משהו שחורג מעסקת מימון רגילה - כסף מדינתי מהמפרץ נכנס למרכז מרוץ ה-AI. זה אומר שלמדינות יש עניין אסטרטגי לא רק פיננסי, ובאופן עקיף - זה לחץ נוסף על מיקרוסופט, גוגל וגם על ממשלות המערב לבחון מחדש מי שולט על התשתיות הכי חשובות של העשור הקרוב.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "השקעות",
+        "גיאופוליטיקה"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-06T05:00:34.888225+00:00"
+  "last_auto_run": "2026-10-06T06:30:32.405328+00:00"
 }
