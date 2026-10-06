@@ -1,224 +1,174 @@
 {
-  "generated_at": "2026-10-05T10:15:29.026632+00:00",
+  "generated_at": "2026-10-06T05:45:02.880522+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
+      "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
-      "summary": "Russia's jet-powered drones are targeting bridges in the Ukrainian capital, an escalation after more than a month of day-and-night strikes that have left Kyiv feeling almost like a frontline city.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+      "summary": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "הסלמה צבאית"
+        "טכנולוגיה צבאית"
       ],
-      "published": "Mon, 05 Oct 2026 04:44:06 -0400"
+      "published": "Mon, 05 Oct 2026 08:33:20 -0400"
     },
     {
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+      "summary": "The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to speak publicly told NPR.",
       "importance": 8,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
+        "ישראל",
+        "טרור",
+        "אבטחה"
+      ],
+      "published": "Mon, 05 Oct 2026 06:53:46 -0400"
+    },
+    {
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+      "importance": 8,
+      "topics": [
+        "תימן",
+        "ים אדום",
         "גיאופוליטיקה"
       ],
-      "published": "Sun, 04 Oct 2026 12:09:04 GMT"
+      "published": "Tue, 06 Oct 2026 04:29:53 GMT"
     },
     {
-      "title": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
-      "summary": "Brazil’s presidential election is heading to a run-off after Bolsonaro and Lula both fell short of the 50% needed to win",
-      "importance": 8,
+      "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
+      "summary": "The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family.",
+      "importance": 7,
       "topics": [
-        "ברזיל",
+        "סין",
+        "טייוואן",
+        "ריגול"
+      ],
+      "published": "Mon, 05 Oct 2026 07:47:36 -0400"
+    },
+    {
+      "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+      "summary": "The Supreme Court is set to hear a blockbuster climate change case that could affect more than just climate issues. And, Brazil's presidential race is too close to call.",
+      "importance": 7,
+      "topics": [
+        "אקלים",
+        "בית משפט עליון",
         "בחירות"
       ],
-      "published": "Mon, 05 Oct 2026 05:08:23 +0000"
+      "published": "Mon, 05 Oct 2026 07:07:09 -0400"
     },
     {
-      "title": "כל ההגנות קרסו: כך כשלו 3 מדינות בדרך לכמעט מגה-פיגוע בנתב\"ג",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/byrhmoejzx",
-      "summary": "עומאן זיהתה את ההקצנה אבל לא התריעה, האמירויות בדקה רק רקע פלילי, ישראל הייתה עיוורת מול הסכנה - ועכשיו גופי הפיקוח מתנערים מאחריות. מול כל מנגנוני ההגנה, הטייס-מחבל הצליח לטוס בקו הרגיש לנתב\"ג, שם לפי החקירה רצה להתרסק. כל תמרורי האזהרה - והצניחה הדרמטית שכמעט והסתיימה באסון, דקה אחר דקה",
-      "importance": 8,
-      "topics": [
-        "ביטחון ישראל",
-        "נתב\"ג",
-        "טרור"
-      ],
-      "published": "Mon, 05 Oct 2026 08:45:53 +0300"
-    },
-    {
-      "title": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
-      "summary": "Now there are two: Brazil heads into a runoff after a first round that failed to fully energize voters, setting the stage for a more polarized contest that Washington is watching very closely.",
-      "importance": 7,
-      "topics": [
-        "ברזיל",
-        "בחירות",
-        "יחסים גיאופוליטיים"
-      ],
-      "published": "Sun, 04 Oct 2026 20:17:35 -0400"
-    },
-    {
-      "title": "Brazil votes, with Lula facing Bolsonaro's son",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
-      "summary": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
-      "importance": 7,
-      "topics": [
-        "ברזיל",
-        "בחירות",
-        "פוליטיקה"
-      ],
-      "published": "Sun, 04 Oct 2026 17:52:09 -0400"
-    },
-    {
-      "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+      "summary": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.",
       "importance": 7,
       "topics": [
         "מדע",
-        "רפואה",
-        "פרס נובל"
+        "פרס נובל",
+        "רפואה"
       ],
-      "published": "Mon, 05 Oct 2026 10:10:27 GMT"
+      "published": "Mon, 05 Oct 2026 06:11:33 -0400"
     },
     {
-      "title": "All six passengers presumed dead after plane went missing off US coast",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
       "importance": 7,
       "topics": [
-        "תאונה",
-        "ארצות הברית"
+        "ארצות הברית",
+        "בריטניה",
+        "ביטחון"
       ],
-      "published": "Mon, 05 Oct 2026 04:00:35 GMT"
+      "published": "Tue, 06 Oct 2026 04:25:22 GMT"
     },
     {
-      "title": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis?traffic_source=rss",
-      "summary": "Spanish Prime Minister Pedro Sanchez has called a snap election for November 29.",
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
       "importance": 7,
       "topics": [
-        "ספרד",
-        "פוליטיקה"
+        "קנדה",
+        "פוליטיקה",
+        "בחירות"
       ],
-      "published": "Mon, 05 Oct 2026 08:55:21 +0000"
+      "published": "Tue, 06 Oct 2026 02:37:46 GMT"
     },
     {
-      "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
-      "summary": "IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.",
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
       "importance": 7,
       "topics": [
-        "נפט",
-        "מזרח תיכון"
+        "רוסיה",
+        "ארה״ב",
+        "ביטחון"
       ],
-      "published": "Mon, 05 Oct 2026 05:20:57 +0000"
+      "published": "Mon, 05 Oct 2026 21:33:49 GMT"
+    },
+    {
+      "title": "A simple guide to the US midterms",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+      "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
+      "importance": 7,
+      "topics": [
+        "ארצות הברית",
+        "בחירות"
+      ],
+      "published": "Mon, 05 Oct 2026 23:40:58 GMT"
     }
   ],
   "business": [
     {
-      "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-      "summary": "ספינות נוספות הותקפו במפרץ הפרסי, ואיראן הבהירה את התנאים שלה לפתיחה מחדש של מצר הורמוז - הפסקת \"מעשי התוקפנות\" האמריקאיים, סיום הסגר הימי והחזרת הנכסים האיראניים הקפואים.\n\nכ-20% מסחר הנפט העולמי עובר דרך המצר הזה. סגירה אפילו חלקית תשפיע לא רק על מחירי הנפט - גם ספנות, ביטוח ימי, ותעשיות שתלויות בשרשרת האספקה של המפרץ יחטפו מכה. שווה לעקוב.",
-      "importance": 9,
-      "topics": [
-        "ספקה גלובלית",
-        "אנרגיה",
-        "גיאופוליטיקה",
-        "מדרום תיכון"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Jobs Slow but Inflation Keeps Fed on Alert",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-04/jobs-slow-but-inflation-keeps-fed-on-alert-video",
-      "summary": "נתוני התעסוקה של ספטמבר יצאו חלשים יותר מהצפי - וזה נותן לפד מרחב נשימה להשאיר את הריבית יציבה באוקטובר. אבל האינפלציה עדיין לא נכנעת, ולכן עדיין יש סיכוי להעלאה נוספת בדצמבר או תחילת 2024.\n\nמה שפחות ברור: התשואות על אגרות החוב עולות גם בגלל גירעונות פיסקאליים גדולים בארה\"ב - לא רק בגלל הריבית. זה לחץ שמורגש גם באירופה וגם בשווקים המתעוררים. לא רק סיפור אמריקאי.",
-      "importance": 9,
-      "topics": [
-        "פד",
-        "אינפלציה",
-        "שוק עבודה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Iraq Shifts Oil Strategy by Arranging Tanker to Move Past Hormuz",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-04/iraq-shifts-oil-strategy-by-arranging-tanker-to-move-past-hormuz",
-      "summary": "עיראק שולחת ספינת נפט ענקית עם 2 מיליון חביות מחוץ למיצר הורמוז - זה לא עוד מכירה רגילה, זה שינוי אסטרטגי. עד עכשיו רוב הנפט העיראקי עבר דרך המפרץ הפרסי; עכשיו עיראק מתחילה לנתב מסלולים עוקפים.\n\nלמה זה משנה? כי מיצר הורמוז הוא נקודת חנק שכל מתח עם איראן יכול לסגור אותה תוך שעות. מי שמרוויח מזה עכשיו - חברות הטנקרים שעובדות במסלולים ארוכים יותר, ונמלים שמחוץ למפרץ שיראו יותר תנועה.",
-      "importance": 8,
-      "topics": [
-        "נפט",
-        "שרשרת אספקה",
-        "התחרות גיאופוליטית"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
-      "summary": "פרוטוקול ישיבת הפד מספטמבר מתפרסם השבוע, והשוק ממתין לו בעניין אמיתי.\n\nהסיבה: הריבית הריאלית - כלומר הריבית פחות אינפלציה - נמוכה בהרבה ממה שציפו. זה אומר שהמדיניות של הפד מרסנת פחות מהנראה, וייתכן שיש עוד העלאות בדרך.\n\nמי שכדאי לעקוב מקרוב? שוק האג\"ח, יזמי נדל\"ן, וכל עסק שמממן את עצמו בחוב - הם הראשונים שירגישו את זה.",
-      "importance": 8,
-      "topics": [
-        "פד",
-        "ריבית",
-        "מדיניות מוניטרית"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "NVIDIA-backed Reflection is preparing to release a new open-weight AI model expected to compete with top Chinese 🇨🇳 models. Note: Reflection has signed major compute deals recently with Nebius and SpaceX. https://t.co/PWtHATzR0I",
+      "title": "Aramco CEO Amin Nasser says nearly 3B barrels of oil supply have been lost, about half of what would normally move through Hormuz, and emergency reserves \"may buy us a winter.\"",
       "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2106737247274065925",
-      "summary": "חברת Reflection, שמגובה על ידי NVIDIA, מתכוונת לשחרר בקרוב מודל AI פתוח שמטרתו להתחרות ישירות במודלים הסיניים המובילים. מה שמעניין כאן הוא לא רק המודל עצמו - Reflection כבר חתמה על עסקאות תשתית גדולות עם Nebius ועם SpaceX. זו זרימת הון שווה לשים לב אליה: NVIDIA ממנת תחרות על שוק המודלים הפתוחים, וחברות תשתית ענן כמו Nebius נמצאות ממש במרכז.",
-      "importance": 8,
+      "url": "https://twitter.com/wallstengine/status/2107054474649059824",
+      "summary": "מנכ\"ל ארמקו אמר אתמול שכמעט 3 מיליארד חביות נפט כבר נעלמו מהשוק - בערך חצי מהכמות שעוברת בדרך כלל במצר הורמוז. הרזרבות החירום של מדינות המערב, לדבריו, \"יכולות לתת לנו חורף אחד.\"\n\nזה מספר שווה לעצור עליו. לא מדובר בסיכון תיאורטי - ארמקו היא הספקית הגדולה בעולם, והמנכ\"ל שלה לא נוטה לדרמה. ההשפעה העקיפה שכדאי לשים לב אליה: תעשיות כמו פטרוכימיה, תחבורה אוויריות וייצור פלסטיק חשופות לא פחות ממחירי הדלק עצמם.",
+      "importance": 9,
+      "topics": [
+        "אנרגיה",
+        "נפט",
+        "היצע גלובלי"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Goldman Sachs expects U.S. 🇺🇸 data-center power demand to grow 38% in both 2026 and 2027, adding 12 GW and 17 GW, respectively. Updated year-end capacity forecasts: 2026: 64 GW, raised from 59 GW 2027: 90 GW, lowered from 95 GW",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107110283668078770",
+      "summary": "צריכת החשמל של מרכזי הנתונים בארה\"ב צפויה לגדול ב-38% בשנת 2026 וגם ב-2027, לפי תחזית עדכנית של Goldman Sachs. המספרים: 64 גיגה-וואט בסוף 2026, ו-90 גיגה-וואט בסוף 2027.\n\nזה לא רק מספר טכני - מאחורי כל גיגה-וואט יש תחנות כוח, קווי הולכה, ציוד קירור וחוזי אנרגיה לעשר שנים. החברות שמספקות תשתיות חשמל, קירור ובנייה למרכזי נתונים נמצאות במרכז הסיפור הזה - לא פחות מ-NVIDIA.",
+      "importance": 9,
       "topics": [
         "AI",
-        "השקעה",
-        "תחרות טכנולוגיה"
+        "נתונים",
+        "אנרגיה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Paramount’s $52 Billion Debt Sale Shows How Higher Rates Are Biting Corporate America",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/paramounts-52-billion-debt-sale-shows-how-higher-rates-are-biting-corporate-america-aed59897?mod=rss_markets_main",
-      "summary": "פרמאונט גייסה 52 מיליארד דולר באג\"ח חברות - והריבית שהיא שילמה הייתה הגבוהה ביותר שראינו בדיל מהסוג הזה מזה שנים. זה לא סתם סיפור של חברת מדיה אחת שמתקשה - זה סימן לכך שעלויות החוב הקורפורטיבי עולות על פני כל הסקטורים. חברות שרגילות לגייס כסף זול עכשיו נאלצות לשלם הרבה יותר, מה שמכניס לחץ על רווחיות, תוכניות השקעה ואפילו על יציבות של חברות שנראות בריאות על פני השטח.",
-      "importance": 8,
-      "topics": [
-        "ריביות",
-        "חוב קורפוראטיבי",
-        "מימון"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Schneider Electric is nearing a ~$20B deal to acquire $PTC, according to the FT. The deal could be announced as soon as Monday and would be Schneider’s largest acquisition ever. PTC currently has a market value of about $15.6B. PTC’s industrial software, including Creo, would https://t.co/dqAHmjxKQ4",
+      "title": "Foxconn, Nvidia’s biggest server maker, reported Q3 revenue of $95.4B, up 47% YoY and above estimates, driven by AI server demand. September revenue rose 38%, and Foxconn expects AI-related operations to keep growing in Q4. https://t.co/mCl1PHZWXV",
       "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2106897673907540233",
-      "summary": "Schneider Electric קרובה לרכישת PTC תמורת כ-20 מיליארד דולר - פרמיה של כמעט 30% על שווי השוק הנוכחי שלה, שעומד על כ-15.6 מיליארד. זו תהיה הרכישה הגדולה ביותר בהיסטוריה של Schneider, וההכרזה עשויה להגיע כבר ביום שני.\n\nמה שמעניין פה זה לא רק העסקה עצמה - PTC מפתחת תוכנה תעשייתית כמו Creo, שמשמשת מהנדסים לתכנון מוצרים. השילוב עם מערכות הניהול האנרגטי של Schneider יכול לשנות איך מפעלים עובדים מקצה לקצה. כדאי גם לעקוב אחרי Siemens ו-Rockwell Automation - הם ישירות בקרוסהייר של הצעד הזה.",
-      "importance": 8,
+      "url": "https://twitter.com/wallstengine/status/2107056020833079777",
+      "summary": "Foxconn פרסמה תוצאות רבעון שלישי עם הכנסות של 95.4 מיליארד דולר - עלייה של 47% לעומת אשתקד, מעל כל התחזיות. הדלק? ביקוש לשרתי AI.\n\nזה לא רק חדשות טובות ל-Foxconn. כשיצרן השרתים הכי גדול של NVIDIA צומח בקצב כזה, זה אומר שהביקוש לתשתיות AI הוא אמיתי ולא מתקרר. מי שצריך לשים לב: ספקי חשמל, קירור למרכזי נתונים, וכל מי שיושב בשרשרת האספקה של מרכזי ענן.",
+      "importance": 9,
       "topics": [
-        "M&A",
-        "טכנולוגיה",
-        "תעשייה"
+        "AI",
+        "צ'יפים",
+        "ביקוש"
       ],
       "tag": "גלובלי"
     },
@@ -262,85 +212,163 @@
         "ריבית"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+      "summary": "מניית Intel ירדה כמה אחוזים ביום שני אחרי דיווחים ש-TSMC עשויה להצטרף לפרויקט \"Terafab\" של אילון מאסק - מפעל שבבים ענק שהוא מקים.\n\nהלוגיק פשוט: אם TSMC בונה עם מאסק, היא פחות זמינה לאחרים - ו-Intel, שמנסה לחזור לתחרות בייצור שבבים, מוצאת את עצמה בצרה כפולה. גם לא מקבלת את ה-capacity וגם מתמודדת עם מתחרה חדש בחסות מאסק.\n\nשווה לשים לב: חברות שתלויות ב-TSMC לייצור - כמו AMD ו-NVIDIA - גם הן עלולות להרגיש את זה בטווח הארוך.",
+      "importance": 8,
+      "topics": [
+        "שבבים",
+        "טסלה",
+        "TSMC"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Schneider Expands in AI With Record $23 Billion Acquisition",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
+      "summary": "רכישה של 22.6 מיליארד דולר - Schneider Electric רוכשת את PTC, חברת התוכנה התעשייתית, בעסקה הגדולה ביותר בתולדותיה.\n\nלמה זה מעניין: Schneider היא ענקית תשתיות - חשמל, ניהול אנרגיה, מרכזי נתונים. היא כבר שם כשבונים מרכזי AI. עכשיו היא מוסיפה לזה שכבת תוכנה תעשייתית שמחברת בין עולם הייצור הפיזי לדיגיטל.\n\nמי עוד יושפע: חברות כמו Siemens ו-Rockwell Automation יצטרכו להגיב - התחרות על שוק התוכנה התעשייתית עכשיו רותחת.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "M&A",
+        "תעשייה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
+      "summary": "670 בנקים נסגרו בסין בשנה האחרונה - רובם בנקים כפריים קטנים - במסגרת מהלך מכוון של בייג'ינג לצמצם את מספר הבנקים ולחזק את שאר המערכת הפיננסית.\n\nזה לא רק ניקוי פנימי. כשסין מרכזת את המערכת הבנקאית שלה, זה אומר פחות סיכון מקומי אבל גם פחות אשראי לעסקים קטנים באזורים הפריפריאליים - שזה בדיוק הדלק של הצמיחה הכפרית בסין. המי שייתן לה אשראי במקומם?",
+      "importance": 8,
+      "topics": [
+        "רגולציה",
+        "סין",
+        "מערכת בנקאית"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "CFTC Proposes Registering Crypto Exchanges Offering Leverage",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "הרגולטור האמריקאי על חוזים עתידיים (CFTC) הציע שבוע שעבר לרשום בורסות קריפטו שמציעות מינוף - וזה שינוי משמעותי. הרקע: הקונגרס חסם חקיקה לפני כחודש, אז ה-CFTC החליט לנוע בכוחות עצמו עם הסמכויות הקיימות שלו.\n\nמה זה אומר בפועל? בורסות כמו Binance ו-Coinbase יצטרכו לעמוד בדרישות דיווח ופיקוח הרבה יותר קפדניות. ההשפעה העקיפה שפחות מדברים עליה: חברות שמספקות תשתית לבורסות האלה - אבטחה, ציות רגולטורי, ביקורת - עשויות להיות מהמנצחות הגדולות כאן.",
+      "importance": 8,
+      "topics": [
+        "קריפטו",
+        "רגולציה",
+        "CFTC"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Trump unveils his new Super Intelligence Force",
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "importance": 7,
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "importance": 8,
       "topics": [
         "AI",
-        "רגולציה",
-        "מדיניות"
+        "שבבים",
+        "גיוס הון"
       ],
-      "published": "Sun, 04 Oct 2026 15:15:10 +0000"
+      "published": "Mon, 05 Oct 2026 20:24:09 +0000"
     },
     {
-      "title": "\"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/16-year-old-researcher-finds-microsoft-bug/",
-      "summary": "תארו לכם מצב שבו אתם בני 16, השעה 2 בלילה, ופתאום אתם מגלים שיש לכם גישה ל-17 טריליון שורות מידע של אחת מחברות הטכנולוגיה הגדולות בעולם. זה בדיוק מה שקרה להאקר צעיר שנעזר בבוט מבוסס AI כדי לחשוף חור אבטחה מביך במערכות של מיקרוסופט. אז איך הוא עשה את זה? ההורים ישנו, הגישה לדאטה-בייס נפתחה […] The post \"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס appeared first on גיקטיי",
-      "importance": 7,
-      "topics": [
-        "Microsoft",
-        "אבטחה",
-        "פריצה"
-      ],
-      "published": "Sun, 04 Oct 2026 16:02:01 +0000"
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "importance": 6,
-      "topics": [
-        "AI",
-        "אבטחה",
-        "Google"
-      ],
-      "published": "Sun, 04 Oct 2026 20:31:07 +0000"
-    },
-    {
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "title": "All the drama around AI’s takeover of mathematics",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]",
-      "importance": 6,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, […]",
+      "importance": 8,
       "topics": [
         "AI",
         "OpenAI",
         "מחקר"
       ],
-      "published": "2026-10-04T11:21:59-04:00"
+      "published": "2026-10-05T15:28:59-04:00"
     },
     {
-      "title": "A Prediction Market About the Past? Sure, Why Not!",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
-      "summary": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
-      "importance": 6,
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "importance": 7,
       "topics": [
-        "פינטק",
-        "שוקי תחזוקות"
+        "AI",
+        "רגולציה",
+        "OpenAI"
       ],
-      "published": "Mon, 05 Oct 2026 09:30:00 +0000"
+      "published": "Mon, 05 Oct 2026 20:36:48 +0000"
     },
     {
-      "title": "אחרי החודש הראשון בתפקיד נראה שג'ון טרנוס הוא ממש לא טים קוק",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/john-ternus-is-not-tim-cook/",
-      "summary": "רק חודש עבר מאז שטים קוק פרש מתפקידו באופן רשמי כמנכ\"ל Apple, ולנעליו נכנס מחליפו, ג'ון טרנוס. מאז הספקנו לראות אותו מבצע הופעת בכורה בתפקיד החדש כאירוע השקת ה-iPhone 18 Pro וגם בכמה ראיונות לתקשורת. כעת מתחילים לדלוף דיווחים ראשונים על דרך ההתנהלות שלו מאחורי הקלעים, ומתברר שטרנוס ממש לא מתכנן להיות \"טים קוק 2.0\" […] The post אחרי החודש הראשון בתפקיד נראה שג'ון טרנוס הוא ממש לא טים קוק appeared f",
+      "title": "Hackers steal 8 million citizens’ records from Danish government database",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+      "summary": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+      "importance": 7,
+      "topics": [
+        "אבטחה סייבר",
+        "פרטיות"
+      ],
+      "published": "Mon, 05 Oct 2026 14:58:42 +0000"
+    },
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "אבטחה",
+        "פרוטוקול"
+      ],
+      "published": "Mon, 05 Oct 2026 22:26:35 +0000"
+    },
+    {
+      "title": "AI glasses face their first major government crackdown",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "רגולציה",
+        "פרטיות"
+      ],
+      "published": "Mon, 05 Oct 2026 13:39:30 +0000"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
       "importance": 6,
       "topics": [
-        "Apple",
-        "שינוי הנהלה",
-        "ממנהיגות"
+        "AI",
+        "מודלים שפה",
+        "תחרות גלובלית"
       ],
-      "published": "Mon, 05 Oct 2026 07:44:05 +0000"
+      "published": "Mon, 05 Oct 2026 19:33:53 +0000"
+    },
+    {
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundati",
+      "importance": 6,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "אתיקה"
+      ],
+      "published": "2026-10-05T15:05:19-04:00"
     }
   ]
 }
