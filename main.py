@@ -277,10 +277,11 @@ def _safety_filter(msg: str) -> tuple[bool, str]:
 
 # ── Sending ────────────────────────────────────────────────────────────────
 
-async def _send(messages: list[str], provider: str, skip_filter: bool = False) -> None:
+async def _send(messages: list[str], provider: str, skip_filter: bool = False) -> int:
+    """Send messages; returns how many were actually handed to the provider."""
     if not skip_filter and _is_shabbat():
         print(f"  {Fore.YELLOW}⛔ שבת — שליחה מושהית עד ראשון (שעון ישראל).{Style.RESET_ALL}")
-        return
+        return 0
 
     safe: list[str] = []
     for msg in messages:
@@ -294,7 +295,7 @@ async def _send(messages: list[str], provider: str, skip_filter: bool = False) -
             safe.append(msg)
 
     if not safe:
-        return
+        return 0
 
     if provider == "twilio":
         import whatsapp_twilio as wa
@@ -309,6 +310,7 @@ async def _send(messages: list[str], provider: str, skip_filter: bool = False) -
             print(f"  {Fore.GREEN}✓ Sent via Green API — id: {mid}{Style.RESET_ALL}")
     else:
         raise ValueError(f"Unknown provider: {provider}")
+    return len(safe)
 
 
 # ── Preview / display ──────────────────────────────────────────────────────
@@ -426,6 +428,13 @@ async def run(args: argparse.Namespace) -> None:
 
     try:
         # ── 1. Drain pending queue (one article per run) ─────────────────
+        if len(pending) and _safety_filter(_pending_to_result(pending.peek()).final_message)[0]:
+            # A queued message the send filter would block can never go out —
+            # drop it and fall through to a normal fetch instead of silently
+            # "sending" it (and logging it as sent) while nothing reaches WhatsApp.
+            dropped = pending.pop()
+            print(f"  {Fore.RED}✗ Dropped blocked pending article: {dropped.get('title', '')[:60]}{Style.RESET_ALL}")
+
         if len(pending):
             item   = pending.peek()
             result = _pending_to_result(item)
@@ -443,7 +452,11 @@ async def run(args: argparse.Namespace) -> None:
                 return
 
             print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
-            await _send([result.final_message], args.provider)
+            if await _send([result.final_message], args.provider) == 0:
+                print(f"\n  {Fore.RED}Nothing was sent — not logging it as sent.{Style.RESET_ALL}")
+                if is_scheduled:
+                    sent_log.rollback_auto_run(prev_last_auto)
+                return
             pending.pop()
             sent_log.mark_sent([result])
             remaining = len(pending)
@@ -564,9 +577,16 @@ async def run(args: argparse.Namespace) -> None:
                 )
                 await composer.compose_all([candidate])
             if candidate.final_message:
-                to_send = candidate
-                break
-            print(f"  {Fore.RED}✗ Retry failed — skipping article.{Style.RESET_ALL}")
+                # Check the send-time filter now, so a message it would block
+                # falls through to the next candidate instead of being
+                # silently dropped at send while still logged as sent.
+                blocked, reason = _safety_filter(candidate.final_message)
+                if not blocked:
+                    to_send = candidate
+                    break
+                print(f"  {Fore.RED}✗ Message would be blocked ({reason}) — skipping article.{Style.RESET_ALL}")
+            else:
+                print(f"  {Fore.RED}✗ Retry failed — skipping article.{Style.RESET_ALL}")
             failed_compose.append(candidate)
 
         if to_send is None:
@@ -586,7 +606,12 @@ async def run(args: argparse.Namespace) -> None:
 
         print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
         msg_to_send = ("עדכון: " + to_send.final_message) if force_update_prefix else to_send.final_message
-        await _send([msg_to_send], args.provider)      # single message, always
+        sent_count = await _send([msg_to_send], args.provider)      # single message, always
+        if sent_count == 0:
+            print(f"\n  {Fore.RED}Nothing was sent — not logging it as sent.{Style.RESET_ALL}")
+            if is_scheduled:
+                sent_log.rollback_auto_run(prev_last_auto)
+            return
         sent_log.mark_sent([to_send])
 
         if to_queue:
