@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-06T05:45:02.880522+00:00",
+  "generated_at": "2026-10-06T10:00:58.080371+00:00",
   "lookback_hours": 24,
   "world": [
-    {
-      "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
-      "summary": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "טכנולוגיה צבאית"
-      ],
-      "published": "Mon, 05 Oct 2026 08:33:20 -0400"
-    },
     {
       "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
       "source": "NPR World",
@@ -24,22 +11,35 @@
       "topics": [
         "ישראל",
         "טרור",
-        "אבטחה"
+        "בטיחות תעופה"
       ],
       "published": "Mon, 05 Oct 2026 06:53:46 -0400"
     },
     {
-      "title": "Yemeni military says it has 'secured' Red Sea waterway",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+      "summary": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.",
       "importance": 8,
       "topics": [
-        "תימן",
-        "ים אדום",
-        "גיאופוליטיקה"
+        "מדע",
+        "פרס נובל",
+        "רפואה"
       ],
-      "published": "Tue, 06 Oct 2026 04:29:53 GMT"
+      "published": "Mon, 05 Oct 2026 06:11:33 -0400"
+    },
+    {
+      "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+      "summary": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "דרונים"
+      ],
+      "published": "Mon, 05 Oct 2026 08:33:20 -0400"
     },
     {
       "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
@@ -49,7 +49,7 @@
       "importance": 7,
       "topics": [
         "סין",
-        "טייוואן",
+        "תאיוואן",
         "ריגול"
       ],
       "published": "Mon, 05 Oct 2026 07:47:36 -0400"
@@ -61,37 +61,24 @@
       "summary": "The Supreme Court is set to hear a blockbuster climate change case that could affect more than just climate issues. And, Brazil's presidential race is too close to call.",
       "importance": 7,
       "topics": [
+        "בחירות",
         "אקלים",
-        "בית משפט עליון",
-        "בחירות"
+        "ברזיל"
       ],
       "published": "Mon, 05 Oct 2026 07:07:09 -0400"
     },
     {
-      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
-      "summary": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.",
-      "importance": 7,
-      "topics": [
-        "מדע",
-        "פרס נובל",
-        "רפואה"
-      ],
-      "published": "Mon, 05 Oct 2026 06:11:33 -0400"
-    },
-    {
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
       "importance": 7,
       "topics": [
-        "ארצות הברית",
-        "בריטניה",
-        "ביטחון"
+        "אבולה",
+        "קניה",
+        "בריאות ציבורית"
       ],
-      "published": "Tue, 06 Oct 2026 04:25:22 GMT"
+      "published": "Tue, 06 Oct 2026 09:26:11 GMT"
     },
     {
       "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
@@ -101,10 +88,10 @@
       "importance": 7,
       "topics": [
         "קנדה",
-        "פוליטיקה",
+        "קוויבק",
         "בחירות"
       ],
-      "published": "Tue, 06 Oct 2026 02:37:46 GMT"
+      "published": "Tue, 06 Oct 2026 09:01:51 GMT"
     },
     {
       "title": "US 'watching closely' after plague researcher dies in Russia",
@@ -114,22 +101,36 @@
       "importance": 7,
       "topics": [
         "רוסיה",
-        "ארה״ב",
+        "ארצות הברית",
         "ביטחון"
       ],
-      "published": "Mon, 05 Oct 2026 21:33:49 GMT"
+      "published": "Tue, 06 Oct 2026 07:58:19 GMT"
     },
     {
-      "title": "A simple guide to the US midterms",
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
-      "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
       "importance": 7,
       "topics": [
-        "ארצות הברית",
-        "בחירות"
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
       ],
-      "published": "Mon, 05 Oct 2026 23:40:58 GMT"
+      "published": "Tue, 06 Oct 2026 09:48:37 GMT"
+    },
+    {
+      "title": "Palestine weekly: Olive harvest opens under assault",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault?traffic_source=rss",
+      "summary": "Israeli settlers and forces beat Palestinians, set property on fire and steal crops across the occupied West Bank.",
+      "importance": 7,
+      "topics": [
+        "פלסטינים",
+        "ישראל",
+        "גדה מערבית"
+      ],
+      "published": "Tue, 06 Oct 2026 09:22:09 +0000"
     }
   ],
   "business": [
@@ -173,45 +174,44 @@
       "tag": "גלובלי"
     },
     {
-      "title": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
-      "summary": "חברות יפניות עוזבות את סין בקצב שיא - זה לא טריוויאלי.\n\nהרקע: שילוב של יחסים דיפלומטיים קפואים וכלכלה סינית שממשיכה להאט דוחף עסקים יפניים לבחון מחדש את הנוכחות שלהם שם. מה שמעניין הוא שיפן הייתה מהשחקנים הכי מחויבים לשוק הסיני - אם גם הם עוזבים, זה אומר משהו.\n\nההשפעה הרחבה: נסיגה יפנית מסין מזיזה שרשראות אספקה שלמות - לטובת וייטנאם, אינדונזיה ושאר מדינות דרום-מזרח אסיה. עבור חברות שמחפשות לגוון ייצור מחוץ לסין, זה מוסיף עוד אישור לכיוון שכבר נראה בלתי הפיך.",
-      "importance": 8,
+      "title": "OPENAI IN TALKS WITH UAE FUNDS, BLACKROCK FOR $30B FUNDING ROUND AT ~$1.4T VALUATION: BBG OpenAI is in talks with several UAE investment funds, including Abu Dhabi-based MGX, to help anchor a new financing round of at least $30B. UAE investors have discussed contributing as https://t.co/QLkeg3SFLC",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107218141927592319",
+      "summary": "OpenAI מגייסת לפחות 30 מיליארד דולר בסבב מימון חדש, לפי בלומברג, לפי שווי של כ-1.4 טריליון דולר. בין המשקיעים שנמצאים במשא ומתן: קרנות השקעה מאיחוד האמירויות, ביניהן MGX מאבו דאבי, ו-BlackRock.\n\nפה קורה משהו שחורג מעסקת מימון רגילה - כסף מדינתי מהמפרץ נכנס למרכז מרוץ ה-AI. זה אומר שלמדינות יש עניין אסטרטגי לא רק פיננסי, ובאופן עקיף - זה לחץ נוסף על מיקרוסופט, גוגל וגם על ממשלות המערב לבחון מחדש מי שולט על התשתיות הכי חשובות של העשור הקרוב.",
+      "importance": 9,
       "topics": [
-        "סין",
-        "שרשרת אספקה",
+        "AI",
+        "השקעות",
         "גיאופוליטיקה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
-      "summary": "שניידר אלקטריק רוכשת חברת תוכנה תעשייתית תמורת 23 מיליארד דולר - ולפי הדיווחים, המחיר הוא הנמוך ביותר לחברה כזו בעשור האחרון.\n\nשניידר היא אחת מהמרוויחות הגדולות מבום ה-AI - היא מוכרת את הציוד החשמלי שמריץ מרכזי נתונים. ועכשיו היא משתמשת בכסף הזה כדי לקנות שחקן בתחום תוכנת התכנון התעשייתי שנמצא בלחץ.\n\nפה יש סיפור מעניין: חברות שמשרתות את תשתיות ה-AI עכשיו בולעות חברות תוכנה שלא עמדו בקצב - ובמחירים שלפני שנתיים היו נשמעים בלתי אפשריים.",
-      "importance": 8,
+      "title": "Bank of America, Citi and Morgan Stanley have begun syndicating a $60B debt package tied to Anthropic’s lease of Google-designed AI chips supplied through Broadcom $AVGO, the largest chip-financing deal to date. The financing includes: • $42B of senior secured debt supported https://t.co/8djhk7RFUB",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107215084217110554",
+      "summary": "עסקת מימון השבבים הגדולה בהיסטוריה - 60 מיליארד דולר - מגיעה מ-Bank of America, Citi ו-Morgan Stanley, ומיועדת לממן את השכרת שבבי ה-AI של Anthropic. השבבים מתוכננים על ידי Google ומסופקים דרך Broadcom.\n\nמה שמעניין פה: זה לא הון סיכון ולא מניות - זה חוב. הבנקים הגדולים מתחילים להתייחס לשבבי AI כנכס מספיק יציב כדי לגבות עליו אשראי בסדר גודל כזה. זה שינוי משמעותי באיך וול סטריט רואה את תשתיות ה-AI - ולחברות שמחכירות ציוד לחברות ענן, זה רוח גבית חזקה.",
+      "importance": 9,
       "topics": [
         "AI",
-        "M&A",
-        "אנרגיה תעשייתית",
-        "ריכוז שוק"
+        "מימון",
+        "Broadcom",
+        "Anthropic"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
-      "summary": "תשואות האג\"ח האמריקאיות ממשיכות לעלות - וזה מביך את שר האוצר בסנט. לפני חודש הוא הכריז בביטחון \"I am the house\" - כלומר שהאוצר שולט במצב. השוק לא ממש שיתף פעולה, והתשואות המשיכו לטפס. עכשיו הוא חוזר בו מהניסוח הזה בראיון לאקסיוס.\n\nלמה זה חשוב גם למי שלא מחזיק אג\"ח: תשואות גבוהות יותר על חוב ממשלתי אמריקאי מייקרות אשראי לכולם - משכנתאות, הלוואות עסקיות, ומימון גירעונות. כשאפילו שר האוצר לא מצליח לרסן את השוק עם הצהרות - זה סימן שהלחץ הפיסקלי שם הוא אמיתי.",
-      "importance": 8,
+      "title": "About 80% of Anthropic’s planned $518B in cloud and compute spending over the next decade is non-cancelable or payable regardless of how much capacity it actually uses. https://t.co/Y4pAvO2SJT https://t.co/VYqWxO9HyE",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107357687918801360",
+      "summary": "כ-415 מיליארד דולר מתוך תכנית ההוצאות של Anthropic על ענן ומחשוב - סכום שמגיע בסך הכול ל-518 מיליארד לעשור הקרוב - הם התחייבויות שלא ניתן לבטל, בין אם ישתמשו בקיבולת ובין אם לא.\n\nזה לא רק מספר גדול. זה אומר שה-hyperscalers - AWS, Google Cloud ואחרות - כבר נעולים על הכנסות ענק לשנים קדימה, גם בתרחיש שבו AI מאכזב. עבור יצרני השבבים וספקיות התשתית, זה אותו סיפור - הביקוש \"מאובטח\" ברמה שקשה לדמיין.",
+      "importance": 9,
       "topics": [
-        "בונדים",
-        "פיסקל",
-        "הד\"מ",
-        "ריבית"
+        "AI",
+        "ענן",
+        "השקעות"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
       "title": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
@@ -268,30 +268,17 @@
   ],
   "tech": [
     {
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "title": "Hackers steal 8 million citizens’ records from Danish government database",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+      "summary": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
       "importance": 8,
       "topics": [
-        "AI",
-        "שבבים",
-        "גיוס הון"
+        "סייבר",
+        "אבטחת מידע",
+        "פריצת אבטחה"
       ],
-      "published": "Mon, 05 Oct 2026 20:24:09 +0000"
-    },
-    {
-      "title": "All the drama around AI’s takeover of mathematics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, […]",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "מחקר"
-      ],
-      "published": "2026-10-05T15:28:59-04:00"
+      "published": "Mon, 05 Oct 2026 14:58:42 +0000"
     },
     {
       "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
@@ -307,16 +294,43 @@
       "published": "Mon, 05 Oct 2026 20:36:48 +0000"
     },
     {
-      "title": "Hackers steal 8 million citizens’ records from Danish government database",
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
-      "summary": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
       "importance": 7,
       "topics": [
-        "אבטחה סייבר",
-        "פרטיות"
+        "AI chips",
+        "השקעות",
+        "Etched"
       ],
-      "published": "Mon, 05 Oct 2026 14:58:42 +0000"
+      "published": "Mon, 05 Oct 2026 20:24:09 +0000"
+    },
+    {
+      "title": "All the drama around AI’s takeover of mathematics",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "published": "2026-10-05T15:28:59-04:00"
+    },
+    {
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundati",
+      "importance": 7,
+      "topics": [
+        "OpenAI",
+        "אבטחה",
+        "AI agents"
+      ],
+      "published": "2026-10-05T15:05:19-04:00"
     },
     {
       "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
@@ -327,22 +341,9 @@
       "topics": [
         "AI",
         "אבטחה",
-        "פרוטוקול"
+        "פרוטוקולים"
       ],
       "published": "Mon, 05 Oct 2026 22:26:35 +0000"
-    },
-    {
-      "title": "AI glasses face their first major government crackdown",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "רגולציה",
-        "פרטיות"
-      ],
-      "published": "Mon, 05 Oct 2026 13:39:30 +0000"
     },
     {
       "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
@@ -352,23 +353,23 @@
       "importance": 6,
       "topics": [
         "AI",
-        "מודלים שפה",
-        "תחרות גלובלית"
+        "מודלים",
+        "קוד פתוח"
       ],
       "published": "Mon, 05 Oct 2026 19:33:53 +0000"
     },
     {
-      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundati",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
       "importance": 6,
       "topics": [
-        "AI",
         "OpenAI",
-        "אתיקה"
+        "AI",
+        "מודל עסקי"
       ],
-      "published": "2026-10-05T15:05:19-04:00"
+      "published": "Mon, 05 Oct 2026 15:14:24 +0000"
     }
   ]
 }
