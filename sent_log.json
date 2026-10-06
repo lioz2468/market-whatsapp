@@ -917,7 +917,8 @@
     "15675b636c2d87f6": "2026-10-06T12:31:22.373212+00:00",
     "b34f695a64cb8900": "2026-10-06T14:01:39.301299+00:00",
     "ed6857ebe626691d": "2026-10-06T15:31:39.794405+00:00",
-    "43bf149185a6468c": "2026-10-06T17:02:23.404434+00:00"
+    "43bf149185a6468c": "2026-10-06T17:02:23.404434+00:00",
+    "7e97e6e86a04241b": "2026-10-06T18:31:44.670580+00:00"
   },
   "messages": [
     {
@@ -13215,7 +13216,21 @@
         "מאקרו",
         "טריפים"
       ]
+    },
+    {
+      "sent_at": "2026-10-06T18:31:44.670580+00:00",
+      "title": "AT&T $T IS forming a 50/50 fiber JV with BlackRock’s GIP and CPP Investments, combining the Lumen fiber assets it recently acquired with its existing Gigapower venture. The proceeds will help bring net debt/adjusted EBITDA to ~2.5x within roughly three years.",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107476491319775382",
+      "message": "AT&T מקימה מיזם משותף 50/50 עם BlackRock ו-CPP Investments לבניית תשתיות סיבים אופטיים בארה\"ב. הם משלבים את נכסי הסיבים שרכשו לאחרונה מ-Lumen עם הוונצ'ר הקיים שלהם, Gigapower. העסקה תעזור ל-AT&T להוריד את יחס החוב שלה לרמה בריאה יותר תוך כשלוש שנים.\n\nמה שמעניין פה: BlackRock ו-CPP לא משקיעות בטלקום - הן משקיעות בתשתיות. בדיוק כמו כבישים ונמלים. זה אומר שהמוסדיים הגדולים מהמרים שהסיבים הם הבסיס של הכלכלה הדיגיטלית הבאה.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "תשתיות",
+        "טלקום",
+        "השקעות מוסדיות"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-06T17:00:36.930742+00:00"
+  "last_auto_run": "2026-10-06T18:30:48.226124+00:00"
 }
