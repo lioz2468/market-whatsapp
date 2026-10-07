@@ -1,178 +1,139 @@
 {
-  "generated_at": "2026-10-06T10:00:58.080371+00:00",
+  "generated_at": "2026-10-07T05:45:16.529164+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
-      "summary": "The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to speak publicly told NPR.",
-      "importance": 8,
+      "title": "Three years of Israel’s genocide in Gaza: In numbers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
+      "summary": "Three years of attacks has devastated Gaza, killing tens of thousands, destroying homes, and collapsing basic services.",
+      "importance": 9,
       "topics": [
         "ישראל",
-        "טרור",
-        "בטיחות תעופה"
+        "עזה",
+        "קונפליקט"
       ],
-      "published": "Mon, 05 Oct 2026 06:53:46 -0400"
+      "published": "Wed, 07 Oct 2026 05:02:04 +0000"
     },
     {
-      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
-      "summary": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
+      "summary": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
       "importance": 8,
       "topics": [
         "מדע",
-        "פרס נובל",
-        "רפואה"
+        "פיזיקה",
+        "פרס נובל"
       ],
-      "published": "Mon, 05 Oct 2026 06:11:33 -0400"
+      "published": "Tue, 06 Oct 2026 06:16:28 -0400"
     },
     {
-      "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
+      "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
-      "summary": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets",
+      "summary": "A former head of Germany 's foreign intelligence service was arrested on suspicion that he had passed state secrets to a foreign intelligence service, the federal prosecutor's office said.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דרונים"
-      ],
-      "published": "Mon, 05 Oct 2026 08:33:20 -0400"
-    },
-    {
-      "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
-      "summary": "The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family.",
-      "importance": 7,
-      "topics": [
-        "סין",
-        "תאיוואן",
-        "ריגול"
-      ],
-      "published": "Mon, 05 Oct 2026 07:47:36 -0400"
-    },
-    {
-      "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
-      "summary": "The Supreme Court is set to hear a blockbuster climate change case that could affect more than just climate issues. And, Brazil's presidential race is too close to call.",
-      "importance": 7,
-      "topics": [
-        "בחירות",
-        "אקלים",
-        "ברזיל"
-      ],
-      "published": "Mon, 05 Oct 2026 07:07:09 -0400"
-    },
-    {
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-      "importance": 7,
-      "topics": [
-        "אבולה",
-        "קניה",
-        "בריאות ציבורית"
-      ],
-      "published": "Tue, 06 Oct 2026 09:26:11 GMT"
-    },
-    {
-      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-      "importance": 7,
-      "topics": [
-        "קנדה",
-        "קוויבק",
-        "בחירות"
-      ],
-      "published": "Tue, 06 Oct 2026 09:01:51 GMT"
-    },
-    {
-      "title": "US 'watching closely' after plague researcher dies in Russia",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
-      "importance": 7,
-      "topics": [
-        "רוסיה",
-        "ארצות הברית",
+        "גרמניה",
+        "מודיעין",
         "ביטחון"
       ],
-      "published": "Tue, 06 Oct 2026 07:58:19 GMT"
+      "published": "Tue, 06 Oct 2026 07:31:48 -0400"
     },
     {
-      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
+        "ארה״ב",
+        "משפט",
+        "זכויות אדם"
       ],
-      "published": "Tue, 06 Oct 2026 09:48:37 GMT"
+      "published": "Wed, 07 Oct 2026 00:56:59 GMT"
     },
     {
-      "title": "Palestine weekly: Olive harvest opens under assault",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault?traffic_source=rss",
-      "summary": "Israeli settlers and forces beat Palestinians, set property on fire and steal crops across the occupied West Bank.",
+      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
       "importance": 7,
       "topics": [
-        "פלסטינים",
         "ישראל",
-        "גדה מערבית"
+        "7 באוקטובר",
+        "שיקום"
       ],
-      "published": "Tue, 06 Oct 2026 09:22:09 +0000"
+      "published": "Wed, 07 Oct 2026 05:02:18 GMT"
+    },
+    {
+      "title": "Former German spy chief arrested for espionage and treason",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "importance": 7,
+      "topics": [
+        "גרמניה",
+        "מודיעין",
+        "ביטחון"
+      ],
+      "published": "Tue, 06 Oct 2026 10:05:42 GMT"
+    },
+    {
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "importance": 7,
+      "topics": [
+        "מדע",
+        "פיזיקה",
+        "פרס נובל"
+      ],
+      "published": "Tue, 06 Oct 2026 11:24:19 GMT"
+    },
+    {
+      "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss",
+      "summary": "India's Foreign Ministry says 11 out of 12 injured crew members on board the On Peace are Indian nationals.",
+      "importance": 7,
+      "topics": [
+        "אומן",
+        "ים התיכון",
+        "ביטחון ימי"
+      ],
+      "published": "Wed, 07 Oct 2026 03:16:32 +0000"
+    },
+    {
+      "title": "Explosion shutters Venezuela’s second-largest oil refinery",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss",
+      "summary": "An explosion has ripped through Venezuela's second-largest oil refinery, causing it to suspend activities.",
+      "importance": 7,
+      "topics": [
+        "וונצואלה",
+        "אנרגיה",
+        "כלכלה"
+      ],
+      "published": "Wed, 07 Oct 2026 02:23:03 +0000"
+    },
+    {
+      "title": "Australia top court rules against coal mine expansion, citing climate harm",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
+      "summary": "Campaigners say ruling sets a precedent requiring climate damage be weighed when fossil fuel projects are considered.",
+      "importance": 7,
+      "topics": [
+        "אקלים",
+        "אוסטרליה",
+        "משפט סביבתי"
+      ],
+      "published": "Wed, 07 Oct 2026 02:17:07 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Aramco CEO Amin Nasser says nearly 3B barrels of oil supply have been lost, about half of what would normally move through Hormuz, and emergency reserves \"may buy us a winter.\"",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2107054474649059824",
-      "summary": "מנכ\"ל ארמקו אמר אתמול שכמעט 3 מיליארד חביות נפט כבר נעלמו מהשוק - בערך חצי מהכמות שעוברת בדרך כלל במצר הורמוז. הרזרבות החירום של מדינות המערב, לדבריו, \"יכולות לתת לנו חורף אחד.\"\n\nזה מספר שווה לעצור עליו. לא מדובר בסיכון תיאורטי - ארמקו היא הספקית הגדולה בעולם, והמנכ\"ל שלה לא נוטה לדרמה. ההשפעה העקיפה שכדאי לשים לב אליה: תעשיות כמו פטרוכימיה, תחבורה אוויריות וייצור פלסטיק חשופות לא פחות ממחירי הדלק עצמם.",
-      "importance": 9,
-      "topics": [
-        "אנרגיה",
-        "נפט",
-        "היצע גלובלי"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Goldman Sachs expects U.S. 🇺🇸 data-center power demand to grow 38% in both 2026 and 2027, adding 12 GW and 17 GW, respectively. Updated year-end capacity forecasts: 2026: 64 GW, raised from 59 GW 2027: 90 GW, lowered from 95 GW",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2107110283668078770",
-      "summary": "צריכת החשמל של מרכזי הנתונים בארה\"ב צפויה לגדול ב-38% בשנת 2026 וגם ב-2027, לפי תחזית עדכנית של Goldman Sachs. המספרים: 64 גיגה-וואט בסוף 2026, ו-90 גיגה-וואט בסוף 2027.\n\nזה לא רק מספר טכני - מאחורי כל גיגה-וואט יש תחנות כוח, קווי הולכה, ציוד קירור וחוזי אנרגיה לעשר שנים. החברות שמספקות תשתיות חשמל, קירור ובנייה למרכזי נתונים נמצאות במרכז הסיפור הזה - לא פחות מ-NVIDIA.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "נתונים",
-        "אנרגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Foxconn, Nvidia’s biggest server maker, reported Q3 revenue of $95.4B, up 47% YoY and above estimates, driven by AI server demand. September revenue rose 38%, and Foxconn expects AI-related operations to keep growing in Q4. https://t.co/mCl1PHZWXV",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2107056020833079777",
-      "summary": "Foxconn פרסמה תוצאות רבעון שלישי עם הכנסות של 95.4 מיליארד דולר - עלייה של 47% לעומת אשתקד, מעל כל התחזיות. הדלק? ביקוש לשרתי AI.\n\nזה לא רק חדשות טובות ל-Foxconn. כשיצרן השרתים הכי גדול של NVIDIA צומח בקצב כזה, זה אומר שהביקוש לתשתיות AI הוא אמיתי ולא מתקרר. מי שצריך לשים לב: ספקי חשמל, קירור למרכזי נתונים, וכל מי שיושב בשרשרת האספקה של מרכזי ענן.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "צ'יפים",
-        "ביקוש"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "OPENAI IN TALKS WITH UAE FUNDS, BLACKROCK FOR $30B FUNDING ROUND AT ~$1.4T VALUATION: BBG OpenAI is in talks with several UAE investment funds, including Abu Dhabi-based MGX, to help anchor a new financing round of at least $30B. UAE investors have discussed contributing as https://t.co/QLkeg3SFLC",
       "source": "Twitter @wallstengine",
@@ -214,162 +175,201 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-      "summary": "מניית Intel ירדה כמה אחוזים ביום שני אחרי דיווחים ש-TSMC עשויה להצטרף לפרויקט \"Terafab\" של אילון מאסק - מפעל שבבים ענק שהוא מקים.\n\nהלוגיק פשוט: אם TSMC בונה עם מאסק, היא פחות זמינה לאחרים - ו-Intel, שמנסה לחזור לתחרות בייצור שבבים, מוצאת את עצמה בצרה כפולה. גם לא מקבלת את ה-capacity וגם מתמודדת עם מתחרה חדש בחסות מאסק.\n\nשווה לשים לב: חברות שתלויות ב-TSMC לייצור - כמו AMD ו-NVIDIA - גם הן עלולות להרגיש את זה בטווח הארוך.",
-      "importance": 8,
+      "title": "Google enters massive 3.6-GW power deal with Constellation Energy",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/06/google-enters-massive-3point6-gw-power-deal-with-constellation-energy-.html",
+      "summary": "גוגל חתמה על הסכם אנרגיה עם Constellation Energy בהיקף של 3.6 גיגה-וואט - הסכם החשמל הגדול ביותר שנחתם אי פעם ברשת החשמל האמריקאית. המהלך כולל הרחבת כושר הייצור בכמה תחנות כוח גרעיניות.\n\nהסיפור האמיתי פה הוא שגוגל לא קונה חשמל - היא מבטיחה לעצמה תשתית לשנים קדימה. מרוץ הבינה המלאכותית דורש כמויות אנרגיה שהרשת הקיימת פשוט לא יכולה לספק, וחברות הטק מבינות שמי שמבטיח את החשמל קודם - מנצח.\n\nמי שכדאי לשים אליהם לב: חברות שמספקות ציוד לתחנות גרעין ושירותי תחזוקה - הביקוש אליהן עומד לעלות בחדות.",
+      "importance": 9,
       "topics": [
-        "שבבים",
-        "טסלה",
-        "TSMC"
+        "אנרגיה",
+        "גרעין",
+        "AI"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Schneider Expands in AI With Record $23 Billion Acquisition",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/schneider-electric-to-acquire-ptc-for-more-than-20-billion",
-      "summary": "רכישה של 22.6 מיליארד דולר - Schneider Electric רוכשת את PTC, חברת התוכנה התעשייתית, בעסקה הגדולה ביותר בתולדותיה.\n\nלמה זה מעניין: Schneider היא ענקית תשתיות - חשמל, ניהול אנרגיה, מרכזי נתונים. היא כבר שם כשבונים מרכזי AI. עכשיו היא מוסיפה לזה שכבת תוכנה תעשייתית שמחברת בין עולם הייצור הפיזי לדיגיטל.\n\nמי עוד יושפע: חברות כמו Siemens ו-Rockwell Automation יצטרכו להגיב - התחרות על שוק התוכנה התעשייתית עכשיו רותחת.",
-      "importance": 8,
+      "title": "Google $GOOGL and Constellation $CEG signed a 20-year nuclear power deal to add 890 MW to the PJM grid through upgrades at 11 reactors, backed by $4.3B in investment. They also agreed to a 15-year supply deal covering another 2.7 GW, with the first uprate expected in 2028. https://t.co/J1cNw2kpod",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107418881900097695",
+      "summary": "גוגל ו-Constellation חתמו על עסקת אנרגיה גרעינית של 20 שנה בהיקף 4.3 מיליארד דולר - שדרוג של 11 כורים שיוסיפו 890 מגה-וואט לרשת החשמל האמריקאית. בנוסף, הסכם אספקה של 15 שנה לעוד 2.7 גיגה-וואט. הראשון מסוגו בסקאלה הזו.\n\nמה שמעניין כאן זה לא רק גוגל - זה הסיגנל לכל תעשיית הנתונים. כשענק טכנולוגיה נועל עצמו ל-20 שנה של גרעין, זה אומר שהצריכה של מרכזי הנתונים (data centers) הולכת לגדול בקצב שרק גרעין יכול לתת מענה אליו. שווה לשים לב גם לחברות הבנייה והתשתיות שיעבדו על השדרוגים האלה.",
+      "importance": 9,
       "topics": [
         "AI",
-        "M&A",
-        "תעשייה"
+        "אנרגיה",
+        "תשתיות"
       ],
-      "tag": "גלובלי"
+      "tag": "ארה\"ב"
     },
     {
-      "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
+      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+      "summary": "גוגל חתמה על עסקת אנרגיה גרעינית עם Constellation שמקבילה בהיקפה לכור גרעיני חדש שלם - והמניה של Constellation קפצה חדה בעקבות הבשורה.\n\nהסיפור האמיתי כאן הוא לא גוגל ספציפית - אלא שחברות הענק מתחילות להבין שרשת החשמל הקיימת פשוט לא מסוגלת לספק את מה שה-AI דורש. מרכזי נתונים צורכים כמויות אנרגיה שלא ראינו כמותן, ואנרגיה גרעינית היא אחד הפתרונות המועטים שיכולים לספק עוצמה אמינה בקנה מידה כזה.\n\nמי שכדאי לשים עליו עין - יצרני ציוד לתחנות כוח וחברות שירותי חשמל אזוריות. הביקוש אליהן עלול לעלות הרבה לפני שיצאו כותרות על כך.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "אנרגיה",
+        "גרעין",
+        "תשתיות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
       "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
-      "summary": "670 בנקים נסגרו בסין בשנה האחרונה - רובם בנקים כפריים קטנים - במסגרת מהלך מכוון של בייג'ינג לצמצם את מספר הבנקים ולחזק את שאר המערכת הפיננסית.\n\nזה לא רק ניקוי פנימי. כשסין מרכזת את המערכת הבנקאית שלה, זה אומר פחות סיכון מקומי אבל גם פחות אשראי לעסקים קטנים באזורים הפריפריאליים - שזה בדיוק הדלק של הצמיחה הכפרית בסין. המי שייתן לה אשראי במקומם?",
-      "importance": 8,
+      "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+      "summary": "גירעון הסחר האמריקאי קפץ ב-13.7% באוגוסט ל-105.6 מיליארד דולר - הרמה הגבוהה ביותר מאז לפני מכסי טראמפ בשנה שעברה. זה לא מספר יבש: חברות אמריקאיות ממשיכות לייבא בקצב גבוה, מה שאומר שהמכסים עדיין לא הצליחו לשנות את ההתנהגות בפועל. ההשפעה העקיפה שפחות מדברים עליה: דולר חלש יותר לאורך זמן פוגע בתשואות של משקיעים זרים שמחזיקים נכסים אמריקאים - ומגדיל את הלחץ על הפד.",
+      "importance": 9,
       "topics": [
-        "רגולציה",
-        "סין",
-        "מערכת בנקאית"
+        "סחר",
+        "מאקרו",
+        "טריפים"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "CFTC Proposes Registering Crypto Exchanges Offering Leverage",
-      "source": "Bloomberg Markets",
+      "title": "AT&T $T IS forming a 50/50 fiber JV with BlackRock’s GIP and CPP Investments, combining the Lumen fiber assets it recently acquired with its existing Gigapower venture. The proceeds will help bring net debt/adjusted EBITDA to ~2.5x within roughly three years.",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107476491319775382",
+      "summary": "AT&T מקימה מיזם משותף 50/50 עם BlackRock ו-CPP Investments לבניית תשתיות סיבים אופטיים בארה\"ב. הם משלבים את נכסי הסיבים שרכשו לאחרונה מ-Lumen עם הוונצ'ר הקיים שלהם, Gigapower. העסקה תעזור ל-AT&T להוריד את יחס החוב שלה לרמה בריאה יותר תוך כשלוש שנים.\n\nמה שמעניין פה: BlackRock ו-CPP לא משקיעות בטלקום - הן משקיעות בתשתיות. בדיוק כמו כבישים ונמלים. זה אומר שהמוסדיים הגדולים מהמרים שהסיבים הם הבסיס של הכלכלה הדיגיטלית הבאה.",
+      "importance": 9,
+      "topics": [
+        "תשתיות",
+        "טלקום",
+        "השקעות מוסדיות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Marvell $MRVL now expects “approximately $20B” in total FY28 revenue, up from $18B previously, and sees $70B-$90B by FY31. CEO Matt Murphy also said Marvell now sees a ~$400B AI market by 2030, more than 4x its prior $94B opportunity estimate for 2028. https://t.co/RS7m3UxItH",
+      "source": "Twitter @wallstengine",
       "url": "",
-      "summary": "הרגולטור האמריקאי על חוזים עתידיים (CFTC) הציע שבוע שעבר לרשום בורסות קריפטו שמציעות מינוף - וזה שינוי משמעותי. הרקע: הקונגרס חסם חקיקה לפני כחודש, אז ה-CFTC החליט לנוע בכוחות עצמו עם הסמכויות הקיימות שלו.\n\nמה זה אומר בפועל? בורסות כמו Binance ו-Coinbase יצטרכו לעמוד בדרישות דיווח ופיקוח הרבה יותר קפדניות. ההשפעה העקיפה שפחות מדברים עליה: חברות שמספקות תשתית לבורסות האלה - אבטחה, ציות רגולטורי, ביקורת - עשויות להיות מהמנצחות הגדולות כאן.",
+      "summary": "Marvell העלתה את תחזית ההכנסות לשנת 2028 מ-18 מיליארד דולר ל-20 מיליארד, ורואה 70-90 מיליארד עד 2031. אבל המספר שבאמת תופס את תשומת הלב הוא הערכת שוק ה-AI לשנת 2030 - מ-94 מיליארד דולר ל-400 מיליארד. פי 4 בתיאבון בתוך מספר חודשים.\n\nזה לא רק טוב ל-Marvell - זה אומר שהביקוש לשבבי רשת, אחסון וחיבוריות בתוך מרכזי נתונים גדל בקצב שהשוק עוד לא מחשב במלואו. חברות כמו Broadcom ו-Arista Networks נמצאות בדיוק באותה שרשרת אספקה.",
+      "importance": 9,
+      "topics": [
+        "שבבים",
+        "AI",
+        "שוק גלובלי"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "נפט ברנט נסחר סביב 100 דולר לחבית על רקע חזרת כוחות תימן לנמל מפרץ עדן מידי החות'ים - ומחירי האנרגיה כבר מגיבים.\n\nים אדום הוא אחד מצווארי הבקבוק הקריטיים של סחר הנפט הגלובלי. כשהמעבר שם לא בטוח, ספינות מקיפות את אפריקה - זה עולה יותר ולוקח שבועות נוספים. מי שיושפע מזה מעבר לנהגים בתחנת הדלק: חברות ייצור, שילוח ואפילו מחירי מזון - כי אנרגיה יקרה נכנסת לכל שרשרת אספקה.",
       "importance": 8,
       "topics": [
-        "קריפטו",
-        "רגולציה",
-        "CFTC"
+        "נפט",
+        "גיאופוליטיקה",
+        "אספקה",
+        "תשתיות"
       ],
       "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Hackers steal 8 million citizens’ records from Danish government database",
+      "title": "מ-HBO ו-DC ועד הארי פוטר: וורנר מתמזגת רשמית ל-Skydance",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/warner-bros-discovery-hbo-skydance-deal-is-complete/",
+      "summary": "אחרי כמעט שנה שלמה של דרמות, סכומי עתק, טוויסטים בעלילה ובגידות מבית, עכשיו זה סופי: דיוויד אליסון ושותפיו הודיעו כי השלימה את רכישת תאגיד Warner Bros. Discovery תמורת 110 מיליארד דולר. אז על אילו מותגים אליסון הניח את ידיו ומה עומד לקרות? One company to rule them all מעתה, מילת המפתח היא Skydance. זהו השם […] The post מ-HBO ו-DC ועד הארי פוטר: וורנר מתמזגת רשמית ל-Skydance appeared first on גיקטי",
+      "importance": 9,
+      "topics": [
+        "מיזוגים ורכישות",
+        "תקשורת",
+        "Skydance"
+      ],
+      "published": "Tue, 06 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
-      "summary": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
       "importance": 8,
       "topics": [
-        "סייבר",
-        "אבטחת מידע",
-        "פריצת אבטחה"
+        "AI",
+        "fundraising",
+        "IPO"
       ],
-      "published": "Mon, 05 Oct 2026 14:58:42 +0000"
+      "published": "Tue, 06 Oct 2026 20:00:30 +0000"
     },
     {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "importance": 7,
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and […]",
+      "importance": 8,
       "topics": [
         "AI",
-        "רגולציה",
         "OpenAI"
       ],
-      "published": "Mon, 05 Oct 2026 20:36:48 +0000"
+      "published": "2026-10-06T19:26:38-04:00"
     },
     {
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-      "importance": 7,
-      "topics": [
-        "AI chips",
-        "השקעות",
-        "Etched"
-      ],
-      "published": "Mon, 05 Oct 2026 20:24:09 +0000"
-    },
-    {
-      "title": "All the drama around AI’s takeover of mathematics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "published": "2026-10-05T15:28:59-04:00"
-    },
-    {
-      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundati",
-      "importance": 7,
-      "topics": [
-        "OpenAI",
-        "אבטחה",
-        "AI agents"
-      ],
-      "published": "2026-10-05T15:05:19-04:00"
-    },
-    {
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "TLS",
+        "הקינג"
+      ],
+      "published": "Tue, 06 Oct 2026 19:21:14 +0000"
+    },
+    {
+      "title": "Google’s power-hungry data centers crave nuclear energy",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
+      "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. The power purchase agreement is meant to guarantee the revenue […]",
       "importance": 7,
       "topics": [
-        "AI",
-        "אבטחה",
-        "פרוטוקולים"
+        "Google",
+        "infrastructure"
       ],
-      "published": "Mon, 05 Oct 2026 22:26:35 +0000"
+      "published": "2026-10-06T16:32:10-04:00"
     },
     {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-      "importance": 6,
+      "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "summary": "Paramount now owns Warner Bros. as last-ditch effort to stop $111B merger fails.",
+      "importance": 7,
       "topics": [
-        "AI",
-        "מודלים",
-        "קוד פתוח"
+        "מיזוגים",
+        "Paramount",
+        "Warner"
       ],
-      "published": "Mon, 05 Oct 2026 19:33:53 +0000"
+      "published": "Tue, 06 Oct 2026 17:33:44 +0000"
     },
     {
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "title": "טלטלה בשוק התקשורת: בזק בדרך להתמזג עם yes",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/yes-bezeq-merger-might-be-on-the-way/",
+      "summary": "בגלל מגבלות רגולטוריות היסטוריות התרגלנו עד עכשיו לרכוש בנפרד את תשתית האינטרנט ושירותי הטלוויזיה. אבל כעת, על פי דיווח של נתי טוקר ב-TheMarker, המגמה המסתמנת במשרדי התקשורת והאוצר היא לאפשר את ביטולה של ההפרדה המבנית בבזק. המשמעות הישירה היא מיזוג תפעולי ושיווקי מלא בין ענקית התקשורת בזק לחברת הטלוויזיה yes, מה שיאפשר לבזק להציע חבילות […] The post טלטלה בשוק התקשורת: בזק בדרך להתמזג עם yes appea",
+      "importance": 7,
+      "topics": [
+        "מיזוגים",
+        "תקשורת",
+        "רגולציה"
+      ],
+      "published": "Tue, 06 Oct 2026 05:51:21 +0000"
+    },
+    {
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
       "importance": 6,
       "topics": [
-        "OpenAI",
-        "AI",
-        "מודל עסקי"
+        "Apple",
+        "smart home",
+        "hardware"
       ],
-      "published": "Mon, 05 Oct 2026 15:14:24 +0000"
+      "published": "Tue, 06 Oct 2026 22:53:09 +0000"
     }
   ]
 }
