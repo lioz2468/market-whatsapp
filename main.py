@@ -509,20 +509,24 @@ async def run(args: argparse.Namespace) -> None:
             return
 
         # ── 5. Topic deduplication (TOPIC_DEDUP_HOURS window) ────────────
-        force_update_prefix = False
+        # (There used to be a fallback here that, when every candidate was a
+        # duplicate, sent the top one anyway prefixed "עדכון:". That is exactly
+        # how one story went out three times on 2026-10-06 — so now an
+        # all-duplicate run sends nothing.)
         recent_sent = sent_log.recent_messages(config.TOPIC_DEDUP_HOURS)
         if recent_sent:
             print(f"\n{Fore.CYAN}🔍 Topic dedup — checking against {len(recent_sent)} article(s) from last {config.TOPIC_DEDUP_HOURS}h…{Style.RESET_ALL}")
-            pre_dedup_approved = approved[:]
             before = len(approved)
             approved = await classifier.topic_dedup_filter(approved, recent_sent)
             skipped = before - len(approved)
             if skipped:
                 print(f"  Skipped {skipped} duplicate topic(s)")
             if not approved:
-                print(f"\n  {Fore.YELLOW}כל הכתבות הן כפילויות נושאים — שולח את הכי גבוהה כ'עדכון'.{Style.RESET_ALL}")
-                approved = [pre_dedup_approved[0]]
-                force_update_prefix = True
+                print(f"\n  {Fore.YELLOW}כל הכתבות הן כפילויות נושאים — לא נשלח כלום.{Style.RESET_ALL}")
+                if is_scheduled:
+                    sent_log.rollback_auto_run(prev_last_auto)
+                _print_cost()
+                return
 
         # ── 5b. Within-batch dedup — prevent same topic queued multiple times ──
         before = len(approved)
@@ -605,8 +609,7 @@ async def run(args: argparse.Namespace) -> None:
         ]
 
         print(f"\n{Fore.CYAN}📤 Sending via {args.provider}…{Style.RESET_ALL}")
-        msg_to_send = ("עדכון: " + to_send.final_message) if force_update_prefix else to_send.final_message
-        sent_count = await _send([msg_to_send], args.provider)      # single message, always
+        sent_count = await _send([to_send.final_message], args.provider)      # single message, always
         if sent_count == 0:
             print(f"\n  {Fore.RED}Nothing was sent — not logging it as sent.{Style.RESET_ALL}")
             if is_scheduled:

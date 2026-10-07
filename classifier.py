@@ -285,27 +285,34 @@ def _topic_check_system() -> str:
         f"{config.TOPIC_DEDUP_HOURS // 24} הימים" if config.TOPIC_DEDUP_HOURS % 24 == 0
         else f"{config.TOPIC_DEDUP_HOURS} השעות"
     )
-    return _CONTEXT + "\n\n" + f"""אתה בודק כפילויות בסיקור עיתונאי.
+    return _CONTEXT + "\n\n" + f"""אתה בודק האם כתבה חדשה היא *אותו סיפור* כמו אחת הכתבות הממוספרות שכבר נשלחו ב-{window_desc} האחרונות.
 
-חוק ברזל: אם הנושא כבר כוסה ב-{window_desc} האחרונות — סנן החוצה, אלא אם יש אירוע חדש ספציפי.
+"אותו סיפור" = אותו אירוע / עסקה / הכרזה ספציפיים — גם ממקור אחר, בכותרת אחרת, כניתוח או פרשנות נוספים,
+או עם עוד פרטים ומספרים על אותו אירוע (למשל ציוץ או כתבה נוספת על עסקה שכבר דווחה).
+גם נושא איטי (ריבית, תשואות אג"ח, אינפלציה) שחוזר על אותה מסקנה כמה ימים אחרי — "תשואות עלו שוב",
+"המחיר עלה עוד קצת" — הוא אותו סיפור.
+"סיפור חדש" = כל דבר אחר — כולל אירוע חדש ספציפי באותו נושא רחב (נתון חדש שפורסם, החלטה שהתקבלה,
+הכרזה רשמית, שינוי כיוון). נושא רחב משותף (למשל "AI", "נפט", "סין") לא הופך כתבה לכפילות,
+וגם לא אותה חברה בלבד — שתי ידיעות שונות על Anthropic, או מתקפה בים האדום מול שחרור מלאי דיזל,
+הן סיפורים שונים. כפילות רק כשזה אותו אירוע עצמו.
 
-"אירוע חדש ספציפי" = נתון חדש שפורסם, החלטה שהתקבלה, שינוי כיוון מפתיע, הכרזה רשמית.
-"לא אירוע חדש" = ניתוח נוסף של אותו מצב, פרשנות, עדכון שוטף, "תשואות עלו שוב" / "המחיר עלה עוד קצת".
-זה חל גם כשהפער בין הכתבות הוא כמה ימים ולא רק שעות — נושא איטי (ריבית, תשואות אג"ח,
-אינפלציה) שחוזר על אותה מסקנה כמה ימים אחרי, הוא עדיין כפילות, לא חדשות.
-
-ענה "כן" רק אם יש אירוע חדש ספציפי שלא הופיע בכתבות הקודמות.
-ענה "לא" בכל מקרה אחר — כולל כשהכותרת שונה אך הנושא זהה.
-ענה רק "כן" או "לא", ללא הסבר."""
+פורמט תשובה — אחד משניים בלבד, בלי הסבר:
+- "חדש" — אם אין כתבה ממוספרת שהיא אותו סיפור (ברירת המחדל).
+- המספר של הכתבה הקודמת שהיא אותו סיפור (למשל "7") — רק אם אתה יכול להצביע על כתבה ספציפית כזו."""
 
 
 async def topic_dedup_filter(
     approved: list[ClassificationResult],
     recent_sent: list[dict],
 ) -> list[ClassificationResult]:
-    """Remove articles whose broad topics were already covered in the last
-    config.TOPIC_DEDUP_HOURS hours, unless Claude identifies a specific new
-    event (not just new analysis)."""
+    """Remove articles that are the same story as something sent in the last
+    config.TOPIC_DEDUP_HOURS hours. Claude must cite the specific numbered
+    sent article the new one duplicates; anything without a valid citation
+    is kept. (The earlier yes/no version — "does it bring a specific new
+    event?" — answered "no" for unrelated stories too, e.g. a fresh trade
+    deficit print on 2026-10-06; main.py then force-sent the top article
+    anyway, which is how one Google/Constellation deal went out 3 times.
+    Same fix as morning_brief_composer.cross_day_dedup_filter.)"""
     if not recent_sent or not approved:
         return approved
 
@@ -317,11 +324,16 @@ async def topic_dedup_filter(
     # סיקיוריטי" for Social Security) — topic labels aren't consistent
     # enough to safely decide "definitely not the same topic" without
     # asking Claude. So every approved article is now checked against
-    # recent_sent unconditionally; the cost is one cheap Haiku call per
+    # recent_sent unconditionally; the cost is one TOPIC_DEDUP_MODEL call per
     # approved article (capped at MAX_ARTICLES_PER_RUN) per run.
+    # The opening of each sent message is included because titles alone are
+    # often too different to match (e.g. CNBC "Google enters 3.6-GW power deal
+    # with Constellation" vs a tweet "$GOOGL and $CEG signed a 20-year nuclear
+    # deal") — the same story slipped through as "new" on 2026-10-06.
     recent_context = "\n".join(
-        f"- {m['title']} | נושאים: {', '.join(m.get('topics', ['—']))}"
-        for m in recent_sent
+        f"{i}. {m['title']} | נושאים: {', '.join(m.get('topics', ['—']))}"
+        f" | {' '.join(m.get('message', '').split())[:160]}"
+        for i, m in enumerate(recent_sent, 1)
     )
 
     client    = anthropic.AsyncAnthropic(api_key=config.ANTHROPIC_API_KEY)
@@ -333,20 +345,22 @@ async def topic_dedup_filter(
         async with semaphore:
             try:
                 resp = await client.messages.create(
-                    model=config.CLAUDE_CLASSIFIER_MODEL,
+                    model=config.TOPIC_DEDUP_MODEL,
                     max_tokens=16,
+                    temperature=0,
                     system=_topic_check_system(),
                     messages=[{"role": "user", "content":
                         f"כתבה חדשה: {r.article.title}\n"
+                        f"תקציר: {(getattr(r.article, 'summary', '') or '—')[:300]}\n"
                         f"נושאים: {', '.join(r.topics)}\n\n"
                         f"כתבות שנשלחו ב-{config.TOPIC_DEDUP_HOURS} השעות האחרונות:\n{recent_context}\n\n"
-                        "האם הכתבה החדשה מביאה אירוע חדש ספציפי (לא רק ניתוח נוסף של אותו מצב)?"
+                        'האם זה אותו סיפור כמו אחת הכתבות הממוספרות? ענה "חדש" או מספר.'
                     }],
                 )
                 stats.record(
                     resp.usage.input_tokens,
                     resp.usage.output_tokens,
-                    model=config.CLAUDE_CLASSIFIER_MODEL,
+                    model=config.TOPIC_DEDUP_MODEL,
                 )
                 answer = resp.content[0].text.strip()
             except anthropic.APIStatusError as exc:
@@ -360,8 +374,10 @@ async def topic_dedup_filter(
                 print(f"  [topic-dedup] ⚠ Check error for '{r.article.title[:40]}': {exc}")
                 return r
 
-        if answer.startswith("לא"):
-            print(f"  [topic-dedup] ⏭ Skipping '{r.article.title[:55]}' — no new event")
+        m = re.match(r"\s*(\d+)", answer)
+        if m and 1 <= int(m.group(1)) <= len(recent_sent):
+            dup = recent_sent[int(m.group(1)) - 1]
+            print(f"  [topic-dedup] ⏭ Skipping '{r.article.title[:55]}' — same as '{dup['title'][:55]}'")
             return None
         return r
 

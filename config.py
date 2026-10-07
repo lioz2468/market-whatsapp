@@ -61,6 +61,9 @@ DIGEST_HOURS             = int(os.getenv("DIGEST_HOURS", "12"))
 # dedup check at all — slow-moving macro topics (rates, yields, inflation
 # prints) routinely resurface 2-4 days apart and sailed straight through.
 TOPIC_DEDUP_HOURS        = int(os.getenv("TOPIC_DEDUP_HOURS", "96"))
+# Model for that check. Haiku cited the wrong article (same company / same
+# broad field) in replays of 2026-10-06; Sonnet matched every one correctly.
+TOPIC_DEDUP_MODEL        = os.getenv("TOPIC_DEDUP_MODEL", CLAUDE_MODEL)
 
 # ── Email digest pool (separate pipeline — does not affect WhatsApp sending) ─
 # Populates email_digest.json once/day for the morning email, by combining:
