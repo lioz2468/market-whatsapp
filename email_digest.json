@@ -1,32 +1,70 @@
 {
-  "generated_at": "2026-10-07T05:45:16.529164+00:00",
+  "generated_at": "2026-10-07T10:05:43.321602+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Three years of Israel’s genocide in Gaza: In numbers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
-      "summary": "Three years of attacks has devastated Gaza, killing tens of thousands, destroying homes, and collapsing basic services.",
-      "importance": 9,
+      "title": "Former German spy chief arrested for espionage and treason",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "importance": 8,
       "topics": [
-        "ישראל",
-        "עזה",
-        "קונפליקט"
+        "גרמניה",
+        "ביטחון",
+        "מרגלות"
       ],
-      "published": "Wed, 07 Oct 2026 05:02:04 +0000"
+      "published": "Tue, 06 Oct 2026 10:05:42 GMT"
     },
     {
-      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-      "summary": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
       "importance": 8,
       "topics": [
         "מדע",
-        "פיזיקה",
+        "אסטרופיזיקה",
         "פרס נובל"
       ],
-      "published": "Tue, 06 Oct 2026 06:16:28 -0400"
+      "published": "Tue, 06 Oct 2026 11:24:19 GMT"
+    },
+    {
+      "title": "What does a year-long ceasefire in Gaza look like?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
+      "summary": "Israel attacked Gaza nine days out of 10 during a so-called ceasefire.",
+      "importance": 8,
+      "topics": [
+        "גזה",
+        "ישראל",
+        "הפוגה"
+      ],
+      "published": "Wed, 07 Oct 2026 08:55:12 +0000"
+    },
+    {
+      "title": "At least 11 killed as Russia launches ‘massive’ attack on Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+      "summary": "Ukraine's air force says Russia launched 130 drones, 48 cruise missiles and ballistic missiles in overnight attack.",
+      "importance": 8,
+      "topics": [
+        "רוסיה",
+        "אוקראינה",
+        "מלחמה"
+      ],
+      "published": "Wed, 07 Oct 2026 06:19:26 +0000"
+    },
+    {
+      "title": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
+      "summary": "On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "ביטחון"
+      ],
+      "published": "Wed, 07 Oct 2026 05:00:00 -0400"
     },
     {
       "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
@@ -36,144 +74,64 @@
       "importance": 7,
       "topics": [
         "גרמניה",
-        "מודיעין",
-        "ביטחון"
+        "ביטחון",
+        "מודיעין"
       ],
       "published": "Tue, 06 Oct 2026 07:31:48 -0400"
     },
     {
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
-      "importance": 7,
-      "topics": [
-        "ארה״ב",
-        "משפט",
-        "זכויות אדם"
-      ],
-      "published": "Wed, 07 Oct 2026 00:56:59 GMT"
-    },
-    {
-      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "7 באוקטובר",
-        "שיקום"
-      ],
-      "published": "Wed, 07 Oct 2026 05:02:18 GMT"
-    },
-    {
-      "title": "Former German spy chief arrested for espionage and treason",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
-      "importance": 7,
-      "topics": [
-        "גרמניה",
-        "מודיעין",
-        "ביטחון"
-      ],
-      "published": "Tue, 06 Oct 2026 10:05:42 GMT"
-    },
-    {
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
+      "summary": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
       "importance": 7,
       "topics": [
         "מדע",
-        "פיזיקה",
-        "פרס נובל"
+        "פיזיקה"
       ],
-      "published": "Tue, 06 Oct 2026 11:24:19 GMT"
+      "published": "Tue, 06 Oct 2026 06:16:28 -0400"
     },
     {
-      "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "summary": "India's Foreign Ministry says 11 out of 12 injured crew members on board the On Peace are Indian nationals.",
+      "title": "What is pneumonic plague and how does it spread?",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
       "importance": 7,
       "topics": [
-        "אומן",
-        "ים התיכון",
-        "ביטחון ימי"
+        "רוסיה",
+        "ביטחון ביולוגי",
+        "מחלות"
       ],
-      "published": "Wed, 07 Oct 2026 03:16:32 +0000"
+      "published": "Tue, 06 Oct 2026 15:35:22 GMT"
     },
     {
-      "title": "Explosion shutters Venezuela’s second-largest oil refinery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss",
-      "summary": "An explosion has ripped through Venezuela's second-largest oil refinery, causing it to suspend activities.",
+      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+      "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
       "importance": 7,
       "topics": [
-        "וונצואלה",
-        "אנרגיה",
-        "כלכלה"
+        "ארה״ב",
+        "ביטחון",
+        "מרגלות"
       ],
-      "published": "Wed, 07 Oct 2026 02:23:03 +0000"
+      "published": "Tue, 06 Oct 2026 19:53:45 GMT"
     },
     {
-      "title": "Australia top court rules against coal mine expansion, citing climate harm",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
-      "summary": "Campaigners say ruling sets a precedent requiring climate damage be weighed when fossil fuel projects are considered.",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
       "importance": 7,
       "topics": [
-        "אקלים",
-        "אוסטרליה",
-        "משפט סביבתי"
+        "ארה״ב",
+        "אירן",
+        "גרעין"
       ],
-      "published": "Wed, 07 Oct 2026 02:17:07 +0000"
+      "published": "Tue, 06 Oct 2026 20:15:31 GMT"
     }
   ],
   "business": [
-    {
-      "title": "OPENAI IN TALKS WITH UAE FUNDS, BLACKROCK FOR $30B FUNDING ROUND AT ~$1.4T VALUATION: BBG OpenAI is in talks with several UAE investment funds, including Abu Dhabi-based MGX, to help anchor a new financing round of at least $30B. UAE investors have discussed contributing as https://t.co/QLkeg3SFLC",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2107218141927592319",
-      "summary": "OpenAI מגייסת לפחות 30 מיליארד דולר בסבב מימון חדש, לפי בלומברג, לפי שווי של כ-1.4 טריליון דולר. בין המשקיעים שנמצאים במשא ומתן: קרנות השקעה מאיחוד האמירויות, ביניהן MGX מאבו דאבי, ו-BlackRock.\n\nפה קורה משהו שחורג מעסקת מימון רגילה - כסף מדינתי מהמפרץ נכנס למרכז מרוץ ה-AI. זה אומר שלמדינות יש עניין אסטרטגי לא רק פיננסי, ובאופן עקיף - זה לחץ נוסף על מיקרוסופט, גוגל וגם על ממשלות המערב לבחון מחדש מי שולט על התשתיות הכי חשובות של העשור הקרוב.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "השקעות",
-        "גיאופוליטיקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Bank of America, Citi and Morgan Stanley have begun syndicating a $60B debt package tied to Anthropic’s lease of Google-designed AI chips supplied through Broadcom $AVGO, the largest chip-financing deal to date. The financing includes: • $42B of senior secured debt supported https://t.co/8djhk7RFUB",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2107215084217110554",
-      "summary": "עסקת מימון השבבים הגדולה בהיסטוריה - 60 מיליארד דולר - מגיעה מ-Bank of America, Citi ו-Morgan Stanley, ומיועדת לממן את השכרת שבבי ה-AI של Anthropic. השבבים מתוכננים על ידי Google ומסופקים דרך Broadcom.\n\nמה שמעניין פה: זה לא הון סיכון ולא מניות - זה חוב. הבנקים הגדולים מתחילים להתייחס לשבבי AI כנכס מספיק יציב כדי לגבות עליו אשראי בסדר גודל כזה. זה שינוי משמעותי באיך וול סטריט רואה את תשתיות ה-AI - ולחברות שמחכירות ציוד לחברות ענן, זה רוח גבית חזקה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "מימון",
-        "Broadcom",
-        "Anthropic"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "About 80% of Anthropic’s planned $518B in cloud and compute spending over the next decade is non-cancelable or payable regardless of how much capacity it actually uses. https://t.co/Y4pAvO2SJT https://t.co/VYqWxO9HyE",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2107357687918801360",
-      "summary": "כ-415 מיליארד דולר מתוך תכנית ההוצאות של Anthropic על ענן ומחשוב - סכום שמגיע בסך הכול ל-518 מיליארד לעשור הקרוב - הם התחייבויות שלא ניתן לבטל, בין אם ישתמשו בקיבולת ובין אם לא.\n\nזה לא רק מספר גדול. זה אומר שה-hyperscalers - AWS, Google Cloud ואחרות - כבר נעולים על הכנסות ענק לשנים קדימה, גם בתרחיש שבו AI מאכזב. עבור יצרני השבבים וספקיות התשתית, זה אותו סיפור - הביקוש \"מאובטח\" ברמה שקשה לדמיין.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "ענן",
-        "השקעות"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "Google enters massive 3.6-GW power deal with Constellation Energy",
       "source": "CNBC Top News",
@@ -254,6 +212,46 @@
       "tag": "גלובלי"
     },
     {
+      "title": "CNBC Daily Open: Fragile rebound in oil exports threatened by Iran attacks in Hormuz",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/10/07/trump-hormuz-oil-diesel-iran-anthropic-ai.html",
+      "summary": "כמעט 20 ספינות מסחריות, רובן מכליות נפט, הותקפו בחודש האחרון במיצר הורמוז ובמפרץ הפרסי. זה לא רק חדשות ממזרח התיכון - כ-20% מסחר הנפט העולמי עובר דרך שם, אז כשהמצב מתחמם, מחירי האנרגיה מרגישים את זה מהר. מה שפחות ברור: ספנות, ביטוחי ים וחברות לוגיסטיקה גלובליות נפגעות לא פחות - עלויות המשלוח קופצות כשספינות נאלצות לעקוף מסלולים שלמים.",
+      "importance": 9,
+      "topics": [
+        "אנרגיה",
+        "גיאופוליטיקה",
+        "ספנות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "$SPCX SEEKS $40B TO FUND MASSIVE $NVDA CHIP PURCHASE: FT SpaceX is looking to raise about $40B in financing led by Apollo to fund purchases of Nvidia chips. The plan includes roughly $10B in bank loans and $30B in investment-grade debt, with the transaction expected to close in https://t.co/L8EDaoMtZZ",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107633225648779719",
+      "summary": "SpaceX מגייסת 40 מיליארד דולר כדי לקנות שבבי Nvidia בסיטונאות - וזה אחד הגיוסים הגדולים בהיסטוריה של חברות פרטיות.\n\nהמבנה: כ-10 מיליארד הלוואות בנקאיות ועוד 30 מיליארד באג\"ח בדירוג השקעה, עם Apollo בראש. מה שמעניין פה זה לא רק NVIDIA שממשיכה לצבור הזמנות ענק - אלא שהשוק הפרטי כולו נכנס ברצינות לתחרות על תשתיות AI. בנקים, קרנות ואג\"ח קונבנציונלי - כולם כבר בפנים.",
+      "importance": 9,
+      "topics": [
+        "SpaceX",
+        "Nvidia",
+        "השקעות בהון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "SpaceX reportedly is looking to raise as much money as the company generates in revenue to buy Nvidia chips",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+      "summary": "SpaceX מגייסת 40 מיליארד דולר - כמעט כגובה ההכנסות השנתיות שלה - כדי לרכוש שבבי Nvidia בכמויות עצומות.\n\nזה לא רק עסקה של חברה אחת. כל גיוס בסדר גודל כזה מחמם מחדש את הביקוש לשבבים, לחשמל ולמרכזי נתונים - בדיוק כשהשוק חשב שהשיא מאחורינו. ספקי קירור, יצרניות כבלים ואנרגיה - כולם נוגעים בסיפור הזה. ו-Nvidia, כמובן, לא מתלוננת.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "צ'יפים",
+        "Nvidia",
+        "מימון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
       "title": "Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive",
       "source": "CNBC Top News",
       "url": "",
@@ -270,19 +268,6 @@
   ],
   "tech": [
     {
-      "title": "מ-HBO ו-DC ועד הארי פוטר: וורנר מתמזגת רשמית ל-Skydance",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/warner-bros-discovery-hbo-skydance-deal-is-complete/",
-      "summary": "אחרי כמעט שנה שלמה של דרמות, סכומי עתק, טוויסטים בעלילה ובגידות מבית, עכשיו זה סופי: דיוויד אליסון ושותפיו הודיעו כי השלימה את רכישת תאגיד Warner Bros. Discovery תמורת 110 מיליארד דולר. אז על אילו מותגים אליסון הניח את ידיו ומה עומד לקרות? One company to rule them all מעתה, מילת המפתח היא Skydance. זהו השם […] The post מ-HBO ו-DC ועד הארי פוטר: וורנר מתמזגת רשמית ל-Skydance appeared first on גיקטי",
-      "importance": 9,
-      "topics": [
-        "מיזוגים ורכישות",
-        "תקשורת",
-        "Skydance"
-      ],
-      "published": "Tue, 06 Oct 2026 14:00:00 +0000"
-    },
-    {
       "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
@@ -290,8 +275,8 @@
       "importance": 8,
       "topics": [
         "AI",
-        "fundraising",
-        "IPO"
+        "IPO",
+        "סטארטאפ"
       ],
       "published": "Tue, 06 Oct 2026 20:00:30 +0000"
     },
@@ -303,9 +288,23 @@
       "importance": 8,
       "topics": [
         "AI",
-        "OpenAI"
+        "OpenAI",
+        "מחקר"
       ],
       "published": "2026-10-06T19:26:38-04:00"
+    },
+    {
+      "title": "Google’s power-hungry data centers crave nuclear energy",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
+      "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. The power purchase agreement is meant to guarantee the revenue […]",
+      "importance": 8,
+      "topics": [
+        "Google",
+        "אנרגיה",
+        "AI-infra"
+      ],
+      "published": "2026-10-06T16:32:10-04:00"
     },
     {
       "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -315,48 +314,48 @@
       "importance": 8,
       "topics": [
         "אבטחה",
-        "TLS",
-        "הקינג"
+        "סייבר",
+        "תעודות TLS"
       ],
       "published": "Tue, 06 Oct 2026 19:21:14 +0000"
     },
     {
-      "title": "Google’s power-hungry data centers crave nuclear energy",
+      "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
+      "summary": "The storied Silicon Valley firm makes its first pure defense investment.",
+      "importance": 7,
+      "topics": [
+        "Defense Tech",
+        "Benchmark"
+      ],
+      "published": "Tue, 06 Oct 2026 16:29:12 +0000"
+    },
+    {
+      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
       "source": "The Verge",
-      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
-      "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. The power purchase agreement is meant to guarantee the revenue […]",
+      "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
+      "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th. Sources […]",
       "importance": 7,
       "topics": [
-        "Google",
-        "infrastructure"
+        "Apple",
+        "חכם-ביתי",
+        "מכשירים"
       ],
-      "published": "2026-10-06T16:32:10-04:00"
+      "published": "2026-10-06T17:39:53-04:00"
     },
     {
-      "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-      "summary": "Paramount now owns Warner Bros. as last-ditch effort to stop $111B merger fails.",
-      "importance": 7,
-      "topics": [
-        "מיזוגים",
-        "Paramount",
-        "Warner"
-      ],
-      "published": "Tue, 06 Oct 2026 17:33:44 +0000"
-    },
-    {
-      "title": "טלטלה בשוק התקשורת: בזק בדרך להתמזג עם yes",
+      "title": "מ-HBO ו-DC ועד הארי פוטר: וורנר מתמזגת רשמית ל-Skydance",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/yes-bezeq-merger-might-be-on-the-way/",
-      "summary": "בגלל מגבלות רגולטוריות היסטוריות התרגלנו עד עכשיו לרכוש בנפרד את תשתית האינטרנט ושירותי הטלוויזיה. אבל כעת, על פי דיווח של נתי טוקר ב-TheMarker, המגמה המסתמנת במשרדי התקשורת והאוצר היא לאפשר את ביטולה של ההפרדה המבנית בבזק. המשמעות הישירה היא מיזוג תפעולי ושיווקי מלא בין ענקית התקשורת בזק לחברת הטלוויזיה yes, מה שיאפשר לבזק להציע חבילות […] The post טלטלה בשוק התקשורת: בזק בדרך להתמזג עם yes appea",
+      "url": "https://www.geektime.co.il/warner-bros-discovery-hbo-skydance-deal-is-complete/",
+      "summary": "אחרי כמעט שנה שלמה של דרמות, סכומי עתק, טוויסטים בעלילה ובגידות מבית, עכשיו זה סופי: דיוויד אליסון ושותפיו הודיעו כי השלימה את רכישת תאגיד Warner Bros. Discovery תמורת 110 מיליארד דולר. אז על אילו מותגים אליסון הניח את ידיו ומה עומד לקרות? One company to rule them all מעתה, מילת המפתח היא Skydance. זהו השם […] The post מ-HBO ו-DC ועד הארי פוטר: וורנר מתמזגת רשמית ל-Skydance appeared first on גיקטי",
       "importance": 7,
       "topics": [
-        "מיזוגים",
-        "תקשורת",
-        "רגולציה"
+        "מיזוג/רכישה",
+        "תעשיית הבידור",
+        "Skydance"
       ],
-      "published": "Tue, 06 Oct 2026 05:51:21 +0000"
+      "published": "Tue, 06 Oct 2026 14:00:00 +0000"
     },
     {
       "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
@@ -366,8 +365,7 @@
       "importance": 6,
       "topics": [
         "Apple",
-        "smart home",
-        "hardware"
+        "Smart Home"
       ],
       "published": "Tue, 06 Oct 2026 22:53:09 +0000"
     }
