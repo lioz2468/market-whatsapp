@@ -920,7 +920,8 @@
     "43bf149185a6468c": "2026-10-06T17:02:23.404434+00:00",
     "7e97e6e86a04241b": "2026-10-06T18:31:44.670580+00:00",
     "fe068b2d2fc7d341": "2026-10-07T05:00:39.356837+00:00",
-    "99565d7989342e34": "2026-10-07T06:31:13.088331+00:00"
+    "99565d7989342e34": "2026-10-07T06:31:13.088331+00:00",
+    "3abb2093f169f4bb": "2026-10-07T08:01:27.499957+00:00"
   },
   "messages": [
     {
@@ -13260,7 +13261,21 @@
         "גיאופוליטיקה",
         "ספנות"
       ]
+    },
+    {
+      "sent_at": "2026-10-07T08:01:27.499957+00:00",
+      "title": "$SPCX SEEKS $40B TO FUND MASSIVE $NVDA CHIP PURCHASE: FT SpaceX is looking to raise about $40B in financing led by Apollo to fund purchases of Nvidia chips. The plan includes roughly $10B in bank loans and $30B in investment-grade debt, with the transaction expected to close in https://t.co/L8EDaoMtZZ",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2107633225648779719",
+      "message": "SpaceX מגייסת 40 מיליארד דולר כדי לקנות שבבי Nvidia בסיטונאות - וזה אחד הגיוסים הגדולים בהיסטוריה של חברות פרטיות.\n\nהמבנה: כ-10 מיליארד הלוואות בנקאיות ועוד 30 מיליארד באג\"ח בדירוג השקעה, עם Apollo בראש. מה שמעניין פה זה לא רק NVIDIA שממשיכה לצבור הזמנות ענק - אלא שהשוק הפרטי כולו נכנס ברצינות לתחרות על תשתיות AI. בנקים, קרנות ואג\"ח קונבנציונלי - כולם כבר בפנים.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "SpaceX",
+        "Nvidia",
+        "השקעות בהון"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-07T06:30:32.299030+00:00"
+  "last_auto_run": "2026-10-07T08:00:35.715005+00:00"
 }
