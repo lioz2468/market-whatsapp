@@ -921,7 +921,8 @@
     "7e97e6e86a04241b": "2026-10-06T18:31:44.670580+00:00",
     "fe068b2d2fc7d341": "2026-10-07T05:00:39.356837+00:00",
     "99565d7989342e34": "2026-10-07T06:31:13.088331+00:00",
-    "3abb2093f169f4bb": "2026-10-07T08:01:27.499957+00:00"
+    "3abb2093f169f4bb": "2026-10-07T08:01:27.499957+00:00",
+    "de3f15778629c0f7": "2026-10-07T09:31:13.475019+00:00"
   },
   "messages": [
     {
@@ -13275,7 +13276,22 @@
         "Nvidia",
         "השקעות בהון"
       ]
+    },
+    {
+      "sent_at": "2026-10-07T09:31:13.475019+00:00",
+      "title": "SpaceX reportedly is looking to raise as much money as the company generates in revenue to buy Nvidia chips",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+      "message": "SpaceX מגייסת 40 מיליארד דולר - כמעט כגובה ההכנסות השנתיות שלה - כדי לרכוש שבבי Nvidia בכמויות עצומות.\n\nזה לא רק עסקה של חברה אחת. כל גיוס בסדר גודל כזה מחמם מחדש את הביקוש לשבבים, לחשמל ולמרכזי נתונים - בדיוק כשהשוק חשב שהשיא מאחורינו. ספקי קירור, יצרניות כבלים ואנרגיה - כולם נוגעים בסיפור הזה. ו-Nvidia, כמובן, לא מתלוננת.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "צ'יפים",
+        "Nvidia",
+        "מימון"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-07T08:00:35.715005+00:00"
+  "last_auto_run": "2026-10-07T09:30:31.284207+00:00"
 }
