@@ -1,19 +1,32 @@
 {
-  "generated_at": "2026-10-08T05:45:16.844204+00:00",
+  "generated_at": "2026-10-08T10:19:30.816484+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
-      "importance": 8,
+      "title": "How October 7 redrew the map of the Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss",
+      "summary": "Three years of war have upended alliances, weakened US influence and reshaped the region’s power balance.",
+      "importance": 9,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ביטחון"
+        "ישראל",
+        "מזרח תיכון",
+        "גיאופוליטיקה"
       ],
-      "published": "Wed, 07 Oct 2026 18:12:58 GMT"
+      "published": "Thu, 08 Oct 2026 06:11:24 +0000"
+    },
+    {
+      "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
+      "summary": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
+      "importance": 7,
+      "topics": [
+        "סוריה",
+        "לבנון",
+        "ארה״ב"
+      ],
+      "published": "Thu, 08 Oct 2026 05:00:00 -0400"
     },
     {
       "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
@@ -24,46 +37,48 @@
       "topics": [
         "ישראל",
         "איראן",
-        "בריטניה"
+        "ארה״ב"
       ],
       "published": "Wed, 07 Oct 2026 06:52:58 -0400"
     },
     {
-      "title": "Scientists win chemistry Nobel for discoveries about mirrored molecules that led to many drugs",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
-      "summary": "Scientists Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry for untangling mysterious mirror images in molecules, a discovery that has been used to develop countless drugs.",
-      "importance": 7,
-      "topics": [
-        "מדע",
-        "רפואה"
-      ],
-      "published": "Wed, 07 Oct 2026 06:05:54 -0400"
-    },
-    {
-      "title": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
-      "summary": "On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "פוליטיקה"
-      ],
-      "published": "Wed, 07 Oct 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
       "importance": 7,
       "topics": [
-        "ישראל",
-        "ביטחון",
-        "פוליטיקה"
+        "סוריה",
+        "לבנון",
+        "ארה״ב"
       ],
-      "published": "Wed, 07 Oct 2026 16:00:18 GMT"
+      "published": "Thu, 08 Oct 2026 05:00:44 GMT"
+    },
+    {
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+      "importance": 7,
+      "topics": [
+        "מזרח תיכון",
+        "ביטחון ימי",
+        "קטר"
+      ],
+      "published": "Thu, 08 Oct 2026 10:07:58 GMT"
+    },
+    {
+      "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
+      "importance": 7,
+      "topics": [
+        "אתיופיה",
+        "אריתריאה",
+        "סכסוך אזורי"
+      ],
+      "published": "Wed, 07 Oct 2026 18:40:52 GMT"
     },
     {
       "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
@@ -72,106 +87,53 @@
       "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
       "importance": 7,
       "topics": [
+        "מזרח תיכון",
         "סעודיה",
-        "חוותים",
-        "ביטחון"
+        "חות'ים"
       ],
       "published": "Thu, 08 Oct 2026 03:32:35 GMT"
     },
     {
-      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+      "title": "Bosnia’s political future looks increasingly like its past",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/8/bosnias-political-future-looks-increasingly-like-its-past?traffic_source=rss",
+      "summary": "Three nationalist parties are poised to dominate again, deepening fears of division and paralysis.",
       "importance": 7,
       "topics": [
-        "אפריקה",
-        "בריאות ציבורית",
-        "אתיופיה"
+        "בוסניה",
+        "בלקן",
+        "פוליטיקה"
       ],
-      "published": "Wed, 07 Oct 2026 12:46:39 GMT"
+      "published": "Thu, 08 Oct 2026 09:37:07 +0000"
     },
     {
-      "title": "Signage at UK consulate in East Jerusalem removed as Israel’s deadline over",
+      "title": "How Gaza war sped up India’s shift towards Israel under Modi",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
-      "summary": "Thursday marks 30 days since Israel's foreign minister ordered the closure of the UK consulate in occupied East Jerusalem.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss",
+      "summary": "As even Israel's traditional allies are distancing themselves from Netanyahu, Modi's India has embraced the country.",
       "importance": 7,
       "topics": [
+        "הודו",
         "ישראל",
-        "בריטניה",
-        "דיפלומטיה"
+        "גיאופוליטיקה"
       ],
-      "published": "Thu, 08 Oct 2026 05:06:25 +0000"
+      "published": "Thu, 08 Oct 2026 08:31:44 +0000"
     },
     {
-      "title": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+      "title": "Video: Signs removed from British consulate in occupied East Jerusalem",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss",
-      "summary": "The UK maritime agency has reported a rise in attacks on vessels in the vital Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-signs-removed-from-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
+      "summary": "Signs from the British consulate in occupied East Jerusalem were removed overnight as a deadline for its closure loomed.",
       "importance": 7,
       "topics": [
-        "קטר",
-        "היוטיים",
-        "מזרח תיכון"
+        "ירושלים",
+        "בריטניה",
+        "פלסטין"
       ],
-      "published": "Thu, 08 Oct 2026 02:48:25 +0000"
-    },
-    {
-      "title": "טראמפ \"לא מעוניין בהסכם\". דיווחים: צבא ארה\"ב נערך לחידוש המלחמה באיראן לפני בחירות האמצע",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hybuxovofl",
-      "summary": "בעצרת בחירות בטקסס טען הנשיא כי הוא אומנם \"לא באמת רוצה הסכם\", אך איראן \"מוכנה להציע כל דבר\". במקביל דיווחו מספר כלי תקשורת אמריקניים על האפשרות לחידוש המערכה מול טהרן כבר בשבועות הקרובים, עוד לפני הבחירות בתחילת החודש הבא: \"טראמפ דן עם צוותו על פעולות רחבות-היקף, הצבא נערך\"",
-      "importance": 7,
-      "topics": [
-        "אירן",
-        "ארה\"ב",
-        "ביטחון"
-      ],
-      "published": "Thu, 08 Oct 2026 08:07:32 +0300"
+      "published": "Thu, 08 Oct 2026 08:25:20 +0000"
     }
   ],
   "business": [
-    {
-      "title": "CNBC Daily Open: Fragile rebound in oil exports threatened by Iran attacks in Hormuz",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/10/07/trump-hormuz-oil-diesel-iran-anthropic-ai.html",
-      "summary": "כמעט 20 ספינות מסחריות, רובן מכליות נפט, הותקפו בחודש האחרון במיצר הורמוז ובמפרץ הפרסי. זה לא רק חדשות ממזרח התיכון - כ-20% מסחר הנפט העולמי עובר דרך שם, אז כשהמצב מתחמם, מחירי האנרגיה מרגישים את זה מהר. מה שפחות ברור: ספנות, ביטוחי ים וחברות לוגיסטיקה גלובליות נפגעות לא פחות - עלויות המשלוח קופצות כשספינות נאלצות לעקוף מסלולים שלמים.",
-      "importance": 9,
-      "topics": [
-        "אנרגיה",
-        "גיאופוליטיקה",
-        "ספנות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "$SPCX SEEKS $40B TO FUND MASSIVE $NVDA CHIP PURCHASE: FT SpaceX is looking to raise about $40B in financing led by Apollo to fund purchases of Nvidia chips. The plan includes roughly $10B in bank loans and $30B in investment-grade debt, with the transaction expected to close in https://t.co/L8EDaoMtZZ",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2107633225648779719",
-      "summary": "SpaceX מגייסת 40 מיליארד דולר כדי לקנות שבבי Nvidia בסיטונאות - וזה אחד הגיוסים הגדולים בהיסטוריה של חברות פרטיות.\n\nהמבנה: כ-10 מיליארד הלוואות בנקאיות ועוד 30 מיליארד באג\"ח בדירוג השקעה, עם Apollo בראש. מה שמעניין פה זה לא רק NVIDIA שממשיכה לצבור הזמנות ענק - אלא שהשוק הפרטי כולו נכנס ברצינות לתחרות על תשתיות AI. בנקים, קרנות ואג\"ח קונבנציונלי - כולם כבר בפנים.",
-      "importance": 9,
-      "topics": [
-        "SpaceX",
-        "Nvidia",
-        "השקעות בהון"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "SpaceX reportedly is looking to raise as much money as the company generates in revenue to buy Nvidia chips",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
-      "summary": "SpaceX מגייסת 40 מיליארד דולר - כמעט כגובה ההכנסות השנתיות שלה - כדי לרכוש שבבי Nvidia בכמויות עצומות.\n\nזה לא רק עסקה של חברה אחת. כל גיוס בסדר גודל כזה מחמם מחדש את הביקוש לשבבים, לחשמל ולמרכזי נתונים - בדיוק כשהשוק חשב שהשיא מאחורינו. ספקי קירור, יצרניות כבלים ואנרגיה - כולם נוגעים בסיפור הזה. ו-Nvidia, כמובן, לא מתלוננת.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "צ'יפים",
-        "Nvidia",
-        "מימון"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "10-year Treasury note yield hits highest level since 2002 as traders brace for key bond sale",
       "source": "CNBC Top News",
@@ -184,6 +146,45 @@
         "ריבית"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "CNBC Daily Open: Another Fed hike is on the horizon — but when?",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/10/08/fed-hike-inflation-samsung-lululemon-iea-oil.html",
+      "summary": "פרוטוקול הישיבה האחרונה של הפד יצא אתמול, והמסר ברור: רוב הנגידים עדיין מצפים להעלאת ריבית נוספת לפחות אחת עד סוף השנה. השוק כבר מתמחר את זה, אבל השאלה האמיתית היא לא \"אם\" - אלא \"מתי\". ריבית גבוהה לאורך זמן פוגעת בחברות צמיחה, מחזקת את הדולר, ומייקרת אשראי גם בשווקים מחוץ לארה\"ב - כולל פה.",
+      "importance": 9,
+      "topics": [
+        "פד",
+        "ריבית",
+        "מדיניות כלכלית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "BROADCOM SEEKS $50B+ IN FINANCING FOR OPENAI’S CUSTOM AI CHIPS: WSJ Apollo and Blackstone are among the lenders $AVGO has approached about participating. The financing could cover several gigawatts of chip capacity, with a deal expected before year-end. Discussions remain",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "summary": "Broadcom מגייסת מעל 50 מיליארד דולר למימון ייצור השבבים המותאמים של OpenAI - וזו לא סתם עסקה.\n\nApollo ו-Blackstone הם בין המממנים הפוטנציאליים, המימון יכסה כמה גיגאוואט של קיבולת ייצור, ועסקה צפויה עוד השנה.\n\nמה שמעניין כאן: כסף פרטי גדול נכנס ישירות לתשתיות AI - לא דרך מניות, אלא דרך חוב ותשתית פיזית. זה אומר שהמרוץ לשבבים מותאמים מואץ בצד אחד, ושחקני GPU כמו NVIDIA עשויים להרגיש לחץ תחרותי מצד אחר.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "צ'יפים",
+        "השקעות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+      "summary": "רווח תפעולי של 100 טריליון וון ברבעון - Samsung מדווחת על הרבעון הכי חזק בהיסטוריה שלה, ולראשונה עוברת את הרף הזה.\n\nהסיבה לא מפתיעה: ביקוש עצום לשבבי זיכרון מצד חברות שבונות תשתיות AI. כשמיקרוסופט, גוגל ואמזון מוציאות מאות מיליארדים על מרכזי נתונים - מישהו צריך לספק את הזיכרון.\n\nמה ששווה לשים לב אליו: זה אומר שהביקוש לחומרה ממשיך, ושה-AI boom רחוק מלהאט.",
+      "importance": 9,
+      "topics": [
+        "סמיכנדקטורים",
+        "בינה מלאכותית",
+        "דרום קוריאה"
+      ],
+      "tag": "גלובלי"
     },
     {
       "title": "NewMed insists $6.7b deal with Dalia Energy cancelled",
@@ -266,19 +267,6 @@
   ],
   "tech": [
     {
-      "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
-      "summary": "The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra and RTX Spark laptops from Dell, Lenovo, MSI, HP, and Asus start as low as $2,599 for configurations with an 18-core […]",
-      "importance": 8,
-      "topics": [
-        "חומרה",
-        "NVIDIA",
-        "מחשבים נייחים"
-      ],
-      "published": "2026-10-07T15:05:52-04:00"
-    },
-    {
       "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
@@ -286,10 +274,48 @@
       "importance": 8,
       "topics": [
         "Microsoft",
-        "חומרה",
-        "Surface"
+        "שבבים",
+        "NVIDIA"
       ],
       "published": "2026-10-07T14:42:22-04:00"
+    },
+    {
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of […]",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "Microsoft",
+        "Copilot"
+      ],
+      "published": "2026-10-07T14:01:20-04:00"
+    },
+    {
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "Google"
+      ],
+      "published": "Wed, 07 Oct 2026 14:00:08 +0000"
+    },
+    {
+      "title": "ראש בראש במקבוק פרו: מיקרוסופט ואנבידיה חושפות את Surface Laptop Ultra שיכול להריץ מודלי AI",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/microsoft-surface-laptop-ultra-rtx-spark/",
+      "summary": "באירוע השקה שנערך הלילה (ד') בסן פרנסיסקו, חשפה מיקרוסופט את ה-Surface Laptop Ultra. מדובר בלפטופ החזק ביותר שהיא ייצרה, והוא מיועד לדבריה למפתחים, יוצרי תוכן, עורכים וגיימרים. הסרפס לפטופ אולטרה, שמיועד להתחרות במקבוק פרו של אפל, אמור לאפשר להריץ מודלים ויישומי AI ישירות על המחשב כדי לחסוך את עלויות הענן הגבוהות, לשפר את הזמנים ועל […] The post ראש בראש במקבוק פרו: מיקרוסופט ואנבידיה חושפות את Su",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "חומרה",
+        "מיקרוסופט"
+      ],
+      "published": "Thu, 08 Oct 2026 07:22:34 +0000"
     },
     {
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
@@ -299,8 +325,8 @@
       "importance": 7,
       "topics": [
         "AI",
-        "AI Agents",
-        "מימון"
+        "סוכנים בינויים",
+        "גיוס הון"
       ],
       "published": "Wed, 07 Oct 2026 20:48:45 +0000"
     },
@@ -312,10 +338,23 @@
       "importance": 7,
       "topics": [
         "Microsoft",
-        "AI",
-        "שבבים"
+        "AI PC",
+        "NVIDIA"
       ],
       "published": "Wed, 07 Oct 2026 20:22:37 +0000"
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "importance": 7,
+      "topics": [
+        "OpenAI",
+        "בטיחות AI",
+        "ChatGPT"
+      ],
+      "published": "Wed, 07 Oct 2026 18:15:28 +0000"
     },
     {
       "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
@@ -329,45 +368,6 @@
         "ChatGPT"
       ],
       "published": "2026-10-07T15:10:42-04:00"
-    },
-    {
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Microsoft",
-        "Windows"
-      ],
-      "published": "2026-10-07T14:01:20-04:00"
-    },
-    {
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Microsoft",
-        "חומרה"
-      ],
-      "published": "Thu, 08 Oct 2026 00:00:24 +0000"
-    },
-    {
-      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-      "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "אבטחה",
-        "הונאה"
-      ],
-      "published": "Wed, 07 Oct 2026 17:57:39 +0000"
     }
   ]
 }
