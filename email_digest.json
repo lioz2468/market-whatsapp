@@ -1,58 +1,44 @@
 {
-  "generated_at": "2026-10-07T10:05:43.321602+00:00",
+  "generated_at": "2026-10-08T05:45:16.844204+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Former German spy chief arrested for espionage and treason",
+      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
       "importance": 8,
       "topics": [
-        "גרמניה",
-        "ביטחון",
-        "מרגלות"
+        "אוקראינה",
+        "רוסיה",
+        "ביטחון"
       ],
-      "published": "Tue, 06 Oct 2026 10:05:42 GMT"
+      "published": "Wed, 07 Oct 2026 18:12:58 GMT"
     },
     {
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-      "importance": 8,
+      "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
+      "summary": "A possible Iranian threat led the U.S. to remove long-range bombers from a U.K. base. And, Israelis are learning that their prime minister may have been warned before the Oct. 7 attacks.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "איראן",
+        "בריטניה"
+      ],
+      "published": "Wed, 07 Oct 2026 06:52:58 -0400"
+    },
+    {
+      "title": "Scientists win chemistry Nobel for discoveries about mirrored molecules that led to many drugs",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
+      "summary": "Scientists Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry for untangling mysterious mirror images in molecules, a discovery that has been used to develop countless drugs.",
+      "importance": 7,
       "topics": [
         "מדע",
-        "אסטרופיזיקה",
-        "פרס נובל"
+        "רפואה"
       ],
-      "published": "Tue, 06 Oct 2026 11:24:19 GMT"
-    },
-    {
-      "title": "What does a year-long ceasefire in Gaza look like?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
-      "summary": "Israel attacked Gaza nine days out of 10 during a so-called ceasefire.",
-      "importance": 8,
-      "topics": [
-        "גזה",
-        "ישראל",
-        "הפוגה"
-      ],
-      "published": "Wed, 07 Oct 2026 08:55:12 +0000"
-    },
-    {
-      "title": "At least 11 killed as Russia launches ‘massive’ attack on Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-      "summary": "Ukraine's air force says Russia launched 130 drones, 48 cruise missiles and ballistic missiles in overnight attack.",
-      "importance": 8,
-      "topics": [
-        "רוסיה",
-        "אוקראינה",
-        "מלחמה"
-      ],
-      "published": "Wed, 07 Oct 2026 06:19:26 +0000"
+      "published": "Wed, 07 Oct 2026 06:05:54 -0400"
     },
     {
       "title": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
@@ -62,155 +48,90 @@
       "importance": 7,
       "topics": [
         "ישראל",
-        "ביטחון"
+        "פוליטיקה"
       ],
       "published": "Wed, 07 Oct 2026 05:00:00 -0400"
     },
     {
-      "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets",
-      "summary": "A former head of Germany 's foreign intelligence service was arrested on suspicion that he had passed state secrets to a foreign intelligence service, the federal prosecutor's office said.",
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
       "importance": 7,
       "topics": [
-        "גרמניה",
+        "ישראל",
         "ביטחון",
-        "מודיעין"
+        "פוליטיקה"
       ],
-      "published": "Tue, 06 Oct 2026 07:31:48 -0400"
+      "published": "Wed, 07 Oct 2026 16:00:18 GMT"
     },
     {
-      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-      "summary": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
-      "importance": 7,
-      "topics": [
-        "מדע",
-        "פיזיקה"
-      ],
-      "published": "Tue, 06 Oct 2026 06:16:28 -0400"
-    },
-    {
-      "title": "What is pneumonic plague and how does it spread?",
+      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
       "importance": 7,
       "topics": [
-        "רוסיה",
-        "ביטחון ביולוגי",
-        "מחלות"
+        "סעודיה",
+        "חוותים",
+        "ביטחון"
       ],
-      "published": "Tue, 06 Oct 2026 15:35:22 GMT"
+      "published": "Thu, 08 Oct 2026 03:32:35 GMT"
     },
     {
-      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
-      "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
       "importance": 7,
       "topics": [
-        "ארה״ב",
-        "ביטחון",
-        "מרגלות"
+        "אפריקה",
+        "בריאות ציבורית",
+        "אתיופיה"
       ],
-      "published": "Tue, 06 Oct 2026 19:53:45 GMT"
+      "published": "Wed, 07 Oct 2026 12:46:39 GMT"
     },
     {
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+      "title": "Signage at UK consulate in East Jerusalem removed as Israel’s deadline over",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
+      "summary": "Thursday marks 30 days since Israel's foreign minister ordered the closure of the UK consulate in occupied East Jerusalem.",
       "importance": 7,
       "topics": [
-        "ארה״ב",
+        "ישראל",
+        "בריטניה",
+        "דיפלומטיה"
+      ],
+      "published": "Thu, 08 Oct 2026 05:06:25 +0000"
+    },
+    {
+      "title": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss",
+      "summary": "The UK maritime agency has reported a rise in attacks on vessels in the vital Strait of Hormuz.",
+      "importance": 7,
+      "topics": [
+        "קטר",
+        "היוטיים",
+        "מזרח תיכון"
+      ],
+      "published": "Thu, 08 Oct 2026 02:48:25 +0000"
+    },
+    {
+      "title": "טראמפ \"לא מעוניין בהסכם\". דיווחים: צבא ארה\"ב נערך לחידוש המלחמה באיראן לפני בחירות האמצע",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hybuxovofl",
+      "summary": "בעצרת בחירות בטקסס טען הנשיא כי הוא אומנם \"לא באמת רוצה הסכם\", אך איראן \"מוכנה להציע כל דבר\". במקביל דיווחו מספר כלי תקשורת אמריקניים על האפשרות לחידוש המערכה מול טהרן כבר בשבועות הקרובים, עוד לפני הבחירות בתחילת החודש הבא: \"טראמפ דן עם צוותו על פעולות רחבות-היקף, הצבא נערך\"",
+      "importance": 7,
+      "topics": [
         "אירן",
-        "גרעין"
+        "ארה\"ב",
+        "ביטחון"
       ],
-      "published": "Tue, 06 Oct 2026 20:15:31 GMT"
+      "published": "Thu, 08 Oct 2026 08:07:32 +0300"
     }
   ],
   "business": [
-    {
-      "title": "Google enters massive 3.6-GW power deal with Constellation Energy",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/06/google-enters-massive-3point6-gw-power-deal-with-constellation-energy-.html",
-      "summary": "גוגל חתמה על הסכם אנרגיה עם Constellation Energy בהיקף של 3.6 גיגה-וואט - הסכם החשמל הגדול ביותר שנחתם אי פעם ברשת החשמל האמריקאית. המהלך כולל הרחבת כושר הייצור בכמה תחנות כוח גרעיניות.\n\nהסיפור האמיתי פה הוא שגוגל לא קונה חשמל - היא מבטיחה לעצמה תשתית לשנים קדימה. מרוץ הבינה המלאכותית דורש כמויות אנרגיה שהרשת הקיימת פשוט לא יכולה לספק, וחברות הטק מבינות שמי שמבטיח את החשמל קודם - מנצח.\n\nמי שכדאי לשים אליהם לב: חברות שמספקות ציוד לתחנות גרעין ושירותי תחזוקה - הביקוש אליהן עומד לעלות בחדות.",
-      "importance": 9,
-      "topics": [
-        "אנרגיה",
-        "גרעין",
-        "AI"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Google $GOOGL and Constellation $CEG signed a 20-year nuclear power deal to add 890 MW to the PJM grid through upgrades at 11 reactors, backed by $4.3B in investment. They also agreed to a 15-year supply deal covering another 2.7 GW, with the first uprate expected in 2028. https://t.co/J1cNw2kpod",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2107418881900097695",
-      "summary": "גוגל ו-Constellation חתמו על עסקת אנרגיה גרעינית של 20 שנה בהיקף 4.3 מיליארד דולר - שדרוג של 11 כורים שיוסיפו 890 מגה-וואט לרשת החשמל האמריקאית. בנוסף, הסכם אספקה של 15 שנה לעוד 2.7 גיגה-וואט. הראשון מסוגו בסקאלה הזו.\n\nמה שמעניין כאן זה לא רק גוגל - זה הסיגנל לכל תעשיית הנתונים. כשענק טכנולוגיה נועל עצמו ל-20 שנה של גרעין, זה אומר שהצריכה של מרכזי הנתונים (data centers) הולכת לגדול בקצב שרק גרעין יכול לתת מענה אליו. שווה לשים לב גם לחברות הבנייה והתשתיות שיעבדו על השדרוגים האלה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "אנרגיה",
-        "תשתיות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-      "summary": "גוגל חתמה על עסקת אנרגיה גרעינית עם Constellation שמקבילה בהיקפה לכור גרעיני חדש שלם - והמניה של Constellation קפצה חדה בעקבות הבשורה.\n\nהסיפור האמיתי כאן הוא לא גוגל ספציפית - אלא שחברות הענק מתחילות להבין שרשת החשמל הקיימת פשוט לא מסוגלת לספק את מה שה-AI דורש. מרכזי נתונים צורכים כמויות אנרגיה שלא ראינו כמותן, ואנרגיה גרעינית היא אחד הפתרונות המועטים שיכולים לספק עוצמה אמינה בקנה מידה כזה.\n\nמי שכדאי לשים עליו עין - יצרני ציוד לתחנות כוח וחברות שירותי חשמל אזוריות. הביקוש אליהן עלול לעלות הרבה לפני שיצאו כותרות על כך.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "אנרגיה",
-        "גרעין",
-        "תשתיות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-      "summary": "גירעון הסחר האמריקאי קפץ ב-13.7% באוגוסט ל-105.6 מיליארד דולר - הרמה הגבוהה ביותר מאז לפני מכסי טראמפ בשנה שעברה. זה לא מספר יבש: חברות אמריקאיות ממשיכות לייבא בקצב גבוה, מה שאומר שהמכסים עדיין לא הצליחו לשנות את ההתנהגות בפועל. ההשפעה העקיפה שפחות מדברים עליה: דולר חלש יותר לאורך זמן פוגע בתשואות של משקיעים זרים שמחזיקים נכסים אמריקאים - ומגדיל את הלחץ על הפד.",
-      "importance": 9,
-      "topics": [
-        "סחר",
-        "מאקרו",
-        "טריפים"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "AT&T $T IS forming a 50/50 fiber JV with BlackRock’s GIP and CPP Investments, combining the Lumen fiber assets it recently acquired with its existing Gigapower venture. The proceeds will help bring net debt/adjusted EBITDA to ~2.5x within roughly three years.",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2107476491319775382",
-      "summary": "AT&T מקימה מיזם משותף 50/50 עם BlackRock ו-CPP Investments לבניית תשתיות סיבים אופטיים בארה\"ב. הם משלבים את נכסי הסיבים שרכשו לאחרונה מ-Lumen עם הוונצ'ר הקיים שלהם, Gigapower. העסקה תעזור ל-AT&T להוריד את יחס החוב שלה לרמה בריאה יותר תוך כשלוש שנים.\n\nמה שמעניין פה: BlackRock ו-CPP לא משקיעות בטלקום - הן משקיעות בתשתיות. בדיוק כמו כבישים ונמלים. זה אומר שהמוסדיים הגדולים מהמרים שהסיבים הם הבסיס של הכלכלה הדיגיטלית הבאה.",
-      "importance": 9,
-      "topics": [
-        "תשתיות",
-        "טלקום",
-        "השקעות מוסדיות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Marvell $MRVL now expects “approximately $20B” in total FY28 revenue, up from $18B previously, and sees $70B-$90B by FY31. CEO Matt Murphy also said Marvell now sees a ~$400B AI market by 2030, more than 4x its prior $94B opportunity estimate for 2028. https://t.co/RS7m3UxItH",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "Marvell העלתה את תחזית ההכנסות לשנת 2028 מ-18 מיליארד דולר ל-20 מיליארד, ורואה 70-90 מיליארד עד 2031. אבל המספר שבאמת תופס את תשומת הלב הוא הערכת שוק ה-AI לשנת 2030 - מ-94 מיליארד דולר ל-400 מיליארד. פי 4 בתיאבון בתוך מספר חודשים.\n\nזה לא רק טוב ל-Marvell - זה אומר שהביקוש לשבבי רשת, אחסון וחיבוריות בתוך מרכזי נתונים גדל בקצב שהשוק עוד לא מחשב במלואו. חברות כמו Broadcom ו-Arista Networks נמצאות בדיוק באותה שרשרת אספקה.",
-      "importance": 9,
-      "topics": [
-        "שבבים",
-        "AI",
-        "שוק גלובלי"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "CNBC Daily Open: Fragile rebound in oil exports threatened by Iran attacks in Hormuz",
       "source": "CNBC World",
@@ -252,122 +173,201 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive",
+      "title": "10-year Treasury note yield hits highest level since 2002 as traders brace for key bond sale",
       "source": "CNBC Top News",
-      "url": "",
-      "summary": "נפט ברנט נסחר סביב 100 דולר לחבית על רקע חזרת כוחות תימן לנמל מפרץ עדן מידי החות'ים - ומחירי האנרגיה כבר מגיבים.\n\nים אדום הוא אחד מצווארי הבקבוק הקריטיים של סחר הנפט הגלובלי. כשהמעבר שם לא בטוח, ספינות מקיפות את אפריקה - זה עולה יותר ולוקח שבועות נוספים. מי שיושפע מזה מעבר לנהגים בתחנת הדלק: חברות ייצור, שילוח ואפילו מחירי מזון - כי אנרגיה יקרה נכנסת לכל שרשרת אספקה.",
+      "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+      "summary": "תשואת האג\"ח האמריקאי ל-10 שנים עלתה לרמה הגבוהה ביותר מאז 2002 - וזה לא סתם מספר.\n\nכשהתשואות עולות כך, זה אומר שמשקיעים מוכרים אג\"ח, ולוחצים על הממשלה לשלם יותר כדי למשוך קונים. הריבית הגבוהה \"מתחרה\" בכל נכס אחר - מניות, נדל\"ן, השקעות בחברות סטארטאפ. ההשפעה העקיפה שפחות מדברים עליה: חברות שצריכות לגייס חוב יגלו עכשיו שזה עולה להן הרבה יותר - וזה יכול לבלום תוכניות צמיחה.",
+      "importance": 9,
+      "topics": [
+        "פד",
+        "אג\"ח",
+        "ריבית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "NewMed insists $6.7b deal with Dalia Energy cancelled",
+      "source": "גלובס כללי",
+      "url": "https://en.globes.co.il/en/article-1001558678#utm_source=RSS",
+      "summary": "עסקת 6.7 מיליארד דולר בין NewMed לדליה אנרגיה תקועה במחלוקת: NewMed טוענת שתנאים מקדימים בהסכם לא התקיימו והעסקה בטלה, דליה אנרגיה אומרת שהעסקה עדיין בתוקף. רשות התחרות כבר אישרה - אז המחלוקת היא לא רגולטורית אלא חוזית טהורה.\n\nמי שצריך לשים לב: בתי משפט בישראל יצטרכו להכריע, ועד אז - שני הצדדים בחוסר ודאות מוחלט. גם שאר שחקני האנרגיה בישראל עוקבים, כי הפרשנות המשפטית שתצא מזה תשפיע על איך עסקאות דומות מנוסחות בעתיד.",
       "importance": 8,
       "topics": [
-        "נפט",
-        "גיאופוליטיקה",
-        "אספקה",
-        "תשתיות"
+        "M&A",
+        "אנרגיה",
+        "תחרות"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "Stock Market Today: S&P 500, Nasdaq Futures Retreat After Record Highs",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026?mod=rss_markets_main",
+      "summary": "תשואת האג\"ח ל-30 שנה בארה\"ב עלתה לרמה הגבוהה ביותר מאז 2002 - שיא של 22 שנה. זה לא רק מספר: ככל שהתשואות עולות, כל נכס שמייצר הכנסה עתידית שווה פחות היום. מניות, נדל\"ן, תשתיות - כולם מושפעים, כי קצב ההיוון שלפיו מחשבים את שוויהם עולה. גם הציפיות לקיצוצי ריבית ב-2025 מתחילות להיראות פחות מובטחות ממה שחשבנו לפני כמה שבועות.",
+      "importance": 8,
+      "topics": [
+        "ריבית",
+        "אג״ח",
+        "שוק הון"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?mod=rss_markets_main",
+      "summary": "קרן הון סיכון מדאלאס שהמרה מוקדם על Groq - סטארטאפ שמאיים על NVIDIA בשוק מעבדי ה-AI - מגייסת עכשיו קרן של 10 מיליארד דולר. זה לא סכום רגיל: רוב קרנות הון הסיכון מגייסות כמה מאות מיליון לכל היותר. כשמדברים על 10 מיליארד, זה אומר שהרבה כסף מוסדי - פנסיות, קרנות עושר ריבוניות - מאמין שגל ההשקעות בתשתיות AI עוד רחוק מסיום. ההשפעה העקיפה: לחץ גובר על NVIDIA, ועוד הון שזורם לסטארטאפים שמנסים לבנות את שכבת החישוב הבאה.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "השקעות",
+        "טכנולוגיה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "ציפיות האינפלציה של הצרכנים האמריקאים קפצו ל-3.9% לשנה הקרובה - הרמה הגבוהה ביותר מאז מאי 2023. זה לא נתון סטטיסטי יבש: כשאנשים מצפים לאינפלציה גבוהה יותר, הם מתנהגים בהתאם - דורשים העלאות שכר, מקדימים רכישות, ומלחיצים את המחירים בפועל. הפד עוקב בדריכות אחרי המדד הזה, כי ציפיות שמתנתקות כלפי מעלה הן בדיוק מה שהוא לא רוצה לראות. השוק האמריקאי כבר מתחיל לתמחר פחות הורדות ריבית השנה - וזה משפיע על כולם, גם מחוץ לארה\"ב.",
+      "importance": 8,
+      "topics": [
+        "אינפלציה",
+        "פד",
+        "שוק"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "מניית Webull צנחה 18% אחרי שוועדת קונגרס פרסמה שהפלטפורמה לא ממש \"חברה אמריקאית\" כפי שהיא מציגה את עצמה - אלא שהנתונים של המשתמשים שלה חשופים לפיקוח סיני.\n\nזה לא רק בעיה של Webull. זה מדליק אור אדום על כל הפינטק עם שורשים סינים - ו-Robinhood, eToro וחברות דומות כבר יודעות שהרגולטורים עכשיו בקטע הזה. מי שנמצא בסביבה הזו ישמע עוד שאלות קשות בקרוב.",
+      "importance": 8,
+      "topics": [
+        "סייבר",
+        "רגולציה",
+        "פינטק"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Bond Yields Are Surging Around the World—but Not in China",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "תשואות האגרות ממשיכות לטפס בכל העולם - אבל סין עושה בדיוק ההפך. התשואה על אג\"ח ממשלת סין ל-10 שנים ירדה ל-1.7% בלבד, בזמן שבארה\"ב, אירופה ויפן התשואות בשמיים.\n\nזה לא סתם מספר. כשתשואות יורדות, המשמעות היא שמשקיעים קונים אג\"ח - כלומר מחפשים בטחון, לא צמיחה. זה מרתק כי זה מספר לנו שהשוק הסיני מתנהג כמו שוק שמצפה להאטה - לא להתאוששות. כדאי לשים לב לאיך זה ישפיע על הדולר מול מטבעות אסיה, ועל חברות שמחזיקות חשיפה גדולה לסין.",
+      "importance": 7,
+      "topics": [
+        "אגרות חוב",
+        "סין",
+        "שווקים"
       ],
       "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
+      "summary": "The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra and RTX Spark laptops from Dell, Lenovo, MSI, HP, and Asus start as low as $2,599 for configurations with an 18-core […]",
       "importance": 8,
       "topics": [
-        "AI",
-        "IPO",
-        "סטארטאפ"
+        "חומרה",
+        "NVIDIA",
+        "מחשבים נייחים"
       ],
-      "published": "Tue, 06 Oct 2026 20:00:30 +0000"
+      "published": "2026-10-07T15:05:52-04:00"
     },
     {
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and […]",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB […]",
       "importance": 8,
+      "topics": [
+        "Microsoft",
+        "חומרה",
+        "Surface"
+      ],
+      "published": "2026-10-07T14:42:22-04:00"
+    },
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "AI Agents",
+        "מימון"
+      ],
+      "published": "Wed, 07 Oct 2026 20:48:45 +0000"
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "importance": 7,
+      "topics": [
+        "Microsoft",
+        "AI",
+        "שבבים"
+      ],
+      "published": "Wed, 07 Oct 2026 20:22:37 +0000"
+    },
+    {
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]",
+      "importance": 7,
       "topics": [
         "AI",
         "OpenAI",
-        "מחקר"
+        "ChatGPT"
       ],
-      "published": "2026-10-06T19:26:38-04:00"
+      "published": "2026-10-07T15:10:42-04:00"
     },
     {
-      "title": "Google’s power-hungry data centers crave nuclear energy",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
       "source": "The Verge",
-      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
-      "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. The power purchase agreement is meant to guarantee the revenue […]",
-      "importance": 8,
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of […]",
+      "importance": 7,
       "topics": [
-        "Google",
-        "אנרגיה",
-        "AI-infra"
+        "AI",
+        "Microsoft",
+        "Windows"
       ],
-      "published": "2026-10-06T16:32:10-04:00"
+      "published": "2026-10-07T14:01:20-04:00"
     },
     {
-      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-      "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
-      "importance": 8,
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "importance": 7,
       "topics": [
+        "AI",
+        "Microsoft",
+        "חומרה"
+      ],
+      "published": "Thu, 08 Oct 2026 00:00:24 +0000"
+    },
+    {
+      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+      "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
+      "importance": 7,
+      "topics": [
+        "AI",
         "אבטחה",
-        "סייבר",
-        "תעודות TLS"
+        "הונאה"
       ],
-      "published": "Tue, 06 Oct 2026 19:21:14 +0000"
-    },
-    {
-      "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
-      "summary": "The storied Silicon Valley firm makes its first pure defense investment.",
-      "importance": 7,
-      "topics": [
-        "Defense Tech",
-        "Benchmark"
-      ],
-      "published": "Tue, 06 Oct 2026 16:29:12 +0000"
-    },
-    {
-      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-      "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th. Sources […]",
-      "importance": 7,
-      "topics": [
-        "Apple",
-        "חכם-ביתי",
-        "מכשירים"
-      ],
-      "published": "2026-10-06T17:39:53-04:00"
-    },
-    {
-      "title": "מ-HBO ו-DC ועד הארי פוטר: וורנר מתמזגת רשמית ל-Skydance",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/warner-bros-discovery-hbo-skydance-deal-is-complete/",
-      "summary": "אחרי כמעט שנה שלמה של דרמות, סכומי עתק, טוויסטים בעלילה ובגידות מבית, עכשיו זה סופי: דיוויד אליסון ושותפיו הודיעו כי השלימה את רכישת תאגיד Warner Bros. Discovery תמורת 110 מיליארד דולר. אז על אילו מותגים אליסון הניח את ידיו ומה עומד לקרות? One company to rule them all מעתה, מילת המפתח היא Skydance. זהו השם […] The post מ-HBO ו-DC ועד הארי פוטר: וורנר מתמזגת רשמית ל-Skydance appeared first on גיקטי",
-      "importance": 7,
-      "topics": [
-        "מיזוג/רכישה",
-        "תעשיית הבידור",
-        "Skydance"
-      ],
-      "published": "Tue, 06 Oct 2026 14:00:00 +0000"
-    },
-    {
-      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-      "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
-      "importance": 6,
-      "topics": [
-        "Apple",
-        "Smart Home"
-      ],
-      "published": "Tue, 06 Oct 2026 22:53:09 +0000"
+      "published": "Wed, 07 Oct 2026 17:57:39 +0000"
     }
   ]
 }
