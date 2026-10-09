@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-09T05:45:12.652110+00:00",
+  "generated_at": "2026-10-09T10:20:07.649985+00:00",
   "lookback_hours": 24,
   "world": [
-    {
-      "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
-      "summary": "Russia and Ukraine are locked in a long-range aerial war while their armies remain largely deadlocked on the front line, more than 4 1/2 years since Moscow's full-scale invasion.",
-      "importance": 9,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
-      ],
-      "published": "Thu, 08 Oct 2026 07:25:28 -0400"
-    },
     {
       "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
       "source": "BBC World",
@@ -29,56 +16,43 @@
       "published": "Thu, 08 Oct 2026 16:31:29 GMT"
     },
     {
-      "title": "ארה\"ב נערכת למתקפה של 3 ימים באיראן, טראמפ דחה 5 תוכניות: \"אחרי הבחירות\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hjol6ybjzx",
-      "summary": "\"ניו יורק טיימס\": הפנטגון גיבש בהוראת הנשיא תוכנית למבצע קצר ואינטנסיבי נגד הטילים והכטב\"מים של איראן, מתקני אנרגיה ומפקדות של משמרות המהפכה. 3 נושאות מטוסים צפויות להיפרס במזרח התיכון לראשונה מאז 2003, עם יותר מ-20 אלף חיילים ומאות מטוסים. אלא שטראמפ מהסס לחדש את הלחימה, למרות התגברות התקיפות האיראניות - והבטיח לא לתקוף לפני בחירות האמצע",
-      "importance": 9,
-      "topics": [
-        "ארה״ב",
-        "איראן",
-        "גיאופוליטיקה"
-      ],
-      "published": "Fri, 09 Oct 2026 01:55:35 +0300"
-    },
-    {
-      "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
+      "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
-      "summary": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+      "summary": "Russia and Ukraine are locked in a long-range aerial war while their armies remain largely deadlocked on the front line, more than 4 1/2 years since Moscow's full-scale invasion.",
       "importance": 8,
       "topics": [
-        "סוריה",
-        "לבנון",
-        "ארה״ב"
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
       ],
-      "published": "Thu, 08 Oct 2026 05:00:00 -0400"
+      "published": "Thu, 08 Oct 2026 07:25:28 -0400"
     },
     {
-      "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
+      "title": "Navi Pillay wins Nobel Peace Prize",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
-      "summary": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss",
+      "summary": "International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.",
       "importance": 8,
       "topics": [
-        "עזה",
-        "ישראל",
-        "סכסוך"
+        "פרס נובל",
+        "בינלאומי",
+        "משפט"
       ],
-      "published": "Fri, 09 Oct 2026 00:12:18 +0000"
+      "published": "Fri, 09 Oct 2026 09:28:18 +0000"
     },
     {
-      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+      "title": "South African Human Rights lawyer Navi Pillay wins Nobel Peace Prize",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
-      "summary": "U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
+      "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for advancing human rights and international law.",
       "importance": 7,
       "topics": [
-        "ונצואלה",
-        "ארה״ב",
-        "דיפלומטיה"
+        "זכויות אדם",
+        "פרסים בינלאומיים",
+        "דרום אפריקה"
       ],
-      "published": "Thu, 08 Oct 2026 12:05:37 -0400"
+      "published": "Fri, 09 Oct 2026 04:23:16 -0400"
     },
     {
       "title": "South Korea test-flies its first domestically developed hypersonic weapon",
@@ -87,8 +61,8 @@
       "summary": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
       "importance": 7,
       "topics": [
-        "קוריאה",
-        "צפון קוריאה",
+        "קוריאה דרומית",
+        "קוריאה צפונית",
         "נשקים"
       ],
       "published": "Thu, 08 Oct 2026 08:01:34 -0400"
@@ -100,79 +74,66 @@
       "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
       "importance": 7,
       "topics": [
-        "ונזואלה",
-        "צדק בינלאומי",
-        "זכויות אדם"
+        "ונצואלה",
+        "זכויות אדם",
+        "משפט"
       ],
       "published": "Thu, 08 Oct 2026 17:38:59 GMT"
     },
     {
-      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+      "title": "סעודיה: 3 הרוגים במתקפה על נמל התעופה בריאד, טיל פגע במטוס על הקרקע",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/skbsjqijml",
+      "summary": "אחרי יממה, רשות התעופה האזרחית בממלכה אישרה כי שתי תקיפות פגעו במתקני נמל התעופה הבינלאומי ובמטוס של חברת התעופה הלאומית. כמה בני אדם נפצעו, חלקם במצב קשה. החות'ים קיבלו אחריות: \"שיגרנו טילי שיוט\"",
       "importance": 7,
       "topics": [
-        "פרסי המפרץ",
-        "ביטחון ימי",
-        "קטר"
+        "סעודיה",
+        "טהרן",
+        "ביטחון"
       ],
-      "published": "Thu, 08 Oct 2026 12:11:31 GMT"
+      "published": "Fri, 09 Oct 2026 12:17:32 +0300"
     },
     {
-      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
-      "summary": "Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.",
+      "title": "פרס נובל לשלום לשופטת שהאשימה את ישראל ברצח עם",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/b1nvc11ljze",
+      "summary": "נאווי פילאי מדרום אפריקה כיהנה כנציבה החמישית של האו\"ם לזכויות האדם, וכיום שופטת בבית הדין לצדק בהאג בתיק שבו מואשמת מיאנמר ברצח עם. היא חיברה את דוח האו\"ם שקבע כי ישראל מבצעת רצח עם נגד הפלסטינים. על פי נימוקי ועדת הפרס, התואר הוענק לה כי \"מילאה תפקיד מרכזי בהבטחה כי נושאים כמו פשעי מלחמה, פשעים נגד האנושות ורצח עם יובאו לדין\"",
       "importance": 7,
       "topics": [
-        "סודן",
-        "דארפור",
-        "מועצת הביטחון"
+        "זכויות אדם",
+        "בית הדין הבינלאומי",
+        "ישראל"
       ],
-      "published": "Fri, 09 Oct 2026 00:50:38 +0000"
+      "published": "Fri, 09 Oct 2026 12:05:45 +0300"
+    },
+    {
+      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+      "summary": "U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.",
+      "importance": 6,
+      "topics": [
+        "וונצואלה",
+        "משפט בינלאומי",
+        "גיאופוליטיקה"
+      ],
+      "published": "Thu, 08 Oct 2026 12:05:37 -0400"
+    },
+    {
+      "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+      "summary": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation.",
+      "importance": 6,
+      "topics": [
+        "קוריאה דרומית",
+        "קוריאה צפונית",
+        "אוקראינה"
+      ],
+      "published": "Thu, 08 Oct 2026 08:13:54 -0400"
     }
   ],
   "business": [
-    {
-      "title": "CNBC Daily Open: Another Fed hike is on the horizon — but when?",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/10/08/fed-hike-inflation-samsung-lululemon-iea-oil.html",
-      "summary": "פרוטוקול הישיבה האחרונה של הפד יצא אתמול, והמסר ברור: רוב הנגידים עדיין מצפים להעלאת ריבית נוספת לפחות אחת עד סוף השנה. השוק כבר מתמחר את זה, אבל השאלה האמיתית היא לא \"אם\" - אלא \"מתי\". ריבית גבוהה לאורך זמן פוגעת בחברות צמיחה, מחזקת את הדולר, ומייקרת אשראי גם בשווקים מחוץ לארה\"ב - כולל פה.",
-      "importance": 9,
-      "topics": [
-        "פד",
-        "ריבית",
-        "מדיניות כלכלית"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "BROADCOM SEEKS $50B+ IN FINANCING FOR OPENAI’S CUSTOM AI CHIPS: WSJ Apollo and Blackstone are among the lenders $AVGO has approached about participating. The financing could cover several gigawatts of chip capacity, with a deal expected before year-end. Discussions remain",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "Broadcom מגייסת מעל 50 מיליארד דולר למימון ייצור השבבים המותאמים של OpenAI - וזו לא סתם עסקה.\n\nApollo ו-Blackstone הם בין המממנים הפוטנציאליים, המימון יכסה כמה גיגאוואט של קיבולת ייצור, ועסקה צפויה עוד השנה.\n\nמה שמעניין כאן: כסף פרטי גדול נכנס ישירות לתשתיות AI - לא דרך מניות, אלא דרך חוב ותשתית פיזית. זה אומר שהמרוץ לשבבים מותאמים מואץ בצד אחד, ושחקני GPU כמו NVIDIA עשויים להרגיש לחץ תחרותי מצד אחר.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "צ'יפים",
-        "השקעות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-      "summary": "רווח תפעולי של 100 טריליון וון ברבעון - Samsung מדווחת על הרבעון הכי חזק בהיסטוריה שלה, ולראשונה עוברת את הרף הזה.\n\nהסיבה לא מפתיעה: ביקוש עצום לשבבי זיכרון מצד חברות שבונות תשתיות AI. כשמיקרוסופט, גוגל ואמזון מוציאות מאות מיליארדים על מרכזי נתונים - מישהו צריך לספק את הזיכרון.\n\nמה ששווה לשים לב אליו: זה אומר שהביקוש לחומרה ממשיך, ושה-AI boom רחוק מלהאט.",
-      "importance": 9,
-      "topics": [
-        "סמיכנדקטורים",
-        "בינה מלאכותית",
-        "דרום קוריאה"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
       "source": "TechCrunch",
@@ -276,8 +237,8 @@
       "importance": 8,
       "topics": [
         "Google",
-        "AI Agents",
-        "Gemini"
+        "AI",
+        "עדכון מוצר"
       ],
       "published": "Thu, 08 Oct 2026 18:18:00 +0000"
     },
@@ -289,8 +250,8 @@
       "importance": 8,
       "topics": [
         "AI",
-        "Nvidia",
-        "רובוטיקה"
+        "רובוטיקה",
+        "Nvidia"
       ],
       "published": "Thu, 08 Oct 2026 11:15:33 +0000"
     },
@@ -302,36 +263,36 @@
       "importance": 7,
       "topics": [
         "OpenAI",
-        "AI Safety",
-        "ממשל"
+        "AI",
+        "ממשל תאגידי"
       ],
       "published": "Thu, 08 Oct 2026 20:04:26 +0000"
     },
     {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
       "importance": 7,
       "topics": [
+        "OpenAI",
         "AI",
-        "Funding",
-        "LMArena"
+        "פיננסים"
       ],
-      "published": "Thu, 08 Oct 2026 18:19:45 +0000"
+      "published": "Thu, 08 Oct 2026 18:19:42 +0000"
     },
     {
-      "title": "Anthropic launches free AI security scans for open-source projects",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was […]",
       "importance": 7,
       "topics": [
         "AI",
-        "אבטחה",
-        "Anthropic"
+        "OpenAI",
+        "בטיחות"
       ],
-      "published": "2026-10-08T17:53:51-04:00"
+      "published": "2026-10-09T05:48:26-04:00"
     },
     {
       "title": "SpaceX announces plan to become a ‘major mobile carrier’",
@@ -342,7 +303,7 @@
       "topics": [
         "SpaceX",
         "תקשורת",
-        "טלקום"
+        "סטארלינק"
       ],
       "published": "2026-10-08T17:23:31-04:00"
     },
@@ -355,22 +316,22 @@
       "topics": [
         "Amazon",
         "לוויינים",
-        "אינטרנט"
+        "אינטרנט קוסמי"
       ],
       "published": "Thu, 08 Oct 2026 15:28:36 +0000"
     },
     {
-      "title": "ראש בראש במקבוק פרו: מיקרוסופט ואנבידיה חושפות את Surface Laptop Ultra שיכול להריץ מודלי AI",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/microsoft-surface-laptop-ultra-rtx-spark/",
-      "summary": "באירוע השקה שנערך הלילה (ד') בסן פרנסיסקו, חשפה מיקרוסופט את ה-Surface Laptop Ultra. מדובר בלפטופ החזק ביותר שהיא ייצרה, והוא מיועד לדבריה למפתחים, יוצרי תוכן, עורכים וגיימרים. הסרפס לפטופ אולטרה, שמיועד להתחרות במקבוק פרו של אפל, אמור לאפשר להריץ מודלים ויישומי AI ישירות על המחשב כדי לחסוך את עלויות הענן הגבוהות, לשפר את הזמנים ועל […] The post ראש בראש במקבוק פרו: מיקרוסופט ואנבידיה חושפות את Su",
-      "importance": 7,
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "importance": 6,
       "topics": [
         "AI",
-        "Microsoft",
-        "hardware"
+        "גיוס הון",
+        "מודלים לשוניים"
       ],
-      "published": "Thu, 08 Oct 2026 07:22:34 +0000"
+      "published": "Thu, 08 Oct 2026 18:19:45 +0000"
     }
   ]
 }
