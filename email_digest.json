@@ -1,26 +1,52 @@
 {
-  "generated_at": "2026-10-08T10:19:30.816484+00:00",
+  "generated_at": "2026-10-09T05:45:12.652110+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "How October 7 redrew the map of the Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss",
-      "summary": "Three years of war have upended alliances, weakened US influence and reshaped the region’s power balance.",
+      "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+      "summary": "Russia and Ukraine are locked in a long-range aerial war while their armies remain largely deadlocked on the front line, more than 4 1/2 years since Moscow's full-scale invasion.",
       "importance": 9,
       "topics": [
-        "ישראל",
-        "מזרח תיכון",
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
+      ],
+      "published": "Thu, 08 Oct 2026 07:25:28 -0400"
+    },
+    {
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "importance": 9,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
+      ],
+      "published": "Thu, 08 Oct 2026 16:31:29 GMT"
+    },
+    {
+      "title": "ארה\"ב נערכת למתקפה של 3 ימים באיראן, טראמפ דחה 5 תוכניות: \"אחרי הבחירות\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hjol6ybjzx",
+      "summary": "\"ניו יורק טיימס\": הפנטגון גיבש בהוראת הנשיא תוכנית למבצע קצר ואינטנסיבי נגד הטילים והכטב\"מים של איראן, מתקני אנרגיה ומפקדות של משמרות המהפכה. 3 נושאות מטוסים צפויות להיפרס במזרח התיכון לראשונה מאז 2003, עם יותר מ-20 אלף חיילים ומאות מטוסים. אלא שטראמפ מהסס לחדש את הלחימה, למרות התגברות התקיפות האיראניות - והבטיח לא לתקוף לפני בחירות האמצע",
+      "importance": 9,
+      "topics": [
+        "ארה״ב",
+        "איראן",
         "גיאופוליטיקה"
       ],
-      "published": "Thu, 08 Oct 2026 06:11:24 +0000"
+      "published": "Fri, 09 Oct 2026 01:55:35 +0300"
     },
     {
       "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
       "source": "NPR World",
       "url": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
       "summary": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
-      "importance": 7,
+      "importance": 8,
       "topics": [
         "סוריה",
         "לבנון",
@@ -29,30 +55,56 @@
       "published": "Thu, 08 Oct 2026 05:00:00 -0400"
     },
     {
-      "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
-      "summary": "A possible Iranian threat led the U.S. to remove long-range bombers from a U.K. base. And, Israelis are learning that their prime minister may have been warned before the Oct. 7 attacks.",
-      "importance": 7,
+      "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
+      "summary": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.",
+      "importance": 8,
       "topics": [
+        "עזה",
         "ישראל",
-        "איראן",
-        "ארה״ב"
+        "סכסוך"
       ],
-      "published": "Wed, 07 Oct 2026 06:52:58 -0400"
+      "published": "Fri, 09 Oct 2026 00:12:18 +0000"
     },
     {
-      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
+      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+      "summary": "U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.",
       "importance": 7,
       "topics": [
-        "סוריה",
-        "לבנון",
-        "ארה״ב"
+        "ונצואלה",
+        "ארה״ב",
+        "דיפלומטיה"
       ],
-      "published": "Thu, 08 Oct 2026 05:00:44 GMT"
+      "published": "Thu, 08 Oct 2026 12:05:37 -0400"
+    },
+    {
+      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
+      "summary": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
+      "importance": 7,
+      "topics": [
+        "קוריאה",
+        "צפון קוריאה",
+        "נשקים"
+      ],
+      "published": "Thu, 08 Oct 2026 08:01:34 -0400"
+    },
+    {
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "importance": 7,
+      "topics": [
+        "ונזואלה",
+        "צדק בינלאומי",
+        "זכויות אדם"
+      ],
+      "published": "Thu, 08 Oct 2026 17:38:59 GMT"
     },
     {
       "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
@@ -61,92 +113,27 @@
       "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
       "importance": 7,
       "topics": [
-        "מזרח תיכון",
+        "פרסי המפרץ",
         "ביטחון ימי",
         "קטר"
       ],
-      "published": "Thu, 08 Oct 2026 10:07:58 GMT"
+      "published": "Thu, 08 Oct 2026 12:11:31 GMT"
     },
     {
-      "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
-      "importance": 7,
-      "topics": [
-        "אתיופיה",
-        "אריתריאה",
-        "סכסוך אזורי"
-      ],
-      "published": "Wed, 07 Oct 2026 18:40:52 GMT"
-    },
-    {
-      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
-      "importance": 7,
-      "topics": [
-        "מזרח תיכון",
-        "סעודיה",
-        "חות'ים"
-      ],
-      "published": "Thu, 08 Oct 2026 03:32:35 GMT"
-    },
-    {
-      "title": "Bosnia’s political future looks increasingly like its past",
+      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/8/bosnias-political-future-looks-increasingly-like-its-past?traffic_source=rss",
-      "summary": "Three nationalist parties are poised to dominate again, deepening fears of division and paralysis.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
+      "summary": "Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.",
       "importance": 7,
       "topics": [
-        "בוסניה",
-        "בלקן",
-        "פוליטיקה"
+        "סודן",
+        "דארפור",
+        "מועצת הביטחון"
       ],
-      "published": "Thu, 08 Oct 2026 09:37:07 +0000"
-    },
-    {
-      "title": "How Gaza war sped up India’s shift towards Israel under Modi",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss",
-      "summary": "As even Israel's traditional allies are distancing themselves from Netanyahu, Modi's India has embraced the country.",
-      "importance": 7,
-      "topics": [
-        "הודו",
-        "ישראל",
-        "גיאופוליטיקה"
-      ],
-      "published": "Thu, 08 Oct 2026 08:31:44 +0000"
-    },
-    {
-      "title": "Video: Signs removed from British consulate in occupied East Jerusalem",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-signs-removed-from-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
-      "summary": "Signs from the British consulate in occupied East Jerusalem were removed overnight as a deadline for its closure loomed.",
-      "importance": 7,
-      "topics": [
-        "ירושלים",
-        "בריטניה",
-        "פלסטין"
-      ],
-      "published": "Thu, 08 Oct 2026 08:25:20 +0000"
+      "published": "Fri, 09 Oct 2026 00:50:38 +0000"
     }
   ],
   "business": [
-    {
-      "title": "10-year Treasury note yield hits highest level since 2002 as traders brace for key bond sale",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-      "summary": "תשואת האג\"ח האמריקאי ל-10 שנים עלתה לרמה הגבוהה ביותר מאז 2002 - וזה לא סתם מספר.\n\nכשהתשואות עולות כך, זה אומר שמשקיעים מוכרים אג\"ח, ולוחצים על הממשלה לשלם יותר כדי למשוך קונים. הריבית הגבוהה \"מתחרה\" בכל נכס אחר - מניות, נדל\"ן, השקעות בחברות סטארטאפ. ההשפעה העקיפה שפחות מדברים עליה: חברות שצריכות לגייס חוב יגלו עכשיו שזה עולה להן הרבה יותר - וזה יכול לבלום תוכניות צמיחה.",
-      "importance": 9,
-      "topics": [
-        "פד",
-        "אג\"ח",
-        "ריבית"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "CNBC Daily Open: Another Fed hike is on the horizon — but when?",
       "source": "CNBC World",
@@ -187,187 +174,203 @@
       "tag": "גלובלי"
     },
     {
-      "title": "NewMed insists $6.7b deal with Dalia Energy cancelled",
-      "source": "גלובס כללי",
-      "url": "https://en.globes.co.il/en/article-1001558678#utm_source=RSS",
-      "summary": "עסקת 6.7 מיליארד דולר בין NewMed לדליה אנרגיה תקועה במחלוקת: NewMed טוענת שתנאים מקדימים בהסכם לא התקיימו והעסקה בטלה, דליה אנרגיה אומרת שהעסקה עדיין בתוקף. רשות התחרות כבר אישרה - אז המחלוקת היא לא רגולטורית אלא חוזית טהורה.\n\nמי שצריך לשים לב: בתי משפט בישראל יצטרכו להכריע, ועד אז - שני הצדדים בחוסר ודאות מוחלט. גם שאר שחקני האנרגיה בישראל עוקבים, כי הפרשנות המשפטית שתצא מזה תשפיע על איך עסקאות דומות מנוסחות בעתיד.",
-      "importance": 8,
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "summary": "ההכנסות של OpenAI לא $70 מיליארד בשנה - אלא $50 מיליארד. פער של $20 מיליארד בין מה שדווח קודם לבין המספר האמיתי, וזה לא עניין קטן.\n\nהסיבה שזה חשוב מעבר ל-OpenAI עצמה: כל חברות ה-AI מתומחרות כרגע על בסיס ציפיות לצמיחה מהירה. כשהמובילה בתחום מראה פער כזה בין הסיפור לבין המספרים - זה שאלה על כל הסקטור. ספקי תשתיות ענן שמשרתות אותן, ומשקיעים שהימרו על הגל - כולם בעין.",
+      "importance": 9,
       "topics": [
-        "M&A",
-        "אנרגיה",
-        "תחרות"
+        "AI",
+        "OpenAI",
+        "הערכות"
       ],
-      "tag": "ישראל"
+      "tag": "גלובלי"
     },
     {
-      "title": "Stock Market Today: S&P 500, Nasdaq Futures Retreat After Record Highs",
+      "title": "European Gas Prices Climb on LNG Shipping Risks",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026?mod=rss_markets_main",
-      "summary": "תשואת האג\"ח ל-30 שנה בארה\"ב עלתה לרמה הגבוהה ביותר מאז 2002 - שיא של 22 שנה. זה לא רק מספר: ככל שהתשואות עולות, כל נכס שמייצר הכנסה עתידית שווה פחות היום. מניות, נדל\"ן, תשתיות - כולם מושפעים, כי קצב ההיוון שלפיו מחשבים את שוויהם עולה. גם הציפיות לקיצוצי ריבית ב-2025 מתחילות להיראות פחות מובטחות ממה שחשבנו לפני כמה שבועות.",
+      "url": "",
+      "summary": "מחירי הגז הטבעי באירופה עלו מחדש מעל 80 אירו למגה-וואט שעה, אחרי שהתקפות על ספינות במפרץ העלו סימני שאלה על אספקת הגז הנוזלי (LNG) לאירופה.\n\nההקשר פשוט: אירופה עברה בשנים האחרונות ממסלול רוסי לגז אמריקאי ואחר שמגיע בים. ברגע שהמסלול הזה נראה פחות בטוח - המחיר קופץ.\n\nמי שלא ברור שיושפע: חברות שבבים ומפעלים תעשייתיים גדולים באירופה, שעלויות האנרגיה שלהם עולות ישירות - וזה לוחץ על שולי הרווח שלהם.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
+        "LNG",
+        "ספקה",
+        "ריסק ג'יאופוליטי"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "תשואות האג\"ח האמריקאיות ממשיכות לעלות - וזה מתחיל לפגוע דווקא במניות שהובילו את 2026 עד כה, בעיקר מחוץ לקבוצת הטק הגדולה שסופגת את כל תשומת הלב.\n\nהלוגיקה פשוטה: כשאג\"ח ממשלתי מציע תשואה גבוהה יותר, המשקיעים דורשים יותר גם ממניות - וזה מוריד את שוויין, במיוחד של חברות שצמיחתן רחוקה בזמן. הכי פגיעות הן חברות קטנות ובינוניות, נדל\"ן, ותשתיות - סגמנטים שאנשים פחות מסתכלים עליהם עכשיו, אבל בדיוק שם הכאב מורגש.",
       "importance": 8,
       "topics": [
         "ריבית",
         "אג״ח",
-        "שוק הון"
+        "מניות טק",
+        "זרימת הון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
+      "summary": "הפער בין אגרות החוב של צרפת לגרמניה הגיע בשבוע שעבר לרמה הגבוהה ביותר שנמדדה מאז 1990 - ולפי הכותרת, אנחנו בעשור הגרוע ביותר לאג\"ח הצרפתי מאז 1803.\n\nהפער הזה הוא בעצם מד הסיכון של שוק האג\"ח האירופי. כשהוא מתרחב, זה אומר שהמשקיעים דורשים פיצוי גבוה יותר כדי להחזיק חוב צרפתי - ומי שמחזיק אגרות כבר מפסיד על הנייר.\n\nהשפעה עקיפה שפחות מדברים עליה: בנקים אירופיים שיושבים על כמויות גדולות של אג\"ח צרפתי יספגו לחץ, ואיתם גם היורו.",
+      "importance": 8,
+      "topics": [
+        "אג״ח",
+        "משבר חוב",
+        "אירופה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "מאז ה-1 בספטמבר, רק טכנולוגיה עלתה מבין 11 הסקטורים של ה-S&P 500 - כל השאר ירדו. הסיבה: תשואות האג\"ח האמריקאיות הגיעו לשיאים של עשרות שנים, מה שפוגע בכל מי שצריך להחזיר חוב או לתת דיבידנד - נדל\"ן, תשתיות, פיננסים. אבל חברות הטכנולוגיה הגדולות יושבות על הרים של מזומן, אז הריבית הגבוהה פחות מפחידה אותן. מעניין לראות שגם בתוך הטכנולוגיה - מי שיש לו חוב גבוה כנראה לא הרגיש את אותה הגנה.",
+      "importance": 8,
+      "topics": [
+        "ריבית",
+        "טכנולוגיה",
+        "S&P 500"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "המחקר של הפד בניו יורק יצא עם נתון שקשה להתעלם ממנו: המכסים של טראמפ הוסיפו 2.9 נקודות אחוז לאינפלציה ב-67 קטגוריות של מוצרי יום-יום - כלומר כל עליית המחירים שם הגיעה מהמכסים, לא מביקוש גבוה או ממחסור. זה לא ניתוח פוליטי, זה מחקר של הפד עצמו. ההשפעה תגיע גם לשווקי האג\"ח, כי אינפלציה שמגיעה ממכסים מסבכת לפד מאוד את ההחלטה מתי להוריד ריבית.",
+      "importance": 8,
+      "topics": [
+        "אינפלציה",
+        "מכסים",
+        "מדיניות"
       ],
       "tag": "ארה\"ב"
     },
     {
-      "title": "Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?mod=rss_markets_main",
-      "summary": "קרן הון סיכון מדאלאס שהמרה מוקדם על Groq - סטארטאפ שמאיים על NVIDIA בשוק מעבדי ה-AI - מגייסת עכשיו קרן של 10 מיליארד דולר. זה לא סכום רגיל: רוב קרנות הון הסיכון מגייסות כמה מאות מיליון לכל היותר. כשמדברים על 10 מיליארד, זה אומר שהרבה כסף מוסדי - פנסיות, קרנות עושר ריבוניות - מאמין שגל ההשקעות בתשתיות AI עוד רחוק מסיום. ההשפעה העקיפה: לחץ גובר על NVIDIA, ועוד הון שזורם לסטארטאפים שמנסים לבנות את שכבת החישוב הבאה.",
+      "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "תשואות האג\"ח האמריקאיות ירדו אתמול אחרי שבוע של לחץ כבד - וזה בעצם חדשות טובות.\n\nהסיפור האמיתי: שוק האג\"ח עבר בשבועות האחרונים \"מבחן ביטחון\" מול משקיעים גלובליים, ועצם הירידה בתשואות מראה שהם עדיין מוכנים להחזיק חוב אמריקאי. כשהתשואות עולות, עלות ההלוואות עולה לכולם - חברות, משכנתאות, הלוואות לעסקים קטנים. ההשפעה העקיפה שפחות מדברים עליה: מניות צמיחה, במיוחד בטק, רגישות מאוד לשינויים כאלה - ריבית גבוהה יותר שוחקת את הערך של הרווחים העתידיים שלהן.",
       "importance": 8,
       "topics": [
-        "AI",
-        "השקעות",
-        "טכנולוגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "ציפיות האינפלציה של הצרכנים האמריקאים קפצו ל-3.9% לשנה הקרובה - הרמה הגבוהה ביותר מאז מאי 2023. זה לא נתון סטטיסטי יבש: כשאנשים מצפים לאינפלציה גבוהה יותר, הם מתנהגים בהתאם - דורשים העלאות שכר, מקדימים רכישות, ומלחיצים את המחירים בפועל. הפד עוקב בדריכות אחרי המדד הזה, כי ציפיות שמתנתקות כלפי מעלה הן בדיוק מה שהוא לא רוצה לראות. השוק האמריקאי כבר מתחיל לתמחר פחות הורדות ריבית השנה - וזה משפיע על כולם, גם מחוץ לארה\"ב.",
-      "importance": 8,
-      "topics": [
-        "אינפלציה",
-        "פד",
-        "שוק"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "מניית Webull צנחה 18% אחרי שוועדת קונגרס פרסמה שהפלטפורמה לא ממש \"חברה אמריקאית\" כפי שהיא מציגה את עצמה - אלא שהנתונים של המשתמשים שלה חשופים לפיקוח סיני.\n\nזה לא רק בעיה של Webull. זה מדליק אור אדום על כל הפינטק עם שורשים סינים - ו-Robinhood, eToro וחברות דומות כבר יודעות שהרגולטורים עכשיו בקטע הזה. מי שנמצא בסביבה הזו ישמע עוד שאלות קשות בקרוב.",
-      "importance": 8,
-      "topics": [
-        "סייבר",
-        "רגולציה",
-        "פינטק"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Bond Yields Are Surging Around the World—but Not in China",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "תשואות האגרות ממשיכות לטפס בכל העולם - אבל סין עושה בדיוק ההפך. התשואה על אג\"ח ממשלת סין ל-10 שנים ירדה ל-1.7% בלבד, בזמן שבארה\"ב, אירופה ויפן התשואות בשמיים.\n\nזה לא סתם מספר. כשתשואות יורדות, המשמעות היא שמשקיעים קונים אג\"ח - כלומר מחפשים בטחון, לא צמיחה. זה מרתק כי זה מספר לנו שהשוק הסיני מתנהג כמו שוק שמצפה להאטה - לא להתאוששות. כדאי לשים לב לאיך זה ישפיע על הדולר מול מטבעות אסיה, ועל חברות שמחזיקות חשיפה גדולה לסין.",
-      "importance": 7,
-      "topics": [
-        "אגרות חוב",
-        "סין",
-        "שווקים"
+        "אג״ח",
+        "תשואות",
+        "סיכון"
       ],
       "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB […]",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
       "importance": 8,
       "topics": [
-        "Microsoft",
-        "שבבים",
-        "NVIDIA"
+        "Google",
+        "AI Agents",
+        "Gemini"
       ],
-      "published": "2026-10-07T14:42:22-04:00"
+      "published": "Thu, 08 Oct 2026 18:18:00 +0000"
     },
     {
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of […]",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "Microsoft",
-        "Copilot"
-      ],
-      "published": "2026-10-07T14:01:20-04:00"
-    },
-    {
-      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-      "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
       "importance": 8,
       "topics": [
         "AI",
-        "Google"
+        "Nvidia",
+        "רובוטיקה"
       ],
-      "published": "Wed, 07 Oct 2026 14:00:08 +0000"
+      "published": "Thu, 08 Oct 2026 11:15:33 +0000"
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "importance": 7,
+      "topics": [
+        "OpenAI",
+        "AI Safety",
+        "ממשל"
+      ],
+      "published": "Thu, 08 Oct 2026 20:04:26 +0000"
+    },
+    {
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Funding",
+        "LMArena"
+      ],
+      "published": "Thu, 08 Oct 2026 18:19:45 +0000"
+    },
+    {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "אבטחה",
+        "Anthropic"
+      ],
+      "published": "2026-10-08T17:53:51-04:00"
+    },
+    {
+      "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+      "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a […]",
+      "importance": 7,
+      "topics": [
+        "SpaceX",
+        "תקשורת",
+        "טלקום"
+      ],
+      "published": "2026-10-08T17:23:31-04:00"
+    },
+    {
+      "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
+      "summary": "\"If this was easy, everybody else would be doing it.\"",
+      "importance": 7,
+      "topics": [
+        "Amazon",
+        "לוויינים",
+        "אינטרנט"
+      ],
+      "published": "Thu, 08 Oct 2026 15:28:36 +0000"
     },
     {
       "title": "ראש בראש במקבוק פרו: מיקרוסופט ואנבידיה חושפות את Surface Laptop Ultra שיכול להריץ מודלי AI",
       "source": "גיקטיים",
       "url": "https://www.geektime.co.il/microsoft-surface-laptop-ultra-rtx-spark/",
       "summary": "באירוע השקה שנערך הלילה (ד') בסן פרנסיסקו, חשפה מיקרוסופט את ה-Surface Laptop Ultra. מדובר בלפטופ החזק ביותר שהיא ייצרה, והוא מיועד לדבריה למפתחים, יוצרי תוכן, עורכים וגיימרים. הסרפס לפטופ אולטרה, שמיועד להתחרות במקבוק פרו של אפל, אמור לאפשר להריץ מודלים ויישומי AI ישירות על המחשב כדי לחסוך את עלויות הענן הגבוהות, לשפר את הזמנים ועל […] The post ראש בראש במקבוק פרו: מיקרוסופט ואנבידיה חושפות את Su",
-      "importance": 8,
+      "importance": 7,
       "topics": [
         "AI",
-        "חומרה",
-        "מיקרוסופט"
+        "Microsoft",
+        "hardware"
       ],
       "published": "Thu, 08 Oct 2026 07:22:34 +0000"
-    },
-    {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "סוכנים בינויים",
-        "גיוס הון"
-      ],
-      "published": "Wed, 07 Oct 2026 20:48:45 +0000"
-    },
-    {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "importance": 7,
-      "topics": [
-        "Microsoft",
-        "AI PC",
-        "NVIDIA"
-      ],
-      "published": "Wed, 07 Oct 2026 20:22:37 +0000"
-    },
-    {
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-      "importance": 7,
-      "topics": [
-        "OpenAI",
-        "בטיחות AI",
-        "ChatGPT"
-      ],
-      "published": "Wed, 07 Oct 2026 18:15:28 +0000"
-    },
-    {
-      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "ChatGPT"
-      ],
-      "published": "2026-10-07T15:10:42-04:00"
     }
   ]
 }
