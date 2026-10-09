@@ -939,7 +939,8 @@
     "a4235b3b3161fd3b": "2026-10-08T15:30:41.749432+00:00",
     "4a1e4766a4a935c5": "2026-10-08T17:00:43.233103+00:00",
     "cb90fb36c159e793": "2026-10-08T18:31:45.244421+00:00",
-    "c6f3f1fe731da185": "2026-10-09T05:00:33.264869+00:00"
+    "c6f3f1fe731da185": "2026-10-09T05:00:33.264869+00:00",
+    "1415541b1e7bd981": "2026-10-09T12:31:36.318385+00:00"
   },
   "messages": [
     {
@@ -13548,7 +13549,21 @@
         "תשואות",
         "סיכון"
       ]
+    },
+    {
+      "sent_at": "2026-10-09T12:31:36.318385+00:00",
+      "title": "SOFTBANK TO RAISE UP TO $100B FROM GULF INVESTORS: FT CEO Masayoshi Son has held talks in recent weeks with senior figures in the region, including in the UAE. The money would fund a new AI fund that buys companies and uses AI to improve their operations. https://t.co/AjS4bhp4n8",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2108497840402207177",
+      "message": "סופטבנק מגייסת עד 100 מיליארד דולר ממשקיעים במפרץ הפרסי, לפי הפייננשל טיימס. מסאיושי סון ניהל שיחות בשבועות האחרונים עם בכירים באזור, כולל באיחוד האמירויות. הכסף ייכנס לקרן AI חדשה שתרכוש חברות ותשפר את הפעילות שלהן באמצעות AI.\n\nמה שמעניין פה הוא לא רק הסכום - זה הדגם. הון ממלכתי מהמפרץ, שנשפך לתשתיות AI דרך יפן, יגיע בסוף אל חברות טק אמריקאיות ואירופאיות. ה-VC הקלאסי הולך ומאבד את הבלעדיות שלו על הסקטור.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "השקעות",
+        "קרנות"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-09T05:00:31.446384+00:00"
+  "last_auto_run": "2026-10-09T12:30:47.126759+00:00"
 }
