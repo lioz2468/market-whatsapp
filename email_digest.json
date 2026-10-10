@@ -1,337 +1,256 @@
 {
-  "generated_at": "2026-10-09T10:20:07.649985+00:00",
+  "generated_at": "2026-10-10T09:40:14.917427+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-      "importance": 9,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
-      ],
-      "published": "Thu, 08 Oct 2026 16:31:29 GMT"
-    },
-    {
-      "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
+      "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
-      "summary": "Russia and Ukraine are locked in a long-range aerial war while their armies remain largely deadlocked on the front line, more than 4 1/2 years since Moscow's full-scale invasion.",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+      "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+      "importance": 8,
+      "topics": [
+        "ארה״ב",
+        "רוסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Fri, 09 Oct 2026 17:24:13 -0400"
+    },
+    {
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מלחמה"
+        "טראמפ"
       ],
-      "published": "Thu, 08 Oct 2026 07:25:28 -0400"
+      "published": "Sat, 10 Oct 2026 04:38:20 GMT"
     },
     {
-      "title": "Navi Pillay wins Nobel Peace Prize",
+      "title": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss",
-      "summary": "International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
+      "summary": "US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.",
       "importance": 8,
+      "topics": [
+        "רוסיה",
+        "אוקראינה",
+        "משא ומתן שלום"
+      ],
+      "published": "Sat, 10 Oct 2026 05:43:33 +0000"
+    },
+    {
+      "title": "הצעד של רוסיה אחרי ההסכם עם טראמפ, והזעם של זלנסקי: \"השתמשו בנו כמסך עשן\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/bkttvlpjzl",
+      "summary": "בכיר בקרמלין הודיע כי לאחר ההסכם שלפיו ארצות הברית תקנה סולר מרוסיה, ארצו החלה להסיר את כל המגבלות על ייצוא דלקים מהמדינה. באקסיוס דווח כי טראמפ יזם את ההסכם בשל סירובו של נשיא אוקראינה להפסיק לתקוף מתקני אנרגיה ברוסיה. לאחר ההסכם, תקפה אוקראינה בית זיקוק ברוסטוב וזלנסקי אמר בזעם: \"ארצות הברית לא הוגנת איתנו, כך לא מתנהגים שותפים\"",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "ארה\"ב"
+      ],
+      "published": "Sat, 10 Oct 2026 10:18:34 +0300"
+    },
+    {
+      "title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
+      "source": "NPR World",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+      "summary": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
+      "importance": 7,
+      "topics": [
+        "גזה",
+        "קונפליקט ישראלי-פלסטיני",
+        "הפוגה"
+      ],
+      "published": "Sat, 10 Oct 2026 05:00:00 -0400"
+    },
+    {
+      "title": "South African human rights lawyer Navi Pillay wins Nobel Peace Prize",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
+      "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for her lifelong defense of human rights and international law.",
+      "importance": 7,
       "topics": [
         "פרס נובל",
-        "בינלאומי",
-        "משפט"
-      ],
-      "published": "Fri, 09 Oct 2026 09:28:18 +0000"
-    },
-    {
-      "title": "South African Human Rights lawyer Navi Pillay wins Nobel Peace Prize",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
-      "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for advancing human rights and international law.",
-      "importance": 7,
-      "topics": [
         "זכויות אדם",
-        "פרסים בינלאומיים",
         "דרום אפריקה"
       ],
-      "published": "Fri, 09 Oct 2026 04:23:16 -0400"
+      "published": "Fri, 09 Oct 2026 17:25:59 -0400"
     },
     {
-      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-      "summary": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
-      "importance": 7,
-      "topics": [
-        "קוריאה דרומית",
-        "קוריאה צפונית",
-        "נשקים"
-      ],
-      "published": "Thu, 08 Oct 2026 08:01:34 -0400"
-    },
-    {
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
       "importance": 7,
       "topics": [
-        "ונצואלה",
-        "זכויות אדם",
-        "משפט"
-      ],
-      "published": "Thu, 08 Oct 2026 17:38:59 GMT"
-    },
-    {
-      "title": "סעודיה: 3 הרוגים במתקפה על נמל התעופה בריאד, טיל פגע במטוס על הקרקע",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/skbsjqijml",
-      "summary": "אחרי יממה, רשות התעופה האזרחית בממלכה אישרה כי שתי תקיפות פגעו במתקני נמל התעופה הבינלאומי ובמטוס של חברת התעופה הלאומית. כמה בני אדם נפצעו, חלקם במצב קשה. החות'ים קיבלו אחריות: \"שיגרנו טילי שיוט\"",
-      "importance": 7,
-      "topics": [
-        "סעודיה",
-        "טהרן",
-        "ביטחון"
-      ],
-      "published": "Fri, 09 Oct 2026 12:17:32 +0300"
-    },
-    {
-      "title": "פרס נובל לשלום לשופטת שהאשימה את ישראל ברצח עם",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/b1nvc11ljze",
-      "summary": "נאווי פילאי מדרום אפריקה כיהנה כנציבה החמישית של האו\"ם לזכויות האדם, וכיום שופטת בבית הדין לצדק בהאג בתיק שבו מואשמת מיאנמר ברצח עם. היא חיברה את דוח האו\"ם שקבע כי ישראל מבצעת רצח עם נגד הפלסטינים. על פי נימוקי ועדת הפרס, התואר הוענק לה כי \"מילאה תפקיד מרכזי בהבטחה כי נושאים כמו פשעי מלחמה, פשעים נגד האנושות ורצח עם יובאו לדין\"",
-      "importance": 7,
-      "topics": [
-        "זכויות אדם",
-        "בית הדין הבינלאומי",
+        "ביטחון",
+        "טרור",
         "ישראל"
       ],
-      "published": "Fri, 09 Oct 2026 12:05:45 +0300"
+      "published": "Sat, 10 Oct 2026 04:34:55 GMT"
     },
     {
-      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
-      "summary": "U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.",
-      "importance": 6,
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "importance": 7,
       "topics": [
-        "וונצואלה",
-        "משפט בינלאומי",
-        "גיאופוליטיקה"
+        "אסון טבע",
+        "פנמה",
+        "רעידת אדמה"
       ],
-      "published": "Thu, 08 Oct 2026 12:05:37 -0400"
+      "published": "Fri, 09 Oct 2026 21:26:30 GMT"
     },
     {
-      "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-      "summary": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation.",
-      "importance": 6,
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "importance": 7,
       "topics": [
-        "קוריאה דרומית",
-        "קוריאה צפונית",
-        "אוקראינה"
+        "דיפלומטיה",
+        "בית דין בינלאומי",
+        "סנקציות"
       ],
-      "published": "Thu, 08 Oct 2026 08:13:54 -0400"
+      "published": "Fri, 09 Oct 2026 18:40:10 GMT"
+    },
+    {
+      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "importance": 7,
+      "topics": [
+        "אתיופיה",
+        "אריתריאה",
+        "קונפליקט"
+      ],
+      "published": "Fri, 09 Oct 2026 15:24:43 GMT"
     }
   ],
   "business": [
     {
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "summary": "ההכנסות של OpenAI לא $70 מיליארד בשנה - אלא $50 מיליארד. פער של $20 מיליארד בין מה שדווח קודם לבין המספר האמיתי, וזה לא עניין קטן.\n\nהסיבה שזה חשוב מעבר ל-OpenAI עצמה: כל חברות ה-AI מתומחרות כרגע על בסיס ציפיות לצמיחה מהירה. כשהמובילה בתחום מראה פער כזה בין הסיפור לבין המספרים - זה שאלה על כל הסקטור. ספקי תשתיות ענן שמשרתות אותן, ומשקיעים שהימרו על הגל - כולם בעין.",
+      "title": "SOFTBANK TO RAISE UP TO $100B FROM GULF INVESTORS: FT CEO Masayoshi Son has held talks in recent weeks with senior figures in the region, including in the UAE. The money would fund a new AI fund that buys companies and uses AI to improve their operations. https://t.co/AjS4bhp4n8",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2108497840402207177",
+      "summary": "סופטבנק מגייסת עד 100 מיליארד דולר ממשקיעים במפרץ הפרסי, לפי הפייננשל טיימס. מסאיושי סון ניהל שיחות בשבועות האחרונים עם בכירים באזור, כולל באיחוד האמירויות. הכסף ייכנס לקרן AI חדשה שתרכוש חברות ותשפר את הפעילות שלהן באמצעות AI.\n\nמה שמעניין פה הוא לא רק הסכום - זה הדגם. הון ממלכתי מהמפרץ, שנשפך לתשתיות AI דרך יפן, יגיע בסוף אל חברות טק אמריקאיות ואירופאיות. ה-VC הקלאסי הולך ומאבד את הבלעדיות שלו על הסקטור.",
       "importance": 9,
       "topics": [
         "AI",
-        "OpenAI",
-        "הערכות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "European Gas Prices Climb on LNG Shipping Risks",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "מחירי הגז הטבעי באירופה עלו מחדש מעל 80 אירו למגה-וואט שעה, אחרי שהתקפות על ספינות במפרץ העלו סימני שאלה על אספקת הגז הנוזלי (LNG) לאירופה.\n\nההקשר פשוט: אירופה עברה בשנים האחרונות ממסלול רוסי לגז אמריקאי ואחר שמגיע בים. ברגע שהמסלול הזה נראה פחות בטוח - המחיר קופץ.\n\nמי שלא ברור שיושפע: חברות שבבים ומפעלים תעשייתיים גדולים באירופה, שעלויות האנרגיה שלהם עולות ישירות - וזה לוחץ על שולי הרווח שלהם.",
-      "importance": 8,
-      "topics": [
-        "אנרגיה",
-        "LNG",
-        "ספקה",
-        "ריסק ג'יאופוליטי"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "תשואות האג\"ח האמריקאיות ממשיכות לעלות - וזה מתחיל לפגוע דווקא במניות שהובילו את 2026 עד כה, בעיקר מחוץ לקבוצת הטק הגדולה שסופגת את כל תשומת הלב.\n\nהלוגיקה פשוטה: כשאג\"ח ממשלתי מציע תשואה גבוהה יותר, המשקיעים דורשים יותר גם ממניות - וזה מוריד את שוויין, במיוחד של חברות שצמיחתן רחוקה בזמן. הכי פגיעות הן חברות קטנות ובינוניות, נדל\"ן, ותשתיות - סגמנטים שאנשים פחות מסתכלים עליהם עכשיו, אבל בדיוק שם הכאב מורגש.",
-      "importance": 8,
-      "topics": [
-        "ריבית",
-        "אג״ח",
-        "מניות טק",
-        "זרימת הון"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
-      "summary": "הפער בין אגרות החוב של צרפת לגרמניה הגיע בשבוע שעבר לרמה הגבוהה ביותר שנמדדה מאז 1990 - ולפי הכותרת, אנחנו בעשור הגרוע ביותר לאג\"ח הצרפתי מאז 1803.\n\nהפער הזה הוא בעצם מד הסיכון של שוק האג\"ח האירופי. כשהוא מתרחב, זה אומר שהמשקיעים דורשים פיצוי גבוה יותר כדי להחזיק חוב צרפתי - ומי שמחזיק אגרות כבר מפסיד על הנייר.\n\nהשפעה עקיפה שפחות מדברים עליה: בנקים אירופיים שיושבים על כמויות גדולות של אג\"ח צרפתי יספגו לחץ, ואיתם גם היורו.",
-      "importance": 8,
-      "topics": [
-        "אג״ח",
-        "משבר חוב",
-        "אירופה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "מאז ה-1 בספטמבר, רק טכנולוגיה עלתה מבין 11 הסקטורים של ה-S&P 500 - כל השאר ירדו. הסיבה: תשואות האג\"ח האמריקאיות הגיעו לשיאים של עשרות שנים, מה שפוגע בכל מי שצריך להחזיר חוב או לתת דיבידנד - נדל\"ן, תשתיות, פיננסים. אבל חברות הטכנולוגיה הגדולות יושבות על הרים של מזומן, אז הריבית הגבוהה פחות מפחידה אותן. מעניין לראות שגם בתוך הטכנולוגיה - מי שיש לו חוב גבוה כנראה לא הרגיש את אותה הגנה.",
-      "importance": 8,
-      "topics": [
-        "ריבית",
-        "טכנולוגיה",
-        "S&P 500"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "המחקר של הפד בניו יורק יצא עם נתון שקשה להתעלם ממנו: המכסים של טראמפ הוסיפו 2.9 נקודות אחוז לאינפלציה ב-67 קטגוריות של מוצרי יום-יום - כלומר כל עליית המחירים שם הגיעה מהמכסים, לא מביקוש גבוה או ממחסור. זה לא ניתוח פוליטי, זה מחקר של הפד עצמו. ההשפעה תגיע גם לשווקי האג\"ח, כי אינפלציה שמגיעה ממכסים מסבכת לפד מאוד את ההחלטה מתי להוריד ריבית.",
-      "importance": 8,
-      "topics": [
-        "אינפלציה",
-        "מכסים",
-        "מדיניות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "תשואות האג\"ח האמריקאיות ירדו אתמול אחרי שבוע של לחץ כבד - וזה בעצם חדשות טובות.\n\nהסיפור האמיתי: שוק האג\"ח עבר בשבועות האחרונים \"מבחן ביטחון\" מול משקיעים גלובליים, ועצם הירידה בתשואות מראה שהם עדיין מוכנים להחזיק חוב אמריקאי. כשהתשואות עולות, עלות ההלוואות עולה לכולם - חברות, משכנתאות, הלוואות לעסקים קטנים. ההשפעה העקיפה שפחות מדברים עליה: מניות צמיחה, במיוחד בטק, רגישות מאוד לשינויים כאלה - ריבית גבוהה יותר שוחקת את הערך של הרווחים העתידיים שלהן.",
-      "importance": 8,
-      "topics": [
-        "אג״ח",
-        "תשואות",
-        "סיכון"
+        "השקעות",
+        "קרנות"
       ],
       "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-      "importance": 8,
-      "topics": [
-        "Google",
-        "AI",
-        "עדכון מוצר"
-      ],
-      "published": "Thu, 08 Oct 2026 18:18:00 +0000"
-    },
-    {
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
       "importance": 8,
       "topics": [
         "AI",
-        "רובוטיקה",
-        "Nvidia"
+        "Jev",
+        "סבבי גיוס"
       ],
-      "published": "Thu, 08 Oct 2026 11:15:33 +0000"
+      "published": "Fri, 09 Oct 2026 21:41:29 +0000"
     },
     {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "importance": 7,
-      "topics": [
-        "OpenAI",
-        "AI",
-        "ממשל תאגידי"
-      ],
-      "published": "Thu, 08 Oct 2026 20:04:26 +0000"
-    },
-    {
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "importance": 7,
-      "topics": [
-        "OpenAI",
-        "AI",
-        "פיננסים"
-      ],
-      "published": "Thu, 08 Oct 2026 18:19:42 +0000"
-    },
-    {
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was […]",
-      "importance": 7,
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "importance": 8,
       "topics": [
         "AI",
-        "OpenAI",
+        "Anthropic",
         "בטיחות"
       ],
-      "published": "2026-10-09T05:48:26-04:00"
+      "published": "Fri, 09 Oct 2026 19:36:56 +0000"
     },
     {
-      "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
       "source": "The Verge",
-      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
-      "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a […]",
-      "importance": 7,
-      "topics": [
-        "SpaceX",
-        "תקשורת",
-        "סטארלינק"
-      ],
-      "published": "2026-10-08T17:23:31-04:00"
-    },
-    {
-      "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
-      "summary": "\"If this was easy, everybody else would be doing it.\"",
-      "importance": 7,
-      "topics": [
-        "Amazon",
-        "לוויינים",
-        "אינטרנט קוסמי"
-      ],
-      "published": "Thu, 08 Oct 2026 15:28:36 +0000"
-    },
-    {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-      "importance": 6,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the […]",
+      "importance": 8,
       "topics": [
         "AI",
-        "גיוס הון",
-        "מודלים לשוניים"
+        "OpenAI",
+        "מחקר"
       ],
-      "published": "Thu, 08 Oct 2026 18:19:45 +0000"
+      "published": "2026-10-09T15:09:44-04:00"
+    },
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "בטיחות AI"
+      ],
+      "published": "Sat, 10 Oct 2026 00:18:32 +0000"
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents a",
+      "importance": 7,
+      "topics": [
+        "רגולציה",
+        "מרכזי נתונים",
+        "AI infrastructure"
+      ],
+      "published": "Fri, 09 Oct 2026 16:56:42 +0000"
+    },
+    {
+      "title": "Decade-old RAM is making a comeback",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "summary": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday, Gigabyte announced that two of […]",
+      "importance": 7,
+      "topics": [
+        "שבבים",
+        "RAM",
+        "Intel"
+      ],
+      "published": "2026-10-09T17:50:00-04:00"
+    },
+    {
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "אבטחה"
+      ],
+      "published": "2026-10-09T17:15:38-04:00"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "פיתוח תוכנה"
+      ],
+      "published": "Fri, 09 Oct 2026 19:43:50 +0000"
     }
   ]
 }
