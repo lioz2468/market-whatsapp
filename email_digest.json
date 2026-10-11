@@ -1,256 +1,229 @@
 {
-  "generated_at": "2026-10-10T09:40:14.917427+00:00",
+  "generated_at": "2026-10-11T09:52:10.078212+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+      "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-      "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
+      "summary": "Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and allies.",
       "importance": 8,
       "topics": [
-        "ארה״ב",
+        "ארה\"ב",
         "רוסיה",
-        "דיפלומטיה"
+        "סנקציות"
       ],
-      "published": "Fri, 09 Oct 2026 17:24:13 -0400"
+      "published": "Sat, 10 Oct 2026 07:40:53 -0400"
     },
     {
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
       "importance": 8,
       "topics": [
         "אוקראינה",
-        "רוסיה",
-        "טראמפ"
+        "ארה\"ב",
+        "רוסיה"
       ],
-      "published": "Sat, 10 Oct 2026 04:38:20 GMT"
+      "published": "Sun, 11 Oct 2026 01:41:29 GMT"
     },
     {
-      "title": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
-      "summary": "US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.",
-      "importance": 8,
-      "topics": [
-        "רוסיה",
-        "אוקראינה",
-        "משא ומתן שלום"
-      ],
-      "published": "Sat, 10 Oct 2026 05:43:33 +0000"
-    },
-    {
-      "title": "הצעד של רוסיה אחרי ההסכם עם טראמפ, והזעם של זלנסקי: \"השתמשו בנו כמסך עשן\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bkttvlpjzl",
-      "summary": "בכיר בקרמלין הודיע כי לאחר ההסכם שלפיו ארצות הברית תקנה סולר מרוסיה, ארצו החלה להסיר את כל המגבלות על ייצוא דלקים מהמדינה. באקסיוס דווח כי טראמפ יזם את ההסכם בשל סירובו של נשיא אוקראינה להפסיק לתקוף מתקני אנרגיה ברוסיה. לאחר ההסכם, תקפה אוקראינה בית זיקוק ברוסטוב וזלנסקי אמר בזעם: \"ארצות הברית לא הוגנת איתנו, כך לא מתנהגים שותפים\"",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
         "ארה\"ב"
       ],
-      "published": "Sat, 10 Oct 2026 10:18:34 +0300"
+      "published": "Sat, 10 Oct 2026 20:51:12 GMT"
     },
     {
-      "title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
-      "source": "NPR World",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
-      "summary": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
-      "importance": 7,
+      "title": "Trump calls for Ukraine election, says Zelenskyy failed to end war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss",
+      "summary": "Trump has called for Ukraine to hold elections, implying Zelenskyy missed opportunities to end the war with Russia.",
+      "importance": 8,
       "topics": [
-        "גזה",
-        "קונפליקט ישראלי-פלסטיני",
-        "הפוגה"
+        "אוקראינה",
+        "רוסיה",
+        "ארצות הברית"
       ],
-      "published": "Sat, 10 Oct 2026 05:00:00 -0400"
+      "published": "Sun, 11 Oct 2026 08:43:52 +0000"
     },
     {
-      "title": "South African human rights lawyer Navi Pillay wins Nobel Peace Prize",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5996461/south-african-human-rights-lawyer-navi-pillay-wins-nobel-peace-prize",
-      "summary": "South African human rights lawyer Navi Pillay wins the 2026 Nobel Peace Prize for her lifelong defense of human rights and international law.",
-      "importance": 7,
+      "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
+      "summary": "A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.",
+      "importance": 8,
       "topics": [
-        "פרס נובל",
-        "זכויות אדם",
-        "דרום אפריקה"
+        "ארצות הברית",
+        "אירן",
+        "ים האדום"
       ],
-      "published": "Fri, 09 Oct 2026 17:25:59 -0400"
+      "published": "Sun, 11 Oct 2026 07:39:16 +0000"
     },
     {
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+      "title": "החות'ים אחרי הפגיעה הקטלנית בסעודיה: \"נמשיך לתקוף, אל תטוסו לשם\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/skdra3uoge",
+      "summary": "שעות אחרי ש-12 בני אדם נהרגו ו-309 נפצעו, רבים מהם באורח קשה, מפגיעת טיל תימני באזור הטרמינלים בנמל התעופה \"המלך חאלד\" בריאד, הפעילות בנמל עדיין מושבתת, ותישאר כך לפחות עד הלילה בחצות. החות'ים מבטיחים להמשיך לאכוף את המצור שהכריזו על המרחב האווירי הסעודי: \"נתקוף בכל מקום חוץ ממכה, האחריות של סעודיה, תתייחסו ברצינות לאזהרות\". טראמפ שוקל להתערב",
+      "importance": 8,
+      "topics": [
+        "סעודיה",
+        "תימן",
+        "חות'ים"
+      ],
+      "published": "Sun, 11 Oct 2026 11:22:44 +0300"
+    },
+    {
+      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "summary": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an Egyptian, a Jordanian, a Syrian and a Sudanese. It said some of those injured were in critical condition. The attack — th",
       "importance": 7,
       "topics": [
-        "ביטחון",
+        "סעודיה",
         "טרור",
-        "ישראל"
+        "ח\"ע"
       ],
-      "published": "Sat, 10 Oct 2026 04:34:55 GMT"
+      "published": "Sat, 10 Oct 2026 19:44:15 -0400"
     },
     {
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
       "importance": 7,
       "topics": [
-        "אסון טבע",
-        "פנמה",
-        "רעידת אדמה"
+        "סעודיה",
+        "ח\"ע",
+        "ארה\"ב"
       ],
-      "published": "Fri, 09 Oct 2026 21:26:30 GMT"
+      "published": "Sat, 10 Oct 2026 17:32:53 -0400"
     },
     {
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "importance": 7,
       "topics": [
-        "דיפלומטיה",
-        "בית דין בינלאומי",
-        "סנקציות"
+        "ארצות הברית",
+        "בית הדין הבינלאומי",
+        "דיפלומטיה"
       ],
-      "published": "Fri, 09 Oct 2026 18:40:10 GMT"
+      "published": "Sat, 10 Oct 2026 15:23:47 GMT"
     },
     {
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
       "importance": 7,
       "topics": [
+        "סודן",
         "אתיופיה",
-        "אריתריאה",
-        "קונפליקט"
+        "משבר הומניטרי"
       ],
-      "published": "Fri, 09 Oct 2026 15:24:43 GMT"
+      "published": "Sat, 10 Oct 2026 14:49:32 GMT"
     }
   ],
-  "business": [
-    {
-      "title": "SOFTBANK TO RAISE UP TO $100B FROM GULF INVESTORS: FT CEO Masayoshi Son has held talks in recent weeks with senior figures in the region, including in the UAE. The money would fund a new AI fund that buys companies and uses AI to improve their operations. https://t.co/AjS4bhp4n8",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2108497840402207177",
-      "summary": "סופטבנק מגייסת עד 100 מיליארד דולר ממשקיעים במפרץ הפרסי, לפי הפייננשל טיימס. מסאיושי סון ניהל שיחות בשבועות האחרונים עם בכירים באזור, כולל באיחוד האמירויות. הכסף ייכנס לקרן AI חדשה שתרכוש חברות ותשפר את הפעילות שלהן באמצעות AI.\n\nמה שמעניין פה הוא לא רק הסכום - זה הדגם. הון ממלכתי מהמפרץ, שנשפך לתשתיות AI דרך יפן, יגיע בסוף אל חברות טק אמריקאיות ואירופאיות. ה-VC הקלאסי הולך ומאבד את הבלעדיות שלו על הסקטור.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "השקעות",
-        "קרנות"
-      ],
-      "tag": "גלובלי"
-    }
-  ],
+  "business": [],
   "tech": [
     {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "Jev",
-        "סבבי גיוס"
-      ],
-      "published": "Fri, 09 Oct 2026 21:41:29 +0000"
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "בטיחות"
-      ],
-      "published": "Fri, 09 Oct 2026 19:36:56 +0000"
-    },
-    {
-      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]",
       "importance": 8,
+      "topics": [
+        "AI",
+        "בטיחות",
+        "Anthropic"
+      ],
+      "published": "2026-10-10T10:41:16-04:00"
+    },
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "בטיחות",
+        "Microsoft"
+      ],
+      "published": "Sat, 10 Oct 2026 21:47:51 +0000"
+    },
+    {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "בטיחות",
+        "Microsoft"
+      ],
+      "published": "2026-10-10T18:10:17-04:00"
+    },
+    {
+      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+      "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained […]",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "קריפטו",
+        "Ledger"
+      ],
+      "published": "2026-10-10T12:36:44-04:00"
+    },
+    {
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]",
+      "importance": 7,
       "topics": [
         "AI",
         "OpenAI",
-        "מחקר"
+        "פרטיות"
       ],
-      "published": "2026-10-09T15:09:44-04:00"
+      "published": "2026-10-10T09:00:00-04:00"
     },
     {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "importance": 7,
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+      "importance": 6,
+      "topics": [
+        "Cloudflare",
+        "מיזוג ורכישה",
+        "תשתיות"
+      ],
+      "published": "Sat, 10 Oct 2026 16:25:42 +0000"
+    },
+    {
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "importance": 6,
       "topics": [
         "AI",
-        "Anthropic",
-        "בטיחות AI"
+        "אבטחה סייבר"
       ],
-      "published": "Sat, 10 Oct 2026 00:18:32 +0000"
-    },
-    {
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents a",
-      "importance": 7,
-      "topics": [
-        "רגולציה",
-        "מרכזי נתונים",
-        "AI infrastructure"
-      ],
-      "published": "Fri, 09 Oct 2026 16:56:42 +0000"
-    },
-    {
-      "title": "Decade-old RAM is making a comeback",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "summary": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday, Gigabyte announced that two of […]",
-      "importance": 7,
-      "topics": [
-        "שבבים",
-        "RAM",
-        "Intel"
-      ],
-      "published": "2026-10-09T17:50:00-04:00"
-    },
-    {
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "אבטחה"
-      ],
-      "published": "2026-10-09T17:15:38-04:00"
-    },
-    {
-      "title": "AI coding agents generate more code, but not more software",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "פיתוח תוכנה"
-      ],
-      "published": "Fri, 09 Oct 2026 19:43:50 +0000"
+      "published": "Sat, 10 Oct 2026 12:00:00 +0000"
     }
   ]
 }
