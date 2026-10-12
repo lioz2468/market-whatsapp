@@ -188,17 +188,31 @@ async def cross_day_dedup_filter(items: list[dict], history: list[dict]) -> list
                     model=config.CLAUDE_CLASSIFIER_MODEL,
                     max_tokens=16,
                     system=_history_check_system(),
-                    messages=[{"role": "user", "content":
-                        f"ידיעות שכבר נשלחו:\n{history_context}\n\n"
-                        f"ידיעה מועמדת: {it.get('title', '')}\n"
-                        f"נושאים: {', '.join(it.get('topics') or [])}\n\n"
-                        'האם זה אותו סיפור בדיוק כמו אחת הידיעות הממוספרות? ענה "חדש" או מספר.'
-                    }],
+                    # Same text as before, split in two blocks so the history
+                    # list (identical across every candidate this run, ~25K
+                    # tokens) is prompt-cached instead of re-billed in full
+                    # for each of the 80-175 candidates.
+                    messages=[{"role": "user", "content": [
+                        {
+                            "type": "text",
+                            "text": f"ידיעות שכבר נשלחו:\n{history_context}\n\n",
+                            "cache_control": {"type": "ephemeral"},
+                        },
+                        {
+                            "type": "text",
+                            "text":
+                                f"ידיעה מועמדת: {it.get('title', '')}\n"
+                                f"נושאים: {', '.join(it.get('topics') or [])}\n\n"
+                                'האם זה אותו סיפור בדיוק כמו אחת הידיעות הממוספרות? ענה "חדש" או מספר.',
+                        },
+                    ]}],
                 )
                 stats.record(
                     resp.usage.input_tokens,
                     resp.usage.output_tokens,
                     model=config.CLAUDE_CLASSIFIER_MODEL,
+                    cache_write=resp.usage.cache_creation_input_tokens or 0,
+                    cache_read=resp.usage.cache_read_input_tokens or 0,
                 )
                 answer = resp.content[0].text.strip()
             except CreditBalanceError:
