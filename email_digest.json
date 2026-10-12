@@ -1,229 +1,253 @@
 {
-  "generated_at": "2026-10-11T09:52:10.078212+00:00",
+  "generated_at": "2026-10-12T10:13:13.299712+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
-      "summary": "Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and allies.",
+      "title": "Photos: Gaza mothers endure endless lines as famine fears persist",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
+      "summary": "Hunger grips Gaza, with over 1.4 million people acutely short of food as aid remains insufficient to meet basic needs.",
+      "importance": 9,
+      "topics": [
+        "עזה",
+        "משבר הומניטרי",
+        "ישראל"
+      ],
+      "published": "Mon, 12 Oct 2026 08:46:41 +0000"
+    },
+    {
+      "title": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss",
+      "summary": "A year into a 'ceasefire', Israel restricts access to 65 percent of Gaza and crams 2.1 million people into the rest.",
       "importance": 8,
       "topics": [
-        "ארה\"ב",
+        "ישראל",
+        "עזה",
+        "פלסטינים"
+      ],
+      "published": "Mon, 12 Oct 2026 09:27:12 +0000"
+    },
+    {
+      "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+      "summary": "President Trump said Sunday that Russia and Ukraine had agreed to an \"energy ceasefire,\" but he offered no details on it and Kyiv reported attacks by Moscow on energy sites after his statement.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Mon, 12 Oct 2026 02:41:57 -0400"
+    },
+    {
+      "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
+      "summary": "NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.S.'s diesel deal with Russia will impact Ukraine.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "ארה״ב",
+        "רוסיה"
+      ],
+      "published": "Sun, 11 Oct 2026 17:16:10 -0400"
+    },
+    {
+      "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Sun, 11 Oct 2026 21:36:40 GMT"
+    },
+    {
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "importance": 7,
+      "topics": [
+        "ארה״ב",
         "רוסיה",
         "סנקציות"
       ],
-      "published": "Sat, 10 Oct 2026 07:40:53 -0400"
+      "published": "Sun, 11 Oct 2026 23:18:45 GMT"
     },
     {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "importance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "importance": 7,
       "topics": [
-        "אוקראינה",
-        "ארה\"ב",
-        "רוסיה"
+        "פולין",
+        "דונלד טוסק",
+        "ביטחון"
       ],
-      "published": "Sun, 11 Oct 2026 01:41:29 GMT"
+      "published": "Sun, 11 Oct 2026 17:27:24 GMT"
     },
     {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "importance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "importance": 7,
+      "topics": [
+        "אסון",
+        "ג'יבוטי",
+        "ים אדום"
+      ],
+      "published": "Sun, 11 Oct 2026 15:32:23 GMT"
+    },
+    {
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "ארה\"ב"
+        "תחבורה אלקטרונית"
       ],
-      "published": "Sat, 10 Oct 2026 20:51:12 GMT"
+      "published": "Sun, 11 Oct 2026 14:38:10 GMT"
     },
     {
-      "title": "Trump calls for Ukraine election, says Zelenskyy failed to end war",
+      "title": "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss",
-      "summary": "Trump has called for Ukraine to hold elections, implying Zelenskyy missed opportunities to end the war with Russia.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ארצות הברית"
-      ],
-      "published": "Sun, 11 Oct 2026 08:43:52 +0000"
-    },
-    {
-      "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
-      "summary": "A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.",
-      "importance": 8,
-      "topics": [
-        "ארצות הברית",
-        "אירן",
-        "ים האדום"
-      ],
-      "published": "Sun, 11 Oct 2026 07:39:16 +0000"
-    },
-    {
-      "title": "החות'ים אחרי הפגיעה הקטלנית בסעודיה: \"נמשיך לתקוף, אל תטוסו לשם\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/skdra3uoge",
-      "summary": "שעות אחרי ש-12 בני אדם נהרגו ו-309 נפצעו, רבים מהם באורח קשה, מפגיעת טיל תימני באזור הטרמינלים בנמל התעופה \"המלך חאלד\" בריאד, הפעילות בנמל עדיין מושבתת, ותישאר כך לפחות עד הלילה בחצות. החות'ים מבטיחים להמשיך לאכוף את המצור שהכריזו על המרחב האווירי הסעודי: \"נתקוף בכל מקום חוץ ממכה, האחריות של סעודיה, תתייחסו ברצינות לאזהרות\". טראמפ שוקל להתערב",
-      "importance": 8,
-      "topics": [
-        "סעודיה",
-        "תימן",
-        "חות'ים"
-      ],
-      "published": "Sun, 11 Oct 2026 11:22:44 +0300"
-    },
-    {
-      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-      "summary": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an Egyptian, a Jordanian, a Syrian and a Sudanese. It said some of those injured were in critical condition. The attack — th",
+      "url": "https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss",
+      "summary": "Pakistan has taken control of a province governed by Imran Khan’s PTI. Here's what the move means and what happens next.",
       "importance": 7,
       "topics": [
-        "סעודיה",
-        "טרור",
-        "ח\"ע"
+        "פקיסטן",
+        "פוליטיקה",
+        "משבר מדיני"
       ],
-      "published": "Sat, 10 Oct 2026 19:44:15 -0400"
-    },
-    {
-      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
-      "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
-      "importance": 7,
-      "topics": [
-        "סעודיה",
-        "ח\"ע",
-        "ארה\"ב"
-      ],
-      "published": "Sat, 10 Oct 2026 17:32:53 -0400"
-    },
-    {
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-      "importance": 7,
-      "topics": [
-        "ארצות הברית",
-        "בית הדין הבינלאומי",
-        "דיפלומטיה"
-      ],
-      "published": "Sat, 10 Oct 2026 15:23:47 GMT"
-    },
-    {
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-      "importance": 7,
-      "topics": [
-        "סודן",
-        "אתיופיה",
-        "משבר הומניטרי"
-      ],
-      "published": "Sat, 10 Oct 2026 14:49:32 GMT"
+      "published": "Mon, 12 Oct 2026 08:54:25 +0000"
     }
   ],
-  "business": [],
+  "business": [
+    {
+      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "אפל הורידה את הזמנות הרכיבים לאייפון 18 Pro ו-Pro Max בכ-15% באוקטובר - זו הדלפה מ-Nikkei Asia שקשה להתעלם ממנה.\n\nכשאפל מצמצמת הזמנות, זה לא רק סיפור על מכירות אייפון. ספקים כמו Foxconn, Texas Instruments וחברות שבבים שמייצרות רכיבי מצלמה ומסך הם הראשונים שמרגישים את זה. מה שמעניין יותר - זה אחד האינדיקטורים הטובים ביותר שיש לנו לגבי כוח הצרכן הגלובלי. אם האייפון הכי יקר מאבד ביקוש, כנראה שהצרכן מתחיל לחשב מסלול מחדש.",
+      "importance": 8,
+      "topics": [
+        "Apple",
+        "טכנולוגיה",
+        "שרשרת אספקה"
+      ],
+      "tag": "ארה\"ב"
+    }
+  ],
   "tech": [
     {
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]",
+      "title": "עכשיו זו אמזון שרוצה לרכוש את דקארט ב-7 מיליארד דולר",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/amazon-to-acquire-decart-israeli-ai-startup-for-7-billion-report/",
+      "summary": "אחרי כישלון המגעים עם ענקית ה-AI אנת'רופיק, נראה שדקארט הישראלית עדיין על המדף, עם קונה פוטנציאלית חדשה: אמזון. לפי דיווח מהלילה של הוול סטריט ג'ורנל, אמזון מנהלת מגעים מתקדמים לרכישת הסטארטאפ הישראלי Decart, כשסכום הרכישה צפוי לעמוד על כ-7 מיליארד דולר. מקורות המעורים בפרטים ציינו כי ההסכם עשוי להיחתם בקרוב, בהנחה שהשיחות לא יעלו על […] The post עכשיו זו אמזון שרוצה לרכוש את דקארט ב-7 מיליארד דול",
       "importance": 8,
       "topics": [
         "AI",
-        "בטיחות",
-        "Anthropic"
+        "רכישות",
+        "סטארטאפים"
       ],
-      "published": "2026-10-10T10:41:16-04:00"
+      "published": "Mon, 12 Oct 2026 04:01:06 +0000"
     },
     {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "importance": 7,
       "topics": [
-        "AI",
-        "בטיחות",
-        "Microsoft"
+        "רכבים אוטונומיים",
+        "AI"
       ],
-      "published": "Sat, 10 Oct 2026 21:47:51 +0000"
+      "published": "Sun, 11 Oct 2026 16:02:00 +0000"
     },
     {
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "title": "A college in Illinois tried to cancel its Flock contact and it refused",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "בטיחות",
-        "Microsoft"
-      ],
-      "published": "2026-10-10T18:10:17-04:00"
-    },
-    {
-      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
-      "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained […]",
+      "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+      "summary": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and […]",
       "importance": 7,
       "topics": [
         "אבטחה",
-        "קריפטו",
-        "Ledger"
+        "פרטיות",
+        "רגולציה"
       ],
-      "published": "2026-10-10T12:36:44-04:00"
+      "published": "2026-10-11T16:06:43-04:00"
     },
     {
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]",
+      "title": "רגע לפני החשיפה: דלפו הפרטים על HomeView, המוצר החדש של אפל",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/apple-homeview-is-coming/",
+      "summary": "בשבועות האחרונים אנחנו שומעים שוב ושוב על הכניסה הצפויה של אפל לקטגוריית הבית החכם. מחר (ג') היא צפויה לערוך אירוע תחת הכותרת Welcome Home, אבל אם אין לכם סבלנות, חלק גדול מהפרטים כבר דלף. לא HomePad מארק גורמן מבלומברג חשף בניוזלטר שלו שורת ספוילרים מעניינים לאירוע אפל שייערך מחר, כולל השם של המסך החכם שתציג […] The post רגע לפני החשיפה: דלפו הפרטים על HomeView, המוצר החדש של אפל appeared first o",
       "importance": 7,
       "topics": [
+        "אפל",
+        "בית חכם",
+        "השקות"
+      ],
+      "published": "Mon, 12 Oct 2026 09:43:30 +0000"
+    },
+    {
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "importance": 6,
+      "topics": [
+        "Apple",
+        "מוצרים חכמים"
+      ],
+      "published": "Sun, 11 Oct 2026 21:14:40 +0000"
+    },
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "importance": 6,
+      "topics": [
         "AI",
-        "OpenAI",
+        "נתונים",
+        "רגולציה"
+      ],
+      "published": "Sun, 11 Oct 2026 16:52:33 +0000"
+    },
+    {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]",
+      "importance": 6,
+      "topics": [
+        "AI",
         "פרטיות"
       ],
-      "published": "2026-10-10T09:00:00-04:00"
+      "published": "2026-10-11T07:00:00-04:00"
     },
     {
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-      "importance": 6,
-      "topics": [
-        "Cloudflare",
-        "מיזוג ורכישה",
-        "תשתיות"
-      ],
-      "published": "Sat, 10 Oct 2026 16:25:42 +0000"
-    },
-    {
-      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-      "importance": 6,
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "importance": 5,
       "topics": [
         "AI",
-        "אבטחה סייבר"
+        "speech recognition"
       ],
-      "published": "Sat, 10 Oct 2026 12:00:00 +0000"
+      "published": "Sun, 11 Oct 2026 14:00:00 +0000"
     }
   ]
 }
