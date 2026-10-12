@@ -888,7 +888,7 @@ def main() -> None:
         print(f"\n  {Fore.YELLOW}Interrupted.{Style.RESET_ALL}")
         sys.exit(130)
     except EnvironmentError as exc:
-        print(f"\n  {Fore.RED}Config error: {exc}{Style.RESET_ALL}")
+        print(f"\n  {Fore.RED}Config error: {type(exc).__name__}: {exc}{Style.RESET_ALL}")
         sys.exit(1)
     except Exception as exc:
         print(f"\n  {Fore.RED}Error: {exc}{Style.RESET_ALL}")

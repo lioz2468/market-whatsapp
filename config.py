@@ -43,6 +43,9 @@ TWILIO_MESSAGING_SERVICE_SID = os.getenv("TWILIO_MESSAGING_SERVICE_SID", "")
 # ── Green API ──────────────────────────────────────────────────────────────
 GREEN_API_INSTANCE = os.getenv("GREEN_API_INSTANCE", "")
 GREEN_API_TOKEN    = os.getenv("GREEN_API_TOKEN", "")
+# Per-instance host from the Green API console ("apiUrl"); the generic
+# api.green-api.com host no longer serves newer instances.
+GREEN_API_URL      = os.getenv("GREEN_API_URL", "")
 
 # ── X (Twitter) API v2 ─────────────────────────────────────────────────────
 # Feed source for @wallstengine, replacing the now-dead Nitter RSS mirrors.
