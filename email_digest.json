@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-12T10:13:13.299712+00:00",
+  "generated_at": "2026-10-12T10:33:36.512292+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Photos: Gaza mothers endure endless lines as famine fears persist",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
-      "summary": "Hunger grips Gaza, with over 1.4 million people acutely short of food as aid remains insufficient to meet basic needs.",
-      "importance": 9,
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "importance": 8,
       "topics": [
-        "עזה",
-        "משבר הומניטרי",
-        "ישראל"
+        "אסון",
+        "מהגרים",
+        "אפריקה"
       ],
-      "published": "Mon, 12 Oct 2026 08:46:41 +0000"
+      "published": "Sun, 11 Oct 2026 15:32:23 GMT"
     },
     {
       "title": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
@@ -23,62 +23,23 @@
       "importance": 8,
       "topics": [
         "ישראל",
-        "עזה",
-        "פלסטינים"
+        "פלסטינים",
+        "עזה"
       ],
       "published": "Mon, 12 Oct 2026 09:27:12 +0000"
     },
     {
-      "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
-      "summary": "President Trump said Sunday that Russia and Ukraine had agreed to an \"energy ceasefire,\" but he offered no details on it and Kyiv reported attacks by Moscow on energy sites after his statement.",
-      "importance": 7,
+      "title": "Photos: Gaza mothers endure endless lines as famine fears persist",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
+      "summary": "Hunger grips Gaza, with over 1.4 million people acutely short of food as aid remains insufficient to meet basic needs.",
+      "importance": 8,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
+        "עזה",
+        "משבר הומניטרי",
+        "ישראל"
       ],
-      "published": "Mon, 12 Oct 2026 02:41:57 -0400"
-    },
-    {
-      "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
-      "summary": "NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.S.'s diesel deal with Russia will impact Ukraine.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "ארה״ב",
-        "רוסיה"
-      ],
-      "published": "Sun, 11 Oct 2026 17:16:10 -0400"
-    },
-    {
-      "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
-      ],
-      "published": "Sun, 11 Oct 2026 21:36:40 GMT"
-    },
-    {
-      "title": "Trump faces growing backlash over plans to import diesel from Russia",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
-      "importance": 7,
-      "topics": [
-        "ארה״ב",
-        "רוסיה",
-        "סנקציות"
-      ],
-      "published": "Sun, 11 Oct 2026 23:18:45 GMT"
+      "published": "Mon, 12 Oct 2026 08:46:41 +0000"
     },
     {
       "title": "Poland detains man suspected of planning assassination of PM Tusk",
@@ -88,23 +49,10 @@
       "importance": 7,
       "topics": [
         "פולין",
-        "דונלד טוסק",
-        "ביטחון"
+        "ביטחון",
+        "פוליטיקה"
       ],
       "published": "Sun, 11 Oct 2026 17:27:24 GMT"
-    },
-    {
-      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
-      "importance": 7,
-      "topics": [
-        "אסון",
-        "ג'יבוטי",
-        "ים אדום"
-      ],
-      "published": "Sun, 11 Oct 2026 15:32:23 GMT"
     },
     {
       "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
@@ -115,9 +63,22 @@
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "תחבורה אלקטרונית"
+        "טכנולוגיה"
       ],
       "published": "Sun, 11 Oct 2026 14:38:10 GMT"
+    },
+    {
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
+      "importance": 7,
+      "topics": [
+        "סעודיה",
+        "תימן",
+        "חוסן פוליטי"
+      ],
+      "published": "Sun, 11 Oct 2026 15:32:32 GMT"
     },
     {
       "title": "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?",
@@ -127,10 +88,49 @@
       "importance": 7,
       "topics": [
         "פקיסטן",
-        "פוליטיקה",
-        "משבר מדיני"
+        "משבר פוליטי",
+        "אימרן חאן"
       ],
       "published": "Mon, 12 Oct 2026 08:54:25 +0000"
+    },
+    {
+      "title": "Countries warn against travel to Saudi Arabia following Houthi attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss",
+      "summary": "US, Australia, Canada, Japan, South Korea and New Zealand among countries urging citizens to avoid travel to the kingdom.",
+      "importance": 7,
+      "topics": [
+        "סעודיה",
+        "Houthi",
+        "תקפולים"
+      ],
+      "published": "Mon, 12 Oct 2026 05:53:45 +0000"
+    },
+    {
+      "title": "גנץ מזהיר את איזנקוט: ליברמן ובנט ידרשו את ראשות הממשלה, עם המפלגות הערביות",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/elections2026/article/rjg200zcifx",
+      "summary": "בוועידת \"האנשים של המדינה\" של ynet ו\"ידיעות אחרונות\", יו\"ר כחול לבן הבהיר שחרף הסקרים שמנבאים שלא יעבור את אחוז החסימה, הוא יעמוד לבחירה עוד 15 ימים: \"אני היחיד שמציג פתרון למצב הבלתי נסבל של המדינה\". על איזנקוט: \"יקים ממשלה עם המפלגות הערביות, אין לו ברירה. גם ליברמן ובנט\"",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "פוליטיקה"
+      ],
+      "published": "Mon, 12 Oct 2026 11:29:02 +0300"
+    },
+    {
+      "title": "המסר של איזנקוט לבנט וליברמן: מועמד אחר ירכיב ממשלה? \"מי שבונה על זה לא מכיר אותי מספיק טוב\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/elections2026/article/b1fnywqsgx",
+      "summary": "יו\"ר ישר! הגיע לוועידת \"האנשים של המדינה\" של ynet ו\"ידיעות אחרונות\" והתייחס לקמפיין של הליכוד נגדו: \"הלעג לאנגלית שלי והסתרת כל המזרחים ברשימה באים מאותו מקום\". על נתניהו אמר: \"שמענו מה קורה בבית שלו. אשתו מפיצה קונספירציות, והבן - משתמט שברח מהארץ\"",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "פוליטיקה"
+      ],
+      "published": "Mon, 12 Oct 2026 11:18:59 +0300"
     }
   ],
   "business": [
@@ -146,6 +146,19 @@
         "שרשרת אספקה"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as adviser",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "ג'ודי שלטון - הכלכלנית שהסנאט פסל למינוי לפד בגלל השקפותיה הכלכליות השנויות במחלוקת - מצטרפת עכשיו כיועצת למשרד האוצר האמריקאי. בסנט מינה אותה שר האוצר בסנט.\n\nשלטון ידועה בתמיכה בחזרה לתקן הזהב ובספקנות כלפי עצמאות הפד. זה לא שינוי טכני - זה אות לכיוון שבו האוצר רוצה ללכת בנושאי מדיניות מוניטרית. מי שצריך לשים לב: כל מי שמחזיק אג\"ח ממשלתיות אמריקאיות, ובנקים מרכזיים בעולם שמביטים על וושינגטון ותוהים לאן הדברים מתגלגלים.",
+      "importance": 8,
+      "topics": [
+        "פד",
+        "רגולציה",
+        "תזוזה מדיניות"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
@@ -157,22 +170,10 @@
       "importance": 8,
       "topics": [
         "AI",
-        "רכישות",
-        "סטארטאפים"
+        "רכישה",
+        "סטארטאפ"
       ],
       "published": "Mon, 12 Oct 2026 04:01:06 +0000"
-    },
-    {
-      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "importance": 7,
-      "topics": [
-        "רכבים אוטונומיים",
-        "AI"
-      ],
-      "published": "Sun, 11 Oct 2026 16:02:00 +0000"
     },
     {
       "title": "A college in Illinois tried to cancel its Flock contact and it refused",
@@ -181,9 +182,9 @@
       "summary": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and […]",
       "importance": 7,
       "topics": [
-        "אבטחה",
         "פרטיות",
-        "רגולציה"
+        "אבטחה",
+        "נושאים רגולטוריים"
       ],
       "published": "2026-10-11T16:06:43-04:00"
     },
@@ -196,7 +197,7 @@
       "topics": [
         "אפל",
         "בית חכם",
-        "השקות"
+        "מוצרים חדשים"
       ],
       "published": "Mon, 12 Oct 2026 09:43:30 +0000"
     },
@@ -208,7 +209,7 @@
       "importance": 6,
       "topics": [
         "Apple",
-        "מוצרים חכמים"
+        "ציוד חכם"
       ],
       "published": "Sun, 11 Oct 2026 21:14:40 +0000"
     },
@@ -220,22 +221,35 @@
       "importance": 6,
       "topics": [
         "AI",
-        "נתונים",
-        "רגולציה"
+        "נושאים רגולטוריים"
       ],
       "published": "Sun, 11 Oct 2026 16:52:33 +0000"
     },
     {
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "title": "What to expect from Apple’s ‘Welcome Home’ event",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]",
+      "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+      "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner devices […]",
       "importance": 6,
       "topics": [
-        "AI",
-        "פרטיות"
+        "Apple",
+        "smart home",
+        "homeOS"
       ],
-      "published": "2026-10-11T07:00:00-04:00"
+      "published": "2026-10-11T09:00:00-04:00"
+    },
+    {
+      "title": "פרסום ראשון: משקפי מטא מגיעים ביבוא רשמי לישראל – כולל פיצ'רי ה-AI",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/meta-ray-ban-oakley-are-coming-to-israel/",
+      "summary": "בשבוע שעבר סיפרנו לכם שאחת מרשתות המשקפיים הגדולות בישראל תשווק את הדור החדש של משקפי Meta Ray-Ban ו-Oakley. אבל מתברר שהבשורה עבור צרכני הגאדג'טים הישראלים – הרבה יותר משמעותית. ממידע חדש שהגיע לידינו עולה כי לא מדובר בייבוא מקביל של המשקפיים הפופולריים של מטא וריי-באן, אלא ייבוא רשמי לכל דבר. כחלק מהמהלך הראשוני הזה, מטא […] The post פרסום ראשון: משקפי מטא מגיעים ביבוא רשמי לישראל – כולל פיצ'רי ",
+      "importance": 6,
+      "topics": [
+        "Meta",
+        "AR",
+        "משקפי חכמים"
+      ],
+      "published": "Mon, 12 Oct 2026 06:23:59 +0000"
     },
     {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
@@ -245,7 +259,7 @@
       "importance": 5,
       "topics": [
         "AI",
-        "speech recognition"
+        "קוליות"
       ],
       "published": "Sun, 11 Oct 2026 14:00:00 +0000"
     }
