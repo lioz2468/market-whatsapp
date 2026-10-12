@@ -946,7 +946,8 @@
     "f42d8378c56c6403": "2026-10-12T11:45:26.674527+00:00",
     "cb28dc5dcd2ba7bd": "2026-10-12T13:16:10.539165+00:00",
     "a6ccb5527cf36faf": "2026-10-12T14:45:27.833812+00:00",
-    "d17e89887015025f": "2026-10-12T16:15:27.661602+00:00"
+    "d17e89887015025f": "2026-10-12T16:15:27.661602+00:00",
+    "5a41ca81ba5cafd1": "2026-10-12T17:46:30.574226+00:00"
   },
   "messages": [
     {
@@ -13653,7 +13654,22 @@
         "AI",
         "טק"
       ]
+    },
+    {
+      "sent_at": "2026-10-12T17:46:30.574226+00:00",
+      "title": "$NVDA and Cisco $CSCO announced USFP optics targeting up to 12.8Tb/s, 4x the bandwidth density and 1.3x the power efficiency of 200G-per-lane modules. $META is adopting Nvidia’s Spectrum-6 switches to scale AI clusters beyond 100,000 GPUs. https://t.co/S6UCJMgh2j https://t.co/FrMpgo7a2K",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2109679626041909564",
+      "message": "NVIDIA ו-Cisco הכריזו על טכנולוגיית אופטיקה חדשה שמגיעה ל-12.8 טרה-ביט לשנייה - פי 4 מצפיפות הרוחב פס של מודולים קיימים. במקביל, Meta אימצה את מתגי Spectrum-6 של NVIDIA כדי להריץ אשכולות AI מעל 100,000 כרטיסי גרפיקה.\n\nמה שמעניין כאן: הצוואר הבקבוק של AI כבר לא המעבדים - אלא הרשת שמחברת ביניהם. מי שמוכר את ה\"צינורות\" האלה הופך לקריטי לא פחות ממי שמוכר את השבבים. ספקיות אופטיקה ותשתיות רשת שוות מבט.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "Nvidia",
+        "תשתיות AI",
+        "Cisco",
+        "Meta"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-12T16:15:26.195259+00:00"
+  "last_auto_run": "2026-10-12T17:45:27.536944+00:00"
 }
