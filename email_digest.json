@@ -1,139 +1,164 @@
 {
-  "generated_at": "2026-10-12T10:33:36.512292+00:00",
+  "generated_at": "2026-10-13T05:45:13.015015+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+      "summary": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
       "importance": 8,
-      "topics": [
-        "אסון",
-        "מהגרים",
-        "אפריקה"
-      ],
-      "published": "Sun, 11 Oct 2026 15:32:23 GMT"
-    },
-    {
-      "title": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss",
-      "summary": "A year into a 'ceasefire', Israel restricts access to 65 percent of Gaza and crams 2.1 million people into the rest.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "פלסטינים",
-        "עזה"
-      ],
-      "published": "Mon, 12 Oct 2026 09:27:12 +0000"
-    },
-    {
-      "title": "Photos: Gaza mothers endure endless lines as famine fears persist",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
-      "summary": "Hunger grips Gaza, with over 1.4 million people acutely short of food as aid remains insufficient to meet basic needs.",
-      "importance": 8,
-      "topics": [
-        "עזה",
-        "משבר הומניטרי",
-        "ישראל"
-      ],
-      "published": "Mon, 12 Oct 2026 08:46:41 +0000"
-    },
-    {
-      "title": "Poland detains man suspected of planning assassination of PM Tusk",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
-      "importance": 7,
-      "topics": [
-        "פולין",
-        "ביטחון",
-        "פוליטיקה"
-      ],
-      "published": "Sun, 11 Oct 2026 17:27:24 GMT"
-    },
-    {
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-      "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Mon, 12 Oct 2026 17:43:48 -0400"
+    },
+    {
+      "title": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+      "summary": "Trump said he had brokered a cease-fire to protect energy infrastructure in Russia and Ukraine. But Ukrainian officials say bombs kept falling overnight on gas facilities, wounding 33 people.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "תקיפות"
+      ],
+      "published": "Mon, 12 Oct 2026 02:41:57 -0400"
+    },
+    {
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Mon, 12 Oct 2026 21:20:51 GMT"
+    },
+    {
+      "title": "AI could self-replicate on home devices within ‘months’, Anthropic says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says?traffic_source=rss",
+      "summary": "US tech giant says small AI models may soon be capable of self-replication without access to a data centre.",
+      "importance": 8,
+      "topics": [
+        "בינה מלאכותית",
         "טכנולוגיה"
       ],
-      "published": "Sun, 11 Oct 2026 14:38:10 GMT"
+      "published": "Tue, 13 Oct 2026 04:47:00 +0000"
     },
     {
-      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
-      "importance": 7,
+      "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss",
+      "summary": "US President urges Zelenskyy, Putin to end 'ridiculous war' and insists they agreed to stop attacks on energy sites.",
+      "importance": 8,
       "topics": [
-        "סעודיה",
+        "אוקראינה",
+        "רוסיה",
+        "ארה״ב"
+      ],
+      "published": "Tue, 13 Oct 2026 03:30:23 +0000"
+    },
+    {
+      "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
+      "summary": "Ukraine's president says Russian attacks on Ukraine’s energy infrastructure are continuing despite 'energy ceasefire'.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה"
+      ],
+      "published": "Tue, 13 Oct 2026 03:11:19 +0000"
+    },
+    {
+      "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+      "summary": "US President Trump condemns Yemen's Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.",
+      "importance": 8,
+      "topics": [
         "תימן",
-        "חוסן פוליטי"
+        "הותיים",
+        "סעודיה"
       ],
-      "published": "Sun, 11 Oct 2026 15:32:32 GMT"
+      "published": "Tue, 13 Oct 2026 00:00:00 +0000"
     },
     {
-      "title": "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss",
-      "summary": "Pakistan has taken control of a province governed by Imran Khan’s PTI. Here's what the move means and what happens next.",
-      "importance": 7,
-      "topics": [
-        "פקיסטן",
-        "משבר פוליטי",
-        "אימרן חאן"
-      ],
-      "published": "Mon, 12 Oct 2026 08:54:25 +0000"
-    },
-    {
-      "title": "Countries warn against travel to Saudi Arabia following Houthi attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss",
-      "summary": "US, Australia, Canada, Japan, South Korea and New Zealand among countries urging citizens to avoid travel to the kingdom.",
-      "importance": 7,
-      "topics": [
-        "סעודיה",
-        "Houthi",
-        "תקפולים"
-      ],
-      "published": "Mon, 12 Oct 2026 05:53:45 +0000"
-    },
-    {
-      "title": "גנץ מזהיר את איזנקוט: ליברמן ובנט ידרשו את ראשות הממשלה, עם המפלגות הערביות",
+      "title": "מטוס סורב להיכנס לישראל אחרי שהתגלה שהטייס ממדינה עוינת - והסתובב באוויר",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/elections2026/article/rjg200zcifx",
-      "summary": "בוועידת \"האנשים של המדינה\" של ynet ו\"ידיעות אחרונות\", יו\"ר כחול לבן הבהיר שחרף הסקרים שמנבאים שלא יעבור את אחוז החסימה, הוא יעמוד לבחירה עוד 15 ימים: \"אני היחיד שמציג פתרון למצב הבלתי נסבל של המדינה\". על איזנקוט: \"יקים ממשלה עם המפלגות הערביות, אין לו ברירה. גם ליברמן ובנט\"",
-      "importance": 7,
+      "url": "https://www.ynet.co.il/news/article/bk5d25csme",
+      "summary": "טיסה של חברת \"אתיופיאן איירליינס\" נאלצה לשוב על עקבותיה - תוך שהיא מרוקנת את הדלק בים - אחרי שבבדיקה נמצא שהטייס אינדונזי. למרות השאיפה להפיק לקחים מניסיון החטיפה של טיסת פליי דובאי, שוב רשימת הנוסעים התקבלה בישראל רק אחרי ההמראה משדה התעופה באדיס אבבה",
+      "importance": 8,
       "topics": [
+        "ביטחון",
         "ישראל",
-        "בחירות",
-        "פוליטיקה"
+        "דיפלומטיה אווירית"
       ],
-      "published": "Mon, 12 Oct 2026 11:29:02 +0300"
+      "published": "Tue, 13 Oct 2026 03:57:19 +0300"
     },
     {
-      "title": "המסר של איזנקוט לבנט וליברמן: מועמד אחר ירכיב ממשלה? \"מי שבונה על זה לא מכיר אותי מספיק טוב\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/elections2026/article/b1fnywqsgx",
-      "summary": "יו\"ר ישר! הגיע לוועידת \"האנשים של המדינה\" של ynet ו\"ידיעות אחרונות\" והתייחס לקמפיין של הליכוד נגדו: \"הלעג לאנגלית שלי והסתרת כל המזרחים ברשימה באים מאותו מקום\". על נתניהו אמר: \"שמענו מה קורה בבית שלו. אשתו מפיצה קונספירציות, והבן - משתמט שברח מהארץ\"",
+      "title": "Both Russia and Ukraine are using AI-powered drones on the battlefield",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5984940/both-russia-and-ukraine-are-using-ai-powered-drones-on-the-battlefield",
+      "summary": "A Ukrainian company that got rich making smartphone-controlled cameras to watch pets at home now outfits first-person-view drones with an image recognition system powered by artificial intelligence.",
       "importance": 7,
       "topics": [
-        "ישראל",
-        "בחירות",
-        "פוליטיקה"
+        "בינה מלאכותית",
+        "אוקראינה",
+        "טכנולוגיה צבאית"
       ],
-      "published": "Mon, 12 Oct 2026 11:18:59 +0300"
+      "published": "Mon, 12 Oct 2026 16:42:49 -0400"
+    },
+    {
+      "title": "India's opposition parties march to top court as protests over voter lists escalate",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
+      "summary": "Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll.",
+      "importance": 7,
+      "topics": [
+        "הודו",
+        "מדיניות",
+        "בחירות"
+      ],
+      "published": "Mon, 12 Oct 2026 12:01:54 -0400"
     }
   ],
   "business": [
+    {
+      "title": "Fed officials want to hold off a rate hike this month. Will this week’s inflation data let them?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
+      "summary": "נתוני האינפלציה של השבוע יקבעו אם הפד יעלה ריבית בהפתעה בסוף אוקטובר. הבכירים בפד רוצים להמשיך להמתין - אבל אם המספרים יהיו גבוהים מהציפיות, הם עלולים להידחף לפעול מוקדם מהתוכנית.\n\nמעבר לשוק האמריקאי: עלייה בריבית תחזק את הדולר, תלחץ על שווקים מתעוררים ותשפיע על עלויות המימון של חברות עם חוב גבוה - גם מחוץ לארה\"ב.",
+      "importance": 9,
+      "topics": [
+        "פד",
+        "אינפלציה",
+        "ריבית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "$NVDA and Cisco $CSCO announced USFP optics targeting up to 12.8Tb/s, 4x the bandwidth density and 1.3x the power efficiency of 200G-per-lane modules. $META is adopting Nvidia’s Spectrum-6 switches to scale AI clusters beyond 100,000 GPUs. https://t.co/S6UCJMgh2j https://t.co/FrMpgo7a2K",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2109679626041909564",
+      "summary": "NVIDIA ו-Cisco הכריזו על טכנולוגיית אופטיקה חדשה שמגיעה ל-12.8 טרה-ביט לשנייה - פי 4 מצפיפות הרוחב פס של מודולים קיימים. במקביל, Meta אימצה את מתגי Spectrum-6 של NVIDIA כדי להריץ אשכולות AI מעל 100,000 כרטיסי גרפיקה.\n\nמה שמעניין כאן: הצוואר הבקבוק של AI כבר לא המעבדים - אלא הרשת שמחברת ביניהם. מי שמוכר את ה\"צינורות\" האלה הופך לקריטי לא פחות ממי שמוכר את השבבים. ספקיות אופטיקה ותשתיות רשת שוות מבט.",
+      "importance": 9,
+      "topics": [
+        "Nvidia",
+        "תשתיות AI",
+        "Cisco",
+        "Meta"
+      ],
+      "tag": "גלובלי"
+    },
     {
       "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
       "source": "MarketWatch",
@@ -159,109 +184,164 @@
         "תזוזה מדיניות"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "חוב המרג'ין בארה\"ב שבר שיא חדש - משקיעים קמעונאיים לוקחים הלוואות כנגד תיקי ההשקעות שלהם בקצב שלא ראינו כמותו. זה לא רק מספר סטטיסטי: כשהשוק עולה, מינוף מגביר את הרווחים - אבל כשהוא יורד, ההפסדים מוכפלים ומשולשים, ומי שצריך לכסות את ההלוואה מוכר מהר. זה יוצר לחץ מכירות שמאיץ ירידות. שווה לשים לב לזה - בעיקר בתקופות של תנודתיות גבוהה.",
+      "importance": 8,
+      "topics": [
+        "מרווח",
+        "התנהגות משקיע",
+        "סיכון שוק"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "BYD's European Workforce to Reach 40,000 in 2030",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "BYD מתכננת להגיע ל-40,000 עובדים באירופה עד 2030 - פי כמה ממה שיש לה היום. זה לא רק כוח אדם, זה הצהרת כוונות: הם בונים נוכחות מקומית ארוכת טווח כדי לעקוף את חומות המכס של האיחוד האירופי.\n\nמה שפחות ברור: זה לחץ ישיר על יצרניות כמו Volkswagen ו-Stellantis, שכבר נמצאות בקשיים. כשהמתחרה הסיני מגייס מקומית, הטיעון של \"מוצר זר\" נחלש, והלחץ הרגולטורי עליו פוחת.",
+      "importance": 8,
+      "topics": [
+        "רכב חשמלי",
+        "סין",
+        "אירופה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Amazon in talks to buy Israel's Decart at $7b valuation - report",
+      "source": "גלובס כללי",
+      "url": "",
+      "summary": "אמזון בדרך לרכוש את Decart הישראלית לפי שווי של 7 מיליארד דולר - זו אחת העסקאות הגדולות ביותר שנעשו על חברת AI ישראלית. לפי ה-WSJ, ההסכם קרוב לחתימה אבל עוד לא סגור.\n\nDecart עובדת על מודלים גנרטיביים לסימולציות בזמן אמת - הטכנולוגיה רלוונטית מאוד לתחומים כמו גיימינג, רובוטיקה ורכבים אוטונומיים.\n\nשווה לשים לב: עסקה כזו מושכת תשומת לב של משקיעים גלובליים לאקוסיסטם הטק הישראלי - וזה בדרך כלל מוביל לעוד עסקאות בעקבותיה.",
+      "importance": 8,
+      "topics": [
+        "רכישות M&A",
+        "AI",
+        "טק"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "ריבית גבוהה יותר - זה לא תרחיש קיצון, זה מה שנשיאת הפד של קליבלנד, האמאק, אמרה השבוע. הסיבה: היא חוששת שהציבור האמריקאי מתחיל לצפות שאינפלציה גבוהה היא נורמה - ואם זה קורה, הפד יצטרך להדק עוד יותר כדי לשבור את הציפייה הזו.\n\nההשפעה העקיפה שלא כולם רואים: שוק האג\"ח, שכבר מתמחר הורדות ריבית השנה, עלול להפתע. ומניות צמיחה - שמחיריהן תלויים בציפיות לריבית נמוכה - יהיו הראשונות לספוג.",
+      "importance": 8,
+      "topics": [
+        "פד",
+        "ריבית",
+        "אינפלציה"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "עכשיו זו אמזון שרוצה לרכוש את דקארט ב-7 מיליארד דולר",
+      "title": "בלי טובות מאנבידיה? מיקרוסופט חושפת שבב AI חדש",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/amazon-to-acquire-decart-israeli-ai-startup-for-7-billion-report/",
-      "summary": "אחרי כישלון המגעים עם ענקית ה-AI אנת'רופיק, נראה שדקארט הישראלית עדיין על המדף, עם קונה פוטנציאלית חדשה: אמזון. לפי דיווח מהלילה של הוול סטריט ג'ורנל, אמזון מנהלת מגעים מתקדמים לרכישת הסטארטאפ הישראלי Decart, כשסכום הרכישה צפוי לעמוד על כ-7 מיליארד דולר. מקורות המעורים בפרטים ציינו כי ההסכם עשוי להיחתם בקרוב, בהנחה שהשיחות לא יעלו על […] The post עכשיו זו אמזון שרוצה לרכוש את דקארט ב-7 מיליארד דול",
+      "url": "https://www.geektime.co.il/microsoft-maia-300-ai-chip-nvidia/",
+      "summary": "מיקרוסופט עושה צעד מעניין שיכול לסמן את התחילה של העצמאות והניתוק של התלות שלה באנבידיה. החברה חשפה היום (ב') את Maia 300, הדור השלישי של שבב ה-AI בפיתוח העצמי שלה, שמיועד להפוך למנוע המרכזי של כל המוצרים שלה בענן. במיקרוסופט בונים על הצ'יפ החדש, שיאפשר לה להתמודד טוב יותר עם מודלים מתקדמים הדורשים הסקה לוגית […] The post בלי טובות מאנבידיה? מיקרוסופט חושפת שבב AI חדש appeared first on גיקטיים .",
       "importance": 8,
       "topics": [
-        "AI",
-        "רכישה",
-        "סטארטאפ"
+        "מיקרוסופט",
+        "שבבים",
+        "AI"
       ],
-      "published": "Mon, 12 Oct 2026 04:01:06 +0000"
+      "published": "Mon, 12 Oct 2026 13:00:03 +0000"
     },
     {
-      "title": "A college in Illinois tried to cancel its Flock contact and it refused",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
-      "summary": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and […]",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
       "importance": 7,
       "topics": [
-        "פרטיות",
-        "אבטחה",
-        "נושאים רגולטוריים"
+        "AI",
+        "Meta",
+        "מודלים גדולים"
       ],
-      "published": "2026-10-11T16:06:43-04:00"
+      "published": "Mon, 12 Oct 2026 17:56:56 +0000"
     },
     {
-      "title": "רגע לפני החשיפה: דלפו הפרטים על HomeView, המוצר החדש של אפל",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/apple-homeview-is-coming/",
-      "summary": "בשבועות האחרונים אנחנו שומעים שוב ושוב על הכניסה הצפויה של אפל לקטגוריית הבית החכם. מחר (ג') היא צפויה לערוך אירוע תחת הכותרת Welcome Home, אבל אם אין לכם סבלנות, חלק גדול מהפרטים כבר דלף. לא HomePad מארק גורמן מבלומברג חשף בניוזלטר שלו שורת ספוילרים מעניינים לאירוע אפל שייערך מחר, כולל השם של המסך החכם שתציג […] The post רגע לפני החשיפה: דלפו הפרטים על HomeView, המוצר החדש של אפל appeared first o",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
       "importance": 7,
       "topics": [
-        "אפל",
-        "בית חכם",
-        "מוצרים חדשים"
-      ],
-      "published": "Mon, 12 Oct 2026 09:43:30 +0000"
-    },
-    {
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-      "importance": 6,
-      "topics": [
-        "Apple",
-        "ציוד חכם"
-      ],
-      "published": "Sun, 11 Oct 2026 21:14:40 +0000"
-    },
-    {
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "importance": 6,
-      "topics": [
         "AI",
-        "נושאים רגולטוריים"
+        "Gaming",
+        "Epic Games"
       ],
-      "published": "Sun, 11 Oct 2026 16:52:33 +0000"
+      "published": "Mon, 12 Oct 2026 20:59:50 +0000"
     },
     {
-      "title": "What to expect from Apple’s ‘Welcome Home’ event",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-      "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner devices […]",
-      "importance": 6,
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "importance": 7,
       "topics": [
-        "Apple",
-        "smart home",
-        "homeOS"
+        "רובוטיקה",
+        "Amazon",
+        "אוטומציה"
       ],
-      "published": "2026-10-11T09:00:00-04:00"
+      "published": "Mon, 12 Oct 2026 12:43:10 +0000"
     },
     {
-      "title": "פרסום ראשון: משקפי מטא מגיעים ביבוא רשמי לישראל – כולל פיצ'רי ה-AI",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/meta-ray-ban-oakley-are-coming-to-israel/",
-      "summary": "בשבוע שעבר סיפרנו לכם שאחת מרשתות המשקפיים הגדולות בישראל תשווק את הדור החדש של משקפי Meta Ray-Ban ו-Oakley. אבל מתברר שהבשורה עבור צרכני הגאדג'טים הישראלים – הרבה יותר משמעותית. ממידע חדש שהגיע לידינו עולה כי לא מדובר בייבוא מקביל של המשקפיים הפופולריים של מטא וריי-באן, אלא ייבוא רשמי לכל דבר. כחלק מהמהלך הראשוני הזה, מטא […] The post פרסום ראשון: משקפי מטא מגיעים ביבוא רשמי לישראל – כולל פיצ'רי ",
-      "importance": 6,
+      "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+      "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+      "importance": 7,
       "topics": [
         "Meta",
-        "AR",
-        "משקפי חכמים"
+        "AI",
+        "מודלים גדולים"
       ],
-      "published": "Mon, 12 Oct 2026 06:23:59 +0000"
+      "published": "Mon, 12 Oct 2026 17:00:27 +0000"
     },
     {
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "title": "סיילספורס רוכשת את הסטארטאפ הישראלי Loops",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/salesforce-to-acquire-loops/",
+      "summary": "חברת Salesforce (סיילספורס) הודיעה לפני זמן קצר (ב') על רכישת חברת Loops הישראלית. זוהי הרכישה הרביעית של סיילספורס בארץ בשנתיים האחרונות, ועם השלמתה זו תהיה הרכישה העשירית של החברה בישראל. החברות לא פרסמו את סכום הרכישה אך על פי הערכות הוא נע בין 20 ל-40 מיליון דולר. מהשקעות מבכירים במטא וגוגל לרכישה על ידי סיילספורס […] The post סיילספורס רוכשת את הסטארטאפ הישראלי Loops appeared first on גיקטיים",
+      "importance": 7,
+      "topics": [
+        "Salesforce",
+        "רכישה",
+        "AI"
+      ],
+      "published": "Mon, 12 Oct 2026 13:04:46 +0000"
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "importance": 5,
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "importance": 6,
+      "topics": [
+        "רגולציה",
+        "AI",
+        "Microsoft"
+      ],
+      "published": "Mon, 12 Oct 2026 15:31:19 +0000"
+    },
+    {
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "importance": 6,
       "topics": [
         "AI",
-        "קוליות"
+        "Anthropic",
+        "בטיחות"
       ],
-      "published": "Sun, 11 Oct 2026 14:00:00 +0000"
+      "published": "Mon, 12 Oct 2026 18:21:36 +0000"
     }
   ]
 }
