@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-13T05:45:13.015015+00:00",
+  "generated_at": "2026-10-13T10:22:36.480429+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Trump's diesel deal with Putin angers Europe",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe",
+      "summary": "President Trump's diesel deal with Russia sparks European fury, as Ukraine's President Zelenskyy questions Washington's motives and allies vow to keep pressure on Moscow.",
+      "importance": 8,
+      "topics": [
+        "רוסיה",
+        "אוקראינה",
+        "דיפלומטיה"
+      ],
+      "published": "Tue, 13 Oct 2026 04:44:19 -0400"
+    },
     {
       "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
       "source": "NPR World",
@@ -11,98 +24,9 @@
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "דיפלומטיה"
+        "טראמפ"
       ],
       "published": "Mon, 12 Oct 2026 17:43:48 -0400"
-    },
-    {
-      "title": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
-      "summary": "Trump said he had brokered a cease-fire to protect energy infrastructure in Russia and Ukraine. But Ukrainian officials say bombs kept falling overnight on gas facilities, wounding 33 people.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "תקיפות"
-      ],
-      "published": "Mon, 12 Oct 2026 02:41:57 -0400"
-    },
-    {
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
-      ],
-      "published": "Mon, 12 Oct 2026 21:20:51 GMT"
-    },
-    {
-      "title": "AI could self-replicate on home devices within ‘months’, Anthropic says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says?traffic_source=rss",
-      "summary": "US tech giant says small AI models may soon be capable of self-replication without access to a data centre.",
-      "importance": 8,
-      "topics": [
-        "בינה מלאכותית",
-        "טכנולוגיה"
-      ],
-      "published": "Tue, 13 Oct 2026 04:47:00 +0000"
-    },
-    {
-      "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss",
-      "summary": "US President urges Zelenskyy, Putin to end 'ridiculous war' and insists they agreed to stop attacks on energy sites.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ארה״ב"
-      ],
-      "published": "Tue, 13 Oct 2026 03:30:23 +0000"
-    },
-    {
-      "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
-      "summary": "Ukraine's president says Russian attacks on Ukraine’s energy infrastructure are continuing despite 'energy ceasefire'.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה"
-      ],
-      "published": "Tue, 13 Oct 2026 03:11:19 +0000"
-    },
-    {
-      "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
-      "summary": "US President Trump condemns Yemen's Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.",
-      "importance": 8,
-      "topics": [
-        "תימן",
-        "הותיים",
-        "סעודיה"
-      ],
-      "published": "Tue, 13 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "title": "מטוס סורב להיכנס לישראל אחרי שהתגלה שהטייס ממדינה עוינת - והסתובב באוויר",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bk5d25csme",
-      "summary": "טיסה של חברת \"אתיופיאן איירליינס\" נאלצה לשוב על עקבותיה - תוך שהיא מרוקנת את הדלק בים - אחרי שבבדיקה נמצא שהטייס אינדונזי. למרות השאיפה להפיק לקחים מניסיון החטיפה של טיסת פליי דובאי, שוב רשימת הנוסעים התקבלה בישראל רק אחרי ההמראה משדה התעופה באדיס אבבה",
-      "importance": 8,
-      "topics": [
-        "ביטחון",
-        "ישראל",
-        "דיפלומטיה אווירית"
-      ],
-      "published": "Tue, 13 Oct 2026 03:57:19 +0300"
     },
     {
       "title": "Both Russia and Ukraine are using AI-powered drones on the battlefield",
@@ -111,9 +35,9 @@
       "summary": "A Ukrainian company that got rich making smartphone-controlled cameras to watch pets at home now outfits first-person-view drones with an image recognition system powered by artificial intelligence.",
       "importance": 7,
       "topics": [
-        "בינה מלאכותית",
         "אוקראינה",
-        "טכנולוגיה צבאית"
+        "טכנולוגיה",
+        "בינה מלאכותית"
       ],
       "published": "Mon, 12 Oct 2026 16:42:49 -0400"
     },
@@ -125,10 +49,88 @@
       "importance": 7,
       "topics": [
         "הודו",
-        "מדיניות",
+        "דמוקרטיה",
         "בחירות"
       ],
       "published": "Mon, 12 Oct 2026 12:01:54 -0400"
+    },
+    {
+      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+      "summary": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "טראמפ",
+        "דיפלומטיה"
+      ],
+      "published": "Mon, 12 Oct 2026 07:29:56 -0400"
+    },
+    {
+      "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.",
+      "importance": 7,
+      "topics": [
+        "רוסיה",
+        "בולגריה",
+        "ביטחון ימי"
+      ],
+      "published": "Tue, 13 Oct 2026 08:52:48 GMT"
+    },
+    {
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "סכסוך"
+      ],
+      "published": "Mon, 12 Oct 2026 21:20:51 GMT"
+    },
+    {
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "importance": 7,
+      "topics": [
+        "סעודיה",
+        "חות'ים",
+        "סכסוך"
+      ],
+      "published": "Tue, 13 Oct 2026 04:30:09 GMT"
+    },
+    {
+      "title": "Israeli forces raid Palestinian NGOs and hospital in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss",
+      "summary": "Snipers have been deployed outside entrances to the Palestine Medical Complex, WAFA reported.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "פלסטינה",
+        "סכסוך"
+      ],
+      "published": "Tue, 13 Oct 2026 09:47:05 +0000"
+    },
+    {
+      "title": "How NATO plans to combat potential attacks on the alliance from Russia",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998721/how-nato-plans-to-combat-potential-attacks-on-the-alliance-from-russia",
+      "summary": "NPR's Steve Inskeep speaks with former U.S. Assistant Secretary for European Affairs Dan Hamilton about NATO's detailed plans to counter any possible Russian attack on the alliance.",
+      "importance": 6,
+      "topics": [
+        "נאטו",
+        "רוסיה",
+        "ביטחון"
+      ],
+      "published": "Tue, 13 Oct 2026 04:44:14 -0400"
     }
   ],
   "business": [
@@ -160,30 +162,17 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "אפל הורידה את הזמנות הרכיבים לאייפון 18 Pro ו-Pro Max בכ-15% באוקטובר - זו הדלפה מ-Nikkei Asia שקשה להתעלם ממנה.\n\nכשאפל מצמצמת הזמנות, זה לא רק סיפור על מכירות אייפון. ספקים כמו Foxconn, Texas Instruments וחברות שבבים שמייצרות רכיבי מצלמה ומסך הם הראשונים שמרגישים את זה. מה שמעניין יותר - זה אחד האינדיקטורים הטובים ביותר שיש לנו לגבי כוח הצרכן הגלובלי. אם האייפון הכי יקר מאבד ביקוש, כנראה שהצרכן מתחיל לחשב מסלול מחדש.",
-      "importance": 8,
-      "topics": [
-        "Apple",
-        "טכנולוגיה",
-        "שרשרת אספקה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as adviser",
+      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
       "source": "CNBC Top News",
-      "url": "",
-      "summary": "ג'ודי שלטון - הכלכלנית שהסנאט פסל למינוי לפד בגלל השקפותיה הכלכליות השנויות במחלוקת - מצטרפת עכשיו כיועצת למשרד האוצר האמריקאי. בסנט מינה אותה שר האוצר בסנט.\n\nשלטון ידועה בתמיכה בחזרה לתקן הזהב ובספקנות כלפי עצמאות הפד. זה לא שינוי טכני - זה אות לכיוון שבו האוצר רוצה ללכת בנושאי מדיניות מוניטרית. מי שצריך לשים לב: כל מי שמחזיק אג\"ח ממשלתיות אמריקאיות, ובנקים מרכזיים בעולם שמביטים על וושינגטון ותוהים לאן הדברים מתגלגלים.",
-      "importance": 8,
+      "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "summary": "קרן המטבע הבינלאומית (IMF) מזהירה: שוק האג\"ח הממשלתי נמצא בסיכון גבוה מתמיד, ותשואות יכולות לקפוץ בצורה חדה ולא מסודרת. זה לא אזהרה על מיתון - זה על משהו אחר לגמרי. כשתשואות האג\"ח קופצות בפאניקה, עלויות האשראי עולות בכל מקום - משכנתאות, הלוואות עסקיות, מימון ממשלתי. המדינות עם גירעונות גבוהים ייפגעו הכי קשה, וישראל, שמגדילה הוצאות ביטחון בקצב מהיר, לא אמורה להיות אדישה לדינמיקה הזו.",
+      "importance": 9,
       "topics": [
-        "פד",
-        "רגולציה",
-        "תזוזה מדיניות"
+        "איגרות חוב",
+        "מדיניות כלכלית",
+        "סיכוני מקרו"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
       "title": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
@@ -236,9 +225,49 @@
         "אינפלציה"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "קרן המטבע הבינלאומית מזהה שהכלכלה העולמית מתפצלת לשתי מגמות הפוכות - מה שנקרא צמיחה K-shaped. חלק מהמדינות ממשיכות לצמוח בזכות ביקוש לטכנולוגיה ובינה מלאכותית, והחשיפה הנמוכה שלהן לזעזועי מחירי הנפט. המדינות האחרות - בעיקר יצואניות נפט ואלה שסובלות מהמכסים האמריקאים - נמצאות בצד השני של ה-K.\n\nבעיקרון זה אומר שהגלובליזציה לא מתה, היא רק נעשית סלקטיבית. ישראל, שמשולבת היטב במגזר הטכנולוגיה העולמי, נמצאת יותר בצד הטוב של המשוואה - אבל שווה לשים לב לאיך שינויי מסחר אמריקאים ימשיכו לעצב את המפה הזו.",
+      "importance": 8,
+      "topics": [
+        "כלכלה גלובלית",
+        "אי-שוויון",
+        "AI",
+        "נפט"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Microsoft hits a big milestone that solidifies its revival",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "מיקרוסופט חזרה לשווי שוק של 4 טריליון דולר - ושוב נמצאת בין שתיים-שלוש החברות היקרות בעולם.\n\nמה שמעניין פה הוא לא רק המספר עצמו. זה קורה בדיוק כשהשוק מתחיל לתמחר מחדש את ההוצאות הענקיות על AI - ומי שמשקיע בתשתיות, כמו מיקרוסופט, נהנה מהאמון הזה יותר מכולם. ההון חוזר לטק, ומיקרוסופט מקבלת את הנתח הגדול.\n\nשווה לשים לב: ספקיות תשתית ענן קטנות יותר עשויות להרגיש את הלחץ - כשמיקרוסופט עולה, ההון מתרכז למעלה.",
+      "importance": 8,
+      "topics": [
+        "טכנולוגיה",
+        "שווקי הון",
+        "מיקרוסופט"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
+    {
+      "title": "מטא משיקה את מודל ה-AI המתקדם ביותר שלה וטוענת שהוא טוב יותר מקלוד ו-GPT Astra",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/meta-announces-muse-wonder-and-muse-wonder-fulll/",
+      "summary": "אחרי שהוציאה מיליארדים כדי לסגור את הפער מול OpenAI ואנת'רופיק, ואחרי שהשיקה מוצר ראשון מוצלח בדמות הסוכן Muse, מטא סוף סוף משחררת את התותחים הכבדים, כשהיא חושפת את סדרת המודלים החדשה, שתנסה לנצח את המתחרות במגרש הביתי שלהן, עם זיכרון משופר, תמיכה בווידאו וטריקים חדשים לפתרון בעיות. האם צוקרברג מצא את הנוסחה המנצחת? המודלים המשמעותיים הראשונים […] The post מטא משיקה את מודל ה-AI המתקדם ביותר שלה ו",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "מטא",
+        "מודלים שפה"
+      ],
+      "published": "Tue, 13 Oct 2026 06:49:05 +0000"
+    },
     {
       "title": "בלי טובות מאנבידיה? מיקרוסופט חושפת שבב AI חדש",
       "source": "גיקטיים",
@@ -246,9 +275,9 @@
       "summary": "מיקרוסופט עושה צעד מעניין שיכול לסמן את התחילה של העצמאות והניתוק של התלות שלה באנבידיה. החברה חשפה היום (ב') את Maia 300, הדור השלישי של שבב ה-AI בפיתוח העצמי שלה, שמיועד להפוך למנוע המרכזי של כל המוצרים שלה בענן. במיקרוסופט בונים על הצ'יפ החדש, שיאפשר לה להתמודד טוב יותר עם מודלים מתקדמים הדורשים הסקה לוגית […] The post בלי טובות מאנבידיה? מיקרוסופט חושפת שבב AI חדש appeared first on גיקטיים .",
       "importance": 8,
       "topics": [
-        "מיקרוסופט",
         "שבבים",
-        "AI"
+        "AI",
+        "מיקרוסופט"
       ],
       "published": "Mon, 12 Oct 2026 13:00:03 +0000"
     },
@@ -260,8 +289,7 @@
       "importance": 7,
       "topics": [
         "AI",
-        "Meta",
-        "מודלים גדולים"
+        "Meta"
       ],
       "published": "Mon, 12 Oct 2026 17:56:56 +0000"
     },
@@ -273,10 +301,23 @@
       "importance": 7,
       "topics": [
         "AI",
-        "Gaming",
+        "פיתוח משחקים",
         "Epic Games"
       ],
       "published": "Mon, 12 Oct 2026 20:59:50 +0000"
+    },
+    {
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "Claude"
+      ],
+      "published": "Mon, 12 Oct 2026 18:21:36 +0000"
     },
     {
       "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
@@ -285,24 +326,11 @@
       "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
       "importance": 7,
       "topics": [
+        "אוטומציה",
         "רובוטיקה",
-        "Amazon",
-        "אוטומציה"
+        "Amazon"
       ],
       "published": "Mon, 12 Oct 2026 12:43:10 +0000"
-    },
-    {
-      "title": "Muse Wonder Puts Meta Back at the AI Frontier",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
-      "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
-      "importance": 7,
-      "topics": [
-        "Meta",
-        "AI",
-        "מודלים גדולים"
-      ],
-      "published": "Mon, 12 Oct 2026 17:00:27 +0000"
     },
     {
       "title": "סיילספורס רוכשת את הסטארטאפ הישראלי Loops",
@@ -311,9 +339,9 @@
       "summary": "חברת Salesforce (סיילספורס) הודיעה לפני זמן קצר (ב') על רכישת חברת Loops הישראלית. זוהי הרכישה הרביעית של סיילספורס בארץ בשנתיים האחרונות, ועם השלמתה זו תהיה הרכישה העשירית של החברה בישראל. החברות לא פרסמו את סכום הרכישה אך על פי הערכות הוא נע בין 20 ל-40 מיליון דולר. מהשקעות מבכירים במטא וגוגל לרכישה על ידי סיילספורס […] The post סיילספורס רוכשת את הסטארטאפ הישראלי Loops appeared first on גיקטיים",
       "importance": 7,
       "topics": [
-        "Salesforce",
-        "רכישה",
-        "AI"
+        "M&A",
+        "סיילספורס",
+        "סטארטאפ"
       ],
       "published": "Mon, 12 Oct 2026 13:04:46 +0000"
     },
@@ -324,24 +352,10 @@
       "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
       "importance": 6,
       "topics": [
-        "רגולציה",
         "AI",
-        "Microsoft"
+        "רגולציה"
       ],
       "published": "Mon, 12 Oct 2026 15:31:19 +0000"
-    },
-    {
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
-      "importance": 6,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "בטיחות"
-      ],
-      "published": "Mon, 12 Oct 2026 18:21:36 +0000"
     }
   ]
 }
