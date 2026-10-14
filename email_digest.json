@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-13T10:22:36.480429+00:00",
+  "generated_at": "2026-10-14T05:45:15.052102+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
+      "summary": "Ukrainian President Volodymyr Zelenskyy sat down for an interview with NPR at a time of renewed tensions with the White House.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "דיפלומטיה",
+        "ארה\"ב"
+      ],
+      "published": "Tue, 13 Oct 2026 14:51:55 -0400"
+    },
     {
       "title": "Trump's diesel deal with Putin angers Europe",
       "source": "NPR World",
@@ -10,157 +23,117 @@
       "importance": 8,
       "topics": [
         "רוסיה",
-        "אוקראינה",
-        "דיפלומטיה"
+        "אירופה",
+        "אוקראינה"
       ],
       "published": "Tue, 13 Oct 2026 04:44:19 -0400"
     },
     {
-      "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
-      "summary": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "טראמפ"
-      ],
-      "published": "Mon, 12 Oct 2026 17:43:48 -0400"
-    },
-    {
-      "title": "Both Russia and Ukraine are using AI-powered drones on the battlefield",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5984940/both-russia-and-ukraine-are-using-ai-powered-drones-on-the-battlefield",
-      "summary": "A Ukrainian company that got rich making smartphone-controlled cameras to watch pets at home now outfits first-person-view drones with an image recognition system powered by artificial intelligence.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "טכנולוגיה",
-        "בינה מלאכותית"
-      ],
-      "published": "Mon, 12 Oct 2026 16:42:49 -0400"
-    },
-    {
-      "title": "India's opposition parties march to top court as protests over voter lists escalate",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
-      "summary": "Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll.",
-      "importance": 7,
-      "topics": [
-        "הודו",
-        "דמוקרטיה",
-        "בחירות"
-      ],
-      "published": "Mon, 12 Oct 2026 12:01:54 -0400"
-    },
-    {
-      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
-      "summary": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "טראמפ",
-        "דיפלומטיה"
-      ],
-      "published": "Mon, 12 Oct 2026 07:29:56 -0400"
-    },
-    {
-      "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.",
-      "importance": 7,
-      "topics": [
-        "רוסיה",
-        "בולגריה",
-        "ביטחון ימי"
-      ],
-      "published": "Tue, 13 Oct 2026 08:52:48 GMT"
-    },
-    {
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
         "סכסוך"
       ],
-      "published": "Mon, 12 Oct 2026 21:20:51 GMT"
+      "published": "Wed, 14 Oct 2026 04:36:06 GMT"
     },
     {
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "importance": 7,
-      "topics": [
-        "סעודיה",
-        "חות'ים",
-        "סכסוך"
-      ],
-      "published": "Tue, 13 Oct 2026 04:30:09 GMT"
-    },
-    {
-      "title": "Israeli forces raid Palestinian NGOs and hospital in occupied West Bank",
+      "title": "Ukrainian drones strike more than 100km into Russian territory",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss",
-      "summary": "Snipers have been deployed outside entrances to the Palestine Medical Complex, WAFA reported.",
-      "importance": 7,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
+      "summary": "Ukrainian drones struck the Saratov region. The regional governor reported one person was killed.",
+      "importance": 8,
       "topics": [
-        "ישראל",
-        "פלסטינה",
+        "אוקראינה",
+        "רוסיה",
         "סכסוך"
       ],
-      "published": "Tue, 13 Oct 2026 09:47:05 +0000"
+      "published": "Wed, 14 Oct 2026 05:07:55 +0000"
     },
     {
       "title": "How NATO plans to combat potential attacks on the alliance from Russia",
       "source": "NPR World",
       "url": "https://www.npr.org/2026/10/13/nx-s1-5998721/how-nato-plans-to-combat-potential-attacks-on-the-alliance-from-russia",
       "summary": "NPR's Steve Inskeep speaks with former U.S. Assistant Secretary for European Affairs Dan Hamilton about NATO's detailed plans to counter any possible Russian attack on the alliance.",
-      "importance": 6,
+      "importance": 7,
       "topics": [
-        "נאטו",
+        "NATO",
         "רוסיה",
         "ביטחון"
       ],
       "published": "Tue, 13 Oct 2026 04:44:14 -0400"
+    },
+    {
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "גרמניה"
+      ],
+      "published": "Tue, 13 Oct 2026 23:42:22 GMT"
+    },
+    {
+      "title": "Russia arrests Japanese journalist on alleged espionage",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+      "importance": 7,
+      "topics": [
+        "רוסיה",
+        "יפן",
+        "ביטחון"
+      ],
+      "published": "Wed, 14 Oct 2026 04:10:49 GMT"
+    },
+    {
+      "title": "China and North Korea to open New Yalu River Bridge, state media reports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
+      "summary": "The long-delayed bridge will formally open on Thursday, according to China's state-run Xinhua news agency.",
+      "importance": 7,
+      "topics": [
+        "סין",
+        "צפון קוריאה",
+        "גיאופוליטיקה"
+      ],
+      "published": "Wed, 14 Oct 2026 04:27:18 +0000"
+    },
+    {
+      "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss",
+      "summary": "The trial is expected to run into February and could test Germany's political stance on Ukraine.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "גרמניה",
+        "Nord Stream"
+      ],
+      "published": "Wed, 14 Oct 2026 03:06:42 +0000"
+    },
+    {
+      "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
+      "summary": "Russian ballistic missiles struck Kyiv for a second consecutive day without advance warning.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "קייב"
+      ],
+      "published": "Wed, 14 Oct 2026 02:45:40 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Fed officials want to hold off a rate hike this month. Will this week’s inflation data let them?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
-      "summary": "נתוני האינפלציה של השבוע יקבעו אם הפד יעלה ריבית בהפתעה בסוף אוקטובר. הבכירים בפד רוצים להמשיך להמתין - אבל אם המספרים יהיו גבוהים מהציפיות, הם עלולים להידחף לפעול מוקדם מהתוכנית.\n\nמעבר לשוק האמריקאי: עלייה בריבית תחזק את הדולר, תלחץ על שווקים מתעוררים ותשפיע על עלויות המימון של חברות עם חוב גבוה - גם מחוץ לארה\"ב.",
-      "importance": 9,
-      "topics": [
-        "פד",
-        "אינפלציה",
-        "ריבית"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "$NVDA and Cisco $CSCO announced USFP optics targeting up to 12.8Tb/s, 4x the bandwidth density and 1.3x the power efficiency of 200G-per-lane modules. $META is adopting Nvidia’s Spectrum-6 switches to scale AI clusters beyond 100,000 GPUs. https://t.co/S6UCJMgh2j https://t.co/FrMpgo7a2K",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2109679626041909564",
-      "summary": "NVIDIA ו-Cisco הכריזו על טכנולוגיית אופטיקה חדשה שמגיעה ל-12.8 טרה-ביט לשנייה - פי 4 מצפיפות הרוחב פס של מודולים קיימים. במקביל, Meta אימצה את מתגי Spectrum-6 של NVIDIA כדי להריץ אשכולות AI מעל 100,000 כרטיסי גרפיקה.\n\nמה שמעניין כאן: הצוואר הבקבוק של AI כבר לא המעבדים - אלא הרשת שמחברת ביניהם. מי שמוכר את ה\"צינורות\" האלה הופך לקריטי לא פחות ממי שמוכר את השבבים. ספקיות אופטיקה ותשתיות רשת שוות מבט.",
-      "importance": 9,
-      "topics": [
-        "Nvidia",
-        "תשתיות AI",
-        "Cisco",
-        "Meta"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
       "source": "CNBC Top News",
@@ -175,56 +148,45 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
+      "title": "BlackRock takes profits on stocks as it turns to Treasurys after six years",
       "source": "CNBC Top News",
-      "url": "",
-      "summary": "חוב המרג'ין בארה\"ב שבר שיא חדש - משקיעים קמעונאיים לוקחים הלוואות כנגד תיקי ההשקעות שלהם בקצב שלא ראינו כמותו. זה לא רק מספר סטטיסטי: כשהשוק עולה, מינוף מגביר את הרווחים - אבל כשהוא יורד, ההפסדים מוכפלים ומשולשים, ומי שצריך לכסות את ההלוואה מוכר מהר. זה יוצר לחץ מכירות שמאיץ ירידות. שווה לשים לב לזה - בעיקר בתקופות של תנודתיות גבוהה.",
-      "importance": 8,
+      "url": "https://www.cnbc.com/2026/10/13/blackrock-treasurys-bonds-us-equities.html",
+      "summary": "בלאקרוק - מנהל הנכסים הגדול בעולם עם כ-10 טריליון דולר תחת ניהול - ממשים רווחים במניות ועוברים לאג\"ח אמריקאי לראשונה בשש שנים. זה לא מהלך של משקיע קטן שמשנה כיוון - זה סיגנל שמשנה את כיוון השוק כולו.\n\nכשמי שמחזיק בחלקים ניכרים של כל חברה גדולה מחליט להזיז כסף מניות לאג\"ח, שאר השוק מקשיב - ולפעמים עוקב. שווה לשים לב איך שאר המוסדיים הגדולים יגיבו בשבועות הקרובים.",
+      "importance": 9,
       "topics": [
-        "מרווח",
-        "התנהגות משקיע",
-        "סיכון שוק"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "BYD's European Workforce to Reach 40,000 in 2030",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "BYD מתכננת להגיע ל-40,000 עובדים באירופה עד 2030 - פי כמה ממה שיש לה היום. זה לא רק כוח אדם, זה הצהרת כוונות: הם בונים נוכחות מקומית ארוכת טווח כדי לעקוף את חומות המכס של האיחוד האירופי.\n\nמה שפחות ברור: זה לחץ ישיר על יצרניות כמו Volkswagen ו-Stellantis, שכבר נמצאות בקשיים. כשהמתחרה הסיני מגייס מקומית, הטיעון של \"מוצר זר\" נחלש, והלחץ הרגולטורי עליו פוחת.",
-      "importance": 8,
-      "topics": [
-        "רכב חשמלי",
-        "סין",
-        "אירופה"
+        "מוסדות",
+        "אג\"ח",
+        "הון",
+        "תשואות"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Amazon in talks to buy Israel's Decart at $7b valuation - report",
-      "source": "גלובס כללי",
-      "url": "",
-      "summary": "אמזון בדרך לרכוש את Decart הישראלית לפי שווי של 7 מיליארד דולר - זו אחת העסקאות הגדולות ביותר שנעשו על חברת AI ישראלית. לפי ה-WSJ, ההסכם קרוב לחתימה אבל עוד לא סגור.\n\nDecart עובדת על מודלים גנרטיביים לסימולציות בזמן אמת - הטכנולוגיה רלוונטית מאוד לתחומים כמו גיימינג, רובוטיקה ורכבים אוטונומיים.\n\nשווה לשים לב: עסקה כזו מושכת תשומת לב של משקיעים גלובליים לאקוסיסטם הטק הישראלי - וזה בדרך כלל מוביל לעוד עסקאות בעקבותיה.",
-      "importance": 8,
-      "topics": [
-        "רכישות M&A",
-        "AI",
-        "טק"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
       "source": "CNBC Top News",
       "url": "",
-      "summary": "ריבית גבוהה יותר - זה לא תרחיש קיצון, זה מה שנשיאת הפד של קליבלנד, האמאק, אמרה השבוע. הסיבה: היא חוששת שהציבור האמריקאי מתחיל לצפות שאינפלציה גבוהה היא נורמה - ואם זה קורה, הפד יצטרך להדק עוד יותר כדי לשבור את הציפייה הזו.\n\nההשפעה העקיפה שלא כולם רואים: שוק האג\"ח, שכבר מתמחר הורדות ריבית השנה, עלול להפתע. ומניות צמיחה - שמחיריהן תלויים בציפיות לריבית נמוכה - יהיו הראשונות לספוג.",
-      "importance": 8,
+      "summary": "ירידות חדות במניות השבבים משתלטות על השווקים הגלובליים - Micron, SoftBank ו-ASML ספגו מכות קשות אחרי שהגל התחיל בוול סטריט ומשם עבר לאסיה ולאירופה.\n\nמה שמעניין פה הוא שזה לא נשאר בארה\"ב. כשהסמיקונדקטורים נופלים ביחד ובאותו זמן בכל הגוש, זה בדרך כלל מספר משהו על הביקוש הגלובלי לשבבים - לא רק על מניה אחת. וזה נוגע לא רק ליצרניות השבבים: ספקי ציוד, חברות ענן, ויצרניות מכשירים - כולן מרגישות את זה.",
+      "importance": 9,
       "topics": [
-        "פד",
-        "ריבית",
-        "אינפלציה"
+        "סמיקונדקטורים",
+        "טכנולוגיה",
+        "שוק גלובלי",
+        "מלאי"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
+    },
+    {
+      "title": "What China's 'Extraordinary' Trade Surplus Means",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-14/what-china-s-extraordinary-trade-surplus-means-video",
+      "summary": "עודף הסחר של סין בספטמבר קפץ ל-133 מיליארד דולר - נתון שהפתיע את כולם. הייצוא זינק ב-36%, ומשלוחי שבבי AI כמעט הוכפלו. זה לא תוצאה של ביקוש מקומי חזק - הביקוש הפנימי בסין דווקא חלש. זה ייצוא אגרסיבי של יצרן שמנסה לפצות בחוץ על מה שלא עובד בפנים.\n\nההשפעה העקיפה: לחץ מחדש על יצרני שבבים אחרים, ועוד דלק לוויכוח על מכסי הגנה בארה\"ב ובאירופה.",
+      "importance": 9,
+      "topics": [
+        "סין",
+        "ניסיונות צבירה",
+        "סחר"
+      ],
+      "tag": "גלובלי"
     },
     {
       "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
@@ -252,9 +214,116 @@
         "מיקרוסופט"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "Visa קיבלה אישור רשמי מסין לפעול בשוק כרטיסי האשראי הסיני - אחרי 40 שנה של ניסיונות. זה לא עניין של חברה אחת: זה סימן שסין מוכנה לפתוח את המערכת הפיננסית שלה קצת יותר למערב, לפחות בעיתוי הנכון - השבוע נודע שביידן ושי ייפגשו שוב בחודש הבא. מי שכדאי לשים עליו עין: Mastercard, שעדיין מחכה לאישור משלה, ורשתות התשלום המקומיות כמו UnionPay שישמרו על נתח גדול בכל מקרה.",
+      "importance": 8,
+      "topics": [
+        "רגולציה",
+        "סין",
+        "שירותים פיננסיים"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Bank earnings live updates: JPMorgan, Wells Fargo, Goldman and Citigroup are all out. Here are the results",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "עונת הדוחות נפתחת בגדול - JPMorgan, Goldman Sachs, Wells Fargo ו-Citigroup פרסמו היום את תוצאות הרבעון השלישי.\n\nהבנקים הגדולים הם בדרך כלל הברומטר הראשון של הכלכלה האמריקאית - הם רואים מה קורה עם האשראי, עם הצרכנים, עם החברות. כשהם מדווחים טוב, זה בדרך כלל סימן שהכלכלה מחזיקה מעמד. מי שכדאי לשים לב אליו מעבר לכותרות - ענף הביטוח, שוק האג\"ח, וכל ענף שתלוי בזרימת אשראי.",
+      "importance": 8,
+      "topics": [
+        "בנקאות",
+        "ארה\"ב",
+        "רווחים",
+        "שוק ניירות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "UnitedHealth Group פרסמה תחזית רווח של לפחות 20.50 דולר למניה ל-2026 - שיפור משמעותי לעומת התחזית הקודמת של 19.50-20.00 דולר. זה קורה בדיוק כשכולם דיברו על כך שעלויות הרפואה יאכלו את הרווחים.\n\nמה שמעניין פה הוא ההשפעה הרחבה יותר: כשהחברה הגדולה בביטוח הבריאות האמריקאי מצליחה לנהל עלויות ולשדרג תחזיות, זה סימן טוב לכל הסקטור - מבתי חולים ועד חברות תרופות שמנהלות מו\"מ על מחירים.",
+      "importance": 8,
+      "topics": [
+        "בריאות",
+        "ביטוח",
+        "רווחים",
+        "אינפלציה"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Bernstein downgrades AT&T on SpaceX foray into wireless",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "AT&T קיבלה הורדת דירוג מברנשטיין היום, על רקע הכניסה של SpaceX לשוק הסלולר.\n\nהרעיון של SpaceX פשוט אבל מאיים: לספק תקשורת ישירה מהלוויין לטלפון - בלי תשתית קרקעית, בלי חוזים עם ספקים מקומיים. אם זה יעבוד בקנה מידה רחב, חברות הטלקום המסורתיות יתקשו להצדיק את היתרון שלהן.\n\nמי שכדאי לשים לב: ספקיות תשתית, חברות אנטנות, וכל מי שבנה את העסק שלו על הנחה שהרשת הקרקעית היא הדרך היחידה.",
+      "importance": 8,
+      "topics": [
+        "תקשורת",
+        "חלל",
+        "תחרות",
+        "טלקום"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "importance": 8,
+      "topics": [
+        "ממשקים מוחיים",
+        "ביוטכנולוגיה",
+        "מקס הודק"
+      ],
+      "published": "Tue, 13 Oct 2026 23:13:31 +0000"
+    },
+    {
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+      "importance": 8,
+      "topics": [
+        "OpenAI",
+        "אבטחה",
+        "ריגול"
+      ],
+      "published": "Tue, 13 Oct 2026 20:59:11 +0000"
+    },
+    {
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "רגולציה",
+        "OpenAI"
+      ],
+      "published": "Tue, 13 Oct 2026 19:35:29 +0000"
+    },
+    {
+      "title": "גוגל משיקה את Gemini 4 Argon שזמין עכשיו לכולם",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/google-releases-gemini-4-argon/",
+      "summary": "במשך חודשים ארוכים שמרגישים כמו נצח במירוץ ה-AI, גוגל הצליחה לפגר מאחורי Anthropic, OpenAI ואפילו Meta, כאשר היא לא שיחררה את Gemini 3.5 Pro מסיבות לא ברורות, והחליטה שהיא מושכת את הזמן עד להשקת Gemini 4. ובכן, עכשיו זה סוף סוף כאן. האם גוגל תחזור למירוץ? הכירו את ארגון Gemini 4, או בשמו המלא, Gemini […] The post גוגל משיקה את Gemini 4 Argon שזמין עכשיו לכולם appeared first on גיקטיים .",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "גוגל",
+        "Gemini"
+      ],
+      "published": "Tue, 13 Oct 2026 16:00:39 +0000"
+    },
     {
       "title": "מטא משיקה את מודל ה-AI המתקדם ביותר שלה וטוענת שהוא טוב יותר מקלוד ו-GPT Astra",
       "source": "גיקטיים",
@@ -263,99 +332,49 @@
       "importance": 8,
       "topics": [
         "AI",
-        "מטא",
-        "מודלים שפה"
+        "Meta",
+        "מודלים"
       ],
       "published": "Tue, 13 Oct 2026 06:49:05 +0000"
     },
     {
-      "title": "בלי טובות מאנבידיה? מיקרוסופט חושפת שבב AI חדש",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/microsoft-maia-300-ai-chip-nvidia/",
-      "summary": "מיקרוסופט עושה צעד מעניין שיכול לסמן את התחילה של העצמאות והניתוק של התלות שלה באנבידיה. החברה חשפה היום (ב') את Maia 300, הדור השלישי של שבב ה-AI בפיתוח העצמי שלה, שמיועד להפוך למנוע המרכזי של כל המוצרים שלה בענן. במיקרוסופט בונים על הצ'יפ החדש, שיאפשר לה להתמודד טוב יותר עם מודלים מתקדמים הדורשים הסקה לוגית […] The post בלי טובות מאנבידיה? מיקרוסופט חושפת שבב AI חדש appeared first on גיקטיים .",
-      "importance": 8,
-      "topics": [
-        "שבבים",
-        "AI",
-        "מיקרוסופט"
-      ],
-      "published": "Mon, 12 Oct 2026 13:00:03 +0000"
-    },
-    {
-      "title": "Meta releases its first frontier model, Muse Wonder",
+      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
       "importance": 7,
       "topics": [
-        "AI",
-        "Meta"
+        "אבטחה",
+        "סייבר",
+        "צפון קוריאה"
       ],
-      "published": "Mon, 12 Oct 2026 17:56:56 +0000"
+      "published": "Wed, 14 Oct 2026 01:30:42 +0000"
     },
     {
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]",
+      "importance": 7,
+      "topics": [
+        "OpenAI",
+        "אבטחה",
+        "מודיעין"
+      ],
+      "published": "2026-10-13T16:45:25-04:00"
+    },
+    {
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
       "importance": 7,
       "topics": [
         "AI",
-        "פיתוח משחקים",
-        "Epic Games"
+        "chatbot",
+        "רכישה"
       ],
-      "published": "Mon, 12 Oct 2026 20:59:50 +0000"
-    },
-    {
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "Claude"
-      ],
-      "published": "Mon, 12 Oct 2026 18:21:36 +0000"
-    },
-    {
-      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-      "importance": 7,
-      "topics": [
-        "אוטומציה",
-        "רובוטיקה",
-        "Amazon"
-      ],
-      "published": "Mon, 12 Oct 2026 12:43:10 +0000"
-    },
-    {
-      "title": "סיילספורס רוכשת את הסטארטאפ הישראלי Loops",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/salesforce-to-acquire-loops/",
-      "summary": "חברת Salesforce (סיילספורס) הודיעה לפני זמן קצר (ב') על רכישת חברת Loops הישראלית. זוהי הרכישה הרביעית של סיילספורס בארץ בשנתיים האחרונות, ועם השלמתה זו תהיה הרכישה העשירית של החברה בישראל. החברות לא פרסמו את סכום הרכישה אך על פי הערכות הוא נע בין 20 ל-40 מיליון דולר. מהשקעות מבכירים במטא וגוגל לרכישה על ידי סיילספורס […] The post סיילספורס רוכשת את הסטארטאפ הישראלי Loops appeared first on גיקטיים",
-      "importance": 7,
-      "topics": [
-        "M&A",
-        "סיילספורס",
-        "סטארטאפ"
-      ],
-      "published": "Mon, 12 Oct 2026 13:04:46 +0000"
-    },
-    {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "importance": 6,
-      "topics": [
-        "AI",
-        "רגולציה"
-      ],
-      "published": "Mon, 12 Oct 2026 15:31:19 +0000"
+      "published": "Tue, 13 Oct 2026 18:23:33 +0000"
     }
   ]
 }
