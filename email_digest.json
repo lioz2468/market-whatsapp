@@ -1,32 +1,45 @@
 {
-  "generated_at": "2026-10-15T05:45:14.697859+00:00",
+  "generated_at": "2026-10-15T08:10:06.821309+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
-      "summary": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
+      "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
+      "summary": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
       "importance": 8,
       "topics": [
-        "מלחות",
-        "מפרץ פרסי",
-        "בטחון בעולם"
+        "אוקראינה",
+        "רוסיה",
+        "ישראל"
       ],
-      "published": "Wed, 14 Oct 2026 15:34:19 GMT"
+      "published": "Wed, 14 Oct 2026 07:38:51 -0400"
     },
     {
-      "title": "\"השפעה ישירה על החלטת חמאס\": המסמך שכתבו אנשי נתניהו - ומאשים את הממשלה באסון",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/b1trgdajgg",
-      "summary": "חשיפה: כך נראה המסמך שבו רה\"מ הבהיר לראש השב\"כ ביולי 2023 שהוא דוחה את הצעתו לאסטרטגיה אגרסיבית נגד חמאס. ובניגוד לקמפיין שמאשים את ראשי מערכת הביטחון, מסמך דרמטי שכתבו אנשיו אחרי הטבח חושף את אחריות הדרג המדיני וההנחיות לצה\"ל לפני 7/10: \"שימור חמאס ככתובת שלטונית אפקטיבית, מרוסנת ומרסנת\", לצד ויתור על הכרעה צבאית",
+      "title": "Israel has detained more than 2,000 Palestinian children since 2023: report",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss",
+      "summary": "At least 350 Palestinian children currently face 'harsh conditions' in Israeli prisons.",
       "importance": 8,
       "topics": [
         "ישראל",
-        "ביטחון",
-        "מזימויות אישום"
+        "פלסטין",
+        "זכויות אדם"
       ],
-      "published": "Thu, 15 Oct 2026 01:09:13 +0300"
+      "published": "Thu, 15 Oct 2026 04:43:15 +0000"
+    },
+    {
+      "title": "קרובי נפגעי 7/10 בטקס בארה\"ב: \"לחקור בקונגרס - ולהעמיד את האחראים לדין\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/b1tumxcszx",
+      "summary": "במחלקת המדינה בוושינגטון אירח רוביו קרובים של אזרחים אמריקנים שנרצחו, נחטפו או נפגעו בטבח. \"אחרי יותר מ-1,000 ימים שאנו מחכים לממשלת ישראל לקבל תשובות, אולי נקבל אותן מוועדת חקירה אמריקנית\", מסרו המשפחות",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "ארצות הברית",
+        "דיפלומטיה"
+      ],
+      "published": "Thu, 15 Oct 2026 10:40:20 +0300"
     },
     {
       "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
@@ -35,24 +48,11 @@
       "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
       "importance": 7,
       "topics": [
+        "אקלים",
         "ארקטיקה",
-        "שינוי אקלים",
-        "תחרות גיאופוליטיות"
+        "תחרות בין-מעצמות"
       ],
       "published": "Wed, 14 Oct 2026 15:42:03 -0400"
-    },
-    {
-      "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
-      "summary": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ממלכה הקתולית"
-      ],
-      "published": "Wed, 14 Oct 2026 07:38:51 -0400"
     },
     {
       "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
@@ -63,7 +63,7 @@
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "ארצות הברית"
+        "ארה״ב"
       ],
       "published": "Wed, 14 Oct 2026 06:44:30 -0400"
     },
@@ -75,8 +75,8 @@
       "importance": 7,
       "topics": [
         "אוקראינה",
-        "טכנולוגיה ביטחון",
-        "ארצות הברית"
+        "טכנולוגיה",
+        "מלחמה"
       ],
       "published": "Thu, 15 Oct 2026 04:30:08 GMT"
     },
@@ -87,11 +87,24 @@
       "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
       "importance": 7,
       "topics": [
-        "אינפלציה",
-        "ארה\"ב",
-        "כלכלה גלובלית"
+        "ארצות הברית",
+        "כלכלה",
+        "אינפלציה"
       ],
       "published": "Wed, 14 Oct 2026 15:26:14 GMT"
+    },
+    {
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "summary": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
+      "importance": 7,
+      "topics": [
+        "יגינה הורמוז",
+        "ביטחון ימי",
+        "תחבורה"
+      ],
+      "published": "Wed, 14 Oct 2026 15:34:19 GMT"
     },
     {
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
@@ -102,35 +115,22 @@
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "גרמניה"
+        "צרפת"
       ],
       "published": "Wed, 14 Oct 2026 13:41:51 GMT"
     },
     {
-      "title": "Israel has detained more than 2,000 Palestinian children since 2023: report",
+      "title": "From Morocco to South Africa, Israel election watched closely across Africa",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss",
-      "summary": "At least 350 Palestinian children currently face 'harsh conditions' in Israeli prisons.",
+      "url": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss",
+      "summary": "October 27 vote could test whether Israel's ties with African countries withstand the fallout from the war on Gaza.",
       "importance": 7,
       "topics": [
         "ישראל",
-        "פלסטינים",
-        "זכויות אדם"
+        "בחירות",
+        "אפריקה"
       ],
-      "published": "Thu, 15 Oct 2026 04:43:15 +0000"
-    },
-    {
-      "title": "המספרים העצומים שעלולים לרסק את הכלכלה הישראלית",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rybdssiszg",
-      "summary": "רבע טריליון שקל בשנה. זה המחיר שמדינת ישראל תשלם ב-2050 על היעדר שוויון בנטל, פערי תעסוקה וחוסר לימודי ליבה. ככל שלא יחול שינוי מדיניות דרמטי, הזינוק הדמוגרפי יביא להכבדת נטל המיסים, לכיווץ אחוז המשרתים בצה\"ל ואולי בסופו של דבר גם לפשיטת רגל נוסח יוון. התרחישים והמספרים שמאחוריהם",
-      "importance": 7,
-      "topics": [
-        "כלכלה ישראלית",
-        "דמוגרפיה",
-        "מדיניות ציבורית"
-      ],
-      "published": "Thu, 15 Oct 2026 06:41:19 +0300"
+      "published": "Thu, 15 Oct 2026 06:46:52 +0000"
     }
   ],
   "business": [
@@ -201,29 +201,15 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-      "source": "MarketWatch",
+      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "source": "CNBC World",
       "url": "",
-      "summary": "מניות הצ'יפים עוברות את התקופה הגרועה שלהן מזה 16 חודשים. מה שקורה פה זה שוול סטריט פשוט נמאס לו לחכות - חברות ממשיכות לשפוך מיליארדים על תשתיות AI, והתוצאות העסקיות עדיין לא מצדיקות את הסכומים. זה לא קריסה - זה אובדן סבלנות.\n\nמי שמושפע בצורה פחות ברורה: חברות שמוכרות שרתים, קירור ותשתיות מרכזי נתונים - כולן תלויות באותה גל הוצאות שהשוק מתחיל לפקפק בו. יום המשקיעים של Anthropic הולך להיות טסט אמיתי למצב הרוח.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "צ'יפים",
-        "שוק",
-        "FOMO"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "מחירי הנפט עלו היום על רקע החרפת המתח בין החות'ים הנתמכים על ידי איראן לבין סעודיה. השוק מתחיל לתמחר סיכון של שיבוש באספקה - ואזור המפרץ הוא עדיין הלב הפועם של שוק האנרגיה העולמי.\n\nמה שפחות ברור במבט ראשון: עליות נפט כאלה מגיעות ישר לפומפים, ומשם לאינפלציה. הבנקים המרכזיים שמחפשים סיבה להמשיך לעצור הורדות ריבית - פה יש להם אחת.",
-      "importance": 8,
+      "summary": "ספינת מטען שקעה במצר הורמוז - איראן מגבירה את המתקפות על ספינות מסחריות שעוברות במצר בשבועות האחרונים.\n\nזה לא אירוע אחד. זו אסטרטגיה מכוונת לחנוק את יצוא הנפט שהתאושש לאחרונה. המצר הזה הוא צוואר הבקבוק של כ-20% מסחר הנפט העולמי - כל הפרעה שם מרגישים אותה מהר מאוד במחירי הדלק, בביטוחי ספנות ובעלויות משלוח עולמיות. מי שלא מדבר על זה מספיק: חברות הביטוח הימי, שכבר מגדילות פרמיות בשקט.",
+      "importance": 9,
       "topics": [
         "אנרגיה",
         "גיאופוליטיקה",
-        "מחירי סחורות"
+        "לוגיסטיקה"
       ],
       "tag": "גלובלי"
     },
@@ -267,22 +253,22 @@
         "ריסק"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "הכנסות Anthropic קפצו 45% ברבעון האחרון לכמעט 17 מיליארד דולר - והחברה כבר נפגשת עם משקיעים מוסדיים לפני IPO מתוכנן לחודש הבא.\n\nזה מספר שכדאי לשים לב אליו. 45% צמיחה ברבעון אחד זה לא \"AI buzz\" - זה עסק שגדל בקצב שקשה להסביר אפילו לאופטימיסטים. ההשפעה העקיפה: חברות כמו Google ו-Amazon, שהשקיעו בכבדות ב-Anthropic, יראו את ההערכות שלהן עולות ישירות עם ההנפקה. וכל ה-AI sector יקבל עוד נרמול - כשחברת AI גדולה נכנסת לבורסה בהצלחה, זה פותח דלת לאחרות.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "IPO",
+        "היי-טק"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
-    {
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "importance": 9,
-      "topics": [
-        "אבטחה",
-        "OpenAI",
-        "ריגול"
-      ],
-      "published": "Wed, 14 Oct 2026 16:41:49 +0000"
-    },
     {
       "title": "The AI race is back on",
       "source": "The Verge",
@@ -292,7 +278,7 @@
       "topics": [
         "AI",
         "Google",
-        "Anthropic"
+        "OpenAI"
       ],
       "published": "2026-10-14T15:06:03-04:00"
     },
@@ -305,22 +291,22 @@
       "topics": [
         "AI",
         "ביוטכנולוגיה",
-        "ביולוגיה חישובית"
+        "מחקר"
       ],
       "published": "Wed, 14 Oct 2026 17:10:15 +0000"
     },
     {
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
       "importance": 8,
       "topics": [
-        "AI",
+        "OpenAI",
         "אבטחה",
-        "IoT"
+        "מרגלות"
       ],
-      "published": "Wed, 14 Oct 2026 12:55:06 +0000"
+      "published": "Wed, 14 Oct 2026 16:41:49 +0000"
     },
     {
       "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
@@ -336,17 +322,17 @@
       "published": "Wed, 14 Oct 2026 18:15:00 +0000"
     },
     {
-      "title": "כן, OpenAI פתרה מאות בעיות פתוחות במתמטיקה, אבל אף אחד לא מבין את הפתרון",
+      "title": "3 עובדים נפצעו קשה בפיצוץ במפעל אינטל בקריית גת",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/openai-math-proofs-ai-academia-crisis/",
-      "summary": "מאת: פרופ' עלי זלצברגר, ד\"ר אביגיל פרדמן, ד\"ר שירה אחישר, אושרת כץ שחם בתוך לילה אחד העלתה OpenAI לרשת מאות כתבי יד מתמטיים, ובהם הוכחות לבעיות פתוחות. דובר החברה אמר ל-Scientific American שגם המתמטיקאים שלה עדיין אינם מבינים רבות מן התוצאות, והמהלך זה ממחיש היטב בעיות עומק שהאקדמיה נדרשת להתמודד איתן. עבודה של עשרות שנים […] The post כן, OpenAI פתרה מאות בעיות פתוחות במתמטיקה, אבל אף אחד לא מבין ",
+      "url": "https://www.geektime.co.il/intel-kiryat-gat-explosion/",
+      "summary": "עדכון, 15.10.26: לאחר פינוי העובדים מהזירה, נקבע מותם של שניים מהם – גבר כבן 30 וגבר בן 49 – אחרי שסבלו מכוויות חמורות בגופם בעקבות הפיצוץ. העובד השלישי שפונה עדיין מוגדר במצב קשה והוא מורדם ומונשם ביחידה לטיפול נמרץ בבית החולים סורוקה בבאר שבע. פיצוץ חריג נרשם במפעל אינטל בקריית גת לפני זמן קצר (ד'). […] The post 3 עובדים נפצעו קשה בפיצוץ במפעל אינטל בקריית גת appeared first on גיקטיים .",
       "importance": 8,
       "topics": [
-        "OpenAI",
-        "AI",
-        "מחקר"
+        "אינטל",
+        "שבבים",
+        "כשל ייצור"
       ],
-      "published": "Wed, 14 Oct 2026 09:00:01 +0000"
+      "published": "Wed, 14 Oct 2026 11:56:35 +0000"
     },
     {
       "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
@@ -357,21 +343,35 @@
       "topics": [
         "AI",
         "שבבים",
-        "עיצוב אוטומטי"
+        "חדשנות"
       ],
       "published": "Thu, 15 Oct 2026 01:01:32 +0000"
     },
     {
-      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-      "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]",
       "importance": 7,
       "topics": [
-        "IPO",
-        "טלקומוניקציה"
+        "OpenAI",
+        "רגולציה",
+        "AI"
       ],
-      "published": "Wed, 14 Oct 2026 21:48:20 +0000"
+      "published": "2026-10-14T17:11:28-04:00"
+    },
+    {
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "רגולציה",
+        "פרטיות"
+      ],
+      "published": "2026-10-14T14:47:54-04:00"
     }
   ]
 }
