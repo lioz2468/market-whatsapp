@@ -1,246 +1,204 @@
 {
-  "generated_at": "2026-10-14T08:34:41.485976+00:00",
+  "generated_at": "2026-10-15T05:45:14.697859+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
-      "summary": "Ukrainian President Volodymyr Zelenskyy sat down for an interview with NPR at a time of renewed tensions with the White House.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "ארה\"ב",
-        "דיפלומטיה"
-      ],
-      "published": "Tue, 13 Oct 2026 14:51:55 -0400"
-    },
-    {
-      "title": "Trump's diesel deal with Putin angers Europe",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe",
-      "summary": "President Trump's diesel deal with Russia sparks European fury, as Ukraine's President Zelenskyy questions Washington's motives and allies vow to keep pressure on Moscow.",
-      "importance": 8,
-      "topics": [
-        "רוסיה",
-        "אירופה",
-        "אוקראינה"
-      ],
-      "published": "Tue, 13 Oct 2026 04:44:19 -0400"
-    },
-    {
-      "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says \"critical\" infrastructure was hit overnight, while emergency services say at least three were killed.",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "summary": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
       "importance": 8,
+      "topics": [
+        "מלחות",
+        "מפרץ פרסי",
+        "בטחון בעולם"
+      ],
+      "published": "Wed, 14 Oct 2026 15:34:19 GMT"
+    },
+    {
+      "title": "\"השפעה ישירה על החלטת חמאס\": המסמך שכתבו אנשי נתניהו - ומאשים את הממשלה באסון",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/b1trgdajgg",
+      "summary": "חשיפה: כך נראה המסמך שבו רה\"מ הבהיר לראש השב\"כ ביולי 2023 שהוא דוחה את הצעתו לאסטרטגיה אגרסיבית נגד חמאס. ובניגוד לקמפיין שמאשים את ראשי מערכת הביטחון, מסמך דרמטי שכתבו אנשיו אחרי הטבח חושף את אחריות הדרג המדיני וההנחיות לצה\"ל לפני 7/10: \"שימור חמאס ככתובת שלטונית אפקטיבית, מרוסנת ומרסנת\", לצד ויתור על הכרעה צבאית",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "ביטחון",
+        "מזימויות אישום"
+      ],
+      "published": "Thu, 15 Oct 2026 01:09:13 +0300"
+    },
+    {
+      "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+      "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
+      "importance": 7,
+      "topics": [
+        "ארקטיקה",
+        "שינוי אקלים",
+        "תחרות גיאופוליטיות"
+      ],
+      "published": "Wed, 14 Oct 2026 15:42:03 -0400"
+    },
+    {
+      "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
+      "summary": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
+      "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "קונפליקט"
+        "ממלכה הקתולית"
       ],
-      "published": "Wed, 14 Oct 2026 07:21:50 GMT"
+      "published": "Wed, 14 Oct 2026 07:38:51 -0400"
+    },
+    {
+      "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6000164/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role",
+      "summary": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "ארצות הברית"
+      ],
+      "published": "Wed, 14 Oct 2026 06:44:30 -0400"
+    },
+    {
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "טכנולוגיה ביטחון",
+        "ארצות הברית"
+      ],
+      "published": "Thu, 15 Oct 2026 04:30:08 GMT"
+    },
+    {
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "importance": 7,
+      "topics": [
+        "אינפלציה",
+        "ארה\"ב",
+        "כלכלה גלובלית"
+      ],
+      "published": "Wed, 14 Oct 2026 15:26:14 GMT"
     },
     {
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "importance": 8,
+      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "טורף גס"
+        "גרמניה"
       ],
-      "published": "Tue, 13 Oct 2026 23:42:22 GMT"
+      "published": "Wed, 14 Oct 2026 13:41:51 GMT"
     },
     {
-      "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
+      "title": "Israel has detained more than 2,000 Palestinian children since 2023: report",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
-      "summary": "Volodymyr Zelenskyy says Ukraine's partners failed to warn of Russian ballistic missile attack on Kyiv.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ביטחון"
-      ],
-      "published": "Wed, 14 Oct 2026 07:08:32 +0000"
-    },
-    {
-      "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
-      "summary": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
+      "url": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss",
+      "summary": "At least 350 Palestinian children currently face 'harsh conditions' in Israeli prisons.",
       "importance": 7,
       "topics": [
-        "פקיסטן",
-        "משבר פוליטי"
-      ],
-      "published": "Tue, 13 Oct 2026 06:51:33 -0400"
-    },
-    {
-      "title": "How NATO plans to combat potential attacks on the alliance from Russia",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5998721/how-nato-plans-to-combat-potential-attacks-on-the-alliance-from-russia",
-      "summary": "NPR's Steve Inskeep speaks with former U.S. Assistant Secretary for European Affairs Dan Hamilton about NATO's detailed plans to counter any possible Russian attack on the alliance.",
-      "importance": 7,
-      "topics": [
-        "נאטו",
-        "רוסיה",
-        "ביטחון"
-      ],
-      "published": "Tue, 13 Oct 2026 04:44:14 -0400"
-    },
-    {
-      "title": "Turkish police raid opposition TV station, halting live broadcasts",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
-      "importance": 7,
-      "topics": [
-        "תורכיה",
-        "חופש ביטוי",
-        "פוליטיקה"
-      ],
-      "published": "Wed, 14 Oct 2026 08:17:43 GMT"
-    },
-    {
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-      "importance": 7,
-      "topics": [
-        "בריטניה",
-        "רוסיה",
-        "ביטחון"
-      ],
-      "published": "Tue, 13 Oct 2026 15:52:15 GMT"
-    },
-    {
-      "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss",
-      "summary": "Demolished homes, shifting military lines, stalled withdrawals leave Lebanese uncertain if they can return.",
-      "importance": 7,
-      "topics": [
-        "לבנון",
         "ישראל",
-        "גיאופוליטיקה"
+        "פלסטינים",
+        "זכויות אדם"
       ],
-      "published": "Wed, 14 Oct 2026 07:38:09 +0000"
+      "published": "Thu, 15 Oct 2026 04:43:15 +0000"
+    },
+    {
+      "title": "המספרים העצומים שעלולים לרסק את הכלכלה הישראלית",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rybdssiszg",
+      "summary": "רבע טריליון שקל בשנה. זה המחיר שמדינת ישראל תשלם ב-2050 על היעדר שוויון בנטל, פערי תעסוקה וחוסר לימודי ליבה. ככל שלא יחול שינוי מדיניות דרמטי, הזינוק הדמוגרפי יביא להכבדת נטל המיסים, לכיווץ אחוז המשרתים בצה\"ל ואולי בסופו של דבר גם לפשיטת רגל נוסח יוון. התרחישים והמספרים שמאחוריהם",
+      "importance": 7,
+      "topics": [
+        "כלכלה ישראלית",
+        "דמוגרפיה",
+        "מדיניות ציבורית"
+      ],
+      "published": "Thu, 15 Oct 2026 06:41:19 +0300"
     }
   ],
   "business": [
     {
-      "title": "BlackRock takes profits on stocks as it turns to Treasurys after six years",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/13/blackrock-treasurys-bonds-us-equities.html",
-      "summary": "בלאקרוק - מנהל הנכסים הגדול בעולם עם כ-10 טריליון דולר תחת ניהול - ממשים רווחים במניות ועוברים לאג\"ח אמריקאי לראשונה בשש שנים. זה לא מהלך של משקיע קטן שמשנה כיוון - זה סיגנל שמשנה את כיוון השוק כולו.\n\nכשמי שמחזיק בחלקים ניכרים של כל חברה גדולה מחליט להזיז כסף מניות לאג\"ח, שאר השוק מקשיב - ולפעמים עוקב. שווה לשים לב איך שאר המוסדיים הגדולים יגיבו בשבועות הקרובים.",
+      "title": "Fed may now have to hike twice or increase by a half point in December, traders bet",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/10/14/fed-may-now-have-to-hike-twice-or-increase-by-a-half-point-in-december-traders-bet.html",
+      "summary": "הסיכויים להעלאת ריבית ב-28 באוקטובר זינקו מ-22% ל-54% תוך יום אחד - זה שינוי דרמטי בציפיות השוק.\n\nמה שמעניין עוד יותר: השוק מתחיל לתמחר תרחיש של שתי העלאות ברצף, או העלאה של חצי אחוז בדצמבר. הפד לא אמר כלום חדש - השוק פשוט שינה דעה בעצמו.\n\nההשפעות העקיפות: שוק הנדל\"ן, שאנחנו כבר יודעים שרגיש לריבית, יקבל לחץ נוסף. וחברות טק עם חוב גבוה - שווה לשים לב.",
+      "importance": 10,
+      "topics": [
+        "פד",
+        "ריבית",
+        "מדיניות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "UK threatens far more severe sanctions on Israel",
+      "source": "גלובס שוק ההון",
+      "url": "https://www.globes.co.il/en/article-1001557994",
+      "summary": "סנקציות בריטיות חדשות עלולות לפגוע ישירות בבנקים הישראליים. שר החוץ הבריטי אד מיליבנד הודיע על סנקציות אפשריות נגד כל גוף שמספק שירותים להרחבת ההתנחלויות מעבר לקו הירוק - וזה כולל במפורש גם בנקים.\n\nהבנקים הישראליים חשופים לסיכון כפול: גם מהצד המשפטי-רגולטורי וגם מהצד של קשרי הכתבות הבינלאומיים שלהם. בנק שמוכנס לרשימות הסנקציות הבריטיות יתקשה לפעול מול מוסדות פיננסיים בארה\"ב ואירופה - הפגיעה יכולה להיות גדולה בהרבה ממה שנשמע במבט ראשון.",
       "importance": 9,
       "topics": [
-        "מוסדות",
-        "אג\"ח",
-        "הון",
-        "תשואות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "ירידות חדות במניות השבבים משתלטות על השווקים הגלובליים - Micron, SoftBank ו-ASML ספגו מכות קשות אחרי שהגל התחיל בוול סטריט ומשם עבר לאסיה ולאירופה.\n\nמה שמעניין פה הוא שזה לא נשאר בארה\"ב. כשהסמיקונדקטורים נופלים ביחד ובאותו זמן בכל הגוש, זה בדרך כלל מספר משהו על הביקוש הגלובלי לשבבים - לא רק על מניה אחת. וזה נוגע לא רק ליצרניות השבבים: ספקי ציוד, חברות ענן, ויצרניות מכשירים - כולן מרגישות את זה.",
-      "importance": 9,
-      "topics": [
-        "סמיקונדקטורים",
-        "טכנולוגיה",
-        "שוק גלובלי",
-        "מלאי"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "What China's 'Extraordinary' Trade Surplus Means",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-14/what-china-s-extraordinary-trade-surplus-means-video",
-      "summary": "עודף הסחר של סין בספטמבר קפץ ל-133 מיליארד דולר - נתון שהפתיע את כולם. הייצוא זינק ב-36%, ומשלוחי שבבי AI כמעט הוכפלו. זה לא תוצאה של ביקוש מקומי חזק - הביקוש הפנימי בסין דווקא חלש. זה ייצוא אגרסיבי של יצרן שמנסה לפצות בחוץ על מה שלא עובד בפנים.\n\nההשפעה העקיפה: לחץ מחדש על יצרני שבבים אחרים, ועוד דלק לוויכוח על מכסי הגנה בארה\"ב ובאירופה.",
-      "importance": 9,
-      "topics": [
-        "סין",
-        "ניסיונות צבירה",
-        "סחר"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Microsoft hits a big milestone that solidifies its revival",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "מיקרוסופט חזרה לשווי שוק של 4 טריליון דולר - ושוב נמצאת בין שתיים-שלוש החברות היקרות בעולם.\n\nמה שמעניין פה הוא לא רק המספר עצמו. זה קורה בדיוק כשהשוק מתחיל לתמחר מחדש את ההוצאות הענקיות על AI - ומי שמשקיע בתשתיות, כמו מיקרוסופט, נהנה מהאמון הזה יותר מכולם. ההון חוזר לטק, ומיקרוסופט מקבלת את הנתח הגדול.\n\nשווה לשים לב: ספקיות תשתית ענן קטנות יותר עשויות להרגיש את הלחץ - כשמיקרוסופט עולה, ההון מתרכז למעלה.",
-      "importance": 8,
-      "topics": [
-        "טכנולוגיה",
-        "שווקי הון",
-        "מיקרוסופט"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "Visa קיבלה אישור רשמי מסין לפעול בשוק כרטיסי האשראי הסיני - אחרי 40 שנה של ניסיונות. זה לא עניין של חברה אחת: זה סימן שסין מוכנה לפתוח את המערכת הפיננסית שלה קצת יותר למערב, לפחות בעיתוי הנכון - השבוע נודע שביידן ושי ייפגשו שוב בחודש הבא. מי שכדאי לשים עליו עין: Mastercard, שעדיין מחכה לאישור משלה, ורשתות התשלום המקומיות כמו UnionPay שישמרו על נתח גדול בכל מקרה.",
-      "importance": 8,
-      "topics": [
-        "רגולציה",
-        "סין",
-        "שירותים פיננסיים"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Bank earnings live updates: JPMorgan, Wells Fargo, Goldman and Citigroup are all out. Here are the results",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "עונת הדוחות נפתחת בגדול - JPMorgan, Goldman Sachs, Wells Fargo ו-Citigroup פרסמו היום את תוצאות הרבעון השלישי.\n\nהבנקים הגדולים הם בדרך כלל הברומטר הראשון של הכלכלה האמריקאית - הם רואים מה קורה עם האשראי, עם הצרכנים, עם החברות. כשהם מדווחים טוב, זה בדרך כלל סימן שהכלכלה מחזיקה מעמד. מי שכדאי לשים לב אליו מעבר לכותרות - ענף הביטוח, שוק האג\"ח, וכל ענף שתלוי בזרימת אשראי.",
-      "importance": 8,
-      "topics": [
+        "סנקציות",
         "בנקאות",
-        "ארה\"ב",
-        "רווחים",
-        "שוק ניירות"
+        "סיכון רגולטורי"
       ],
-      "tag": "ארה\"ב"
+      "tag": "ישראל"
     },
     {
-      "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
-      "source": "CNBC Top News",
+      "title": "$ASML Q3’26 EARNINGS HIGHLIGHTS 🔹 Net Sales: €11,662M (Est. €11.56B) 🟢 🔹 EPS: €12.95 (Est. €10.60) 🟢 🔹 Gross Margin: 57.5% (Est. 54.8%) 🟢 🔹 Net Income: €5.0B (Est. €4.06B) 🟢 FY26 Guide: 🔹 Net Sales: €44B-€45B (Est. €43.73B) 🟢 🔹 Gross Margin: ~56% (Est. https://t.co/kcG3HBjl1r",
+      "source": "Twitter @wallstengine",
       "url": "",
-      "summary": "UnitedHealth Group פרסמה תחזית רווח של לפחות 20.50 דולר למניה ל-2026 - שיפור משמעותי לעומת התחזית הקודמת של 19.50-20.00 דולר. זה קורה בדיוק כשכולם דיברו על כך שעלויות הרפואה יאכלו את הרווחים.\n\nמה שמעניין פה הוא ההשפעה הרחבה יותר: כשהחברה הגדולה בביטוח הבריאות האמריקאי מצליחה לנהל עלויות ולשדרג תחזיות, זה סימן טוב לכל הסקטור - מבתי חולים ועד חברות תרופות שמנהלות מו\"מ על מחירים.",
-      "importance": 8,
+      "summary": "ASML פרסמה תוצאות רבעון שלישי שהפתיעו לטובה בכל הקטגוריות. הרווח למניה עמד על €12.95 לעומת תחזית של €10.60 - פער של כמעט 22%. שולי הרווח הגולמי הגיעו ל-57.5%, גבוה משמעותית מהציפיות.\n\nASML היא החברה היחידה בעולם שמייצרת מכונות הליתוגרפיה המתקדמות ביותר - בלעדיהן אי אפשר לייצר שבבים מתקדמים. כשהיא מדווחת על ביקוש חזק, זה בעצם מדד לחום ההשקעות בתשתיות AI בעולם. TSMC, Samsung, Intel - כולם לקוחות שלה. התוצאות האלה מסמנות שהגל עדיין רחוק מסיום.",
+      "importance": 9,
       "topics": [
-        "בריאות",
-        "ביטוח",
+        "ASML",
         "רווחים",
-        "אינפלציה"
+        "AI",
+        "חצי-מוליכים"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
-      "title": "Bernstein downgrades AT&T on SpaceX foray into wireless",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "AT&T קיבלה הורדת דירוג מברנשטיין היום, על רקע הכניסה של SpaceX לשוק הסלולר.\n\nהרעיון של SpaceX פשוט אבל מאיים: לספק תקשורת ישירה מהלוויין לטלפון - בלי תשתית קרקעית, בלי חוזים עם ספקים מקומיים. אם זה יעבוד בקנה מידה רחב, חברות הטלקום המסורתיות יתקשו להצדיק את היתרון שלהן.\n\nמי שכדאי לשים לב: ספקיות תשתית, חברות אנטנות, וכל מי שבנה את העסק שלו על הנחה שהרשת הקרקעית היא הדרך היחידה.",
-      "importance": 8,
+      "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "summary": "מדד המחירים לצרכן בארה\"ב עלה ב-3.7% בספטמבר - מעל הציפיות של 3.6%. הדלק הוא הגורם המרכזי, ומחיריו ממשיכים לדחוף את המדד למעלה גם כשהרעש בסחורות האחרות שכך.\n\nהנתון הזה מסבך את החיים של הפד - כל עוד האינפלציה לא מתקררת, קשה לדבר על הורדות ריבית. זה מורגש גם בשוק האג\"ח, בדולר, ובכל מי שלווה כסף בריבית משתנה.",
+      "importance": 9,
       "topics": [
-        "תקשורת",
-        "חלל",
-        "תחרות",
-        "טלקום"
+        "אינפלציה",
+        "מחירים",
+        "צרכנות"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
+    },
+    {
+      "title": "AI Jitters and Rate-Hike Fears Combine for Worst Day for Stocks Since July",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f?mod=rss_markets_main",
+      "summary": "יום המסחר הגרוע ביותר מאז יולי, ושני גורמים עבדו ביחד נגד השוק.\n\nקודם הגיע דוח אינפלציה חם מהצפוי - וזה הספיק כדי שהשוק יחזור לתמחר העלאת ריבית בספטמבר. אחר כך התחילו ספקות לגבי עסקת ה-AI - אם הרווחים בפועל מצדיקים את הערכות השווי הנוכחיות.\n\nמה שמעניין פה: שני הדברים האלה מכים בדיוק באותם מקומות. חברות הטק הגדולות נפגעות מהריבית כי הן מתומחרות על צמיחה עתידית, ובו זמנית הן גם לב עסקת ה-AI. כשהפחד מגיע משני כיוונים - זה לא ירידה פשוטה.",
+      "importance": 9,
+      "topics": [
+        "אינפלציה",
+        "פד",
+        "בורסה"
+      ],
+      "tag": "גלובלי"
     },
     {
       "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
@@ -268,112 +226,152 @@
         "מחירי סחורות"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "קרן המטבע הבינלאומית מזהירה: צמיחה כלכלית לבדה לא תספיק כדי לצמצם את הגרעון האמריקאי ואת חוב של 40 טריליון דולר. המנכ\"לית קריסטלינה גאורגייבה אמרה ישירות שתכנית האוצר של ביסנט - שמבוססת על כך שצמיחה תפתור את הבעיה - פשוט לא עובדת בקצב המספיק.\n\nזה חשוב מעבר לשיחת הגרעון הרגילה: כשה-IMF מדבר, שוקי האג\"ח מאזינים. לחץ כזה עשוי לדחוף לקיצוצים ממשיים - ואלה ישפיעו על הוצאות ממשלתיות שמזינות ענפים שלמים, מתשתיות ועד ביטחון.",
+      "importance": 8,
+      "topics": [
+        "גרעון",
+        "מדיניות",
+        "סחר",
+        "IMF"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "15.5 טריליון דולר - זה הסכום שBlackRock מנהל היום, אחרי צמיחה של 15% בנכסים. כדי להבין את הסקאלה: זה שווה בערך לחצי מהתמ\"ג השנתי של ארה\"ב.\n\nכשגוף אחד מחזיק בפוזיציות כאלה, ההחלטות שלו מזיזות שווקים - לא רק מניות, גם אג\"ח, נדל\"ן ותשתיות. זה גם אומר שכל שינוי בתיאבון הסיכון של BlackRock מורגש אצל עשרות מיליוני חוסכים בעולם שהכסף שלהם מנוהל שם, גם אם הם לא יודעים את זה.",
+      "importance": 8,
+      "topics": [
+        "קרנות",
+        "השקעות",
+        "ריכוז שוק"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "How Iran’s $2 trillion threat puts your AI stocks at risk",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "איראן פרסמה רשימת יעדים - ובראשה תשתיות טכנולוגיה אמריקאיות. לפי MarketWatch, מדובר באיום על נכסים ששוויים מוערך בכ-2 טריליון דולר, כולל מתקני ייצור ומרכזי נתונים שמפעילים את כל עולם ה-AI.\n\nהפד מודה שהוא לא מצליח לבלום את גל ההוצאות של חברות הטק הגדולות - אבל אירוע גיאופוליטי אחד יכול לעשות את זה בשבילו. השוק עדיין לא מתמחר את הסיכון הזה ברצינות.\n\nמי שיושפע מעבר למניות הטק הישירות: חברות ביטוח, ספקיות ענן קטנות, וכל עסק שתלוי בתשתיות אמריקאיות.",
+      "importance": 8,
+      "topics": [
+        "גיאופוליטיקה",
+        "AI",
+        "סחר",
+        "ריסק"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "גוגל משיקה את Gemini 4 Argon שזמין עכשיו לכולם",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/google-releases-gemini-4-argon/",
-      "summary": "במשך חודשים ארוכים שמרגישים כמו נצח במירוץ ה-AI, גוגל הצליחה לפגר מאחורי Anthropic, OpenAI ואפילו Meta, כאשר היא לא שיחררה את Gemini 3.5 Pro מסיבות לא ברורות, והחליטה שהיא מושכת את הזמן עד להשקת Gemini 4. ובכן, עכשיו זה סוף סוף כאן. האם גוגל תחזור למירוץ? הכירו את ארגון Gemini 4, או בשמו המלא, Gemini […] The post גוגל משיקה את Gemini 4 Argon שזמין עכשיו לכולם appeared first on גיקטיים .",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
       "importance": 9,
+      "topics": [
+        "אבטחה",
+        "OpenAI",
+        "ריגול"
+      ],
+      "published": "Wed, 14 Oct 2026 16:41:49 +0000"
+    },
+    {
+      "title": "The AI race is back on",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest […]",
+      "importance": 8,
       "topics": [
         "AI",
         "Google",
-        "Gemini"
+        "Anthropic"
       ],
-      "published": "Tue, 13 Oct 2026 16:00:39 +0000"
+      "published": "2026-10-14T15:06:03-04:00"
     },
     {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "importance": 8,
-      "topics": [
-        "ממשק מוח-מחשב",
-        "טכנולוגיה ביו",
-        "צעדה מדעית"
-      ],
-      "published": "Tue, 13 Oct 2026 23:13:31 +0000"
-    },
-    {
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
-      "importance": 8,
-      "topics": [
-        "OpenAI",
-        "אבטחה",
-        "התדלקות"
-      ],
-      "published": "Tue, 13 Oct 2026 20:59:11 +0000"
-    },
-    {
-      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
       "importance": 8,
       "topics": [
         "AI",
-        "רגולציה",
-        "OpenAI"
+        "ביוטכנולוגיה",
+        "ביולוגיה חישובית"
       ],
-      "published": "Tue, 13 Oct 2026 19:35:29 +0000"
+      "published": "Wed, 14 Oct 2026 17:10:15 +0000"
     },
     {
-      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-      "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-      "importance": 7,
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "importance": 8,
       "topics": [
-        "אבטחה סייבר",
-        "האקינג",
-        "תקיפות משפרות"
-      ],
-      "published": "Wed, 14 Oct 2026 01:30:42 +0000"
-    },
-    {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "importance": 7,
-      "topics": [
-        "OpenAI",
-        "Apple",
-        "משפט-טכנולוגיה"
-      ],
-      "published": "Tue, 13 Oct 2026 20:36:44 +0000"
-    },
-    {
-      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-      "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
-      "importance": 7,
-      "topics": [
-        "כור היתוך",
-        "אנרגיה ניתוק",
-        "חדשנות"
-      ],
-      "published": "Tue, 13 Oct 2026 20:13:53 +0000"
-    },
-    {
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]",
-      "importance": 7,
-      "topics": [
+        "AI",
         "אבטחה",
-        "OpenAI",
-        "תקרית"
+        "IoT"
       ],
-      "published": "2026-10-13T16:45:25-04:00"
+      "published": "Wed, 14 Oct 2026 12:55:06 +0000"
+    },
+    {
+      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+      "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "מחקר",
+        "מדע"
+      ],
+      "published": "Wed, 14 Oct 2026 18:15:00 +0000"
+    },
+    {
+      "title": "כן, OpenAI פתרה מאות בעיות פתוחות במתמטיקה, אבל אף אחד לא מבין את הפתרון",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/openai-math-proofs-ai-academia-crisis/",
+      "summary": "מאת: פרופ' עלי זלצברגר, ד\"ר אביגיל פרדמן, ד\"ר שירה אחישר, אושרת כץ שחם בתוך לילה אחד העלתה OpenAI לרשת מאות כתבי יד מתמטיים, ובהם הוכחות לבעיות פתוחות. דובר החברה אמר ל-Scientific American שגם המתמטיקאים שלה עדיין אינם מבינים רבות מן התוצאות, והמהלך זה ממחיש היטב בעיות עומק שהאקדמיה נדרשת להתמודד איתן. עבודה של עשרות שנים […] The post כן, OpenAI פתרה מאות בעיות פתוחות במתמטיקה, אבל אף אחד לא מבין ",
+      "importance": 8,
+      "topics": [
+        "OpenAI",
+        "AI",
+        "מחקר"
+      ],
+      "published": "Wed, 14 Oct 2026 09:00:01 +0000"
+    },
+    {
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "שבבים",
+        "עיצוב אוטומטי"
+      ],
+      "published": "Thu, 15 Oct 2026 01:01:32 +0000"
+    },
+    {
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+      "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+      "importance": 7,
+      "topics": [
+        "IPO",
+        "טלקומוניקציה"
+      ],
+      "published": "Wed, 14 Oct 2026 21:48:20 +0000"
     }
   ]
 }
