@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T05:45:12.001230+00:00",
+  "generated_at": "2026-10-16T08:02:51.431525+00:00",
   "lookback_hours": 24,
   "world": [
     {
@@ -35,23 +35,11 @@
       "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
       "importance": 8,
       "topics": [
+        "אסון טבע",
         "פקיסטן",
-        "אסון"
+        "הרוגים"
       ],
       "published": "Thu, 15 Oct 2026 15:26:16 GMT"
-    },
-    {
-      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-      "summary": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "עזה",
-        "משבר הומניטרי"
-      ],
-      "published": "Thu, 15 Oct 2026 21:57:58 +0000"
     },
     {
       "title": "Ukraine says its Starshield access is back",
@@ -61,8 +49,8 @@
       "importance": 7,
       "topics": [
         "אוקראינה",
-        "SpaceX",
-        "טכנולוגיה"
+        "ספייס-X",
+        "טכנולוגיה צבאית"
       ],
       "published": "Thu, 15 Oct 2026 04:46:09 -0400"
     },
@@ -75,7 +63,7 @@
       "topics": [
         "פקיסטן",
         "אסון",
-        "בטיחות"
+        "בטיחות בנייה"
       ],
       "published": "Thu, 15 Oct 2026 04:22:07 -0400"
     },
@@ -86,9 +74,9 @@
       "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
       "importance": 7,
       "topics": [
-        "ים אדום",
-        "מיצר הורמוז",
-        "ביטחון"
+        "תעבורה ימית",
+        "ג'יאופוליטיקה",
+        "אנרגיה"
       ],
       "published": "Fri, 16 Oct 2026 05:00:17 GMT"
     },
@@ -100,8 +88,8 @@
       "importance": 7,
       "topics": [
         "תימן",
-        "חוויים",
-        "יציבות אזורית"
+        "חוות",
+        "קונפליקט"
       ],
       "published": "Thu, 15 Oct 2026 23:38:46 GMT"
     },
@@ -112,40 +100,40 @@
       "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
       "importance": 7,
       "topics": [
-        "רומניה",
-        "ים השחור",
-        "ביטחון"
+        "ים שחור",
+        "התקפה",
+        "בטחון ימי"
       ],
       "published": "Thu, 15 Oct 2026 14:51:30 GMT"
     },
     {
-      "title": "Peshawar mourns children killed in school roof collapse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
-      "summary": "Thousands gather for funeral prayers in Pakistan’s Peshawar after a school rooftop collapse killed at least 34 children.",
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
       "importance": 7,
       "topics": [
-        "פקיסטן",
-        "אסון",
-        "קורבנות"
+        "אסון טבע",
+        "אקלים",
+        "טורקיה"
       ],
-      "published": "Fri, 16 Oct 2026 02:01:43 +0000"
+      "published": "Thu, 15 Oct 2026 10:05:29 GMT"
+    },
+    {
+      "title": "How Israel’s elections will affect Palestinians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss",
+      "summary": "How Israel votes this month will shape the future of over 5.5 million Palestinians who have no say in the election.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "פלסטינים"
+      ],
+      "published": "Fri, 16 Oct 2026 07:04:54 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-      "source": "CNBC World",
-      "url": "",
-      "summary": "ספינת מטען שקעה במצר הורמוז - איראן מגבירה את המתקפות על ספינות מסחריות שעוברות במצר בשבועות האחרונים.\n\nזה לא אירוע אחד. זו אסטרטגיה מכוונת לחנוק את יצוא הנפט שהתאושש לאחרונה. המצר הזה הוא צוואר הבקבוק של כ-20% מסחר הנפט העולמי - כל הפרעה שם מרגישים אותה מהר מאוד במחירי הדלק, בביטוחי ספנות ובעלויות משלוח עולמיות. מי שלא מדבר על זה מספיק: חברות הביטוח הימי, שכבר מגדילות פרמיות בשקט.",
-      "importance": 9,
-      "topics": [
-        "אנרגיה",
-        "גיאופוליטיקה",
-        "לוגיסטיקה"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
       "source": "CNBC Top News",
@@ -201,19 +189,6 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "הכנסות Anthropic קפצו 45% ברבעון האחרון לכמעט 17 מיליארד דולר - והחברה כבר נפגשת עם משקיעים מוסדיים לפני IPO מתוכנן לחודש הבא.\n\nזה מספר שכדאי לשים לב אליו. 45% צמיחה ברבעון אחד זה לא \"AI buzz\" - זה עסק שגדל בקצב שקשה להסביר אפילו לאופטימיסטים. ההשפעה העקיפה: חברות כמו Google ו-Amazon, שהשקיעו בכבדות ב-Anthropic, יראו את ההערכות שלהן עולות ישירות עם ההנפקה. וכל ה-AI sector יקבל עוד נרמול - כשחברת AI גדולה נכנסת לבורסה בהצלחה, זה פותח דלת לאחרות.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "IPO",
-        "היי-טק"
-      ],
-      "tag": "גלובלי"
-    },
-    {
       "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
       "source": "WSJ Markets",
       "url": "",
@@ -256,6 +231,19 @@
   ],
   "tech": [
     {
+      "title": "עסקת ענק: Varonis הישראלית נמכרת ב-6.3 מיליארד דולר",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/proofpoint-acquires-varonis-cybersecurity-deal/",
+      "summary": "עסקת ענק בתעשיית הסייבר המקומית. חברת אבטחת המידע האמריקאית Proofpoint הודיעה על רכישת חברת הסייבר הישראלית Varonis (ורוניס). שווי העסקה עומד על כ-6.3 מיליארד דולר במזומן, והיא צפויה להיסגר במחצית הראשונה של שנת 2027. 1,000 עובדים בישראל Varonis מפתחת מוצר ענן לאבטחת נתונים בסביבות ארגוניות. הטכנולוגיה של החברה ממפה את המידע של הארגון, מסווגת אותו […] The post עסקת ענק: Varonis הישראלית נמכרת ב-6.",
+      "importance": 9,
+      "topics": [
+        "סייבר",
+        "רכישה",
+        "M&A"
+      ],
+      "published": "Fri, 16 Oct 2026 04:10:57 +0000"
+    },
+    {
       "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
@@ -264,22 +252,22 @@
       "topics": [
         "AI",
         "רגולציה",
-        "אנטי-טראסט"
+        "Anthropic"
       ],
       "published": "Thu, 15 Oct 2026 15:43:24 +0000"
     },
     {
-      "title": "עסקת ענק: Varonis הישראלית נמכרת ב-6.3 מיליארד דולר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/proofpoint-acquires-varonis-cybersecurity-deal/",
-      "summary": "עסקת ענק בתעשיית הסייבר המקומית. חברת אבטחת המידע האמריקאית Proofpoint הודיעה על רכישת חברת הסייבר הישראלית Varonis (ורוניס). שווי העסקה עומד על כ-6.3 מיליארד דולר במזומן, והיא צפויה להיסגר במחצית הראשונה של שנת 2027. 1,000 עובדים בישראל Varonis מפתחת מוצר ענן לאבטחת נתונים בסביבות ארגוניות. הטכנולוגיה של החברה ממפה את המידע של הארגון, מסווגת אותו […] The post עסקת ענק: Varonis הישראלית נמכרת ב-6.",
+      "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+      "summary": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
       "importance": 8,
       "topics": [
+        "אבטחה",
         "סייבר",
-        "M&A",
-        "Varonis"
+        "תוכנת מעקב"
       ],
-      "published": "Fri, 16 Oct 2026 04:10:57 +0000"
+      "published": "Thu, 15 Oct 2026 10:00:00 +0000"
     },
     {
       "title": "Meta launches an open-weight AI model that runs on Macs",
@@ -295,19 +283,6 @@
       "published": "Thu, 15 Oct 2026 20:04:53 +0000"
     },
     {
-      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
-      "importance": 7,
-      "topics": [
-        "רכבים אוטונומיים",
-        "Nvidia",
-        "טכנולוגיה"
-      ],
-      "published": "Thu, 15 Oct 2026 17:34:40 +0000"
-    },
-    {
       "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
@@ -315,8 +290,8 @@
       "importance": 7,
       "topics": [
         "שבבים",
-        "רגולציה",
-        "סחר בינלאומי"
+        "סחר בין-לאומי",
+        "SK Hynix"
       ],
       "published": "Thu, 15 Oct 2026 16:45:37 +0000"
     },
@@ -327,9 +302,9 @@
       "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
       "importance": 7,
       "topics": [
-        "אבטחה",
-        "סייבר",
-        "זדיקים"
+        "אבטחה סייבר",
+        "תוכנת זדונית",
+        "אחסון נתונים"
       ],
       "published": "Thu, 15 Oct 2026 20:32:41 +0000"
     },
@@ -341,23 +316,23 @@
       "importance": 7,
       "topics": [
         "טסלה",
-        "כלי רכב חשמליים",
-        "דוכני חדשה"
+        "כלי רכב חשמלי",
+        "טכנולוגיה"
       ],
       "published": "Fri, 16 Oct 2026 01:22:51 +0000"
     },
     {
-      "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
-      "summary": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
-      "importance": 7,
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "importance": 6,
       "topics": [
-        "אבטחה",
-        "מודיעין כלכלי",
-        "malware"
+        "AI",
+        "Anthropic",
+        "בטיחות"
       ],
-      "published": "Thu, 15 Oct 2026 10:00:00 +0000"
+      "published": "Thu, 15 Oct 2026 19:14:26 +0000"
     }
   ]
 }
