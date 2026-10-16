@@ -1,205 +1,138 @@
 {
-  "generated_at": "2026-10-15T08:10:06.821309+00:00",
+  "generated_at": "2026-10-16T05:45:12.001230+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
-      "summary": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
+      "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "ישראל"
-      ],
-      "published": "Wed, 14 Oct 2026 07:38:51 -0400"
-    },
-    {
-      "title": "Israel has detained more than 2,000 Palestinian children since 2023: report",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss",
-      "summary": "At least 350 Palestinian children currently face 'harsh conditions' in Israeli prisons.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "פלסטין",
-        "זכויות אדם"
-      ],
-      "published": "Thu, 15 Oct 2026 04:43:15 +0000"
-    },
-    {
-      "title": "קרובי נפגעי 7/10 בטקס בארה\"ב: \"לחקור בקונגרס - ולהעמיד את האחראים לדין\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/b1tumxcszx",
-      "summary": "במחלקת המדינה בוושינגטון אירח רוביו קרובים של אזרחים אמריקנים שנרצחו, נחטפו או נפגעו בטבח. \"אחרי יותר מ-1,000 ימים שאנו מחכים לממשלת ישראל לקבל תשובות, אולי נקבל אותן מוועדת חקירה אמריקנית\", מסרו המשפחות",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "ארצות הברית",
-        "דיפלומטיה"
-      ],
-      "published": "Thu, 15 Oct 2026 10:40:20 +0300"
-    },
-    {
-      "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
-      "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
-      "importance": 7,
-      "topics": [
-        "אקלים",
-        "ארקטיקה",
-        "תחרות בין-מעצמות"
-      ],
-      "published": "Wed, 14 Oct 2026 15:42:03 -0400"
-    },
-    {
-      "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-6000164/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role",
-      "summary": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ארה״ב"
-      ],
-      "published": "Wed, 14 Oct 2026 06:44:30 -0400"
-    },
-    {
-      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "טכנולוגיה",
         "מלחמה"
       ],
-      "published": "Thu, 15 Oct 2026 04:30:08 GMT"
+      "published": "Thu, 15 Oct 2026 06:05:58 -0400"
     },
     {
-      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "importance": 7,
-      "topics": [
-        "ארצות הברית",
-        "כלכלה",
-        "אינפלציה"
-      ],
-      "published": "Wed, 14 Oct 2026 15:26:14 GMT"
-    },
-    {
-      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
-      "summary": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
-      "importance": 7,
-      "topics": [
-        "יגינה הורמוז",
-        "ביטחון ימי",
-        "תחבורה"
-      ],
-      "published": "Wed, 14 Oct 2026 15:34:19 GMT"
-    },
-    {
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "importance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "צרפת"
+        "מלחמה"
       ],
-      "published": "Wed, 14 Oct 2026 13:41:51 GMT"
+      "published": "Thu, 15 Oct 2026 16:50:18 GMT"
     },
     {
-      "title": "From Morocco to South Africa, Israel election watched closely across Africa",
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "importance": 8,
+      "topics": [
+        "פקיסטן",
+        "אסון"
+      ],
+      "published": "Thu, 15 Oct 2026 15:26:16 GMT"
+    },
+    {
+      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss",
-      "summary": "October 27 vote could test whether Israel's ties with African countries withstand the fallout from the war on Gaza.",
-      "importance": 7,
+      "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+      "summary": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
+      "importance": 8,
       "topics": [
         "ישראל",
-        "בחירות",
-        "אפריקה"
+        "עזה",
+        "משבר הומניטרי"
       ],
-      "published": "Thu, 15 Oct 2026 06:46:52 +0000"
+      "published": "Thu, 15 Oct 2026 21:57:58 +0000"
+    },
+    {
+      "title": "Ukraine says its Starshield access is back",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
+      "summary": "Ukraine says its access to SpaceX's Starshield has been restored. It's the system the country uses for its offensive drone attacks on Russia.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "SpaceX",
+        "טכנולוגיה"
+      ],
+      "published": "Thu, 15 Oct 2026 04:46:09 -0400"
+    },
+    {
+      "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+      "summary": "The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.",
+      "importance": 7,
+      "topics": [
+        "פקיסטן",
+        "אסון",
+        "בטיחות"
+      ],
+      "published": "Thu, 15 Oct 2026 04:22:07 -0400"
+    },
+    {
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+      "importance": 7,
+      "topics": [
+        "ים אדום",
+        "מיצר הורמוז",
+        "ביטחון"
+      ],
+      "published": "Fri, 16 Oct 2026 05:00:17 GMT"
+    },
+    {
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "importance": 7,
+      "topics": [
+        "תימן",
+        "חוויים",
+        "יציבות אזורית"
+      ],
+      "published": "Thu, 15 Oct 2026 23:38:46 GMT"
+    },
+    {
+      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+      "importance": 7,
+      "topics": [
+        "רומניה",
+        "ים השחור",
+        "ביטחון"
+      ],
+      "published": "Thu, 15 Oct 2026 14:51:30 GMT"
+    },
+    {
+      "title": "Peshawar mourns children killed in school roof collapse",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+      "summary": "Thousands gather for funeral prayers in Pakistan’s Peshawar after a school rooftop collapse killed at least 34 children.",
+      "importance": 7,
+      "topics": [
+        "פקיסטן",
+        "אסון",
+        "קורבנות"
+      ],
+      "published": "Fri, 16 Oct 2026 02:01:43 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Fed may now have to hike twice or increase by a half point in December, traders bet",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/10/14/fed-may-now-have-to-hike-twice-or-increase-by-a-half-point-in-december-traders-bet.html",
-      "summary": "הסיכויים להעלאת ריבית ב-28 באוקטובר זינקו מ-22% ל-54% תוך יום אחד - זה שינוי דרמטי בציפיות השוק.\n\nמה שמעניין עוד יותר: השוק מתחיל לתמחר תרחיש של שתי העלאות ברצף, או העלאה של חצי אחוז בדצמבר. הפד לא אמר כלום חדש - השוק פשוט שינה דעה בעצמו.\n\nההשפעות העקיפות: שוק הנדל\"ן, שאנחנו כבר יודעים שרגיש לריבית, יקבל לחץ נוסף. וחברות טק עם חוב גבוה - שווה לשים לב.",
-      "importance": 10,
-      "topics": [
-        "פד",
-        "ריבית",
-        "מדיניות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "UK threatens far more severe sanctions on Israel",
-      "source": "גלובס שוק ההון",
-      "url": "https://www.globes.co.il/en/article-1001557994",
-      "summary": "סנקציות בריטיות חדשות עלולות לפגוע ישירות בבנקים הישראליים. שר החוץ הבריטי אד מיליבנד הודיע על סנקציות אפשריות נגד כל גוף שמספק שירותים להרחבת ההתנחלויות מעבר לקו הירוק - וזה כולל במפורש גם בנקים.\n\nהבנקים הישראליים חשופים לסיכון כפול: גם מהצד המשפטי-רגולטורי וגם מהצד של קשרי הכתבות הבינלאומיים שלהם. בנק שמוכנס לרשימות הסנקציות הבריטיות יתקשה לפעול מול מוסדות פיננסיים בארה\"ב ואירופה - הפגיעה יכולה להיות גדולה בהרבה ממה שנשמע במבט ראשון.",
-      "importance": 9,
-      "topics": [
-        "סנקציות",
-        "בנקאות",
-        "סיכון רגולטורי"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "$ASML Q3’26 EARNINGS HIGHLIGHTS 🔹 Net Sales: €11,662M (Est. €11.56B) 🟢 🔹 EPS: €12.95 (Est. €10.60) 🟢 🔹 Gross Margin: 57.5% (Est. 54.8%) 🟢 🔹 Net Income: €5.0B (Est. €4.06B) 🟢 FY26 Guide: 🔹 Net Sales: €44B-€45B (Est. €43.73B) 🟢 🔹 Gross Margin: ~56% (Est. https://t.co/kcG3HBjl1r",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "ASML פרסמה תוצאות רבעון שלישי שהפתיעו לטובה בכל הקטגוריות. הרווח למניה עמד על €12.95 לעומת תחזית של €10.60 - פער של כמעט 22%. שולי הרווח הגולמי הגיעו ל-57.5%, גבוה משמעותית מהציפיות.\n\nASML היא החברה היחידה בעולם שמייצרת מכונות הליתוגרפיה המתקדמות ביותר - בלעדיהן אי אפשר לייצר שבבים מתקדמים. כשהיא מדווחת על ביקוש חזק, זה בעצם מדד לחום ההשקעות בתשתיות AI בעולם. TSMC, Samsung, Intel - כולם לקוחות שלה. התוצאות האלה מסמנות שהגל עדיין רחוק מסיום.",
-      "importance": 9,
-      "topics": [
-        "ASML",
-        "רווחים",
-        "AI",
-        "חצי-מוליכים"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-      "summary": "מדד המחירים לצרכן בארה\"ב עלה ב-3.7% בספטמבר - מעל הציפיות של 3.6%. הדלק הוא הגורם המרכזי, ומחיריו ממשיכים לדחוף את המדד למעלה גם כשהרעש בסחורות האחרות שכך.\n\nהנתון הזה מסבך את החיים של הפד - כל עוד האינפלציה לא מתקררת, קשה לדבר על הורדות ריבית. זה מורגש גם בשוק האג\"ח, בדולר, ובכל מי שלווה כסף בריבית משתנה.",
-      "importance": 9,
-      "topics": [
-        "אינפלציה",
-        "מחירים",
-        "צרכנות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "AI Jitters and Rate-Hike Fears Combine for Worst Day for Stocks Since July",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f?mod=rss_markets_main",
-      "summary": "יום המסחר הגרוע ביותר מאז יולי, ושני גורמים עבדו ביחד נגד השוק.\n\nקודם הגיע דוח אינפלציה חם מהצפוי - וזה הספיק כדי שהשוק יחזור לתמחר העלאת ריבית בספטמבר. אחר כך התחילו ספקות לגבי עסקת ה-AI - אם הרווחים בפועל מצדיקים את הערכות השווי הנוכחיות.\n\nמה שמעניין פה: שני הדברים האלה מכים בדיוק באותם מקומות. חברות הטק הגדולות נפגעות מהריבית כי הן מתומחרות על צמיחה עתידית, ובו זמנית הן גם לב עסקת ה-AI. כשהפחד מגיע משני כיוונים - זה לא ירידה פשוטה.",
-      "importance": 9,
-      "topics": [
-        "אינפלציה",
-        "פד",
-        "בורסה"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
       "source": "CNBC World",
@@ -214,45 +147,58 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
+      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
       "source": "CNBC Top News",
-      "url": "",
-      "summary": "קרן המטבע הבינלאומית מזהירה: צמיחה כלכלית לבדה לא תספיק כדי לצמצם את הגרעון האמריקאי ואת חוב של 40 טריליון דולר. המנכ\"לית קריסטלינה גאורגייבה אמרה ישירות שתכנית האוצר של ביסנט - שמבוססת על כך שצמיחה תפתור את הבעיה - פשוט לא עובדת בקצב המספיק.\n\nזה חשוב מעבר לשיחת הגרעון הרגילה: כשה-IMF מדבר, שוקי האג\"ח מאזינים. לחץ כזה עשוי לדחוף לקיצוצים ממשיים - ואלה ישפיעו על הוצאות ממשלתיות שמזינות ענפים שלמים, מתשתיות ועד ביטחון.",
-      "importance": 8,
+      "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+      "summary": "TSMC פרסמה אתמול את תוצאות הרבעון השלישי - שיא רווח שישי ברציפות, ושוב מעל התחזיות. הביקוש לשבבים לצורכי AI פשוט לא מראה סימני עצירה.\n\nמה שמעניין פה הוא לא רק TSMC עצמה - היא צוואר הבקבוק של כל תעשיית הטכנולוגיה. כשהיא מדווחת שהביקוש ממשיך לעלות, זה אומר שחברות כמו NVIDIA, Apple וכל מי שמזמין ממנה שבבים - ממשיכות לדחוף הזמנות בלי להאט. שווה לשים לב.",
+      "importance": 9,
       "topics": [
-        "גרעון",
-        "מדיניות",
-        "סחר",
-        "IMF"
+        "AI",
+        "תעשיה",
+        "צ'יפים",
+        "השקעות"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "15.5 טריליון דולר - זה הסכום שBlackRock מנהל היום, אחרי צמיחה של 15% בנכסים. כדי להבין את הסקאלה: זה שווה בערך לחצי מהתמ\"ג השנתי של ארה\"ב.\n\nכשגוף אחד מחזיק בפוזיציות כאלה, ההחלטות שלו מזיזות שווקים - לא רק מניות, גם אג\"ח, נדל\"ן ותשתיות. זה גם אומר שכל שינוי בתיאבון הסיכון של BlackRock מורגש אצל עשרות מיליוני חוסכים בעולם שהכסף שלהם מנוהל שם, גם אם הם לא יודעים את זה.",
-      "importance": 8,
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "summary": "תשואות האג\"ח האמריקאיות חצו את רף 5% - וזה מתחיל להיות כאב ראש אמיתי לוושינגטון.\n\nהסיפור פשוט: לממשל האמריקאי יש גירעון של 2 טריליון דולר בשנה, ועכשיו הוא צריך לממן אותו בריבית גבוהה. ככל שהתשואות עולות, עלות שירות החוב עולה - וזה כסף שלא הולך לתשתיות, בריאות או הגנה.\n\nההשפעה לא עוצרת בממשלה. משכנתאות, הלוואות עסקיות, כרטיסי אשראי - הכל מתייקר. מי שצריך מימון חדש משלם יותר, ומי שכבר לווה בריבית משתנה מרגיש את זה כבר עכשיו.",
+      "importance": 9,
       "topics": [
-        "קרנות",
-        "השקעות",
-        "ריכוז שוק"
+        "גירעונות",
+        "תשואות אג\"ח",
+        "מדיניות כלכלית"
       ],
       "tag": "ארה\"ב"
     },
     {
-      "title": "How Iran’s $2 trillion threat puts your AI stocks at risk",
-      "source": "MarketWatch",
+      "title": "TSMC $TSM Q3’26 EARNINGS HIGHLIGHTS 🔹 Revenue: $46.72B (Est. $44.93B) 🟢; +41.2% YoY 🔹 EPS: $4.60 (Est. $4.48) 🟢; per ADR 🔹 Gross Margin: 66.4% (Est. 66.3%) 🟡 🔹 Oper Margin: 58.7% (Est. 57.7%) 🟢 🔹 Net Income: NT$763.06B (Est. NT$737.9B) 🟢 🔹 Net Profit Margin: 51.1% https://t.co/YxYKoVi78J",
+      "source": "Twitter @wallstengine",
       "url": "",
-      "summary": "איראן פרסמה רשימת יעדים - ובראשה תשתיות טכנולוגיה אמריקאיות. לפי MarketWatch, מדובר באיום על נכסים ששוויים מוערך בכ-2 טריליון דולר, כולל מתקני ייצור ומרכזי נתונים שמפעילים את כל עולם ה-AI.\n\nהפד מודה שהוא לא מצליח לבלום את גל ההוצאות של חברות הטק הגדולות - אבל אירוע גיאופוליטי אחד יכול לעשות את זה בשבילו. השוק עדיין לא מתמחר את הסיכון הזה ברצינות.\n\nמי שיושפע מעבר למניות הטק הישירות: חברות ביטוח, ספקיות ענן קטנות, וכל עסק שתלוי בתשתיות אמריקאיות.",
-      "importance": 8,
+      "summary": "TSMC דיווחה על הכנסות של 46.7 מיליארד דולר ברבעון השלישי - גידול של 41% לעומת אשתקד, ורווח נקי של יותר מ-51 אחוז מההכנסות. המספרים האלה מדברים בעד עצמם.\n\nמה שמרתק פה הוא לא רק הצמיחה - אלא שחברה בסדר גודל כזה שומרת על שולי רווח של חברת סטארטאפ. זה קורה כי הביקוש לשבבי AI ממשיך לשבור שיאים, ו-TSMC היא כמעט המונופול שמייצר אותם.\n\nההשפעה העקיפה: תוצאות כאלה טובות לכל שרשרת האספקה - ספקי ציוד ייצור, חברות כימיקלים תעשייתיים ואפילו חברות לוגיסטיקה שעובדות מול המפעלים בטייוואן ובאריזונה.",
+      "importance": 9,
       "topics": [
-        "גיאופוליטיקה",
+        "שבבים",
         "AI",
-        "סחר",
-        "ריסק"
+        "TSMC",
+        "רווחיות"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "🇺🇸 PPI 6.3% YoY (Est. 5.3%) 🇺🇸 PPI 1.3% MoM (Est. 0.5%) 🇺🇸 PPI Core 5.0% YoY (Est. 4.4%) 🇺🇸 PPI Core 0.7% MoM (Est. 0.3%)",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2110712599604314502",
+      "summary": "מדד מחירי היצרן האמריקאי (PPI) עלה ב-6.3% בשנה האחרונה - הערכות האנליסטים עמדו על 5.3%. גם על בסיס חודשי: עלייה של 1.3% לעומת 0.5% שציפו.\n\nזה חשוב כי PPI הוא אינפלציה \"בקצה המגרש\" - מחירים שהיצרנים משלמים עכשיו הופכים למחירים שצרכנים ישלמו בחודשים הקרובים. הפד הולך להסתכל על זה בחשש. ציפיות להורדות ריבית בשנת 2025 עשויות להידחות עוד - וזה ישפיע על כל מי שמחזיק אג\"ח ארוכות או מחכה לרפי משכנתאות.",
+      "importance": 9,
+      "topics": [
+        "אנפלציה",
+        "נתונים מאקרו",
+        "פד"
+      ],
+      "tag": "ארה\"ב"
     },
     {
       "title": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion",
@@ -266,112 +212,152 @@
         "היי-טק"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "UBS שוקלת לעזוב את שוויץ - ולא מדובר בכותרת מוגזמת.\n\nהבנק קיבל פניות משותפים עסקיים פוטנציאליים בארה\"ב, וזה קורה בדיוק כשהוא נמצא במאבק גלוי מול פוליטיקאים שוויצריים שדוחפים לדרישות הון גבוהות משמעותית.\n\nהנקודה המעניינת כאן: כשבנק בגודל UBS מאיים לעזוב את מדינת הבית שלו, זה לא רק מהלך עסקי - זה לחץ על רגולטורים בכל אירופה שדוחפים לחיזוק דרישות ההון אחרי קריסת Credit Suisse. אם UBS תצא מהמשחק השוויצרי, ז'נבה ולוזאן יפסידו מרכז פיננסי שלם.",
+      "importance": 8,
+      "topics": [
+        "בנקאות",
+        "רגולציה",
+        "השקעות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "מחירי הנפט ירדו אתמול למרות ההתקפות על אוניות במצר הורמוז - ותגובת השוק הזו מעניינת. המשמעות היא שהשווקים לא ממש מאמינים שהמתיחות תסלים לכדי שיבוש אמיתי בזרימת האספקה. דוח ה-IEA שיצא במקביל מוסיף לתמונה - הסוכנות מצביעה על צווארי בקבוק בהיצע שיכולים לשנות את הכיוון בהמשך. מה שמעניין: נפט זול יותר זו בשורה טובה לאינפלציה ולבנקים המרכזיים שעדיין מתלבטים על קצב הורדת הריבית.",
+      "importance": 8,
+      "topics": [
+        "נפט",
+        "אנרגיה",
+        "אינפלציה",
+        "מזרח קרוב"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "חוזי הביטוח על חוב של CoreWeave קפצו השבוע לרמות שמסמנות מצוקה פיננסית אמיתית - זה הסוג של תנועה ששוק האשראי עושה כשהוא מתחיל לפקפק ביכולת החזר. CoreWeave היא אחת מחברות תשתית ה-AI הגדולות שגייסו חוב עצום כדי לבנות מרכזי נתונים ב-GPU.\n\nמה שמעניין פה הוא ההשפעה העקיפה: אם שוק האשראי סוגר את הברז לחברות AI, הראשונות שירגישו את זה הן ספקיות השבבים והאנרגיה שסיפחו לעצמן חוזים ארוכי טווח. זה לא בהכרח קריסה - אבל זה סימן שהשוק מתחיל לשאול שאלות שלפני שנה אף אחד לא שאל.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "אשראי",
+        "סטארטאפים"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "The AI race is back on",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest […]",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "Google",
-        "OpenAI"
-      ],
-      "published": "2026-10-14T15:06:03-04:00"
-    },
-    {
-      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
       "importance": 8,
       "topics": [
         "AI",
-        "ביוטכנולוגיה",
-        "מחקר"
+        "רגולציה",
+        "אנטי-טראסט"
       ],
-      "published": "Wed, 14 Oct 2026 17:10:15 +0000"
+      "published": "Thu, 15 Oct 2026 15:43:24 +0000"
     },
     {
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "importance": 8,
-      "topics": [
-        "OpenAI",
-        "אבטחה",
-        "מרגלות"
-      ],
-      "published": "Wed, 14 Oct 2026 16:41:49 +0000"
-    },
-    {
-      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-      "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "מחקר",
-        "מדע"
-      ],
-      "published": "Wed, 14 Oct 2026 18:15:00 +0000"
-    },
-    {
-      "title": "3 עובדים נפצעו קשה בפיצוץ במפעל אינטל בקריית גת",
+      "title": "עסקת ענק: Varonis הישראלית נמכרת ב-6.3 מיליארד דולר",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/intel-kiryat-gat-explosion/",
-      "summary": "עדכון, 15.10.26: לאחר פינוי העובדים מהזירה, נקבע מותם של שניים מהם – גבר כבן 30 וגבר בן 49 – אחרי שסבלו מכוויות חמורות בגופם בעקבות הפיצוץ. העובד השלישי שפונה עדיין מוגדר במצב קשה והוא מורדם ומונשם ביחידה לטיפול נמרץ בבית החולים סורוקה בבאר שבע. פיצוץ חריג נרשם במפעל אינטל בקריית גת לפני זמן קצר (ד'). […] The post 3 עובדים נפצעו קשה בפיצוץ במפעל אינטל בקריית גת appeared first on גיקטיים .",
+      "url": "https://www.geektime.co.il/proofpoint-acquires-varonis-cybersecurity-deal/",
+      "summary": "עסקת ענק בתעשיית הסייבר המקומית. חברת אבטחת המידע האמריקאית Proofpoint הודיעה על רכישת חברת הסייבר הישראלית Varonis (ורוניס). שווי העסקה עומד על כ-6.3 מיליארד דולר במזומן, והיא צפויה להיסגר במחצית הראשונה של שנת 2027. 1,000 עובדים בישראל Varonis מפתחת מוצר ענן לאבטחת נתונים בסביבות ארגוניות. הטכנולוגיה של החברה ממפה את המידע של הארגון, מסווגת אותו […] The post עסקת ענק: Varonis הישראלית נמכרת ב-6.",
       "importance": 8,
       "topics": [
-        "אינטל",
-        "שבבים",
-        "כשל ייצור"
+        "סייבר",
+        "M&A",
+        "Varonis"
       ],
-      "published": "Wed, 14 Oct 2026 11:56:35 +0000"
+      "published": "Fri, 16 Oct 2026 04:10:57 +0000"
     },
     {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
       "importance": 7,
       "topics": [
         "AI",
+        "Meta",
+        "Apple"
+      ],
+      "published": "Thu, 15 Oct 2026 20:04:53 +0000"
+    },
+    {
+      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
+      "importance": 7,
+      "topics": [
+        "רכבים אוטונומיים",
+        "Nvidia",
+        "טכנולוגיה"
+      ],
+      "published": "Thu, 15 Oct 2026 17:34:40 +0000"
+    },
+    {
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+      "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+      "importance": 7,
+      "topics": [
         "שבבים",
-        "חדשנות"
+        "רגולציה",
+        "סחר בינלאומי"
       ],
-      "published": "Thu, 15 Oct 2026 01:01:32 +0000"
+      "published": "Thu, 15 Oct 2026 16:45:37 +0000"
     },
     {
-      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]",
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
       "importance": 7,
       "topics": [
-        "OpenAI",
-        "רגולציה",
-        "AI"
+        "אבטחה",
+        "סייבר",
+        "זדיקים"
       ],
-      "published": "2026-10-14T17:11:28-04:00"
+      "published": "Thu, 15 Oct 2026 20:32:41 +0000"
     },
     {
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that […]",
+      "title": "The Tesla Roadster 2 Is Here—and It Flies",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/tesla-roadster-2-launch/",
+      "summary": "The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.",
       "importance": 7,
       "topics": [
-        "AI",
-        "רגולציה",
-        "פרטיות"
+        "טסלה",
+        "כלי רכב חשמליים",
+        "דוכני חדשה"
       ],
-      "published": "2026-10-14T14:47:54-04:00"
+      "published": "Fri, 16 Oct 2026 01:22:51 +0000"
+    },
+    {
+      "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+      "summary": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "מודיעין כלכלי",
+        "malware"
+      ],
+      "published": "Thu, 15 Oct 2026 10:00:00 +0000"
     }
   ]
 }
