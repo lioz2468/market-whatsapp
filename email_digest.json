@@ -1,338 +1,270 @@
 {
-  "generated_at": "2026-10-16T08:02:51.431525+00:00",
+  "generated_at": "2026-10-17T07:40:34.867636+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+      "title": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
-      "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s",
+      "summary": "Russian authorities say Ukraine struck a major oil refinery southeast of Moscow Thursday. The strike was in response to Russia's attacks on Ukrainian energy infrastructure.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
         "מלחמה"
       ],
-      "published": "Thu, 15 Oct 2026 06:05:58 -0400"
+      "published": "Fri, 16 Oct 2026 04:51:17 -0400"
     },
     {
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "importance": 8,
+      "topics": [
+        "ארצות הברית",
+        "רוסיה",
+        "סנקציות"
+      ],
+      "published": "Sat, 17 Oct 2026 06:39:40 GMT"
+    },
+    {
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מלחמה"
+        "טכנולוגיה"
       ],
-      "published": "Thu, 15 Oct 2026 16:50:18 GMT"
+      "published": "Fri, 16 Oct 2026 16:00:30 GMT"
     },
     {
-      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
       "importance": 8,
       "topics": [
-        "אסון טבע",
-        "פקיסטן",
-        "הרוגים"
-      ],
-      "published": "Thu, 15 Oct 2026 15:26:16 GMT"
-    },
-    {
-      "title": "Ukraine says its Starshield access is back",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
-      "summary": "Ukraine says its access to SpaceX's Starshield has been restored. It's the system the country uses for its offensive drone attacks on Russia.",
-      "importance": 7,
-      "topics": [
         "אוקראינה",
-        "ספייס-X",
-        "טכנולוגיה צבאית"
+        "ארה\"ב",
+        "טכנולוגיה"
       ],
-      "published": "Thu, 15 Oct 2026 04:46:09 -0400"
+      "published": "Fri, 16 Oct 2026 19:33:48 GMT"
     },
     {
-      "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
-      "summary": "The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.",
-      "importance": 7,
-      "topics": [
-        "פקיסטן",
-        "אסון",
-        "בטיחות בנייה"
-      ],
-      "published": "Thu, 15 Oct 2026 04:22:07 -0400"
-    },
-    {
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-      "importance": 7,
-      "topics": [
-        "תעבורה ימית",
-        "ג'יאופוליטיקה",
-        "אנרגיה"
-      ],
-      "published": "Fri, 16 Oct 2026 05:00:17 GMT"
-    },
-    {
-      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-      "importance": 7,
-      "topics": [
-        "תימן",
-        "חוות",
-        "קונפליקט"
-      ],
-      "published": "Thu, 15 Oct 2026 23:38:46 GMT"
-    },
-    {
-      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-      "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
-      "importance": 7,
-      "topics": [
-        "ים שחור",
-        "התקפה",
-        "בטחון ימי"
-      ],
-      "published": "Thu, 15 Oct 2026 14:51:30 GMT"
-    },
-    {
-      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
-      "importance": 7,
-      "topics": [
-        "אסון טבע",
-        "אקלים",
-        "טורקיה"
-      ],
-      "published": "Thu, 15 Oct 2026 10:05:29 GMT"
-    },
-    {
-      "title": "How Israel’s elections will affect Palestinians",
+      "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss",
-      "summary": "How Israel votes this month will shape the future of over 5.5 million Palestinians who have no say in the election.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
+      "summary": "US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
+      "importance": 8,
+      "topics": [
+        "ארה\"ב",
+        "רוסיה",
+        "אוקראינה"
+      ],
+      "published": "Sat, 17 Oct 2026 04:58:32 +0000"
+    },
+    {
+      "title": "Trump puts on hold new Russia sanctions he signed into law",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
+      "summary": "US president's executive order comes two days before sanctions deadline and a week after diesel deal with Putin.",
+      "importance": 8,
+      "topics": [
+        "ארה\"ב",
+        "רוסיה",
+        "אוקראינה"
+      ],
+      "published": "Sat, 17 Oct 2026 04:45:03 +0000"
+    },
+    {
+      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
+      "summary": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The Washington Post .",
       "importance": 7,
       "topics": [
         "ישראל",
-        "בחירות",
-        "פלסטינים"
+        "פלסטינים",
+        "גדה המערבית"
       ],
-      "published": "Fri, 16 Oct 2026 07:04:54 +0000"
+      "published": "Fri, 16 Oct 2026 11:57:27 -0400"
+    },
+    {
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "importance": 7,
+      "topics": [
+        "סביבה",
+        "אקלים",
+        "ברזיל"
+      ],
+      "published": "Sat, 17 Oct 2026 02:33:09 GMT"
+    },
+    {
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "ארה\"ב",
+        "איטליה"
+      ],
+      "published": "Fri, 16 Oct 2026 23:54:35 GMT"
+    },
+    {
+      "title": "Ukraine and Europe have little choice but to work with Trump",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss",
+      "summary": "Despite growing tensions over Russia, Kyiv and European leaders remain dependent on US support.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "ארה\"ב",
+        "אירופה"
+      ],
+      "published": "Sat, 17 Oct 2026 06:36:03 +0000"
     }
   ],
   "business": [
     {
-      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-      "summary": "TSMC פרסמה אתמול את תוצאות הרבעון השלישי - שיא רווח שישי ברציפות, ושוב מעל התחזיות. הביקוש לשבבים לצורכי AI פשוט לא מראה סימני עצירה.\n\nמה שמעניין פה הוא לא רק TSMC עצמה - היא צוואר הבקבוק של כל תעשיית הטכנולוגיה. כשהיא מדווחת שהביקוש ממשיך לעלות, זה אומר שחברות כמו NVIDIA, Apple וכל מי שמזמין ממנה שבבים - ממשיכות לדחוף הזמנות בלי להאט. שווה לשים לב.",
+      "title": "MSCI Ignites Indonesia Market Reckoning After Months of Warnings",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/msci-ignites-indonesia-market-reckoning-after-months-of-warnings",
+      "summary": "סל המדינות של MSCI - זה אחד הדברים שרוב האנשים לא שמים לב אליהם, אבל הוא משנה כסף גדול מאוד.\n\nMSCI שוקלת להוריד את אינדונזיה מרשימת השווקים המתפתחים - אחרי חודשים של אזהרות על בעיות מבניות למשקיעים מוסדיים. אם זה יקרה, קרנות מחקות ברחבי העולם יהיו חייבות למכור אחזקות אינדונזיות אוטומטית - לא מתוך שיקול דעת, אלא כי הכללים מחייבים. ההשפעה העקיפה: שווקים מתעוררים אחרים שיש להם בעיות דומות - ניזורן, בנגלדש, ויאטנם - צפויים לקבל תשומת לב מוגברת ממשקיעים שמתחילים לשאול מי הבא.",
       "importance": 9,
       "topics": [
-        "AI",
-        "תעשיה",
-        "צ'יפים",
-        "השקעות"
+        "אינדקסים",
+        "אינדונזיה",
+        "זרימת הון"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "summary": "תשואות האג\"ח האמריקאיות חצו את רף 5% - וזה מתחיל להיות כאב ראש אמיתי לוושינגטון.\n\nהסיפור פשוט: לממשל האמריקאי יש גירעון של 2 טריליון דולר בשנה, ועכשיו הוא צריך לממן אותו בריבית גבוהה. ככל שהתשואות עולות, עלות שירות החוב עולה - וזה כסף שלא הולך לתשתיות, בריאות או הגנה.\n\nההשפעה לא עוצרת בממשלה. משכנתאות, הלוואות עסקיות, כרטיסי אשראי - הכל מתייקר. מי שצריך מימון חדש משלם יותר, ומי שכבר לווה בריבית משתנה מרגיש את זה כבר עכשיו.",
+      "title": "עסקת ענק: Varonis הישראלית נמכרת ב-6.3 מיליארד דולר",
+      "source": "גיקטיים",
+      "url": "",
+      "summary": "Proofpoint רוכשת את Varonis הישראלית ב-6.3 מיליארד דולר במזומן - אחת העסקאות הגדולות בתעשיית הסייבר הישראלית בשנים האחרונות.\n\nVaronis בנתה טכנולוגיה שממפה ומסווגת את המידע של ארגונים - בדיוק מה שנדרש כשכולם עוברים לענן ומנסים להבין מי ניגש למה. Proofpoint, שמתמקדת באבטחת אימייל ומניעת דליפות, מקבלת עכשיו יכולות שלמות של הגנה על נתונים.\n\nמעניין לשים לב מי תלוי בתוצאה: חברות ישראליות אחרות בתחום אבטחת הנתונים ייהנו מהעסקה הזו - היא מדרגת את כל הסגמנט.",
       "importance": 9,
       "topics": [
-        "גירעונות",
-        "תשואות אג\"ח",
-        "מדיניות כלכלית"
+        "סייבר",
+        "M&A",
+        "שוק היוון"
       ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "TSMC $TSM Q3’26 EARNINGS HIGHLIGHTS 🔹 Revenue: $46.72B (Est. $44.93B) 🟢; +41.2% YoY 🔹 EPS: $4.60 (Est. $4.48) 🟢; per ADR 🔹 Gross Margin: 66.4% (Est. 66.3%) 🟡 🔹 Oper Margin: 58.7% (Est. 57.7%) 🟢 🔹 Net Income: NT$763.06B (Est. NT$737.9B) 🟢 🔹 Net Profit Margin: 51.1% https://t.co/YxYKoVi78J",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "TSMC דיווחה על הכנסות של 46.7 מיליארד דולר ברבעון השלישי - גידול של 41% לעומת אשתקד, ורווח נקי של יותר מ-51 אחוז מההכנסות. המספרים האלה מדברים בעד עצמם.\n\nמה שמרתק פה הוא לא רק הצמיחה - אלא שחברה בסדר גודל כזה שומרת על שולי רווח של חברת סטארטאפ. זה קורה כי הביקוש לשבבי AI ממשיך לשבור שיאים, ו-TSMC היא כמעט המונופול שמייצר אותם.\n\nההשפעה העקיפה: תוצאות כאלה טובות לכל שרשרת האספקה - ספקי ציוד ייצור, חברות כימיקלים תעשייתיים ואפילו חברות לוגיסטיקה שעובדות מול המפעלים בטייוואן ובאריזונה.",
-      "importance": 9,
-      "topics": [
-        "שבבים",
-        "AI",
-        "TSMC",
-        "רווחיות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "🇺🇸 PPI 6.3% YoY (Est. 5.3%) 🇺🇸 PPI 1.3% MoM (Est. 0.5%) 🇺🇸 PPI Core 5.0% YoY (Est. 4.4%) 🇺🇸 PPI Core 0.7% MoM (Est. 0.3%)",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2110712599604314502",
-      "summary": "מדד מחירי היצרן האמריקאי (PPI) עלה ב-6.3% בשנה האחרונה - הערכות האנליסטים עמדו על 5.3%. גם על בסיס חודשי: עלייה של 1.3% לעומת 0.5% שציפו.\n\nזה חשוב כי PPI הוא אינפלציה \"בקצה המגרש\" - מחירים שהיצרנים משלמים עכשיו הופכים למחירים שצרכנים ישלמו בחודשים הקרובים. הפד הולך להסתכל על זה בחשש. ציפיות להורדות ריבית בשנת 2025 עשויות להידחות עוד - וזה ישפיע על כל מי שמחזיק אג\"ח ארוכות או מחכה לרפי משכנתאות.",
-      "importance": 9,
-      "topics": [
-        "אנפלציה",
-        "נתונים מאקרו",
-        "פד"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "UBS שוקלת לעזוב את שוויץ - ולא מדובר בכותרת מוגזמת.\n\nהבנק קיבל פניות משותפים עסקיים פוטנציאליים בארה\"ב, וזה קורה בדיוק כשהוא נמצא במאבק גלוי מול פוליטיקאים שוויצריים שדוחפים לדרישות הון גבוהות משמעותית.\n\nהנקודה המעניינת כאן: כשבנק בגודל UBS מאיים לעזוב את מדינת הבית שלו, זה לא רק מהלך עסקי - זה לחץ על רגולטורים בכל אירופה שדוחפים לחיזוק דרישות ההון אחרי קריסת Credit Suisse. אם UBS תצא מהמשחק השוויצרי, ז'נבה ולוזאן יפסידו מרכז פיננסי שלם.",
-      "importance": 8,
-      "topics": [
-        "בנקאות",
-        "רגולציה",
-        "השקעות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
-      "source": "CNBC World",
-      "url": "",
-      "summary": "מחירי הנפט ירדו אתמול למרות ההתקפות על אוניות במצר הורמוז - ותגובת השוק הזו מעניינת. המשמעות היא שהשווקים לא ממש מאמינים שהמתיחות תסלים לכדי שיבוש אמיתי בזרימת האספקה. דוח ה-IEA שיצא במקביל מוסיף לתמונה - הסוכנות מצביעה על צווארי בקבוק בהיצע שיכולים לשנות את הכיוון בהמשך. מה שמעניין: נפט זול יותר זו בשורה טובה לאינפלציה ולבנקים המרכזיים שעדיין מתלבטים על קצב הורדת הריבית.",
-      "importance": 8,
-      "topics": [
-        "נפט",
-        "אנרגיה",
-        "אינפלציה",
-        "מזרח קרוב"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "חוזי הביטוח על חוב של CoreWeave קפצו השבוע לרמות שמסמנות מצוקה פיננסית אמיתית - זה הסוג של תנועה ששוק האשראי עושה כשהוא מתחיל לפקפק ביכולת החזר. CoreWeave היא אחת מחברות תשתית ה-AI הגדולות שגייסו חוב עצום כדי לבנות מרכזי נתונים ב-GPU.\n\nמה שמעניין פה הוא ההשפעה העקיפה: אם שוק האשראי סוגר את הברז לחברות AI, הראשונות שירגישו את זה הן ספקיות השבבים והאנרגיה שסיפחו לעצמן חוזים ארוכי טווח. זה לא בהכרח קריסה - אבל זה סימן שהשוק מתחיל לשאול שאלות שלפני שנה אף אחד לא שאל.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "אשראי",
-        "סטארטאפים"
-      ],
-      "tag": "גלובלי"
+      "tag": "ישראל"
     }
   ],
   "tech": [
     {
-      "title": "עסקת ענק: Varonis הישראלית נמכרת ב-6.3 מיליארד דולר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/proofpoint-acquires-varonis-cybersecurity-deal/",
-      "summary": "עסקת ענק בתעשיית הסייבר המקומית. חברת אבטחת המידע האמריקאית Proofpoint הודיעה על רכישת חברת הסייבר הישראלית Varonis (ורוניס). שווי העסקה עומד על כ-6.3 מיליארד דולר במזומן, והיא צפויה להיסגר במחצית הראשונה של שנת 2027. 1,000 עובדים בישראל Varonis מפתחת מוצר ענן לאבטחת נתונים בסביבות ארגוניות. הטכנולוגיה של החברה ממפה את המידע של הארגון, מסווגת אותו […] The post עסקת ענק: Varonis הישראלית נמכרת ב-6.",
+      "title": "All the news about the iPhone Duo",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and […]",
       "importance": 9,
       "topics": [
-        "סייבר",
-        "רכישה",
-        "M&A"
+        "Apple",
+        "מוצרים חדשים",
+        "חומרה"
       ],
-      "published": "Fri, 16 Oct 2026 04:10:57 +0000"
+      "published": "2026-10-16T19:36:26-04:00"
     },
     {
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-      "importance": 8,
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "importance": 9,
       "topics": [
-        "AI",
-        "רגולציה",
-        "Anthropic"
-      ],
-      "published": "Thu, 15 Oct 2026 15:43:24 +0000"
-    },
-    {
-      "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
-      "summary": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
-      "importance": 8,
-      "topics": [
+        "OpenAI",
         "אבטחה",
-        "סייבר",
-        "תוכנת מעקב"
+        "AI"
       ],
-      "published": "Thu, 15 Oct 2026 10:00:00 +0000"
+      "published": "Fri, 16 Oct 2026 20:59:01 +0000"
     },
     {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "importance": 7,
+      "title": "Why Apple is finally making its own smart home devices",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]",
+      "importance": 8,
       "topics": [
-        "AI",
-        "Meta",
-        "Apple"
+        "Apple",
+        "IoT",
+        "מחשוב ביתי"
       ],
-      "published": "Thu, 15 Oct 2026 20:04:53 +0000"
+      "published": "2026-10-16T14:30:27-04:00"
     },
     {
-      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-      "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-      "importance": 7,
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
+      "importance": 8,
       "topics": [
+        "Nvidia",
         "שבבים",
-        "סחר בין-לאומי",
-        "SK Hynix"
+        "מעבדים"
       ],
-      "published": "Thu, 15 Oct 2026 16:45:37 +0000"
+      "published": "2026-10-16T11:00:00-04:00"
     },
     {
-      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-      "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-      "importance": 7,
-      "topics": [
-        "אבטחה סייבר",
-        "תוכנת זדונית",
-        "אחסון נתונים"
-      ],
-      "published": "Thu, 15 Oct 2026 20:32:41 +0000"
-    },
-    {
-      "title": "The Tesla Roadster 2 Is Here—and It Flies",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/tesla-roadster-2-launch/",
-      "summary": "The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.",
-      "importance": 7,
-      "topics": [
-        "טסלה",
-        "כלי רכב חשמלי",
-        "טכנולוגיה"
-      ],
-      "published": "Fri, 16 Oct 2026 01:22:51 +0000"
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "title": "India becomes the latest country to report rogue AI agent activity",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "importance": 6,
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "importance": 7,
       "topics": [
         "AI",
-        "Anthropic",
-        "בטיחות"
+        "אבטחה",
+        "סייבר"
       ],
-      "published": "Thu, 15 Oct 2026 19:14:26 +0000"
+      "published": "Fri, 16 Oct 2026 17:52:24 +0000"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "ראיית מחשב",
+        "Elorian"
+      ],
+      "published": "Fri, 16 Oct 2026 16:01:37 +0000"
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Replit",
+        "אוטומציה"
+      ],
+      "published": "Fri, 16 Oct 2026 12:55:09 +0000"
+    },
+    {
+      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]",
+      "importance": 7,
+      "topics": [
+        "Apple",
+        "AI",
+        "רגולציה"
+      ],
+      "published": "2026-10-16T18:51:22-04:00"
     }
   ]
 }
