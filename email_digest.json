@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:44:58.986766+00:00",
+  "generated_at": "2026-10-18T07:56:03.261743+00:00",
   "lookback_hours": 24,
   "world": [
     {
@@ -10,8 +10,8 @@
       "importance": 8,
       "topics": [
         "אוקראינה",
-        "רוסיה",
-        "סנקציות"
+        "ארה״ב",
+        "רוסיה"
       ],
       "published": "Sat, 17 Oct 2026 10:25:10 -0400"
     },
@@ -22,53 +22,14 @@
       "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "importance": 8,
       "topics": [
+        "ארצות הברית",
         "רוסיה",
-        "אוקראינה",
-        "סנקציות"
+        "דיפלומטיה"
       ],
       "published": "Sun, 18 Oct 2026 01:10:25 GMT"
     },
     {
-      "title": "St Petersburg under attack from Ukrainian drone swarm",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
-      "summary": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
-      ],
-      "published": "Sun, 18 Oct 2026 04:51:01 +0000"
-    },
-    {
-      "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
-      "summary": "Kabila’s move raises new questions about the war in eastern Congo and prospects for peace.",
-      "importance": 8,
-      "topics": [
-        "קונגו",
-        "מלחמה",
-        "משבר"
-      ],
-      "published": "Sun, 18 Oct 2026 02:21:48 +0000"
-    },
-    {
-      "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-      "summary": "The vessels, each carrying about two million barrels of crude oil, used an unauthorised route, the IRGC says.",
-      "importance": 8,
-      "topics": [
-        "איראן",
-        "מפרץ הפרסי",
-        "טנקרים"
-      ],
-      "published": "Sun, 18 Oct 2026 01:54:18 +0000"
-    },
-    {
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
       "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
@@ -76,9 +37,22 @@
       "topics": [
         "צרפת",
         "הפגנות",
-        "אי-סדרים"
+        "אלימות"
       ],
-      "published": "Sat, 17 Oct 2026 20:52:17 GMT"
+      "published": "Sun, 18 Oct 2026 05:56:20 GMT"
+    },
+    {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "יו״ש",
+        "דיפלומטיה"
+      ],
+      "published": "Sat, 17 Oct 2026 23:52:38 GMT"
     },
     {
       "title": "At least 17 dead in crush at Hindu festival event in India",
@@ -89,34 +63,48 @@
       "topics": [
         "הודו",
         "אסון",
-        "הרוגים"
+        "כתיפה"
       ],
       "published": "Sat, 17 Oct 2026 19:19:16 GMT"
     },
     {
-      "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
+      "title": "Why Iran-US negotiations keep failing",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
-      "summary": "US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
+      "summary": "Relations between the two countries are dominated by policy complexes shaped by a history of hostility.",
       "importance": 7,
       "topics": [
-        "הודו",
-        "ארה״ב",
+        "איראן",
+        "ארצות הברית",
         "דיפלומטיה"
       ],
-      "published": "Sun, 18 Oct 2026 05:16:49 +0000"
+      "published": "Sun, 18 Oct 2026 07:32:59 +0000"
     },
     {
-      "title": "At least 19 dead in stampede at Kolkata Hindu festival",
+      "title": "Israel’s ties with Europe are fraying. Can its election change that?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
-      "summary": "A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+      "summary": "European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.",
       "importance": 7,
       "topics": [
-        "הודו",
-        "אסון"
+        "ישראל",
+        "אירופה",
+        "דיפלומטיה"
       ],
-      "published": "Sun, 18 Oct 2026 04:21:46 +0000"
+      "published": "Sun, 18 Oct 2026 07:05:00 +0000"
+    },
+    {
+      "title": "St Petersburg under attack from Ukrainian drone swarm",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+      "summary": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
+      ],
+      "published": "Sun, 18 Oct 2026 04:51:01 +0000"
     },
     {
       "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
@@ -126,14 +114,67 @@
       "importance": 7,
       "topics": [
         "ישראל",
-        "שטחים",
-        "ארה\"ב"
+        "ארצות הברית",
+        "פלסטינה"
       ],
       "published": "Sun, 18 Oct 2026 03:44:25 +0000"
+    },
+    {
+      "title": "אסון בבסיס בקנדה: לפחות 7 נהרגו ועשרות נפצעו בפיצוץ בתרגיל באש חיה",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/bjry5cbhfl",
+      "summary": "נפגעים רבים בפיצוץ בבסיס וויינרייט שבאלברטה, שלפי דיווחים אירע במהלך תרגיל שבו נפגע צינור או מאגר גז. שריפה גדולה התפשטה מעבר לגדר הבסיס, בחסות רוחות של 100 קמ\"ש: \"זה אסון, לא זכור דבר כזה בהיסטוריה המודרנית שלנו\"",
+      "importance": 7,
+      "topics": [
+        "קנדה",
+        "אסון",
+        "צבא"
+      ],
+      "published": "Sun, 18 Oct 2026 09:06:34 +0300"
     }
   ],
-  "business": [],
+  "business": [
+    {
+      "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "הבעיה: הכתבה מתייחסת לקווין וורש כיו\"ר הפד - אבל נכון להיום (2025), יו\"ר הפד הוא עדיין ג'רום פאוול. וורש הוא מועמד שמוניין לתפקיד אך טרם אושר. הכתבה עשויה להיות ספקולטיבית, עתידנית, או שגויה - ואני לא יכול לנסח הודעה שמציגה אותו כיו\"ר בפועל כעובדה.",
+      "importance": 8,
+      "topics": [
+        "פד",
+        "ריבית",
+        "מדיניות מוניטרית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "ביקור רוביו במפעל Reliance של אמבאני בהודו הוא לא סתם דיפלומטיה - זה סימן לאיפה נמצאת הכוח בשרשרת הדלק הגלובלית כרגע.\n\nמחירי הדיזל בארה\"ב עולים, והממשל האמריקאי פונה לבית הזיקוק הגדול בעולם בג'מנגר כדי להבין מה אפשר לעשות. Reliance קונה נפט ונצואלי, מזקקת אותו ומוכרת דיזל לשוק האמריקאי - ובדיוק בגלל זה היא רלוונטית.\n\nמי שכדאי לשים לב אליו: חברות שיפור ולוגיסטיקת דלק בארה\"ב, שעשויות להרוויח מהסדרי יבוא חדשים.",
+      "importance": 8,
+      "topics": [
+        "דלק",
+        "אנרגיה",
+        "יחסים גיאופוליטיים"
+      ],
+      "tag": "גלובלי"
+    }
+  ],
   "tech": [
+    {
+      "title": "\"אמא ואבא שוב משחקים יפה ביחד\": מטא ואפל משתפות פעולה בהשקת מודל AI פתוח חדש",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/apple-meta-muse-spark-open-mac-collaboration/",
+      "summary": "היריבות בין אפל למטא יצרה כמה מהסכסוכים העסקיים המתוקשרים של השנים האחרונות, כולל מהלך פרטיות אחד שעלה למארק צוקרברג עשרה מיליארד דולר. אבל מתברר שכשהקרב על עולם ה-AI עולה שלב – אפילו יריבות מושבעות מוכנות לשים את משקעי העבר בצד ולשתף פעולה כדי להריץ מודל AI חדש מעניין במיוחד. מפלצת של מודל למפלצת של מחשב […] The post \"אמא ואבא שוב משחקים יפה ביחד\": מטא ואפל משתפות פעולה בהשקת מודל AI פתוח חדש app",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "Meta",
+        "Apple"
+      ],
+      "published": "Sun, 18 Oct 2026 07:25:29 +0000"
+    },
     {
       "title": "Encryption Is Getting Squeezed From All Sides",
       "source": "Wired",
@@ -143,9 +184,22 @@
       "topics": [
         "הצפנה",
         "רגולציה",
-        "פרטיות"
+        "אבטחת ידע"
       ],
       "published": "Sat, 17 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
+      "importance": 7,
+      "topics": [
+        "Meta",
+        "AI",
+        "רגולציה"
+      ],
+      "published": "2026-10-17T11:04:36-04:00"
     },
     {
       "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
@@ -174,17 +228,17 @@
       "published": "2026-10-17T09:00:00-04:00"
     },
     {
-      "title": "פוטושופ ו-Word בחינם: השבוע שהרעיד את חברות התוכנה (ומה אומר החוק?)",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/the-saaspocalypse-might-be-here/",
-      "summary": "בתחילת שנת 2026 התרחש מרחץ דמים בבורסות ברחבי העולם, כאשר מניות חברות התוכנה וה-SaaS, שנסחרות בבורסות ברחבי העולם, קרסו יותר מהר מגרסת בטא חדשה של Windows. כל זה קרה סביב החשש מהתופעה שזכתה לשם SaaSpocalypse, כלומר, מצב שבו פיתוחי AI זריזים יכולים להחליף אפליקציות ושירותים בתשלום חודשי או שנתי קבוע. אבל לפחות עד עכשיו נראה […] The post פוטושופ ו-Word בחינם: השבוע שהרעיד את חברות התוכנה (ומה אומר ה",
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
       "importance": 7,
       "topics": [
         "AI",
-        "SaaS",
-        "טכנולוגיה"
+        "ביוטכנולוגיה",
+        "מחקר"
       ],
-      "published": "Sat, 17 Oct 2026 07:55:16 +0000"
+      "published": "Sat, 17 Oct 2026 09:00:00 +0000"
     },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -200,41 +254,15 @@
       "published": "Sat, 17 Oct 2026 21:31:32 +0000"
     },
     {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "importance": 6,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "published": "Sat, 17 Oct 2026 18:48:08 +0000"
-    },
-    {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
-      "importance": 6,
-      "topics": [
-        "Meta",
-        "AI",
-        "זכויות יוצרים"
-      ],
-      "published": "2026-10-17T11:04:36-04:00"
-    },
-    {
       "title": "HTC Made Smart Glasses That Are Way More Private",
       "source": "Wired",
       "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
       "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
       "importance": 6,
       "topics": [
-        "משקפיים חכמים",
-        "HTC",
-        "AR"
+        "AR/VR",
+        "משקפי חכמים",
+        "פרטיות"
       ],
       "published": "Sat, 17 Oct 2026 10:30:00 +0000"
     }
