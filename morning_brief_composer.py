@@ -162,6 +162,10 @@ def _history_check_system() -> str:
 - המספר של הידיעה הקודמת שהיא אותו סיפור בדיוק (למשל "7") - רק אם אתה יכול להצביע על ידיעה ספציפית כזו."""
 
 
+def _norm_title(title: str) -> str:
+    return " ".join(re.sub(r"[^\w\s]", " ", title.lower()).split())
+
+
 async def cross_day_dedup_filter(items: list[dict], history: list[dict]) -> list[dict]:
     """Drop items whose story already appeared in a recent morning brief.
     Claude must cite the specific numbered history entry the item
@@ -171,6 +175,29 @@ async def cross_day_dedup_filter(items: list[dict], history: list[dict]) -> list
     dropped on 2026-09-27, so the brief went out with no news at all.)
     Both `items` and `history` entries need "title" and "topics"."""
     if not history or not items:
+        return items
+
+    # Exact-title repeats are dropped deterministically first: the model
+    # alone, scanning ~500 numbered lines, let identical watchlist headlines
+    # through on consecutive days (SMCI, 2026-10-15 → 10-16, since Yahoo keeps
+    # a headline in its 48h window). Also collapses the same headline arriving
+    # twice in one run.
+    seen = {_norm_title(h.get("title", "")): h for h in history}
+    fresh: list[dict] = []
+    for it in items:
+        key = _norm_title(it.get("title", ""))
+        if key and key in seen:
+            dup = seen[key]
+            print(
+                f"  [morning-brief-dedup] ⏭ Skipping '{it.get('title', '')[:55]}' "
+                f"— exact repeat of {dup.get('date', 'today')}"
+            )
+            continue
+        if key:
+            seen[key] = {"date": "today"}
+        fresh.append(it)
+    items = fresh
+    if not items:
         return items
 
     history_context = "\n".join(
