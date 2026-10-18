@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-17T07:40:34.867636+00:00",
+  "generated_at": "2026-10-18T05:44:58.986766+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s",
-      "summary": "Russian authorities say Ukraine struck a major oil refinery southeast of Moscow Thursday. The strike was in response to Russia's attacks on Ukrainian energy infrastructure.",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+      "summary": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מלחמה"
+        "סנקציות"
       ],
-      "published": "Fri, 16 Oct 2026 04:51:17 -0400"
+      "published": "Sat, 17 Oct 2026 10:25:10 -0400"
     },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -22,249 +22,221 @@
       "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "importance": 8,
       "topics": [
-        "ארצות הברית",
         "רוסיה",
+        "אוקראינה",
         "סנקציות"
       ],
-      "published": "Sat, 17 Oct 2026 06:39:40 GMT"
+      "published": "Sun, 18 Oct 2026 01:10:25 GMT"
     },
     {
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "title": "St Petersburg under attack from Ukrainian drone swarm",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+      "summary": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "טכנולוגיה"
+        "מלחמה"
       ],
-      "published": "Fri, 16 Oct 2026 16:00:30 GMT"
+      "published": "Sun, 18 Oct 2026 04:51:01 +0000"
     },
     {
-      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
+      "summary": "Kabila’s move raises new questions about the war in eastern Congo and prospects for peace.",
+      "importance": 8,
+      "topics": [
+        "קונגו",
+        "מלחמה",
+        "משבר"
+      ],
+      "published": "Sun, 18 Oct 2026 02:21:48 +0000"
+    },
+    {
+      "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+      "summary": "The vessels, each carrying about two million barrels of crude oil, used an unauthorised route, the IRGC says.",
+      "importance": 8,
+      "topics": [
+        "איראן",
+        "מפרץ הפרסי",
+        "טנקרים"
+      ],
+      "published": "Sun, 18 Oct 2026 01:54:18 +0000"
+    },
+    {
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-      "importance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "importance": 7,
       "topics": [
-        "אוקראינה",
-        "ארה\"ב",
-        "טכנולוגיה"
+        "צרפת",
+        "הפגנות",
+        "אי-סדרים"
       ],
-      "published": "Fri, 16 Oct 2026 19:33:48 GMT"
+      "published": "Sat, 17 Oct 2026 20:52:17 GMT"
     },
     {
-      "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "importance": 7,
+      "topics": [
+        "הודו",
+        "אסון",
+        "הרוגים"
+      ],
+      "published": "Sat, 17 Oct 2026 19:19:16 GMT"
+    },
+    {
+      "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
-      "summary": "US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
-      "importance": 8,
+      "url": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
+      "summary": "US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.",
+      "importance": 7,
       "topics": [
-        "ארה\"ב",
-        "רוסיה",
-        "אוקראינה"
+        "הודו",
+        "ארה״ב",
+        "דיפלומטיה"
       ],
-      "published": "Sat, 17 Oct 2026 04:58:32 +0000"
+      "published": "Sun, 18 Oct 2026 05:16:49 +0000"
     },
     {
-      "title": "Trump puts on hold new Russia sanctions he signed into law",
+      "title": "At least 19 dead in stampede at Kolkata Hindu festival",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
-      "summary": "US president's executive order comes two days before sanctions deadline and a week after diesel deal with Putin.",
-      "importance": 8,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
+      "summary": "A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.",
+      "importance": 7,
       "topics": [
-        "ארה\"ב",
-        "רוסיה",
-        "אוקראינה"
+        "הודו",
+        "אסון"
       ],
-      "published": "Sat, 17 Oct 2026 04:45:03 +0000"
+      "published": "Sun, 18 Oct 2026 04:21:46 +0000"
     },
     {
-      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
-      "summary": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The Washington Post .",
+      "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
+      "summary": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
       "importance": 7,
       "topics": [
         "ישראל",
-        "פלסטינים",
-        "גדה המערבית"
+        "שטחים",
+        "ארה\"ב"
       ],
-      "published": "Fri, 16 Oct 2026 11:57:27 -0400"
-    },
-    {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-      "importance": 7,
-      "topics": [
-        "סביבה",
-        "אקלים",
-        "ברזיל"
-      ],
-      "published": "Sat, 17 Oct 2026 02:33:09 GMT"
-    },
-    {
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "ארה\"ב",
-        "איטליה"
-      ],
-      "published": "Fri, 16 Oct 2026 23:54:35 GMT"
-    },
-    {
-      "title": "Ukraine and Europe have little choice but to work with Trump",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss",
-      "summary": "Despite growing tensions over Russia, Kyiv and European leaders remain dependent on US support.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "ארה\"ב",
-        "אירופה"
-      ],
-      "published": "Sat, 17 Oct 2026 06:36:03 +0000"
+      "published": "Sun, 18 Oct 2026 03:44:25 +0000"
     }
   ],
-  "business": [
-    {
-      "title": "MSCI Ignites Indonesia Market Reckoning After Months of Warnings",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-16/msci-ignites-indonesia-market-reckoning-after-months-of-warnings",
-      "summary": "סל המדינות של MSCI - זה אחד הדברים שרוב האנשים לא שמים לב אליהם, אבל הוא משנה כסף גדול מאוד.\n\nMSCI שוקלת להוריד את אינדונזיה מרשימת השווקים המתפתחים - אחרי חודשים של אזהרות על בעיות מבניות למשקיעים מוסדיים. אם זה יקרה, קרנות מחקות ברחבי העולם יהיו חייבות למכור אחזקות אינדונזיות אוטומטית - לא מתוך שיקול דעת, אלא כי הכללים מחייבים. ההשפעה העקיפה: שווקים מתעוררים אחרים שיש להם בעיות דומות - ניזורן, בנגלדש, ויאטנם - צפויים לקבל תשומת לב מוגברת ממשקיעים שמתחילים לשאול מי הבא.",
-      "importance": 9,
-      "topics": [
-        "אינדקסים",
-        "אינדונזיה",
-        "זרימת הון"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "עסקת ענק: Varonis הישראלית נמכרת ב-6.3 מיליארד דולר",
-      "source": "גיקטיים",
-      "url": "",
-      "summary": "Proofpoint רוכשת את Varonis הישראלית ב-6.3 מיליארד דולר במזומן - אחת העסקאות הגדולות בתעשיית הסייבר הישראלית בשנים האחרונות.\n\nVaronis בנתה טכנולוגיה שממפה ומסווגת את המידע של ארגונים - בדיוק מה שנדרש כשכולם עוברים לענן ומנסים להבין מי ניגש למה. Proofpoint, שמתמקדת באבטחת אימייל ומניעת דליפות, מקבלת עכשיו יכולות שלמות של הגנה על נתונים.\n\nמעניין לשים לב מי תלוי בתוצאה: חברות ישראליות אחרות בתחום אבטחת הנתונים ייהנו מהעסקה הזו - היא מדרגת את כל הסגמנט.",
-      "importance": 9,
-      "topics": [
-        "סייבר",
-        "M&A",
-        "שוק היוון"
-      ],
-      "tag": "ישראל"
-    }
-  ],
+  "business": [],
   "tech": [
     {
-      "title": "All the news about the iPhone Duo",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and […]",
-      "importance": 9,
+      "title": "Encryption Is Getting Squeezed From All Sides",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+      "summary": "Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
+      "importance": 8,
       "topics": [
-        "Apple",
-        "מוצרים חדשים",
-        "חומרה"
+        "הצפנה",
+        "רגולציה",
+        "פרטיות"
       ],
-      "published": "2026-10-16T19:36:26-04:00"
+      "published": "Sat, 17 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-      "importance": 9,
+      "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+      "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business […]",
+      "importance": 7,
       "topics": [
+        "SpaceX",
+        "Starlink",
+        "טלקום"
+      ],
+      "published": "2026-10-17T10:00:00-04:00"
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+      "importance": 7,
+      "topics": [
+        "AI agents",
         "OpenAI",
-        "אבטחה",
-        "AI"
+        "Meta"
       ],
-      "published": "Fri, 16 Oct 2026 20:59:01 +0000"
+      "published": "2026-10-17T09:00:00-04:00"
     },
     {
-      "title": "Why Apple is finally making its own smart home devices",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]",
-      "importance": 8,
-      "topics": [
-        "Apple",
-        "IoT",
-        "מחשוב ביתי"
-      ],
-      "published": "2026-10-16T14:30:27-04:00"
-    },
-    {
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
-      "importance": 8,
-      "topics": [
-        "Nvidia",
-        "שבבים",
-        "מעבדים"
-      ],
-      "published": "2026-10-16T11:00:00-04:00"
-    },
-    {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "title": "פוטושופ ו-Word בחינם: השבוע שהרעיד את חברות התוכנה (ומה אומר החוק?)",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/the-saaspocalypse-might-be-here/",
+      "summary": "בתחילת שנת 2026 התרחש מרחץ דמים בבורסות ברחבי העולם, כאשר מניות חברות התוכנה וה-SaaS, שנסחרות בבורסות ברחבי העולם, קרסו יותר מהר מגרסת בטא חדשה של Windows. כל זה קרה סביב החשש מהתופעה שזכתה לשם SaaSpocalypse, כלומר, מצב שבו פיתוחי AI זריזים יכולים להחליף אפליקציות ושירותים בתשלום חודשי או שנתי קבוע. אבל לפחות עד עכשיו נראה […] The post פוטושופ ו-Word בחינם: השבוע שהרעיד את חברות התוכנה (ומה אומר ה",
       "importance": 7,
       "topics": [
         "AI",
-        "אבטחה",
-        "סייבר"
+        "SaaS",
+        "טכנולוגיה"
       ],
-      "published": "Fri, 16 Oct 2026 17:52:24 +0000"
+      "published": "Sat, 17 Oct 2026 07:55:16 +0000"
     },
     {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "title": "Meta removes language that raised scraping and AI training concerns",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "importance": 7,
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "importance": 6,
       "topics": [
-        "AI",
-        "ראיית מחשב",
-        "Elorian"
-      ],
-      "published": "Fri, 16 Oct 2026 16:01:37 +0000"
-    },
-    {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Replit",
-        "אוטומציה"
-      ],
-      "published": "Fri, 16 Oct 2026 12:55:09 +0000"
-    },
-    {
-      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]",
-      "importance": 7,
-      "topics": [
-        "Apple",
+        "Meta",
         "AI",
         "רגולציה"
       ],
-      "published": "2026-10-16T18:51:22-04:00"
+      "published": "Sat, 17 Oct 2026 21:31:32 +0000"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "importance": 6,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "published": "Sat, 17 Oct 2026 18:48:08 +0000"
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
+      "importance": 6,
+      "topics": [
+        "Meta",
+        "AI",
+        "זכויות יוצרים"
+      ],
+      "published": "2026-10-17T11:04:36-04:00"
+    },
+    {
+      "title": "HTC Made Smart Glasses That Are Way More Private",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+      "importance": 6,
+      "topics": [
+        "משקפיים חכמים",
+        "HTC",
+        "AR"
+      ],
+      "published": "Sat, 17 Oct 2026 10:30:00 +0000"
     }
   ]
 }
