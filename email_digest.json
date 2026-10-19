@@ -1,19 +1,45 @@
 {
-  "generated_at": "2026-10-19T05:45:02.802195+00:00",
+  "generated_at": "2026-10-19T08:42:21.479038+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
-      "summary": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
       "importance": 8,
       "topics": [
-        "אוקראינה",
-        "ארה\"ב",
-        "דיפלומטיה"
+        "ארה״ב",
+        "רוסיה",
+        "סנקציות"
       ],
-      "published": "Mon, 19 Oct 2026 03:10:05 +0000"
+      "published": "Sun, 18 Oct 2026 23:20:15 GMT"
+    },
+    {
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "importance": 8,
+      "topics": [
+        "רוסיה",
+        "אוקראינה",
+        "ביטחון"
+      ],
+      "published": "Sun, 18 Oct 2026 15:46:10 GMT"
+    },
+    {
+      "title": "France protests live: Macron admits ‘failures’ after days of violent unrest",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss",
+      "summary": "Macron acknowledges 'failures in anticipation and intelligence', rules out interior minister's resignation over riots.",
+      "importance": 8,
+      "topics": [
+        "צרפת",
+        "פוליטיקה",
+        "ביטחון"
+      ],
+      "published": "Mon, 19 Oct 2026 07:49:17 +0000"
     },
     {
       "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
@@ -29,32 +55,6 @@
       "published": "Sun, 18 Oct 2026 17:00:08 -0400"
     },
     {
-      "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
-      "summary": "Canadian Prime Minister Mark Carney described the incident as one of the worst peacetime tragedies for Canada's military on domestic soil.",
-      "importance": 7,
-      "topics": [
-        "קנדה",
-        "אסון",
-        "צבא"
-      ],
-      "published": "Sun, 18 Oct 2026 03:56:08 -0400"
-    },
-    {
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "importance": 7,
-      "topics": [
-        "ארה״ב",
-        "רוסיה",
-        "סנקציות"
-      ],
-      "published": "Sun, 18 Oct 2026 23:20:15 GMT"
-    },
-    {
       "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
@@ -62,75 +62,75 @@
       "importance": 7,
       "topics": [
         "אוקראינה",
-        "EU",
-        "כלכלה"
+        "כלכלה",
+        "סחר"
       ],
       "published": "Sun, 18 Oct 2026 23:28:45 GMT"
     },
     {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "title": "France’s Macron declines minister’s resignation after violent protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss",
+      "summary": "Interior Minister Laurent Nunez acknowledges that police 'lost control' during weekend protests.",
       "importance": 7,
       "topics": [
-        "רוסיה",
-        "אוקראינה",
-        "מלחמה"
+        "צרפת",
+        "פוליטיקה",
+        "ביטחון"
       ],
-      "published": "Sun, 18 Oct 2026 15:46:10 GMT"
+      "published": "Mon, 19 Oct 2026 08:25:27 +0000"
     },
     {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "title": "The kingmakers who could determine Israel’s election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss",
+      "summary": "Israel’s Arab-led and ultra-Orthodox parties face attacks but could hold the balance of power after October 27 vote.",
       "importance": 7,
       "topics": [
         "ישראל",
-        "פלסטינים",
-        "מתח בינלאומי"
+        "בחירות",
+        "פוליטיקה"
       ],
-      "published": "Sun, 18 Oct 2026 12:16:14 GMT"
+      "published": "Mon, 19 Oct 2026 05:58:46 +0000"
     },
     {
-      "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-      "summary": "The air strike, one of Ukraine's largest in the war, comes amid rising tensions between Kyiv and Washington.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
-      ],
-      "published": "Mon, 19 Oct 2026 02:10:09 +0000"
-    },
-    {
-      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
-      "summary": "Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
-      "importance": 7,
-      "topics": [
-        "איראן",
-        "ישראל",
-        "יריבות"
-      ],
-      "published": "Sun, 18 Oct 2026 23:59:34 +0000"
-    },
-    {
-      "title": "שינוי הכיוון של טראמפ – והחשש מעתיד היחסים עם ארה\"ב",
+      "title": "עוד ליל מהומות ו-350 עצורים בפריז, מקרון מודה בכשלים: \"טובים מול הטרור, לא מול השמאל הקיצוני\"",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/elections2026/article/hkdoxkf3ge",
-      "summary": "רק לפני כמה ימים נשאל הנשיא על רה\"מ והשיב שהוא \"לא סומך על אף אחד\" - אבל אתמול כבר הביע בו תמיכה. הדמוקרטים בארה\"ב תקפו: \"טראמפ לא אמור להביע דעה על בחירות דמוקרטיות במדינה אחרת\". בינתיים חוששים בישראל מבחירות האמצע בארה\"ב, ומגל של סנקציות אירופאיות: \"גרמניה עשויה להסיר את הווטו\"",
+      "url": "https://www.ynet.co.il/news/article/hkvc8nmnfe",
+      "summary": "בצרפת נמשכו הלילה מעשי הביזה והעימותים בין כוחות הביטחון לפורעים, שר הפנים נונז הודה: \"שלחנו 60 אלף שוטרים לרחובות אבל לא הייתה סימטרייה מול המתפרעים, איבדנו שליטה\". הוא ביקש להתפטר, הנשיא הודה ב\"כשל מודיעיני\" לקראת ההפגנות אך סירב. שר המשפטים סימן נקודת תורפה: \"שירותי הביטחון שלנו טובים מול טרור ופשיעה, לא מול השמאל הקיצוני\". במפלגת לה פן תקפו את מקרון על נאומו לאומה: \"נאום עלוב, ממשלה פחדנית שכב",
       "importance": 7,
       "topics": [
-        "ארה״ב",
-        "ישראל",
-        "דיפלומטיה"
+        "צרפת",
+        "אלימות",
+        "משימות ביטחוניות"
       ],
-      "published": "Mon, 19 Oct 2026 00:42:06 +0300"
+      "published": "Mon, 19 Oct 2026 10:02:43 +0300"
+    },
+    {
+      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+      "summary": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
+      "importance": 6,
+      "topics": [
+        "ישראל",
+        "ארה״ב",
+        "פוליטיקה"
+      ],
+      "published": "Mon, 19 Oct 2026 01:35:39 -0400"
+    },
+    {
+      "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+      "summary": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
+      "importance": 6,
+      "topics": [
+        "אוקראינה",
+        "ארה״ב",
+        "מלחמה"
+      ],
+      "published": "Sun, 18 Oct 2026 14:38:49 -0400"
     }
   ],
   "business": [
@@ -148,28 +148,15 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "הבעיה: הכתבה מתייחסת לקווין וורש כיו\"ר הפד - אבל נכון להיום (2025), יו\"ר הפד הוא עדיין ג'רום פאוול. וורש הוא מועמד שמוניין לתפקיד אך טרם אושר. הכתבה עשויה להיות ספקולטיבית, עתידנית, או שגויה - ואני לא יכול לנסח הודעה שמציגה אותו כיו\"ר בפועל כעובדה.",
-      "importance": 8,
+      "title": "Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
+      "summary": "מחיר הנפט ירד היום אחרי שטראמפ הפעיל סעיף חוקי נדיר שמאפשר לו לעקוף מכסים על סחורות רוסיות - כולל נפט. המשמעות: קונים גדולים של נפט רוסי, שנמנעו מרכישות בגלל הסנקציות, יכולים עכשיו לחזור לשוק. יותר היצע פוטנציאלי - לחץ כלפי מטה על המחיר.\n\nמי שכדאי לשים אליו לב מעבר לנפט עצמו: חברות אנרגיה אירופאיות שהסתגלו לעולם ללא נפט רוסי, ויצרני נפט מארה\"ב שנהנו מהביקוש המוגבר - הם ירגישו את זה.",
+      "importance": 9,
       "topics": [
-        "פד",
-        "ריבית",
-        "מדיניות מוניטרית"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "ביקור רוביו במפעל Reliance של אמבאני בהודו הוא לא סתם דיפלומטיה - זה סימן לאיפה נמצאת הכוח בשרשרת הדלק הגלובלית כרגע.\n\nמחירי הדיזל בארה\"ב עולים, והממשל האמריקאי פונה לבית הזיקוק הגדול בעולם בג'מנגר כדי להבין מה אפשר לעשות. Reliance קונה נפט ונצואלי, מזקקת אותו ומוכרת דיזל לשוק האמריקאי - ובדיוק בגלל זה היא רלוונטית.\n\nמי שכדאי לשים לב אליו: חברות שיפור ולוגיסטיקת דלק בארה\"ב, שעשויות להרוויח מהסדרי יבוא חדשים.",
-      "importance": 8,
-      "topics": [
-        "דלק",
         "אנרגיה",
-        "יחסים גיאופוליטיים"
+        "סנקציות",
+        "סחר בינלאומי"
       ],
       "tag": "גלובלי"
     },
@@ -251,6 +238,19 @@
       "tag": "גלובלי"
     },
     {
+      "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "מחיר הנחושת עלה בחדות מאז שטראמפ חזר לבית הלבן - כולם ציפו לתעריפים על המתכת, וזה גרם לשינוי מסיבי בזרימת המלאים הגלובליים. אבל טראמפ מתקרב לחצי הכהונה ועדיין לא הכריז על כלום, והמשקיעים מתחילים להתעצבן. אם התעריפים לא יגיעו - יש כאן בועה שמחכה להתפוצץ. מי שכדאי לעקוב אחריו: חברות בנייה, יצרני כבלים וחברות אנרגיה מתחדשת - כולן חשופות מאוד למחיר הנחושת.",
+      "importance": 8,
+      "topics": [
+        "תעריפים",
+        "סחורות",
+        "נחושת"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
       "title": "China Rail Logs Record 3.71 Billion Trips in First Nine Months",
       "source": "Bloomberg Markets",
       "url": "",
@@ -273,7 +273,7 @@
       "importance": 7,
       "topics": [
         "AI",
-        "רכישות",
+        "מיזוג ורכישה",
         "Character.AI"
       ],
       "published": "Sun, 18 Oct 2026 16:30:00 +0000"
@@ -286,36 +286,10 @@
       "importance": 7,
       "topics": [
         "רגולציה",
-        "משחקי וידאו",
-        "בעלות דיגיטלית"
+        "משחקי וידיאו",
+        "קניין דיגיטלי"
       ],
       "published": "2026-10-18T12:27:51-04:00"
-    },
-    {
-      "title": "גוגל חושפת \"עגלת קניות אוניברסלית\" שתחסוך לכם כסף ו-30 טאבים פתוחים",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/google-universal-cart-launch/",
-      "summary": "אם אתם עדיין רוכשים מוצרים ברשת כמו איכרים, ולא שולחים את Instinct, מיוז או כל סוכן אחר לעשות את זה במקומכם, אתם בטח פותחים אינספור טאבים עם חנויות שונות, משווים מחירים ואז שוכחים איפה ראיתם את המחיר הכי טוב – רק כדי להתעצבן וללחוץ Buy Now וזהו. אז גוגל רוצה לפתור לכם את הבעיה הזאת, […] The post גוגל חושפת \"עגלת קניות אוניברסלית\" שתחסוך לכם כסף ו-30 טאבים פתוחים appeared first on גיקטיים .",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "גוגל",
-        "סוכנים ממוכנים"
-      ],
-      "published": "Sun, 18 Oct 2026 15:52:47 +0000"
-    },
-    {
-      "title": "\"אמא ואבא שוב משחקים יפה ביחד\": מטא ואפל משתפות פעולה בהשקת מודל AI פתוח חדש",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/apple-meta-muse-spark-open-mac-collaboration/",
-      "summary": "היריבות בין אפל למטא יצרה כמה מהסכסוכים העסקיים המתוקשרים של השנים האחרונות, כולל מהלך פרטיות אחד שעלה למארק צוקרברג עשרה מיליארד דולר. אבל מתברר שכשהקרב על עולם ה-AI עולה שלב – אפילו יריבות מושבעות מוכנות לשים את משקעי העבר בצד ולשתף פעולה כדי להריץ מודל AI חדש מעניין במיוחד. מפלצת של מודל למפלצת של מחשב […] The post \"אמא ואבא שוב משחקים יפה ביחד\": מטא ואפל משתפות פעולה בהשקת מודל AI פתוח חדש app",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "מטא",
-        "אפל"
-      ],
-      "published": "Sun, 18 Oct 2026 07:25:29 +0000"
     },
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -326,22 +300,9 @@
       "topics": [
         "AI",
         "Anthropic",
-        "קורפוראטיביות"
+        "גברנאנס"
       ],
       "published": "Sun, 18 Oct 2026 20:37:40 +0000"
-    },
-    {
-      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
-      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he […]",
-      "importance": 6,
-      "topics": [
-        "אבטחה",
-        "פרטיות",
-        "ממשל"
-      ],
-      "published": "2026-10-18T18:20:53-04:00"
     },
     {
       "title": "Cities want to put the boot on robotaxis",
@@ -350,11 +311,24 @@
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]",
       "importance": 6,
       "topics": [
-        "רובוטיקה",
-        "רכבים אוטונומיים",
-        "רגולציה"
+        "רובוטקסי",
+        "רגולציה",
+        "כלים אוטונומיים"
       ],
       "published": "2026-10-18T08:00:00-04:00"
+    },
+    {
+      "title": "שנה לאחר ההקמה ובלי משקיעים: ישראלי בן 25 מוכר את הסטארטאפ במיליוני דולרים",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/ventris-acquired-by-hex-rays-ai-cybersecurity/",
+      "summary": "רבות מדובר בשנים האחרונות על ניצול מודלי AI בתחום הסייבר – הן ההגנתי והן ההתקפי. חברת הסטארטאפ הישראלית HexAI (לשעבר Ventris), שהוקמה לפני פחות משנה, פיתחה מערכת הפעלה ייעודית לסוכני AI שמותאמת במיוחד לתחום מחקר האבטחה, ומאפשרת לחוקרים להגדיר ולהריץ תהליכי מחקר אוטומטיים ומותאמים אישית. היום (א') מודיעה החברה על מכירתה לחברת אבטחה בלגית. סריקה […] The post שנה לאחר ההקמה ובלי משקיעים: ישראלי בן 25",
+      "importance": 6,
+      "topics": [
+        "AI",
+        "Cybersecurity",
+        "סטארטאפ"
+      ],
+      "published": "Sun, 18 Oct 2026 09:36:10 +0000"
     }
   ]
 }
