@@ -1,45 +1,84 @@
 {
-  "generated_at": "2026-10-18T07:56:03.261743+00:00",
+  "generated_at": "2026-10-19T05:45:02.802195+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-      "summary": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
+      "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
+      "summary": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
       "importance": 8,
       "topics": [
         "אוקראינה",
-        "ארה״ב",
-        "רוסיה"
-      ],
-      "published": "Sat, 17 Oct 2026 10:25:10 -0400"
-    },
-    {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "importance": 8,
-      "topics": [
-        "ארצות הברית",
-        "רוסיה",
+        "ארה\"ב",
         "דיפלומטיה"
       ],
-      "published": "Sun, 18 Oct 2026 01:10:25 GMT"
+      "published": "Mon, 19 Oct 2026 03:10:05 +0000"
     },
     {
-      "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
+      "summary": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
       "importance": 7,
       "topics": [
-        "צרפת",
-        "הפגנות",
-        "אלימות"
+        "עזה",
+        "משבר הומניטרי",
+        "ישראל"
       ],
-      "published": "Sun, 18 Oct 2026 05:56:20 GMT"
+      "published": "Sun, 18 Oct 2026 17:00:08 -0400"
+    },
+    {
+      "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+      "summary": "Canadian Prime Minister Mark Carney described the incident as one of the worst peacetime tragedies for Canada's military on domestic soil.",
+      "importance": 7,
+      "topics": [
+        "קנדה",
+        "אסון",
+        "צבא"
+      ],
+      "published": "Sun, 18 Oct 2026 03:56:08 -0400"
+    },
+    {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "importance": 7,
+      "topics": [
+        "ארה״ב",
+        "רוסיה",
+        "סנקציות"
+      ],
+      "published": "Sun, 18 Oct 2026 23:20:15 GMT"
+    },
+    {
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "EU",
+        "כלכלה"
+      ],
+      "published": "Sun, 18 Oct 2026 23:28:45 GMT"
+    },
+    {
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "importance": 7,
+      "topics": [
+        "רוסיה",
+        "אוקראינה",
+        "מלחמה"
+      ],
+      "published": "Sun, 18 Oct 2026 15:46:10 GMT"
     },
     {
       "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -49,91 +88,65 @@
       "importance": 7,
       "topics": [
         "ישראל",
-        "יו״ש",
-        "דיפלומטיה"
+        "פלסטינים",
+        "מתח בינלאומי"
       ],
-      "published": "Sat, 17 Oct 2026 23:52:38 GMT"
+      "published": "Sun, 18 Oct 2026 12:16:14 GMT"
     },
     {
-      "title": "At least 17 dead in crush at Hindu festival event in India",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-      "importance": 7,
-      "topics": [
-        "הודו",
-        "אסון",
-        "כתיפה"
-      ],
-      "published": "Sat, 17 Oct 2026 19:19:16 GMT"
-    },
-    {
-      "title": "Why Iran-US negotiations keep failing",
+      "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
-      "summary": "Relations between the two countries are dominated by policy complexes shaped by a history of hostility.",
-      "importance": 7,
-      "topics": [
-        "איראן",
-        "ארצות הברית",
-        "דיפלומטיה"
-      ],
-      "published": "Sun, 18 Oct 2026 07:32:59 +0000"
-    },
-    {
-      "title": "Israel’s ties with Europe are fraying. Can its election change that?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
-      "summary": "European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "אירופה",
-        "דיפלומטיה"
-      ],
-      "published": "Sun, 18 Oct 2026 07:05:00 +0000"
-    },
-    {
-      "title": "St Petersburg under attack from Ukrainian drone swarm",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
-      "summary": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+      "summary": "The air strike, one of Ukraine's largest in the war, comes amid rising tensions between Kyiv and Washington.",
       "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
         "מלחמה"
       ],
-      "published": "Sun, 18 Oct 2026 04:51:01 +0000"
+      "published": "Mon, 19 Oct 2026 02:10:09 +0000"
     },
     {
-      "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
-      "summary": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+      "summary": "Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
       "importance": 7,
       "topics": [
+        "איראן",
         "ישראל",
-        "ארצות הברית",
-        "פלסטינה"
+        "יריבות"
       ],
-      "published": "Sun, 18 Oct 2026 03:44:25 +0000"
+      "published": "Sun, 18 Oct 2026 23:59:34 +0000"
     },
     {
-      "title": "אסון בבסיס בקנדה: לפחות 7 נהרגו ועשרות נפצעו בפיצוץ בתרגיל באש חיה",
+      "title": "שינוי הכיוון של טראמפ – והחשש מעתיד היחסים עם ארה\"ב",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bjry5cbhfl",
-      "summary": "נפגעים רבים בפיצוץ בבסיס וויינרייט שבאלברטה, שלפי דיווחים אירע במהלך תרגיל שבו נפגע צינור או מאגר גז. שריפה גדולה התפשטה מעבר לגדר הבסיס, בחסות רוחות של 100 קמ\"ש: \"זה אסון, לא זכור דבר כזה בהיסטוריה המודרנית שלנו\"",
+      "url": "https://www.ynet.co.il/news/elections2026/article/hkdoxkf3ge",
+      "summary": "רק לפני כמה ימים נשאל הנשיא על רה\"מ והשיב שהוא \"לא סומך על אף אחד\" - אבל אתמול כבר הביע בו תמיכה. הדמוקרטים בארה\"ב תקפו: \"טראמפ לא אמור להביע דעה על בחירות דמוקרטיות במדינה אחרת\". בינתיים חוששים בישראל מבחירות האמצע בארה\"ב, ומגל של סנקציות אירופאיות: \"גרמניה עשויה להסיר את הווטו\"",
       "importance": 7,
       "topics": [
-        "קנדה",
-        "אסון",
-        "צבא"
+        "ארה״ב",
+        "ישראל",
+        "דיפלומטיה"
       ],
-      "published": "Sun, 18 Oct 2026 09:06:34 +0300"
+      "published": "Mon, 19 Oct 2026 00:42:06 +0300"
     }
   ],
   "business": [
+    {
+      "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
+      "summary": "ג'ק קלארק מ-Anthropic אמר לקובעי מדיניות בוושינגטון שה-AI משתפר בקצב שלא ראינו כמוהו, ועשוי להגדיל את התוצר האמריקאי בצורה משמעותית - שיפור שבדרך כלל לוקח עשורים.\n\nמה שמעניין כאן: Anthropic לא מדברים על רובוטים שיחליפו עובדים - הם מדברים על כלכלה שלמה שמשנה הילוך. אם זה קורה, זה לא רק חדשות לחברות AI - זה ישפיע על ריביות, על התקציב הפדרלי, ועל כמעט כל תחום שאתם חושבים עליו.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "צמיחה כלכלית",
+        "טכנולוגיה"
+      ],
+      "tag": "גלובלי"
+    },
     {
       "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
       "source": "MarketWatch",
@@ -159,112 +172,189 @@
         "יחסים גיאופוליטיים"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Why hedge funds could be making a bond market shock more likely",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "סגן נגיד בנק אנגליה נשמע אזהרה רצינית: קרנות הגידור, דרך מינוף גבוה ועסקאות ארביטראז' מורכבות בשוק האג\"ח, עלולות להגביר את הסיכון להלם פיננסי גלובלי.\n\nהנקודה המעניינת היא ההשפעה העקיפה - כשקרנות גידור נאלצות לסגור פוזיציות במהירות, הן מוכרות אג\"ח בכמויות גדולות, מה שמזנק תשואות ומכביד על כל מי שלווה כסף: ממשלות, חברות, ומשכנתאות. הרגולטורים כבר מתחילים לדבר על צעדים - וזה לבדו עשוי לשנות את כללי המשחק לקרנות האלה.",
+      "importance": 8,
+      "topics": [
+        "קרנות גידור",
+        "שוק אג״ח",
+        "סיכון מערכתי"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Court decision sends shudders through Israel's banking system",
+      "source": "גלובס שוק ההון",
+      "url": "",
+      "summary": "בית המשפט המחוזי בלוד אישר תביעה ייצוגית נגד ארבעת הבנקים הגדולים בישראל - בגלל שלא שילמו ריבית על חשבונות עו\"ש. זה לא עניין של בנק אחד שטעה: מדובר בשיטת עבודה שנהגה בכל המערכת במשך שנים, והחשיפה הכספית עלולה להיות עצומה.\n\nמה שמעניין פה הוא ההשפעה מעבר לבנקים עצמם - אם התביעה תצליח, זה ישנה את האופן שבו בנקים בישראל מתמחרים חשבונות ריבית מהיום והלאה, ועשוי ללחוץ עליהם להציע תנאים טובים יותר באופן יזום.",
+      "importance": 8,
+      "topics": [
+        "בנקים",
+        "תביעה ייצוגית"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-ai-stock-market-wobble-is-a-reminder-this-time-isnt-different-d3ea7f07?mod=rss_markets_main",
+      "summary": "השוק כבר ראה את זה קודם. WSJ מפרסם היום ניתוח שמשווה את גל ההשקעות ב-AI לפרויקטים גדולים מההיסטוריה - רכבות, האינטרנט - וטוען שהדפוס מוכר: הון עצום נשפך לפני שברור מי ירוויח ממנו. זה לא אומר ש-AI לא יהיה מהפכני. זה אומר שהיו כאן כבר חברות שבנו את התשתית ולא הרוויחו ממנה, בזמן שאחרות - שהגיעו אחריהן - קצרו את הפירות. שווה לחשוב מי בתמונה הזו הוא הרכבת, ומי הוא הסוחר שמכר לה פסי ברזל.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "השקעות בהון",
+        "שוק מניות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "שר האוצר של דרום קוריאה אומר שהביקוש לשבבים יישאר חזק לפחות עד 2027 - גם על רקע הירידות האחרונות בשוק. הנימוק: ההיצע עדיין הדוק, והצמיחה לא נגמרת.\n\nזה חשוב לא רק ל-NVIDIA או ל-TSMC. מי שיושפע בשקט הוא כל מי שתלוי בשבבים - מכוניות חשמליות, ציוד רפואי, מפעלי ייצור. כשהיצע שבבים נשאר מתוח, העלויות מתגלגלות לשרשרת הספקים כולה.",
+      "importance": 8,
+      "topics": [
+        "חצי מוליכים",
+        "אספקה גלובלית",
+        "דרום קוריאה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "עסקת הדיזל שטראמפ מציע לרוסיה אולי לא שווה לפוטין הרבה כסף - אבל זה לא הנקודה האמיתית.\n\nהערך האמיתי הוא לגיטימציה: ארה\"ב חוזרת לסחור עם רוסיה, גם אם בהיקף מוגבל, ומשדרת לשאר העולם שהסנקציות כבר לא קו אדום. זה בדיוק מה שמדינות כמו הודו, טורקיה ואיחוד האמירויות ממתינות לשמוע - רשות לחזור לעסקים עם מוסקבה בלי מחיר דיפלומטי.\n\nבשביל אוקראינה זה הדבר הכי מדאיג: לא הכסף לרוסיה, אלא האות שהתמיכה האמריקנית אינה מוחלטת.",
+      "importance": 8,
+      "topics": [
+        "סנקציות",
+        "אנרגיה",
+        "גיאופוליטיקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Can America Rebuild Trust With Its Allies?",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "שתי מהנשים שהכי הבינו גלובליזציה בעשור האחרון - ג'נט ילן ושר האוצר הקנדי לשעבר כריסטיה פרילנד - מסכימות על דבר אחד: העולם בנה מערכת סחר שהפכה לנשק בידי מדינות שרצו להשתמש בה.\n\nזה לא רק על סין. כשתלות כלכלית הופכת לכלי לחץ פוליטי, כל שרשרת אספקה גלובלית הופכת לנקודת תורפה. מי שישלם את המחיר הוא לא רק הממשלות - אלא חברות שייאלצו לשנות את כל מודל הייצור שלהן.",
+      "importance": 8,
+      "topics": [
+        "גלובליזציה",
+        "שרשרות אספקה",
+        "סחר"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "China Rail Logs Record 3.71 Billion Trips in First Nine Months",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "רשת הרכבות הסינית שברה שיא - 3.71 מיליארד נסיעות בתשעת החודשים הראשונים של השנה, עלייה של 4.8% לעומת אשתקד. זה לא רק נתון תחבורתי - זה מדד לדופק הצריכה הפנימית בסין. כשאנשים נוסעים יותר, זה אומר שיש כסף, עסקים פעילים ותיירות פנים. מעניין לראות איך זה ישפיע על חברות הנהנות מצמיחה סינית - מאנרגיה ועד צריכה.",
+      "importance": 7,
+      "topics": [
+        "סין",
+        "צריכה",
+        "תשתיות"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "רכישות",
+        "Character.AI"
+      ],
+      "published": "Sun, 18 Oct 2026 16:30:00 +0000"
+    },
+    {
+      "title": "Video game ownership bill introduced in Congress",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+      "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It's increasingly common for […]",
+      "importance": 7,
+      "topics": [
+        "רגולציה",
+        "משחקי וידאו",
+        "בעלות דיגיטלית"
+      ],
+      "published": "2026-10-18T12:27:51-04:00"
+    },
+    {
+      "title": "גוגל חושפת \"עגלת קניות אוניברסלית\" שתחסוך לכם כסף ו-30 טאבים פתוחים",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/google-universal-cart-launch/",
+      "summary": "אם אתם עדיין רוכשים מוצרים ברשת כמו איכרים, ולא שולחים את Instinct, מיוז או כל סוכן אחר לעשות את זה במקומכם, אתם בטח פותחים אינספור טאבים עם חנויות שונות, משווים מחירים ואז שוכחים איפה ראיתם את המחיר הכי טוב – רק כדי להתעצבן וללחוץ Buy Now וזהו. אז גוגל רוצה לפתור לכם את הבעיה הזאת, […] The post גוגל חושפת \"עגלת קניות אוניברסלית\" שתחסוך לכם כסף ו-30 טאבים פתוחים appeared first on גיקטיים .",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "גוגל",
+        "סוכנים ממוכנים"
+      ],
+      "published": "Sun, 18 Oct 2026 15:52:47 +0000"
+    },
     {
       "title": "\"אמא ואבא שוב משחקים יפה ביחד\": מטא ואפל משתפות פעולה בהשקת מודל AI פתוח חדש",
       "source": "גיקטיים",
       "url": "https://www.geektime.co.il/apple-meta-muse-spark-open-mac-collaboration/",
       "summary": "היריבות בין אפל למטא יצרה כמה מהסכסוכים העסקיים המתוקשרים של השנים האחרונות, כולל מהלך פרטיות אחד שעלה למארק צוקרברג עשרה מיליארד דולר. אבל מתברר שכשהקרב על עולם ה-AI עולה שלב – אפילו יריבות מושבעות מוכנות לשים את משקעי העבר בצד ולשתף פעולה כדי להריץ מודל AI חדש מעניין במיוחד. מפלצת של מודל למפלצת של מחשב […] The post \"אמא ואבא שוב משחקים יפה ביחד\": מטא ואפל משתפות פעולה בהשקת מודל AI פתוח חדש app",
-      "importance": 9,
+      "importance": 7,
       "topics": [
         "AI",
-        "Meta",
-        "Apple"
+        "מטא",
+        "אפל"
       ],
       "published": "Sun, 18 Oct 2026 07:25:29 +0000"
     },
     {
-      "title": "Encryption Is Getting Squeezed From All Sides",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
-      "summary": "Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
-      "importance": 8,
-      "topics": [
-        "הצפנה",
-        "רגולציה",
-        "אבטחת ידע"
-      ],
-      "published": "Sat, 17 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
-      "importance": 7,
-      "topics": [
-        "Meta",
-        "AI",
-        "רגולציה"
-      ],
-      "published": "2026-10-17T11:04:36-04:00"
-    },
-    {
-      "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-      "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business […]",
-      "importance": 7,
-      "topics": [
-        "SpaceX",
-        "Starlink",
-        "טלקום"
-      ],
-      "published": "2026-10-17T10:00:00-04:00"
-    },
-    {
-      "title": "Websites are closing their doors to AI agents",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
-      "importance": 7,
-      "topics": [
-        "AI agents",
-        "OpenAI",
-        "Meta"
-      ],
-      "published": "2026-10-17T09:00:00-04:00"
-    },
-    {
-      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "ביוטכנולוגיה",
-        "מחקר"
-      ],
-      "published": "Sat, 17 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Meta removes language that raised scraping and AI training concerns",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
       "importance": 6,
       "topics": [
-        "Meta",
         "AI",
-        "רגולציה"
+        "Anthropic",
+        "קורפוראטיביות"
       ],
-      "published": "Sat, 17 Oct 2026 21:31:32 +0000"
+      "published": "Sun, 18 Oct 2026 20:37:40 +0000"
     },
     {
-      "title": "HTC Made Smart Glasses That Are Way More Private",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
-      "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he […]",
       "importance": 6,
       "topics": [
-        "AR/VR",
-        "משקפי חכמים",
-        "פרטיות"
+        "אבטחה",
+        "פרטיות",
+        "ממשל"
       ],
-      "published": "Sat, 17 Oct 2026 10:30:00 +0000"
+      "published": "2026-10-18T18:20:53-04:00"
+    },
+    {
+      "title": "Cities want to put the boot on robotaxis",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]",
+      "importance": 6,
+      "topics": [
+        "רובוטיקה",
+        "רכבים אוטונומיים",
+        "רגולציה"
+      ],
+      "published": "2026-10-18T08:00:00-04:00"
     }
   ]
 }

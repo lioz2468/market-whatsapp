@@ -1,1021 +1,5 @@
 [
   {
-    "date": "2026-10-14",
-    "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
-    "topics": [
-      "אוקראינה",
-      "דיפלומטיה",
-      "ארה\"ב"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-    "topics": [
-      "אוקראינה",
-      "רוסיה",
-      "סכסוך"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Ukrainian drones strike more than 100km into Russian territory",
-    "topics": [
-      "אוקראינה",
-      "רוסיה",
-      "סכסוך"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "How NATO plans to combat potential attacks on the alliance from Russia",
-    "topics": [
-      "NATO",
-      "רוסיה",
-      "ביטחון"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-    "topics": [
-      "אוקראינה",
-      "רוסיה",
-      "גרמניה"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Russia arrests Japanese journalist on alleged espionage",
-    "topics": [
-      "רוסיה",
-      "יפן",
-      "ביטחון"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "China and North Korea to open New Yalu River Bridge, state media reports",
-    "topics": [
-      "סין",
-      "צפון קוריאה",
-      "גיאופוליטיקה"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
-    "topics": [
-      "אוקראינה",
-      "גרמניה",
-      "Nord Stream"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
-    "topics": [
-      "אוקראינה",
-      "רוסיה",
-      "קייב"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-    "topics": [
-      "איגרות חוב",
-      "מדיניות כלכלית",
-      "סיכוני מקרו"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "BlackRock takes profits on stocks as it turns to Treasurys after six years",
-    "topics": [
-      "מוסדות",
-      "אג\"ח",
-      "הון",
-      "תשואות"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
-    "topics": [
-      "סמיקונדקטורים",
-      "טכנולוגיה",
-      "שוק גלובלי",
-      "מלאי"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "What China's 'Extraordinary' Trade Surplus Means",
-    "topics": [
-      "סין",
-      "ניסיונות צבירה",
-      "סחר"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
-    "topics": [
-      "כלכלה גלובלית",
-      "אי-שוויון",
-      "AI",
-      "נפט"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Microsoft hits a big milestone that solidifies its revival",
-    "topics": [
-      "טכנולוגיה",
-      "שווקי הון",
-      "מיקרוסופט"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-    "topics": [
-      "רגולציה",
-      "סין",
-      "שירותים פיננסיים"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Bank earnings live updates: JPMorgan, Wells Fargo, Goldman and Citigroup are all out. Here are the results",
-    "topics": [
-      "בנקאות",
-      "ארה\"ב",
-      "רווחים",
-      "שוק ניירות"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
-    "topics": [
-      "בריאות",
-      "ביטוח",
-      "רווחים",
-      "אינפלציה"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "topics": [
-      "ממשקים מוחיים",
-      "ביוטכנולוגיה",
-      "מקס הודק"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-    "topics": [
-      "OpenAI",
-      "אבטחה",
-      "ריגול"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-    "topics": [
-      "AI",
-      "רגולציה",
-      "OpenAI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "גוגל משיקה את Gemini 4 Argon שזמין עכשיו לכולם",
-    "topics": [
-      "AI",
-      "גוגל",
-      "Gemini"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "מטא משיקה את מודל ה-AI המתקדם ביותר שלה וטוענת שהוא טוב יותר מקלוד ו-GPT Astra",
-    "topics": [
-      "AI",
-      "Meta",
-      "מודלים"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-    "topics": [
-      "אבטחה",
-      "סייבר",
-      "צפון קוריאה"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-    "topics": [
-      "OpenAI",
-      "אבטחה",
-      "מודיעין"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-    "topics": [
-      "AI",
-      "chatbot",
-      "רכישה"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Robinhood Expands Social Trading Push With U.S. Rollout",
-    "topics": [
-      "HOOD"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Why the Market Dipped But Robinhood Markets, Inc. (HOOD) Gained Today",
-    "topics": [
-      "HOOD"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "3 Financial Stocks Riding Fixed Income Trading Demand In US Markets",
-    "topics": [
-      "HOOD"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Is Coinbase Stock Ready For A Longer Revenue Slide?",
-    "topics": [
-      "HOOD"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Robinhood Gets A Price Target Hike From Truist As Wall Street’s Earnings Outlook Improves",
-    "topics": [
-      "HOOD"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "CME vs. Robinhood Markets: Which Financial Stock Is a Better Buy in 2026?",
-    "topics": [
-      "HOOD"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Top VC Investors Say the AI Agent Economy Will Run on Blockchain Rails. Here Are 2 Blockchain Stocks to Buy Now.",
-    "topics": [
-      "HOOD"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Robinhood Markets and Albemarle have been highlighted as Zacks Bull and Bear of the Day",
-    "topics": [
-      "HOOD"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Fintech Stocks in Focus as AI and Digital Innovation Drive Growth",
-    "topics": [
-      "HOOD"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Interactive Brokers (IBKR) Is Trading Above Its 5-Year Valuation. Bargain or Pricey Peak?",
-    "topics": [
-      "IBKR"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Interactive Brokers Stock Falls After It Adds Crypto Staking Before Earnings",
-    "topics": [
-      "IBKR"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Interactive Brokers Adds Ethereum Staking for Eligible Clients",
-    "topics": [
-      "IBKR"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Interactive Brokers Launches Cryptocurrency Staking for Clients",
-    "topics": [
-      "IBKR"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Can Robust Trading, Higher NIR Support Schwab's Q3 Earnings?",
-    "topics": [
-      "IBKR"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Gear Up for Interactive Brokers (IBKR) Q3 Earnings: Wall Street Estimates for Key Metrics",
-    "topics": [
-      "IBKR"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Deutsche Bank Initiates Coverage on Interactive Brokers With Buy Rating, $102 Price Target",
-    "topics": [
-      "IBKR"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Nebius (NBIS) Has Pricing Power. Its Earnings Don’t Show It Yet.",
-    "topics": [
-      "NBIS"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Prediction: CoreWeave Could Be One of the Most Explosive AI Stocks of the Decade",
-    "topics": [
-      "NBIS"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "CoreWeave Imploded 20% Over 6 Months: This Analyst Predicts It Will Triple in Price Over the Coming Year",
-    "topics": [
-      "NBIS"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell Tuesday; Sandisk, Micron Technology to Decline",
-    "topics": [
-      "NBIS"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Nebius Stock Slips Despite Rotterdam AI Gigafactory LOI",
-    "topics": [
-      "NBIS"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "CRWV Shares Slide 25% in 6 Months: Time to Buy, Hold or Cut Losses?",
-    "topics": [
-      "NBIS"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Digi Power X secures US$200M debt financing commitment for Alabama AI data center",
-    "topics": [
-      "DGXX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Digi Power X Secures $200 Million Debt Financing for Alabama AI Data Center",
-    "topics": [
-      "DGXX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Digi Power X Announces $200 Million Debt Financing Commitment to Support Completion of Alabama AI Data Center and Provides Expansion Update",
-    "topics": [
-      "DGXX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Shopify (SHOP) Is Up 7.3% After Analysts Spotlight Its Expanding AI Commerce Infrastructure Role",
-    "topics": [
-      "SHOP"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Is Shopify Stock a Buy After Its First Record Close in Nearly a Year?",
-    "topics": [
-      "SHOP"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Coupang vs. Shopify: Absolute Scale vs. Seasonal Spikes in Revenue",
-    "topics": [
-      "SHOP"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Shopify (SHOP) Falls More Steeply Than Broader Market: What Investors Need to Know",
-    "topics": [
-      "SHOP"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Top Analyst Reports for Walmart, Visa & Novo Nordisk",
-    "topics": [
-      "SHOP"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "MercadoLibre vs. Shopify: Which Consumer Stock Is a Better Buy in 2026?",
-    "topics": [
-      "SHOP"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Algolia Launches Native Shopify B2B Integration, Bringing Account-Specific Search & Discovery to Wholesale & Retail",
-    "topics": [
-      "SHOP"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Top Mobile Payments Stocks to Buy as Digital Wallet Adoption Soars",
-    "topics": [
-      "SHOP"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Shopify's Biggest AI Fear Just Became Its Best Catalyst",
-    "topics": [
-      "SHOP"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "1 Surging  Stock with Impressive Fundamentals and 2 That Underwhelm",
-    "topics": [
-      "SHOP"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "SoFi Stock Has Sunk This Year. Why This Analyst Sees 64% Upside.",
-    "topics": [
-      "SOFI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Why StoneX Initiated SoFi Stock At Buy Amid The Fintech's 2026 Retreat",
-    "topics": [
-      "SOFI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Adobe downgraded, VF Corp. upgraded: Wall Street's top analyst calls",
-    "topics": [
-      "SOFI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: AT&T, Adobe, Albemarle, American Electric Power, Pershing Square, RTX, SoFi Technologies, Technip FMC, YETI Holdings, and More",
-    "topics": [
-      "SOFI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "SoFi Technologies, Inc. (SOFI) Declines More Than Market: Some Information for Investors",
-    "topics": [
-      "SOFI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "SoFi Technologies' Crypto Push: Can it Boost Tech Solutions Growth?",
-    "topics": [
-      "SOFI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Digital Payment Today - Boosting Stablecoin Efficiency Beyond US Dollar Transactions",
-    "topics": [
-      "SOFI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Should You Trim Or Add To Your Hims & Hers Position Now?",
-    "topics": [
-      "HIMS"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Hims & Hers Health Launches Women's Health Platform in Australia",
-    "topics": [
-      "HIMS"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Hims & Hers to Announce Third Quarter 2026 Financial Results on November 9, 2026",
-    "topics": [
-      "HIMS"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "2 Growth Stocks Set to Flourish and 1 Facing Headwinds",
-    "topics": [
-      "HIMS"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "RKLB Stock Climbs Overnight: Rocket Lab Targets 12 Hypersonic Tests As US Pushes For Faster Weapons Development",
-    "topics": [
-      "RKLB"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Here's Why Rocket Lab Corporation (RKLB) Fell More Than Broader Market",
-    "topics": [
-      "RKLB"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "AST SpaceMobile vs. Rocket Lab: Which Space-Focused Stock Is a Better Buy in 2026?",
-    "topics": [
-      "RKLB"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Rocket Lab CFO Dumps $9.9 Million in Stock",
-    "topics": [
-      "RKLB"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Air Launch Is Back on the Space Industry's Flight Plan",
-    "topics": [
-      "RKLB"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "18 Launches Down, 9 More to Go for Rocket Lab. But That's Not the Big Story.",
-    "topics": [
-      "RKLB"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "1 Industrials Stock on Our Buy List and 2 We Turn Down",
-    "topics": [
-      "RKLB"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "RKLB Stock Slips Overnight Despite Electron’s Push Toward 100th Launch — Retail Still Frets Over Neutron Delays",
-    "topics": [
-      "RKLB"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Why Did ASTS, CIFR, JOBY Stocks Plunge To 52-Week Lows Today?",
-    "topics": [
-      "SPCX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Why Did ASTS, CIFR, JOBY Stocks Plunge To 52-Week Lows Today?",
-    "topics": [
-      "SPCX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Prediction: $1,000 Invested in SpaceX Will Be Worth This Much by 2030",
-    "topics": [
-      "SPCX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "MU Stock Edges Up Overnight: Elon Musk Says Micron Is Being ‘Reasonable’ On Memory Prices While Others Are ‘Extortionate’",
-    "topics": [
-      "SPCX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Elon Musk Says Micron Has Been ‘Reasonable’ in Future Pricing Memory Where Others Were ‘Extortionate’ — ‘Customers Won’t Forget’",
-    "topics": [
-      "SPCX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "ASTS Stock Bounces Overnight: Vodafone Questions SpaceX’s Europe Push, AST Presses FCC On Spectrum",
-    "topics": [
-      "SPCX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Elon Musk's SpaceX could change how Americans buy iPhones",
-    "topics": [
-      "SPCX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "How Much Could You Lose In T-Mobile Stock?",
-    "topics": [
-      "SPCX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "SpaceX Stock Has Climbed About 50% Through 6 Insider Share Unlocks. The Biggest Is Still Ahead.",
-    "topics": [
-      "SPCX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "S&P 500 Ends Flat, While Nasdaq Drops As Memory Chipmakers Sell Off — BAC, GME, SPCX, ARM, QCOM In Focus",
-    "topics": [
-      "SPCX"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Is NetApp’s (NTAP) AI-Optimized Storage Push Quietly Redefining Its Role in Enterprise Data Infrastructure?",
-    "topics": [
-      "SMCI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Super Micro Computer (SMCI) Suffers a Larger Drop Than the General Market: Key Insights",
-    "topics": [
-      "SMCI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "NetApp (NTAP) Deepens Its Push Into Enterprise AI Infrastructure",
-    "topics": [
-      "SMCI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "What Changed For HPE Stock, And What Did Not?",
-    "topics": [
-      "SMCI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Super Micro Computer Expands Open Compute Portfolio for AI Data Centers",
-    "topics": [
-      "SMCI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Supermicro Expands Integrated Open Compute Project Portfolio to Accelerate Rack-Scale AI Data Center Deployments",
-    "topics": [
-      "SMCI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Supermicro Expands Integrated Open Compute Project Portfolio to Accelerate Rack-Scale AI Data Center Deployments",
-    "topics": [
-      "SMCI"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "SK Group Chairman Chey sells stake to Dell family office fund for $406 million",
-    "topics": [
-      "DELL"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Accenture (ACN) Deepens AI Push With New Deals And A Customer Data Buy",
-    "topics": [
-      "DELL"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "The Best \"Strong Buy\" Momentum Stocks to Buy Now in October",
-    "topics": [
-      "DELL"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "What Would Weak iPhone Demand Do To Apple Stock?",
-    "topics": [
-      "DELL"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "What Changed For HPE Stock, And What Did Not?",
-    "topics": [
-      "DELL"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Dell (DELL) Lost Its Discount. Did the Backlog Earn It?",
-    "topics": [
-      "DELL"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Dell Stock Is Up 358% in 2026, but Free Cash Flow Fell 47% in Q2. Here’s Where the Stock Could Go by 2031",
-    "topics": [
-      "DELL"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Dell CEO Rejects AI Bubble Fears, Says Chip Supply Could Stay Tight Through 2030",
-    "topics": [
-      "DELL"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "The AI Trade Led the Bull Market—but Don’t Bail on the Big Winners Just Yet",
-    "topics": [
-      "DELL"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "The AI Boom Is Giving Dell a New Growth Story",
-    "topics": [
-      "DELL"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Is Spotify (SPOT) a Good or Bad Investment at Today’s Price?",
-    "topics": [
-      "SPOT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Spotify Technology (SPOT) Expands Audiobooks And Renews Rogan, Is It Still 11% Undervalued?",
-    "topics": [
-      "SPOT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Spotify (SPOT) Stock Looks Discounted As Its 235% Run Continues",
-    "topics": [
-      "SPOT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Spotify Stock Is Up Nearly 9% Since September 30 as Audiobooks Go Global. Here’s Where It Could Go by 2030",
-    "topics": [
-      "SPOT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Alphabet vs. Meta Platforms: Here's What Revenue Trends Tell Investors About These Media Giants Turned Artificial Intelligence Companies",
-    "topics": [
-      "META"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Dow Jones Futures: Techs Rise After Meta, AMD Lead Buys; ASML, CPI Inflation Due",
-    "topics": [
-      "META"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "MIT dropout’s two startups announce shutdown weeks apart",
-    "topics": [
-      "META"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet",
-    "topics": [
-      "META"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Microsoft Weighs 20% Cost Cuts In Azure Vertical Amid Soaring AI Data Center Spending: Report",
-    "topics": [
-      "META"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Applied Materials’ $5 billion AI lab aims to cut chip development time in half—and restore Silicon Valley’s edge",
-    "topics": [
-      "META"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Aptos ends four-year token unlocks as monthly releases drop 60%",
-    "topics": [
-      "META"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Franklin Templeton CEO says AI is hiding a bigger tech story",
-    "topics": [
-      "META"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Meta Platforms (META) Could Be 25% Undervalued After Muse AI Gains Traction",
-    "topics": [
-      "META"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Meta Stock Rallies as Truist Raises Price Target to $1,000",
-    "topics": [
-      "META"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Stocks making big moves yesterday: Bumble, monday.com, Reddit, Manhattan Associates, and Compass",
-    "topics": [
-      "RDDT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Woman, 28, Inherits 80-Acre Farm, 2 Homes And Over $750K — Stepsister Who Says ‘We Aren’t Family’ Wants Her Share And Largest House",
-    "topics": [
-      "RDDT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Credit Card Debt Barely Budged In 2 Years For 26-Year-Old Earning $25 An Hour — ‘I Rather Not Waste The Rest Of My 20s’",
-    "topics": [
-      "RDDT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "AppLovin vs. Reddit: Which Technology Stock Is a Better Buy in 2026?",
-    "topics": [
-      "RDDT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Meta Platforms Rises 12% in 3 Months: Buy, Sell, or Hold the Stock?",
-    "topics": [
-      "RDDT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Reddit Earnings Preview: What to Expect",
-    "topics": [
-      "RDDT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell Tuesday; Sandisk, Micron Technology to Decline",
-    "topics": [
-      "RDDT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Why Reddit (RDDT) Stock Is Trading Lower Today",
-    "topics": [
-      "RDDT"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Charles Gasparino Defends Jeff Bezos, Elon Musk — Says America Needs ‘More Bezos’ and a Tax System That Rewards Risk-Taking",
-    "topics": [
-      "AMZN"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Franklin Templeton CEO says AI is hiding a bigger tech story",
-    "topics": [
-      "AMZN"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "What Could Go Wrong At UPS From Here?",
-    "topics": [
-      "AMZN"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Uber Robotaxi Leader to Depart Next Month",
-    "topics": [
-      "AMZN"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Former Berkshire Manager Combs Has Made $5 Billion of Investments at JPMorgan",
-    "topics": [
-      "AMZN"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Jeff Bezos Aims for the Moon But Advises Retirees to Stick With Index Funds",
-    "topics": [
-      "AMZN"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Apple Takes on Amazon With New Smart Home Gadgets. It Still Isn’t Worth $5 Trillion.",
-    "topics": [
-      "AMZN"
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "title": "Has IBM Stock Become A Different Bet?",
-    "topics": [
-      "AMZN"
-    ]
-  },
-  {
     "date": "2026-10-15",
     "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
     "topics": [
@@ -3974,6 +2958,459 @@
     "title": "Top Analyst Reports for Costco, Walt Disney & Marriott",
     "topics": [
       "PKE"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+    "topics": [
+      "עזה",
+      "משבר הומניטרי",
+      "ישראל"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+    "topics": [
+      "קנדה",
+      "אסון",
+      "צבא"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+    "topics": [
+      "אוקראינה",
+      "EU",
+      "כלכלה"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+    "topics": [
+      "רוסיה",
+      "אוקראינה",
+      "מלחמה"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "European diplomats attacked by Israeli settlers in West Bank",
+    "topics": [
+      "ישראל",
+      "פלסטינים",
+      "מתח בינלאומי"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+    "topics": [
+      "אוקראינה",
+      "רוסיה",
+      "מלחמה"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+    "topics": [
+      "איראן",
+      "ישראל",
+      "יריבות"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "שינוי הכיוון של טראמפ – והחשש מעתיד היחסים עם ארה\"ב",
+    "topics": [
+      "ארה״ב",
+      "ישראל",
+      "דיפלומטיה"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
+    "topics": [
+      "AI",
+      "צמיחה כלכלית",
+      "טכנולוגיה"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+    "topics": [
+      "פד",
+      "ריבית",
+      "מדיניות מוניטרית"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
+    "topics": [
+      "דלק",
+      "אנרגיה",
+      "יחסים גיאופוליטיים"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Why hedge funds could be making a bond market shock more likely",
+    "topics": [
+      "קרנות גידור",
+      "שוק אג״ח",
+      "סיכון מערכתי"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Court decision sends shudders through Israel's banking system",
+    "topics": [
+      "בנקים",
+      "תביעה ייצוגית"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different",
+    "topics": [
+      "AI",
+      "השקעות בהון",
+      "שוק מניות"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+    "topics": [
+      "חצי מוליכים",
+      "אספקה גלובלית",
+      "דרום קוריאה"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+    "topics": [
+      "סנקציות",
+      "אנרגיה",
+      "גיאופוליטיקה"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Can America Rebuild Trust With Its Allies?",
+    "topics": [
+      "גלובליזציה",
+      "שרשרות אספקה",
+      "סחר"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "China Rail Logs Record 3.71 Billion Trips in First Nine Months",
+    "topics": [
+      "סין",
+      "צריכה",
+      "תשתיות"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Video game ownership bill introduced in Congress",
+    "topics": [
+      "רגולציה",
+      "משחקי וידאו",
+      "בעלות דיגיטלית"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "גוגל חושפת \"עגלת קניות אוניברסלית\" שתחסוך לכם כסף ו-30 טאבים פתוחים",
+    "topics": [
+      "AI",
+      "גוגל",
+      "סוכנים ממוכנים"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "\"אמא ואבא שוב משחקים יפה ביחד\": מטא ואפל משתפות פעולה בהשקת מודל AI פתוח חדש",
+    "topics": [
+      "AI",
+      "מטא",
+      "אפל"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "topics": [
+      "AI",
+      "Anthropic",
+      "קורפוראטיביות"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+    "topics": [
+      "אבטחה",
+      "פרטיות",
+      "ממשל"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Cities want to put the boot on robotaxis",
+    "topics": [
+      "רובוטיקה",
+      "רכבים אוטונומיים",
+      "רגולציה"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Interactive Brokers: 3 Key Takeaways for Long-Term Investors",
+    "topics": [
+      "IBKR"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Three in Four Crypto Owners Want to Hold It at Their Own Bank. Which Banks Already Let You?",
+    "topics": [
+      "IBKR"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
+    "topics": [
+      "NBIS"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Buy these 2 stocks amid AI financing concerns: Analyst",
+    "topics": [
+      "NBIS"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "RKLB Stock Suffers Worst Week Ever: AST SpaceMobile Partner Challenges Iridium Deal — Claims Rival Uses FCC To Block Competitors",
+    "topics": [
+      "RKLB"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "AAPL, TSLA, NFLX, GME, RKLB: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+    "topics": [
+      "RKLB"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "ASTS Stock Jumps Overnight: Boost Mobile Founder Turns Buyer — Floats Potential Telecom Takeover For SpaceX Rival",
+    "topics": [
+      "SPCX"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",
+    "topics": [
+      "SPCX"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "'This Is What I Will Be Doing’: Elon Musk Says He’ll Give Shares To The Public After Anthropic Announces 5% Fund",
+    "topics": [
+      "SPCX"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Anthropic IPO: Musk Wants AI Firm To Hand Shares Directly To Public, Says 'This Is What I Will Be Doing'",
+    "topics": [
+      "SPCX"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Dow Jones Futures Rebound After AI Sell-Off; Meta, SpaceX, Tesla Earnings Key",
+    "topics": [
+      "SPCX"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Sam Altman praises the Tesla Roadster he gave up on",
+    "topics": [
+      "SPCX"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Here's What $5,000 Invested in SpaceX Could Be Worth in 2030",
+    "topics": [
+      "SPCX"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Top 4 Earnings Reports This Week: What Tesla, Meta, SpaceX, Netflix Must Show",
+    "topics": [
+      "SPCX"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Elon Musk’s SpaceX Now Controls 80% of the Race to Orbit",
+    "topics": [
+      "SPCX"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Why 1 Analyst Is Cooling Their Stance on Red-Hot DELL Stock",
+    "topics": [
+      "DELL"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "What a New Nvidia-Backed AI Platform Means for Honeywell Stock",
+    "topics": [
+      "DELL"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
+    "topics": [
+      "DELL"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Netflix Stock Has Been on a Roll. Here’s Where It Could Go Next.",
+    "topics": [
+      "SPOT"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "INTC, AMD, MU, SNDK: US Chip Stocks Rebound After Worst Week Since March",
+    "topics": [
+      "META"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Asian stocks start week on back foot, tracking tech-led Wall St losses",
+    "topics": [
+      "META"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "CoreWeave, Oracle have an interest rate problem",
+    "topics": [
+      "META"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Meta, Tesla Q3 earnings will be fighting rising AI skepticism",
+    "topics": [
+      "META"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap",
+    "topics": [
+      "META"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Stock Futures Rise Ahead of Another Busy Earnings Week",
+    "topics": [
+      "META"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Meta Earnings Puts Adobe Stock And AI Ad Software Names In Focus",
+    "topics": [
+      "META"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Cramer points to rare Reddit buy opportunity amid Google AI threat",
+    "topics": [
+      "RDDT"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Worker Followed Their Parents’ Market Warning And Missed 3 Years Of 401(k) Match. ‘I Confused Confidence With Expertise’",
+    "topics": [
+      "RDDT"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Prediction: Amazon Stock Will Soar After Oct. 29",
+    "topics": [
+      "AMZN"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Amazon.com vs. Walmart: Which Stock Is a Better Buy in 2026?",
+    "topics": [
+      "AMZN"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "How much Amazon stock does CEO Andy Jassy actually own?",
+    "topics": [
+      "AMZN"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Amazon (AMZN) Is A Proven Capital Allocator. But Can it Pass Its $220 Billion Test?",
+    "topics": [
+      "AMZN"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "2 Retail Stocks to Buy Before the Holiday Shopping Season",
+    "topics": [
+      "AMZN"
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "title": "3 Cash Flow Stocks To Watch In October 2026",
+    "topics": [
+      "AMZN"
     ]
   }
 ]
