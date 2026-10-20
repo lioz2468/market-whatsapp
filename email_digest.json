@@ -1,32 +1,82 @@
 {
-  "generated_at": "2026-10-20T05:45:12.994281+00:00",
+  "generated_at": "2026-10-20T08:23:03.311438+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Japan launches historic mission to bring back Mars moon samples",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
-      "summary": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
+      "title": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6007371/ukraine-and-russia-exchange-strikes-as-relations-between-trump-and-zelenskyy-sour",
+      "summary": "Ukraine carried out a massive drone strikes on Russia, which launched deadly attacks on its smaller neighbor over the weekend.",
       "importance": 8,
       "topics": [
-        "מאדים",
-        "חלל",
-        "יפן"
+        "אוקראינה",
+        "רוסיה",
+        "ארה\"ב"
       ],
-      "published": "Tue, 20 Oct 2026 04:08:33 +0000"
+      "published": "Mon, 19 Oct 2026 06:38:03 -0400"
     },
     {
-      "title": "שר ההגנה האמריקני ביקר בחשאי בישראל ונפגש עם נתניהו, על הפרק: חידוש המלחמה באיראן",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hk5naze3fe",
-      "summary": "זו הסיבה שרה\"מ לא הגיע למשחק של בית\"ר ירושלים: פיט הגסת' נפגש בבסיס עובדה שבדרום עם נתניהו, שהגיע לשם באופן חריג במטוס פרטי. הביקור התקיים 8 ימים לפני הבחירות, והפגישה הייתה ארוכה במיוחד ונערכה על רקע האפשרות לחידוש המלחמה. בניגוד לטראמפ, סגנו ואנס מסרב להביע תמיכה בנתניהו: \"לא מתערב בבחירות בישראל\"",
+      "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
+      "summary": "Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine's president says arms shipments delayed.",
       "importance": 8,
       "topics": [
-        "ישראל",
-        "אמריקה",
-        "איראן"
+        "אוקראינה",
+        "ארה״ב",
+        "דיפלומטיה"
       ],
-      "published": "Tue, 20 Oct 2026 01:47:35 +0300"
+      "published": "Tue, 20 Oct 2026 06:23:44 +0000"
+    },
+    {
+      "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.",
+      "importance": 7,
+      "topics": [
+        "צרפת",
+        "הפגנות"
+      ],
+      "published": "Tue, 20 Oct 2026 06:35:57 GMT"
+    },
+    {
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "ארה\"ב",
+        "הודעות"
+      ],
+      "published": "Mon, 19 Oct 2026 20:49:00 GMT"
+    },
+    {
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "importance": 7,
+      "topics": [
+        "חלל",
+        "מחקר מדעי"
+      ],
+      "published": "Mon, 19 Oct 2026 19:45:46 GMT"
+    },
+    {
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "importance": 7,
+      "topics": [
+        "קניה",
+        "פשע",
+        "זכויות אדם"
+      ],
+      "published": "Mon, 19 Oct 2026 17:18:04 GMT"
     },
     {
       "title": "Exiled critic of Rwandan president found beheaded",
@@ -37,100 +87,51 @@
       "topics": [
         "רואנדה",
         "זכויות אדם",
-        "דיקטטורה"
+        "רקיפה פוליטית"
       ],
       "published": "Mon, 19 Oct 2026 13:42:41 GMT"
-    },
-    {
-      "title": "Personal attacks fire up debate before Brazil's run-off vote",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-      "importance": 7,
-      "topics": [
-        "ברזיל",
-        "בחירות",
-        "פוליטיקה"
-      ],
-      "published": "Mon, 19 Oct 2026 11:41:24 GMT"
-    },
-    {
-      "title": "נתניהו בקניונים, איזנקוט במעוזי הליכוד ובנט אצל הצעירים: השבוע האחרון למרוץ",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/elections2026/article/yokra14932212",
-      "summary": "ביום שלישי הבא, 7 ימים מהיום, זה יקרה: הקלפיות ברחבי הארץ ייפתחו ואזרחי ישראל ייצאו לבחור את נציגיהם לכנסת ה-26. במפלגות מבינים היטב שזה רגע האמת וממקדים את המאמצים, כשהכול כשר במטרה לסיים את הבחירות עם הרוב הנכסף שיספיק להרכבת ממשלה. כך הן נערכות לישורת האחרונה של הקמפיין",
-      "importance": 7,
-      "topics": [
-        "בחירות בישראל",
-        "מדיניות"
-      ],
-      "published": "Tue, 20 Oct 2026 05:39:43 +0300"
     },
     {
       "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
       "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "importance": 6,
+      "importance": 7,
       "topics": [
         "תימן",
-        "חותים",
-        "קונפליקט"
+        "חוות",
+        "ביטחון"
       ],
       "published": "Mon, 19 Oct 2026 16:20:51 GMT"
     },
     {
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "importance": 6,
-      "topics": [
-        "קנדה",
-        "אסון",
-        "צבא"
-      ],
-      "published": "Tue, 20 Oct 2026 01:52:43 GMT"
-    },
-    {
-      "title": "לא רק למי מצביעים, אלא כמה: הבחירות יוכרעו גם על ידי מי שיישאר בבית",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/elections2026/article/yokra14932317",
-      "summary": "שבוע לבחירות, כ-7.3 מיליון ישראלים יוכלו לממש את זכות ההצבעה - אבל לא כולם יעשו זאת. ככל שאחוז ההצבעה יעלה, כך יגדל מספר הקולות הדרוש למנדט, והמפלגות הקטנות עלולות להישאר בחוץ. מהחשש מירידה בהצבעה החרדית ועד לשיעורי ההשתתפות בחברה הערבית: \"לכו להצביע\" - פרק ראשון בסדרה",
-      "importance": 6,
-      "topics": [
-        "בחירות בישראל",
-        "מדיניות"
-      ],
-      "published": "Tue, 20 Oct 2026 05:39:58 +0300"
-    },
-    {
-      "title": "למה פרשת קטארגייט לא מתקדמת? | עם נטעאל בנדל",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/theheadline/article/phiwi6c2m",
-      "summary": "החקירה בפרשת קטארגייט הסתיימה והחומרים הועברו לפרקליטות, אבל החלטה על כתבי אישום עדיין לא התקבלה. במקביל מתפרסמים עוד ועוד חומרי חקירה והתכתבויות מהנייד של יונתן אוריך, שלכאורה סותרים את גרסתו, ובכל זאת הוא ממשיך לעבוד עם נתניהו. כתב המשפט של ynet נטעאל בנדל מסביר מה מעכב את ההחלטה, ובאילו עבירות החשודים עלולים להיות מואשמים",
-      "importance": 6,
+      "title": "Palestine weekly: Israeli settlers attack journalist and diplomats",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss",
+      "summary": "Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports.",
+      "importance": 7,
       "topics": [
         "ישראל",
-        "משפט פנימי"
+        "פלסטינים",
+        "הגבלות ממשלתיות"
       ],
-      "published": "Tue, 20 Oct 2026 05:00:00 +0300"
+      "published": "Tue, 20 Oct 2026 06:22:33 +0000"
+    },
+    {
+      "title": "Japan launches historic mission to bring back Mars moon samples",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
+      "summary": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
+      "importance": 7,
+      "topics": [
+        "חלל",
+        "יפן",
+        "מחקר מדעי"
+      ],
+      "published": "Tue, 20 Oct 2026 04:08:33 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
-      "summary": "מחיר הנפט ירד היום אחרי שטראמפ הפעיל סעיף חוקי נדיר שמאפשר לו לעקוף מכסים על סחורות רוסיות - כולל נפט. המשמעות: קונים גדולים של נפט רוסי, שנמנעו מרכישות בגלל הסנקציות, יכולים עכשיו לחזור לשוק. יותר היצע פוטנציאלי - לחץ כלפי מטה על המחיר.\n\nמי שכדאי לשים אליו לב מעבר לנפט עצמו: חברות אנרגיה אירופאיות שהסתגלו לעולם ללא נפט רוסי, ויצרני נפט מארה\"ב שנהנו מהביקוש המוגבר - הם ירגישו את זה.",
-      "importance": 9,
-      "topics": [
-        "אנרגיה",
-        "סנקציות",
-        "סחר בינלאומי"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
       "source": "TechCrunch",
@@ -142,19 +143,6 @@
         "תשתיות",
         "AI",
         "הוצאות-הון"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "מחיר הנחושת עלה בחדות מאז שטראמפ חזר לבית הלבן - כולם ציפו לתעריפים על המתכת, וזה גרם לשינוי מסיבי בזרימת המלאים הגלובליים. אבל טראמפ מתקרב לחצי הכהונה ועדיין לא הכריז על כלום, והמשקיעים מתחילים להתעצבן. אם התעריפים לא יגיעו - יש כאן בועה שמחכה להתפוצץ. מי שכדאי לעקוב אחריו: חברות בנייה, יצרני כבלים וחברות אנרגיה מתחדשת - כולן חשופות מאוד למחיר הנחושת.",
-      "importance": 8,
-      "topics": [
-        "תעריפים",
-        "סחורות",
-        "נחושת"
       ],
       "tag": "ארה\"ב"
     },
@@ -236,6 +224,32 @@
       "tag": "גלובלי"
     },
     {
+      "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "צרפת בצרות רציניות. מניות פריז, אג\"ח ממשלתי והאירו - כולם ירדו ביחד אחרי גל מחאות שמצטרף למשבר חוב שכבר רותח מתחת לפני השטח.\n\nאנליסט אחד ניסח את זה יפה: \"שוקי האג\"ח מתמרדים, או שהעם מתמרד - ואולי שניהם יחד.\"\n\nמה שמעניין כאן הוא ההשפעה על שאר אירופה: ספרד, איטליה ופורטוגל צופות מהצד בחרדה. כשצרפת מתנדנדת, כל גוש האירו מרגיש את זה.",
+      "importance": 8,
+      "topics": [
+        "אירופה",
+        "חוב ממשלתי",
+        "מטבע"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Wells Fargo Says Earnings Off to Weak Start as Most Fall Short",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "עונת הדוחות האמריקאית פתחה בצורה חלשה - רוב החברות שדיווחו עד כה הפתיעו לרעה, לפי ניתוח של Wells Fargo.\n\nזה לא אומר שהשמיים נופלים, אבל כשהרווחים מאכזבים בהתחלת העונה, זה בדרך כלל מדליק נורה צהובה לגבי מה שיגיע אחרי. שים לב לסקטורים שעדיין לא דיווחו - הצרכנות והטכנולוגיה יקבעו את הטון לשאר הרבעון.",
+      "importance": 8,
+      "topics": [
+        "רווחים",
+        "מאקרו",
+        "עונתיות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
       "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
       "source": "CNBC Top News",
       "url": "",
@@ -251,30 +265,30 @@
   ],
   "tech": [
     {
-      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "משברים כספיים",
-        "תעשיית שרתים"
-      ],
-      "published": "2026-10-19T17:28:20-04:00"
-    },
-    {
       "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "importance": 7,
+      "importance": 8,
       "topics": [
         "AI",
         "Anthropic",
-        "עסקאות"
+        "מחשוב"
       ],
       "published": "Mon, 19 Oct 2026 23:39:38 +0000"
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "importance": 8,
+      "topics": [
+        "שבבים",
+        "AI",
+        "Nvidia"
+      ],
+      "published": "Mon, 19 Oct 2026 18:37:27 +0000"
     },
     {
       "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
@@ -284,62 +298,36 @@
       "importance": 7,
       "topics": [
         "AI",
-        "שבבים",
-        "Amazon"
+        "Amazon",
+        "Nvidia"
       ],
       "published": "Mon, 19 Oct 2026 20:09:24 +0000"
     },
     {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "importance": 7,
-      "topics": [
-        "שבבים",
-        "AI",
-        "עסקאות"
-      ],
-      "published": "Mon, 19 Oct 2026 18:37:27 +0000"
-    },
-    {
-      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-      "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
-      "importance": 7,
-      "topics": [
-        "אנרגיה",
-        "Amazon",
-        "תשתיות"
-      ],
-      "published": "Mon, 19 Oct 2026 16:55:56 +0000"
-    },
-    {
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
       "importance": 7,
       "topics": [
         "AI",
-        "NVIDIA",
-        "מודלים פתוחים"
+        "אבטחה",
+        "סייבר"
       ],
-      "published": "Mon, 19 Oct 2026 15:37:09 +0000"
+      "published": "Mon, 19 Oct 2026 19:28:34 +0000"
     },
     {
-      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-      "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
       "importance": 7,
       "topics": [
-        "אנרגיה",
-        "Amazon",
-        "תשתיות"
+        "AI",
+        "CoreWeave",
+        "פיננסים"
       ],
-      "published": "2026-10-19T11:44:20-04:00"
+      "published": "2026-10-19T17:28:20-04:00"
     },
     {
       "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
@@ -348,11 +336,37 @@
       "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
       "importance": 7,
       "topics": [
-        "אבטחה",
         "OpenAI",
-        "ספיונאז"
+        "אבטחה",
+        "ניידות"
       ],
       "published": "Mon, 19 Oct 2026 20:21:53 +0000"
+    },
+    {
+      "title": "Florida DMV hacked after police dept insecurely stored login info",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+      "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "פריצה",
+        "נתונים"
+      ],
+      "published": "Mon, 19 Oct 2026 16:38:13 +0000"
+    },
+    {
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "importance": 7,
+      "topics": [
+        "Disney",
+        "AI",
+        "M&A"
+      ],
+      "published": "Mon, 19 Oct 2026 14:45:43 +0000"
     }
   ]
 }
