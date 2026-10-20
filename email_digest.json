@@ -1,152 +1,123 @@
 {
-  "generated_at": "2026-10-19T08:42:21.479038+00:00",
+  "generated_at": "2026-10-20T05:45:12.994281+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "title": "Japan launches historic mission to bring back Mars moon samples",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
+      "summary": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
       "importance": 8,
       "topics": [
-        "ארה״ב",
-        "רוסיה",
-        "סנקציות"
+        "מאדים",
+        "חלל",
+        "יפן"
       ],
-      "published": "Sun, 18 Oct 2026 23:20:15 GMT"
+      "published": "Tue, 20 Oct 2026 04:08:33 +0000"
     },
     {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "title": "שר ההגנה האמריקני ביקר בחשאי בישראל ונפגש עם נתניהו, על הפרק: חידוש המלחמה באיראן",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hk5naze3fe",
+      "summary": "זו הסיבה שרה\"מ לא הגיע למשחק של בית\"ר ירושלים: פיט הגסת' נפגש בבסיס עובדה שבדרום עם נתניהו, שהגיע לשם באופן חריג במטוס פרטי. הביקור התקיים 8 ימים לפני הבחירות, והפגישה הייתה ארוכה במיוחד ונערכה על רקע האפשרות לחידוש המלחמה. בניגוד לטראמפ, סגנו ואנס מסרב להביע תמיכה בנתניהו: \"לא מתערב בבחירות בישראל\"",
       "importance": 8,
-      "topics": [
-        "רוסיה",
-        "אוקראינה",
-        "ביטחון"
-      ],
-      "published": "Sun, 18 Oct 2026 15:46:10 GMT"
-    },
-    {
-      "title": "France protests live: Macron admits ‘failures’ after days of violent unrest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss",
-      "summary": "Macron acknowledges 'failures in anticipation and intelligence', rules out interior minister's resignation over riots.",
-      "importance": 8,
-      "topics": [
-        "צרפת",
-        "פוליטיקה",
-        "ביטחון"
-      ],
-      "published": "Mon, 19 Oct 2026 07:49:17 +0000"
-    },
-    {
-      "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
-      "summary": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
-      "importance": 7,
-      "topics": [
-        "עזה",
-        "משבר הומניטרי",
-        "ישראל"
-      ],
-      "published": "Sun, 18 Oct 2026 17:00:08 -0400"
-    },
-    {
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "כלכלה",
-        "סחר"
-      ],
-      "published": "Sun, 18 Oct 2026 23:28:45 GMT"
-    },
-    {
-      "title": "France’s Macron declines minister’s resignation after violent protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss",
-      "summary": "Interior Minister Laurent Nunez acknowledges that police 'lost control' during weekend protests.",
-      "importance": 7,
-      "topics": [
-        "צרפת",
-        "פוליטיקה",
-        "ביטחון"
-      ],
-      "published": "Mon, 19 Oct 2026 08:25:27 +0000"
-    },
-    {
-      "title": "The kingmakers who could determine Israel’s election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss",
-      "summary": "Israel’s Arab-led and ultra-Orthodox parties face attacks but could hold the balance of power after October 27 vote.",
-      "importance": 7,
       "topics": [
         "ישראל",
+        "אמריקה",
+        "איראן"
+      ],
+      "published": "Tue, 20 Oct 2026 01:47:35 +0300"
+    },
+    {
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+      "importance": 7,
+      "topics": [
+        "רואנדה",
+        "זכויות אדם",
+        "דיקטטורה"
+      ],
+      "published": "Mon, 19 Oct 2026 13:42:41 GMT"
+    },
+    {
+      "title": "Personal attacks fire up debate before Brazil's run-off vote",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
+      "importance": 7,
+      "topics": [
+        "ברזיל",
         "בחירות",
         "פוליטיקה"
       ],
-      "published": "Mon, 19 Oct 2026 05:58:46 +0000"
+      "published": "Mon, 19 Oct 2026 11:41:24 GMT"
     },
     {
-      "title": "עוד ליל מהומות ו-350 עצורים בפריז, מקרון מודה בכשלים: \"טובים מול הטרור, לא מול השמאל הקיצוני\"",
+      "title": "נתניהו בקניונים, איזנקוט במעוזי הליכוד ובנט אצל הצעירים: השבוע האחרון למרוץ",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hkvc8nmnfe",
-      "summary": "בצרפת נמשכו הלילה מעשי הביזה והעימותים בין כוחות הביטחון לפורעים, שר הפנים נונז הודה: \"שלחנו 60 אלף שוטרים לרחובות אבל לא הייתה סימטרייה מול המתפרעים, איבדנו שליטה\". הוא ביקש להתפטר, הנשיא הודה ב\"כשל מודיעיני\" לקראת ההפגנות אך סירב. שר המשפטים סימן נקודת תורפה: \"שירותי הביטחון שלנו טובים מול טרור ופשיעה, לא מול השמאל הקיצוני\". במפלגת לה פן תקפו את מקרון על נאומו לאומה: \"נאום עלוב, ממשלה פחדנית שכב",
+      "url": "https://www.ynet.co.il/news/elections2026/article/yokra14932212",
+      "summary": "ביום שלישי הבא, 7 ימים מהיום, זה יקרה: הקלפיות ברחבי הארץ ייפתחו ואזרחי ישראל ייצאו לבחור את נציגיהם לכנסת ה-26. במפלגות מבינים היטב שזה רגע האמת וממקדים את המאמצים, כשהכול כשר במטרה לסיים את הבחירות עם הרוב הנכסף שיספיק להרכבת ממשלה. כך הן נערכות לישורת האחרונה של הקמפיין",
       "importance": 7,
       "topics": [
-        "צרפת",
-        "אלימות",
-        "משימות ביטחוניות"
+        "בחירות בישראל",
+        "מדיניות"
       ],
-      "published": "Mon, 19 Oct 2026 10:02:43 +0300"
+      "published": "Tue, 20 Oct 2026 05:39:43 +0300"
     },
     {
-      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
-      "summary": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "importance": 6,
+      "topics": [
+        "תימן",
+        "חותים",
+        "קונפליקט"
+      ],
+      "published": "Mon, 19 Oct 2026 16:20:51 GMT"
+    },
+    {
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "importance": 6,
+      "topics": [
+        "קנדה",
+        "אסון",
+        "צבא"
+      ],
+      "published": "Tue, 20 Oct 2026 01:52:43 GMT"
+    },
+    {
+      "title": "לא רק למי מצביעים, אלא כמה: הבחירות יוכרעו גם על ידי מי שיישאר בבית",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/elections2026/article/yokra14932317",
+      "summary": "שבוע לבחירות, כ-7.3 מיליון ישראלים יוכלו לממש את זכות ההצבעה - אבל לא כולם יעשו זאת. ככל שאחוז ההצבעה יעלה, כך יגדל מספר הקולות הדרוש למנדט, והמפלגות הקטנות עלולות להישאר בחוץ. מהחשש מירידה בהצבעה החרדית ועד לשיעורי ההשתתפות בחברה הערבית: \"לכו להצביע\" - פרק ראשון בסדרה",
+      "importance": 6,
+      "topics": [
+        "בחירות בישראל",
+        "מדיניות"
+      ],
+      "published": "Tue, 20 Oct 2026 05:39:58 +0300"
+    },
+    {
+      "title": "למה פרשת קטארגייט לא מתקדמת? | עם נטעאל בנדל",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/theheadline/article/phiwi6c2m",
+      "summary": "החקירה בפרשת קטארגייט הסתיימה והחומרים הועברו לפרקליטות, אבל החלטה על כתבי אישום עדיין לא התקבלה. במקביל מתפרסמים עוד ועוד חומרי חקירה והתכתבויות מהנייד של יונתן אוריך, שלכאורה סותרים את גרסתו, ובכל זאת הוא ממשיך לעבוד עם נתניהו. כתב המשפט של ynet נטעאל בנדל מסביר מה מעכב את ההחלטה, ובאילו עבירות החשודים עלולים להיות מואשמים",
       "importance": 6,
       "topics": [
         "ישראל",
-        "ארה״ב",
-        "פוליטיקה"
+        "משפט פנימי"
       ],
-      "published": "Mon, 19 Oct 2026 01:35:39 -0400"
-    },
-    {
-      "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
-      "summary": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
-      "importance": 6,
-      "topics": [
-        "אוקראינה",
-        "ארה״ב",
-        "מלחמה"
-      ],
-      "published": "Sun, 18 Oct 2026 14:38:49 -0400"
+      "published": "Tue, 20 Oct 2026 05:00:00 +0300"
     }
   ],
   "business": [
-    {
-      "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
-      "summary": "ג'ק קלארק מ-Anthropic אמר לקובעי מדיניות בוושינגטון שה-AI משתפר בקצב שלא ראינו כמוהו, ועשוי להגדיל את התוצר האמריקאי בצורה משמעותית - שיפור שבדרך כלל לוקח עשורים.\n\nמה שמעניין כאן: Anthropic לא מדברים על רובוטים שיחליפו עובדים - הם מדברים על כלכלה שלמה שמשנה הילוך. אם זה קורה, זה לא רק חדשות לחברות AI - זה ישפיע על ריביות, על התקציב הפדרלי, ועל כמעט כל תחום שאתם חושבים עליו.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "צמיחה כלכלית",
-        "טכנולוגיה"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply",
       "source": "CNBC World",
@@ -161,81 +132,18 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Why hedge funds could be making a bond market shock more likely",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "סגן נגיד בנק אנגליה נשמע אזהרה רצינית: קרנות הגידור, דרך מינוף גבוה ועסקאות ארביטראז' מורכבות בשוק האג\"ח, עלולות להגביר את הסיכון להלם פיננסי גלובלי.\n\nהנקודה המעניינת היא ההשפעה העקיפה - כשקרנות גידור נאלצות לסגור פוזיציות במהירות, הן מוכרות אג\"ח בכמויות גדולות, מה שמזנק תשואות ומכביד על כל מי שלווה כסף: ממשלות, חברות, ומשכנתאות. הרגולטורים כבר מתחילים לדבר על צעדים - וזה לבדו עשוי לשנות את כללי המשחק לקרנות האלה.",
-      "importance": 8,
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "summary": "Amazon משקיעה בבניית 12 כורים גרעיניים קטנים באינדיאנה - על אדמת תחנת פחם ישנה - שיייצרו כמעט גיגה-וואט של חשמל.\n\nזה לא עסקת אנרגיה רגילה. Amazon בונה בעצם תשתית חשמל עצמאית לצרכי ה-AI שלה, מחוץ לרשת הציבורית. כשחברת ענק מתחילה להפעיל כורים גרעיניים בעצמה - זה משנה את כללי המשחק גם לספקיות האנרגיה המסורתיות, גם ליצרניות הכורים הקטנים, וגם לכל שאר חברות הטק שמחפשות פתרון זהה לצריכת החשמל שלהן.",
+      "importance": 9,
       "topics": [
-        "קרנות גידור",
-        "שוק אג״ח",
-        "סיכון מערכתי"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Court decision sends shudders through Israel's banking system",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "בית המשפט המחוזי בלוד אישר תביעה ייצוגית נגד ארבעת הבנקים הגדולים בישראל - בגלל שלא שילמו ריבית על חשבונות עו\"ש. זה לא עניין של בנק אחד שטעה: מדובר בשיטת עבודה שנהגה בכל המערכת במשך שנים, והחשיפה הכספית עלולה להיות עצומה.\n\nמה שמעניין פה הוא ההשפעה מעבר לבנקים עצמם - אם התביעה תצליח, זה ישנה את האופן שבו בנקים בישראל מתמחרים חשבונות ריבית מהיום והלאה, ועשוי ללחוץ עליהם להציע תנאים טובים יותר באופן יזום.",
-      "importance": 8,
-      "topics": [
-        "בנקים",
-        "תביעה ייצוגית"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-ai-stock-market-wobble-is-a-reminder-this-time-isnt-different-d3ea7f07?mod=rss_markets_main",
-      "summary": "השוק כבר ראה את זה קודם. WSJ מפרסם היום ניתוח שמשווה את גל ההשקעות ב-AI לפרויקטים גדולים מההיסטוריה - רכבות, האינטרנט - וטוען שהדפוס מוכר: הון עצום נשפך לפני שברור מי ירוויח ממנו. זה לא אומר ש-AI לא יהיה מהפכני. זה אומר שהיו כאן כבר חברות שבנו את התשתית ולא הרוויחו ממנה, בזמן שאחרות - שהגיעו אחריהן - קצרו את הפירות. שווה לחשוב מי בתמונה הזו הוא הרכבת, ומי הוא הסוחר שמכר לה פסי ברזל.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "השקעות בהון",
-        "שוק מניות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
-      "source": "CNBC World",
-      "url": "",
-      "summary": "שר האוצר של דרום קוריאה אומר שהביקוש לשבבים יישאר חזק לפחות עד 2027 - גם על רקע הירידות האחרונות בשוק. הנימוק: ההיצע עדיין הדוק, והצמיחה לא נגמרת.\n\nזה חשוב לא רק ל-NVIDIA או ל-TSMC. מי שיושפע בשקט הוא כל מי שתלוי בשבבים - מכוניות חשמליות, ציוד רפואי, מפעלי ייצור. כשהיצע שבבים נשאר מתוח, העלויות מתגלגלות לשרשרת הספקים כולה.",
-      "importance": 8,
-      "topics": [
-        "חצי מוליכים",
-        "אספקה גלובלית",
-        "דרום קוריאה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-      "source": "CNBC World",
-      "url": "",
-      "summary": "עסקת הדיזל שטראמפ מציע לרוסיה אולי לא שווה לפוטין הרבה כסף - אבל זה לא הנקודה האמיתית.\n\nהערך האמיתי הוא לגיטימציה: ארה\"ב חוזרת לסחור עם רוסיה, גם אם בהיקף מוגבל, ומשדרת לשאר העולם שהסנקציות כבר לא קו אדום. זה בדיוק מה שמדינות כמו הודו, טורקיה ואיחוד האמירויות ממתינות לשמוע - רשות לחזור לעסקים עם מוסקבה בלי מחיר דיפלומטי.\n\nבשביל אוקראינה זה הדבר הכי מדאיג: לא הכסף לרוסיה, אלא האות שהתמיכה האמריקנית אינה מוחלטת.",
-      "importance": 8,
-      "topics": [
-        "סנקציות",
         "אנרגיה",
-        "גיאופוליטיקה"
+        "תשתיות",
+        "AI",
+        "הוצאות-הון"
       ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Can America Rebuild Trust With Its Allies?",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "שתי מהנשים שהכי הבינו גלובליזציה בעשור האחרון - ג'נט ילן ושר האוצר הקנדי לשעבר כריסטיה פרילנד - מסכימות על דבר אחד: העולם בנה מערכת סחר שהפכה לנשק בידי מדינות שרצו להשתמש בה.\n\nזה לא רק על סין. כשתלות כלכלית הופכת לכלי לחץ פוליטי, כל שרשרת אספקה גלובלית הופכת לנקודת תורפה. מי שישלם את המחיר הוא לא רק הממשלות - אלא חברות שייאלצו לשנות את כל מודל הייצור שלהן.",
-      "importance": 8,
-      "topics": [
-        "גלובליזציה",
-        "שרשרות אספקה",
-        "סחר"
-      ],
-      "tag": "גלובלי"
+      "tag": "ארה\"ב"
     },
     {
       "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs",
@@ -251,84 +159,200 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "China Rail Logs Record 3.71 Billion Trips in First Nine Months",
+      "title": "Indonesia to Meet Monday With MSCI Over Shock Index Threat",
       "source": "Bloomberg Markets",
       "url": "",
-      "summary": "רשת הרכבות הסינית שברה שיא - 3.71 מיליארד נסיעות בתשעת החודשים הראשונים של השנה, עלייה של 4.8% לעומת אשתקד. זה לא רק נתון תחבורתי - זה מדד לדופק הצריכה הפנימית בסין. כשאנשים נוסעים יותר, זה אומר שיש כסף, עסקים פעילים ותיירות פנים. מעניין לראות איך זה ישפיע על חברות הנהנות מצמיחה סינית - מאנרגיה ועד צריכה.",
+      "summary": "הבוקר אינדונזיה מתכנסת לפגישת חירום עם MSCI - אחרי שהתברר שהם לא ידעו מה עומד על הפרק.\n\nMSCI מאיים לסווג את אינדונזיה כ\"שוק עצמאי\" - קטגוריה שמוציאה אותה מהמדדים הגדולים לחלוטין. אינדונזיה חשבה שמדברים על הורדת דרגה מתונה. זה הרבה יותר קיצוני.\n\nלמה זה חשוב גם אם אינדונזיה לא בראש המחשבות שלך: קרנות מדד שעוקבות אחרי שווקים מתעוררים יצטרכו למכור. הכסף שיצא יחפש אלטרנטיבה - ושווקים מתעוררים אחרים, כולל הודו, עשויים להיות הנהנים הישירים.",
+      "importance": 8,
+      "topics": [
+        "הודו",
+        "צבירה",
+        "שוקים"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Jamie Dimon’s National-Security Pledge Finances $230 Billion in First Year",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/banking/jamie-dimons-national-security-pledge-finances-230-billion-in-first-year-c757faf2?mod=rss_markets_main",
+      "summary": "230 מיליארד דולר - זה מה ש-JPMorgan מימן בשנה הראשונה של יוזמת הביטחון הלאומי שהכריז עליה ג'יימי דיימון.\n\nהכסף זורם לקבלני ביטחון ולחיזוק שרשראות אספקה אמריקאיות, וזה לא סתם הצהרת כוונות - זו הכוונה של הבנק הגדול בארה\"ב לקחת חלק פעיל בשינוי המבני שהממשל מוביל.\n\nמה שפחות ברור: יצרניות חלפים תעשייתיות, לוגיסטיקה וסמיקונדקטורים אמריקאיים עשויים להיות מהנהנים הגדולים כאן - הרבה לפני שמישהו מדבר עליהם בהקשר הזה.",
+      "importance": 8,
+      "topics": [
+        "בנקאות",
+        "תשתיות",
+        "הגנה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "עונת הדוחות חזקה, אבל תשואות האג\"ח עולות - ופה נוצרת בדיוק התנגשות שכדאי לעקוב אחריה. המספרים של החברות טובים, אבל כשעלויות ההלוואה עולות, גם הערכות השווי מתחילות להיסחף למטה. הנרטיב שמניות ה-AI חסינות לגמרי מהסביבה הזו - לא לגמרי מדויק. זה לא קטסטרופה, אבל זה אומר שהשוק נכנס לשלב שבו רק דוחות טובים כבר לא מספיקים. שווה לשים לב לאיך שהשבועות הקרובים מתנהגים.",
+      "importance": 8,
+      "topics": [
+        "בינה מלאכותית",
+        "ריבית",
+        "מניות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "France and the U.S. share the same debt trap. Only one has a global lifeline.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "צרפת והאמריקאים שניהם שקועים בחוב עמוק - יחס חוב לתמ\"ג דומה, גירעונות מתרחבים, ריבית שאוכלת את התקציב. אבל שם הדמיון נגמר: ארה\"ב מנפיקה חוב בדולר, שהוא עדיין מטבע הרזרבה של העולם, אז תמיד יהיו קונים. לצרפת אין את הפריווילגיה הזו. מה שמעניין פה הוא הלקח הגלובלי - מדינה חזקה עם בעיית חוב זהה יכולה להתמוטט, בעוד שמדינה אחרת עם אותה בעיה ממשיכה להתגלגל בזכות מה שמחזיק אותה מבחוץ.",
+      "importance": 8,
+      "topics": [
+        "חוב ממשלתי",
+        "פרנסה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Wheat Futures Rise as Ukraine-Russia Strikes Stoke Supply Fears",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "חוזי חיטה עלו הבוקר אחרי שמתקפות הסוף שבוע בין רוסיה לאוקראינה הקטינו עוד יותר את הסיכוי להסכם ייצוא. שתי המדינות יחד אחראיות לכרבע מסחר החיטה העולמי - כשהן לא מייצאות, כולם מרגישים את זה.\n\nההשפעה לא עוצרת בחיטה: מחירי קמח, לחם ומוצרי מאפה עוקבים אחרי החוזים האלה עם פיגור של כמה חודשים. מדינות מתפתחות שמייבאות חיטה - בעיקר באפריקה ובמזרח התיכון - הן הרגישות ביותר, אבל הלחץ על מדד המזון העולמי ייראה גם בישראל.",
+      "importance": 8,
+      "topics": [
+        "סחורות",
+        "אספקה",
+        "גיאופוליטיקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "One of this year’s most important relationships in global financial markets is falling apart",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "המתאם בין דולר לאג\"ח אמריקאי - שני נכסים שבדרך כלל נעים ביחד - מתחיל להתפרק, ומשקיעים מנסים להבין מה זה אומר.\n\nכשיחסים כאלה נשברים זה בדרך כלל סימן שמשהו גדול יותר קורה מתחת לפני השטח. בפועל זה אומר שמודלים של ניהול סיכונים שעובדים שנים עשויים פתאום להתנהג אחרת - וזה משפיע על כולם, גם על מי שלא מחזיק דולרים או אג\"ח ישירות.",
+      "importance": 8,
+      "topics": [
+        "שוקים",
+        "זרימת הון",
+        "מקרו"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "השבוע נפתח עם ניסיון התאוששות אחרי שבוע קשה - ה-S&P 500 ירד כמעט 2% ביחד עם הנאסד\"ק שאיבד 4.5%, הכי הרבה מאז סוף יוני. עכשיו בפתיחה, משקיעים מנסים לקנות את הירידות, בעיקר בכל מה שקשור ל-AI.\n\nמה שמעניין פה זה לא רק הנאסד\"ק - כשהכסף זורם חזרה לטכנולוגיה אחרי תיקון כזה, זה בדרך כלל מחזק גם חברות ישראליות שנסחרות בארה\"ב ואת הסנטימנט כלפי סטארטאפים בשלבי גיוס.",
       "importance": 7,
       "topics": [
-        "סין",
-        "צריכה",
-        "תשתיות"
+        "שווקים",
+        "טכנולוגיה",
+        "בורסה"
       ],
       "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "importance": 7,
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
+      "importance": 8,
       "topics": [
         "AI",
-        "מיזוג ורכישה",
-        "Character.AI"
+        "משברים כספיים",
+        "תעשיית שרתים"
       ],
-      "published": "Sun, 18 Oct 2026 16:30:00 +0000"
+      "published": "2026-10-19T17:28:20-04:00"
     },
     {
-      "title": "Video game ownership bill introduced in Congress",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-      "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It's increasingly common for […]",
-      "importance": 7,
-      "topics": [
-        "רגולציה",
-        "משחקי וידיאו",
-        "קניין דיגיטלי"
-      ],
-      "published": "2026-10-18T12:27:51-04:00"
-    },
-    {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "importance": 6,
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "importance": 7,
       "topics": [
         "AI",
         "Anthropic",
-        "גברנאנס"
+        "עסקאות"
       ],
-      "published": "Sun, 18 Oct 2026 20:37:40 +0000"
+      "published": "Mon, 19 Oct 2026 23:39:38 +0000"
     },
     {
-      "title": "Cities want to put the boot on robotaxis",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]",
-      "importance": 6,
-      "topics": [
-        "רובוטקסי",
-        "רגולציה",
-        "כלים אוטונומיים"
-      ],
-      "published": "2026-10-18T08:00:00-04:00"
-    },
-    {
-      "title": "שנה לאחר ההקמה ובלי משקיעים: ישראלי בן 25 מוכר את הסטארטאפ במיליוני דולרים",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/ventris-acquired-by-hex-rays-ai-cybersecurity/",
-      "summary": "רבות מדובר בשנים האחרונות על ניצול מודלי AI בתחום הסייבר – הן ההגנתי והן ההתקפי. חברת הסטארטאפ הישראלית HexAI (לשעבר Ventris), שהוקמה לפני פחות משנה, פיתחה מערכת הפעלה ייעודית לסוכני AI שמותאמת במיוחד לתחום מחקר האבטחה, ומאפשרת לחוקרים להגדיר ולהריץ תהליכי מחקר אוטומטיים ומותאמים אישית. היום (א') מודיעה החברה על מכירתה לחברת אבטחה בלגית. סריקה […] The post שנה לאחר ההקמה ובלי משקיעים: ישראלי בן 25",
-      "importance": 6,
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "importance": 7,
       "topics": [
         "AI",
-        "Cybersecurity",
-        "סטארטאפ"
+        "שבבים",
+        "Amazon"
       ],
-      "published": "Sun, 18 Oct 2026 09:36:10 +0000"
+      "published": "Mon, 19 Oct 2026 20:09:24 +0000"
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "importance": 7,
+      "topics": [
+        "שבבים",
+        "AI",
+        "עסקאות"
+      ],
+      "published": "Mon, 19 Oct 2026 18:37:27 +0000"
+    },
+    {
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+      "importance": 7,
+      "topics": [
+        "אנרגיה",
+        "Amazon",
+        "תשתיות"
+      ],
+      "published": "Mon, 19 Oct 2026 16:55:56 +0000"
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "NVIDIA",
+        "מודלים פתוחים"
+      ],
+      "published": "Mon, 19 Oct 2026 15:37:09 +0000"
+    },
+    {
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional […]",
+      "importance": 7,
+      "topics": [
+        "אנרגיה",
+        "Amazon",
+        "תשתיות"
+      ],
+      "published": "2026-10-19T11:44:20-04:00"
+    },
+    {
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "OpenAI",
+        "ספיונאז"
+      ],
+      "published": "Mon, 19 Oct 2026 20:21:53 +0000"
     }
   ]
 }
