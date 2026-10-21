@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:45:11.141814+00:00",
+  "generated_at": "2026-10-21T08:26:38.786306+00:00",
   "lookback_hours": 24,
   "world": [
     {
@@ -9,11 +9,24 @@
       "summary": "President Trump's up and down relationship with Russia is back on as he presses to find an end to the war in Ukraine amid high energy costs ahead of the U.S. midterms.",
       "importance": 8,
       "topics": [
-        "אוקראינה",
+        "ארה״ב",
         "רוסיה",
-        "ארה״ב"
+        "אוקראינה"
       ],
       "published": "Tue, 20 Oct 2026 07:03:52 -0400"
+    },
+    {
+      "title": "Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "summary": "Steve Witkoff has landed in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.",
+      "importance": 8,
+      "topics": [
+        "רוסיה",
+        "אוקראינה",
+        "דיפלומטיה"
+      ],
+      "published": "Wed, 21 Oct 2026 08:18:53 GMT"
     },
     {
       "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
@@ -22,24 +35,37 @@
       "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
       "importance": 8,
       "topics": [
-        "סודן",
-        "מלחמה",
+        "סודאן",
+        "משבר הומניטרי",
         "אסון"
       ],
       "published": "Tue, 20 Oct 2026 17:30:15 GMT"
     },
     {
-      "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
-      "summary": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss",
+      "summary": "Secretary of State Marco Rubio described Witkoff's talks with Zelenskyy as 'positive', as efforts to end war intensify.",
       "importance": 8,
       "topics": [
-        "סודאן",
-        "דרום סודאן",
-        "עימות חמוש"
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה"
       ],
-      "published": "Wed, 21 Oct 2026 02:18:10 +0000"
+      "published": "Wed, 21 Oct 2026 07:37:19 +0000"
+    },
+    {
+      "title": "מתרגלים בשמי עיראק, מאיימים על החשמל: \"זה יהיה מסוכן יותר, ולא השגנו שום מטרה\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rj8wxjinge",
+      "summary": "רק החודש, לפי \"פייננשל טיימס\", תכננה ישראל לתקוף תשתיות אזרחיות באיראן. ב\"פוקס ניוז\" דווח שמטוסי חיל האוויר טסו בשמי עיראק ותרגלו טיסה לאיראן. המומחה דני סיטרינוביץ, לשעבר ראש ענף איראן בחטיבת המחקר באמ\"ן, מטיל ספק בתוצאות מלחמה חדשה: \"זה שיתוק המשק. ובעבור מה? לא נפיל משטר מהאוויר\"",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "איראן",
+        "ביטחון"
+      ],
+      "published": "Wed, 21 Oct 2026 10:41:05 +0300"
     },
     {
       "title": "דיווח: ישראל רצתה לתקוף החודש תחנות כוח באיראן - ונבלמה בידי טראמפ",
@@ -50,7 +76,7 @@
       "topics": [
         "ישראל",
         "איראן",
-        "ארה״ב"
+        "ביטחון"
       ],
       "published": "Wed, 21 Oct 2026 07:31:13 +0300"
     },
@@ -68,6 +94,19 @@
       "published": "Wed, 21 Oct 2026 06:42:58 +0300"
     },
     {
+      "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S. Secretary of State Marco Rubio.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "ארה״ב",
+        "רוסיה"
+      ],
+      "published": "Wed, 21 Oct 2026 01:43:24 -0400"
+    },
+    {
       "title": "Current U.S. support for Ukraine looks very different than it did",
       "source": "NPR World",
       "url": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
@@ -76,7 +115,7 @@
       "topics": [
         "אוקראינה",
         "ארה״ב",
-        "גיאופוליטיקה"
+        "מדיניות"
       ],
       "published": "Tue, 20 Oct 2026 16:27:23 -0400"
     },
@@ -87,50 +126,11 @@
       "summary": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
       "importance": 7,
       "topics": [
-        "אתיופיה",
         "אבולה",
-        "בריאות"
+        "אפריקה",
+        "בריאות ציבור"
       ],
       "published": "Tue, 20 Oct 2026 16:19:16 -0400"
-    },
-    {
-      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "ארה״ב",
-        "רוסיה"
-      ],
-      "published": "Wed, 21 Oct 2026 03:59:18 GMT"
-    },
-    {
-      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "ארה״ב",
-        "דיפלומטיה"
-      ],
-      "published": "Tue, 20 Oct 2026 20:00:57 GMT"
-    },
-    {
-      "title": "Far from fringe: How Israel’s mainstream parties vote with the far right",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right?traffic_source=rss",
-      "summary": "Al Jazeera analysed how every party in the Knesset voted on the most consequential measures affecting Palestinians.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "פוליטיקה",
-        "פלסטינים"
-      ],
-      "published": "Wed, 21 Oct 2026 05:24:49 +0000"
     }
   ],
   "business": [
@@ -149,28 +149,16 @@
       "tag": "גלובלי"
     },
     {
-      "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+      "title": "AI's spending boom faces a 'gut check': Who can actually make money?",
       "source": "CNBC Top News",
-      "url": "",
-      "summary": "צרפת בצרות רציניות. מניות פריז, אג\"ח ממשלתי והאירו - כולם ירדו ביחד אחרי גל מחאות שמצטרף למשבר חוב שכבר רותח מתחת לפני השטח.\n\nאנליסט אחד ניסח את זה יפה: \"שוקי האג\"ח מתמרדים, או שהעם מתמרד - ואולי שניהם יחד.\"\n\nמה שמעניין כאן הוא ההשפעה על שאר אירופה: ספרד, איטליה ופורטוגל צופות מהצד בחרדה. כשצרפת מתנדנדת, כל גוש האירו מרגיש את זה.",
-      "importance": 8,
+      "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+      "summary": "שוק ה-AI עובר מרגע של \"כמה אפשר להשקיע\" לרגע של \"מי בכלל מרוויח מזה\". אחרי שנתיים שבהן מיליארדים זרמו לתשתיות ומרכזי נתונים, המשקיעים מתחילים לשאול שאלות קשות יותר.\n\nזה חשוב לא רק לחברות AI. ספקיות ענן, יצרניות שבבים, וחברות שבנו את המודל העסקי שלהן על ההנחה שהכסף ימשיך לזרום - כולן עכשיו תחת לחץ אחר. השוק מבקש ראיות, לא רק הבטחות.",
+      "importance": 9,
       "topics": [
-        "אירופה",
-        "חוב ממשלתי",
-        "מטבע"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Wells Fargo Says Earnings Off to Weak Start as Most Fall Short",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "עונת הדוחות האמריקאית פתחה בצורה חלשה - רוב החברות שדיווחו עד כה הפתיעו לרעה, לפי ניתוח של Wells Fargo.\n\nזה לא אומר שהשמיים נופלים, אבל כשהרווחים מאכזבים בהתחלת העונה, זה בדרך כלל מדליק נורה צהובה לגבי מה שיגיע אחרי. שים לב לסקטורים שעדיין לא דיווחו - הצרכנות והטכנולוגיה יקבעו את הטון לשאר הרבעון.",
-      "importance": 8,
-      "topics": [
-        "רווחים",
-        "מאקרו",
-        "עונתיות"
+        "AI",
+        "השקעות",
+        "רווחיות",
+        "דטה סנטרים"
       ],
       "tag": "ארה\"ב"
     },
@@ -251,6 +239,19 @@
         "גיאופוליטיקה"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Stocks Make a U-Turn on Hopes of U.S.-Iran Diplomacy",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "השוק עשה סיבוב פרסה היום על רקע דיווחים על מגעים דיפלומטיים בין ארה\"ב לאיראן. מניות עלו, ומחיר הנפט ירד - שתי תגובות קלאסיות כשהמתח הגיאופוליטי יורד רמה.\n\nמעניין לשים לב ל-General Motors שדווקא נפלה היום מסיבה אחרת לגמרי: החברה אמרה שה-2027 צפוי להיות קשה. זכרון קצר של השוק - היום הכותרות הן איראן, אבל GM מזכירה שיש גם סיפור ארוך טווח על מכסים ועלויות ייצור.",
+      "importance": 8,
+      "topics": [
+        "ניירות ערך",
+        "גיאופוליטיקה",
+        "אנרגיה"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
@@ -261,7 +262,8 @@
       "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
       "importance": 9,
       "topics": [
-        "קוונטי",
+        "Quantum Computing",
+        "AI",
         "מחקר"
       ],
       "published": "Tue, 20 Oct 2026 18:08:57 +0000"
@@ -274,7 +276,7 @@
       "importance": 8,
       "topics": [
         "AI",
-        "GPU",
+        "שבבים",
         "תחרות"
       ],
       "published": "Tue, 20 Oct 2026 18:38:24 +0000"
@@ -286,9 +288,8 @@
       "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also […]",
       "importance": 8,
       "topics": [
-        "מיזוג וקנייה",
-        "SpaceX",
-        "Tesla"
+        "Elon Musk",
+        "תעשייה"
       ],
       "published": "2026-10-20T17:30:24-04:00"
     },
@@ -300,8 +301,8 @@
       "importance": 8,
       "topics": [
         "אבטחה",
-        "תשתית",
-        "TLS"
+        "פריצת אבטחה",
+        "אינטרנט"
       ],
       "published": "Tue, 20 Oct 2026 19:47:35 +0000"
     },
@@ -314,7 +315,7 @@
       "topics": [
         "AI",
         "Anthropic",
-        "infrastructure"
+        "תשתית"
       ],
       "published": "Tue, 20 Oct 2026 21:25:22 +0000"
     },
@@ -327,7 +328,7 @@
       "topics": [
         "AI",
         "OpenAI",
-        "Biotech"
+        "רכישה"
       ],
       "published": "Tue, 20 Oct 2026 20:35:10 +0000"
     },
@@ -351,8 +352,7 @@
       "importance": 7,
       "topics": [
         "AI",
-        "SpaceX",
-        "בעדכון כספי"
+        "SpaceX"
       ],
       "published": "2026-10-20T16:26:58-04:00"
     }
