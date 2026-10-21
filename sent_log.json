@@ -1014,7 +1014,8 @@
     "95bb4a08588eaba7": "2026-10-21T09:30:34.213673+00:00",
     "88184e8f5be61885": "2026-10-21T11:00:49.435699+00:00",
     "9dbeef612366d753": "2026-10-21T12:31:30.498675+00:00",
-    "692a854e6e49cced": "2026-10-21T14:00:51.123642+00:00"
+    "692a854e6e49cced": "2026-10-21T14:00:51.123642+00:00",
+    "b425f9820269ddc1": "2026-10-21T15:31:44.078727+00:00"
   },
   "messages": [
     {
@@ -14688,7 +14689,22 @@
         "משבר פיסקלי",
         "ריבית"
       ]
+    },
+    {
+      "sent_at": "2026-10-21T15:31:44.078727+00:00",
+      "title": "GOOGLE CLOUD & NVIDIA PLAN TO SCALE VERA RUBIN INFRASTRUCTURE TO UP TO 960,000 GPUS Google Cloud announced that its new A5X instances, powered by NVIDIA Vera Rubin NVL72 systems, will become generally available next month, with plans to expand availability to Europe. The new https://t.co/iXI9T62epX",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2112885673401241641",
+      "message": "Google Cloud ו-NVIDIA מתכננות להפעיל עד 960,000 כרטיסי מסך (GPU) בתשתית משותפת - מספר שפשוט קשה לתפוס את הסקייל שלו. המערכות החדשות, שמבוססות על שבבי Vera Rubin, יהיו זמינות לכולם כבר חודש הבא, כולל הרחבה לאירופה.\n\nמה שמעניין פה מעבר לכותרת: תשתית בסדר גודל כזה דורשת כמויות אדירות של חשמל, קירור ומרחב פיזי - מה שמשמעו עוד דלק לחברות מרכזי נתונים, ספקי אנרגיה וחברות הנדסה שבונות את המתקנים האלה.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "Google",
+        "NVIDIA",
+        "AI",
+        "תשתיות"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-21T14:00:44.767694+00:00"
+  "last_auto_run": "2026-10-21T15:30:36.907954+00:00"
 }
