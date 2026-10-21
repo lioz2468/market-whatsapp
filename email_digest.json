@@ -1,225 +1,150 @@
 {
-  "generated_at": "2026-10-20T08:23:03.311438+00:00",
+  "generated_at": "2026-10-21T05:45:11.141814+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
+      "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-6007371/ukraine-and-russia-exchange-strikes-as-relations-between-trump-and-zelenskyy-sour",
-      "summary": "Ukraine carried out a massive drone strikes on Russia, which launched deadly attacks on its smaller neighbor over the weekend.",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
+      "summary": "President Trump's up and down relationship with Russia is back on as he presses to find an end to the war in Ukraine amid high energy costs ahead of the U.S. midterms.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "ארה\"ב"
+        "ארה״ב"
       ],
-      "published": "Mon, 19 Oct 2026 06:38:03 -0400"
+      "published": "Tue, 20 Oct 2026 07:03:52 -0400"
     },
     {
-      "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
-      "summary": "Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine's president says arms shipments delayed.",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
       "importance": 8,
+      "topics": [
+        "סודן",
+        "מלחמה",
+        "אסון"
+      ],
+      "published": "Tue, 20 Oct 2026 17:30:15 GMT"
+    },
+    {
+      "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+      "summary": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "importance": 8,
+      "topics": [
+        "סודאן",
+        "דרום סודאן",
+        "עימות חמוש"
+      ],
+      "published": "Wed, 21 Oct 2026 02:18:10 +0000"
+    },
+    {
+      "title": "דיווח: ישראל רצתה לתקוף החודש תחנות כוח באיראן - ונבלמה בידי טראמפ",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hk65pnhhfg",
+      "summary": "העיתון \"פייננשל טיימס\" דיווח כי התוכנית הייתה לתקוף לפני כשבוע וחצי, גם תשתיות אזרחיות ותחנות כוח. אבל טראמפ סירב לעשות זאת לפני בחירות האמצע. הבית הלבן: \"לא נתקוף לפני 3 בנובמבר\"",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "איראן",
+        "ארה״ב"
+      ],
+      "published": "Wed, 21 Oct 2026 07:31:13 +0300"
+    },
+    {
+      "title": "הפגישה הצבאית בפלורידה - וחילופי האשמות בין ישראל ללבנון על פירוז חיזבאללה",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rk00tzvs2mx",
+      "summary": "קצינים בכירים מישראל ומלבנון נפגשים בטמפה בתיווך אמריקני, כשהמגעים תקועים סביב אזורי הפיילוט בדרום לבנון. צה\"ל האשים כי צבא לבנון לא מונע מחיזבאללה להשתקם ולהתעצם. נתניהו: \"אם חיזבאללה יחוסל, באותו רגע יש לנו הסכם שלום\". כ\"ץ: \"צה\"ל לא יזוז מאזור הביטחון\"",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "לבנון",
+        "חיזבאללה"
+      ],
+      "published": "Wed, 21 Oct 2026 06:42:58 +0300"
+    },
+    {
+      "title": "Current U.S. support for Ukraine looks very different than it did",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
+      "summary": "NPR's Scott Detrow talks with William Taylor, former U.S. Ambassador to Ukraine, about President Trump's recent moves to support Russia and how that compares to past administrations.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "ארה״ב",
+        "גיאופוליטיקה"
+      ],
+      "published": "Tue, 20 Oct 2026 16:27:23 -0400"
+    },
+    {
+      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+      "summary": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
+      "importance": 7,
+      "topics": [
+        "אתיופיה",
+        "אבולה",
+        "בריאות"
+      ],
+      "published": "Tue, 20 Oct 2026 16:19:16 -0400"
+    },
+    {
+      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "ארה״ב",
+        "רוסיה"
+      ],
+      "published": "Wed, 21 Oct 2026 03:59:18 GMT"
+    },
+    {
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "importance": 7,
       "topics": [
         "אוקראינה",
         "ארה״ב",
         "דיפלומטיה"
       ],
-      "published": "Tue, 20 Oct 2026 06:23:44 +0000"
+      "published": "Tue, 20 Oct 2026 20:00:57 GMT"
     },
     {
-      "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.",
-      "importance": 7,
-      "topics": [
-        "צרפת",
-        "הפגנות"
-      ],
-      "published": "Tue, 20 Oct 2026 06:35:57 GMT"
-    },
-    {
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "ארה\"ב",
-        "הודעות"
-      ],
-      "published": "Mon, 19 Oct 2026 20:49:00 GMT"
-    },
-    {
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-      "importance": 7,
-      "topics": [
-        "חלל",
-        "מחקר מדעי"
-      ],
-      "published": "Mon, 19 Oct 2026 19:45:46 GMT"
-    },
-    {
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "importance": 7,
-      "topics": [
-        "קניה",
-        "פשע",
-        "זכויות אדם"
-      ],
-      "published": "Mon, 19 Oct 2026 17:18:04 GMT"
-    },
-    {
-      "title": "Exiled critic of Rwandan president found beheaded",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
-      "importance": 7,
-      "topics": [
-        "רואנדה",
-        "זכויות אדם",
-        "רקיפה פוליטית"
-      ],
-      "published": "Mon, 19 Oct 2026 13:42:41 GMT"
-    },
-    {
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
-      "importance": 7,
-      "topics": [
-        "תימן",
-        "חוות",
-        "ביטחון"
-      ],
-      "published": "Mon, 19 Oct 2026 16:20:51 GMT"
-    },
-    {
-      "title": "Palestine weekly: Israeli settlers attack journalist and diplomats",
+      "title": "Far from fringe: How Israel’s mainstream parties vote with the far right",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss",
-      "summary": "Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports.",
+      "url": "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right?traffic_source=rss",
+      "summary": "Al Jazeera analysed how every party in the Knesset voted on the most consequential measures affecting Palestinians.",
       "importance": 7,
       "topics": [
         "ישראל",
-        "פלסטינים",
-        "הגבלות ממשלתיות"
+        "פוליטיקה",
+        "פלסטינים"
       ],
-      "published": "Tue, 20 Oct 2026 06:22:33 +0000"
-    },
-    {
-      "title": "Japan launches historic mission to bring back Mars moon samples",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
-      "summary": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
-      "importance": 7,
-      "topics": [
-        "חלל",
-        "יפן",
-        "מחקר מדעי"
-      ],
-      "published": "Tue, 20 Oct 2026 04:08:33 +0000"
+      "published": "Wed, 21 Oct 2026 05:24:49 +0000"
     }
   ],
   "business": [
     {
-      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-      "summary": "Amazon משקיעה בבניית 12 כורים גרעיניים קטנים באינדיאנה - על אדמת תחנת פחם ישנה - שיייצרו כמעט גיגה-וואט של חשמל.\n\nזה לא עסקת אנרגיה רגילה. Amazon בונה בעצם תשתית חשמל עצמאית לצרכי ה-AI שלה, מחוץ לרשת הציבורית. כשחברת ענק מתחילה להפעיל כורים גרעיניים בעצמה - זה משנה את כללי המשחק גם לספקיות האנרגיה המסורתיות, גם ליצרניות הכורים הקטנים, וגם לכל שאר חברות הטק שמחפשות פתרון זהה לצריכת החשמל שלהן.",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "summary": "גוגל ואמזון פותחות כלי פיתוח שמאפשר למפתחים לעבור מ-GPU של Nvidia למעבדים שלהן - בקלות. עד עכשיו המעבר היה כואב מספיק שרוב המפתחים לא טרחו. אם הכלים האלה עובדים, זה משנה את המשוואה.\n\nNvidia שולטת בשוק לא רק בגלל החומרה - אלא כי כל הקוד כתוב לה. זה היתרון האמיתי שגוגל ואמזון מנסות לשבור. שווה לעקוב אם מפתחים באמת מתחילים לזוז.",
       "importance": 9,
       "topics": [
-        "אנרגיה",
-        "תשתיות",
+        "GPU",
         "AI",
-        "הוצאות-הון"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Indonesia to Meet Monday With MSCI Over Shock Index Threat",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "הבוקר אינדונזיה מתכנסת לפגישת חירום עם MSCI - אחרי שהתברר שהם לא ידעו מה עומד על הפרק.\n\nMSCI מאיים לסווג את אינדונזיה כ\"שוק עצמאי\" - קטגוריה שמוציאה אותה מהמדדים הגדולים לחלוטין. אינדונזיה חשבה שמדברים על הורדת דרגה מתונה. זה הרבה יותר קיצוני.\n\nלמה זה חשוב גם אם אינדונזיה לא בראש המחשבות שלך: קרנות מדד שעוקבות אחרי שווקים מתעוררים יצטרכו למכור. הכסף שיצא יחפש אלטרנטיבה - ושווקים מתעוררים אחרים, כולל הודו, עשויים להיות הנהנים הישירים.",
-      "importance": 8,
-      "topics": [
-        "הודו",
-        "צבירה",
-        "שוקים"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Jamie Dimon’s National-Security Pledge Finances $230 Billion in First Year",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/banking/jamie-dimons-national-security-pledge-finances-230-billion-in-first-year-c757faf2?mod=rss_markets_main",
-      "summary": "230 מיליארד דולר - זה מה ש-JPMorgan מימן בשנה הראשונה של יוזמת הביטחון הלאומי שהכריז עליה ג'יימי דיימון.\n\nהכסף זורם לקבלני ביטחון ולחיזוק שרשראות אספקה אמריקאיות, וזה לא סתם הצהרת כוונות - זו הכוונה של הבנק הגדול בארה\"ב לקחת חלק פעיל בשינוי המבני שהממשל מוביל.\n\nמה שפחות ברור: יצרניות חלפים תעשייתיות, לוגיסטיקה וסמיקונדקטורים אמריקאיים עשויים להיות מהנהנים הגדולים כאן - הרבה לפני שמישהו מדבר עליהם בהקשר הזה.",
-      "importance": 8,
-      "topics": [
-        "בנקאות",
-        "תשתיות",
-        "הגנה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "עונת הדוחות חזקה, אבל תשואות האג\"ח עולות - ופה נוצרת בדיוק התנגשות שכדאי לעקוב אחריה. המספרים של החברות טובים, אבל כשעלויות ההלוואה עולות, גם הערכות השווי מתחילות להיסחף למטה. הנרטיב שמניות ה-AI חסינות לגמרי מהסביבה הזו - לא לגמרי מדויק. זה לא קטסטרופה, אבל זה אומר שהשוק נכנס לשלב שבו רק דוחות טובים כבר לא מספיקים. שווה לשים לב לאיך שהשבועות הקרובים מתנהגים.",
-      "importance": 8,
-      "topics": [
-        "בינה מלאכותית",
-        "ריבית",
-        "מניות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "France and the U.S. share the same debt trap. Only one has a global lifeline.",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "צרפת והאמריקאים שניהם שקועים בחוב עמוק - יחס חוב לתמ\"ג דומה, גירעונות מתרחבים, ריבית שאוכלת את התקציב. אבל שם הדמיון נגמר: ארה\"ב מנפיקה חוב בדולר, שהוא עדיין מטבע הרזרבה של העולם, אז תמיד יהיו קונים. לצרפת אין את הפריווילגיה הזו. מה שמעניין פה הוא הלקח הגלובלי - מדינה חזקה עם בעיית חוב זהה יכולה להתמוטט, בעוד שמדינה אחרת עם אותה בעיה ממשיכה להתגלגל בזכות מה שמחזיק אותה מבחוץ.",
-      "importance": 8,
-      "topics": [
-        "חוב ממשלתי",
-        "פרנסה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Wheat Futures Rise as Ukraine-Russia Strikes Stoke Supply Fears",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "חוזי חיטה עלו הבוקר אחרי שמתקפות הסוף שבוע בין רוסיה לאוקראינה הקטינו עוד יותר את הסיכוי להסכם ייצוא. שתי המדינות יחד אחראיות לכרבע מסחר החיטה העולמי - כשהן לא מייצאות, כולם מרגישים את זה.\n\nההשפעה לא עוצרת בחיטה: מחירי קמח, לחם ומוצרי מאפה עוקבים אחרי החוזים האלה עם פיגור של כמה חודשים. מדינות מתפתחות שמייבאות חיטה - בעיקר באפריקה ובמזרח התיכון - הן הרגישות ביותר, אבל הלחץ על מדד המזון העולמי ייראה גם בישראל.",
-      "importance": 8,
-      "topics": [
-        "סחורות",
-        "אספקה",
-        "גיאופוליטיקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "One of this year’s most important relationships in global financial markets is falling apart",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "המתאם בין דולר לאג\"ח אמריקאי - שני נכסים שבדרך כלל נעים ביחד - מתחיל להתפרק, ומשקיעים מנסים להבין מה זה אומר.\n\nכשיחסים כאלה נשברים זה בדרך כלל סימן שמשהו גדול יותר קורה מתחת לפני השטח. בפועל זה אומר שמודלים של ניהול סיכונים שעובדים שנים עשויים פתאום להתנהג אחרת - וזה משפיע על כולם, גם על מי שלא מחזיק דולרים או אג\"ח ישירות.",
-      "importance": 8,
-      "topics": [
-        "שוקים",
-        "זרימת הון",
-        "מקרו"
+        "תחרות",
+        "זרימת הון"
       ],
       "tag": "גלובלי"
     },
@@ -250,123 +175,186 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
+      "title": "Yes, the Fed Can Kill the AI Boom",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e?mod=rss_markets_main",
+      "summary": "הריבית יכולה להרוג את בום ה-AI - וזה לא מוגזם.\n\nכשהפד מעלה ריבית, עלות ההון עולה. חברות AI צורכות כמויות עצומות של הון לתשתית, מחקר וצמיחה - ובסביבה של ריבית גבוהה, המשקיעים מתחילים לדרוש תוצאות מהר יותר. זה לוחץ על כל מחזור ההשקעות בטכנולוגיה, לא רק על חברות ה-AI הגדולות. ספקי ענן, חברות שבבים, ואפילו סטארטאפים קטנים שמסתמכים על מימון זול - כולם ירגישו את זה.",
+      "importance": 8,
+      "topics": [
+        "פד",
+        "בינה מלאכותית",
+        "ריבית"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
       "source": "CNBC Top News",
       "url": "",
-      "summary": "השבוע נפתח עם ניסיון התאוששות אחרי שבוע קשה - ה-S&P 500 ירד כמעט 2% ביחד עם הנאסד\"ק שאיבד 4.5%, הכי הרבה מאז סוף יוני. עכשיו בפתיחה, משקיעים מנסים לקנות את הירידות, בעיקר בכל מה שקשור ל-AI.\n\nמה שמעניין פה זה לא רק הנאסד\"ק - כשהכסף זורם חזרה לטכנולוגיה אחרי תיקון כזה, זה בדרך כלל מחזק גם חברות ישראליות שנסחרות בארה\"ב ואת הסנטימנט כלפי סטארטאפים בשלבי גיוס.",
-      "importance": 7,
+      "summary": "ההנפקה של Jio בהודו - ענקית טלקום של משפחת אמבאני - כבר מושכת מעל 26 מיליארד דולר בהזמנות מוסדיות, על הנפקה של 3.2 מיליארד דולר בלבד. זו ההנפקה הגדולה ביותר בהיסטוריה של הודו. BlackRock, קרנות ריבוניות סינגפוריות ועוד - כולם בתור.\n\nהמעניין פה הוא הסיגנל הרחב יותר: כסף מוסדי גדול בוחר בהודו בתקופה שבה סין פחות אטרקטיבית. מי שמחפש חשיפה לצמיחה אסייתית - המפה משתנה.",
+      "importance": 8,
       "topics": [
-        "שווקים",
-        "טכנולוגיה",
-        "בורסה"
+        "הודו",
+        "IPO",
+        "זרימת הון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Meta is back on offense — and its next move could signal higher AI spending across Big Tech",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/meta-is-back-on-offense-and-its-next-move-could-signal-higher-ai-spending-across-big-tech-09682ff7?mod=mw_rss_topstories",
+      "summary": "Meta מפרסמת תוצאות ברבעון הקרוב, והציפייה היא שתהיה החברה הראשונה מבין ענקיות הטכנולוגיה שתודיע על הוצאות AI גבוהות מהצפוי לשנה הבאה. זה לא רק עניין של Meta - אם היא מתחילה את המגמה, סביר שאמזון, גוגל ומיקרוסופט יגיעו עם מספרים דומים. מי שכדאי לשים אליו לב: ספקיות התשתיות - חברות אנרגיה, מרכזי נתונים וייצור שבבים. כשה-Big Tech מוציא יותר, הכסף זורם לשם.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "הוצאות טכנולוגיה",
+        "זרימת הון"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "שוקי האשראי האמריקאים שולחים כרגע סימנים סותרים - וזה לא קורה הרבה.\n\nמצד אחד, אג\"ח זבל רגילות נסחרות בשלווה יחסית. מצד שני, האג\"ח הכי מסוכנות מבין הזבל - אלו של חברות בקצה הסיכון - מתחילות לאותת על לחץ. הפער בין שני השכבות הזה הוא בדיוק הסוג של דבר שמקדים בעיות.\n\nמי שצריך לשים לב מעבר לשוק האשראי עצמו: חברות שמסתמכות על גיוסי חוב זול לצורך פעילות שוטפת, וגם שוק המניות של חברות קטנות שנסחרות ב-leverage גבוה.",
+      "importance": 8,
+      "topics": [
+        "אשראי",
+        "סיכון שוק",
+        "אגרות חוב"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "The AI boom is getting all the attention. We’re about to find out how the rest of the economy is holding up.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "עונת הדוחות הכספיים נכנסת להילוך גבוה השבוע - ועיקר העניין הוא דווקא מחוץ לטק. אחרי חודשים שבהם כל השיחה סבבה סביב AI, עכשיו נגלה איך שאר הכלכלה האמריקאית מחזיקה. חברות מתחום הצריכה, הפיננסים והתעשייה ידווחו בימים הקרובים - וזה יגיד לנו הרבה יותר על הצרכן האמריקאי מכל נתון מאקרו. אם הדוחות מאכזבים, זה יכול להשפיע גם על תחושת הסיכון הגלובלית - כולל פה.",
+      "importance": 8,
+      "topics": [
+        "הוצאות צרכנים",
+        "רווחיות",
+        "כלכלה"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "נפט אמריקאי חצה את $105 לחבית, ומחיר הברנט נמצא בשיא של חמישה חודשים - הכל על רקע המתיחות במזרח התיכון.\n\nכשנפט עולה ברמות האלה, זה לא רק עניין של משאבות הדלק. חברות תעופה, ספנות ולוגיסטיקה סופגות עלויות בצורה ישירה, וזה מתגלגל לשרשרת האספקה כולה. יותר מזה - אינפלציה שנראתה כאילו מתמתנת עלולה לשוב ולהרים ראש, וזה אומר שהפד יצטרך לחשב מסלול מחדש.\n\nשווה לעקוב איך השווקים מגיבים בימים הקרובים.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
+        "מחירים",
+        "גיאופוליטיקה"
       ],
       "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "title": "Quantum error correction goes well beyond breakeven",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+      "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
+      "importance": 9,
+      "topics": [
+        "קוונטי",
+        "מחקר"
+      ],
+      "published": "Tue, 20 Oct 2026 18:08:57 +0000"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
       "importance": 8,
+      "topics": [
+        "AI",
+        "GPU",
+        "תחרות"
+      ],
+      "published": "Tue, 20 Oct 2026 18:38:24 +0000"
+    },
+    {
+      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+      "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also […]",
+      "importance": 8,
+      "topics": [
+        "מיזוג וקנייה",
+        "SpaceX",
+        "Tesla"
+      ],
+      "published": "2026-10-20T17:30:24-04:00"
+    },
+    {
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "תשתית",
+        "TLS"
+      ],
+      "published": "Tue, 20 Oct 2026 19:47:35 +0000"
+    },
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "importance": 7,
       "topics": [
         "AI",
         "Anthropic",
-        "מחשוב"
+        "infrastructure"
       ],
-      "published": "Mon, 19 Oct 2026 23:39:38 +0000"
+      "published": "Tue, 20 Oct 2026 21:25:22 +0000"
     },
     {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "importance": 8,
-      "topics": [
-        "שבבים",
-        "AI",
-        "Nvidia"
-      ],
-      "published": "Mon, 19 Oct 2026 18:37:27 +0000"
-    },
-    {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
       "importance": 7,
       "topics": [
         "AI",
-        "Amazon",
-        "Nvidia"
-      ],
-      "published": "Mon, 19 Oct 2026 20:09:24 +0000"
-    },
-    {
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "אבטחה",
-        "סייבר"
-      ],
-      "published": "Mon, 19 Oct 2026 19:28:34 +0000"
-    },
-    {
-      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "CoreWeave",
-        "פיננסים"
-      ],
-      "published": "2026-10-19T17:28:20-04:00"
-    },
-    {
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "importance": 7,
-      "topics": [
         "OpenAI",
-        "אבטחה",
-        "ניידות"
+        "Biotech"
       ],
-      "published": "Mon, 19 Oct 2026 20:21:53 +0000"
+      "published": "Tue, 20 Oct 2026 20:35:10 +0000"
     },
     {
-      "title": "Florida DMV hacked after police dept insecurely stored login info",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-      "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
+      "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+      "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. \"This is a […]",
       "importance": 7,
       "topics": [
-        "אבטחה",
-        "פריצה",
-        "נתונים"
+        "SpaceX",
+        "טכנולוגיה חלל"
       ],
-      "published": "Mon, 19 Oct 2026 16:38:13 +0000"
+      "published": "2026-10-20T17:02:53-04:00"
     },
     {
-      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "title": "SpaceX says big AI growth fueled revenue jump",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+      "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its Connectivity group posted income from operations $2.4 […]",
       "importance": 7,
       "topics": [
-        "Disney",
         "AI",
-        "M&A"
+        "SpaceX",
+        "בעדכון כספי"
       ],
-      "published": "Mon, 19 Oct 2026 14:45:43 +0000"
+      "published": "2026-10-20T16:26:58-04:00"
     }
   ]
 }
