@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "final_message": "מאסק הכריז שה-Terafab - מפעל השבבים של טסלה - ידרוש עשרות מיליארדי דולרים בציוד עד תחילת 2028, ובטווח הארוך כנראה יותר מ-100 מיליארד. רוב ההזמנות למפעל הראשון כבר בוצעו, עם יעד לייצור אמיתי לקראת סוף 2028.\n\nמה שמעניין כאן: חלוקת המימון בין טסלה ל-SpaceX עדיין לא הוחלטה - כלומר, למשקיעי טסלה עדיין לא ברור כמה מהחשבון יגיע אליהם. ולמי שלא עוקב אחרי סמיקונדקטורים - הזרמת הון בסדר גודל כזה לציוד ייצור שבבים היא בדיוק מה שחברות כמו ASML ו-Applied Materials מחפשות.",
+    "title": "$TSLA CEO Elon Musk says Terafab will need “tens of billions” in capital equipment through early 2028 & “probably be north of $100 billion long term.” Tesla-SpaceX funding split is undecided Most orders for the first fab are placed, with real production targeted for late 2028",
+    "source": "Twitter @wallstengine",
+    "hash": "4c7ca4310acff7e3",
+    "importance": 9,
+    "tag": "ארה\"ב",
+    "topics": [
+      "השקעות",
+      "סמיקונדקטור",
+      "Tesla"
+    ]
+  },
+  {
+    "final_message": "שלוש חברות משלוש נקודות שונות בשרשרת ה-AI - SpaceX, Anthropic ו-NVIDIA - נתנו סיגנלים חיוביים ביום אחד, ו-Nasdaq מחק את רוב הירידה מיום שישי.\n\nמה שמעניין פה: כשהאופטימיות מגיעה בו-זמנית מתשתית (SpaceX), מודלים (Anthropic) וחומרה (NVIDIA), זה לא רעש רגיל. זה משהו שיושב לו עמוק יותר בשוק. ספקי ענן, חברות סמיקונדקטור קטנות יותר ואפילו חברות אנרגיה שמזינות מרכזי נתונים - כולן יושבות על אותה גל.",
+    "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
+    "source": "WSJ Markets",
+    "hash": "6b744479be3b3fe9",
+    "importance": 8,
+    "tag": "ארה\"ב",
+    "topics": [
+      "AI",
+      "טכנולוגיה",
+      "בורסה"
+    ]
+  }
+]
