@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-22T07:14:44.106789+00:00",
+  "generated_at": "2026-10-22T08:29:14.791177+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "\"קצר ואינטנסיבי\": תוכנית ארה\"ב-ישראל לאיראן, המחלוקת ותוכנית הנקמה של טהרן",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/wfj5nzl9p",
-      "summary": "לפי \"ניו יורק טיימס\", התוכניות כוללות מתקני גרעין, אנרגיה, טילים וכטב\"מים. ההערכה: מתקפה של 3 ימים עשויה לגרום לאיראן נזק כלכלי שיחזיר אותה למו\"מ. טראמפ: \"משהו יקרה בקרוב\", בטהרן איימו: \"זה לא יהיה קצר, מתקני נפט בסעודיה ייפגעו ומחירי האנרגיה יזנקו\". משמרות המהפכה: \"7 ספינות עלו באש בהורמוז\"",
+      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
       "importance": 9,
       "topics": [
-        "איראן",
-        "ארה״ב",
-        "ישראל"
+        "אוקראינה",
+        "רוסיה",
+        "שלום"
       ],
-      "published": "Thu, 22 Oct 2026 03:12:13 +0300"
+      "published": "Wed, 21 Oct 2026 21:27:41 GMT"
     },
     {
       "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
@@ -23,10 +23,23 @@
       "importance": 8,
       "topics": [
         "הודו",
-        "בחירות",
-        "משבר דמוקרטי"
+        "דמוקרטיה",
+        "בחירות"
       ],
       "published": "Wed, 21 Oct 2026 04:42:10 -0400"
+    },
+    {
+      "title": "The world is $365 trillion in debt, and the interest bill is climbing",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
+      "summary": "Protests in Europe have highlighted debt squeeze, with France now paying more to borrow than Italy and Greece.",
+      "importance": 8,
+      "topics": [
+        "כלכלה",
+        "חוב",
+        "מדיניות כלכלית"
+      ],
+      "published": "Thu, 22 Oct 2026 05:59:52 +0000"
     },
     {
       "title": "AIPAC halts endorsements and direct contributions to candidates",
@@ -37,7 +50,7 @@
       "topics": [
         "AIPAC",
         "ישראל",
-        "מדיניות בחו״ל"
+        "לובי ישראלי בארה״ב"
       ],
       "published": "Wed, 21 Oct 2026 20:22:48 -0400"
     },
@@ -50,7 +63,7 @@
       "topics": [
         "רוסיה",
         "ארה״ב",
-        "אוקראינה"
+        "פוטין"
       ],
       "published": "Wed, 21 Oct 2026 18:39:19 -0400"
     },
@@ -62,8 +75,8 @@
       "importance": 7,
       "topics": [
         "סעודיה",
-        "תימן",
-        "חוטים"
+        "יומן האות",
+        "ביטחון"
       ],
       "published": "Wed, 21 Oct 2026 04:40:51 -0400"
     },
@@ -74,80 +87,53 @@
       "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
       "importance": 7,
       "topics": [
-        "סייבר-אבטחה",
-        "טכנולוגיה",
-        "AI"
+        "סייבר",
+        "בטחון",
+        "PHP"
       ],
       "published": "Thu, 22 Oct 2026 06:24:59 GMT"
     },
     {
-      "title": "The world is $365 trillion in debt, and the interest bill is climbing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
-      "summary": "Protests in Europe have highlighted debt squeeze, with France now paying more to borrow than Italy and Greece.",
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
       "importance": 7,
       "topics": [
-        "כלכלה גלובלית",
-        "חוב",
-        "אירופה"
+        "סעודיה",
+        "תימן",
+        "ארצות הברית"
       ],
-      "published": "Thu, 22 Oct 2026 05:59:52 +0000"
+      "published": "Thu, 22 Oct 2026 01:07:34 GMT"
     },
     {
-      "title": "Ukraine’s access to Starlink a decision for Elon Musk, Rubio says",
+      "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/ukraines-access-to-starlink-a-decision-for-elon-musk-rubio-says?traffic_source=rss",
-      "summary": "US secretary of state says White House not to blame for reported speed limits on internet services in Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
+      "summary": "With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.",
       "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "ארה\"ב",
-        "טכנולוגיה"
-      ],
-      "published": "Thu, 22 Oct 2026 05:54:12 +0000"
-    },
-    {
-      "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts",
-      "summary": "North Korea plans to resume anti-Seoul propaganda broadcasts along the heavily armed border with South Korea, leader Kim Jong Un's sister said, reviving a psychological warfare campaign.",
-      "importance": 6,
-      "topics": [
-        "קוריאה הצפונית",
-        "קוריאה הדרומית",
-        "ביטחון"
-      ],
-      "published": "Thu, 22 Oct 2026 02:36:07 -0400"
-    },
-    {
-      "title": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
-      "summary": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
-      "importance": 6,
       "topics": [
         "ישראל",
-        "הפלסטינים",
-        "ארה״ב"
+        "פוליטיקה",
+        "בחירות"
       ],
-      "published": "Wed, 21 Oct 2026 09:28:04 -0400"
+      "published": "Thu, 22 Oct 2026 07:02:10 +0000"
+    },
+    {
+      "title": "‘Stupid talk’: France rejects Trump’s attempt to blame unrest on migration",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/stupid-talk-france-rejects-trumps-attempt-to-blame-unrest-on-migration?traffic_source=rss",
+      "summary": "The US president has turned his attention to France, but his comments appear to have been dismissed by Macron.",
+      "importance": 7,
+      "topics": [
+        "גיאופוליטיקה",
+        "צרפת",
+        "ארצות הברית"
+      ],
+      "published": "Thu, 22 Oct 2026 05:58:52 +0000"
     }
   ],
   "business": [
-    {
-      "title": "AI's spending boom faces a 'gut check': Who can actually make money?",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
-      "summary": "שוק ה-AI עובר מרגע של \"כמה אפשר להשקיע\" לרגע של \"מי בכלל מרוויח מזה\". אחרי שנתיים שבהן מיליארדים זרמו לתשתיות ומרכזי נתונים, המשקיעים מתחילים לשאול שאלות קשות יותר.\n\nזה חשוב לא רק לחברות AI. ספקיות ענן, יצרניות שבבים, וחברות שבנו את המודל העסקי שלהן על ההנחה שהכסף ימשיך לזרום - כולן עכשיו תחת לחץ אחר. השוק מבקש ראיות, לא רק הבטחות.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "השקעות",
-        "רווחיות",
-        "דטה סנטרים"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "In the battle for AI supremacy, China is only six months behind the U.S — but that means it’s winning, says former Google CEO",
       "source": "MarketWatch",
@@ -202,6 +188,19 @@
       "tag": "גלובלי"
     },
     {
+      "title": "$TSLA CEO Elon Musk says Terafab will need “tens of billions” in capital equipment through early 2028 & “probably be north of $100 billion long term.” Tesla-SpaceX funding split is undecided Most orders for the first fab are placed, with real production targeted for late 2028",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "summary": "מאסק הכריז שה-Terafab - מפעל השבבים של טסלה - ידרוש עשרות מיליארדי דולרים בציוד עד תחילת 2028, ובטווח הארוך כנראה יותר מ-100 מיליארד. רוב ההזמנות למפעל הראשון כבר בוצעו, עם יעד לייצור אמיתי לקראת סוף 2028.\n\nמה שמעניין כאן: חלוקת המימון בין טסלה ל-SpaceX עדיין לא הוחלטה - כלומר, למשקיעי טסלה עדיין לא ברור כמה מהחשבון יגיע אליהם. ולמי שלא עוקב אחרי סמיקונדקטורים - הזרמת הון בסדר גודל כזה לציוד ייצור שבבים היא בדיוק מה שחברות כמו ASML ו-Applied Materials מחפשות.",
+      "importance": 9,
+      "topics": [
+        "השקעות",
+        "סמיקונדקטור",
+        "Tesla"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
       "title": "Oil prices climb as traders assess Middle East developments",
       "source": "CNBC Top News",
       "url": "",
@@ -252,9 +251,48 @@
         "מאקרו"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "שלוש חברות משלוש נקודות שונות בשרשרת ה-AI - SpaceX, Anthropic ו-NVIDIA - נתנו סיגנלים חיוביים ביום אחד, ו-Nasdaq מחק את רוב הירידה מיום שישי.\n\nמה שמעניין פה: כשהאופטימיות מגיעה בו-זמנית מתשתית (SpaceX), מודלים (Anthropic) וחומרה (NVIDIA), זה לא רעש רגיל. זה משהו שיושב לו עמוק יותר בשוק. ספקי ענן, חברות סמיקונדקטור קטנות יותר ואפילו חברות אנרגיה שמזינות מרכזי נתונים - כולן יושבות על אותה גל.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "טכנולוגיה",
+        "בורסה"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
+    {
+      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+      "importance": 9,
+      "topics": [
+        "אבטחה",
+        "PHP",
+        "פרצות"
+      ],
+      "published": "Wed, 21 Oct 2026 14:26:19 +0000"
+    },
+    {
+      "title": "אתרים לא זמינים לכם פתאום? זה מכוון ותאשימו את PHP",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/php2shell-critical-php-vulnerabilities/",
+      "summary": "כשזה מגיע לחולשות אבטחה שמשפיעות על מיליוני משתמשים, אנחנו בדרך כלל חושבים מיד על מערכות הפעלה כמו ווינדוס או אנדרואיד, או על דפדפנים עם נתח שוק חריג כמו כרום. אבל הפעם הסכנה מגיעה מכיוון קצת אחר, ומאחד הרכיבים החשובים ביותר באינטרנט. זה אמנם רכיב שרוב המשתמשים בכלל לא מודעים לקיומו, אבל הוא נמצא בשימוש יומיומי […] The post אתרים לא זמינים לכם פתאום? זה מכוון ותאשימו את PHP appeared first on גיקטי",
+      "importance": 9,
+      "topics": [
+        "אבטחה",
+        "PHP",
+        "פרצות"
+      ],
+      "published": "Wed, 21 Oct 2026 14:06:34 +0000"
+    },
     {
       "title": "Tesla starts Optimus robot production in California as profit falls 43%",
       "source": "TechCrunch",
@@ -262,8 +300,8 @@
       "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
       "importance": 8,
       "topics": [
+        "טסלה",
         "רובוטיקה",
-        "Tesla",
         "AI"
       ],
       "published": "Wed, 21 Oct 2026 20:33:09 +0000"
@@ -275,24 +313,11 @@
       "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than […]",
       "importance": 8,
       "topics": [
-        "אבטחת סייבר",
+        "אבטחה סייבר",
         "PHP",
         "AI"
       ],
       "published": "2026-10-21T16:36:56-04:00"
-    },
-    {
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "Google Cloud"
-      ],
-      "published": "Wed, 21 Oct 2026 18:51:42 +0000"
     },
     {
       "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
@@ -302,23 +327,36 @@
       "importance": 8,
       "topics": [
         "אבטחה",
-        "פתיחות",
-        "AWS"
+        "ציבור",
+        "PHP"
       ],
       "published": "Thu, 22 Oct 2026 02:24:17 +0000"
     },
     {
-      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
       "source": "Wired",
-      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
       "importance": 8,
       "topics": [
-        "אבטחה",
-        "אינטרנט",
-        "PHP"
+        "NVIDIA",
+        "תשתיות",
+        "AI"
       ],
-      "published": "Wed, 21 Oct 2026 14:26:19 +0000"
+      "published": "Wed, 21 Oct 2026 15:02:15 +0000"
+    },
+    {
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "אבטחה",
+        "סייבר"
+      ],
+      "published": "Wed, 21 Oct 2026 14:00:00 +0000"
     },
     {
       "title": "Tesla says it will start selling Cybercabs by end of year",
@@ -327,37 +365,11 @@
       "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
       "importance": 7,
       "topics": [
-        "רכב אוטונומי",
-        "Tesla",
-        "טכנולוגיה"
+        "וסילות אוטונומיות",
+        "טסלה",
+        "טכנולוגיה אוטונומית"
       ],
       "published": "Thu, 22 Oct 2026 00:17:54 +0000"
-    },
-    {
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Meta",
-        "מימון"
-      ],
-      "published": "Wed, 21 Oct 2026 22:45:34 +0000"
-    },
-    {
-      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-      "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
-      "importance": 7,
-      "topics": [
-        "Meta",
-        "פרטיות",
-        "אנטי-טראסט"
-      ],
-      "published": "Wed, 21 Oct 2026 19:42:32 +0000"
     }
   ]
 }
