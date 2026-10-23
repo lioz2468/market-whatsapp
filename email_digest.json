@@ -1,192 +1,138 @@
 {
-  "generated_at": "2026-10-22T08:29:14.791177+00:00",
+  "generated_at": "2026-10-23T05:45:09.064545+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+      "summary": "The U.S. and Israel are preparing plans for a possible attack on Iran in early November, after the U.S. midterm elections, a person briefed on war planning told NPR. Iran said it is prepared.",
       "importance": 9,
+      "topics": [
+        "ארה״ב",
+        "ישראל",
+        "איראן"
+      ],
+      "published": "Thu, 22 Oct 2026 04:56:58 -0400"
+    },
+    {
+      "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+      "summary": "Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.",
+      "importance": 9,
+      "topics": [
+        "איראן",
+        "ארה״ב",
+        "קונפליקט"
+      ],
+      "published": "Fri, 23 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "title": "What we know about war plans that Trump and Netanyahu are drawing up",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
+      "summary": "Could the U.S. and Israel be on the verge of launching a new attack on Iran? President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table.",
+      "importance": 8,
+      "topics": [
+        "ארה״ב",
+        "ישראל",
+        "איראן"
+      ],
+      "published": "Thu, 22 Oct 2026 18:17:04 -0400"
+    },
+    {
+      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "importance": 8,
+      "topics": [
+        "גרמניה",
+        "ריסוס רוסי",
+        "ביטחון"
+      ],
+      "published": "Thu, 22 Oct 2026 17:07:03 GMT"
+    },
+    {
+      "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
+      "summary": "Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "פלסטינים",
+        "בעיית השטחים"
+      ],
+      "published": "Fri, 23 Oct 2026 04:09:28 +0000"
+    },
+    {
+      "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6010509/former-u-s-ambassador-to-ukraine-william-taylor-on-trumps-embrace-of-russia",
+      "summary": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine William Taylor about President Trump's embrace of Russia as envoy Steve Witkoff visits Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
+      "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "שלום"
+        "ארה״ב"
       ],
-      "published": "Wed, 21 Oct 2026 21:27:41 GMT"
+      "published": "Thu, 22 Oct 2026 05:59:02 -0400"
     },
     {
-      "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
-      "summary": "India is plunged into political crisis after 130 million names were struck off voter rolls during a massive revision.",
-      "importance": 8,
-      "topics": [
-        "הודו",
-        "דמוקרטיה",
-        "בחירות"
-      ],
-      "published": "Wed, 21 Oct 2026 04:42:10 -0400"
-    },
-    {
-      "title": "The world is $365 trillion in debt, and the interest bill is climbing",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
-      "summary": "Protests in Europe have highlighted debt squeeze, with France now paying more to borrow than Italy and Greece.",
-      "importance": 8,
-      "topics": [
-        "כלכלה",
-        "חוב",
-        "מדיניות כלכלית"
-      ],
-      "published": "Thu, 22 Oct 2026 05:59:52 +0000"
-    },
-    {
-      "title": "AIPAC halts endorsements and direct contributions to candidates",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
-      "summary": "The pro-Israel lobbying group and influential political funder announced it would no longer endorse candidates or give directly to campaigns. AIPAC's affiliated super PAC, though, will continue.",
-      "importance": 7,
-      "topics": [
-        "AIPAC",
-        "ישראל",
-        "לובי ישראלי בארה״ב"
-      ],
-      "published": "Wed, 21 Oct 2026 20:22:48 -0400"
-    },
-    {
-      "title": "Putin releases American Stephen Hubbard from Russian prison",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison",
-      "summary": "Russian President Vladimir Putin has freed another American, 74-year-old Michigan native Stephen Hubbard, from a Russian prison following a request from President Trump.",
-      "importance": 7,
-      "topics": [
-        "רוסיה",
-        "ארה״ב",
-        "פוטין"
-      ],
-      "published": "Wed, 21 Oct 2026 18:39:19 -0400"
-    },
-    {
-      "title": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
-      "summary": "Britain offers military support as Saudi cancels renowned 'Davos in desert\" investor meeting due to strikes from Houthi forces in Yemen.",
-      "importance": 7,
-      "topics": [
-        "סעודיה",
-        "יומן האות",
-        "ביטחון"
-      ],
-      "published": "Wed, 21 Oct 2026 04:40:51 -0400"
-    },
-    {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "importance": 7,
+      "topics": [
+        "סודאן",
+        "פשעי מלחמה"
+      ],
+      "published": "Thu, 22 Oct 2026 23:16:16 GMT"
+    },
+    {
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "טכנולוגיה",
+        "ארה״ב"
+      ],
+      "published": "Thu, 22 Oct 2026 21:42:39 GMT"
+    },
+    {
+      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say they both travelled through Entebbe International Airport on 3 October.",
+      "importance": 7,
+      "topics": [
+        "אבולה",
+        "בריאות ציבורית",
+        "אפריקה"
+      ],
+      "published": "Fri, 23 Oct 2026 04:54:25 GMT"
+    },
+    {
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
       "importance": 7,
       "topics": [
         "סייבר",
-        "בטחון",
-        "PHP"
+        "אבטחה מידע",
+        "טכנולוגיה"
       ],
-      "published": "Thu, 22 Oct 2026 06:24:59 GMT"
-    },
-    {
-      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-      "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
-      "importance": 7,
-      "topics": [
-        "סעודיה",
-        "תימן",
-        "ארצות הברית"
-      ],
-      "published": "Thu, 22 Oct 2026 01:07:34 GMT"
-    },
-    {
-      "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
-      "summary": "With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "פוליטיקה",
-        "בחירות"
-      ],
-      "published": "Thu, 22 Oct 2026 07:02:10 +0000"
-    },
-    {
-      "title": "‘Stupid talk’: France rejects Trump’s attempt to blame unrest on migration",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/stupid-talk-france-rejects-trumps-attempt-to-blame-unrest-on-migration?traffic_source=rss",
-      "summary": "The US president has turned his attention to France, but his comments appear to have been dismissed by Macron.",
-      "importance": 7,
-      "topics": [
-        "גיאופוליטיקה",
-        "צרפת",
-        "ארצות הברית"
-      ],
-      "published": "Thu, 22 Oct 2026 05:58:52 +0000"
+      "published": "Thu, 22 Oct 2026 17:12:51 GMT"
     }
   ],
   "business": [
-    {
-      "title": "In the battle for AI supremacy, China is only six months behind the U.S — but that means it’s winning, says former Google CEO",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
-      "summary": "פער של חצי שנה בלבד בין סין לארה\"ב ב-AI - זה הנתון שאריק שמידט, המנכ\"ל לשעבר של גוגל, זורק לשולחן. לפי שמידט, כשמדובר בתחרות טכנולוגית, פער כזה הוא לא פיגור - זה כמעט שוויון. ומה שמעניין עוד יותר: הוא אומר ש-AI בכלל אינו בועה - יש שם לקוחות אמיתיים שמשלמים על דברים שעובדים. למשקיעים ששוקלים חשיפה לסקטור הזה, זה מסגרת חשיבה חשובה - התחרות בין המעצמות לא מאיטה את הצמיחה, היא מאיצה אותה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "ארה\"ב-סין",
-        "טכנולוגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "התשואה על אג\"ח צרפתי ל-10 שנים עלתה ל-5% - הרמה הגבוהה ביותר מאז 2002. זה לא רק מספר: כשמשקיעים דורשים ריבית גבוהה כל כך כדי להלוות לממשלה, זה סימן שהם לא בטוחים ביכולת שלה לנהל את הכספים.\n\nצרפת תקועה בבעיה קלאסית - הממשלה צריכה לקצץ בהוצאות, אבל ברחובות דורשים ממנה להוציא יותר. מי שכדאי לשים לב: בנקים אירופיים שמחזיקים הרבה אג\"ח צרפתי, ויורו שיכול להרגיש את הלחץ.",
-      "importance": 9,
-      "topics": [
-        "סחירות אירופה",
-        "משבר פיסקלי",
-        "ריבית"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "GOOGLE CLOUD & NVIDIA PLAN TO SCALE VERA RUBIN INFRASTRUCTURE TO UP TO 960,000 GPUS Google Cloud announced that its new A5X instances, powered by NVIDIA Vera Rubin NVL72 systems, will become generally available next month, with plans to expand availability to Europe. The new https://t.co/iXI9T62epX",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2112885673401241641",
-      "summary": "Google Cloud ו-NVIDIA מתכננות להפעיל עד 960,000 כרטיסי מסך (GPU) בתשתית משותפת - מספר שפשוט קשה לתפוס את הסקייל שלו. המערכות החדשות, שמבוססות על שבבי Vera Rubin, יהיו זמינות לכולם כבר חודש הבא, כולל הרחבה לאירופה.\n\nמה שמעניין פה מעבר לכותרת: תשתית בסדר גודל כזה דורשת כמויות אדירות של חשמל, קירור ומרחב פיזי - מה שמשמעו עוד דלק לחברות מרכזי נתונים, ספקי אנרגיה וחברות הנדסה שבונות את המתקנים האלה.",
-      "importance": 9,
-      "topics": [
-        "Google",
-        "NVIDIA",
-        "AI",
-        "תשתיות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
-      "summary": "ארה\"ב מוציאה דיפלומטים לא חיוניים מסעודיה - אחרי שפגיעות חות'יות פגעו בשדה תעופה ושדה נפט. לפי הדיווחים, בוושינגטון שוקלים צעדים צבאיים נגד איראן.\n\nמה שמעניין כאן: הסיכון לא רק בנפט - הוא בשרשרת ההשפעות. עצבנות באזור מעלה פרמיית סיכון על כל הנכסים במזרח התיכון, לוחצת על חברות ביטוח ימי, ועלולה לדחוף כסף מוסדי לנכסי מקלט כמו זהב ואג\"ח ממשלתיות.",
-      "importance": 9,
-      "topics": [
-        "גיאופוליטיקה",
-        "נפט",
-        "סיכון"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "$TSLA CEO Elon Musk says Terafab will need “tens of billions” in capital equipment through early 2028 & “probably be north of $100 billion long term.” Tesla-SpaceX funding split is undecided Most orders for the first fab are placed, with real production targeted for late 2028",
       "source": "Twitter @wallstengine",
@@ -201,56 +147,17 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "Oil prices climb as traders assess Middle East developments",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "מחירי הנפט עולים אחרי שהמשמרות המהפכניות של איראן הודיעו שמוקשים ימיים חסמו שלושה מכליות במיצר הורמוז. זה לא סתם מתיחות - כ-20% מסחר הנפט העולמי עובר דרך המיצר הזה.\n\nמעבר לנפט, ההשפעה העקיפה היא על חברות ביטוח ימי, חברות ספנות, ובסופו של דבר על כל מה שמגיע מאסיה לאירופה. כשהמיצר מתהדק - עלויות השינוע עולות, ואלה עוברות הלאה לצרכנים.",
-      "importance": 8,
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "summary": "15 מיליארד דולר. זה מה שגייסה DeepSeek, ימים ספורים אחרי שהממשל האמריקאי הורה להסיר את הטכנולוגיה שלה מרשויות פדרליות מטעמי ביטחון לאומי.\n\nה-timing כאן לא מקרי - זה מסר. הסנקציות לא האטו את DeepSeek, הן כנראה האיצו את הגיבוי הסיני מאחוריה. מי שצריך לשים לב: חברות AI אמריקאיות שהניחו שהלחץ הרגולטורי יאלץ את הצד הסיני לנסוג - המציאות נראית אחרת לגמרי.",
+      "importance": 9,
       "topics": [
-        "אנרגיה",
-        "גיאופוליטיקה",
-        "אספקה"
+        "AI",
+        "ווסת",
+        "גיופוליטיקה"
       ],
       "tag": "גלובלי"
-    },
-    {
-      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "האינפלציה בבריטניה קפצה ל-3.5% - גבוה ממה שצפו הכלכלנים. הדלק הוא הגורם המרכזי, אבל זה לא רק עניין בריטי.\n\nבנק אנגליה היה בדרך להוריד ריבית - עכשיו זה נראה הרבה פחות סביר. מה שמעניין: שוקי האג\"ח בכל העולם מגיבים לנתונים כאלה, כי הם מאותתים שהלחץ האינפלציוני לא נגמר. גם השקל עשוי להיות מושפע דרך שערי החליפין עם הפאונד.",
-      "importance": 8,
-      "topics": [
-        "אינפלציה",
-        "ריבית",
-        "בנק אנגלי"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "תוצאות הניסוי הקליני של החיסון נגד סרטן של Moderna יתפרסמו בסוף השבוע - וזה אחד הרגעים החשובים ביותר בביוטק בשנים האחרונות.\n\nמדובר בניסוי שלב 3 מלא, הרמה הגבוהה ביותר לפני אישור רגולטורי. אם הנתונים חיוביים, זה לא רק מנייה - זה שינוי אמיתי בדרך שבה מטפלים בסרטן. אם הם מאכזבים, הציפיות שתומחרו בשנה האחרונה עלולות להתאדות מהר.\n\nשווה לשים לב גם לחברות ביוטק קטנות שעובדות על גישות דומות - הנתונים האלה ישפיעו על כל התחום.",
-      "importance": 8,
-      "topics": [
-        "בייוטק",
-        "מניות",
-        "מחקר קליניקלי"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "נתוני הדיור בארה\"ב הציגו ירידה נוספת בספטמבר - בדיוק כשהפד שוקל המשך העלאות ריבית. שוק הנדל\"ן הוא בדרך כלל אחד הראשונים לקרוס תחת לחץ הריבית, ועכשיו הוא שולח אותות אזהרה ברורים.\n\nמה שמעניין פה זה לא רק הנדל\"ן עצמו - הצרכנים שמרגישים שהבית שלהם שווה פחות מוציאים פחות כסף, הבנקים מהדקים תנאי אשראי, וחברות בנייה, חומרי גלם וריהוט - כולם מרגישים את זה אחרי.",
-      "importance": 8,
-      "topics": [
-        "נדל\"ן",
-        "ריבית",
-        "מאקרו"
-      ],
-      "tag": "ארה\"ב"
     },
     {
       "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
@@ -264,112 +171,201 @@
         "בורסה"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "It Looks Like a Music Festival. It’s Really a Sales Pitch for Private Credit.",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/private-credit-retail-investors-festival-c550f07b?mod=rss_markets_main",
+      "summary": "אחד הטרנדים הגדולים בשווקים עכשיו קורה מחוץ לבורסה - קרנות אשראי פרטי מנסות לגייס כסף מהחוסך הממוצע, ולא רק ממוסדיים. הן עושות את זה דרך יועצי השקעות פרטיים, עם כנסים מפוארים שנראים כמו פסטיבל מוזיקה. הסיבה פשוטה: שוק המוסדיים כבר רווי, וטריליוני דולרים יושבים בחשבונות של משקי בית פרטיים. מי שצריך לשים לב - בנקים קמעונאיים, פלטפורמות השקעה דיגיטליות, ואפילו חברות ביטוח שמתחרות על אותו ארנק.",
+      "importance": 8,
+      "topics": [
+        "אשראי פרטי",
+        "זרימת הון",
+        "ייעוץ השקעות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "Barclays מפטר 5,000 עובדים - כ-5% מכוח האדם שלו - וזה לא קיצוץ כלכלי רגיל. הסיבה המוצהרת: AI שמבצע עבודות בק-אופיס שעד עכשיו דרשו אנשים.\n\nזה משמעותי כי Barclays הוא אחד הבנקים הגדולים והשמרניים בעולם. כשגם הם עוברים לשנות מבנה ארגוני בגלל AI - זה לא ניסוי, זה כיוון.\n\nמי שכדאי לשים לב: חברות שמספקות שירותי outsourcing פיננסי, וגם שוק העבודה בישראל בתחום הפיננסי לא חסין מהמגמה הזו.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "תעסוקה",
+        "שירותים פיננסיים"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "פרצת אבטחה קריטית בשפת התכנות PHP מעוררת התראות גלובליות - וגוגל, OpenAI ואמזון כולן כבר מגיבות. PHP רצה על חלק גדול מהאינטרנט, כולל מערכות תשלום, אתרי מסחר ופלטפורמות תוכן. מה שמעניין פה הוא דווקא מי שלא בכותרות: חברות ביטוח סייבר שעכשיו בוחנות מחדש את החשיפות שלהן, וספקיות ענן קטנות שהלקוחות שלהן מריצים קוד ישן שאף אחד לא עדכן.",
+      "importance": 8,
+      "topics": [
+        "סייבר",
+        "אבטחת מידע",
+        "טכנולוגיה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "נפט ברנט קפץ מעל 112 דולר לחבית על רקע דיווחים שארה\"ב וישראל שוקלות מהלכים צבאיים נגד איראן.\n\nזה לא רק מחיר נפט - זה שוק שמתמחר סיכון אזורי אמיתי. אם ההסלמה מתממשת, ההשפעה הראשונה תהיה על מיצרי הורמוז, שדרכם עוברת כחמישית מאספקת הנפט העולמית.\n\nמי שכדאי לשים לב אליו: חברות תעופה ושינוע, שכבר ספגו עלויות דלק גבוהות - עוד עלייה כאן תכאב להן ישירות על השורה התחתונה.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
+        "נפט",
+        "גיאופוליטיקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "משקיעים זרים מתחילים לצאת מצרפת - וזה לא רק כותרת. הביקוש לאגרות החוב הממשלתיות הצרפתיות נחלש, והפרמיה שצרפת משלמת ביחס לגרמניה על החוב שלה ממשיכה לעלות. כשהמהומות בשבוע שעבר הוסיפו אי-ודאות פוליטית - ההון פשוט חיפש יציאה.\n\nמה שמעניין: הלחץ הזה לא נשאר בצרפת. כשמדינה גדולה כמוה מראה סימני חולשה, משקיעים מסתכלים מחדש על כל הסיכון האירופי - כולל איטליה, ספרד, ובמידה מסוימת גם על האירו עצמו.",
+      "importance": 8,
+      "topics": [
+        "צרפת",
+        "סיכון ריבתי",
+        "זרימת הון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Moderna has a plan to revolutionize how certain cancers are treated. We’re about to find out its potential in melanoma.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "נתוני ה-Phase 3 של Moderna על טיפול מותאם אישית בסרטן עור יתפרסמו סוף השבוע - וזה אחד הניסויים הכי נצפים בתעשיית הפארמה כרגע.\n\nהרעיון: להשתמש בטכנולוגיית ה-mRNA, אותה טכנולוגיה מהחיסונים נגד קורונה, כדי לבנות לכל מטופל חיסון אישי נגד הסרטן שלו. הניסויים המוקדמים הראו תוצאות מרשימות בהישרדות, ועכשיו מגיע המבחן האמיתי.\n\nמעבר למניה עצמה - אם התוצאות חיוביות, זה ישנה את כל שוק הטיפולים האונקולוגיים ויפעיל לחץ על חברות ביוטכנולוגיה מתחרות כמו BioNTech שעובדות על גישות דומות.",
+      "importance": 8,
+      "topics": [
+        "ביוטכנולוגיה",
+        "סרטן",
+        "חדשנות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "זרימת הנפט מהמפרץ הפרסי חזרה כמעט לרמות שלפני המלחמה עם איראן - אבל המחירים לא ממהרים לרדת.\n\nהסיבה: הסוחרים עדיין לא בוטחים ביציבות ההתאוששות. שרשרת האספקה פיזית התאוששה, אבל פרמיית הסיכון נשארת גבוהה - וזה מתורגם ישירות לפומפים, לתחבורה ולעלויות ייצור של כמעט כל מה שמיובא. מי שיושפע מעבר לנהגים: חברות שילוח, תעשיית הפלסטיק וכל עסק שמחיר האנרגיה הוא חלק מהמשוואה שלו.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
+        "מקרו-כלכלה",
+        "גיאופוליטיקה"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-      "importance": 9,
-      "topics": [
-        "אבטחה",
-        "PHP",
-        "פרצות"
-      ],
-      "published": "Wed, 21 Oct 2026 14:26:19 +0000"
-    },
-    {
-      "title": "אתרים לא זמינים לכם פתאום? זה מכוון ותאשימו את PHP",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/php2shell-critical-php-vulnerabilities/",
-      "summary": "כשזה מגיע לחולשות אבטחה שמשפיעות על מיליוני משתמשים, אנחנו בדרך כלל חושבים מיד על מערכות הפעלה כמו ווינדוס או אנדרואיד, או על דפדפנים עם נתח שוק חריג כמו כרום. אבל הפעם הסכנה מגיעה מכיוון קצת אחר, ומאחד הרכיבים החשובים ביותר באינטרנט. זה אמנם רכיב שרוב המשתמשים בכלל לא מודעים לקיומו, אבל הוא נמצא בשימוש יומיומי […] The post אתרים לא זמינים לכם פתאום? זה מכוון ותאשימו את PHP appeared first on גיקטי",
-      "importance": 9,
-      "topics": [
-        "אבטחה",
-        "PHP",
-        "פרצות"
-      ],
-      "published": "Wed, 21 Oct 2026 14:06:34 +0000"
-    },
-    {
-      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-      "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
-      "importance": 8,
-      "topics": [
-        "טסלה",
-        "רובוטיקה",
-        "AI"
-      ],
-      "published": "Wed, 21 Oct 2026 20:33:09 +0000"
-    },
-    {
-      "title": "PHP: The three letters that shut down sites all over the internet today",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
-      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than […]",
-      "importance": 8,
-      "topics": [
-        "אבטחה סייבר",
-        "PHP",
-        "AI"
-      ],
-      "published": "2026-10-21T16:36:56-04:00"
-    },
-    {
-      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
-      "importance": 8,
-      "topics": [
-        "אבטחה",
-        "ציבור",
-        "PHP"
-      ],
-      "published": "Thu, 22 Oct 2026 02:24:17 +0000"
-    },
-    {
-      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-      "importance": 8,
-      "topics": [
-        "NVIDIA",
-        "תשתיות",
-        "AI"
-      ],
-      "published": "Wed, 21 Oct 2026 15:02:15 +0000"
-    },
-    {
-      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-      "importance": 8,
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "importance": 9,
       "topics": [
         "AI",
-        "אבטחה",
-        "סייבר"
+        "OpenAI",
+        "גיוס הון"
       ],
-      "published": "Wed, 21 Oct 2026 14:00:00 +0000"
+      "published": "Thu, 22 Oct 2026 22:08:24 +0000"
     },
     {
-      "title": "Tesla says it will start selling Cybercabs by end of year",
+      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the FCC claims. […]",
+      "importance": 8,
+      "topics": [
+        "רגולציה",
+        "אבטחה",
+        "שבבים"
+      ],
+      "published": "2026-10-22T16:23:48-04:00"
+    },
+    {
+      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "תעודות דיגיטליות"
+      ],
+      "published": "Thu, 22 Oct 2026 20:17:52 +0000"
+    },
+    {
+      "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+      "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
+      "importance": 8,
+      "topics": [
+        "רגולציה",
+        "Meta",
+        "אנטי-טראסט"
+      ],
+      "published": "Thu, 22 Oct 2026 17:04:31 +0000"
+    },
+    {
+      "title": "דיווח: ויזה במגעים מתקדמים לרכישת Fireblocks הישראלית ב-2.5 מיליארד דולר",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/fireblocks-reportedly-in-talks-with-visa-about-potential-acquisition/",
+      "summary": "האם חברת הסטארטאפ הישראלית Fireblocks בדרך לאקזיט? על פי Axios, פיירבלוקס נמצאת במגעים מתקדמים לקראת רכישה ע\"י ויזה העולמית בעסקה של 2.5 מיליארד דולר. הארכיטקטורה של Fireblocks (פיירבלוקס) מבוססת על פטנט שמאפשר סביבת העברה מאובטחת (Secure Transfer Environment) ומעטפת אבטחה לזרימה של נכסים דיגיטליים בין גופים מוסדיים בתחום לבין השוק. סביבת ההעברה המאובטחת פועלת עם […] The post דיווח: ויזה במגעים מת",
+      "importance": 8,
+      "topics": [
+        "M&A",
+        "Fireblocks",
+        "סטארטאپים ישראליים"
+      ],
+      "published": "Thu, 22 Oct 2026 13:31:28 +0000"
+    },
+    {
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
       "importance": 7,
       "topics": [
-        "וסילות אוטונומיות",
-        "טסלה",
-        "טכנולוגיה אוטונומית"
+        "רכבים אוטונומיים",
+        "AI",
+        "רכישה"
       ],
-      "published": "Thu, 22 Oct 2026 00:17:54 +0000"
+      "published": "Thu, 22 Oct 2026 21:05:05 +0000"
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "אבטחה"
+      ],
+      "published": "Thu, 22 Oct 2026 19:07:09 +0000"
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Microsoft",
+        "רפואה"
+      ],
+      "published": "Thu, 22 Oct 2026 18:43:53 +0000"
     }
   ]
 }
