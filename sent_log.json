@@ -1030,7 +1030,8 @@
     "f2986eaca2ce32e8": "2026-10-22T18:30:35.149582+00:00",
     "ee2120c64d2c5620": "2026-10-23T05:00:40.965544+00:00",
     "708469dff2907737": "2026-10-23T06:30:50.951477+00:00",
-    "9599a0cca9229c71": "2026-10-23T08:01:41.596940+00:00"
+    "9599a0cca9229c71": "2026-10-23T08:01:41.596940+00:00",
+    "b1cf6107cb3580eb": "2026-10-23T09:30:35.905544+00:00"
   },
   "messages": [
     {
@@ -14930,7 +14931,21 @@
         "גיאופוליטיקה",
         "שווקים"
       ]
+    },
+    {
+      "sent_at": "2026-10-23T09:30:35.905544+00:00",
+      "title": "$NVDA CEO Jensen Huang says “software licensing will become increasingly a major part of our company’s business.” He said it could cost “about $2,000 per GPU per year” to run NVIDIA’s software for AI agents in these AI factories. So, some napkin math at that price, before https://t.co/xT1kLvZgOR",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "message": "ג'נסן הואנג הודיע ש-NVIDIA מתחילה לגבות דמי רישיון תוכנה - כ-2,000 דולר לשנה לכל כרטיס מסך שמריץ סוכני AI במפעלי הנתונים שלהם.\n\nזה שינוי מהותי במודל העסקי: עד היום NVIDIA מכרה חומרה. עכשיו היא רוצה גם לגבות על התוכנה שרצה עליה - כמו שמיקרוסופט גובה על Windows.\n\nמי שכדאי לשים לב: חברות ענן כמו AWS ו-Google שמריצות אלפי כרטיסים - עבורן החשבון השנתי הזה הופך לענק. וזה עלול ללחוץ אותן לפתח חלופות.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "NVIDIA",
+        "מודל עסקי"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-23T08:00:39.765437+00:00"
+  "last_auto_run": "2026-10-23T09:30:34.157784+00:00"
 }
