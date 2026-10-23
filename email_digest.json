@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-23T05:45:09.064545+00:00",
+  "generated_at": "2026-10-23T08:25:29.444837+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "What we know about war plans that Trump and Netanyahu are drawing up",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
+      "summary": "Could the U.S. and Israel be on the verge of launching a new attack on Iran? President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table.",
+      "importance": 9,
+      "topics": [
+        "ארה״ב",
+        "ישראל",
+        "איראן"
+      ],
+      "published": "Thu, 22 Oct 2026 18:17:04 -0400"
+    },
     {
       "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
       "source": "NPR World",
@@ -16,56 +29,43 @@
       "published": "Thu, 22 Oct 2026 04:56:58 -0400"
     },
     {
-      "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
-      "summary": "Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.",
-      "importance": 9,
-      "topics": [
-        "איראן",
-        "ארה״ב",
-        "קונפליקט"
-      ],
-      "published": "Fri, 23 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "title": "What we know about war plans that Trump and Netanyahu are drawing up",
+      "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
-      "summary": "Could the U.S. and Israel be on the verge of launching a new attack on Iran? President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table.",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+      "summary": "Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found.",
       "importance": 8,
       "topics": [
+        "אקלים",
+        "סביבה",
+        "אירופה"
+      ],
+      "published": "Fri, 23 Oct 2026 04:17:06 -0400"
+    },
+    {
+      "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss",
+      "summary": "With emergency stocks at multidecade lows, analysts say the world may have only a month or two if Hormuz shuts again.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
         "ארה״ב",
-        "ישראל",
         "איראן"
       ],
-      "published": "Thu, 22 Oct 2026 18:17:04 -0400"
+      "published": "Fri, 23 Oct 2026 07:37:12 +0000"
     },
     {
-      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
+      "summary": "Al Jazeera interviews Fatih Birol in Berlin as the Iran war disrupts global energy supplies.",
       "importance": 8,
       "topics": [
-        "גרמניה",
-        "ריסוס רוסי",
+        "אנרגיה",
+        "אירופה",
         "ביטחון"
       ],
-      "published": "Thu, 22 Oct 2026 17:07:03 GMT"
-    },
-    {
-      "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
-      "summary": "Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "פלסטינים",
-        "בעיית השטחים"
-      ],
-      "published": "Fri, 23 Oct 2026 04:09:28 +0000"
+      "published": "Fri, 23 Oct 2026 06:02:15 +0000"
     },
     {
       "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
@@ -81,16 +81,17 @@
       "published": "Thu, 22 Oct 2026 05:59:02 -0400"
     },
     {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
       "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
       "importance": 7,
       "topics": [
         "סודאן",
-        "פשעי מלחמה"
+        "זכויות אדם",
+        "ביטחון"
       ],
-      "published": "Thu, 22 Oct 2026 23:16:16 GMT"
+      "published": "Fri, 23 Oct 2026 07:52:32 GMT"
     },
     {
       "title": "Trump says Musk has restored access to Ukraine's Starlink network",
@@ -100,8 +101,8 @@
       "importance": 7,
       "topics": [
         "אוקראינה",
-        "טכנולוגיה",
-        "ארה״ב"
+        "ארה״ב",
+        "ביטחון"
       ],
       "published": "Thu, 22 Oct 2026 21:42:39 GMT"
     },
@@ -113,10 +114,10 @@
       "importance": 7,
       "topics": [
         "אבולה",
-        "בריאות ציבורית",
-        "אפריקה"
+        "אפריקה",
+        "בריאות ציבורית"
       ],
-      "published": "Fri, 23 Oct 2026 04:54:25 GMT"
+      "published": "Fri, 23 Oct 2026 08:00:07 GMT"
     },
     {
       "title": "Race to update services' computer systems after cyber-security flaw found",
@@ -126,26 +127,13 @@
       "importance": 7,
       "topics": [
         "סייבר",
-        "אבטחה מידע",
-        "טכנולוגיה"
+        "אבטחה דיגיטלית",
+        "תשתיות"
       ],
       "published": "Thu, 22 Oct 2026 17:12:51 GMT"
     }
   ],
   "business": [
-    {
-      "title": "$TSLA CEO Elon Musk says Terafab will need “tens of billions” in capital equipment through early 2028 & “probably be north of $100 billion long term.” Tesla-SpaceX funding split is undecided Most orders for the first fab are placed, with real production targeted for late 2028",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "מאסק הכריז שה-Terafab - מפעל השבבים של טסלה - ידרוש עשרות מיליארדי דולרים בציוד עד תחילת 2028, ובטווח הארוך כנראה יותר מ-100 מיליארד. רוב ההזמנות למפעל הראשון כבר בוצעו, עם יעד לייצור אמיתי לקראת סוף 2028.\n\nמה שמעניין כאן: חלוקת המימון בין טסלה ל-SpaceX עדיין לא הוחלטה - כלומר, למשקיעי טסלה עדיין לא ברור כמה מהחשבון יגיע אליהם. ולמי שלא עוקב אחרי סמיקונדקטורים - הזרמת הון בסדר גודל כזה לציוד ייצור שבבים היא בדיוק מה שחברות כמו ASML ו-Applied Materials מחפשות.",
-      "importance": 9,
-      "topics": [
-        "השקעות",
-        "סמיקונדקטור",
-        "Tesla"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "DeepSeek reportedly raises $15B days after US restrictions",
       "source": "TechCrunch",
@@ -160,17 +148,18 @@
       "tag": "גלובלי"
     },
     {
-      "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "שלוש חברות משלוש נקודות שונות בשרשרת ה-AI - SpaceX, Anthropic ו-NVIDIA - נתנו סיגנלים חיוביים ביום אחד, ו-Nasdaq מחק את רוב הירידה מיום שישי.\n\nמה שמעניין פה: כשהאופטימיות מגיעה בו-זמנית מתשתית (SpaceX), מודלים (Anthropic) וחומרה (NVIDIA), זה לא רעש רגיל. זה משהו שיושב לו עמוק יותר בשוק. ספקי ענן, חברות סמיקונדקטור קטנות יותר ואפילו חברות אנרגיה שמזינות מרכזי נתונים - כולן יושבות על אותה גל.",
-      "importance": 8,
+      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
+      "summary": "מחירי הנפט מתקרבים לשיאים שנרשמו בשיא המתח סביב איראן, ובמקביל - תעריפי שכירת מכליות נפט קפצו בחדות. שני הדברים ביחד מספרים סיפור: השוק מתחיל לתמחר תרחיש של עימות אזורי רחב שיחנוק את אספקת האנרגיה הגלובלית.\n\nמי שלא מסתכל על זה: חברות שילוח, מבטחי ים, וכל תעשייה שתלויה בתחבורה ימית - עלויות הלוגיסטיקה עולות בשקט, הרבה לפני שזה נראה במחיר הסופי למוצרים.",
+      "importance": 9,
       "topics": [
-        "AI",
-        "טכנולוגיה",
-        "בורסה"
+        "אנרגיה",
+        "נפט",
+        "גיאופוליטיקה",
+        "שווקים"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
       "title": "It Looks Like a Music Festival. It’s Really a Sales Pitch for Private Credit.",
@@ -262,6 +251,19 @@
         "גיאופוליטיקה"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "הסכסוך של מאסק עם אוקראינה הצית דרישה עצומה לחלופות ל-Starlink - והתגלית המדאיגה היא שכמעט אין כאלה. Amazon, Eutelsat ואחרות נמצאות שנים מאחור מבחינת כיסוי ואמינות.\n\nזה בעצם מונופול בפועל על תקשורת לוויינית טקטית, וזה חשוב הרבה מעבר לאוקראינה: ממשלות, ספינות, מטוסים וחברות בתשתיות מסתמכות על Starlink כי אין אלטרנטיבה אמיתית. כשתשתית קריטית נשלטת על ידי אדם אחד - זו שאלה גיאופוליטית, לא רק עסקית.",
+      "importance": 8,
+      "topics": [
+        "טלקום",
+        "חלל",
+        "אסטרטגיה"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
@@ -274,7 +276,7 @@
       "topics": [
         "AI",
         "OpenAI",
-        "גיוס הון"
+        "סיבוב גיוס"
       ],
       "published": "Thu, 22 Oct 2026 22:08:24 +0000"
     },
@@ -286,22 +288,10 @@
       "importance": 8,
       "topics": [
         "רגולציה",
-        "אבטחה",
-        "שבבים"
+        "שבבים",
+        "ביטחון"
       ],
       "published": "2026-10-22T16:23:48-04:00"
-    },
-    {
-      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-      "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-      "importance": 8,
-      "topics": [
-        "אבטחה",
-        "תעודות דיגיטליות"
-      ],
-      "published": "Thu, 22 Oct 2026 20:17:52 +0000"
     },
     {
       "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
@@ -310,9 +300,9 @@
       "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
       "importance": 8,
       "topics": [
-        "רגולציה",
         "Meta",
-        "אנטי-טראסט"
+        "אנטי-טראסט",
+        "רגולציה"
       ],
       "published": "Thu, 22 Oct 2026 17:04:31 +0000"
     },
@@ -323,24 +313,24 @@
       "summary": "האם חברת הסטארטאפ הישראלית Fireblocks בדרך לאקזיט? על פי Axios, פיירבלוקס נמצאת במגעים מתקדמים לקראת רכישה ע\"י ויזה העולמית בעסקה של 2.5 מיליארד דולר. הארכיטקטורה של Fireblocks (פיירבלוקס) מבוססת על פטנט שמאפשר סביבת העברה מאובטחת (Secure Transfer Environment) ומעטפת אבטחה לזרימה של נכסים דיגיטליים בין גופים מוסדיים בתחום לבין השוק. סביבת ההעברה המאובטחת פועלת עם […] The post דיווח: ויזה במגעים מת",
       "importance": 8,
       "topics": [
-        "M&A",
+        "מיזוג ורכישה",
         "Fireblocks",
-        "סטארטאپים ישראליים"
+        "קריפטו"
       ],
       "published": "Thu, 22 Oct 2026 13:31:28 +0000"
     },
     {
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
       "importance": 7,
       "topics": [
-        "רכבים אוטונומיים",
+        "רובוטקסי",
         "AI",
-        "רכישה"
+        "Nvidia"
       ],
-      "published": "Thu, 22 Oct 2026 21:05:05 +0000"
+      "published": "Fri, 23 Oct 2026 04:00:00 +0000"
     },
     {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -349,8 +339,9 @@
       "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
       "importance": 7,
       "topics": [
-        "AI",
-        "אבטחה"
+        "AI agents",
+        "אבטחה",
+        "1Password"
       ],
       "published": "Thu, 22 Oct 2026 19:07:09 +0000"
     },
@@ -363,9 +354,22 @@
       "topics": [
         "AI",
         "Microsoft",
-        "רפואה"
+        "בריאות"
       ],
       "published": "Thu, 22 Oct 2026 18:43:53 +0000"
+    },
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Canva",
+        "ייצור תוכן"
+      ],
+      "published": "2026-10-22T17:51:25-04:00"
     }
   ]
 }
