@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-25T06:44:55.772251+00:00",
+  "generated_at": "2026-10-25T08:17:14.346113+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Israeli elections: What are the possible outcomes?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss",
+      "summary": "Israelis face a pivotal election on October 27, as Netanyahu's leadership hangs in the balance amid coalition debates.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "נתניהו"
+      ],
+      "published": "Sun, 25 Oct 2026 07:10:52 +0000"
+    },
     {
       "title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
       "source": "NPR World",
@@ -10,23 +23,23 @@
       "importance": 7,
       "topics": [
         "ישראל",
-        "בחירות",
-        "ביטחון"
+        "פלסטינים",
+        "בחירות"
       ],
       "published": "Sat, 24 Oct 2026 17:20:52 -0400"
     },
     {
-      "title": "Ukraine says Starlink is back to normal after disruptions",
+      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-      "summary": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+      "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "טכנולוגיה",
-        "צבא"
+        "ירדן",
+        "ביטחון",
+        "טרור"
       ],
-      "published": "Sat, 24 Oct 2026 13:54:25 -0400"
+      "published": "Sat, 24 Oct 2026 07:59:08 -0400"
     },
     {
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
@@ -36,8 +49,8 @@
       "importance": 7,
       "topics": [
         "ישראל",
-        "בחירות",
-        "פלסטינים"
+        "פלסטינים",
+        "בחירות"
       ],
       "published": "Sun, 25 Oct 2026 05:15:52 GMT"
     },
@@ -48,37 +61,37 @@
       "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
       "importance": 7,
       "topics": [
-        "מחלות זיהומיות",
-        "קניה",
-        "בריאות ציבורית"
+        "בריאות ציבורית",
+        "אבולה",
+        "קניה"
       ],
       "published": "Sat, 24 Oct 2026 09:46:53 GMT"
     },
     {
-      "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+      "title": "Israel to close occupied West Bank crossings as Hebron lockdown continues",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
-      "summary": "Thousands have protested across Turkiye against the arrests of journalists and restrictions on independent media.",
-      "importance": 7,
-      "topics": [
-        "טורקיה",
-        "חופש התקשורת",
-        "דמוקרטיה"
-      ],
-      "published": "Sun, 25 Oct 2026 03:47:56 +0000"
-    },
-    {
-      "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
-      "summary": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
+      "summary": "Israel says it will close all land crossings with the occupied West Bank when it holds a general election on Tuesday.",
       "importance": 7,
       "topics": [
         "ישראל",
-        "בחירות",
-        "נתניהו"
+        "פלסטין",
+        "בחירות"
       ],
-      "published": "Sun, 25 Oct 2026 02:07:29 +0000"
+      "published": "Sun, 25 Oct 2026 07:20:36 +0000"
+    },
+    {
+      "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+      "summary": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
+      "importance": 6,
+      "topics": [
+        "אירופה",
+        "הפגנות",
+        "כלכלה"
+      ],
+      "published": "Sun, 25 Oct 2026 03:15:00 -0400"
     },
     {
       "title": "Protests roil France once again as police seek to quell violence",
@@ -89,22 +102,22 @@
       "topics": [
         "צרפת",
         "הפגנות",
-        "אלימות"
+        "כלכלה"
       ],
       "published": "Sat, 24 Oct 2026 17:21:00 -0400"
     },
     {
-      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+      "title": "Ukraine says Starlink is back to normal after disruptions",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-      "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
       "importance": 6,
       "topics": [
-        "ירדן",
-        "טרור",
-        "טבח"
+        "אוקראינה",
+        "טכנולוגיה",
+        "צבא"
       ],
-      "published": "Sat, 24 Oct 2026 07:59:08 -0400"
+      "published": "Sat, 24 Oct 2026 13:54:25 -0400"
     },
     {
       "title": "European student protests take aim at Serbia's elections",
@@ -118,46 +131,36 @@
         "הפגנות"
       ],
       "published": "Sat, 24 Oct 2026 07:42:11 -0400"
-    },
-    {
-      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
-      "importance": 6,
-      "topics": [
-        "ברזיל",
-        "בחירות",
-        "פוליטיקה"
-      ],
-      "published": "Sat, 24 Oct 2026 23:50:02 GMT"
     }
   ],
-  "business": [],
+  "business": [
+    {
+      "title": "France is flashing euro crisis signals. This time, the fault lines are different",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "עלויות האשראי של צרפת טיפסו לרמות שלא ראינו מאז משבר החוב האירופי של 2011. הסיבה: שילוב של חוב ממשלתי גבוה ואי-יציבות פוליטית שלא נגמרת. מה שמעניין הפעם הוא שהפערים בין הריבית הצרפתית לגרמנית ממשיכים להתרחב - סימן שהשוק מתחיל לתמחר סיכון אמיתי. אם זה ימשיך, זה לא עניין צרפתי בלבד - בנקים שמחזיקים אגרות חוב צרפתיות, מדינות כמו איטליה וספרד, וגם היורו עצמו יכולים להרגיש את זה.",
+      "importance": 8,
+      "topics": [
+        "יורו",
+        "חוב ריבונی",
+        "אירופה"
+      ],
+      "tag": "גלובלי"
+    }
+  ],
   "tech": [
     {
       "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
       "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
-      "importance": 8,
+      "importance": 7,
       "topics": [
         "אבטחה",
+        "תשתיות אינטרנט",
         "PHP"
       ],
       "published": "Sat, 24 Oct 2026 15:30:00 +0000"
-    },
-    {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
-      "importance": 7,
-      "topics": [
-        "רגולציה",
-        "AI"
-      ],
-      "published": "2026-10-24T14:32:21-04:00"
     },
     {
       "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
@@ -166,23 +169,37 @@
       "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
       "importance": 7,
       "topics": [
-        "אבטחה קיברנטית",
         "AI",
+        "אבטחת סייבר",
         "PHP"
       ],
       "published": "Sat, 24 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "Block’s new voice model sounds eerily human",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "importance": 6,
+      "title": "אחרי השערוריות: OpenAI חזרה לאמן מודלים עם אינטרנט מזויף",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/openai-offline-world-frontier-model-training/",
+      "summary": "אחד האתגרים הגדולים של חברות ה-AI הוא לא רק לפתח מודלים חכמים וחזקים יותר, אלא גם לוודא שהם יפעלו כמו שאנחנו רוצים שיפעלו – ולא יעשו ככל העולה על רצונם. בחודש שעבר דיווחה OpenAI כי אחרי שורה של מקרים שבהם המודלים שלה לא פעלו כמו שצריך – ופרצו לאתרים על דעת עצמם – היא הפסיקה […] The post אחרי השערוריות: OpenAI חזרה לאמן מודלים עם אינטרנט מזויף appeared first on גיקטיים .",
+      "importance": 7,
       "topics": [
         "AI",
-        "Block"
+        "OpenAI",
+        "בטיחות"
       ],
-      "published": "Sat, 24 Oct 2026 16:00:00 +0000"
+      "published": "Sun, 25 Oct 2026 07:33:42 +0000"
+    },
+    {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+      "importance": 6,
+      "topics": [
+        "רגולציה",
+        "AI",
+        "פרסום"
+      ],
+      "published": "2026-10-24T14:32:21-04:00"
     }
   ]
 }
