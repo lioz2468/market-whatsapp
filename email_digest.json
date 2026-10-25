@@ -1,97 +1,45 @@
 {
-  "generated_at": "2026-10-24T08:01:00.359213+00:00",
+  "generated_at": "2026-10-25T06:44:55.772251+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+      "title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
-      "summary": "Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found.",
-      "importance": 9,
-      "topics": [
-        "אקלים",
-        "אירופה",
-        "אסון טבע"
-      ],
-      "published": "Fri, 23 Oct 2026 04:17:06 -0400"
-    },
-    {
-      "title": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
-      "summary": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.",
-      "importance": 8,
-      "topics": [
-        "איראן",
-        "ישראל",
-        "ארה\"ב"
-      ],
-      "published": "Fri, 23 Oct 2026 06:36:15 -0400"
-    },
-    {
-      "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
-      "summary": "As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.",
-      "importance": 8,
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6010464/why-a-far-right-cabinet-minister-in-israel-has-netanyahus-ear",
+      "summary": "Israel's most far-right cabinet minister helped dictate hardline policies toward Palestinians in recent years. Benjamin Netanyahu vows to give him a senior position if Netanyahu is reelected next week.",
+      "importance": 7,
       "topics": [
         "ישראל",
         "בחירות",
-        "ממשל"
+        "ביטחון"
       ],
-      "published": "Sat, 24 Oct 2026 05:29:07 +0000"
+      "published": "Sat, 24 Oct 2026 17:20:52 -0400"
     },
     {
-      "title": "צה\"ל פתח במבצע בחברון אחרי הפיגוע הקטלני: \"עתיד להימשך מספר ימים\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/byumyskhzg",
-      "summary": "בעקבות הפיגוע בצומת יהודה, שבו נפלו סמ\"ר רון יונתן רויטמן וסמל יובל שי סוילם, פתחו צה\"ל ושב\"כ במבצע נרחב בעיר שממנה יצאו שני המחבלים. הכוחות יסרקו עשרות יעדים, יחקרו חשודים ויפעלו לאיתור אמצעי לחימה ותשתיות טרור. תנועת התושבים באזור הפעילות תוגבל, בצה\"ל הבהירו: \"המבצע ממוקד ומתוחם\"",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "ביטחון",
-        "פעילות צבאית"
-      ],
-      "published": "Fri, 23 Oct 2026 23:58:46 +0300"
-    },
-    {
-      "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+      "title": "Ukraine says Starlink is back to normal after disruptions",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
-      "summary": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
       "importance": 7,
       "topics": [
-        "אבולה",
-        "אפריקה",
-        "בריאות ציבור"
-      ],
-      "published": "Fri, 23 Oct 2026 08:41:39 -0400"
-    },
-    {
-      "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
-      "summary": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were injured, including some critically.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "הערבה",
-        "סכסוך"
-      ],
-      "published": "Fri, 23 Oct 2026 05:40:32 -0400"
-    },
-    {
-      "title": "Hacking attempts rise after flaws found in program affecting 70% of websites",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-      "summary": "Governments around the world are rushing to implement safety measures after AI technology found \"severe\" vulnerabilities in a key programming language called PHP.",
-      "importance": 7,
-      "topics": [
-        "סייבר",
+        "אוקראינה",
         "טכנולוגיה",
-        "אבטחת מידע"
+        "צבא"
       ],
-      "published": "Fri, 23 Oct 2026 05:37:38 -0400"
+      "published": "Sat, 24 Oct 2026 13:54:25 -0400"
+    },
+    {
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "פלסטינים"
+      ],
+      "published": "Sun, 25 Oct 2026 05:15:52 GMT"
     },
     {
       "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
@@ -100,195 +48,141 @@
       "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
       "importance": 7,
       "topics": [
+        "מחלות זיהומיות",
         "קניה",
-        "אבולה",
         "בריאות ציבורית"
       ],
-      "published": "Sat, 24 Oct 2026 00:05:43 GMT"
+      "published": "Sat, 24 Oct 2026 09:46:53 GMT"
     },
     {
-      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
+      "summary": "Thousands have protested across Turkiye against the arrests of journalists and restrictions on independent media.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
+        "טורקיה",
+        "חופש התקשורת",
+        "דמוקרטיה"
       ],
-      "published": "Sat, 24 Oct 2026 07:17:44 GMT"
+      "published": "Sun, 25 Oct 2026 03:47:56 +0000"
     },
     {
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+      "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+      "summary": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
       "importance": 7,
       "topics": [
         "ישראל",
-        "כישראל",
-        "התנגשויות"
+        "בחירות",
+        "נתניהו"
       ],
-      "published": "Fri, 23 Oct 2026 15:37:07 GMT"
+      "published": "Sun, 25 Oct 2026 02:07:29 +0000"
+    },
+    {
+      "title": "Protests roil France once again as police seek to quell violence",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
+      "summary": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.",
+      "importance": 6,
+      "topics": [
+        "צרפת",
+        "הפגנות",
+        "אלימות"
+      ],
+      "published": "Sat, 24 Oct 2026 17:21:00 -0400"
+    },
+    {
+      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+      "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+      "importance": 6,
+      "topics": [
+        "ירדן",
+        "טרור",
+        "טבח"
+      ],
+      "published": "Sat, 24 Oct 2026 07:59:08 -0400"
+    },
+    {
+      "title": "European student protests take aim at Serbia's elections",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
+      "summary": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.",
+      "importance": 6,
+      "topics": [
+        "סרביה",
+        "בחירות",
+        "הפגנות"
+      ],
+      "published": "Sat, 24 Oct 2026 07:42:11 -0400"
+    },
+    {
+      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+      "importance": 6,
+      "topics": [
+        "ברזיל",
+        "בחירות",
+        "פוליטיקה"
+      ],
+      "published": "Sat, 24 Oct 2026 23:50:02 GMT"
     }
   ],
-  "business": [
-    {
-      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
-      "summary": "מחירי הנפט מתקרבים לשיאים שנרשמו בשיא המתח סביב איראן, ובמקביל - תעריפי שכירת מכליות נפט קפצו בחדות. שני הדברים ביחד מספרים סיפור: השוק מתחיל לתמחר תרחיש של עימות אזורי רחב שיחנוק את אספקת האנרגיה הגלובלית.\n\nמי שלא מסתכל על זה: חברות שילוח, מבטחי ים, וכל תעשייה שתלויה בתחבורה ימית - עלויות הלוגיסטיקה עולות בשקט, הרבה לפני שזה נראה במחיר הסופי למוצרים.",
-      "importance": 9,
-      "topics": [
-        "אנרגיה",
-        "נפט",
-        "גיאופוליטיקה",
-        "שווקים"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "$NVDA CEO Jensen Huang says “software licensing will become increasingly a major part of our company’s business.” He said it could cost “about $2,000 per GPU per year” to run NVIDIA’s software for AI agents in these AI factories. So, some napkin math at that price, before https://t.co/xT1kLvZgOR",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "ג'נסן הואנג הודיע ש-NVIDIA מתחילה לגבות דמי רישיון תוכנה - כ-2,000 דולר לשנה לכל כרטיס מסך שמריץ סוכני AI במפעלי הנתונים שלהם.\n\nזה שינוי מהותי במודל העסקי: עד היום NVIDIA מכרה חומרה. עכשיו היא רוצה גם לגבות על התוכנה שרצה עליה - כמו שמיקרוסופט גובה על Windows.\n\nמי שכדאי לשים לב: חברות ענן כמו AWS ו-Google שמריצות אלפי כרטיסים - עבורן החשבון השנתי הזה הופך לענק. וזה עלול ללחוץ אותן לפתח חלופות.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "NVIDIA",
-        "מודל עסקי"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852?mod=rss_markets_main",
-      "summary": "מאז 2022, מניות הקשורות ל-AI הניבו רווחים של 138 מיליארד דולר ל-13 קרנות פנסיה ציבוריות אמריקאיות - וזה עזר להן לצאת מהחור שנשאר מהמשבר הפיננסי הקודם.\n\nהפואנטה המעניינת: פוליטיקאים רבים תוקפים את ה-AI בפומבי, בזמן שקרנות הפנסיה שלהם ממש תלויות בו. זה לא סתם אירוני - זה אומר שיש כאן לחץ מובנה שמקשה על רגולציה אמיתית. כשהפנסיות של אנשים קשורות להצלחה של NVIDIA ו-Microsoft, הפוליטיקה נעשית הרבה יותר מסובכת.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "השקעות מוסדיות",
-        "זרימת הון"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "נפט אמריקאי מחזיק מעל 100 דולר לחבית, וברנט נוגע בשיא של חמישה חודשים - אחרי שאיראן הצהירה שהיא מוכנה למלחמה וטראמפ האשים אותה בניסיון לתמרן את שוק הנפט.\n\nכשנפט יקר, זה לא רק בשאיבה - זה מרגישים בכל מקום: תחבורה, ייצור, חשמל. חברות שינוע, תעשייה כבדה וחברות תעופה נדחקות לפינה. ההון מתחיל לזרום לאנרגיה מסורתית, ולפעמים זה מושך כסף החוצה מטכנולוגיה וצמיחה.",
-      "importance": 8,
-      "topics": [
-        "נפט",
-        "גיאופוליטיקה",
-        "אנרגיה"
-      ],
-      "tag": "גלובלי"
-    }
-  ],
+  "business": [],
   "tech": [
     {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]",
-      "importance": 8,
-      "topics": [
-        "Google",
-        "פרטיות",
-        "AI"
-      ],
-      "published": "2026-10-23T12:52:55-04:00"
-    },
-    {
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-      "importance": 8,
-      "topics": [
-        "Google",
-        "פרטיות",
-        "AI"
-      ],
-      "published": "Fri, 23 Oct 2026 20:19:55 +0000"
-    },
-    {
-      "title": "8 Things to Know About the iPhone Duo",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/",
-      "summary": "Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.",
-      "importance": 8,
-      "topics": [
-        "Apple",
-        "חדשנות",
-        "מוצרים"
-      ],
-      "published": "Fri, 23 Oct 2026 09:15:00 +0000"
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "OpenAI"
-      ],
-      "published": "Fri, 23 Oct 2026 23:05:49 +0000"
-    },
-    {
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-      "importance": 7,
-      "topics": [
-        "מוליכים למחצה",
-        "אנרגיה"
-      ],
-      "published": "Fri, 23 Oct 2026 16:20:28 +0000"
-    },
-    {
-      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-      "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-      "importance": 7,
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+      "importance": 8,
       "topics": [
         "אבטחה",
-        "נתונים"
+        "PHP"
       ],
-      "published": "Fri, 23 Oct 2026 15:00:09 +0000"
+      "published": "Sat, 24 Oct 2026 15:30:00 +0000"
     },
     {
-      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "title": "Pennsylvania will require labels on AI-generated ads",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
       "importance": 7,
+      "topics": [
+        "רגולציה",
+        "AI"
+      ],
+      "published": "2026-10-24T14:32:21-04:00"
+    },
+    {
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "importance": 7,
+      "topics": [
+        "אבטחה קיברנטית",
+        "AI",
+        "PHP"
+      ],
+      "published": "Sat, 24 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "importance": 6,
       "topics": [
         "AI",
-        "OpenAI",
-        "אבטחה"
+        "Block"
       ],
-      "published": "2026-10-23T17:11:07-04:00"
-    },
-    {
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "importance": 7,
-      "topics": [
-        "מוליכים למחצה",
-        "רגולציה",
-        "תעשייה יצרנית"
-      ],
-      "published": "Fri, 23 Oct 2026 17:18:31 +0000"
+      "published": "Sat, 24 Oct 2026 16:00:00 +0000"
     }
   ]
 }
