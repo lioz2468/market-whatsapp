@@ -1,139 +1,178 @@
 {
-  "generated_at": "2026-10-25T08:17:14.346113+00:00",
+  "generated_at": "2026-10-26T06:44:55.559646+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Israeli elections: What are the possible outcomes?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss",
-      "summary": "Israelis face a pivotal election on October 27, as Netanyahu's leadership hangs in the balance amid coalition debates.",
+      "title": "התקיפה המסתורית בעיראק, לחץ נתניהו לפעולה לפני בחירות והמתח עם הרמטכ\"ל",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/b1nawp32gg",
+      "summary": "זמיר הכריז על כוננות מחשש למיסקלקולציה והעביר מסר לדרג המדיני שצה\"ל מתנגד לפעולות מתגרות, אבל נתניהו וכ\"ץ המשיכו באיומים על איראן - והאווירה בדיון בפלמחים הייתה עכורה. רה\"מ הכחיש עימות, לאחר דיווח שלפיו הרמטכ\"ל קיבל הנחיה, וביקש דיון מעמיק ואסמכתאות חתומות. ומה בדיוק הותקף בעיראק?",
       "importance": 8,
       "topics": [
         "ישראל",
+        "עיראק",
+        "ביטחון"
+      ],
+      "published": "Mon, 26 Oct 2026 08:12:03 +0200"
+    },
+    {
+      "title": "דרמה בברזיל: ניצחון מפתיע לנשיא האנטי-ישראלי לולה - שהביס את מנהיג הימין",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/h1ubdqshfg",
+      "summary": "הגל השמרני שסחף את אמריקה הלטינית נשבר במדינה הגדולה ביותר בה: הנשיא לולה דה סילבה בן ה-80, שהאשים את ישראל ב\"רצח עם\" והתעמת עם טראמפ, הביס בניגוד לציפיות את איש הימין פלאביו בולסונרו, שהבטיח להעביר את השגרירות לי-ם - וגם להעניק חנינה לאביו והנשיא לשעבר, שנכלא על ניסיון הפיכה. לולה הכריז בנאום הניצחון: \"מנענו התערבות זרה, ברזיל היא לא החצר האחורית של אף אחד\". בולסונרו סירב להכיר בהפסד: \"נבקש שהתוצ",
+      "importance": 8,
+      "topics": [
+        "ברזיל",
         "בחירות",
-        "נתניהו"
+        "גיאופוליטיקה"
       ],
-      "published": "Sun, 25 Oct 2026 07:10:52 +0000"
+      "published": "Mon, 26 Oct 2026 02:14:45 +0200"
     },
     {
-      "title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
+      "title": "Brazil's left-wing President Lula elected for fourth term",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6010464/why-a-far-right-cabinet-minister-in-israel-has-netanyahus-ear",
-      "summary": "Israel's most far-right cabinet minister helped dictate hardline policies toward Palestinians in recent years. Benjamin Netanyahu vows to give him a senior position if Netanyahu is reelected next week.",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+      "summary": "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
       "importance": 7,
       "topics": [
-        "ישראל",
-        "פלסטינים",
-        "בחירות"
+        "ברזיל",
+        "בחירות",
+        "לטינואמריקה"
       ],
-      "published": "Sat, 24 Oct 2026 17:20:52 -0400"
+      "published": "Sun, 25 Oct 2026 20:35:00 -0400"
     },
     {
-      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-      "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
       "importance": 7,
       "topics": [
-        "ירדן",
-        "ביטחון",
-        "טרור"
+        "ונצואלה",
+        "אופוזיציה",
+        "גיאופוליטיקה"
       ],
-      "published": "Sat, 24 Oct 2026 07:59:08 -0400"
+      "published": "Sun, 25 Oct 2026 12:18:41 -0400"
     },
     {
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "importance": 7,
       "topics": [
-        "ישראל",
-        "פלסטינים",
-        "בחירות"
+        "סרביה",
+        "בחירות",
+        "שינוי פוליטי"
       ],
-      "published": "Sun, 25 Oct 2026 05:15:52 GMT"
+      "published": "Mon, 26 Oct 2026 01:07:05 GMT"
     },
     {
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
       "importance": 7,
-      "topics": [
-        "בריאות ציבורית",
-        "אבולה",
-        "קניה"
-      ],
-      "published": "Sat, 24 Oct 2026 09:46:53 GMT"
-    },
-    {
-      "title": "Israel to close occupied West Bank crossings as Hebron lockdown continues",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
-      "summary": "Israel says it will close all land crossings with the occupied West Bank when it holds a general election on Tuesday.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "פלסטין",
-        "בחירות"
-      ],
-      "published": "Sun, 25 Oct 2026 07:20:36 +0000"
-    },
-    {
-      "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
-      "summary": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
-      "importance": 6,
-      "topics": [
-        "אירופה",
-        "הפגנות",
-        "כלכלה"
-      ],
-      "published": "Sun, 25 Oct 2026 03:15:00 -0400"
-    },
-    {
-      "title": "Protests roil France once again as police seek to quell violence",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
-      "summary": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.",
-      "importance": 6,
-      "topics": [
-        "צרפת",
-        "הפגנות",
-        "כלכלה"
-      ],
-      "published": "Sat, 24 Oct 2026 17:21:00 -0400"
-    },
-    {
-      "title": "Ukraine says Starlink is back to normal after disruptions",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-      "summary": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
-      "importance": 6,
       "topics": [
         "אוקראינה",
         "טכנולוגיה",
-        "צבא"
+        "ספייס-אקס"
       ],
-      "published": "Sat, 24 Oct 2026 13:54:25 -0400"
+      "published": "Sun, 25 Oct 2026 09:00:00 GMT"
     },
     {
-      "title": "European student protests take aim at Serbia's elections",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
-      "summary": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.",
-      "importance": 6,
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "importance": 7,
+      "topics": [
+        "צרפת",
+        "הפגנות",
+        "אירופה"
+      ],
+      "published": "Sun, 25 Oct 2026 10:38:15 GMT"
+    },
+    {
+      "title": "Aleksandar Vucic, the Serbian leader brought down by students",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+      "summary": "Serbia's longtime leader concedes defeat to a student-led protest movement in parliamentary elections.",
+      "importance": 7,
       "topics": [
         "סרביה",
         "בחירות",
         "הפגנות"
       ],
-      "published": "Sat, 24 Oct 2026 07:42:11 -0400"
+      "published": "Mon, 26 Oct 2026 05:24:59 +0000"
+    },
+    {
+      "title": "Israel’s election: Five key things to know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+      "summary": "Vote comes as Israel is embroiled in multiple wars, faces international criticism and grapples with domestic divisions.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "גיאופוליטיקה"
+      ],
+      "published": "Mon, 26 Oct 2026 05:16:38 +0000"
+    },
+    {
+      "title": "World reacts to Lula’s victory in Brazil’s presidential election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
+      "summary": "International leaders and politicians congratulate the Brazilian president on his re-election.",
+      "importance": 7,
+      "topics": [
+        "ברזיל",
+        "בחירות",
+        "דיפלומטיה"
+      ],
+      "published": "Mon, 26 Oct 2026 03:50:12 +0000"
     }
   ],
   "business": [
+    {
+      "title": "Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/25/earnings-week-alphabet-microsoft-amazon.html",
+      "summary": "השבוע מדווחות Alphabet, Microsoft, Amazon ועוד כ-160 חברות מה-S&P 500 - אחד הרגעים החשובים ביותר בעונת הרווחים הזו.\n\nמה שמעניין במיוחד: השוק נמצא בלחץ ומחפש עוגן. הדוחות האלה לא רק ספרות - הם תמונת מצב של כמה ה-AI באמת מייצר כסף, לא רק הייפ.\n\nשווה לשים לב לא רק לרווחים עצמם אלא לתחזיות קדימה. כשחברות גדולות כאלה מדברות על המחצית השנייה של השנה - כולם מקשיבים.",
+      "importance": 9,
+      "topics": [
+        "רווחים",
+        "טכנולוגיה",
+        "שוק הון"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Fed Looks Set to Pause After September Rate Hike",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "הפד צפוי לעצור את העלאות הריבית בישיבה הקרובה, אחרי העלייה הראשונה מאז 2023 שבאה בספטמבר - וזה אפילו שהאינפלציה עדיין מעל היעד. מה שהשווקים יצפו לו עכשיו זה לא ההחלטה עצמה, אלא מה שיאמר יו\"ר הפד קווין וורש אחריה. כל מילה שלו על הצעד הבא תזוז. מי שיושפע מזה מעבר למניות: שוק האג\"ח, הדולר, ומי שלקח הלוואות בריבית משתנה.",
+      "importance": 9,
+      "topics": [
+        "פד",
+        "ריבית",
+        "מדיניות מונטרית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+      "summary": "קרנות הפנסיה הגדולות בעולם נמצאות תחת לחץ גובר - ותוחלת חיים ארוכה יותר, בשילוב עם ירידה בשיעורי הילודה, הן הסיבה.\n\nהבעיה היא מתמטית פשוטה: פחות עובדים משלמים לתוך המערכת, יותר גמלאים מושכים ממנה, ולאורך זמן רב יותר. זה לחץ שכבר מורגש בגרמניה, יפן, ובמידה מסוימת גם בישראל.\n\nמה שפחות מדברים עליו: הלחץ הזה מגיע גם לשוק האג\"ח הממשלתיות - כי ממשלות ייאלצו לגייס יותר חוב כדי לממן את הפערים.",
+      "importance": 9,
+      "topics": [
+        "פנסיה",
+        "דמוגרפיה",
+        "פיננסים"
+      ],
+      "tag": "גלובלי"
+    },
     {
       "title": "France is flashing euro crisis signals. This time, the fault lines are different",
       "source": "CNBC Top News",
@@ -146,34 +185,125 @@
         "אירופה"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "French Bond Risk Nears Biggest Weekly Rise as Crisis Deepens",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "הפרש התשואות בין אג\"ח צרפת לגרמניה קרוב לשיא שבועי היסטורי - סימן שהשווקים מתחילים לתמחר סיכון פוליטי אמיתי. הפיילות הפוליטית בפריז, שמונעת אישור תקציב, הפכה לבעיה פיסקלית ממשית.\n\nמה שמעניין כאן הוא ההשפעה על כלל גוש האירו: כשצרפת רועדת, לחץ מחודש נופל על האיגרות של איטליה וספרד, על היורו, ועל הבנק המרכזי האירופי שצריך להחליט אם להתערב - וזה הפך פחות פשוט מאי פעם.",
+      "importance": 8,
+      "topics": [
+        "אג\"ח",
+        "צרפת",
+        "סיכון ריבוני"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "The Earnings Boom Is Heavily Reliant on Just a Handful of Stocks",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main",
+      "summary": "שתי שלישיות מצמיחת הרווחים של כל החברות בארה\"ב מגיעות מעשר חברות בלבד - ביניהן Nvidia ו-Micron.\n\nזה אומר שה-S&P 500 נראה חזק על הנייר, אבל מתחת לפני השטח רוב החברות פשוט... בסדר. לא יותר מזה.\n\nהדבר הכי מעניין פה הוא ההשפעה העקיפה: כל נדנוד ב-guidance של אחת מהעשר הללו מזיז את כל המדד. וזה הופך את השוק ליותר רגיש מאי פעם לחדשות של מספר קטן של שחקנים.",
+      "importance": 8,
+      "topics": [
+        "רווחות",
+        "AI",
+        "ריכוז שוק"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Trump announces Audi will build $4 billion U.S. factory in Georgia",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "אאודי תקים מפעל בגיאורגיה בהשקעה של 4 מיליארד דולר - ותייצר שם 200,000 רכבי SUV בשנה. זה לא סתם הכרזה: כשיצרן רכב אירופי גדול בונה כזה מתקן בארה\"ב, זה אומר שהוא מאמין שהמכסים כאן כדי להישאר לזמן ארוך. מי שלא מדובר בו מספיק - ספקי חלפים, תעשיית הפלדה, יצרני סוללות לרכב חשמלי. כולם יצטרכו להיות קרובים יותר לפס הייצור החדש.",
+      "importance": 8,
+      "topics": [
+        "תעסוקה",
+        "תשתיות",
+        "תעשייה"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "\"Banks' bank\" Capitolis raises $200m at $1.9b valuation",
+      "source": "גלובס שוק ההון",
+      "url": "",
+      "summary": "גיוס של 200 מיליון דולר לפי שווי 1.9 מיליארד דולר - זה מה שהכריזה הבוקר Capitolis, חברת הפינטק הישראלית של גיל מנדלזיס.\n\nמה שמעניין פה זה לא רק הסכום - זה מה שהחברה עושה. Capitolis מייעלת את האופן שבו בנקים גדולים מנהלים את ההון ביניהם, ומצליחה לחסוך להם מיליארדים בדרישות רגולטוריות. בגדול - היא עוזרת לבנקים לעשות יותר עם פחות.\n\nהמרכז הפיתוח בת\"א ממשיך לגדול, וזה טוב לאקוסיסטם הפינטק המקומי.",
+      "importance": 8,
+      "topics": [
+        "פינטק",
+        "הון סיכון",
+        "ממלאי תפקיד"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "השבוע מדווחות יותר משליש מחברות S&P 500 על תוצאות הרבעון - זה אחד השבועות הכי עמוסים של העונה. הבעיה היא שהן נכנסות לדיווח כשהסנטימנט בשוק שבור, ומשקיעים פחות סלחניים מהרגיל.\n\nבסביבה כזו, תוצאה טובה לא בהכרח מזנקת - אבל אכזבה קטנה יכולה להוריד חזק. שווה לשים לב במיוחד לתחזיות קדימה (guidance) - שם תהיה האמת האמיתית על מה שחברות מצפות מהמחצית השנייה של השנה.",
+      "importance": 8,
+      "topics": [
+        "שוק המניות",
+        "ארביעונים",
+        "סנטימנט בשוק"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "תשואות האג\"ח הצרפתיות הגיעו לשיא של 24 שנה על רקע המהומות. זה לא רק מספר - זה אומר שהשווקים מתמחרים סיכון פוליטי אמיתי לצרפת. כשמדינה גדולה כמו צרפת מתערערת, זה נוגע ישירות ליציבות גוש האירו כולו - ומשם גם לאירו-שקל ולחברות ישראליות שמייצאות לאירופה. שווה לשים לב איך זה מתפתח.",
+      "importance": 7,
+      "topics": [
+        "אירופה",
+        "סיכון פוליטי",
+        "איגרות חוב"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
-      "importance": 7,
-      "topics": [
-        "אבטחה",
-        "תשתיות אינטרנט",
-        "PHP"
-      ],
-      "published": "Sat, 24 Oct 2026 15:30:00 +0000"
-    },
-    {
-      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
       "importance": 7,
       "topics": [
         "AI",
-        "אבטחת סייבר",
-        "PHP"
+        "כלכלה",
+        "הערכות"
       ],
-      "published": "Sat, 24 Oct 2026 12:00:00 +0000"
+      "published": "Sun, 25 Oct 2026 16:57:32 +0000"
+    },
+    {
+      "title": "Google’s AI search changes upended online publishing",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Search",
+        "תעשיית ההוצאה לאור"
+      ],
+      "published": "2026-10-25T08:00:00-04:00"
+    },
+    {
+      "title": "גוגל שינתה את תנאי השימוש, והמיילים והתמונות שלכם ישמשו לפרסום",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/google-privacy-policy-gmail-photos-personalized-ads/",
+      "summary": "לא נראה לנו שזה סוד שגוגל יודעת עלינו לא מעט. היא יודעת מה אנחנו מחפשים ברשת, באילו סרטונים אנחנו צופים ביוטיוב, איפה אנחנו מסתובבים ואפילו אילו אפליקציות מותקנות לנו בסמארטפון. אבל עד עכשיו היה קו אחד שהיא הקפידה לא לחצות, לפחות באופן רשמי, והוא השימוש במידע האישי שלנו מתוך ג'ימייל, גוגל דרייב ו-Google Photos כדי […] The post גוגל שינתה את תנאי השימוש, והמיילים והתמונות שלכם ישמשו לפרסום appeared",
+      "importance": 7,
+      "topics": [
+        "גוגל",
+        "פרטיות",
+        "רגולציה"
+      ],
+      "published": "Sun, 25 Oct 2026 11:10:43 +0000"
     },
     {
       "title": "אחרי השערוריות: OpenAI חזרה לאמן מודלים עם אינטרנט מזויף",
@@ -189,17 +319,56 @@
       "published": "Sun, 25 Oct 2026 07:33:42 +0000"
     },
     {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
       "importance": 6,
       "topics": [
-        "רגולציה",
         "AI",
-        "פרסום"
+        "xAI",
+        "וידאו"
       ],
-      "published": "2026-10-24T14:32:21-04:00"
+      "published": "Sun, 25 Oct 2026 21:31:16 +0000"
+    },
+    {
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+      "importance": 6,
+      "topics": [
+        "Data Centers",
+        "רגולציה",
+        "אנרגיה"
+      ],
+      "published": "Sun, 25 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "title": "הדפדפן האהוב עלינו עומד למות",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/arc-browser-is-about-to-die/",
+      "summary": "לפני קרוב לארבע שנים כתבתי כאן על Arc, \"הדפדפן שאתם לא יכולים להשתמש בו, וחבל\". מאז הוא כבר הגיע ממק לווינדוס, ונזנח על ידי החברה שיצרה אותו. בסוף השבוע היא הודיעה שהדפדפן הפופולרי עומד למות ממש בקרוב. המטאור שעומד להתרסק The Browser Company, החברה שפיתחה את דפדפן Arc, הודיעה שהוא יפסיק לעבוד עד סוף השנה. […] The post הדפדפן האהוב עלינו עומד למות appeared first on גיקטיים .",
+      "importance": 6,
+      "topics": [
+        "דפדפנים",
+        "The Browser Company",
+        "טכנולוגיה"
+      ],
+      "published": "Sun, 25 Oct 2026 08:59:10 +0000"
+    },
+    {
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]",
+      "importance": 5,
+      "topics": [
+        "אפל",
+        "סמארטפון",
+        "עיצוב"
+      ],
+      "published": "2026-10-25T17:40:27-04:00"
     }
   ]
 }
