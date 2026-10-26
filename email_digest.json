@@ -1,32 +1,45 @@
 {
-  "generated_at": "2026-10-26T06:44:55.559646+00:00",
+  "generated_at": "2026-10-26T08:44:17.214065+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "\"טראמפ לא נתן לנתניהו אור ירוק\": ההכנות לתקיפה באיראן - \"תוך 96 שעות מפקודה\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/sy6jdo3nfx",
+      "summary": "כ\"ץ הכחיש \"כוונה של ישראל ליזום התקפה על איראן לפני הבחירות\", אבל לא התייחס לשאלת האפשרות ליזום פעולה שתוביל למיסקלקולציה. ב-CNN דווח כי נראה שהשאלה היא לא אם תהיה תקיפה, אלא מתי: \"כוחות אמריקניים ערוכים למבצעים נרחבים, תוך 96 שעות מפקודה\". לפי הדיווח, \"נתניהו ניסה לשכנע לתקוף במשותף, טראמפ לא אישר\". לשכת רה\"מ: \"פייק ניוז\"",
+      "importance": 9,
+      "topics": [
+        "ישראל",
+        "איראן",
+        "ארה\"ב"
+      ],
+      "published": "Mon, 26 Oct 2026 09:37:12 +0200"
+    },
+    {
+      "title": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
+      "summary": "A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "ביטחון"
+      ],
+      "published": "Sun, 25 Oct 2026 17:22:40 -0400"
+    },
     {
       "title": "התקיפה המסתורית בעיראק, לחץ נתניהו לפעולה לפני בחירות והמתח עם הרמטכ\"ל",
       "source": "Ynet חדשות",
       "url": "https://www.ynet.co.il/news/article/b1nawp32gg",
-      "summary": "זמיר הכריז על כוננות מחשש למיסקלקולציה והעביר מסר לדרג המדיני שצה\"ל מתנגד לפעולות מתגרות, אבל נתניהו וכ\"ץ המשיכו באיומים על איראן - והאווירה בדיון בפלמחים הייתה עכורה. רה\"מ הכחיש עימות, לאחר דיווח שלפיו הרמטכ\"ל קיבל הנחיה, וביקש דיון מעמיק ואסמכתאות חתומות. ומה בדיוק הותקף בעיראק?",
+      "summary": "זמיר הכריז על כוננות מחשש למיסקלקולציה והעביר מסר לדרג המדיני שצה\"ל מתנגד לפעולות מתגרות, אבל נתניהו וכ\"ץ המשיכו באיומים על איראן - והאווירה בדיון בפלמחים הייתה עכורה. רה\"מ הכחיש עימות, לאחר דיווח שלפיו הרמטכ\"ל קיבל הנחיה, וביקש דיון מעמיק ואסמכתא חתומה. ומה בדיוק הותקף בעיראק?",
       "importance": 8,
       "topics": [
         "ישראל",
-        "עיראק",
-        "ביטחון"
+        "איראן",
+        "עיראק"
       ],
       "published": "Mon, 26 Oct 2026 08:12:03 +0200"
-    },
-    {
-      "title": "דרמה בברזיל: ניצחון מפתיע לנשיא האנטי-ישראלי לולה - שהביס את מנהיג הימין",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/h1ubdqshfg",
-      "summary": "הגל השמרני שסחף את אמריקה הלטינית נשבר במדינה הגדולה ביותר בה: הנשיא לולה דה סילבה בן ה-80, שהאשים את ישראל ב\"רצח עם\" והתעמת עם טראמפ, הביס בניגוד לציפיות את איש הימין פלאביו בולסונרו, שהבטיח להעביר את השגרירות לי-ם - וגם להעניק חנינה לאביו והנשיא לשעבר, שנכלא על ניסיון הפיכה. לולה הכריז בנאום הניצחון: \"מנענו התערבות זרה, ברזיל היא לא החצר האחורית של אף אחד\". בולסונרו סירב להכיר בהפסד: \"נבקש שהתוצ",
-      "importance": 8,
-      "topics": [
-        "ברזיל",
-        "בחירות",
-        "גיאופוליטיקה"
-      ],
-      "published": "Mon, 26 Oct 2026 02:14:45 +0200"
     },
     {
       "title": "Brazil's left-wing President Lula elected for fourth term",
@@ -37,22 +50,9 @@
       "topics": [
         "ברזיל",
         "בחירות",
-        "לטינואמריקה"
+        "ג'אופוליטיקה"
       ],
       "published": "Sun, 25 Oct 2026 20:35:00 -0400"
-    },
-    {
-      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-      "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
-      "importance": 7,
-      "topics": [
-        "ונצואלה",
-        "אופוזיציה",
-        "גיאופוליטיקה"
-      ],
-      "published": "Sun, 25 Oct 2026 12:18:41 -0400"
     },
     {
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
@@ -63,7 +63,7 @@
       "topics": [
         "סרביה",
         "בחירות",
-        "שינוי פוליטי"
+        "פוליטיקה"
       ],
       "published": "Mon, 26 Oct 2026 01:07:05 GMT"
     },
@@ -76,7 +76,7 @@
       "topics": [
         "אוקראינה",
         "טכנולוגיה",
-        "ספייס-אקס"
+        "ביטחון"
       ],
       "published": "Sun, 25 Oct 2026 09:00:00 GMT"
     },
@@ -88,49 +88,49 @@
       "importance": 7,
       "topics": [
         "צרפת",
-        "הפגנות",
-        "אירופה"
+        "מחאות",
+        "ביטחון"
       ],
       "published": "Sun, 25 Oct 2026 10:38:15 GMT"
     },
     {
-      "title": "Aleksandar Vucic, the Serbian leader brought down by students",
+      "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
-      "summary": "Serbia's longtime leader concedes defeat to a student-led protest movement in parliamentary elections.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
+      "summary": "Talks to be first high-level contact between Iran and the bloc since Houthi rebels escalated attacks on Saudi Arabia.",
       "importance": 7,
       "topics": [
-        "סרביה",
-        "בחירות",
-        "הפגנות"
+        "איראן",
+        "סעודיה",
+        "תוחלת"
       ],
-      "published": "Mon, 26 Oct 2026 05:24:59 +0000"
+      "published": "Mon, 26 Oct 2026 07:33:47 +0000"
     },
     {
-      "title": "Israel’s election: Five key things to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-      "summary": "Vote comes as Israel is embroiled in multiple wars, faces international criticism and grapples with domestic divisions.",
-      "importance": 7,
+      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
+      "importance": 6,
       "topics": [
-        "ישראל",
-        "בחירות",
-        "גיאופוליטיקה"
+        "וונצואלה",
+        "אופוזיציה",
+        "מדיניות"
       ],
-      "published": "Mon, 26 Oct 2026 05:16:38 +0000"
+      "published": "Sun, 25 Oct 2026 12:18:41 -0400"
     },
     {
-      "title": "World reacts to Lula’s victory in Brazil’s presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
-      "summary": "International leaders and politicians congratulate the Brazilian president on his re-election.",
-      "importance": 7,
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
+      "importance": 6,
       "topics": [
-        "ברזיל",
-        "בחירות",
-        "דיפלומטיה"
+        "רוסיה",
+        "אוקראינה",
+        "סנקציות"
       ],
-      "published": "Mon, 26 Oct 2026 03:50:12 +0000"
+      "published": "Sun, 25 Oct 2026 14:34:33 GMT"
     }
   ],
   "business": [
@@ -170,32 +170,6 @@
         "פנסיה",
         "דמוגרפיה",
         "פיננסים"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "France is flashing euro crisis signals. This time, the fault lines are different",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "עלויות האשראי של צרפת טיפסו לרמות שלא ראינו מאז משבר החוב האירופי של 2011. הסיבה: שילוב של חוב ממשלתי גבוה ואי-יציבות פוליטית שלא נגמרת. מה שמעניין הפעם הוא שהפערים בין הריבית הצרפתית לגרמנית ממשיכים להתרחב - סימן שהשוק מתחיל לתמחר סיכון אמיתי. אם זה ימשיך, זה לא עניין צרפתי בלבד - בנקים שמחזיקים אגרות חוב צרפתיות, מדינות כמו איטליה וספרד, וגם היורו עצמו יכולים להרגיש את זה.",
-      "importance": 8,
-      "topics": [
-        "יורו",
-        "חוב ריבונی",
-        "אירופה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "French Bond Risk Nears Biggest Weekly Rise as Crisis Deepens",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "הפרש התשואות בין אג\"ח צרפת לגרמניה קרוב לשיא שבועי היסטורי - סימן שהשווקים מתחילים לתמחר סיכון פוליטי אמיתי. הפיילות הפוליטית בפריז, שמונעת אישור תקציב, הפכה לבעיה פיסקלית ממשית.\n\nמה שמעניין כאן הוא ההשפעה על כלל גוש האירו: כשצרפת רועדת, לחץ מחודש נופל על האיגרות של איטליה וספרד, על היורו, ועל הבנק המרכזי האירופי שצריך להחליט אם להתערב - וזה הפך פחות פשוט מאי פעם.",
-      "importance": 8,
-      "topics": [
-        "אג\"ח",
-        "צרפת",
-        "סיכון ריבוני"
       ],
       "tag": "גלובלי"
     },
@@ -252,6 +226,20 @@
       "tag": "ארה\"ב"
     },
     {
+      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "SpaceX גייסה חוב של 40 מיליארד דולר - ומאסק מנצל את זה כדי לבנות עסק AI שמשכיר גישה לשבבים מתקדמים.\n\nזה לא רק עוד חברת AI. SpaceX מגיעה עם תשתית חומרה שרוב המתחרים לא יכולים להרשות לעצמם, ומאסק כבר מדבר בפתיחות על זה שחלק מהשחקנים הקיימים לא ישרדו את התחרות.\n\nמי שצריך לשים לב: ספקי ענן שמוכרים גישה לשבבים - זה השוק שSpaceX נכנסת אליו עכשיו.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "SpaceX",
+        "שבבים",
+        "השקעות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
       "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
       "source": "CNBC Top News",
       "url": "",
@@ -274,8 +262,7 @@
       "importance": 7,
       "topics": [
         "AI",
-        "כלכלה",
-        "הערכות"
+        "כלכלה"
       ],
       "published": "Sun, 25 Oct 2026 16:57:32 +0000"
     },
@@ -287,8 +274,8 @@
       "importance": 7,
       "topics": [
         "AI",
-        "Search",
-        "תעשיית ההוצאה לאור"
+        "גוגל",
+        "עיתונות דיגיטלית"
       ],
       "published": "2026-10-25T08:00:00-04:00"
     },
@@ -306,69 +293,17 @@
       "published": "Sun, 25 Oct 2026 11:10:43 +0000"
     },
     {
-      "title": "אחרי השערוריות: OpenAI חזרה לאמן מודלים עם אינטרנט מזויף",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/openai-offline-world-frontier-model-training/",
-      "summary": "אחד האתגרים הגדולים של חברות ה-AI הוא לא רק לפתח מודלים חכמים וחזקים יותר, אלא גם לוודא שהם יפעלו כמו שאנחנו רוצים שיפעלו – ולא יעשו ככל העולה על רצונם. בחודש שעבר דיווחה OpenAI כי אחרי שורה של מקרים שבהם המודלים שלה לא פעלו כמו שצריך – ופרצו לאתרים על דעת עצמם – היא הפסיקה […] The post אחרי השערוריות: OpenAI חזרה לאמן מודלים עם אינטרנט מזויף appeared first on גיקטיים .",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "בטיחות"
-      ],
-      "published": "Sun, 25 Oct 2026 07:33:42 +0000"
-    },
-    {
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "importance": 6,
-      "topics": [
-        "AI",
-        "xAI",
-        "וידאו"
-      ],
-      "published": "Sun, 25 Oct 2026 21:31:16 +0000"
-    },
-    {
       "title": "What the US Movement Against Data Centers Can Learn From Abroad",
       "source": "Wired",
       "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
       "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
       "importance": 6,
       "topics": [
-        "Data Centers",
+        "מרכזי נתונים",
         "רגולציה",
-        "אנרגיה"
+        "אינפרא טכנולוגית"
       ],
       "published": "Sun, 25 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "title": "הדפדפן האהוב עלינו עומד למות",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/arc-browser-is-about-to-die/",
-      "summary": "לפני קרוב לארבע שנים כתבתי כאן על Arc, \"הדפדפן שאתם לא יכולים להשתמש בו, וחבל\". מאז הוא כבר הגיע ממק לווינדוס, ונזנח על ידי החברה שיצרה אותו. בסוף השבוע היא הודיעה שהדפדפן הפופולרי עומד למות ממש בקרוב. המטאור שעומד להתרסק The Browser Company, החברה שפיתחה את דפדפן Arc, הודיעה שהוא יפסיק לעבוד עד סוף השנה. […] The post הדפדפן האהוב עלינו עומד למות appeared first on גיקטיים .",
-      "importance": 6,
-      "topics": [
-        "דפדפנים",
-        "The Browser Company",
-        "טכנולוגיה"
-      ],
-      "published": "Sun, 25 Oct 2026 08:59:10 +0000"
-    },
-    {
-      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]",
-      "importance": 5,
-      "topics": [
-        "אפל",
-        "סמארטפון",
-        "עיצוב"
-      ],
-      "published": "2026-10-25T17:40:27-04:00"
     }
   ]
 }
