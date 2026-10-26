@@ -1048,7 +1048,8 @@
     "617ebecc4d25d373": "2026-10-26T09:00:44.961222+00:00",
     "c773abc337f807af": "2026-10-26T10:30:34.181013+00:00",
     "bdf6d70fdfb3b104": "2026-10-26T12:01:41.511764+00:00",
-    "4559b0518a18797c": "2026-10-26T13:31:22.534228+00:00"
+    "4559b0518a18797c": "2026-10-26T13:31:22.534228+00:00",
+    "24182afb01161fec": "2026-10-26T15:02:09.032353+00:00"
   },
   "messages": [
     {
@@ -15202,7 +15203,21 @@
         "IPO",
         "הון סיכון"
       ]
+    },
+    {
+      "sent_at": "2026-10-26T15:02:09.032353+00:00",
+      "title": "ANTHROPIC'S S-1 SHOWS COMPUTE COMMITMENTS RUNNING ALL THE WAY TO 2045: • Broadcom TPU leases: ~$161.2B in rent • SpaceXAI: up to $120.5B for Nvidia Chips • Google: at least ~$114.5B • Amazon: $110.0B • Microsoft: at least $44.9B • Nscale: up to ~$44.6B • Lambda: ~$41.3B https://t.co/c5YxLHt7Q4",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2114718928115318832",
+      "message": "מסמכי ה-IPO של Anthropic חושפים התחייבויות לרכישת כוח חישוב בסך כולל של מעל 600 מיליארד דולר - עד שנת 2045. Broadcom לבד מקבלת 161 מיליארד, ו-NVIDIA נמצאת בכל מקום: דרך SpaceX, Amazon, Microsoft ואחרות.\n\nזה לא תקציב שנתי - זה חוזים רב-עשוריים שנועלים את שרשרת האספקה של AI לדור הבא. היצרניות שמספקות שבבים, קירור, חשמל ותשתיות מרכזי נתונים כבר יודעות מה מצפה להן. השוק כבר תימחר חלק מזה - אבל לא בהכרח את הקצה.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "השקעות",
+        "AI תשתיות",
+        "Nvidia"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-26T13:30:39.656032+00:00"
+  "last_auto_run": "2026-10-26T15:00:45.002503+00:00"
 }
