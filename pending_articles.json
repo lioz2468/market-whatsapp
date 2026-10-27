@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "final_message": "אינטל רוכשת את Classiq הישראלית ב-2.3 מיליארד דולר - האקזיט הגדול ביותר בהיסטוריה של המחשוב הקוונטי, לא רק בישראל אלא בעולם כולו.\n\nClassiq בנתה פלטפורמה לפיתוח אלגוריתמים קוונטיים, וזה מעניין כי אינטל היא לא השם הראשון שהיית מצפה לו בתחום הזה. אבל זה בדיוק הסיגנל - כשחברות כמו אינטל נכנסות בגדול לקוונטום, זה מזיז את כל המגזר. שימו לב לחברות שמספקות תשתיות לקוונטום - הן הולכות לראות עניין מחודש.",
+    "title": "אינטל רוכשת את Classiq הישראלית בכ-2.3 מיליארד דולר",
+    "source": "גיקטיים",
+    "hash": "43943e37630a7083",
+    "importance": 9,
+    "tag": "ישראל",
+    "topics": [
+      "סטארטאפ",
+      "טכנולוגיה",
+      "קוונטום"
+    ]
+  },
+  {
+    "final_message": "לפי ה-WSJ, DoorDash מנהלת משא ומתן מתקדם לרכישת Instacart - עסקה שעשויה להסתיים עוד השבוע. Uber, שניהלה גם היא שיחות עם Instacart, כבר לא בתמונה.\n\nאם זה יקרה, נוצר ענק הזמנות שמכסה אוכל מוכן וקניות סופרמרקט תחת קורת גג אחת. זה לחץ ישיר על Uber Eats, אבל גם על רשתות הסופרמרקטים - Kroger, Albertsons ואחרות - שהסתמכו על Instacart כערוץ מכירה דיגיטלי עצמאי.",
+    "title": "DoorDash $DASH is in advanced talks to acquire Instacart, with a deal potentially finalized as soon as this week, according to WSJ $UBER, which previously held discussions with $CART, is no longer in talks No deal has been finalized, & discussions could still fall apart https://t.co/TX78QkmmpB",
+    "source": "Twitter @wallstengine",
+    "hash": "0195c883b8f354e7",
+    "importance": 9,
+    "tag": "ארה\"ב",
+    "topics": [
+      "M&A",
+      "דיגיטל",
+      "קיבול"
+    ]
+  }
+]
