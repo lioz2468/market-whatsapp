@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-27T06:45:08.517038+00:00",
+  "generated_at": "2026-10-27T08:50:35.045861+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Why it could take time for a new Israeli government to form",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
+      "importance": 9,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "פוליטיקה"
+      ],
+      "published": "Tue, 27 Oct 2026 08:37:30 GMT"
+    },
+    {
+      "title": "Israelis begin voting as Netanyahu fights for political survival",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
+      "summary": "Israelis vote as Netanyahu faces Gadi Eisenkot amid divisions over the wars in Gaza and Iran and growing isolation.",
+      "importance": 9,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "נתניהו"
+      ],
+      "published": "Tue, 27 Oct 2026 08:38:44 +0000"
+    },
     {
       "title": "A quick guide to Israel's high-stakes elections",
       "source": "NPR World",
@@ -11,22 +37,22 @@
       "topics": [
         "ישראל",
         "בחירות",
-        "פוליטיקה"
+        "ביטחון"
       ],
       "published": "Tue, 27 Oct 2026 00:54:30 -0400"
     },
     {
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "title": "Israel heads to polls for pivotal election defined by security and democracy",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
       "importance": 8,
       "topics": [
-        "ברזיל",
+        "ישראל",
         "בחירות",
-        "פוליטיקה"
+        "ביטחון"
       ],
-      "published": "Mon, 26 Oct 2026 21:02:47 GMT"
+      "published": "Tue, 27 Oct 2026 05:45:08 GMT"
     },
     {
       "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
@@ -36,23 +62,10 @@
       "importance": 8,
       "topics": [
         "ישראל",
-        "פלסטין",
+        "פלסטינים",
         "בחירות"
       ],
       "published": "Tue, 27 Oct 2026 06:28:13 +0000"
-    },
-    {
-      "title": "Israel heads to the polls as shift to the right dominates critical election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
-      "summary": "Netanyahu seeks to extend rule at helm of far right alliance facing off against predominantly right-wing bloc.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "בחירות",
-        "פוליטיקה"
-      ],
-      "published": "Tue, 27 Oct 2026 04:44:14 +0000"
     },
     {
       "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
@@ -75,36 +88,23 @@
       "importance": 7,
       "topics": [
         "סין",
-        "פוליטיקה",
-        "שינויי מנהיגות"
+        "מדיניות",
+        "גיאופוליטיקה"
       ],
       "published": "Mon, 26 Oct 2026 09:20:38 -0400"
     },
     {
-      "title": "'The smell of freedom': Serbia's student movement celebrates election triumph",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/26/nx-s1-6016298/serbia-student-list-vucic-election",
-      "summary": "A political earthquake has occurred in Serbia as a student-backed movement wins the parliamentary election, ending more than a decade of dominance by a Moscow-backed populist leader.",
-      "importance": 7,
-      "topics": [
-        "סרביה",
-        "בחירות",
-        "אירופה"
-      ],
-      "published": "Mon, 26 Oct 2026 04:41:34 -0400"
-    },
-    {
-      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ceasefire in Oleshky, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
       "importance": 7,
       "topics": [
-        "וונצואלה",
-        "ארצות הברית",
+        "אוקראינה",
+        "הומניטרי",
         "דיפלומטיה"
       ],
-      "published": "Tue, 27 Oct 2026 00:31:11 GMT"
+      "published": "Tue, 27 Oct 2026 08:01:22 GMT"
     },
     {
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
@@ -115,22 +115,22 @@
       "topics": [
         "סרביה",
         "בחירות",
-        "גיאופוליטיקה"
+        "פוליטיקה"
       ],
       "published": "Mon, 26 Oct 2026 14:34:52 GMT"
     },
     {
-      "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says",
+      "title": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss",
-      "summary": "OpenAI's announcement is the latest in a series of claimed scientific breakthroughs credited to AI.",
+      "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss",
+      "summary": "The cyclonic storm is set to make landfall on Wednesday, with 400,000 people in need of evacuation.",
       "importance": 7,
       "topics": [
-        "בינה מלאכותית",
-        "מדע",
-        "טכנולוגיה"
+        "הודו",
+        "אסון טבע",
+        "אקלים"
       ],
-      "published": "Tue, 27 Oct 2026 05:01:13 +0000"
+      "published": "Tue, 27 Oct 2026 08:02:37 +0000"
     }
   ],
   "business": [
@@ -213,18 +213,17 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
-      "source": "MarketWatch",
+      "title": "אינטל רוכשת את Classiq הישראלית בכ-2.3 מיליארד דולר",
+      "source": "גיקטיים",
       "url": "",
-      "summary": "SpaceX גייסה חוב של 40 מיליארד דולר - ומאסק מנצל את זה כדי לבנות עסק AI שמשכיר גישה לשבבים מתקדמים.\n\nזה לא רק עוד חברת AI. SpaceX מגיעה עם תשתית חומרה שרוב המתחרים לא יכולים להרשות לעצמם, ומאסק כבר מדבר בפתיחות על זה שחלק מהשחקנים הקיימים לא ישרדו את התחרות.\n\nמי שצריך לשים לב: ספקי ענן שמוכרים גישה לשבבים - זה השוק שSpaceX נכנסת אליו עכשיו.",
-      "importance": 8,
+      "summary": "אינטל רוכשת את Classiq הישראלית ב-2.3 מיליארד דולר - האקזיט הגדול ביותר בהיסטוריה של המחשוב הקוונטי, לא רק בישראל אלא בעולם כולו.\n\nClassiq בנתה פלטפורמה לפיתוח אלגוריתמים קוונטיים, וזה מעניין כי אינטל היא לא השם הראשון שהיית מצפה לו בתחום הזה. אבל זה בדיוק הסיגנל - כשחברות כמו אינטל נכנסות בגדול לקוונטום, זה מזיז את כל המגזר. שימו לב לחברות שמספקות תשתיות לקוונטום - הן הולכות לראות עניין מחודש.",
+      "importance": 9,
       "topics": [
-        "AI",
-        "SpaceX",
-        "שבבים",
-        "השקעות"
+        "סטארטאפ",
+        "טכנולוגיה",
+        "קוונטום"
       ],
-      "tag": "גלובלי"
+      "tag": "ישראל"
     },
     {
       "title": "China National Team ETFs Draw Most Inflows Since Trade War Rout",
@@ -295,6 +294,19 @@
       "published": "Mon, 26 Oct 2026 20:06:48 +0000"
     },
     {
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "importance": 8,
+      "topics": [
+        "Anthropic",
+        "IPO",
+        "AI"
+      ],
+      "published": "Mon, 26 Oct 2026 16:49:42 +0000"
+    },
+    {
       "title": "SpaceX locks in $40B GPU financing deal with Apollo",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
@@ -302,23 +314,23 @@
       "importance": 8,
       "topics": [
         "SpaceX",
-        "AI",
-        "financing"
+        "GPU",
+        "AI"
       ],
       "published": "Mon, 26 Oct 2026 16:46:36 +0000"
     },
     {
-      "title": "Five weird details from Anthropic’s IPO filing",
+      "title": "Anthropic is burning gas to feed the AI boom",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]",
       "importance": 8,
       "topics": [
-        "IPO",
         "Anthropic",
+        "IPO",
         "AI"
       ],
-      "published": "2026-10-26T13:10:23-04:00"
+      "published": "2026-10-26T17:45:31-04:00"
     },
     {
       "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
@@ -327,9 +339,9 @@
       "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
       "importance": 8,
       "topics": [
-        "AI",
         "Anthropic",
-        "IPO"
+        "IPO",
+        "AI"
       ],
       "published": "Mon, 26 Oct 2026 14:50:47 +0000"
     },
@@ -342,35 +354,22 @@
       "topics": [
         "AI",
         "OpenAI",
-        "עוזרים דיגיטליים"
+        "סוכנים אוטונומיים"
       ],
       "published": "Tue, 27 Oct 2026 02:00:00 +0000"
     },
     {
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "title": "Microsoft offers buyouts to around 60,000 employees",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
       "importance": 7,
       "topics": [
-        "Anthropic",
-        "IPO",
-        "AI"
+        "Microsoft",
+        "הנהלה",
+        "פיטורים בהיקף גדול"
       ],
-      "published": "Mon, 26 Oct 2026 16:49:42 +0000"
-    },
-    {
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "מחקר"
-      ],
-      "published": "2026-10-26T19:34:58-04:00"
+      "published": "Mon, 26 Oct 2026 15:58:25 +0000"
     }
   ]
 }
