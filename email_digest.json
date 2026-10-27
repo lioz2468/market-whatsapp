@@ -1,58 +1,110 @@
 {
-  "generated_at": "2026-10-26T08:44:17.214065+00:00",
+  "generated_at": "2026-10-27T06:45:08.517038+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "\"טראמפ לא נתן לנתניהו אור ירוק\": ההכנות לתקיפה באיראן - \"תוך 96 שעות מפקודה\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/sy6jdo3nfx",
-      "summary": "כ\"ץ הכחיש \"כוונה של ישראל ליזום התקפה על איראן לפני הבחירות\", אבל לא התייחס לשאלת האפשרות ליזום פעולה שתוביל למיסקלקולציה. ב-CNN דווח כי נראה שהשאלה היא לא אם תהיה תקיפה, אלא מתי: \"כוחות אמריקניים ערוכים למבצעים נרחבים, תוך 96 שעות מפקודה\". לפי הדיווח, \"נתניהו ניסה לשכנע לתקוף במשותף, טראמפ לא אישר\". לשכת רה\"מ: \"פייק ניוז\"",
-      "importance": 9,
-      "topics": [
-        "ישראל",
-        "איראן",
-        "ארה\"ב"
-      ],
-      "published": "Mon, 26 Oct 2026 09:37:12 +0200"
-    },
-    {
-      "title": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
+      "title": "A quick guide to Israel's high-stakes elections",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
-      "summary": "A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week.",
+      "url": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+      "summary": "Israel is holding its first elections since the Hamas-led attacks of 2023 triggered a chain of conflicts across the region — a quick guide the key players, issues and when to expect a result.",
       "importance": 8,
       "topics": [
         "ישראל",
         "בחירות",
-        "ביטחון"
+        "פוליטיקה"
       ],
-      "published": "Sun, 25 Oct 2026 17:22:40 -0400"
+      "published": "Tue, 27 Oct 2026 00:54:30 -0400"
     },
     {
-      "title": "התקיפה המסתורית בעיראק, לחץ נתניהו לפעולה לפני בחירות והמתח עם הרמטכ\"ל",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/b1nawp32gg",
-      "summary": "זמיר הכריז על כוננות מחשש למיסקלקולציה והעביר מסר לדרג המדיני שצה\"ל מתנגד לפעולות מתגרות, אבל נתניהו וכ\"ץ המשיכו באיומים על איראן - והאווירה בדיון בפלמחים הייתה עכורה. רה\"מ הכחיש עימות, לאחר דיווח שלפיו הרמטכ\"ל קיבל הנחיה, וביקש דיון מעמיק ואסמכתא חתומה. ומה בדיוק הותקף בעיראק?",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
       "importance": 8,
-      "topics": [
-        "ישראל",
-        "איראן",
-        "עיראק"
-      ],
-      "published": "Mon, 26 Oct 2026 08:12:03 +0200"
-    },
-    {
-      "title": "Brazil's left-wing President Lula elected for fourth term",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
-      "summary": "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
-      "importance": 7,
       "topics": [
         "ברזיל",
         "בחירות",
-        "ג'אופוליטיקה"
+        "פוליטיקה"
       ],
-      "published": "Sun, 25 Oct 2026 20:35:00 -0400"
+      "published": "Mon, 26 Oct 2026 21:02:47 GMT"
+    },
+    {
+      "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
+      "summary": "Israel sealed the West Bank, emptied parts of Hebron and tightened the squeeze on Gaza as its election campaign closed.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "פלסטין",
+        "בחירות"
+      ],
+      "published": "Tue, 27 Oct 2026 06:28:13 +0000"
+    },
+    {
+      "title": "Israel heads to the polls as shift to the right dominates critical election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
+      "summary": "Netanyahu seeks to extend rule at helm of far right alliance facing off against predominantly right-wing bloc.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "פוליטיקה"
+      ],
+      "published": "Tue, 27 Oct 2026 04:44:14 +0000"
+    },
+    {
+      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
+      "summary": "A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S. first lady Melania Trump, as missile attacks resumed in Kyiv.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Tue, 27 Oct 2026 01:26:58 -0400"
+    },
+    {
+      "title": "What to know about China's plenum as Xi seeks stronger party discipline",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline",
+      "summary": "This closed-door gathering that started Monday comes about a year before Xi is expected to secure a fourth term and personnel changes to key leadership bodies.",
+      "importance": 7,
+      "topics": [
+        "סין",
+        "פוליטיקה",
+        "שינויי מנהיגות"
+      ],
+      "published": "Mon, 26 Oct 2026 09:20:38 -0400"
+    },
+    {
+      "title": "'The smell of freedom': Serbia's student movement celebrates election triumph",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6016298/serbia-student-list-vucic-election",
+      "summary": "A political earthquake has occurred in Serbia as a student-backed movement wins the parliamentary election, ending more than a decade of dominance by a Moscow-backed populist leader.",
+      "importance": 7,
+      "topics": [
+        "סרביה",
+        "בחירות",
+        "אירופה"
+      ],
+      "published": "Mon, 26 Oct 2026 04:41:34 -0400"
+    },
+    {
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "importance": 7,
+      "topics": [
+        "וונצואלה",
+        "ארצות הברית",
+        "דיפלומטיה"
+      ],
+      "published": "Tue, 27 Oct 2026 00:31:11 GMT"
     },
     {
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
@@ -63,167 +115,102 @@
       "topics": [
         "סרביה",
         "בחירות",
-        "פוליטיקה"
+        "גיאופוליטיקה"
       ],
-      "published": "Mon, 26 Oct 2026 01:07:05 GMT"
+      "published": "Mon, 26 Oct 2026 14:34:52 GMT"
     },
     {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "טכנולוגיה",
-        "ביטחון"
-      ],
-      "published": "Sun, 25 Oct 2026 09:00:00 GMT"
-    },
-    {
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-      "importance": 7,
-      "topics": [
-        "צרפת",
-        "מחאות",
-        "ביטחון"
-      ],
-      "published": "Sun, 25 Oct 2026 10:38:15 GMT"
-    },
-    {
-      "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
+      "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
-      "summary": "Talks to be first high-level contact between Iran and the bloc since Houthi rebels escalated attacks on Saudi Arabia.",
+      "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss",
+      "summary": "OpenAI's announcement is the latest in a series of claimed scientific breakthroughs credited to AI.",
       "importance": 7,
       "topics": [
-        "איראן",
-        "סעודיה",
-        "תוחלת"
+        "בינה מלאכותית",
+        "מדע",
+        "טכנולוגיה"
       ],
-      "published": "Mon, 26 Oct 2026 07:33:47 +0000"
-    },
-    {
-      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-      "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
-      "importance": 6,
-      "topics": [
-        "וונצואלה",
-        "אופוזיציה",
-        "מדיניות"
-      ],
-      "published": "Sun, 25 Oct 2026 12:18:41 -0400"
-    },
-    {
-      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-      "importance": 6,
-      "topics": [
-        "רוסיה",
-        "אוקראינה",
-        "סנקציות"
-      ],
-      "published": "Sun, 25 Oct 2026 14:34:33 GMT"
+      "published": "Tue, 27 Oct 2026 05:01:13 +0000"
     }
   ],
   "business": [
     {
-      "title": "Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/25/earnings-week-alphabet-microsoft-amazon.html",
-      "summary": "השבוע מדווחות Alphabet, Microsoft, Amazon ועוד כ-160 חברות מה-S&P 500 - אחד הרגעים החשובים ביותר בעונת הרווחים הזו.\n\nמה שמעניין במיוחד: השוק נמצא בלחץ ומחפש עוגן. הדוחות האלה לא רק ספרות - הם תמונת מצב של כמה ה-AI באמת מייצר כסף, לא רק הייפ.\n\nשווה לשים לב לא רק לרווחים עצמם אלא לתחזיות קדימה. כשחברות גדולות כאלה מדברות על המחצית השנייה של השנה - כולם מקשיבים.",
+      "title": "Meta launches $35 billion stock offering to fund AI expansion",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/10/26/meta-35-billion-stock-offering-ai-expansion.html",
+      "summary": "מטא מגייסת 35 מיליארד דולר בהנפקת מניות - אחד הגיוסי הון הגדולים ביותר בהיסטוריה של חברות טכנולוגיה. הכסף מיועד כולו להרחבת תשתיות ה-AI שלה.\n\nמה שמעניין כאן: מטא לא לווה - היא מדללת בעלי מניות. זה אומר שההנהלה מאמינה שהתשואה על ההשקעה תצדיק את זה, אבל גם שהם צריכים הרבה מזומן עכשיו.\n\nמי שיושפע בעקיפין - ספקי שרתים, חברות אנרגיה שמאכילות מרכזי נתונים, וכל חברת AI שמתחרה על אותה תשתית.",
       "importance": 9,
       "topics": [
-        "רווחים",
-        "טכנולוגיה",
-        "שוק הון"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Fed Looks Set to Pause After September Rate Hike",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "הפד צפוי לעצור את העלאות הריבית בישיבה הקרובה, אחרי העלייה הראשונה מאז 2023 שבאה בספטמבר - וזה אפילו שהאינפלציה עדיין מעל היעד. מה שהשווקים יצפו לו עכשיו זה לא ההחלטה עצמה, אלא מה שיאמר יו\"ר הפד קווין וורש אחריה. כל מילה שלו על הצעד הבא תזוז. מי שיושפע מזה מעבר למניות: שוק האג\"ח, הדולר, ומי שלקח הלוואות בריבית משתנה.",
-      "importance": 9,
-      "topics": [
-        "פד",
-        "ריבית",
-        "מדיניות מונטרית"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-      "summary": "קרנות הפנסיה הגדולות בעולם נמצאות תחת לחץ גובר - ותוחלת חיים ארוכה יותר, בשילוב עם ירידה בשיעורי הילודה, הן הסיבה.\n\nהבעיה היא מתמטית פשוטה: פחות עובדים משלמים לתוך המערכת, יותר גמלאים מושכים ממנה, ולאורך זמן רב יותר. זה לחץ שכבר מורגש בגרמניה, יפן, ובמידה מסוימת גם בישראל.\n\nמה שפחות מדברים עליו: הלחץ הזה מגיע גם לשוק האג\"ח הממשלתיות - כי ממשלות ייאלצו לגייס יותר חוב כדי לממן את הפערים.",
-      "importance": 9,
-      "topics": [
-        "פנסיה",
-        "דמוגרפיה",
-        "פיננסים"
+        "AI",
+        "פיננסים",
+        "טכנולוגיה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "The Earnings Boom Is Heavily Reliant on Just a Handful of Stocks",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main",
-      "summary": "שתי שלישיות מצמיחת הרווחים של כל החברות בארה\"ב מגיעות מעשר חברות בלבד - ביניהן Nvidia ו-Micron.\n\nזה אומר שה-S&P 500 נראה חזק על הנייר, אבל מתחת לפני השטח רוב החברות פשוט... בסדר. לא יותר מזה.\n\nהדבר הכי מעניין פה הוא ההשפעה העקיפה: כל נדנוד ב-guidance של אחת מהעשר הללו מזיז את כל המדד. וזה הופך את השוק ליותר רגיש מאי פעם לחדשות של מספר קטן של שחקנים.",
-      "importance": 8,
+      "title": "Anthropic IPO live updates: AI lab lost $80.7 billion in first half of 2026",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+      "summary": "Anthropic הגישה תשקיף IPO לרשות ניירות הערך האמריקאית, ובו נחשף שהחברה הפסידה 80.7 מיליארד דולר במחצית הראשונה של 2026. זה מספר עצום, אבל ב-AI זה לא בהכרח סימן אזהרה - זה סימן שהחברה שורפת הון בקצב מסחרר כדי לבנות את התשתית לפני שהשוק מתגבש. מה שמעניין כאן: ההנפקה תיתן לנו לראות לראשונה את המספרים האמיתיים - כמה מכניסים Claude ומוצרי ה-API, ואיפה הכסף באמת הולך. זה ייצור לחץ גם על OpenAI וגם על גוגל להיות שקופים יותר.",
+      "importance": 9,
       "topics": [
-        "רווחות",
         "AI",
-        "ריכוז שוק"
+        "IPO",
+        "הון סיכון"
       ],
       "tag": "ארה\"ב"
     },
     {
-      "title": "Trump announces Audi will build $4 billion U.S. factory in Georgia",
+      "title": "ANTHROPIC'S S-1 SHOWS COMPUTE COMMITMENTS RUNNING ALL THE WAY TO 2045: • Broadcom TPU leases: ~$161.2B in rent • SpaceXAI: up to $120.5B for Nvidia Chips • Google: at least ~$114.5B • Amazon: $110.0B • Microsoft: at least $44.9B • Nscale: up to ~$44.6B • Lambda: ~$41.3B https://t.co/c5YxLHt7Q4",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2114718928115318832",
+      "summary": "מסמכי ה-IPO של Anthropic חושפים התחייבויות לרכישת כוח חישוב בסך כולל של מעל 600 מיליארד דולר - עד שנת 2045. Broadcom לבד מקבלת 161 מיליארד, ו-NVIDIA נמצאת בכל מקום: דרך SpaceX, Amazon, Microsoft ואחרות.\n\nזה לא תקציב שנתי - זה חוזים רב-עשוריים שנועלים את שרשרת האספקה של AI לדור הבא. היצרניות שמספקות שבבים, קירור, חשמל ותשתיות מרכזי נתונים כבר יודעות מה מצפה להן. השוק כבר תימחר חלק מזה - אבל לא בהכרח את הקצה.",
+      "importance": 9,
+      "topics": [
+        "השקעות",
+        "AI תשתיות",
+        "Nvidia"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
+      "summary": "בועת ה-AI תתפוצץ - זו לא שאלה של \"אם\" אלא של \"מתי\". כך אומרים האנליסטים של TS Lombard, אחד הבתי מחקר המכובדים בלונדון.\n\nהטיעון שלהם לא מסובך: ההשקעות בתשתיות AI גדלות בקצב שהמודל העסקי עדיין לא מצדיק. כשזה יתפוצץ - אף אחד לא יידע בדיוק מתי, ולכן לנסות לתזמן את זה זו טעות.\n\nמה שמעניין יותר: הכסף שייצא מ-AI לא נעלם - הוא ימצא בית חדש. שווה לחשוב לאן.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "בועה",
+        "השקעות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
       "source": "CNBC Top News",
       "url": "",
-      "summary": "אאודי תקים מפעל בגיאורגיה בהשקעה של 4 מיליארד דולר - ותייצר שם 200,000 רכבי SUV בשנה. זה לא סתם הכרזה: כשיצרן רכב אירופי גדול בונה כזה מתקן בארה\"ב, זה אומר שהוא מאמין שהמכסים כאן כדי להישאר לזמן ארוך. מי שלא מדובר בו מספיק - ספקי חלפים, תעשיית הפלדה, יצרני סוללות לרכב חשמלי. כולם יצטרכו להיות קרובים יותר לפס הייצור החדש.",
-      "importance": 8,
+      "summary": "הפד צפוי להשאיר את הריבית ללא שינוי בישיבה הקרובה - וזה לא בהכרח ידיעה משעממת.\n\nכשהריבית עומדת במקום, זה אומר שמשכנתאות, הלוואות רכב ואשראי צרכני נשארים יקרים. אבל זה גם אומר שהפד לא ממהר - הוא רואה אינפלציה שעדיין לא נרדמה לגמרי.\n\nמי שלא חושב על זה: חברות נדל\"ן מסחרי שמחכות להקלה, ושווקים מתעוררים שסובלים מדולר חזק.",
+      "importance": 9,
       "topics": [
-        "תעסוקה",
-        "תשתיות",
-        "תעשייה"
+        "ריבית",
+        "פד",
+        "כלכלה מקרו"
       ],
       "tag": "ארה\"ב"
     },
     {
-      "title": "\"Banks' bank\" Capitolis raises $200m at $1.9b valuation",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "גיוס של 200 מיליון דולר לפי שווי 1.9 מיליארד דולר - זה מה שהכריזה הבוקר Capitolis, חברת הפינטק הישראלית של גיל מנדלזיס.\n\nמה שמעניין פה זה לא רק הסכום - זה מה שהחברה עושה. Capitolis מייעלת את האופן שבו בנקים גדולים מנהלים את ההון ביניהם, ומצליחה לחסוך להם מיליארדים בדרישות רגולטוריות. בגדול - היא עוזרת לבנקים לעשות יותר עם פחות.\n\nהמרכז הפיתוח בת\"א ממשיך לגדול, וזה טוב לאקוסיסטם הפינטק המקומי.",
-      "importance": 8,
+      "title": "Banks, Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/tech/ai/banks-blackstone-form-63-billion-financing-vehicle-for-broadcom-ai-tech-0438f6d2?mod=rss_markets_main",
+      "summary": "63 מיליארד דולר - זה הסכום שקואליציה של בנקים גדולים ו-Blackstone מגייסת כדי לרכוש תשתיות מחשוב AI מ-Broadcom ולהשכיר אותן ל-Anthropic.\n\nשווה לעצור רגע על המבנה הזה: הבנקים לא משקיעים בחברת AI - הם קונים את הברזל ומשכירים אותו. פחות סיכון טכנולוגי, יותר עסקת נדל\"ן. זה מראה שהמוסדיים מאמינים שהביקוש לתשתיות AI כאן לאורך זמן - ו-Broadcom, שלרוב חיה בצל NVIDIA, פתאום בקדמת הבמה.",
+      "importance": 9,
       "topics": [
-        "פינטק",
-        "הון סיכון",
-        "ממלאי תפקיד"
+        "AI",
+        "מימון",
+        "תשתיות"
       ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "השבוע מדווחות יותר משליש מחברות S&P 500 על תוצאות הרבעון - זה אחד השבועות הכי עמוסים של העונה. הבעיה היא שהן נכנסות לדיווח כשהסנטימנט בשוק שבור, ומשקיעים פחות סלחניים מהרגיל.\n\nבסביבה כזו, תוצאה טובה לא בהכרח מזנקת - אבל אכזבה קטנה יכולה להוריד חזק. שווה לשים לב במיוחד לתחזיות קדימה (guidance) - שם תהיה האמת האמיתית על מה שחברות מצפות מהמחצית השנייה של השנה.",
-      "importance": 8,
-      "topics": [
-        "שוק המניות",
-        "ארביעונים",
-        "סנטימנט בשוק"
-      ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
       "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
@@ -240,70 +227,150 @@
       "tag": "גלובלי"
     },
     {
-      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+      "title": "China National Team ETFs Draw Most Inflows Since Trade War Rout",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "קרנות המדינה הסיניות רשמו את קצב הקנייה הגבוה ביותר מאז משבר אפריל 2025, ונכנסו לשוק כדי לבלום ירידות חדות. זה מה שמכונה \"national team\" - קרנות שהמדינה מפעילה ישירות כדי לייצב שערים כשהשוק קורס.\n\nהנקודה המעניינת: כשסין מתערבת בסדר גודל כזה, זה בדרך כלל סימן שהלחץ בשוק גדול משמה שנראה מבחוץ. שווה לשים לב גם לסחורות ולשווקים מתעוררים - הם נוטים להגיב מהר כשסין נכנסת למצב חירום.",
+      "importance": 8,
+      "topics": [
+        "סין",
+        "זרימת הון",
+        "בורסות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Mortgage rates above 7% are the 'new normal'—here's why",
       "source": "CNBC Top News",
       "url": "",
-      "summary": "תשואות האג\"ח הצרפתיות הגיעו לשיא של 24 שנה על רקע המהומות. זה לא רק מספר - זה אומר שהשווקים מתמחרים סיכון פוליטי אמיתי לצרפת. כשמדינה גדולה כמו צרפת מתערערת, זה נוגע ישירות ליציבות גוש האירו כולו - ומשם גם לאירו-שקל ולחברות ישראליות שמייצאות לאירופה. שווה לשים לב איך זה מתפתח.",
+      "summary": "ריביות המשכנתא בארה\"ב נשארות מעל 7% - וכלכלנים אומרים שזה כבר לא זמני, זה הנורמה החדשה.\n\nהסיבות: אינפלציה שממשיכה להדביק ותחרות גוברת על כסף המשקיעים מושכות את הריביות הארוכות למעלה, גם בלי קשר להחלטות הפד.\n\nמה שפחות ברור: זה לא רק עניין של שוק הנדל\"ן האמריקאי. ריביות גבוהות לטווח ארוך משפיעות על תמחור נכסים בכל העולם - כולל בישראל, שם שוק המשכנתאות צמוד חלקית לתנאי שוק גלובליים.",
+      "importance": 8,
+      "topics": [
+        "ריבית",
+        "אינפלציה",
+        "דיור"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "מחיר הנפט ירד יותר מ-2% על רקע שני כוחות שמושכים בכיוונים מנוגדים: מצד אחד, הפחד מפגיעות נוספות בתשתיות האנרגיה של ערב הסעודית - שיכולות לפגוע באספקה. מצד שני, הדאגה שמחיר גבוה מדי פשוט יוביל לפחות ביקוש. הנפט \"שתה\" את שתי ההשפעות ביחד. מה שמעניין לשים לב אליו כאן: מחיר נפט גבוה = אינפלציה מתמשכת = לחץ על הפד להישאר עם ריביות גבוהות יותר זמן ארוך יותר. השוק לא תמיד מחבר את הנקודות האלה מיד, אבל הן מחוברות.",
       "importance": 7,
       "topics": [
-        "אירופה",
-        "סיכון פוליטי",
-        "איגרות חוב"
+        "נפט",
+        "אנרגיה",
+        "ביקוש",
+        "סוודיה"
       ],
       "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "title": "Anthropic officially files for its public debut",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "importance": 7,
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "importance": 9,
       "topics": [
-        "AI",
-        "כלכלה"
+        "Anthropic",
+        "IPO",
+        "AI"
       ],
-      "published": "Sun, 25 Oct 2026 16:57:32 +0000"
+      "published": "Mon, 26 Oct 2026 14:35:22 +0000"
     },
     {
-      "title": "Google’s AI search changes upended online publishing",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "גוגל",
-        "עיתונות דיגיטלית"
-      ],
-      "published": "2026-10-25T08:00:00-04:00"
-    },
-    {
-      "title": "גוגל שינתה את תנאי השימוש, והמיילים והתמונות שלכם ישמשו לפרסום",
+      "title": "אינטל רוכשת את Classiq הישראלית בכ-2.3 מיליארד דולר",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/google-privacy-policy-gmail-photos-personalized-ads/",
-      "summary": "לא נראה לנו שזה סוד שגוגל יודעת עלינו לא מעט. היא יודעת מה אנחנו מחפשים ברשת, באילו סרטונים אנחנו צופים ביוטיוב, איפה אנחנו מסתובבים ואפילו אילו אפליקציות מותקנות לנו בסמארטפון. אבל עד עכשיו היה קו אחד שהיא הקפידה לא לחצות, לפחות באופן רשמי, והוא השימוש במידע האישי שלנו מתוך ג'ימייל, גוגל דרייב ו-Google Photos כדי […] The post גוגל שינתה את תנאי השימוש, והמיילים והתמונות שלכם ישמשו לפרסום appeared",
-      "importance": 7,
+      "url": "https://www.geektime.co.il/intel-acquires-classiq-in-biggest-deal-in-quantum-tech-history/",
+      "summary": "האקזיט הגדול בתולדות תחום המחשוב הקוונטי, בפער ניכר: הסטארטאפ הישראלי Classiq, המפתח פלטפורמה לפיתוח אלגוריתמים קוונטיים, נרכש בעסקה שטרם נראה כמוה בתחום. לא בישראל – בעולם כולו. הרוכשת היא לא אחרת מאשר Intel, כנראה לא החברה הראשונה שהייתם מצפים שתיכנס בסערה כזאת לתחום. סכום העסקה אמנם לא פורסם, אך מוערך בכ-2.3 מיליארד דולר. להיות \"המיקרוסופט […] The post אינטל רוכשת את Classiq הישראלית בכ-2.3 מיל",
+      "importance": 9,
       "topics": [
-        "גוגל",
-        "פרטיות",
-        "רגולציה"
+        "מחשוב קוונטי",
+        "M&A",
+        "Intel"
       ],
-      "published": "Sun, 25 Oct 2026 11:10:43 +0000"
+      "published": "Mon, 26 Oct 2026 20:06:48 +0000"
     },
     {
-      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-      "importance": 6,
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "importance": 8,
       "topics": [
-        "מרכזי נתונים",
-        "רגולציה",
-        "אינפרא טכנולוגית"
+        "SpaceX",
+        "AI",
+        "financing"
       ],
-      "published": "Sun, 25 Oct 2026 10:00:00 +0000"
+      "published": "Mon, 26 Oct 2026 16:46:36 +0000"
+    },
+    {
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]",
+      "importance": 8,
+      "topics": [
+        "IPO",
+        "Anthropic",
+        "AI"
+      ],
+      "published": "2026-10-26T13:10:23-04:00"
+    },
+    {
+      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "IPO"
+      ],
+      "published": "Mon, 26 Oct 2026 14:50:47 +0000"
+    },
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "עוזרים דיגיטליים"
+      ],
+      "published": "Tue, 27 Oct 2026 02:00:00 +0000"
+    },
+    {
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "importance": 7,
+      "topics": [
+        "Anthropic",
+        "IPO",
+        "AI"
+      ],
+      "published": "Mon, 26 Oct 2026 16:49:42 +0000"
+    },
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "מחקר"
+      ],
+      "published": "2026-10-26T19:34:58-04:00"
     }
   ]
 }
