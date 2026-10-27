@@ -1054,7 +1054,8 @@
     "53e91385471065b4": "2026-10-26T18:01:28.754968+00:00",
     "57743763b5465f1d": "2026-10-26T19:30:35.191404+00:00",
     "4e099fb11aa19da7": "2026-10-27T06:02:25.202564+00:00",
-    "43943e37630a7083": "2026-10-27T07:30:35.069058+00:00"
+    "43943e37630a7083": "2026-10-27T07:30:35.069058+00:00",
+    "0195c883b8f354e7": "2026-10-27T09:00:44.657364+00:00"
   },
   "messages": [
     {
@@ -15292,7 +15293,21 @@
         "טכנולוגיה",
         "קוונטום"
       ]
+    },
+    {
+      "sent_at": "2026-10-27T09:00:44.657364+00:00",
+      "title": "DoorDash $DASH is in advanced talks to acquire Instacart, with a deal potentially finalized as soon as this week, according to WSJ $UBER, which previously held discussions with $CART, is no longer in talks No deal has been finalized, & discussions could still fall apart https://t.co/TX78QkmmpB",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "message": "לפי ה-WSJ, DoorDash מנהלת משא ומתן מתקדם לרכישת Instacart - עסקה שעשויה להסתיים עוד השבוע. Uber, שניהלה גם היא שיחות עם Instacart, כבר לא בתמונה.\n\nאם זה יקרה, נוצר ענק הזמנות שמכסה אוכל מוכן וקניות סופרמרקט תחת קורת גג אחת. זה לחץ ישיר על Uber Eats, אבל גם על רשתות הסופרמרקטים - Kroger, Albertsons ואחרות - שהסתמכו על Instacart כערוץ מכירה דיגיטלי עצמאי.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "M&A",
+        "דיגיטל",
+        "קיבול"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-27T07:30:33.062063+00:00"
+  "last_auto_run": "2026-10-27T09:00:42.238177+00:00"
 }
