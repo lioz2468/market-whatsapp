@@ -1,217 +1,139 @@
 {
-  "generated_at": "2026-10-27T08:50:35.045861+00:00",
+  "generated_at": "2026-10-28T06:45:05.109819+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Why it could take time for a new Israeli government to form",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
-      "importance": 9,
-      "topics": [
-        "ישראל",
-        "בחירות",
-        "פוליטיקה"
-      ],
-      "published": "Tue, 27 Oct 2026 08:37:30 GMT"
-    },
-    {
-      "title": "Israelis begin voting as Netanyahu fights for political survival",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
-      "summary": "Israelis vote as Netanyahu faces Gadi Eisenkot amid divisions over the wars in Gaza and Iran and growing isolation.",
+      "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+      "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
       "importance": 9,
       "topics": [
         "ישראל",
         "בחירות",
         "נתניהו"
       ],
-      "published": "Tue, 27 Oct 2026 08:38:44 +0000"
+      "published": "Tue, 27 Oct 2026 16:45:39 -0400"
     },
     {
-      "title": "A quick guide to Israel's high-stakes elections",
+      "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
-      "summary": "Israel is holding its first elections since the Hamas-led attacks of 2023 triggered a chain of conflicts across the region — a quick guide the key players, issues and when to expect a result.",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
+      "summary": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
       "importance": 8,
       "topics": [
-        "ישראל",
-        "בחירות",
-        "ביטחון"
+        "אבולה",
+        "בריאות ציבורית",
+        "קונגו"
       ],
-      "published": "Tue, 27 Oct 2026 00:54:30 -0400"
+      "published": "Tue, 27 Oct 2026 15:53:12 -0400"
     },
     {
-      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "title": "West warns of famine risk in Sudan as civil war grinds on",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
+      "importance": 8,
+      "topics": [
+        "סודאן",
+        "משבר הומניטארי",
+        "בטחון"
+      ],
+      "published": "Tue, 27 Oct 2026 15:41:46 GMT"
+    },
+    {
+      "title": "Five key takeaways from Israel’s parliamentary elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+      "summary": "With more than half of votes counted, Netanyahu's bloc holds slight lead over opposition, but shy of majority.",
       "importance": 8,
       "topics": [
         "ישראל",
         "בחירות",
         "ביטחון"
       ],
-      "published": "Tue, 27 Oct 2026 05:45:08 GMT"
+      "published": "Wed, 28 Oct 2026 02:53:35 +0000"
     },
     {
-      "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
-      "summary": "Israel sealed the West Bank, emptied parts of Hebron and tightened the squeeze on Gaza as its election campaign closed.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "פלסטינים",
-        "בחירות"
-      ],
-      "published": "Tue, 27 Oct 2026 06:28:13 +0000"
-    },
-    {
-      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
-      "summary": "A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S. first lady Melania Trump, as missile attacks resumed in Kyiv.",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+      "summary": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
+      "importance": 7,
+      "topics": [
+        "ברזיל",
+        "בחירות",
+        "פוליטיקה"
+      ],
+      "published": "Tue, 27 Oct 2026 10:41:17 -0400"
+    },
+    {
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
       "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
         "דיפלומטיה"
       ],
-      "published": "Tue, 27 Oct 2026 01:26:58 -0400"
+      "published": "Tue, 27 Oct 2026 18:28:23 GMT"
     },
     {
-      "title": "What to know about China's plenum as Xi seeks stronger party discipline",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline",
-      "summary": "This closed-door gathering that started Monday comes about a year before Xi is expected to secure a fourth term and personnel changes to key leadership bodies.",
-      "importance": 7,
-      "topics": [
-        "סין",
-        "מדיניות",
-        "גיאופוליטיקה"
-      ],
-      "published": "Mon, 26 Oct 2026 09:20:38 -0400"
-    },
-    {
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ceasefire in Oleshky, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "הומניטרי",
-        "דיפלומטיה"
+        "ארה\"ב",
+        "משפט",
+        "עבירות מין"
       ],
-      "published": "Tue, 27 Oct 2026 08:01:22 GMT"
+      "published": "Wed, 28 Oct 2026 02:20:25 GMT"
     },
     {
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
       "importance": 7,
       "topics": [
-        "סרביה",
-        "בחירות",
-        "פוליטיקה"
+        "מצריים",
+        "חופש עיתונות",
+        "זכויות אדם"
       ],
-      "published": "Mon, 26 Oct 2026 14:34:52 GMT"
+      "published": "Tue, 27 Oct 2026 20:44:40 GMT"
     },
     {
-      "title": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears",
+      "title": "The next phase of military rule in Egypt is here",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss",
-      "summary": "The cyclonic storm is set to make landfall on Wednesday, with 400,000 people in need of evacuation.",
+      "url": "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss",
+      "summary": "El-Sisi’s announcement that he will not run for a fourth term may signal a new leadership arrangement.",
       "importance": 7,
       "topics": [
-        "הודו",
-        "אסון טבע",
-        "אקלים"
+        "מצריים",
+        "פוליטיקה",
+        "ביטחון"
       ],
-      "published": "Tue, 27 Oct 2026 08:02:37 +0000"
+      "published": "Wed, 28 Oct 2026 06:36:59 +0000"
+    },
+    {
+      "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
+      "summary": "Foreign ministers form security committee to share intelligence and follow up on impact of Jordan's strikes on Syria.",
+      "importance": 7,
+      "topics": [
+        "סוריה",
+        "ירדן",
+        "מזרח תיכון"
+      ],
+      "published": "Wed, 28 Oct 2026 03:10:17 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Meta launches $35 billion stock offering to fund AI expansion",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/10/26/meta-35-billion-stock-offering-ai-expansion.html",
-      "summary": "מטא מגייסת 35 מיליארד דולר בהנפקת מניות - אחד הגיוסי הון הגדולים ביותר בהיסטוריה של חברות טכנולוגיה. הכסף מיועד כולו להרחבת תשתיות ה-AI שלה.\n\nמה שמעניין כאן: מטא לא לווה - היא מדללת בעלי מניות. זה אומר שההנהלה מאמינה שהתשואה על ההשקעה תצדיק את זה, אבל גם שהם צריכים הרבה מזומן עכשיו.\n\nמי שיושפע בעקיפין - ספקי שרתים, חברות אנרגיה שמאכילות מרכזי נתונים, וכל חברת AI שמתחרה על אותה תשתית.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "פיננסים",
-        "טכנולוגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Anthropic IPO live updates: AI lab lost $80.7 billion in first half of 2026",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-      "summary": "Anthropic הגישה תשקיף IPO לרשות ניירות הערך האמריקאית, ובו נחשף שהחברה הפסידה 80.7 מיליארד דולר במחצית הראשונה של 2026. זה מספר עצום, אבל ב-AI זה לא בהכרח סימן אזהרה - זה סימן שהחברה שורפת הון בקצב מסחרר כדי לבנות את התשתית לפני שהשוק מתגבש. מה שמעניין כאן: ההנפקה תיתן לנו לראות לראשונה את המספרים האמיתיים - כמה מכניסים Claude ומוצרי ה-API, ואיפה הכסף באמת הולך. זה ייצור לחץ גם על OpenAI וגם על גוגל להיות שקופים יותר.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "IPO",
-        "הון סיכון"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "ANTHROPIC'S S-1 SHOWS COMPUTE COMMITMENTS RUNNING ALL THE WAY TO 2045: • Broadcom TPU leases: ~$161.2B in rent • SpaceXAI: up to $120.5B for Nvidia Chips • Google: at least ~$114.5B • Amazon: $110.0B • Microsoft: at least $44.9B • Nscale: up to ~$44.6B • Lambda: ~$41.3B https://t.co/c5YxLHt7Q4",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2114718928115318832",
-      "summary": "מסמכי ה-IPO של Anthropic חושפים התחייבויות לרכישת כוח חישוב בסך כולל של מעל 600 מיליארד דולר - עד שנת 2045. Broadcom לבד מקבלת 161 מיליארד, ו-NVIDIA נמצאת בכל מקום: דרך SpaceX, Amazon, Microsoft ואחרות.\n\nזה לא תקציב שנתי - זה חוזים רב-עשוריים שנועלים את שרשרת האספקה של AI לדור הבא. היצרניות שמספקות שבבים, קירור, חשמל ותשתיות מרכזי נתונים כבר יודעות מה מצפה להן. השוק כבר תימחר חלק מזה - אבל לא בהכרח את הקצה.",
-      "importance": 9,
-      "topics": [
-        "השקעות",
-        "AI תשתיות",
-        "Nvidia"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
-      "summary": "בועת ה-AI תתפוצץ - זו לא שאלה של \"אם\" אלא של \"מתי\". כך אומרים האנליסטים של TS Lombard, אחד הבתי מחקר המכובדים בלונדון.\n\nהטיעון שלהם לא מסובך: ההשקעות בתשתיות AI גדלות בקצב שהמודל העסקי עדיין לא מצדיק. כשזה יתפוצץ - אף אחד לא יידע בדיוק מתי, ולכן לנסות לתזמן את זה זו טעות.\n\nמה שמעניין יותר: הכסף שייצא מ-AI לא נעלם - הוא ימצא בית חדש. שווה לחשוב לאן.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "בועה",
-        "השקעות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "הפד צפוי להשאיר את הריבית ללא שינוי בישיבה הקרובה - וזה לא בהכרח ידיעה משעממת.\n\nכשהריבית עומדת במקום, זה אומר שמשכנתאות, הלוואות רכב ואשראי צרכני נשארים יקרים. אבל זה גם אומר שהפד לא ממהר - הוא רואה אינפלציה שעדיין לא נרדמה לגמרי.\n\nמי שלא חושב על זה: חברות נדל\"ן מסחרי שמחכות להקלה, ושווקים מתעוררים שסובלים מדולר חזק.",
-      "importance": 9,
-      "topics": [
-        "ריבית",
-        "פד",
-        "כלכלה מקרו"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Banks, Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/tech/ai/banks-blackstone-form-63-billion-financing-vehicle-for-broadcom-ai-tech-0438f6d2?mod=rss_markets_main",
-      "summary": "63 מיליארד דולר - זה הסכום שקואליציה של בנקים גדולים ו-Blackstone מגייסת כדי לרכוש תשתיות מחשוב AI מ-Broadcom ולהשכיר אותן ל-Anthropic.\n\nשווה לעצור רגע על המבנה הזה: הבנקים לא משקיעים בחברת AI - הם קונים את הברזל ומשכירים אותו. פחות סיכון טכנולוגי, יותר עסקת נדל\"ן. זה מראה שהמוסדיים מאמינים שהביקוש לתשתיות AI כאן לאורך זמן - ו-Broadcom, שלרוב חיה בצל NVIDIA, פתאום בקדמת הבמה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "מימון",
-        "תשתיות"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "אינטל רוכשת את Classiq הישראלית בכ-2.3 מיליארד דולר",
       "source": "גיקטיים",
@@ -226,150 +148,228 @@
       "tag": "ישראל"
     },
     {
-      "title": "China National Team ETFs Draw Most Inflows Since Trade War Rout",
+      "title": "DoorDash $DASH is in advanced talks to acquire Instacart, with a deal potentially finalized as soon as this week, according to WSJ $UBER, which previously held discussions with $CART, is no longer in talks No deal has been finalized, & discussions could still fall apart https://t.co/TX78QkmmpB",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "summary": "לפי ה-WSJ, DoorDash מנהלת משא ומתן מתקדם לרכישת Instacart - עסקה שעשויה להסתיים עוד השבוע. Uber, שניהלה גם היא שיחות עם Instacart, כבר לא בתמונה.\n\nאם זה יקרה, נוצר ענק הזמנות שמכסה אוכל מוכן וקניות סופרמרקט תחת קורת גג אחת. זה לחץ ישיר על Uber Eats, אבל גם על רשתות הסופרמרקטים - Kroger, Albertsons ואחרות - שהסתמכו על Instacart כערוץ מכירה דיגיטלי עצמאי.",
+      "importance": 9,
+      "topics": [
+        "M&A",
+        "דיגיטל",
+        "קיבול"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+      "summary": "Nvidia תשקיע 3 מיליארד דולר ב-Meta - זה לא רק הסכם בין שתי חברות טכנולוגיה גדולות.\n\nMeta מגייסת סך כולל של 95 מיליארד דולר לתשתיות AI, וה\"חתימה\" של Jensen Huang על העסקה הזו מספרת משהו: Nvidia לא רק מוכרת שבבים - היא הופכת לשותפה אסטרטגית בבניית האינטרנט הבא.\n\nמי שכדאי לשים לב אליו: ספקיות חשמל, חברות קירור תעשייתי ורשתות סיב אופטי - כי מרכזי נתונים בסדר גודל כזה צורכים תשתית פיזית עצומה.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "השקעות",
+        "מטא",
+        "אינפרה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Meta’s $25 Billion Stock Sale Ended Five Times Oversubscribed",
       "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "קרנות המדינה הסיניות רשמו את קצב הקנייה הגבוה ביותר מאז משבר אפריל 2025, ונכנסו לשוק כדי לבלום ירידות חדות. זה מה שמכונה \"national team\" - קרנות שהמדינה מפעילה ישירות כדי לייצב שערים כשהשוק קורס.\n\nהנקודה המעניינת: כשסין מתערבת בסדר גודל כזה, זה בדרך כלל סימן שהלחץ בשוק גדול משמה שנראה מבחוץ. שווה לשים לב גם לסחורות ולשווקים מתעוררים - הם נוטים להגיב מהר כשסין נכנסת למצב חירום.",
-      "importance": 8,
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/meta-s-25-billion-stock-sale-ended-five-times-oversubscribed",
+      "summary": "הנפקת מניות של Meta בשווי 25 מיליארד דולר נסגרה עם ביקוש פי חמישה מהיצע - כלומר, משקיעים רצו לקנות בהרבה יותר ממה שהיה בנמצא.\n\nהכסף הזה מיועד לממן 98 מיליארד דולר שMeta תוציא על AI השנה. זה לא ניסוי - זה הימור קיומי של אחת החברות הגדולות בעולם.\n\nההשפעה העקיפה: ספקי שרתים, חברות תשתית ענן וסטארטאפים של AI מקבלים אות ברור שהכסף ממשיך לזרום. כשMeta מגייסת בקנה מידה כזה - כל הענף נושם.",
+      "importance": 9,
       "topics": [
-        "סין",
-        "זרימת הון",
-        "בורסות"
+        "AI",
+        "השקעות טכנולוגיה",
+        "מטא"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main",
+      "summary": "63 מיליארד דולר - זה הסכם החוב הגדול בהיסטוריה לתשתיות AI, ו-Anthropic היא שמגייסת אותם.\n\nמה שמעניין פה זה לא רק הסכום - זה שה-CEO של Broadcom נכנס אישית לסגור את העסקה. לא צוות פיננסים, לא בנקאים - הוא. זה אומר משהו על הדחיפות שחברות הצ'יפים מרגישות להיות בפנים.\n\nההשפעה העקיפה: ספקי תשתית ענן, חברות קולינג, וכל מי שמוכר ברזל לדאטה סנטרים - הביקוש שלהם הולך לגדול.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "השקעות",
+        "סחיבות הון"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Mortgage rates above 7% are the 'new normal'—here's why",
-      "source": "CNBC Top News",
+      "title": "SK Hynix's U.S. 🇺🇸 subsidiary Solidigm is in talks with the Commerce Department to invest $45B in a new U.S. memory chip plant, per Bloomberg. But there's a condition. Solidigm wants Washington's approval to send new chipmaking equipment to its existing NAND flash plant in https://t.co/ZYZKoaqbC0",
+      "source": "Twitter @wallstengine",
       "url": "",
-      "summary": "ריביות המשכנתא בארה\"ב נשארות מעל 7% - וכלכלנים אומרים שזה כבר לא זמני, זה הנורמה החדשה.\n\nהסיבות: אינפלציה שממשיכה להדביק ותחרות גוברת על כסף המשקיעים מושכות את הריביות הארוכות למעלה, גם בלי קשר להחלטות הפד.\n\nמה שפחות ברור: זה לא רק עניין של שוק הנדל\"ן האמריקאי. ריביות גבוהות לטווח ארוך משפיעות על תמחור נכסים בכל העולם - כולל בישראל, שם שוק המשכנתאות צמוד חלקית לתנאי שוק גלובליים.",
+      "summary": "השקעה של 45 מיליארד דולר - זה הסכום שבת החברה האמריקאית של SK Hynix מוכנה להשקיע במפעל זיכרון חדש בארה\"ב. התנאי: אישור ממשלתי לשלוח ציוד ייצור מתקדם למפעל הקיים שלה בסין.\n\nזו בעצם עסקת חבילה - אנחנו מביאים כסף לאמריקה, אתם מרפים קצת על הגבלות הייצוא לסין. מה שמעניין כאן: אם וושינגטון תאשר, זה יכול לפתוח פתח לחברות שבב נוספות לנסות את אותו מהלך. ציוד של Applied Materials ו-Lam Research עשוי לחזור לדיון.",
+      "importance": 9,
+      "topics": [
+        "צ'יפים",
+        "תשתיות",
+        "רגולציה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "שוק של 5 טריליון דולר בנוי על רעיון פשוט: עשירים לא מוכרים מניות - הם לווים כנגדן.\n\nהמחקר של דלויט מיפה מנגנון שהפך לתעשייה שלמה. במקום למכור מניות ולשלם מס רווחי הון, בעלי הון לוקחים הלוואה עם המניות כבטוחה, חיים מהכסף, ומעבירים את הנכסים לירושה כשעדיין לא שילמו שקל אחד מס.\n\nמה שמעניין פה: הבנקים שמציעים את השירות הזה - Goldman, Morgan Stanley ואחרים - בנו עליו עסק ענק. וכשהשוק יורד חד, בטוחות אלה מתאדות מהר. זה לא רק סיפור מס - זה סיכון מערכתי שרוב האנשים לא מכירים.",
       "importance": 8,
       "topics": [
+        "בנקאות",
+        "עושר",
+        "מימון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "A $300 Billion ‘Debt Wall’ Is Looming Over Private-Equity Backed Companies",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "300 מיליארד דולר של חוב קורפורייט צריכים להיפרע עד 2029 - וחברות תוכנה אחראיות לכשליש מזה.\n\nהרקע: קרנות פרייבט אקוויטי קנו חברות רבות בהלוואות ריבית משתנה, כשהריבית הייתה אפסית. עכשיו, עם ריבית גבוהה ומועדי פירעון שמתקרבים, חלק מהחברות האלה בצרות אמיתיות.\n\nמה שפחות ברור: זה לא רק בעיה של קרנות ההשקעה. בנקים, קרנות אשראי פרטיות וגם קרנות פנסיה שהשקיעו בחוב הזה - כולם בתמונה. אם גל ברירות המחדל מגיע, ההדף יגיע למקומות לא צפויים.",
+      "importance": 8,
+      "topics": [
+        "חוב",
+        "הון פרטי",
+        "סיכון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Microsoft earnings will look funky — but an elusive number is finally arriving",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "מיקרוסופט הולכת לחשוף לראשונה את הכנסות Azure בנפרד - מספר שמשקיעים רדפו אחריו שנים. עד עכשיו Azure היה שקוע בתוך קטגוריה גדולה יותר, מה שהקשה על להבין כמה העסק הזה באמת שווה.\n\nזה חשוב לא רק למיקרוסופט: ברגע שיש מספר ברור, קל הרבה יותר להשוות ל-AWS של Amazon ול-Google Cloud. שאר חברות הענן הגדולות יסתכלו על המספר הזה ויבינו איפה הן עומדות - וגם האנליסטים יצטרכו לחשב מחדש את ההערכות שלהם.",
+      "importance": 8,
+      "topics": [
+        "ענן",
+        "מיקרוסופט",
+        "ההכנסות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "הפד צפוי להשאיר את הריבית ללא שינוי בישיבה הקרובה - אחרי העלאת ספטמבר, השווקים כמעט פה אחד לא מצפים לצעד נוסף הפעם.\n\nאבל מה שמעניין יותר הוא וורש. אם הוא ינסח את הדברים בצורה שמשאירה פתח להעלאות נוספות, זה בדיוק הסוג של רמז שהשוק יפרש כמסר - ואג\"ח, מניות טכנולוגיה ושוק הנדל\"ן ירגישו את זה מיד. שווה לשים לב לא רק להחלטה, אלא למה שייאמר סביבה.",
+      "importance": 8,
+      "topics": [
+        "פד",
         "ריבית",
-        "אינפלציה",
-        "דיור"
+        "מדיניות כלכלית"
       ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "מחיר הנפט ירד יותר מ-2% על רקע שני כוחות שמושכים בכיוונים מנוגדים: מצד אחד, הפחד מפגיעות נוספות בתשתיות האנרגיה של ערב הסעודית - שיכולות לפגוע באספקה. מצד שני, הדאגה שמחיר גבוה מדי פשוט יוביל לפחות ביקוש. הנפט \"שתה\" את שתי ההשפעות ביחד. מה שמעניין לשים לב אליו כאן: מחיר נפט גבוה = אינפלציה מתמשכת = לחץ על הפד להישאר עם ריביות גבוהות יותר זמן ארוך יותר. השוק לא תמיד מחבר את הנקודות האלה מיד, אבל הן מחוברות.",
-      "importance": 7,
-      "topics": [
-        "נפט",
-        "אנרגיה",
-        "ביקוש",
-        "סוודיה"
-      ],
-      "tag": "גלובלי"
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic officially files for its public debut",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
       "importance": 9,
       "topics": [
-        "Anthropic",
-        "IPO",
-        "AI"
+        "אבטחה",
+        "פרמקוור",
+        "שרתים"
       ],
-      "published": "Mon, 26 Oct 2026 14:35:22 +0000"
+      "published": "Tue, 27 Oct 2026 20:25:55 +0000"
     },
     {
-      "title": "אינטל רוכשת את Classiq הישראלית בכ-2.3 מיליארד דולר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/intel-acquires-classiq-in-biggest-deal-in-quantum-tech-history/",
-      "summary": "האקזיט הגדול בתולדות תחום המחשוב הקוונטי, בפער ניכר: הסטארטאפ הישראלי Classiq, המפתח פלטפורמה לפיתוח אלגוריתמים קוונטיים, נרכש בעסקה שטרם נראה כמוה בתחום. לא בישראל – בעולם כולו. הרוכשת היא לא אחרת מאשר Intel, כנראה לא החברה הראשונה שהייתם מצפים שתיכנס בסערה כזאת לתחום. סכום העסקה אמנם לא פורסם, אך מוערך בכ-2.3 מיליארד דולר. להיות \"המיקרוסופט […] The post אינטל רוכשת את Classiq הישראלית בכ-2.3 מיל",
-      "importance": 9,
-      "topics": [
-        "מחשוב קוונטי",
-        "M&A",
-        "Intel"
-      ],
-      "published": "Mon, 26 Oct 2026 20:06:48 +0000"
-    },
-    {
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
       "importance": 8,
-      "topics": [
-        "Anthropic",
-        "IPO",
-        "AI"
-      ],
-      "published": "Mon, 26 Oct 2026 16:49:42 +0000"
-    },
-    {
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "importance": 8,
-      "topics": [
-        "SpaceX",
-        "GPU",
-        "AI"
-      ],
-      "published": "Mon, 26 Oct 2026 16:46:36 +0000"
-    },
-    {
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]",
-      "importance": 8,
-      "topics": [
-        "Anthropic",
-        "IPO",
-        "AI"
-      ],
-      "published": "2026-10-26T17:45:31-04:00"
-    },
-    {
-      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-      "importance": 8,
-      "topics": [
-        "Anthropic",
-        "IPO",
-        "AI"
-      ],
-      "published": "Mon, 26 Oct 2026 14:50:47 +0000"
-    },
-    {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "importance": 7,
       "topics": [
         "AI",
         "OpenAI",
-        "סוכנים אוטונומיים"
+        "בטיחות"
       ],
-      "published": "Tue, 27 Oct 2026 02:00:00 +0000"
+      "published": "Tue, 27 Oct 2026 23:34:27 +0000"
     },
     {
-      "title": "Microsoft offers buyouts to around 60,000 employees",
+      "title": "Meta’s $25 billion legal loss just put blood in the water",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the 2018 […]",
+      "importance": 8,
+      "topics": [
+        "Meta",
+        "רגולציה",
+        "פרטיות"
+      ],
+      "published": "2026-10-27T12:44:40-04:00"
+    },
+    {
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "IPO"
+      ],
+      "published": "Tue, 27 Oct 2026 21:31:14 +0000"
+    },
+    {
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "DeepMind",
+        "מודלים"
+      ],
+      "published": "Tue, 27 Oct 2026 16:00:22 +0000"
+    },
+    {
+      "title": "מה באמת גרם לאינטל לשלם 2.3 מיליארד דולר על Classiq הישראלית?",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/why-intel-agreed-to-pay-classiq-quantum-startup-23-billion/",
+      "summary": "תחום המחשוב הקוונטי הישראלי – ובפועל, גם העולמי – רשם אמש (ב') ציון דרך משמעותי, כשענקית השבבים אינטל הודיעה על רכישת חברת הסטארטאפ הישראלית Classiq, המפתחת פלטפורמת תוכנה למחשבים קוונטיים. תמי שחר, מנכ\"לית Qubit IL, ארגון הגג של חברות המחשוב הקוונטי בישראל, מתארת את המהלך כלא פחות מהיסטורי: \"זו הרכישה הגדולה ביותר שנעשתה עד היום […] The post מה באמת גרם לאינטל לשלם 2.3 מיליארד דולר על Classiq היש",
+      "importance": 8,
+      "topics": [
+        "מחשוב קוונטי",
+        "INTEL",
+        "רכישות"
+      ],
+      "published": "Tue, 27 Oct 2026 09:37:33 +0000"
+    },
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-      "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
       "importance": 7,
       "topics": [
-        "Microsoft",
-        "הנהלה",
-        "פיטורים בהיקף גדול"
+        "AI",
+        "Anthropic",
+        "IPO"
       ],
-      "published": "Mon, 26 Oct 2026 15:58:25 +0000"
+      "published": "Wed, 28 Oct 2026 01:15:28 +0000"
+    },
+    {
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Google",
+        "מודל עולם"
+      ],
+      "published": "Tue, 27 Oct 2026 16:30:57 +0000"
     }
   ]
 }
