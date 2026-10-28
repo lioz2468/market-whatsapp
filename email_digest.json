@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:45:05.109819+00:00",
+  "generated_at": "2026-10-28T09:30:52.643354+00:00",
   "lookback_hours": 24,
   "world": [
     {
@@ -7,11 +7,11 @@
       "source": "NPR World",
       "url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
       "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
-      "importance": 9,
+      "importance": 8,
       "topics": [
         "ישראל",
         "בחירות",
-        "נתניהו"
+        "ביטחון"
       ],
       "published": "Tue, 27 Oct 2026 16:45:39 -0400"
     },
@@ -22,37 +22,63 @@
       "summary": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
       "importance": 8,
       "topics": [
-        "אבולה",
-        "בריאות ציבורית",
-        "קונגו"
+        "בריאות",
+        "אביולה",
+        "אפריקה"
       ],
       "published": "Tue, 27 Oct 2026 15:53:12 -0400"
     },
     {
-      "title": "West warns of famine risk in Sudan as civil war grinds on",
+      "title": "Watch: What happens now after close vote in Israeli election?",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
-      "importance": 8,
-      "topics": [
-        "סודאן",
-        "משבר הומניטארי",
-        "בטחון"
-      ],
-      "published": "Tue, 27 Oct 2026 15:41:46 GMT"
-    },
-    {
-      "title": "Five key takeaways from Israel’s parliamentary elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
-      "summary": "With more than half of votes counted, Netanyahu's bloc holds slight lead over opposition, but shy of majority.",
+      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
       "importance": 8,
       "topics": [
         "ישראל",
         "בחירות",
-        "ביטחון"
+        "פוליטיקה"
       ],
-      "published": "Wed, 28 Oct 2026 02:53:35 +0000"
+      "published": "Wed, 28 Oct 2026 04:22:59 GMT"
+    },
+    {
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "שלום"
+      ],
+      "published": "Tue, 27 Oct 2026 20:42:38 GMT"
+    },
+    {
+      "title": "Why the US midterms matter even if you don’t live in America",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss",
+      "summary": "From military aid and sanctions to trade and tariffs, the US midterms could shape decisions that affect millions.",
+      "importance": 8,
+      "topics": [
+        "בחירות אמריקאיות",
+        "גיאופוליטיקה",
+        "כלכלה גלובלית"
+      ],
+      "published": "Wed, 28 Oct 2026 08:15:19 +0000"
+    },
+    {
+      "title": "מסע הבריחה של בולסונרו: חצה לארגנטינה וטס באישון ליל לאקוודור, \"בדרך לארה\"ב\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/sk7vt7jamx",
+      "summary": "עדיין לא ברור היכן מנהיג הימין הברזילאי, אשתו ושתי בנותיו, אבל אחרי שאמש הכחישה ארגנטינה כי נכנס לשטחה, הבוקר אישרה שהגיע דרך מעבר גבול יבשתי והמריא בטיסה פרטית צפונה. ברזיל ביטלה את דרכונו כדי שלא יברח מחקירה אך הוא חמק, ארה\"ב תיתן לו אשרת כניסה. טראמפ: \"תומך בכך שיגיע\", יריבו לולה: \"בושה. ברזיל היא מולדתו השנייה וארה\"ב הראשונה, הוא מלקק לה את המגפיים\"",
+      "importance": 8,
+      "topics": [
+        "ברזיל",
+        "בולסונרו",
+        "גיאופוליטיקה"
+      ],
+      "published": "Wed, 28 Oct 2026 11:26:32 +0200"
     },
     {
       "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
@@ -81,85 +107,33 @@
       "published": "Tue, 27 Oct 2026 18:28:23 GMT"
     },
     {
-      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
-      "importance": 7,
-      "topics": [
-        "ארה\"ב",
-        "משפט",
-        "עבירות מין"
-      ],
-      "published": "Wed, 28 Oct 2026 02:20:25 GMT"
-    },
-    {
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
       "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
       "importance": 7,
       "topics": [
-        "מצריים",
+        "מצרים",
         "חופש עיתונות",
         "זכויות אדם"
       ],
       "published": "Tue, 27 Oct 2026 20:44:40 GMT"
     },
     {
-      "title": "The next phase of military rule in Egypt is here",
+      "title": "Is AIPAC losing its grip on US politics?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss",
-      "summary": "El-Sisi’s announcement that he will not run for a fourth term may signal a new leadership arrangement.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/is-aipac-losing-its-grip-on-us-politics?traffic_source=rss",
+      "summary": "Pro-Israel lobby, AIPAC, is changing its strategy, ending candidate endorsements and direct campaign contributions.",
       "importance": 7,
       "topics": [
-        "מצריים",
-        "פוליטיקה",
-        "ביטחון"
+        "AIPAC",
+        "פוליטיקה אמריקאית",
+        "ישראל"
       ],
-      "published": "Wed, 28 Oct 2026 06:36:59 +0000"
-    },
-    {
-      "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
-      "summary": "Foreign ministers form security committee to share intelligence and follow up on impact of Jordan's strikes on Syria.",
-      "importance": 7,
-      "topics": [
-        "סוריה",
-        "ירדן",
-        "מזרח תיכון"
-      ],
-      "published": "Wed, 28 Oct 2026 03:10:17 +0000"
+      "published": "Wed, 28 Oct 2026 08:29:49 +0000"
     }
   ],
   "business": [
-    {
-      "title": "אינטל רוכשת את Classiq הישראלית בכ-2.3 מיליארד דולר",
-      "source": "גיקטיים",
-      "url": "",
-      "summary": "אינטל רוכשת את Classiq הישראלית ב-2.3 מיליארד דולר - האקזיט הגדול ביותר בהיסטוריה של המחשוב הקוונטי, לא רק בישראל אלא בעולם כולו.\n\nClassiq בנתה פלטפורמה לפיתוח אלגוריתמים קוונטיים, וזה מעניין כי אינטל היא לא השם הראשון שהיית מצפה לו בתחום הזה. אבל זה בדיוק הסיגנל - כשחברות כמו אינטל נכנסות בגדול לקוונטום, זה מזיז את כל המגזר. שימו לב לחברות שמספקות תשתיות לקוונטום - הן הולכות לראות עניין מחודש.",
-      "importance": 9,
-      "topics": [
-        "סטארטאפ",
-        "טכנולוגיה",
-        "קוונטום"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "DoorDash $DASH is in advanced talks to acquire Instacart, with a deal potentially finalized as soon as this week, according to WSJ $UBER, which previously held discussions with $CART, is no longer in talks No deal has been finalized, & discussions could still fall apart https://t.co/TX78QkmmpB",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "לפי ה-WSJ, DoorDash מנהלת משא ומתן מתקדם לרכישת Instacart - עסקה שעשויה להסתיים עוד השבוע. Uber, שניהלה גם היא שיחות עם Instacart, כבר לא בתמונה.\n\nאם זה יקרה, נוצר ענק הזמנות שמכסה אוכל מוכן וקניות סופרמרקט תחת קורת גג אחת. זה לחץ ישיר על Uber Eats, אבל גם על רשתות הסופרמרקטים - Kroger, Albertsons ואחרות - שהסתמכו על Instacart כערוץ מכירה דיגיטלי עצמאי.",
-      "importance": 9,
-      "topics": [
-        "M&A",
-        "דיגיטל",
-        "קיבול"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
       "source": "CNBC Top News",
@@ -212,6 +186,32 @@
         "רגולציה"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "How investors can position ahead of the Fed's next policy decision",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/27/how-investors-can-position-ahead-of-into-the-feds-next-policy-decision.html",
+      "summary": "הפד מתכנס בחודש הבא להחלטת ריבית, וג'רום פאואל - סליחה, קווין וורש - כרגע לא נותן הכוונה ברורה לשוק. זה מצב לא שגרתי: בדרך כלל הפד \"מכין\" את השווקים מראש, הפעם פחות. כשהשוק לא יודע מה הפד יעשה, הוא מתמחר אי-ודאות - וזה לוחץ על מניות צמיחה, אג\"ח ארוכות טווח, ואפילו על תמחור הדולר מול שקל. שווה לשים לב לשבועיים הקרובים.",
+      "importance": 9,
+      "topics": [
+        "פד",
+        "ריבית",
+        "השקעות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "source": "TechCrunch",
+      "url": "",
+      "summary": "בום מרכזי הנתונים לוחץ בצורה חסרת תקדים על רשת החשמל האמריקאית - וזה בדיוק מה שמאיץ גל השקעות ענק בתשתיות שלא זכו לתשומת לב מספקת בעשורים האחרונים.\n\nחברות שירותי חשמל, יצרני טורבינות, ספקי אחסון אנרגיה וחברות טכנולוגיה של רשתות חכמות - כולן מקבלות לפתע רוח גבית רצינית. הביקוש של ה-AI לא מחכה לאף אחד, ומי שפיתח פתרונות לרשת מודרנית מוצא את עצמו עכשיו בלב העניין.\n\nזה אחד מאותם מקרים שבהם לחץ קיצוני על מערכת ישנה מוביל לשדרוג שהיה צריך לקרות ממילא.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "תשתיות",
+        "אנרגיה"
+      ],
+      "tag": "ארה\"ב"
     },
     {
       "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",
@@ -275,8 +275,8 @@
       "importance": 9,
       "topics": [
         "אבטחה",
-        "פרמקוור",
-        "שרתים"
+        "תשתית",
+        "שבבים"
       ],
       "published": "Tue, 27 Oct 2026 20:25:55 +0000"
     },
@@ -301,8 +301,8 @@
       "importance": 8,
       "topics": [
         "Meta",
-        "רגולציה",
-        "פרטיות"
+        "משפט",
+        "רגולציה"
       ],
       "published": "2026-10-27T12:44:40-04:00"
     },
@@ -320,28 +320,15 @@
       "published": "Tue, 27 Oct 2026 21:31:14 +0000"
     },
     {
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "DeepMind",
-        "מודלים"
-      ],
-      "published": "Tue, 27 Oct 2026 16:00:22 +0000"
-    },
-    {
       "title": "מה באמת גרם לאינטל לשלם 2.3 מיליארד דולר על Classiq הישראלית?",
       "source": "גיקטיים",
       "url": "https://www.geektime.co.il/why-intel-agreed-to-pay-classiq-quantum-startup-23-billion/",
       "summary": "תחום המחשוב הקוונטי הישראלי – ובפועל, גם העולמי – רשם אמש (ב') ציון דרך משמעותי, כשענקית השבבים אינטל הודיעה על רכישת חברת הסטארטאפ הישראלית Classiq, המפתחת פלטפורמת תוכנה למחשבים קוונטיים. תמי שחר, מנכ\"לית Qubit IL, ארגון הגג של חברות המחשוב הקוונטי בישראל, מתארת את המהלך כלא פחות מהיסטורי: \"זו הרכישה הגדולה ביותר שנעשתה עד היום […] The post מה באמת גרם לאינטל לשלם 2.3 מיליארד דולר על Classiq היש",
       "importance": 8,
       "topics": [
+        "מיזוג-רכישה",
         "מחשוב קוונטי",
-        "INTEL",
-        "רכישות"
+        "NVIDIA"
       ],
       "published": "Tue, 27 Oct 2026 09:37:33 +0000"
     },
@@ -354,9 +341,22 @@
       "topics": [
         "AI",
         "Anthropic",
-        "IPO"
+        "Amazon"
       ],
       "published": "Wed, 28 Oct 2026 01:15:28 +0000"
+    },
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "מחקר"
+      ],
+      "published": "Tue, 27 Oct 2026 17:08:08 +0000"
     },
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -367,7 +367,7 @@
       "topics": [
         "AI",
         "Google",
-        "מודל עולם"
+        "generative models"
       ],
       "published": "Tue, 27 Oct 2026 16:30:57 +0000"
     }
