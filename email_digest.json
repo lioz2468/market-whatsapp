@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-29T06:45:14.337406+00:00",
+  "generated_at": "2026-10-29T09:44:00.288000+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "importance": 9,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "נתניהו"
+      ],
+      "published": "Wed, 28 Oct 2026 20:24:39 GMT"
+    },
+    {
+      "title": "How AI drones are influencing the course of the Ukraine war",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+      "summary": "Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "בינה מלאכותית",
+        "טכנולוגיה צבאית"
+      ],
+      "published": "Thu, 29 Oct 2026 05:02:00 -0400"
+    },
     {
       "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
       "source": "NPR World",
@@ -16,150 +42,98 @@
       "published": "Wed, 28 Oct 2026 07:28:55 -0400"
     },
     {
-      "title": "Partial results from Israel's contentious election show no clear winner",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results",
-      "summary": "Prime Minister Benjamin Netanyahu's right-wing bloc was leading opposition rival Gadi Eisenkot. Arab parties had a strong showing, and a key question now is whether Eisenkot's bloc will consider forming a coalition with them.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "בחירות",
-        "נתניהו"
-      ],
-      "published": "Wed, 28 Oct 2026 04:46:47 -0400"
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "בחירות",
-        "נתניהו"
-      ],
-      "published": "Wed, 28 Oct 2026 20:24:39 GMT"
-    },
-    {
-      "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss",
-      "summary": "Women and children killed as witnesses say attack struck civilian shopkeepers, RSF fighters.",
-      "importance": 8,
-      "topics": [
-        "סודן",
-        "דרפור",
-        "קונפליקט אנושי"
-      ],
-      "published": "Thu, 29 Oct 2026 02:48:38 +0000"
-    },
-    {
-      "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
-      "summary": "Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network.",
-      "importance": 7,
-      "topics": [
-        "ספרד",
-        "תחבורה",
-        "בטיחות"
-      ],
-      "published": "Thu, 29 Oct 2026 02:10:11 -0400"
-    },
-    {
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-      "importance": 7,
-      "topics": [
-        "ספרד",
-        "תחבורה",
-        "אסון"
-      ],
-      "published": "Wed, 28 Oct 2026 21:38:54 GMT"
-    },
-    {
-      "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
-      "summary": "Footage shows men, some armed, beating a US journalist and an Israeli-Russian activist in Umm al-Khair.",
-      "importance": 7,
-      "topics": [
-        "גדה מערבית",
-        "ישראל",
-        "עיתונות"
-      ],
-      "published": "Thu, 29 Oct 2026 03:12:47 +0000"
-    },
-    {
-      "title": "\"במטרה לחדש את המו\"מ\": המכתב שנשלח למקורבו של חמינאי - בהנחיית טראמפ",
+      "title": "ליברמן שולל הצטרפות לנתניהו: \"לא נשב לא עם ביבי ולא עם טיבי\"",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rkh00ojlafl",
-      "summary": "יממה לאחר שב\"וול סטריט ג'ורנל\" דווח שוושינגטון מתכוננת למערכה \"קצרה ואינטנסיבית\" נגד טהרן - וכבר עדכנה את מדינות המפרץ - נטען באותו כלי תקשורת כי ג'יי די ואנס שלח מכתב למוחסן רזאי מהזרם הניצי בטהרן. המטרה: לבחון אם ניתן להגיע למכנה משותף שימנע את חידוש האש",
+      "url": "https://www.ynet.co.il/news/elections2026/article/b1nl11ceazg",
+      "summary": "יו\"ר הליכוד מנסה לאתר שותפות אפשריות לאחר שהגוש בראשותו לא הגיע ל-61 מנדטים, אבל יו\"ר ישראל ביתנו מבהיר למעשה כי לא יצטרף אליו - וגם לא לממשלת מיעוט עם המפלגות הערביות: \"נחכה שהאבק ישקע, ונראה מה עושים\"",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "פוליטיקה",
+        "הרכב ממשלה"
+      ],
+      "published": "Thu, 29 Oct 2026 11:29:16 +0200"
+    },
+    {
+      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
       "importance": 7,
       "topics": [
-        "אירן",
-        "ארה\"ב",
-        "דיפלומטיה"
+        "ספרד",
+        "אסון תחבורה",
+        "חקירה"
       ],
-      "published": "Wed, 28 Oct 2026 23:48:04 +0200"
+      "published": "Thu, 29 Oct 2026 08:38:54 GMT"
     },
     {
-      "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
-      "summary": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in Brazil.",
-      "importance": 6,
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "importance": 7,
       "topics": [
-        "ברזיל",
-        "פוליטיקה",
-        "בולסונרו"
+        "סייבר",
+        "ביטחון",
+        "ארצות הברית"
       ],
-      "published": "Wed, 28 Oct 2026 17:46:27 -0400"
+      "published": "Thu, 29 Oct 2026 01:30:43 GMT"
     },
     {
-      "title": "Incredible celebrations as last patient leaves a DRC Ebola centre",
+      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
+      "importance": 7,
+      "topics": [
+        "אתיופיה",
+        "רוסיה",
+        "גיאופוליטיקה"
+      ],
+      "published": "Thu, 29 Oct 2026 08:23:31 GMT"
+    },
+    {
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "ביטחון",
+        "סרביה"
+      ],
+      "published": "Wed, 28 Oct 2026 10:17:54 GMT"
+    },
+    {
+      "title": "North Koreans being recruited into forced labour in Russia, report says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/incredible-celebrations-as-last-patient-leaves-a-drc-ebola-centre?traffic_source=rss",
-      "summary": "Footage shows healthcare workers celebrating at an Ebola treatment centre in DR Congo after the last patient left.",
-      "importance": 6,
+      "url": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss",
+      "summary": "Russian broker network recruiting North Korean labourers using student visas, Global Rights Compliance report says.",
+      "importance": 7,
       "topics": [
-        "בריאות ציבורית",
-        "אפריקה",
-        "אבולה"
+        "רוסיה",
+        "צפון קוריאה",
+        "זכויות אדם"
       ],
-      "published": "Thu, 29 Oct 2026 03:39:02 +0000"
+      "published": "Thu, 29 Oct 2026 08:58:57 +0000"
+    },
+    {
+      "title": "‘I held this woman in my arms. She died’: Spain mourns train crash victims",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims?traffic_source=rss",
+      "summary": "Second tragedy on line in about nine months raises questions about levels of investment in railway maintenance.",
+      "importance": 7,
+      "topics": [
+        "ספרד",
+        "אסון",
+        "בטיחות תשתיות"
+      ],
+      "published": "Thu, 29 Oct 2026 08:20:34 +0000"
     }
   ],
   "business": [
-    {
-      "title": "How investors can position ahead of the Fed's next policy decision",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/27/how-investors-can-position-ahead-of-into-the-feds-next-policy-decision.html",
-      "summary": "הפד מתכנס בחודש הבא להחלטת ריבית, וג'רום פאואל - סליחה, קווין וורש - כרגע לא נותן הכוונה ברורה לשוק. זה מצב לא שגרתי: בדרך כלל הפד \"מכין\" את השווקים מראש, הפעם פחות. כשהשוק לא יודע מה הפד יעשה, הוא מתמחר אי-ודאות - וזה לוחץ על מניות צמיחה, אג\"ח ארוכות טווח, ואפילו על תמחור הדולר מול שקל. שווה לשים לב לשבועיים הקרובים.",
-      "importance": 9,
-      "topics": [
-        "פד",
-        "ריבית",
-        "השקעות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "source": "TechCrunch",
-      "url": "",
-      "summary": "בום מרכזי הנתונים לוחץ בצורה חסרת תקדים על רשת החשמל האמריקאית - וזה בדיוק מה שמאיץ גל השקעות ענק בתשתיות שלא זכו לתשומת לב מספקת בעשורים האחרונים.\n\nחברות שירותי חשמל, יצרני טורבינות, ספקי אחסון אנרגיה וחברות טכנולוגיה של רשתות חכמות - כולן מקבלות לפתע רוח גבית רצינית. הביקוש של ה-AI לא מחכה לאף אחד, ומי שפיתח פתרונות לרשת מודרנית מוצא את עצמו עכשיו בלב העניין.\n\nזה אחד מאותם מקרים שבהם לחץ קיצוני על מערכת ישנה מוביל לשדרוג שהיה צריך לקרות ממילא.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "תשתיות",
-        "אנרגיה"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "Visa in talks to buy Israeli fintech co Fireblocks - report",
       "source": "גלובס שוק ההון",
@@ -226,6 +200,19 @@
       "tag": "ארה\"ב"
     },
     {
+      "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "summary": "אלפבית (גוגל) ירדה ב-10% אחרי שפספסה את תחזיות הרבעון השלישי - הן ברווח והן בהכנסות. זו הפעם הראשונה שזה קורה להם בכמעט ארבע שנים.\n\nמה שמטריד את השוק לא פחות: החברה הכריזה שתשמור על תקציב ההשקעות ב-2026 ללא שינוי, אבל מתכננת עלייה משמעותית ב-2027. משקיעים לא אוהבים את השילוב הזה - ביצועים מאכזבים בהווה ועם הבטחות יקרות לעתיד.\n\nומעבר לגוגל עצמה - נפילה כזו בחברה בסדר גודל הזה מושכת לרוב את שאר מניות הטכנולוגיה כלפי מטה. שווה לשים לב איך מיקרוסופט ו-Meta מגיבות.",
+      "importance": 9,
+      "topics": [
+        "טכנולוגיה",
+        "השקעות",
+        "בינה מלאכותית"
+      ],
+      "tag": "גלובלי"
+    },
+    {
       "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
       "source": "MarketWatch",
       "url": "",
@@ -263,6 +250,19 @@
         "צרכנים"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "The Fed Held Steady on Rates, Leaving Investors to Sit Tight, Too",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "הפד השאיר את הריבית ללא שינוי, והשוק פירש את זה כסימן שהעלאות אגרסיביות לא ממש על הפרק. המניות ואיגרות החוב הארוכות עלו מעט בתגובה.\n\nמה שמעניין פה: השוק לא מגיב למה שהפד עשה - אלא למה שהוא לא אמר. וורש נשמע זהיר, וזה מספיק כדי להרגיע. כשהפד מתרכך, זה משפיע גם על הדולר, גם על הזהב וגם על שווקים מתעוררים - כולל ת\"א.",
+      "importance": 8,
+      "topics": [
+        "ריבית",
+        "פד",
+        "בונדים"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
@@ -278,19 +278,6 @@
         "AI"
       ],
       "published": "Wed, 28 Oct 2026 21:34:30 +0000"
-    },
-    {
-      "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
-      "summary": "The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.",
-      "importance": 9,
-      "topics": [
-        "אבטחה",
-        "שרתים",
-        "קושחה"
-      ],
-      "published": "Wed, 28 Oct 2026 20:30:00 +0000"
     },
     {
       "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
@@ -313,8 +300,8 @@
       "importance": 8,
       "topics": [
         "אבטחה",
-        "פרצות",
-        "תשתיות"
+        "PHP",
+        "חנויות"
       ],
       "published": "Wed, 28 Oct 2026 19:05:46 +0000"
     },
@@ -325,9 +312,9 @@
       "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The […]",
       "importance": 8,
       "topics": [
-        "אבטחה סייבר",
-        "הפרת נתונים",
-        "ממשל"
+        "אבטחה",
+        "הדלפת נתונים",
+        "DHS"
       ],
       "published": "2026-10-28T17:57:45-04:00"
     },
@@ -339,10 +326,23 @@
       "importance": 8,
       "topics": [
         "AI",
-        "גוגל",
+        "Google",
         "Gemini"
       ],
       "published": "2026-10-28T16:03:00-04:00"
+    },
+    {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "importance": 7,
+      "topics": [
+        "Google",
+        "AI",
+        "פרסום"
+      ],
+      "published": "Wed, 28 Oct 2026 21:48:37 +0000"
     },
     {
       "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
@@ -352,8 +352,8 @@
       "importance": 7,
       "topics": [
         "אבטחה",
-        "פרצה",
-        "הנתונים"
+        "פריצה",
+        "נתונים אישיים"
       ],
       "published": "Wed, 28 Oct 2026 20:01:00 +0000"
     },
@@ -365,8 +365,8 @@
       "importance": 7,
       "topics": [
         "Google",
-        "AI",
-        "פלטפורמה"
+        "AI agents",
+        "Gemini"
       ],
       "published": "Wed, 28 Oct 2026 17:00:00 +0000"
     }
