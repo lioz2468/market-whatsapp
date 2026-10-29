@@ -1080,7 +1080,8 @@
     "7eca7ec6f46cafd0": "2026-10-29T12:00:45.330535+00:00",
     "67acb93417f6c0f7": "2026-10-29T13:30:43.287112+00:00",
     "a3c7f433d8b7e648": "2026-10-29T15:00:49.650525+00:00",
-    "dd39b20b9498d3c4": "2026-10-29T16:31:29.137430+00:00"
+    "dd39b20b9498d3c4": "2026-10-29T16:31:29.137430+00:00",
+    "605d1ea774ba88f9": "2026-10-29T18:00:44.307294+00:00"
   },
   "messages": [
     {
@@ -15685,7 +15686,21 @@
         "פד",
         "ריבית"
       ]
+    },
+    {
+      "sent_at": "2026-10-29T18:00:44.307294+00:00",
+      "title": "MICROSOFT PREPARES AT LEAST $25 BILLION BOND SALE, ITS FIRST SINCE 2017 $MSFT is looking to raise at least $25B through a 10-part U.S. bond offering, as it joins other major tech companies tapping debt markets to finance the AI infrastructure buildout. The offering would mark https://t.co/U2xXCectde",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "message": "Microsoft מגייסת לפחות 25 מיליארד דולר באג\"ח - ההנפקה הגדולה ביותר שלה מאז 2017. ההנפקה מחולקת ל-10 סדרות שונות, וכל הכסף מיועד לתשתיות AI.\n\nמה שמעניין כאן זה לא רק הסכום - אלא שגם Meta, Google ואמזון עשו את אותו הדבר לאחרונה. ענקיות הטק מעדיפות ללוות בשוק האג\"ח במקום למשוך מזומנים מהמאזן. זה לחץ נוסף על חברות הבנייה, הציוד וספקי האנרגיה שמזינים את מרוץ ה-AI - הביקוש אליהם לא מאט.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "מיקרוסופט",
+        "AI",
+        "התחייבויות הון"
+      ]
     }
   ],
-  "last_auto_run": "2026-10-29T16:30:37.759320+00:00"
+  "last_auto_run": "2026-10-29T18:00:42.692581+00:00"
 }
