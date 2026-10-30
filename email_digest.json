@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-29T09:44:00.288000+00:00",
+  "generated_at": "2026-10-30T06:45:01.961006+00:00",
   "lookback_hours": 24,
   "world": [
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "importance": 9,
-      "topics": [
-        "ישראל",
-        "בחירות",
-        "נתניהו"
-      ],
-      "published": "Wed, 28 Oct 2026 20:24:39 GMT"
-    },
     {
       "title": "How AI drones are influencing the course of the Ukraine war",
       "source": "NPR World",
@@ -29,176 +16,124 @@
       "published": "Thu, 29 Oct 2026 05:02:00 -0400"
     },
     {
-      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
-      "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
       "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "קונפליקט"
+      ],
+      "published": "Thu, 29 Oct 2026 14:17:35 GMT"
+    },
+    {
+      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+      "summary": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
+      "importance": 7,
+      "topics": [
+        "ארה״ב",
+        "יפן",
+        "אסיה"
+      ],
+      "published": "Thu, 29 Oct 2026 11:58:27 -0400"
+    },
+    {
+      "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
+      "summary": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term.",
+      "importance": 7,
+      "topics": [
+        "סין",
+        "פוליטיקה",
+        "שלטון"
+      ],
+      "published": "Thu, 29 Oct 2026 11:53:46 -0400"
+    },
+    {
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "מלחמה",
+        "רוסיה"
+      ],
+      "published": "Thu, 29 Oct 2026 20:05:57 GMT"
+    },
+    {
+      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+      "importance": 7,
+      "topics": [
+        "אסון",
+        "תחבורה",
+        "ספרד"
+      ],
+      "published": "Thu, 29 Oct 2026 11:07:35 GMT"
+    },
+    {
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+      "importance": 7,
+      "topics": [
+        "סין",
+        "פוליטיקה",
+        "ממשל"
+      ],
+      "published": "Fri, 30 Oct 2026 03:24:12 GMT"
+    },
+    {
+      "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
+      "summary": "Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud.",
+      "importance": 7,
       "topics": [
         "ישראל",
         "בחירות",
-        "אבולה"
+        "ממשל"
       ],
-      "published": "Wed, 28 Oct 2026 07:28:55 -0400"
+      "published": "Fri, 30 Oct 2026 02:40:26 +0000"
     },
     {
-      "title": "ליברמן שולל הצטרפות לנתניהו: \"לא נשב לא עם ביבי ולא עם טיבי\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/elections2026/article/b1nl11ceazg",
-      "summary": "יו\"ר הליכוד מנסה לאתר שותפות אפשריות לאחר שהגוש בראשותו לא הגיע ל-61 מנדטים, אבל יו\"ר ישראל ביתנו מבהיר למעשה כי לא יצטרף אליו - וגם לא לממשלת מיעוט עם המפלגות הערביות: \"נחכה שהאבק ישקע, ונראה מה עושים\"",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "פוליטיקה",
-        "הרכב ממשלה"
-      ],
-      "published": "Thu, 29 Oct 2026 11:29:16 +0200"
-    },
-    {
-      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
-      "importance": 7,
-      "topics": [
-        "ספרד",
-        "אסון תחבורה",
-        "חקירה"
-      ],
-      "published": "Thu, 29 Oct 2026 08:38:54 GMT"
-    },
-    {
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-      "importance": 7,
-      "topics": [
-        "סייבר",
-        "ביטחון",
-        "ארצות הברית"
-      ],
-      "published": "Thu, 29 Oct 2026 01:30:43 GMT"
-    },
-    {
-      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
+      "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
+      "summary": "Fighting over disputed land and water in Ethiopia’s Moyale border region has driven thousands of people into Kenya.",
       "importance": 7,
       "topics": [
         "אתיופיה",
-        "רוסיה",
-        "גיאופוליטיקה"
+        "קניה",
+        "סכסוך"
       ],
-      "published": "Thu, 29 Oct 2026 08:23:31 GMT"
+      "published": "Fri, 30 Oct 2026 01:05:26 +0000"
     },
     {
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "title": "ניסיון אחרון לעסקה עם איראן? ארה\"ב רואה במנהיג הניצי כ\"תקווה הגדולה ביותר לשלום\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/bk5hdibagx",
+      "summary": "אמש ערך מפקד סנטקום ביקור חריג בבית הלבן, והציג לטראמפ את האפשרויות לפעולה צבאית. במקביל, מחכים האמריקנים עדיין לתשובה למכתב ששלח הסגן ואנס למוחסן רזאי, לשעבר מפקד משמרות המהפכה - שאותו הם מגדירים כ\"אדם היחיד שיכול לגבש הסכמה רחבה לעסקה שתכלול את הפסקת תוכנית הגרעין\"",
       "importance": 7,
       "topics": [
-        "ישראל",
-        "ביטחון",
-        "סרביה"
+        "איראן",
+        "ארה\"ב",
+        "דיפלומטיה גרעינית"
       ],
-      "published": "Wed, 28 Oct 2026 10:17:54 GMT"
-    },
-    {
-      "title": "North Koreans being recruited into forced labour in Russia, report says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss",
-      "summary": "Russian broker network recruiting North Korean labourers using student visas, Global Rights Compliance report says.",
-      "importance": 7,
-      "topics": [
-        "רוסיה",
-        "צפון קוריאה",
-        "זכויות אדם"
-      ],
-      "published": "Thu, 29 Oct 2026 08:58:57 +0000"
-    },
-    {
-      "title": "‘I held this woman in my arms. She died’: Spain mourns train crash victims",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims?traffic_source=rss",
-      "summary": "Second tragedy on line in about nine months raises questions about levels of investment in railway maintenance.",
-      "importance": 7,
-      "topics": [
-        "ספרד",
-        "אסון",
-        "בטיחות תשתיות"
-      ],
-      "published": "Thu, 29 Oct 2026 08:20:34 +0000"
+      "published": "Fri, 30 Oct 2026 07:42:21 +0200"
     }
   ],
   "business": [
-    {
-      "title": "Visa in talks to buy Israeli fintech co Fireblocks - report",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "Visa מנהלת לפי הדיווחים משא ומתן לרכישת Fireblocks הישראלית - חברה שבונה תשתית לנכסים דיגיטליים וסטייבלקוינים. Fireblocks הכחישה, אבל הכחשות כאלה הן חלק סטנדרטי מהמשחק.\n\nאם זה יקרה, זה לא עסקה רגילה: Visa לא קונה סטארטאפ - היא קונה את הצנרת שדרכה מוסדות פיננסיים גדולים מזיזים נכסים דיגיטליים. זה אומר שהבנקים הגדולים, שעובדים כבר עם Fireblocks, פתאום הופכים לחלק מהאקוסיסטם של Visa. המתחרים - Mastercard ו-PayPal - יצטרכו לחשוב מחדש על האסטרטגיה שלהם בתחום.",
-      "importance": 9,
-      "topics": [
-        "FinTech",
-        "M&A",
-        "נכסים דיגיטליים"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "לא עוצרת: Upwind מגייסת עוד 100 מיליון דולר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/upwind-nabs-another-100m/",
-      "summary": "Upwind גייסה עוד 100 מיליון דולר - חודש אחרי שסגרה סבב של 300 מיליון. הסכום הכולל עכשיו: 400 מיליון דולר לפי שווי של כמעט 4 מיליארד דולר. את ההרחבה הוביל Bessemer, ו-Salesforce Ventures נכנסה כמשקיעה חדשה - מה שמרמז שמיקרוסופט ואורקל צופות בזה בעיניים עצומות. כשחברת תוכנה ענקית כמו Salesforce שמה כסף בחברת סייבר ישראלית, זה בדרך כלל לא רק השקעה - זה גם סקאוטינג לפני רכישה אפשרית.",
-      "importance": 9,
-      "topics": [
-        "סייבר",
-        "עלות הון",
-        "Upwind"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "AI could contribute roughly one-third of total U.S. 🇺🇸 GDP growth in 2026, equivalent to 0.8 percentage point, per ING estimates. https://t.co/Ri5eg4Ykfz",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "לפי הערכות ING, ה-AI צפוי לתרום כשליש מסך צמיחת התמ\"ג האמריקאי ב-2026 - כ-0.8 נקודות אחוז.\n\nזה לא עוד תחזית אופטימית על הפוטנציאל של הטכנולוגיה. זו הערכה מאקרו-כלכלית קונקרטית שמתחילה לשים מספרים על משהו שדיברנו עליו בעיקר בתיאוריה.\n\nההשפעה העקיפה שפחות מדברים עליה: אם ה-AI באמת מניע שליש מהצמיחה, הלחץ על הריבית בארה\"ב - ועל הדולר - הולך להיות שונה ממה שה-Fed מתכנן היום.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "מאקרו",
-        "צמיחה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Fed holds rates steady despite concerns over inflation",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-      "summary": "הפד השאיר את הריבית ללא שינוי - אבל ההחלטה לא הייתה פה אחד. שניים מתוך 12 חברי הוועדה הצביעו בעד העלאה נוספת של רבע אחוז, וזה לא פרט שולי.\n\nכשיש מחלוקת פנימית בפד, זה בדרך כלל אומר שהדיון על הריבית עוד לא נגמר - רק נדחה. שוקי האג\"ח והדולר רגישים מאוד לסיגנלים כאלה, וגם הבורסות הישראלית ושוק הנדל\"ן המקומי מושפעים בסופו של דבר מהכיוון שהפד בוחר.",
-      "importance": 9,
-      "topics": [
-        "פד",
-        "ריבית",
-        "מדיניות כלכלית"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
-      "source": "TechCrunch",
-      "url": "",
-      "summary": "ממשלת ארה\"ב מעניקה ל-Constellation Energy הלוואות של 5 מיליארד דולר לשדרוג כורים גרעיניים - ורוב הקיבולת החדשה כבר מוזמנת מראש על ידי Google, Amazon ו-Meta.\n\nפה קורה משהו מעניין: זו בעצם הכרה רשמית שתשתית האנרגיה הנוכחית לא יכולה לעמוד בצרכי ה-AI. הלוואה ממשלתית בסדר גודל כזה מורידה משמעותית את הסיכון לחברות שמשדרגות כורים ישנים - וזה עשוי למשוך עוד הון פרטי לסקטור. מי שכדאי לשים לב: חברות שמייצרות טורבינות, שסתומים וציוד שדרוג לתחנות גרעיניות ותיקות.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "תשתיות",
-        "נוקליאוס"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
       "source": "CNBC Top News",
@@ -213,41 +148,109 @@
       "tag": "גלובלי"
     },
     {
-      "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "ספטמבר שייך לטק. אוקטובר - פחות.\n\nאחרי חודשים שבהם ענקיות הטכנולוגיה סחבו את כל השוק האמריקאי על הגב, מתחילה רוטציה: כסף יוצא מ-Big Tech ונכנס לשאר השוק - בנקים, תעשייה, בריאות. זו לא בריחה מסיכון, להיפך - זה סימן שהמשקיעים מרגישים מספיק בטוחים כדי לחפש הזדמנויות מחוץ לאנבידיה ומטא.\n\nמי שכדאי לשים לב: חברות ה-ETF שעוקבות אחרי S&P 500 שווה משקל - הן מרוויחות יותר מהרוטציה הזו מאשר גרסת השוק הרגילה.",
-      "importance": 8,
-      "topics": [
-        "טכנולוגיה",
-        "רוטציה",
-        "מדד"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "China’s Electric Carmakers Are Running Out of Domestic Buyers",
+      "title": "See the Trump Administration Stock Portfolio That Spans More Than 40 Companies",
       "source": "WSJ Markets",
-      "url": "",
-      "summary": "יצרניות הרכב החשמלי הסיניות נתקלות בבעיה שלא ציפו לה: השוק המקומי מתחיל להגיע לרוויה. הביקוש בסין מאט, והמחירים כבר נמצאים בתחתית - אין לאן לרדת עוד.\n\nזה מסביר למה BYD ואחרות דוחפות כל כך חזק לשווקים בחו\"ל - אירופה, דרום מזרח אסיה, דרום אמריקה. כשהשוק הביתי לא גדל, היצוא הופך לקו ההישרדות.\n\nמי שיושפע בעקיפין: ספקי סוללות, חברות ליתיום, ואפילו יצרניות מערביות שחשבו שהאיום הסיני נשאר \"בבית\".",
-      "importance": 8,
+      "url": "https://www.wsj.com/finance/investing/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-efae2bae?mod=rss_markets_main",
+      "summary": "הממשל האמריקאי בונה תיק השקעות של 30 מיליארד דולר ביותר מ-40 חברות - מיצרני שבבים ועד חברות כרייה.\n\nזה לא סיוע ממשלתי רגיל. כשהממשל הופך לבעל מניות משמעותי בתעשיות אסטרטגיות, הוא מקבל גם תמריץ כלכלי להצליח שם - מה שמשנה את חישוב הרגולציה לגמרי. חברה שהממשל מחזיק בה לא תיראה אותו דבר כמו חברה שהוא רק מפקח עליה.\n\nשווה לעקוב אחרי אילו חברות ספציפיות נכנסות לרשימה.",
+      "importance": 9,
       "topics": [
-        "רכב חשמלי",
-        "סין",
-        "ביקוש"
+        "רגולציה",
+        "השקעה ממלכתית",
+        "צ'יפים",
+        "כרייה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Home Buyers Who Enjoyed Cheap Adjustable Mortgages Are Now Getting a Nasty Shock",
-      "source": "WSJ Markets",
+      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+      "source": "MarketWatch",
       "url": "",
-      "summary": "עשרות אלפי בעלי בתים בארה\"ב עומדים לגלות שהמשכנתה שנראתה כל כך חכמה ב-2021 הופכת להרבה יותר יקרה. מדובר במשכנתאות בריבית משתנה שנלקחו כשהריביות היו בשפל היסטורי - ועכשיו, כשמגיע מועד ההתאמה, התשלום החודשי יכול לקפוץ בצורה משמעותית.\n\nזה לא רק כאב ראש לאותם משקי בית. פחות כסף פנוי אצל צרכנים אמריקאים = פחות הוצאות = לחץ על קמעונאות, מסעדות ושוק השכירות. שווה לשים לב איך זה מתנהג בחודשים הקרובים.",
-      "importance": 8,
+      "summary": "הכנסות הענן של Google הוכפלו ברבעון האחרון - וזה לא הספיק.\n\nהמניה צונחת היום כי המשקיעים מסתכלים מעבר למספרים הגדולים ושמים לב למשהו מדאיג: ה-AI, שאמור להיות הסיפור ההצלחה של Alphabet, מתחיל לנגוס בחיפוש - הבסיס שממנו מגיע רוב הכסף.\n\nכשאנשים מקבלים תשובות ישירות מה-AI, הם לא לוחצים על פרסומות. זו לא בעיה של רבעון - זו שאלה מבנית על המודל העסקי.\n\nמי שכדאי לשים לב: כל חברת פרסום דיגיטלי שתלויה בתנועה מגוגל - הגלים מגיעים גם אליהן.",
+      "importance": 9,
       "topics": [
-        "משכנתא",
-        "ריביות",
-        "צרכנים"
+        "חיפוש",
+        "ה-AI",
+        "רווחיות",
+        "תעשיית טק"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "אלפבט צונחת כ-10% ב-pre-market אחרי הדוח - אחד הירידות הגדולות שלה אי פעם אחרי רבעון.\n\nהבעיה המרכזית היא לא ההכנסות אלא תזרים המזומנים - החברה שרפה הרבה יותר מזומן ממה שאנליסטים ציפו, ובו זמנית הודיעה שהוצאות ה-capex לשנה נשארות כפי שהיו. כלומר: עוד הוצאות ענק לפנינו, ועדיין לא ברור מתי הן ייצרו תשואה.\n\nמי שכדאי לשים עליו עין מחוץ לגוגל: ספקי ענן, חברות שרותים שמסתמכות על פרסום דיגיטלי, וחברות צ'יפים שמוכרות ל-hyperscalers. הלחץ על תזרים של ענקיות הטק מתחיל להגיע גם לשותפות שלהן.",
+      "importance": 9,
+      "topics": [
+        "גוגל",
+        "תזרים מזומנים",
+        "טכנולוגיה"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "ווארש, יושב הראש החדש של הפד, שלח השבוע אות ברור: הוא נוטה לריביות גבוהות יותר - אבל שמר לעצמו את הגמישות לשנות כיוון בהתאם לנתונים. זה בדיוק הסגנון של מנהיג שמייב ללמוד לנהל ציפיות בלי להתחייב מוקדם מדי. הריבית הגבוהה אומרת דולר חזק יותר, לחץ על שווקים מתעוררים, ועלויות מימון גבוהות לחברות שתלויות בחוב. שווה לעקוב אחרי ווארש - הוא עוד לא גילה את כל הקלפים.",
+      "importance": 9,
+      "topics": [
+        "פד",
+        "ריבית",
+        "מדיניות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories",
+      "summary": "מדד ה-PCE - מדד האינפלציה המועדף על הפד - עלה בחדות בחודש האחרון, ושם סימן שאלה גדול על הפסקת העלאות הריבית שהפד הכריז עליה השבוע.\n\nבפועל: הפד עצר כי רצה לראות לאן הדברים הולכים - אבל הנתונים לא ממש משתפים פעולה. כשהאינפלציה ממשיכה לטפס, קשה להצדיק הפסקה ארוכה.\n\nמי שיושפע מזה מעבר לברור: כל מי שיש לו חוב בריבית משתנה - משכנתא, הלוואות - וגם חברות שממתינות לעלות גיוס הון.",
+      "importance": 9,
+      "topics": [
+        "אינפלציה",
+        "פד",
+        "ריבית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "MICROSOFT PREPARES AT LEAST $25 BILLION BOND SALE, ITS FIRST SINCE 2017 $MSFT is looking to raise at least $25B through a 10-part U.S. bond offering, as it joins other major tech companies tapping debt markets to finance the AI infrastructure buildout. The offering would mark https://t.co/U2xXCectde",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "summary": "Microsoft מגייסת לפחות 25 מיליארד דולר באג\"ח - ההנפקה הגדולה ביותר שלה מאז 2017. ההנפקה מחולקת ל-10 סדרות שונות, וכל הכסף מיועד לתשתיות AI.\n\nמה שמעניין כאן זה לא רק הסכום - אלא שגם Meta, Google ואמזון עשו את אותו הדבר לאחרונה. ענקיות הטק מעדיפות ללוות בשוק האג\"ח במקום למשוך מזומנים מהמאזן. זה לחץ נוסף על חברות הבנייה, הציוד וספקי האנרגיה שמזינים את מרוץ ה-AI - הביקוש אליהם לא מאט.",
+      "importance": 9,
+      "topics": [
+        "מיקרוסופט",
+        "AI",
+        "התחייבויות הון"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
+      "summary": "שוק העבודה האמריקאי נמצא כבר שלוש שנים ברצף במצב חריג שלא היה כמותו בהיסטוריה - כמעט ולא מפטרים, אבל גם כמעט ולא מגייסים. המונח לזה הוא \"low-hire, low-fire economy\".\n\nזה נשמע יציב, אבל בעצם זה הקפאה. עסקים לא בטוחים מספיק כדי להתרחב, אבל גם לא בבעיה מספיק כדי לצמצם. התוצאה: אנשים תקועים בתפקידים, שכר לא זז, ומי שמחפש עבודה - לא מוצא.\n\nההשפעה העקיפה שקל לפספס: חברות שחיות על תנועה בשוק העבודה - סוכנויות גיוס, פלטפורמות כמו LinkedIn, אפילו שוק הנדל\"ן - כולן מרגישות את זה.",
+      "importance": 9,
+      "topics": [
+        "שוק עבודה",
+        "מאקרו",
+        "אינפלציה"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "DoorDash to acquire Instacart for $17B",
+      "source": "TechCrunch",
+      "url": "",
+      "summary": "DoorDash רוכשת את Instacart תמורת 17 מיליארד דולר - מהלך שמחבר בין שני ענקי המשלוחים לבית תחת קורת גג אחת. DoorDash שולטת במשלוחי מסעדות, Instacart בקניות סופרמרקט - וברגע שמחברים את שניהם, נוצרת פלטפורמה שיכולה לספק כמעט כל דבר עד הבית.\n\nמי שצריך לשים לב פה: Uber Eats ו-Amazon, שפתאום מול עצמם מתחרה הרבה יותר גדול. גם רשתות השיווק ייאלצו להחליט מחדש מה תנאי ההתקשרות שלהן עם הפלטפורמה החדשה.",
+      "importance": 9,
+      "topics": [
+        "M&A",
+        "דלוורי",
+        "אקונומיה",
+        "תחרות"
       ],
       "tag": "ארה\"ב"
     },
@@ -267,108 +270,106 @@
   ],
   "tech": [
     {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+      "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
       "importance": 9,
       "topics": [
-        "Microsoft",
-        "OpenAI",
-        "AI"
+        "אבטחה סייבר",
+        "דליפת נתונים"
       ],
-      "published": "Wed, 28 Oct 2026 21:34:30 +0000"
+      "published": "Thu, 29 Oct 2026 12:58:34 +0000"
     },
     {
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "אבטחה סייבר",
+        "Claude"
+      ],
+      "published": "Thu, 29 Oct 2026 18:39:43 +0000"
+    },
+    {
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "published": "Thu, 29 Oct 2026 10:45:00 +0000"
+    },
+    {
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
       "importance": 8,
       "topics": [
-        "Microsoft",
-        "Azure",
+        "אבטחה",
+        "קריפטו",
+        "Binance"
+      ],
+      "published": "Thu, 29 Oct 2026 22:27:23 +0000"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "רכישה",
+        "OpenAI"
+      ],
+      "published": "Thu, 29 Oct 2026 19:56:19 +0000"
+    },
+    {
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "Google",
+        "עסקים"
+      ],
+      "published": "Thu, 29 Oct 2026 16:24:55 +0000"
+    },
+    {
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "importance": 7,
+      "topics": [
+        "AWS",
+        "AI",
         "ענן"
       ],
-      "published": "Wed, 28 Oct 2026 21:58:32 +0000"
+      "published": "Thu, 29 Oct 2026 23:42:22 +0000"
     },
     {
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
-      "importance": 8,
-      "topics": [
-        "אבטחה",
-        "PHP",
-        "חנויות"
-      ],
-      "published": "Wed, 28 Oct 2026 19:05:46 +0000"
-    },
-    {
-      "title": "A hacker stole more than 40,000 DHS employee records",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
-      "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The […]",
-      "importance": 8,
-      "topics": [
-        "אבטחה",
-        "הדלפת נתונים",
-        "DHS"
-      ],
-      "published": "2026-10-28T17:57:45-04:00"
-    },
-    {
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "Google",
-        "Gemini"
-      ],
-      "published": "2026-10-28T16:03:00-04:00"
-    },
-    {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "importance": 7,
-      "topics": [
-        "Google",
-        "AI",
-        "פרסום"
-      ],
-      "published": "Wed, 28 Oct 2026 21:48:37 +0000"
-    },
-    {
-      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-      "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+      "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
       "importance": 7,
       "topics": [
         "אבטחה",
-        "פריצה",
-        "נתונים אישיים"
+        "AO3"
       ],
-      "published": "Wed, 28 Oct 2026 20:01:00 +0000"
-    },
-    {
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "importance": 7,
-      "topics": [
-        "Google",
-        "AI agents",
-        "Gemini"
-      ],
-      "published": "Wed, 28 Oct 2026 17:00:00 +0000"
+      "published": "Thu, 29 Oct 2026 20:43:56 +0000"
     }
   ]
 }
