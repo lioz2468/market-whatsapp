@@ -1,84 +1,58 @@
 {
-  "generated_at": "2026-10-30T06:45:01.961006+00:00",
+  "generated_at": "2026-10-30T09:50:15.258884+00:00",
   "lookback_hours": 24,
   "world": [
-    {
-      "title": "How AI drones are influencing the course of the Ukraine war",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
-      "summary": "Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "בינה מלאכותית",
-        "טכנולוגיה צבאית"
-      ],
-      "published": "Thu, 29 Oct 2026 05:02:00 -0400"
-    },
-    {
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "קונפליקט"
-      ],
-      "published": "Thu, 29 Oct 2026 14:17:35 GMT"
-    },
     {
       "title": "US and Japan agree to establish a Japanese facility for joint missile production",
       "source": "NPR World",
       "url": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
       "summary": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
-      "importance": 7,
+      "importance": 8,
       "topics": [
         "ארה״ב",
         "יפן",
-        "אסיה"
+        "סין"
       ],
       "published": "Thu, 29 Oct 2026 11:58:27 -0400"
     },
     {
-      "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
-      "summary": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term.",
-      "importance": 7,
+      "title": "Venezuela opposition leader María Machado calls for elections upon return",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
+      "summary": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be \"irreversible, organised, pacific\".",
+      "importance": 8,
       "topics": [
-        "סין",
+        "וונצואלה",
         "פוליטיקה",
-        "שלטון"
+        "אופוזיציה"
       ],
-      "published": "Thu, 29 Oct 2026 11:53:46 -0400"
+      "published": "Thu, 29 Oct 2026 21:05:03 GMT"
     },
     {
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-      "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
-      "importance": 7,
+      "title": "‘My life is buried here’: Iranian man whose 12 family members were killed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
+      "summary": "Hamed Mirzaei lost his wife, parents and many others in a devastating US-Israeli attack on Tehran.",
+      "importance": 8,
       "topics": [
-        "אוקראינה",
-        "מלחמה",
-        "רוסיה"
+        "איראן",
+        "ישראל",
+        "התקפה צבאית"
       ],
-      "published": "Thu, 29 Oct 2026 20:05:57 GMT"
+      "published": "Fri, 30 Oct 2026 07:51:08 +0000"
     },
     {
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+      "title": "Israel is in a political deadlock. What comes next?",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
+      "summary": "Israel's consequential election has ended in a deadlock, with neither side able to claim a majority, What happens now?",
       "importance": 7,
       "topics": [
-        "אסון",
-        "תחבורה",
-        "ספרד"
+        "ישראל",
+        "פוליטיקה",
+        "בחירות"
       ],
-      "published": "Thu, 29 Oct 2026 11:07:35 GMT"
+      "published": "Fri, 30 Oct 2026 05:00:00 -0400"
     },
     {
       "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
@@ -89,64 +63,77 @@
       "topics": [
         "סין",
         "פוליטיקה",
-        "ממשל"
+        "שי ג׳ינפינג"
       ],
       "published": "Fri, 30 Oct 2026 03:24:12 GMT"
     },
     {
-      "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
-      "summary": "Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud.",
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "קרבות"
+      ],
+      "published": "Thu, 29 Oct 2026 20:05:57 GMT"
+    },
+    {
+      "title": "Student-backed election winners demand sweeping resignations in Serbia",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
+      "importance": 7,
+      "topics": [
+        "סרביה",
+        "פוליטיקה",
+        "בחירות"
+      ],
+      "published": "Fri, 30 Oct 2026 00:17:28 GMT"
+    },
+    {
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
       "importance": 7,
       "topics": [
         "ישראל",
         "בחירות",
-        "ממשל"
+        "ביטחון פוליטי"
       ],
-      "published": "Fri, 30 Oct 2026 02:40:26 +0000"
+      "published": "Thu, 29 Oct 2026 20:21:54 GMT"
     },
     {
-      "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+      "importance": 7,
+      "topics": [
+        "ספרד",
+        "תאונה",
+        "תחבורה"
+      ],
+      "published": "Thu, 29 Oct 2026 11:07:35 GMT"
+    },
+    {
+      "title": "Russian oil refinery struck as Ukraine renews drone attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
-      "summary": "Fighting over disputed land and water in Ethiopia’s Moyale border region has driven thousands of people into Kenya.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
+      "summary": "Russian authorities say they intercepted more than 1,000 Ukrainian drones over multiple regions overnight.",
       "importance": 7,
       "topics": [
-        "אתיופיה",
-        "קניה",
-        "סכסוך"
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
       ],
-      "published": "Fri, 30 Oct 2026 01:05:26 +0000"
-    },
-    {
-      "title": "ניסיון אחרון לעסקה עם איראן? ארה\"ב רואה במנהיג הניצי כ\"תקווה הגדולה ביותר לשלום\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bk5hdibagx",
-      "summary": "אמש ערך מפקד סנטקום ביקור חריג בבית הלבן, והציג לטראמפ את האפשרויות לפעולה צבאית. במקביל, מחכים האמריקנים עדיין לתשובה למכתב ששלח הסגן ואנס למוחסן רזאי, לשעבר מפקד משמרות המהפכה - שאותו הם מגדירים כ\"אדם היחיד שיכול לגבש הסכמה רחבה לעסקה שתכלול את הפסקת תוכנית הגרעין\"",
-      "importance": 7,
-      "topics": [
-        "איראן",
-        "ארה\"ב",
-        "דיפלומטיה גרעינית"
-      ],
-      "published": "Fri, 30 Oct 2026 07:42:21 +0200"
+      "published": "Fri, 30 Oct 2026 09:14:16 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "summary": "אלפבית (גוגל) ירדה ב-10% אחרי שפספסה את תחזיות הרבעון השלישי - הן ברווח והן בהכנסות. זו הפעם הראשונה שזה קורה להם בכמעט ארבע שנים.\n\nמה שמטריד את השוק לא פחות: החברה הכריזה שתשמור על תקציב ההשקעות ב-2026 ללא שינוי, אבל מתכננת עלייה משמעותית ב-2027. משקיעים לא אוהבים את השילוב הזה - ביצועים מאכזבים בהווה ועם הבטחות יקרות לעתיד.\n\nומעבר לגוגל עצמה - נפילה כזו בחברה בסדר גודל הזה מושכת לרוב את שאר מניות הטכנולוגיה כלפי מטה. שווה לשים לב איך מיקרוסופט ו-Meta מגיבות.",
-      "importance": 9,
-      "topics": [
-        "טכנולוגיה",
-        "השקעות",
-        "בינה מלאכותית"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "See the Trump Administration Stock Portfolio That Spans More Than 40 Companies",
       "source": "WSJ Markets",
@@ -255,45 +242,33 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "The Fed Held Steady on Rates, Leaving Investors to Sit Tight, Too",
+      "title": "Stock Market Today: Alphabet Stock Sinks, Dragging Nasdaq Lower",
       "source": "WSJ Markets",
       "url": "",
-      "summary": "הפד השאיר את הריבית ללא שינוי, והשוק פירש את זה כסימן שהעלאות אגרסיביות לא ממש על הפרק. המניות ואיגרות החוב הארוכות עלו מעט בתגובה.\n\nמה שמעניין פה: השוק לא מגיב למה שהפד עשה - אלא למה שהוא לא אמר. וורש נשמע זהיר, וזה מספיק כדי להרגיע. כשהפד מתרכך, זה משפיע גם על הדולר, גם על הזהב וגם על שווקים מתעוררים - כולל ת\"א.",
+      "summary": "Alphabet בדרך לאבד 500 מיליארד דולר בשווי שוק ביום אחד - הירידה החדה ביותר שהחברה רשמה אי פעם.\n\nהנסאק נגרר למטה, אבל זה לא הכל. כשענקית כזו נופלת בחדות, קרנות אינדקס נאלצות לאזן מחדש את התיקים - וזה לוחץ גם על מניות אחרות שאין להן קשר ישיר ל-Google. מי שמחזיק ETF על הנסאק מרגיש את זה היום, גם בלי שהחזיק מניית Alphabet ישירות.",
       "importance": 8,
       "topics": [
-        "ריבית",
-        "פד",
-        "בונדים"
+        "טכנולוגיה",
+        "בורסה",
+        "ייעוד הון"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "‘The $100 level is ours for awhile’: Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "מחיר הנפט לא עומד לרדת בקרוב - ולא משנה מה יקרה במזרח התיכון. לפי אנליסטים, רמת 100 דולר לחבית הפכה לרצפה חדשה, לא לתקרה. שמונה חודשים של מלחמה שיבשו את שרשראות האספקה הימיות מספיק כדי שהנזק יישאר גם אחרי שהאבק ישקע. מי שצריך לשים לב: חברות תעופה, ספנות, וכל ענף שעלויות האנרגיה שלו קשורות ישירות למחיר הגולמי - כולל, אגב, עלויות המחיה שלנו כאן.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
+        "גיאופוליטיקה",
+        "אספקה"
       ],
       "tag": "גלובלי"
     }
   ],
   "tech": [
-    {
-      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-      "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
-      "importance": 9,
-      "topics": [
-        "אבטחה סייבר",
-        "דליפת נתונים"
-      ],
-      "published": "Thu, 29 Oct 2026 12:58:34 +0000"
-    },
-    {
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "אבטחה סייבר",
-        "Claude"
-      ],
-      "published": "Thu, 29 Oct 2026 18:39:43 +0000"
-    },
     {
       "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
       "source": "Wired",
@@ -302,8 +277,8 @@
       "importance": 9,
       "topics": [
         "AI",
-        "Anthropic",
-        "OpenAI"
+        "OpenAI",
+        "Anthropic"
       ],
       "published": "Thu, 29 Oct 2026 10:45:00 +0000"
     },
@@ -321,17 +296,17 @@
       "published": "Thu, 29 Oct 2026 22:27:23 +0000"
     },
     {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
       "importance": 8,
       "topics": [
         "AI",
-        "רכישה",
-        "OpenAI"
+        "מוקד משפטי",
+        "זכויות יוצרים"
       ],
-      "published": "Thu, 29 Oct 2026 19:56:19 +0000"
+      "published": "2026-10-30T05:00:00-04:00"
     },
     {
       "title": "Google admits AI search makes less money, but it's fixing that with more ads",
@@ -340,11 +315,50 @@
       "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
       "importance": 8,
       "topics": [
-        "AI",
         "Google",
-        "עסקים"
+        "AI",
+        "כלכלה"
       ],
       "published": "Thu, 29 Oct 2026 16:24:55 +0000"
+    },
+    {
+      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+      "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "דליפה",
+        "פרטיות"
+      ],
+      "published": "Thu, 29 Oct 2026 12:58:34 +0000"
+    },
+    {
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "מודלים קוד פתוח",
+        "Mistral"
+      ],
+      "published": "Thu, 29 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "מיקרוסופט חושפת לראשונה את המיליארדים שהיא עושה מ-OpenAI",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/microsoft-q1-2027-azure-xbox-openai-revenue/",
+      "summary": "מיקרוסופט מפרסמת הלילה (ד') את הדוחות הרבעוניים שלה וסוגרת רצף של עשרה רבעונים עם שיא בהכנסות. על פי הדוחות, מיקרוסופט מציגה הכנסות של 92.3 מיליארד דולר – עלייה של 19 אחוזים בהשוואה לרבעון המקביל אשתקד, ורווח נקי של 33.6 מיליארד דולר, המהווה זינוק של 32 אחוזים ביחס לשנה שעברה. הדוחות החדשים כוללים גם שינוי מעניין […] The post מיקרוסופט חושפת לראשונה את המיליארדים שהיא עושה מ-OpenAI appeared first ",
+      "importance": 8,
+      "topics": [
+        "מיקרוסופט",
+        "OpenAI",
+        "דוחות כספיים"
+      ],
+      "published": "Thu, 29 Oct 2026 12:12:40 +0000"
     },
     {
       "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
@@ -358,18 +372,6 @@
         "ענן"
       ],
       "published": "Thu, 29 Oct 2026 23:42:22 +0000"
-    },
-    {
-      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
-      "importance": 7,
-      "topics": [
-        "אבטחה",
-        "AO3"
-      ],
-      "published": "Thu, 29 Oct 2026 20:43:56 +0000"
     }
   ]
 }
