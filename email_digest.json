@@ -1,377 +1,284 @@
 {
-  "generated_at": "2026-10-30T09:50:15.258884+00:00",
+  "generated_at": "2026-10-31T09:29:21.590036+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-      "summary": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
-      "importance": 8,
-      "topics": [
-        "ארה״ב",
-        "יפן",
-        "סין"
-      ],
-      "published": "Thu, 29 Oct 2026 11:58:27 -0400"
-    },
-    {
-      "title": "Venezuela opposition leader María Machado calls for elections upon return",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
-      "summary": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be \"irreversible, organised, pacific\".",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
       "importance": 8,
       "topics": [
-        "וונצואלה",
-        "פוליטיקה",
-        "אופוזיציה"
+        "אוקראינה",
+        "רוסיה",
+        "ארה״ב"
       ],
-      "published": "Thu, 29 Oct 2026 21:05:03 GMT"
+      "published": "Sat, 31 Oct 2026 00:40:43 GMT"
     },
     {
-      "title": "‘My life is buried here’: Iranian man whose 12 family members were killed",
+      "title": "Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
-      "summary": "Hamed Mirzaei lost his wife, parents and many others in a devastating US-Israeli attack on Tehran.",
+      "url": "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss",
+      "summary": "Conflict devastates Black Sea marine life, killing more than 120,000 dolphins and causing ecological damage.",
       "importance": 8,
       "topics": [
-        "איראן",
-        "ישראל",
-        "התקפה צבאית"
+        "אוקראינה",
+        "רוסיה",
+        "סביבה"
       ],
-      "published": "Fri, 30 Oct 2026 07:51:08 +0000"
+      "published": "Sat, 31 Oct 2026 08:27:10 +0000"
     },
     {
-      "title": "Israel is in a political deadlock. What comes next?",
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
-      "summary": "Israel's consequential election has ended in a deadlock, with neither side able to claim a majority, What happens now?",
+      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+      "summary": "The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.",
       "importance": 7,
       "topics": [
-        "ישראל",
-        "פוליטיקה",
-        "בחירות"
+        "סייבר",
+        "צפון קוריאה",
+        "קריפטו"
       ],
-      "published": "Fri, 30 Oct 2026 05:00:00 -0400"
+      "published": "Fri, 30 Oct 2026 09:01:22 -0400"
     },
     {
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
-      "importance": 7,
-      "topics": [
-        "סין",
-        "פוליטיקה",
-        "שי ג׳ינפינג"
-      ],
-      "published": "Fri, 30 Oct 2026 03:24:12 GMT"
-    },
-    {
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-      "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
       "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "קרבות"
+        "הומניטארי"
       ],
-      "published": "Thu, 29 Oct 2026 20:05:57 GMT"
+      "published": "Sat, 31 Oct 2026 08:49:35 GMT"
     },
     {
-      "title": "Student-backed election winners demand sweeping resignations in Serbia",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
-      "importance": 7,
-      "topics": [
-        "סרביה",
-        "פוליטיקה",
-        "בחירות"
-      ],
-      "published": "Fri, 30 Oct 2026 00:17:28 GMT"
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "בחירות",
-        "ביטחון פוליטי"
-      ],
-      "published": "Thu, 29 Oct 2026 20:21:54 GMT"
-    },
-    {
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
       "importance": 7,
       "topics": [
         "ספרד",
-        "תאונה",
+        "אסון",
         "תחבורה"
       ],
-      "published": "Thu, 29 Oct 2026 11:07:35 GMT"
+      "published": "Fri, 30 Oct 2026 15:03:39 GMT"
     },
     {
-      "title": "Russian oil refinery struck as Ukraine renews drone attacks",
+      "title": "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
-      "summary": "Russian authorities say they intercepted more than 1,000 Ukrainian drones over multiple regions overnight.",
+      "url": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss",
+      "summary": "The joint statement comes as US President Donald Trump seeks a new meeting with North Korean leader Kim Jong Un.",
       "importance": 7,
+      "topics": [
+        "צפון קוריאה",
+        "דיפלומטיה",
+        "כוח גרעיני"
+      ],
+      "published": "Sat, 31 Oct 2026 07:20:45 +0000"
+    },
+    {
+      "title": "\"לא נעביר נשק\": עובדי 100 נמלים באירופה במחאת ענק נגד ישראל - וההשלכות",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/ryjajimpzl",
+      "summary": "אלפי עובדי נמלים בצרפת, איטליה, ספרד, יוון ומדינות נוספות שבתו במחאה על שינוע נשק דרכם - וקראו לסיום המלחמה בעזה. יו\"ר ועד העובדים בנמל פיראוס: \"לא רוצים שיעבור דרכנו נשק שמשמש לרצח של אנשים\". אלו ההשלכות המיידיות",
+      "importance": 7,
+      "topics": [
+        "אירופה",
+        "גיאופוליטיקה",
+        "סכסוך ישראלי-פלסטיני"
+      ],
+      "published": "Fri, 30 Oct 2026 19:55:31 +0200"
+    },
+    {
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "importance": 6,
+      "topics": [
+        "פולין",
+        "משפט",
+        "דמוקרטיה"
+      ],
+      "published": "Sat, 31 Oct 2026 01:11:43 GMT"
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "importance": 6,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מלחמה"
+        "דיפלומטיה"
       ],
-      "published": "Fri, 30 Oct 2026 09:14:16 +0000"
+      "published": "Fri, 30 Oct 2026 22:11:52 GMT"
+    },
+    {
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "importance": 6,
+      "topics": [
+        "רוסיה",
+        "עצמאות תקשורת",
+        "דיכוי"
+      ],
+      "published": "Fri, 30 Oct 2026 20:41:51 GMT"
     }
   ],
   "business": [
     {
-      "title": "See the Trump Administration Stock Portfolio That Spans More Than 40 Companies",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-efae2bae?mod=rss_markets_main",
-      "summary": "הממשל האמריקאי בונה תיק השקעות של 30 מיליארד דולר ביותר מ-40 חברות - מיצרני שבבים ועד חברות כרייה.\n\nזה לא סיוע ממשלתי רגיל. כשהממשל הופך לבעל מניות משמעותי בתעשיות אסטרטגיות, הוא מקבל גם תמריץ כלכלי להצליח שם - מה שמשנה את חישוב הרגולציה לגמרי. חברה שהממשל מחזיק בה לא תיראה אותו דבר כמו חברה שהוא רק מפקח עליה.\n\nשווה לעקוב אחרי אילו חברות ספציפיות נכנסות לרשימה.",
+      "title": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy Nvidia's next-generation chips",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/10/30/nvidia-india-ai-chips-computing.html",
+      "summary": "חברה הודית בתחום תשתיות ה-AI מגייסת 3 מיליארד דולר חוב - כולו למימון רכישת מעבדי Rubin של Nvidia. המטרה: 400 מגה-וואט של כוח חישוב תוך שנתיים.\n\nזה מעניין מכמה כיוונים. ראשית, הביקוש ל-Rubin כבר מתורגם לעסקאות ממשיות לפני שהשבב בכלל יצא לשוק. שנית, הודו הופכת לשחקנית רצינית בתשתיות AI גלובליות - לא רק כמקור של מפתחים, אלא גם כמי שבונה את התשתית עצמה.",
       "importance": 9,
       "topics": [
-        "רגולציה",
-        "השקעה ממלכתית",
-        "צ'יפים",
-        "כרייה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "הכנסות הענן של Google הוכפלו ברבעון האחרון - וזה לא הספיק.\n\nהמניה צונחת היום כי המשקיעים מסתכלים מעבר למספרים הגדולים ושמים לב למשהו מדאיג: ה-AI, שאמור להיות הסיפור ההצלחה של Alphabet, מתחיל לנגוס בחיפוש - הבסיס שממנו מגיע רוב הכסף.\n\nכשאנשים מקבלים תשובות ישירות מה-AI, הם לא לוחצים על פרסומות. זו לא בעיה של רבעון - זו שאלה מבנית על המודל העסקי.\n\nמי שכדאי לשים לב: כל חברת פרסום דיגיטלי שתלויה בתנועה מגוגל - הגלים מגיעים גם אליהן.",
-      "importance": 9,
-      "topics": [
-        "חיפוש",
-        "ה-AI",
-        "רווחיות",
-        "תעשיית טק"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "אלפבט צונחת כ-10% ב-pre-market אחרי הדוח - אחד הירידות הגדולות שלה אי פעם אחרי רבעון.\n\nהבעיה המרכזית היא לא ההכנסות אלא תזרים המזומנים - החברה שרפה הרבה יותר מזומן ממה שאנליסטים ציפו, ובו זמנית הודיעה שהוצאות ה-capex לשנה נשארות כפי שהיו. כלומר: עוד הוצאות ענק לפנינו, ועדיין לא ברור מתי הן ייצרו תשואה.\n\nמי שכדאי לשים עליו עין מחוץ לגוגל: ספקי ענן, חברות שרותים שמסתמכות על פרסום דיגיטלי, וחברות צ'יפים שמוכרות ל-hyperscalers. הלחץ על תזרים של ענקיות הטק מתחיל להגיע גם לשותפות שלהן.",
-      "importance": 9,
-      "topics": [
-        "גוגל",
-        "תזרים מזומנים",
-        "טכנולוגיה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "ווארש, יושב הראש החדש של הפד, שלח השבוע אות ברור: הוא נוטה לריביות גבוהות יותר - אבל שמר לעצמו את הגמישות לשנות כיוון בהתאם לנתונים. זה בדיוק הסגנון של מנהיג שמייב ללמוד לנהל ציפיות בלי להתחייב מוקדם מדי. הריבית הגבוהה אומרת דולר חזק יותר, לחץ על שווקים מתעוררים, ועלויות מימון גבוהות לחברות שתלויות בחוב. שווה לעקוב אחרי ווארש - הוא עוד לא גילה את כל הקלפים.",
-      "importance": 9,
-      "topics": [
-        "פד",
-        "ריבית",
-        "מדיניות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories",
-      "summary": "מדד ה-PCE - מדד האינפלציה המועדף על הפד - עלה בחדות בחודש האחרון, ושם סימן שאלה גדול על הפסקת העלאות הריבית שהפד הכריז עליה השבוע.\n\nבפועל: הפד עצר כי רצה לראות לאן הדברים הולכים - אבל הנתונים לא ממש משתפים פעולה. כשהאינפלציה ממשיכה לטפס, קשה להצדיק הפסקה ארוכה.\n\nמי שיושפע מזה מעבר לברור: כל מי שיש לו חוב בריבית משתנה - משכנתא, הלוואות - וגם חברות שממתינות לעלות גיוס הון.",
-      "importance": 9,
-      "topics": [
-        "אינפלציה",
-        "פד",
-        "ריבית"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "MICROSOFT PREPARES AT LEAST $25 BILLION BOND SALE, ITS FIRST SINCE 2017 $MSFT is looking to raise at least $25B through a 10-part U.S. bond offering, as it joins other major tech companies tapping debt markets to finance the AI infrastructure buildout. The offering would mark https://t.co/U2xXCectde",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "Microsoft מגייסת לפחות 25 מיליארד דולר באג\"ח - ההנפקה הגדולה ביותר שלה מאז 2017. ההנפקה מחולקת ל-10 סדרות שונות, וכל הכסף מיועד לתשתיות AI.\n\nמה שמעניין כאן זה לא רק הסכום - אלא שגם Meta, Google ואמזון עשו את אותו הדבר לאחרונה. ענקיות הטק מעדיפות ללוות בשוק האג\"ח במקום למשוך מזומנים מהמאזן. זה לחץ נוסף על חברות הבנייה, הציוד וספקי האנרגיה שמזינים את מרוץ ה-AI - הביקוש אליהם לא מאט.",
-      "importance": 9,
-      "topics": [
-        "מיקרוסופט",
         "AI",
-        "התחייבויות הון"
+        "צ'יפים",
+        "תשתיות",
+        "הון"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
-      "title": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
-      "summary": "שוק העבודה האמריקאי נמצא כבר שלוש שנים ברצף במצב חריג שלא היה כמותו בהיסטוריה - כמעט ולא מפטרים, אבל גם כמעט ולא מגייסים. המונח לזה הוא \"low-hire, low-fire economy\".\n\nזה נשמע יציב, אבל בעצם זה הקפאה. עסקים לא בטוחים מספיק כדי להתרחב, אבל גם לא בבעיה מספיק כדי לצמצם. התוצאה: אנשים תקועים בתפקידים, שכר לא זז, ומי שמחפש עבודה - לא מוצא.\n\nההשפעה העקיפה שקל לפספס: חברות שחיות על תנועה בשוק העבודה - סוכנויות גיוס, פלטפורמות כמו LinkedIn, אפילו שוק הנדל\"ן - כולן מרגישות את זה.",
-      "importance": 9,
-      "topics": [
-        "שוק עבודה",
-        "מאקרו",
-        "אינפלציה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "DoorDash to acquire Instacart for $17B",
-      "source": "TechCrunch",
-      "url": "",
-      "summary": "DoorDash רוכשת את Instacart תמורת 17 מיליארד דולר - מהלך שמחבר בין שני ענקי המשלוחים לבית תחת קורת גג אחת. DoorDash שולטת במשלוחי מסעדות, Instacart בקניות סופרמרקט - וברגע שמחברים את שניהם, נוצרת פלטפורמה שיכולה לספק כמעט כל דבר עד הבית.\n\nמי שצריך לשים לב פה: Uber Eats ו-Amazon, שפתאום מול עצמם מתחרה הרבה יותר גדול. גם רשתות השיווק ייאלצו להחליט מחדש מה תנאי ההתקשרות שלהן עם הפלטפורמה החדשה.",
-      "importance": 9,
-      "topics": [
-        "M&A",
-        "דלוורי",
-        "אקונומיה",
-        "תחרות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Stock Market Today: Alphabet Stock Sinks, Dragging Nasdaq Lower",
+      "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
       "source": "WSJ Markets",
       "url": "",
-      "summary": "Alphabet בדרך לאבד 500 מיליארד דולר בשווי שוק ביום אחד - הירידה החדה ביותר שהחברה רשמה אי פעם.\n\nהנסאק נגרר למטה, אבל זה לא הכל. כשענקית כזו נופלת בחדות, קרנות אינדקס נאלצות לאזן מחדש את התיקים - וזה לוחץ גם על מניות אחרות שאין להן קשר ישיר ל-Google. מי שמחזיק ETF על הנסאק מרגיש את זה היום, גם בלי שהחזיק מניית Alphabet ישירות.",
+      "summary": "גנבו 6.3 מיליארד דולר מ-Binance - הפריצה הגדולה ביותר בתולדות הקריפטו. הבורסה הקפיאה עסקאות ואמרה שתפצה משתמשים, אבל זה לא עיקר הסיפור.\n\nהעיקר הוא מה שקורה עכשיו אחרי האירוע: הרגולטורים בארה\"ב, אירופה ואסיה חיכו לרגע כזה. פריצה בסדר גודל כזה נותנת להם את כל התירוץ שהם צריכים להדק פיקוח על בורסות קריפטו. זה לא בהכרח רע - רגולציה ברורה יכולה דווקא להכשיר את הקרקע למוסדיים שעדיין מהססים להיכנס לשוק.",
       "importance": 8,
       "topics": [
-        "טכנולוגיה",
-        "בורסה",
-        "ייעוד הון"
+        "קריפטו",
+        "סייבר",
+        "רגולציה"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
-      "title": "‘The $100 level is ours for awhile’: Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf",
+      "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
       "source": "MarketWatch",
       "url": "",
-      "summary": "מחיר הנפט לא עומד לרדת בקרוב - ולא משנה מה יקרה במזרח התיכון. לפי אנליסטים, רמת 100 דולר לחבית הפכה לרצפה חדשה, לא לתקרה. שמונה חודשים של מלחמה שיבשו את שרשראות האספקה הימיות מספיק כדי שהנזק יישאר גם אחרי שהאבק ישקע. מי שצריך לשים לב: חברות תעופה, ספנות, וכל ענף שעלויות האנרגיה שלו קשורות ישירות למחיר הגולמי - כולל, אגב, עלויות המחיה שלנו כאן.",
+      "summary": "המניה של Amazon ירדה אחרי הדוח האחרון - גם כשהחברה פרסמה תחזיות אופטימיות לענן. הבעיה: הצמיחה של AWS הייתה מתונה ממה שוול סטריט ציפה, ולצד זה גם הכנסות הפרסום אכזבו. כששתי מנועי הצמיחה המרכזיים מתקררים בו זמנית - זה מספיק כדי לדאוג. מה שפחות ברור במבט ראשון: ירידה בפרסום של Amazon משקפת שינוי בהתנהגות הצרכנים, וזה נוגע גם ל-Meta ול-Google. כדאי לשים לב.",
       "importance": 8,
       "topics": [
-        "אנרגיה",
-        "גיאופוליטיקה",
-        "אספקה"
+        "Amazon",
+        "ענן",
+        "ארנינגס"
       ],
       "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
-      "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
-      "importance": 9,
+      "title": "140 מיליארד דולר נמחקו: מה גרם למניית אינטל להתרסק בכמעט 30%?",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/intel-stock-crash-q3-2026-kiryat-gat/",
+      "summary": "אינטל סיימה את המסחר אתמול (ו') עם אחד הימים הקשים בתולדותיה: מניית יצרנית השבבים צללה ב-28.58% וננעלה במחיר של 65.76 דולר, אחרי שבמהלך היום כבר איבדה יותר מ-30% מערכה. בסיום המסחר נמחקו כ-140 מיליארד דולר משווי החברה, והירידה בשווי המניה היא הגדולה ביותר שחוותה מאז 1974. הצלילה המפתיעה מגיעה דווקא אחרי תקופה מצוינת עבור המניה, […] The post 140 מיליארד דולר נמחקו: מה גרם למניית אינטל להתרסק בכמעט ",
+      "importance": 10,
       "topics": [
-        "AI",
-        "OpenAI",
-        "Anthropic"
+        "שבבים",
+        "אינטל",
+        "סחר במניות"
       ],
-      "published": "Thu, 29 Oct 2026 10:45:00 +0000"
+      "published": "Sat, 31 Oct 2026 07:00:00 +0000"
     },
     {
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "summary": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.",
+      "importance": 9,
+      "topics": [
+        "אבטחה",
+        "קריפטו",
+        "פריצת מערכות"
+      ],
+      "published": "Fri, 30 Oct 2026 11:36:52 +0000"
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "importance": 8,
+      "topics": [
+        "AI infrastructure",
+        "כלכלה",
+        "investment trends"
+      ],
+      "published": "Fri, 30 Oct 2026 21:17:40 +0000"
+    },
+    {
+      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
       "importance": 8,
       "topics": [
         "אבטחה",
         "קריפטו",
-        "Binance"
+        "האקה"
       ],
-      "published": "Thu, 29 Oct 2026 22:27:23 +0000"
+      "published": "Fri, 30 Oct 2026 13:46:39 +0000"
     },
     {
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "מוקד משפטי",
-        "זכויות יוצרים"
-      ],
-      "published": "2026-10-30T05:00:00-04:00"
-    },
-    {
-      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
-      "importance": 8,
-      "topics": [
-        "Google",
-        "AI",
-        "כלכלה"
-      ],
-      "published": "Thu, 29 Oct 2026 16:24:55 +0000"
-    },
-    {
-      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-      "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+      "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
       "importance": 8,
       "topics": [
         "אבטחה",
-        "דליפה",
-        "פרטיות"
-      ],
-      "published": "Thu, 29 Oct 2026 12:58:34 +0000"
-    },
-    {
-      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-      "importance": 8,
-      "topics": [
         "AI",
-        "מודלים קוד פתוח",
-        "Mistral"
+        "Anthropic"
       ],
-      "published": "Thu, 29 Oct 2026 14:00:00 +0000"
+      "published": "Fri, 30 Oct 2026 20:38:46 +0000"
     },
     {
-      "title": "מיקרוסופט חושפת לראשונה את המיליארדים שהיא עושה מ-OpenAI",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/microsoft-q1-2027-azure-xbox-openai-revenue/",
-      "summary": "מיקרוסופט מפרסמת הלילה (ד') את הדוחות הרבעוניים שלה וסוגרת רצף של עשרה רבעונים עם שיא בהכנסות. על פי הדוחות, מיקרוסופט מציגה הכנסות של 92.3 מיליארד דולר – עלייה של 19 אחוזים בהשוואה לרבעון המקביל אשתקד, ורווח נקי של 33.6 מיליארד דולר, המהווה זינוק של 32 אחוזים ביחס לשנה שעברה. הדוחות החדשים כוללים גם שינוי מעניין […] The post מיקרוסופט חושפת לראשונה את המיליארדים שהיא עושה מ-OpenAI appeared first ",
-      "importance": 8,
-      "topics": [
-        "מיקרוסופט",
-        "OpenAI",
-        "דוחות כספיים"
-      ],
-      "published": "Thu, 29 Oct 2026 12:12:40 +0000"
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
       "importance": 7,
       "topics": [
-        "AWS",
-        "AI",
-        "ענן"
+        "Intel",
+        "חברות סמיקונדקטור",
+        "שוק המניות"
       ],
-      "published": "Thu, 29 Oct 2026 23:42:22 +0000"
+      "published": "Fri, 30 Oct 2026 21:54:34 +0000"
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "importance": 7,
+      "topics": [
+        "Anthropic",
+        "AI",
+        "מימון"
+      ],
+      "published": "Fri, 30 Oct 2026 21:52:03 +0000"
+    },
+    {
+      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "privacy breach",
+        "נתונים אישיים"
+      ],
+      "published": "Fri, 30 Oct 2026 21:48:53 +0000"
     }
   ]
 }
