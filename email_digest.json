@@ -1,284 +1,243 @@
 {
-  "generated_at": "2026-10-31T09:29:21.590036+00:00",
+  "generated_at": "2026-11-01T06:44:57.067842+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
       "importance": 8,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ארה״ב"
+        "קונגו",
+        "אבולה",
+        "בריאות ציבורית"
       ],
-      "published": "Sat, 31 Oct 2026 00:40:43 GMT"
+      "published": "Sat, 31 Oct 2026 15:16:20 GMT"
     },
     {
-      "title": "Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea",
+      "title": "What we know about latest efforts to end US war on Iran",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss",
-      "summary": "Conflict devastates Black Sea marine life, killing more than 120,000 dolphins and causing ecological damage.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+      "summary": "The foreign ministers of the US and Iran say a diplomatic end to the war is still possible.",
       "importance": 8,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "סביבה"
-      ],
-      "published": "Sat, 31 Oct 2026 08:27:10 +0000"
-    },
-    {
-      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-      "summary": "The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.",
-      "importance": 7,
-      "topics": [
-        "סייבר",
-        "צפון קוריאה",
-        "קריפטו"
-      ],
-      "published": "Fri, 30 Oct 2026 09:01:22 -0400"
-    },
-    {
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "הומניטארי"
-      ],
-      "published": "Sat, 31 Oct 2026 08:49:35 GMT"
-    },
-    {
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-      "importance": 7,
-      "topics": [
-        "ספרד",
-        "אסון",
-        "תחבורה"
-      ],
-      "published": "Fri, 30 Oct 2026 15:03:39 GMT"
-    },
-    {
-      "title": "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss",
-      "summary": "The joint statement comes as US President Donald Trump seeks a new meeting with North Korean leader Kim Jong Un.",
-      "importance": 7,
-      "topics": [
-        "צפון קוריאה",
-        "דיפלומטיה",
-        "כוח גרעיני"
-      ],
-      "published": "Sat, 31 Oct 2026 07:20:45 +0000"
-    },
-    {
-      "title": "\"לא נעביר נשק\": עובדי 100 נמלים באירופה במחאת ענק נגד ישראל - וההשלכות",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/ryjajimpzl",
-      "summary": "אלפי עובדי נמלים בצרפת, איטליה, ספרד, יוון ומדינות נוספות שבתו במחאה על שינוע נשק דרכם - וקראו לסיום המלחמה בעזה. יו\"ר ועד העובדים בנמל פיראוס: \"לא רוצים שיעבור דרכנו נשק שמשמש לרצח של אנשים\". אלו ההשלכות המיידיות",
-      "importance": 7,
-      "topics": [
-        "אירופה",
-        "גיאופוליטיקה",
-        "סכסוך ישראלי-פלסטיני"
-      ],
-      "published": "Fri, 30 Oct 2026 19:55:31 +0200"
-    },
-    {
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "importance": 6,
-      "topics": [
-        "פולין",
-        "משפט",
-        "דמוקרטיה"
-      ],
-      "published": "Sat, 31 Oct 2026 01:11:43 GMT"
-    },
-    {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "importance": 6,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
+        "אמריקה",
+        "ירן",
         "דיפלומטיה"
       ],
-      "published": "Fri, 30 Oct 2026 22:11:52 GMT"
+      "published": "Sun, 01 Nov 2026 03:24:02 +0000"
     },
     {
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "importance": 6,
-      "topics": [
-        "רוסיה",
-        "עצמאות תקשורת",
-        "דיכוי"
-      ],
-      "published": "Fri, 30 Oct 2026 20:41:51 GMT"
-    }
-  ],
-  "business": [
-    {
-      "title": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy Nvidia's next-generation chips",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/10/30/nvidia-india-ai-chips-computing.html",
-      "summary": "חברה הודית בתחום תשתיות ה-AI מגייסת 3 מיליארד דולר חוב - כולו למימון רכישת מעבדי Rubin של Nvidia. המטרה: 400 מגה-וואט של כוח חישוב תוך שנתיים.\n\nזה מעניין מכמה כיוונים. ראשית, הביקוש ל-Rubin כבר מתורגם לעסקאות ממשיות לפני שהשבב בכלל יצא לשוק. שנית, הודו הופכת לשחקנית רצינית בתשתיות AI גלובליות - לא רק כמקור של מפתחים, אלא גם כמי שבונה את התשתית עצמה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "צ'יפים",
-        "תשתיות",
-        "הון"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "גנבו 6.3 מיליארד דולר מ-Binance - הפריצה הגדולה ביותר בתולדות הקריפטו. הבורסה הקפיאה עסקאות ואמרה שתפצה משתמשים, אבל זה לא עיקר הסיפור.\n\nהעיקר הוא מה שקורה עכשיו אחרי האירוע: הרגולטורים בארה\"ב, אירופה ואסיה חיכו לרגע כזה. פריצה בסדר גודל כזה נותנת להם את כל התירוץ שהם צריכים להדק פיקוח על בורסות קריפטו. זה לא בהכרח רע - רגולציה ברורה יכולה דווקא להכשיר את הקרקע למוסדיים שעדיין מהססים להיכנס לשוק.",
+      "title": "נתניהו וטראמפ דיברו, הנשיא: \"נותרו לאיראן אתר או שניים. נטפל ב-10 דקות\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hkinj5xtgl",
+      "summary": "השבוע ייערכו בחירות האמצע בארה\"ב, שמשמשות מעין משאל עם על תפקודו של הנשיא, שהקים עליו מתנגדים למלחמה משני צידי המפה הפוליטית. בצל הפלונטר הפוליטי בישראל מתעצמות ההכנות לאפשרות של חידוש האש, \"וול סטריט ג'ורנל\": השיחה - בצל היערכות ארה\"ב לחידוש המלחמה. טראמפ: \"יש לנו תוכנית\"",
       "importance": 8,
+      "topics": [
+        "ישראל",
+        "איראן",
+        "דיפלומטיה"
+      ],
+      "published": "Sun, 01 Nov 2026 01:18:29 +0200"
+    },
+    {
+      "title": "France seethes again as youth-led protests sweep Europe",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+      "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
+      "importance": 7,
+      "topics": [
+        "צרפת",
+        "הפגנות",
+        "מהומות"
+      ],
+      "published": "Sat, 31 Oct 2026 15:30:19 -0400"
+    },
+    {
+      "title": "Shops looted as German cost of living protests turn violent",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "importance": 7,
+      "topics": [
+        "גרמניה",
+        "הפגנות",
+        "כלכלה"
+      ],
+      "published": "Sun, 01 Nov 2026 06:30:59 GMT"
+    },
+    {
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "קונפליקט"
+      ],
+      "published": "Sat, 31 Oct 2026 19:22:26 GMT"
+    },
+    {
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "importance": 7,
+      "topics": [
+        "סרביה",
+        "בחירות",
+        "אירופה"
+      ],
+      "published": "Sun, 01 Nov 2026 00:55:06 GMT"
+    },
+    {
+      "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
+      "summary": "Mohammad el-Shami had been held since June 2024, when he and many other UN and NGO workers were accused of being spies.",
+      "importance": 7,
+      "topics": [
+        "תימן",
+        "הותיים",
+        "בינלאומי"
+      ],
+      "published": "Sun, 01 Nov 2026 04:49:15 +0000"
+    },
+    {
+      "title": "India’s largest dam planned to counter China faces Indigenous revolt",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
+      "summary": "Indigenous people of Arunachal Pradesh are protesting a mega dam planned to counter China's upstream hydropower project.",
+      "importance": 7,
+      "topics": [
+        "הודו",
+        "סין",
+        "גיאופוליטיקה"
+      ],
+      "published": "Sun, 01 Nov 2026 03:19:28 +0000"
+    },
+    {
+      "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
+      "summary": "Crypto firm Binance says it has covered 90 percent of losses from the multibillion-dollar hack.",
+      "importance": 7,
       "topics": [
         "קריפטו",
         "סייבר",
-        "רגולציה"
+        "צפון קוריאה"
       ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "המניה של Amazon ירדה אחרי הדוח האחרון - גם כשהחברה פרסמה תחזיות אופטימיות לענן. הבעיה: הצמיחה של AWS הייתה מתונה ממה שוול סטריט ציפה, ולצד זה גם הכנסות הפרסום אכזבו. כששתי מנועי הצמיחה המרכזיים מתקררים בו זמנית - זה מספיק כדי לדאוג. מה שפחות ברור במבט ראשון: ירידה בפרסום של Amazon משקפת שינוי בהתנהגות הצרכנים, וזה נוגע גם ל-Meta ול-Google. כדאי לשים לב.",
-      "importance": 8,
-      "topics": [
-        "Amazon",
-        "ענן",
-        "ארנינגס"
-      ],
-      "tag": "גלובלי"
+      "published": "Sun, 01 Nov 2026 02:28:38 +0000"
     }
   ],
+  "business": [],
   "tech": [
     {
       "title": "140 מיליארד דולר נמחקו: מה גרם למניית אינטל להתרסק בכמעט 30%?",
       "source": "גיקטיים",
       "url": "https://www.geektime.co.il/intel-stock-crash-q3-2026-kiryat-gat/",
       "summary": "אינטל סיימה את המסחר אתמול (ו') עם אחד הימים הקשים בתולדותיה: מניית יצרנית השבבים צללה ב-28.58% וננעלה במחיר של 65.76 דולר, אחרי שבמהלך היום כבר איבדה יותר מ-30% מערכה. בסיום המסחר נמחקו כ-140 מיליארד דולר משווי החברה, והירידה בשווי המניה היא הגדולה ביותר שחוותה מאז 1974. הצלילה המפתיעה מגיעה דווקא אחרי תקופה מצוינת עבור המניה, […] The post 140 מיליארד דולר נמחקו: מה גרם למניית אינטל להתרסק בכמעט ",
-      "importance": 10,
+      "importance": 9,
       "topics": [
+        "Intel",
         "שבבים",
-        "אינטל",
-        "סחר במניות"
+        "שווקים פיננסיים"
       ],
       "published": "Sat, 31 Oct 2026 07:00:00 +0000"
     },
     {
-      "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "summary": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.",
-      "importance": 9,
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less […]",
+      "importance": 8,
       "topics": [
-        "אבטחה",
-        "קריפטו",
-        "פריצת מערכות"
+        "Binance",
+        "אבטחה סייבר",
+        "קריפטו"
       ],
-      "published": "Fri, 30 Oct 2026 11:36:52 +0000"
+      "published": "2026-10-31T14:40:32-04:00"
     },
     {
-      "title": "Cracks are emerging in the AI spending boom",
+      "title": "OpenAI reportedly lowers funding target for new round",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "importance": 8,
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "importance": 7,
       "topics": [
-        "AI infrastructure",
-        "כלכלה",
-        "investment trends"
+        "OpenAI",
+        "גיוס הון",
+        "AI"
       ],
-      "published": "Fri, 30 Oct 2026 21:17:40 +0000"
+      "published": "Sat, 31 Oct 2026 16:12:55 +0000"
     },
     {
-      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
-      "importance": 8,
-      "topics": [
-        "אבטחה",
-        "קריפטו",
-        "האקה"
-      ],
-      "published": "Fri, 30 Oct 2026 13:46:39 +0000"
-    },
-    {
-      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
       "source": "Wired",
-      "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
-      "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
-      "importance": 8,
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "importance": 7,
       "topics": [
         "אבטחה",
         "AI",
-        "Anthropic"
+        "מלוware"
       ],
-      "published": "Fri, 30 Oct 2026 20:38:46 +0000"
+      "published": "Sat, 31 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
       "importance": 7,
       "topics": [
-        "Intel",
-        "חברות סמיקונדקטור",
-        "שוק המניות"
-      ],
-      "published": "Fri, 30 Oct 2026 21:54:34 +0000"
-    },
-    {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "importance": 7,
-      "topics": [
-        "Anthropic",
         "AI",
-        "מימון"
+        "ביוטכנולוגיה",
+        "מחקר"
       ],
-      "published": "Fri, 30 Oct 2026 21:52:03 +0000"
+      "published": "Sat, 31 Oct 2026 10:00:00 +0000"
     },
     {
-      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-      "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
-      "importance": 7,
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "importance": 6,
       "topics": [
-        "אבטחה",
-        "privacy breach",
-        "נתונים אישיים"
+        "xAI",
+        "רגולציה",
+        "data centers"
       ],
-      "published": "Fri, 30 Oct 2026 21:48:53 +0000"
+      "published": "Sat, 31 Oct 2026 21:17:03 +0000"
+    },
+    {
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "importance": 6,
+      "topics": [
+        "AI",
+        "Meta",
+        "agents"
+      ],
+      "published": "Sat, 31 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "title": "סטארטאפ ישראלי שנבנה כולו על ידי AI קיבל השקעה ממאור שלמה ומיכה קאופמן מ-fiverr",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/plnty-is-out-of-stealth-with-a-check-from-base44-founder/",
+      "summary": "צוותי קריאייטיב מכירים את הכאב הזה מקרוב: הקפיצה הבלתי פוסקת בין עשרות כלים ופלטפורמות כדי להגיע לתוצר הסופי, במיוחד כשמשלבים כלי AI שונים בתהליך. עכשיו, שני יזמים ישראלים מגיעים לפתור את הבלאגן עם סביבת עבודה אחת שמרכזת הכל, כשמה שמעניין הוא שהם בנו אותה לגמרי בעצמם, בלי לכתוב שורת קוד אחת. נבנה בימים הראשונים של […] The post סטארטאפ ישראלי שנבנה כולו על ידי AI קיבל השקעה ממאור שלמה ומיכה קאופמן ",
+      "importance": 6,
+      "topics": [
+        "AI",
+        "סטארטאפ",
+        "השקעה"
+      ],
+      "published": "Sat, 31 Oct 2026 13:03:36 +0000"
     }
   ]
 }
