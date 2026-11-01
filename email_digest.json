@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:44:57.067842+00:00",
+  "generated_at": "2026-11-01T10:18:07.251369+00:00",
   "lookback_hours": 24,
   "world": [
     {
@@ -11,22 +11,9 @@
       "topics": [
         "קונגו",
         "אבולה",
-        "בריאות ציבורית"
+        "בריאות"
       ],
       "published": "Sat, 31 Oct 2026 15:16:20 GMT"
-    },
-    {
-      "title": "What we know about latest efforts to end US war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
-      "summary": "The foreign ministers of the US and Iran say a diplomatic end to the war is still possible.",
-      "importance": 8,
-      "topics": [
-        "אמריקה",
-        "ירן",
-        "דיפלומטיה"
-      ],
-      "published": "Sun, 01 Nov 2026 03:24:02 +0000"
     },
     {
       "title": "נתניהו וטראמפ דיברו, הנשיא: \"נותרו לאיראן אתר או שניים. נטפל ב-10 דקות\"",
@@ -37,35 +24,35 @@
       "topics": [
         "ישראל",
         "איראן",
-        "דיפלומטיה"
+        "טראמפ"
       ],
       "published": "Sun, 01 Nov 2026 01:18:29 +0200"
     },
     {
-      "title": "France seethes again as youth-led protests sweep Europe",
+      "title": "A new political era in the Southern Philippines",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-      "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines",
+      "summary": "A new local government has taken its seat in the southern Philippines, in a step that marks a milestone in the peace process for a conflict that has lasted some 80 years.",
       "importance": 7,
       "topics": [
-        "צרפת",
-        "הפגנות",
-        "מהומות"
+        "שלום",
+        "פיליפינים",
+        "גיאופוליטיקה"
       ],
-      "published": "Sat, 31 Oct 2026 15:30:19 -0400"
+      "published": "Sat, 31 Oct 2026 17:14:32 -0400"
     },
     {
-      "title": "Shops looted as German cost of living protests turn violent",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "title": "Key takeaways from this week's political meeting in Beijing",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+      "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
       "importance": 7,
       "topics": [
-        "גרמניה",
-        "הפגנות",
-        "כלכלה"
+        "סין",
+        "גיאופוליטיקה",
+        "ממשל"
       ],
-      "published": "Sun, 01 Nov 2026 06:30:59 GMT"
+      "published": "Sat, 31 Oct 2026 14:42:33 -0400"
     },
     {
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
@@ -81,6 +68,19 @@
       "published": "Sat, 31 Oct 2026 19:22:26 GMT"
     },
     {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "importance": 7,
+      "topics": [
+        "הודו",
+        "בחירות",
+        "משבר דמוקרטי"
+      ],
+      "published": "Sun, 01 Nov 2026 07:00:55 GMT"
+    },
+    {
       "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
@@ -88,66 +88,53 @@
       "importance": 7,
       "topics": [
         "סרביה",
-        "בחירות",
-        "אירופה"
+        "הונגריה",
+        "בחירות"
       ],
       "published": "Sun, 01 Nov 2026 00:55:06 GMT"
     },
     {
-      "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
-      "summary": "Mohammad el-Shami had been held since June 2024, when he and many other UN and NGO workers were accused of being spies.",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
       "importance": 7,
       "topics": [
-        "תימן",
-        "הותיים",
-        "בינלאומי"
+        "ארה״ב",
+        "בחירות",
+        "משפט"
       ],
-      "published": "Sun, 01 Nov 2026 04:49:15 +0000"
+      "published": "Sun, 01 Nov 2026 00:27:33 GMT"
     },
     {
-      "title": "India’s largest dam planned to counter China faces Indigenous revolt",
+      "title": "US midterms: 2 days to go – what polls say as Trump makes final push",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
-      "summary": "Indigenous people of Arunachal Pradesh are protesting a mega dam planned to counter China's upstream hydropower project.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail?traffic_source=rss",
+      "summary": "Democrats remain ahead in national polls as Trump and candidates make their final push in the days before polling day.",
       "importance": 7,
       "topics": [
-        "הודו",
-        "סין",
-        "גיאופוליטיקה"
+        "ארה״ב",
+        "בחירות",
+        "טראמפ"
       ],
-      "published": "Sun, 01 Nov 2026 03:19:28 +0000"
+      "published": "Sun, 01 Nov 2026 08:47:19 +0000"
     },
     {
-      "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
+      "title": "Iran security chief says US letter signals ‘positive’ shift",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
-      "summary": "Crypto firm Binance says it has covered 90 percent of losses from the multibillion-dollar hack.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
+      "summary": "US Vice-President JD Vance has sent a letter to Iran’s security chief in a reported effort to revive talks.",
       "importance": 7,
       "topics": [
-        "קריפטו",
-        "סייבר",
-        "צפון קוריאה"
+        "אירן",
+        "ארה\"ב",
+        "דיפלומטיה"
       ],
-      "published": "Sun, 01 Nov 2026 02:28:38 +0000"
+      "published": "Sun, 01 Nov 2026 08:14:00 +0000"
     }
   ],
   "business": [],
   "tech": [
-    {
-      "title": "140 מיליארד דולר נמחקו: מה גרם למניית אינטל להתרסק בכמעט 30%?",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/intel-stock-crash-q3-2026-kiryat-gat/",
-      "summary": "אינטל סיימה את המסחר אתמול (ו') עם אחד הימים הקשים בתולדותיה: מניית יצרנית השבבים צללה ב-28.58% וננעלה במחיר של 65.76 דולר, אחרי שבמהלך היום כבר איבדה יותר מ-30% מערכה. בסיום המסחר נמחקו כ-140 מיליארד דולר משווי החברה, והירידה בשווי המניה היא הגדולה ביותר שחוותה מאז 1974. הצלילה המפתיעה מגיעה דווקא אחרי תקופה מצוינת עבור המניה, […] The post 140 מיליארד דולר נמחקו: מה גרם למניית אינטל להתרסק בכמעט ",
-      "importance": 9,
-      "topics": [
-        "Intel",
-        "שבבים",
-        "שווקים פיננסיים"
-      ],
-      "published": "Sat, 31 Oct 2026 07:00:00 +0000"
-    },
     {
       "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
       "source": "The Verge",
@@ -155,9 +142,9 @@
       "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less […]",
       "importance": 8,
       "topics": [
-        "Binance",
-        "אבטחה סייבר",
-        "קריפטו"
+        "אבטחה",
+        "קריפטו",
+        "Binance"
       ],
       "published": "2026-10-31T14:40:32-04:00"
     },
@@ -168,9 +155,9 @@
       "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
       "importance": 7,
       "topics": [
+        "AI",
         "OpenAI",
-        "גיוס הון",
-        "AI"
+        "גיוס הון"
       ],
       "published": "Sat, 31 Oct 2026 16:12:55 +0000"
     },
@@ -183,22 +170,22 @@
       "topics": [
         "אבטחה",
         "AI",
-        "מלוware"
+        "מלוות"
       ],
       "published": "Sat, 31 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "title": "לאנת'רופיק נמאס והיא לא תאפשר יותר הנדסה לאחור",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/anthropic-claude-code-blocks-game-reverse-engineering/",
+      "summary": "בשבועות האחרונים הוצפה הרשת בסיפורים של אנשים שעשו הנדסה לאחור של כלים, משחקים ואפילו של מערכת ההפעלה של הטלוויזיה בעזרת כלי קידוד עם AI דוגמת קלוד של אנת'רופיק. המגמה הזו העלתה לא מעט סוגיות אתיות וחוקיות, אבל עכשיו נראה שאנת'רופיק לא מחכה, ומחרבת את החגיגה והתוכניות של חלק מהמשתמשים. שני משפטים שמשנים את הכללים \"אנת'רופיק […] The post לאנת'רופיק נמאס והיא לא תאפשר יותר הנדסה לאחור appeared first",
       "importance": 7,
       "topics": [
         "AI",
-        "ביוטכנולוגיה",
-        "מחקר"
+        "Anthropic",
+        "Claude"
       ],
-      "published": "Sat, 31 Oct 2026 10:00:00 +0000"
+      "published": "Sun, 01 Nov 2026 08:16:11 +0000"
     },
     {
       "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
@@ -207,9 +194,9 @@
       "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
       "importance": 6,
       "topics": [
-        "xAI",
+        "AI",
         "רגולציה",
-        "data centers"
+        "xAI"
       ],
       "published": "Sat, 31 Oct 2026 21:17:03 +0000"
     },
@@ -222,7 +209,7 @@
       "topics": [
         "AI",
         "Meta",
-        "agents"
+        "סוכנים ממוכנים"
       ],
       "published": "Sat, 31 Oct 2026 10:30:00 +0000"
     },
@@ -234,8 +221,8 @@
       "importance": 6,
       "topics": [
         "AI",
-        "סטארטאפ",
-        "השקעה"
+        "סטארטאפים",
+        "Fiverr"
       ],
       "published": "Sat, 31 Oct 2026 13:03:36 +0000"
     }
