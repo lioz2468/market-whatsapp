@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-11-02T06:44:58.098515+00:00",
+  "generated_at": "2026-11-02T10:50:23.084566+00:00",
   "lookback_hours": 24,
   "world": [
-    {
-      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-      "summary": "US president warns Iran to make a deal, as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
-      "importance": 9,
-      "topics": [
-        "איראן",
-        "ארה״ב",
-        "ביטחון"
-      ],
-      "published": "Mon, 02 Nov 2026 00:00:00 +0000"
-    },
     {
       "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
       "source": "NPR World",
@@ -22,9 +9,9 @@
       "summary": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
       "importance": 8,
       "topics": [
-        "ארה״ב",
         "איראן",
-        "מזרח תיכון"
+        "ארה\"ב",
+        "קטר"
       ],
       "published": "Sun, 01 Nov 2026 17:19:13 -0500"
     },
@@ -36,100 +23,114 @@
       "importance": 8,
       "topics": [
         "ישראל",
-        "גזה",
+        "עזה",
         "חמאס"
       ],
       "published": "Sun, 01 Nov 2026 17:06:32 GMT"
     },
     {
-      "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
-      "summary": "Ukrainian users receive fake warnings of nuclear threats, while Moscow reports 'false information' on its app.",
+      "title": "קיפאון מדיני לצד המשך הסיכולים: כך מקשה הפלונטר הפוליטי על עתיד עזה",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/byp8vrh6fg",
+      "summary": "למרות הלחץ האמריקני לקדם את תוכנית השלום של טראמפ, גורמים שמעורים בפרטים מתארים מבוי סתום במגעים. חמאס אינו מתפרק מנשקו ומנסה להשתקם, צה\"ל ממשיך כרגיל בסיכולים ממוקדים. ההיערכות להעברת האחריות על פרויקט איטום המנהרות מתבצעת ברקע חוסר הוודאות הפוליטית בישראל",
       "importance": 8,
+      "topics": [
+        "ישראל",
+        "עזה",
+        "דיפלומטיה"
+      ],
+      "published": "Mon, 02 Nov 2026 12:30:28 +0200"
+    },
+    {
+      "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
+      "summary": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
+      "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "סייבר"
+        "הסכמי שלום"
       ],
-      "published": "Mon, 02 Nov 2026 01:40:50 +0000"
+      "published": "Mon, 02 Nov 2026 04:42:11 -0500"
     },
     {
-      "title": "טראמפ מחפש אשמים בכישלון המלחמה באיראן: \"בוחן את תפקוד הגסת' וקיין\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bjd0rus6zx",
-      "summary": "\"אטלנטיק\": נשיא ארה\"ב זועם על התמשכות המערכה, שיועציו הבטיחו שתסתיים בניצחון מהיר - וחושש מהמחיר הפוליטי לקראת בחירות האמצע מחר. מקורביו טוענים כי שר ההגנה מציג בפניו תמונה אופטימית מדי: \"אומר לו מה שהוא רוצה לשמוע\". טראמפ שוקל לחדש את התקיפות מיד אחרי הבחירות - ובוחן תוכניות למתקפה שתימשך שעות, ימים או שבועות: \"נצטרך להנחית עליהם את הפטיש\"",
-      "importance": 8,
-      "topics": [
-        "ארה״ב",
-        "איראן",
-        "ביטחון"
-      ],
-      "published": "Mon, 02 Nov 2026 06:31:30 +0200"
-    },
-    {
-      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
       "importance": 7,
       "topics": [
-        "קריפטוקרנסי",
+        "קריפטו",
         "סייבר",
-        "בנקאות דיגיטלית"
+        "צפון קוריאה"
       ],
-      "published": "Mon, 02 Nov 2026 03:32:14 GMT"
+      "published": "Mon, 02 Nov 2026 07:42:33 GMT"
     },
     {
-      "title": "Bulgaria has its first elected female president",
+      "title": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
-      "summary": "Iliana Iotova has won Bulgaria’s presidential runoff, becoming the country’s first elected female president.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss",
+      "summary": "One-way drone attacks have killed or wounded 484 civilians since February, Khartoum says.",
       "importance": 7,
       "topics": [
-        "בלגריה",
-        "פוליטיקה",
-        "נשים"
+        "סודאן",
+        "אתיופיה",
+        "קונפליקט"
       ],
-      "published": "Mon, 02 Nov 2026 04:25:56 +0000"
+      "published": "Mon, 02 Nov 2026 10:25:22 +0000"
     },
     {
-      "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
+      "title": "As aid situation worsens, displaced Sudanese worry about warnings of famine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
-      "summary": "Italian wonderkid wins drivers' championship at 20 years and 68 days, finishing third at the Mexico City Grand Prix.",
+      "url": "https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss",
+      "summary": "Sudan's displaced people now face a mounting food crisis, with warnings of famine.",
       "importance": 7,
       "topics": [
-        "ספורט",
-        "פורמולה 1",
-        "איטליה"
+        "סודאן",
+        "משבר הומניטרי",
+        "רעב"
       ],
-      "published": "Mon, 02 Nov 2026 03:51:57 +0000"
+      "published": "Mon, 02 Nov 2026 10:16:58 +0000"
     },
     {
-      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+      "title": "Thousands evacuated as India braces for second cyclone in a week",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
-      "summary": "Election body says deadlocked result won't be undermined even if foreign interference claims are found to be true.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week?traffic_source=rss",
+      "summary": "Cyclone Murasu expected to hit near Ongole late Monday with wind speeds of 100-110km/h, Meteorological Department says.",
       "importance": 7,
       "topics": [
+        "הודו",
+        "אסון טבע",
+        "מזג אוויר"
+      ],
+      "published": "Mon, 02 Nov 2026 08:29:29 +0000"
+    },
+    {
+      "title": "טאקר קרלסון: \"נתניהו נואש, ומפעיל לחץ כבד על טראמפ לתקוף את איראן בגרעין\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hj1ejhhtgx",
+      "summary": "\"מלחמת העולם השלישית בלתי נמנעת\": על-רקע המתיחות באזור, טען איש התקשורת האמריקני הימני-קיצוני כי רה\"מ נתניהו מנסה לגרור את הנשיא טראמפ למלחמה שתועיל לו פוליטית: \"אחרי תוצאות הבחירות בשבוע שעבר הוא לא יכול להקים ממשלה, אלא אם טראמפ יתערב ישירות בפוליטיקה הישראלית\"",
+      "importance": 7,
+      "topics": [
+        "גיאופוליטיקה",
         "ישראל",
-        "בחירות",
-        "פוליטיקה"
+        "איראן"
       ],
-      "published": "Mon, 02 Nov 2026 00:29:16 +0000"
+      "published": "Mon, 02 Nov 2026 10:10:23 +0200"
     },
     {
-      "title": "Nine killed as small jet crashes on Florida street",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-      "importance": 6,
+      "title": "אוקראינה: האקרים פרצו לאפליקציית החירום ושלחו התרעות על איום גרעיני, נשק כימי ועלייה בקרינה",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/bjmkh3htfx",
+      "summary": "לילה מתוח בקייב אחרי \"הפסקת האש של מלניה\" ב\"עיר המוקשים\": יישומון ההתרעות נפרץ ותושבים קיבלו אזהרות כוזבות על \"איום של מתקפה כימית\", \"התרעה גרעינית\" ו\"קרבות ברחובות\". הם נקראו \"אל תצאו החוצה!\", הרשויות הודיעו: \"היישומון הותקף, אין איום קרינה, הישארו רגועים!\". מוסקבה טוענת למתקפת סייבר גם על היישומון שלה, תושבים קיבלו הודעה: \"רחפנים עם ראשי קרב גרעיניים שוגרו לכל מחוזות רוסיה, תאגרו מזון ל-3 שבועות",
+      "importance": 7,
       "topics": [
-        "ארה״ב",
-        "אסון"
+        "אוקראינה",
+        "סייבר",
+        "רוסיה"
       ],
-      "published": "Mon, 02 Nov 2026 02:59:02 GMT"
+      "published": "Mon, 02 Nov 2026 09:38:57 +0200"
     }
   ],
   "business": [
@@ -210,33 +211,87 @@
         "שוק מניות"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Oil prices fall amid reports that the U.S. and Iran are both seeking diplomacy",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "מחירי הנפט יורדים היום אחרי דיווחים שארה\"ב ואיראן מנסות לקדם דיפלומטיה. פחות מתח במזרח התיכון פירושו פחות פרמיית סיכון על הנפט - וזה מוריד מחירים.\n\nמי שלא חושב על זה מיד: חברות התעופה, חברות הספנות וכל תעשייה שעלויות האנרגיה שלה תלויות במחיר הנפט - עבורן זה חדשות טובות. מנגד, מניות חברות הנפט יספגו לחץ.\n\nשווה לעקוב - שיחות דיפלומטיה יכולות להתהפך מהר.",
+      "importance": 8,
+      "topics": [
+        "נפט",
+        "גיאופוליטיקה",
+        "ריבית"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
+      "summary": "מנכ\"ל Ryanair מזהיר שמחירי הטיסות באירופה עשויים לעלות ב-20% ב-2027, על רקע עלייה של 2.2 מיליארד דולר בעלויות הדלק של החברה.\n\nזה לא רק חדשות רעות לחופשות - כשהטיסות מתייקרות, אנשים טסים פחות, ופחות תיירים אומר פחות הכנסות למלונות, לחברות השכרת רכב ולאתרי התיירות. מי שיחטוף את המכה הכי קשה הן חברות התיירות הקטנות שבנו את המודל העסקי שלהן על כרטיסים זולים.",
+      "importance": 8,
+      "topics": [
+        "תעופה",
+        "דלק",
+        "אינפלציה",
+        "צרכנות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "אפולו השיקה פלטפורמת אשראי פרטי אירופאית בהיקף של 10 מיליארד יורו, עם גיבוי של אבו דאבי ומשקיעים גלובליים גדולים נוספים.\n\nזה חלק ממגמה שמואצת בשנים האחרונות: הבנקים המסורתיים נסוגים מהלוואות גדולות בגלל רגולציה הדוקה יותר, וחברות כמו אפולו נכנסות לחלל הזה. הכסף הגדול מוצא את דרכו לשווקים דרך ערוצים שרוב האנשים לא רואים ולא עוקבים אחריהם.\n\nמי שכדאי לשים לב: בנקים אירופאים, שבסביבה כזו הולכים ומאבדים נתח מהשוק.",
+      "importance": 8,
+      "topics": [
+        "אשראי פרטי",
+        "פיננסים",
+        "השקעות"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
+    {
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "אבטחה",
+        "deepfake"
+      ],
+      "published": "Mon, 02 Nov 2026 10:00:00 +0000"
+    },
     {
       "title": "North Korea linked to massive Binance crypto heist",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
       "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other […]",
-      "importance": 8,
+      "importance": 7,
       "topics": [
         "אבטחה",
         "קריפטו",
-        "Binance"
+        "הקר"
       ],
       "published": "2026-11-01T09:33:11-05:00"
     },
     {
-      "title": "לאנת'רופיק נמאס והיא לא תאפשר יותר הנדסה לאחור",
+      "title": "ככה תבנו מפעל AI עם סוכנים שמדברים אחד עם השני – בלי להיתקע ביניהם",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/anthropic-claude-code-blocks-game-reverse-engineering/",
-      "summary": "בשבועות האחרונים הוצפה הרשת בסיפורים של אנשים שעשו הנדסה לאחור של כלים, משחקים ואפילו של מערכת ההפעלה של הטלוויזיה בעזרת כלי קידוד עם AI דוגמת קלוד של אנת'רופיק. המגמה הזו העלתה לא מעט סוגיות אתיות וחוקיות, אבל עכשיו נראה שאנת'רופיק לא מחכה, ומחרבת את החגיגה והתוכניות של חלק מהמשתמשים. שני משפטים שמשנים את הכללים \"אנת'רופיק […] The post לאנת'רופיק נמאס והיא לא תאפשר יותר הנדסה לאחור appeared first",
+      "url": "https://www.geektime.co.il/build-ai-factory-multi-agent-collaboration/",
+      "summary": "מאת עופר מנדלביץ' בשנה האחרונה סוכני קוד התקדמו מהשלמת שורות קוד לביצוע משימות שלמות – מהתכנון ועד ה-PR. הצעד הבא הוא בניית מפעל AI: צוות של סוכנים מתמחים, שכל אחד מהם רץ בסביבה משלו עם המודל והכלים שלו, והם עובדים יחד כדי לפתור את אותה הבעיה. לדוגמה, סוכן אחד מתכנן, אחר מממש, שלישי בודק, וכולם […] The post ככה תבנו מפעל AI עם סוכנים שמדברים אחד עם השני – בלי להיתקע ביניהם appeared first on גיקטיי",
       "importance": 7,
       "topics": [
         "AI",
-        "Anthropic"
+        "סוכנים",
+        "מחקר"
       ],
-      "published": "Sun, 01 Nov 2026 08:16:11 +0000"
+      "published": "Mon, 02 Nov 2026 09:45:26 +0000"
     },
     {
       "title": "Prop 45 in California could be hiding a loophole for data centers",
@@ -247,7 +302,7 @@
       "topics": [
         "רגולציה",
         "תשתיות דיגיטליות",
-        "קליפורניה"
+        "מדיניות"
       ],
       "published": "2026-11-01T08:00:00-05:00"
     },
@@ -258,36 +313,11 @@
       "summary": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.",
       "importance": 6,
       "topics": [
-        "רגולציה",
+        "מדיניות",
         "תשתיות דיגיטליות",
-        "פוליטיקה"
+        "רגולציה"
       ],
       "published": "Sun, 01 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "title": "ההתרסקות של גוגל היא אולי הדבר הכי טוב שקרה לאינטרנט שאתם אוהבים",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/googles-crash-might-be-great-for-the-internet-you-love/",
-      "summary": "סוף השבוע האחרון היה אחד השחורים ביותר של חברות הטכנולוגיה בשנים האחרונות, כאשר חברות שונות – גדולות יותר וגדולות פחות – התרסקו לאחר פרסום הדוחות הרבעוניים הלא-רעים שלהן. אבל לצד אינטל שצנחה בכמעט 30% בעקבות תחזיות מאכזבות, הייתה עוד מניה שהתנהגה בצורה מאוד מעניינת, וזו המניה של אלפבית, חברת האם של גוגל. למרות כמה תוצאות […] The post ההתרסקות של גוגל היא אולי הדבר הכי טוב שקרה לאינטרנט שאתם אוהבים",
-      "importance": 6,
-      "topics": [
-        "Google",
-        "שוק הון"
-      ],
-      "published": "Sun, 01 Nov 2026 09:13:07 +0000"
-    },
-    {
-      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-      "importance": 5,
-      "topics": [
-        "AI",
-        "chatbots",
-        "בטיחות"
-      ],
-      "published": "Sun, 01 Nov 2026 10:30:00 +0000"
     }
   ]
 }
