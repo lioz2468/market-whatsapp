@@ -1,178 +1,230 @@
 {
-  "generated_at": "2026-11-01T10:18:07.251369+00:00",
+  "generated_at": "2026-11-02T06:44:58.098515+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "importance": 8,
+      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "summary": "US president warns Iran to make a deal, as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
+      "importance": 9,
       "topics": [
-        "קונגו",
-        "אבולה",
-        "בריאות"
+        "איראן",
+        "ארה״ב",
+        "ביטחון"
       ],
-      "published": "Sat, 31 Oct 2026 15:16:20 GMT"
+      "published": "Mon, 02 Nov 2026 00:00:00 +0000"
     },
     {
-      "title": "נתניהו וטראמפ דיברו, הנשיא: \"נותרו לאיראן אתר או שניים. נטפל ב-10 דקות\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hkinj5xtgl",
-      "summary": "השבוע ייערכו בחירות האמצע בארה\"ב, שמשמשות מעין משאל עם על תפקודו של הנשיא, שהקים עליו מתנגדים למלחמה משני צידי המפה הפוליטית. בצל הפלונטר הפוליטי בישראל מתעצמות ההכנות לאפשרות של חידוש האש, \"וול סטריט ג'ורנל\": השיחה - בצל היערכות ארה\"ב לחידוש המלחמה. טראמפ: \"יש לנו תוכנית\"",
+      "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+      "summary": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
+      "importance": 8,
+      "topics": [
+        "ארה״ב",
+        "איראן",
+        "מזרח תיכון"
+      ],
+      "published": "Sun, 01 Nov 2026 17:19:13 -0500"
+    },
+    {
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
       "importance": 8,
       "topics": [
         "ישראל",
-        "איראן",
-        "טראמפ"
+        "גזה",
+        "חמאס"
       ],
-      "published": "Sun, 01 Nov 2026 01:18:29 +0200"
+      "published": "Sun, 01 Nov 2026 17:06:32 GMT"
     },
     {
-      "title": "A new political era in the Southern Philippines",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines",
-      "summary": "A new local government has taken its seat in the southern Philippines, in a step that marks a milestone in the peace process for a conflict that has lasted some 80 years.",
-      "importance": 7,
-      "topics": [
-        "שלום",
-        "פיליפינים",
-        "גיאופוליטיקה"
-      ],
-      "published": "Sat, 31 Oct 2026 17:14:32 -0400"
-    },
-    {
-      "title": "Key takeaways from this week's political meeting in Beijing",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-      "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
-      "importance": 7,
-      "topics": [
-        "סין",
-        "גיאופוליטיקה",
-        "ממשל"
-      ],
-      "published": "Sat, 31 Oct 2026 14:42:33 -0400"
-    },
-    {
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "importance": 7,
+      "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+      "summary": "Ukrainian users receive fake warnings of nuclear threats, while Moscow reports 'false information' on its app.",
+      "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "קונפליקט"
+        "סייבר"
       ],
-      "published": "Sat, 31 Oct 2026 19:22:26 GMT"
+      "published": "Mon, 02 Nov 2026 01:40:50 +0000"
     },
     {
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "importance": 7,
-      "topics": [
-        "הודו",
-        "בחירות",
-        "משבר דמוקרטי"
-      ],
-      "published": "Sun, 01 Nov 2026 07:00:55 GMT"
-    },
-    {
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "importance": 7,
-      "topics": [
-        "סרביה",
-        "הונגריה",
-        "בחירות"
-      ],
-      "published": "Sun, 01 Nov 2026 00:55:06 GMT"
-    },
-    {
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "importance": 7,
+      "title": "טראמפ מחפש אשמים בכישלון המלחמה באיראן: \"בוחן את תפקוד הגסת' וקיין\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/bjd0rus6zx",
+      "summary": "\"אטלנטיק\": נשיא ארה\"ב זועם על התמשכות המערכה, שיועציו הבטיחו שתסתיים בניצחון מהיר - וחושש מהמחיר הפוליטי לקראת בחירות האמצע מחר. מקורביו טוענים כי שר ההגנה מציג בפניו תמונה אופטימית מדי: \"אומר לו מה שהוא רוצה לשמוע\". טראמפ שוקל לחדש את התקיפות מיד אחרי הבחירות - ובוחן תוכניות למתקפה שתימשך שעות, ימים או שבועות: \"נצטרך להנחית עליהם את הפטיש\"",
+      "importance": 8,
       "topics": [
         "ארה״ב",
-        "בחירות",
-        "משפט"
+        "איראן",
+        "ביטחון"
       ],
-      "published": "Sun, 01 Nov 2026 00:27:33 GMT"
+      "published": "Mon, 02 Nov 2026 06:31:30 +0200"
     },
     {
-      "title": "US midterms: 2 days to go – what polls say as Trump makes final push",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail?traffic_source=rss",
-      "summary": "Democrats remain ahead in national polls as Trump and candidates make their final push in the days before polling day.",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
       "importance": 7,
+      "topics": [
+        "קריפטוקרנסי",
+        "סייבר",
+        "בנקאות דיגיטלית"
+      ],
+      "published": "Mon, 02 Nov 2026 03:32:14 GMT"
+    },
+    {
+      "title": "Bulgaria has its first elected female president",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
+      "summary": "Iliana Iotova has won Bulgaria’s presidential runoff, becoming the country’s first elected female president.",
+      "importance": 7,
+      "topics": [
+        "בלגריה",
+        "פוליטיקה",
+        "נשים"
+      ],
+      "published": "Mon, 02 Nov 2026 04:25:56 +0000"
+    },
+    {
+      "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
+      "summary": "Italian wonderkid wins drivers' championship at 20 years and 68 days, finishing third at the Mexico City Grand Prix.",
+      "importance": 7,
+      "topics": [
+        "ספורט",
+        "פורמולה 1",
+        "איטליה"
+      ],
+      "published": "Mon, 02 Nov 2026 03:51:57 +0000"
+    },
+    {
+      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+      "summary": "Election body says deadlocked result won't be undermined even if foreign interference claims are found to be true.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "בחירות",
+        "פוליטיקה"
+      ],
+      "published": "Mon, 02 Nov 2026 00:29:16 +0000"
+    },
+    {
+      "title": "Nine killed as small jet crashes on Florida street",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+      "importance": 6,
       "topics": [
         "ארה״ב",
-        "בחירות",
-        "טראמפ"
+        "אסון"
       ],
-      "published": "Sun, 01 Nov 2026 08:47:19 +0000"
-    },
-    {
-      "title": "Iran security chief says US letter signals ‘positive’ shift",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
-      "summary": "US Vice-President JD Vance has sent a letter to Iran’s security chief in a reported effort to revive talks.",
-      "importance": 7,
-      "topics": [
-        "אירן",
-        "ארה\"ב",
-        "דיפלומטיה"
-      ],
-      "published": "Sun, 01 Nov 2026 08:14:00 +0000"
+      "published": "Mon, 02 Nov 2026 02:59:02 GMT"
     }
   ],
-  "business": [],
+  "business": [
+    {
+      "title": "Companies promised AI gains — here's how the payoff showed up in earnings",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "summary": "AI כבר מראה תוצאות בדו\"חות הרבעוניים. Santander, Novartis ועוד חברות גדולות מדווחות על עלייה בהכנסות, קיצוץ עלויות ושיפור ברווחיות - וזה מגיע מהטמעות AI קונקרטיות, לא מהבטחות עתידיות.\n\nמה שמעניין פה: הרוויחות לא נופלות רק על חברות הטק. בנקים, פארמה, תעשייה - כל מי שהטמיע AI בתהליכים פנימיים מתחיל לראות את זה בשורת הרווח. זה הרגע שהשוק ציפה לו.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "תשואות",
+        "טכנולוגיה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "פריצת הסייבר הגדולה בהיסטוריה של הקריפטו - ו-Binance חזרה לפעול.\n\nהבורסה הגדולה בעולם לקריפטו חוותה פריצה בקנה מידה שלא נראה כמוהו, והחזירה כבר כ-95% מהנכסים שנגנבו. זה נשמע כמו ניצחון - אבל השאלה האמיתית היא איך זה בכלל קרה, ואיפה הנכסים האלה הגיעו ממקום אחר.\n\nההשלכה שפחות מדברים עליה: כל מוסד פיננסי שכרגע שוקל להיכנס לקריפטו - בנק, קרן פנסיה, חברת ביטוח - הכתבה הזו נמצאת אצלם על השולחן הבוקר. אמון הוא הנכס הכי קשה לבנות, והכי קל לאבד.",
+      "importance": 8,
+      "topics": [
+        "קריפטו",
+        "אבטחה",
+        "זרימת הון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "OPEC+ keeps December oil output targets steady",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "יצור הנפט של OPEC+ לדצמבר נשאר ללא שינוי - ההחלטה התקבלה בפגישה מקוונת של שבע המדינות המרכזיות בקרטל. הרקע מעניין: מדינות המפרץ חזרו להגדיל את היצוא אחרי חודשים של שיבושים בגלל המלחמה עם איראן. כלומר, ההיצע בשוק עולה בלי שהמכסות השתנו רשמית. זה לחץ כלפי מטה על מחיר הנפט - מה שמשפיע על כל מי שתלוי בו, מחברות תעופה ועד מדינות שמממנות את התקציב שלהן על בסיס מחיר החבית.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
+        "נפט",
+        "מקרו"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Israeli fintech co Capitolis buys eSecLending for $200m",
+      "source": "גלובס שוק ההון",
+      "url": "",
+      "summary": "Capitolis, פינטק ישראלי שמתמחה בניהול הון ומסחר מוסדי, רכשה את eSecLending תמורת 200 מיליון דולר. הרוכשת פועלת בתחום ייעול ההון לבנקים ומוסדות פיננסיים גדולים, ועכשיו היא מוסיפה לפלטפורמה שלה גם הלוואות ניירות ערך - תחום שנוגע ישירות לאופן שבו קרנות גדולות מייצרות תשואה על נכסים שיושבים אצלן. חברת ההשקעות Parthenon Capital, שמכרה את eSecLending, גם משקיעה בעסקה בחזרה ב-Capitolis - מה שאומר שהיא ממשיכה לרצות חשיפה לצמיחה הזו. פינטק ישראלי שקונה תשתית פיננסית בחו\"ל בסדר גודל כזה - זה לא קורה כל יום.",
+      "importance": 8,
+      "topics": [
+        "פינטק",
+        "M&A",
+        "ניירות ערך"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "These Senate races may help determine the fate of Social Security",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
+      "summary": "קרן הפנסיה הממשלתית האמריקאית (Social Security) עלולה להתרוקן עד 2032. זה לא כותרת פוליטית - זה תאריך יעד ממשי שנמצא בתוך שמונה שנים.\n\nהסנאטורים שייבחרו בנובמבר הם אלה שיצטרכו להחליט: מעלים מסים, מקצצים קצבאות, או משלבים בין השניים. כל אפשרות כזו מגדירה מחדש איך עשרות מיליוני אמריקאים מתכננים את הגיל השלישי שלהם.\n\nההשפעה העקיפה: שינוי בקצבאות משפיע ישירות על הצריכה הפרטית בארה\"ב - וזה משהו ששווקים רחוקים יותר ממה שנדמה מלתמחר.",
+      "importance": 8,
+      "topics": [
+        "פנסיות",
+        "רגולציה",
+        "ממשל"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "This is the biggest threat to the AI-powered bull market",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+      "summary": "השוק עלה בחדות ב-2026 על גב רווחי חברות שבירו שיאים - אבל MarketWatch מזהירים שב-2027 המנוע הזה עלול להיעצר.\n\nהבעיה: כשצמיחת הרווחים מאטה, השוק צריך הצדקה אחרת לרמות המחיר הגבוהות שהוא נסחר בהן. בלי זה, הרבה מהאופטימיות סביב ה-AI מתחילה להיראות כמו ריצה קדימה.\n\nמי שיושפע בשקט - חברות ענן, ספקי תשתיות AI, וכל מי שהמחיר שלו מגלם ציפיות ורודות לשנים קדימה.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "רווחים",
+        "שוק מניות"
+      ],
+      "tag": "גלובלי"
+    }
+  ],
   "tech": [
     {
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "title": "North Korea linked to massive Binance crypto heist",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less […]",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other […]",
       "importance": 8,
       "topics": [
         "אבטחה",
         "קריפטו",
         "Binance"
       ],
-      "published": "2026-10-31T14:40:32-04:00"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "גיוס הון"
-      ],
-      "published": "Sat, 31 Oct 2026 16:12:55 +0000"
-    },
-    {
-      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-      "importance": 7,
-      "topics": [
-        "אבטחה",
-        "AI",
-        "מלוות"
-      ],
-      "published": "Sat, 31 Oct 2026 12:00:00 +0000"
+      "published": "2026-11-01T09:33:11-05:00"
     },
     {
       "title": "לאנת'רופיק נמאס והיא לא תאפשר יותר הנדסה לאחור",
@@ -182,49 +234,60 @@
       "importance": 7,
       "topics": [
         "AI",
-        "Anthropic",
-        "Claude"
+        "Anthropic"
       ],
       "published": "Sun, 01 Nov 2026 08:16:11 +0000"
     },
     {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and make it more difficult for residents to challenge those projects in court. Proponent",
       "importance": 6,
       "topics": [
-        "AI",
         "רגולציה",
-        "xAI"
+        "תשתיות דיגיטליות",
+        "קליפורניה"
       ],
-      "published": "Sat, 31 Oct 2026 21:17:03 +0000"
+      "published": "2026-11-01T08:00:00-05:00"
     },
     {
-      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "title": "What Democrats Can Learn From New York’s Data Center Moratorium",
       "source": "Wired",
-      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
+      "summary": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.",
       "importance": 6,
       "topics": [
-        "AI",
-        "Meta",
-        "סוכנים ממוכנים"
+        "רגולציה",
+        "תשתיות דיגיטליות",
+        "פוליטיקה"
       ],
-      "published": "Sat, 31 Oct 2026 10:30:00 +0000"
+      "published": "Sun, 01 Nov 2026 11:00:00 +0000"
     },
     {
-      "title": "סטארטאפ ישראלי שנבנה כולו על ידי AI קיבל השקעה ממאור שלמה ומיכה קאופמן מ-fiverr",
+      "title": "ההתרסקות של גוגל היא אולי הדבר הכי טוב שקרה לאינטרנט שאתם אוהבים",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/plnty-is-out-of-stealth-with-a-check-from-base44-founder/",
-      "summary": "צוותי קריאייטיב מכירים את הכאב הזה מקרוב: הקפיצה הבלתי פוסקת בין עשרות כלים ופלטפורמות כדי להגיע לתוצר הסופי, במיוחד כשמשלבים כלי AI שונים בתהליך. עכשיו, שני יזמים ישראלים מגיעים לפתור את הבלאגן עם סביבת עבודה אחת שמרכזת הכל, כשמה שמעניין הוא שהם בנו אותה לגמרי בעצמם, בלי לכתוב שורת קוד אחת. נבנה בימים הראשונים של […] The post סטארטאפ ישראלי שנבנה כולו על ידי AI קיבל השקעה ממאור שלמה ומיכה קאופמן ",
+      "url": "https://www.geektime.co.il/googles-crash-might-be-great-for-the-internet-you-love/",
+      "summary": "סוף השבוע האחרון היה אחד השחורים ביותר של חברות הטכנולוגיה בשנים האחרונות, כאשר חברות שונות – גדולות יותר וגדולות פחות – התרסקו לאחר פרסום הדוחות הרבעוניים הלא-רעים שלהן. אבל לצד אינטל שצנחה בכמעט 30% בעקבות תחזיות מאכזבות, הייתה עוד מניה שהתנהגה בצורה מאוד מעניינת, וזו המניה של אלפבית, חברת האם של גוגל. למרות כמה תוצאות […] The post ההתרסקות של גוגל היא אולי הדבר הכי טוב שקרה לאינטרנט שאתם אוהבים",
       "importance": 6,
       "topics": [
-        "AI",
-        "סטארטאפים",
-        "Fiverr"
+        "Google",
+        "שוק הון"
       ],
-      "published": "Sat, 31 Oct 2026 13:03:36 +0000"
+      "published": "Sun, 01 Nov 2026 09:13:07 +0000"
+    },
+    {
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "importance": 5,
+      "topics": [
+        "AI",
+        "chatbots",
+        "בטיחות"
+      ],
+      "published": "Sun, 01 Nov 2026 10:30:00 +0000"
     }
   ]
 }
