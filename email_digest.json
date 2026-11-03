@@ -1,45 +1,58 @@
 {
-  "generated_at": "2026-11-02T10:50:23.084566+00:00",
+  "generated_at": "2026-11-03T06:45:06.809361+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
-      "summary": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
+      "title": "US strikes Iran ahead of midterm elections",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "importance": 8,
+      "topics": [
+        "ארצות הברית",
+        "איראן",
+        "מתח צבאי"
+      ],
+      "published": "Tue, 03 Nov 2026 03:39:08 GMT"
+    },
+    {
+      "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
+      "summary": "Nearly 1,600 Palestinians have been killed in Gaza since a US-brokered 'ceasefire' took effect in October last year.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "עזה",
+        "סכסוך"
+      ],
+      "published": "Tue, 03 Nov 2026 05:02:34 +0000"
+    },
+    {
+      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
+      "summary": "Several explosions heard on Qeshm Island and in Bandar Lengeh as US media report US military strikes in Hormuz.",
       "importance": 8,
       "topics": [
         "איראן",
         "ארה\"ב",
-        "קטר"
+        "סכסוך"
       ],
-      "published": "Sun, 01 Nov 2026 17:19:13 -0500"
+      "published": "Tue, 03 Nov 2026 02:25:02 +0000"
     },
     {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "עזה",
-        "חמאס"
-      ],
-      "published": "Sun, 01 Nov 2026 17:06:32 GMT"
-    },
-    {
-      "title": "קיפאון מדיני לצד המשך הסיכולים: כך מקשה הפלונטר הפוליטי על עתיד עזה",
+      "title": "כשנה לאחר הסבב הקודם: ארה\"ב, רוסיה ואוקראינה ייפגשו בשבוע הבא באבו דאבי",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/byp8vrh6fg",
-      "summary": "למרות הלחץ האמריקני לקדם את תוכנית השלום של טראמפ, גורמים שמעורים בפרטים מתארים מבוי סתום במגעים. חמאס אינו מתפרק מנשקו ומנסה להשתקם, צה\"ל ממשיך כרגיל בסיכולים ממוקדים. ההיערכות להעברת האחריות על פרויקט איטום המנהרות מתבצעת ברקע חוסר הוודאות הפוליטית בישראל",
+      "url": "https://www.ynet.co.il/news/article/bjip6quafe",
+      "summary": "סטיב וויטקוף, שליחו המיוחד של נשיא ארה\"ב דונלד טראמפ, הודיע על חידוש השיחות באיחוד האמירויות- שלפי בכיר אמריקני יעסקו בצעדים הומניטריים, סיום המלחמה וב\"יום שאחרי\". בלומברג: למרות המתיחות בין טראמפ לזלנסקי, ארה\"ב מתכוונת לבקש מנאט\"ו לסייע במימון אספקת הנשק לאוקראינה",
       "importance": 8,
       "topics": [
-        "ישראל",
-        "עזה",
-        "דיפלומטיה"
+        "אוקראינה",
+        "רוסיה",
+        "ארה״ב"
       ],
-      "published": "Mon, 02 Nov 2026 12:30:28 +0200"
+      "published": "Tue, 03 Nov 2026 05:09:03 +0200"
     },
     {
       "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
@@ -50,165 +63,88 @@
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "הסכמי שלום"
+        "הפוגה"
       ],
       "published": "Mon, 02 Nov 2026 04:42:11 -0500"
     },
     {
-      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
-      "importance": 7,
-      "topics": [
-        "קריפטו",
-        "סייבר",
-        "צפון קוריאה"
-      ],
-      "published": "Mon, 02 Nov 2026 07:42:33 GMT"
-    },
-    {
-      "title": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss",
-      "summary": "One-way drone attacks have killed or wounded 484 civilians since February, Khartoum says.",
-      "importance": 7,
-      "topics": [
-        "סודאן",
-        "אתיופיה",
-        "קונפליקט"
-      ],
-      "published": "Mon, 02 Nov 2026 10:25:22 +0000"
-    },
-    {
-      "title": "As aid situation worsens, displaced Sudanese worry about warnings of famine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss",
-      "summary": "Sudan's displaced people now face a mounting food crisis, with warnings of famine.",
-      "importance": 7,
-      "topics": [
-        "סודאן",
-        "משבר הומניטרי",
-        "רעב"
-      ],
-      "published": "Mon, 02 Nov 2026 10:16:58 +0000"
-    },
-    {
-      "title": "Thousands evacuated as India braces for second cyclone in a week",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week?traffic_source=rss",
-      "summary": "Cyclone Murasu expected to hit near Ongole late Monday with wind speeds of 100-110km/h, Meteorological Department says.",
-      "importance": 7,
-      "topics": [
-        "הודו",
-        "אסון טבע",
-        "מזג אוויר"
-      ],
-      "published": "Mon, 02 Nov 2026 08:29:29 +0000"
-    },
-    {
-      "title": "טאקר קרלסון: \"נתניהו נואש, ומפעיל לחץ כבד על טראמפ לתקוף את איראן בגרעין\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hj1ejhhtgx",
-      "summary": "\"מלחמת העולם השלישית בלתי נמנעת\": על-רקע המתיחות באזור, טען איש התקשורת האמריקני הימני-קיצוני כי רה\"מ נתניהו מנסה לגרור את הנשיא טראמפ למלחמה שתועיל לו פוליטית: \"אחרי תוצאות הבחירות בשבוע שעבר הוא לא יכול להקים ממשלה, אלא אם טראמפ יתערב ישירות בפוליטיקה הישראלית\"",
-      "importance": 7,
-      "topics": [
-        "גיאופוליטיקה",
-        "ישראל",
-        "איראן"
-      ],
-      "published": "Mon, 02 Nov 2026 10:10:23 +0200"
-    },
-    {
-      "title": "אוקראינה: האקרים פרצו לאפליקציית החירום ושלחו התרעות על איום גרעיני, נשק כימי ועלייה בקרינה",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bjmkh3htfx",
-      "summary": "לילה מתוח בקייב אחרי \"הפסקת האש של מלניה\" ב\"עיר המוקשים\": יישומון ההתרעות נפרץ ותושבים קיבלו אזהרות כוזבות על \"איום של מתקפה כימית\", \"התרעה גרעינית\" ו\"קרבות ברחובות\". הם נקראו \"אל תצאו החוצה!\", הרשויות הודיעו: \"היישומון הותקף, אין איום קרינה, הישארו רגועים!\". מוסקבה טוענת למתקפת סייבר גם על היישומון שלה, תושבים קיבלו הודעה: \"רחפנים עם ראשי קרב גרעיניים שוגרו לכל מחוזות רוסיה, תאגרו מזון ל-3 שבועות",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
       "importance": 7,
       "topics": [
         "אוקראינה",
-        "סייבר",
-        "רוסיה"
+        "רוסיה",
+        "פגיעה אזרחית"
       ],
-      "published": "Mon, 02 Nov 2026 09:38:57 +0200"
+      "published": "Tue, 03 Nov 2026 01:56:27 GMT"
+    },
+    {
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "חרסון"
+      ],
+      "published": "Mon, 02 Nov 2026 17:33:19 GMT"
+    },
+    {
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "importance": 7,
+      "topics": [
+        "ארצות הברית",
+        "דרום אפריקה",
+        "סחר בינלאומי"
+      ],
+      "published": "Tue, 03 Nov 2026 03:00:36 GMT"
+    },
+    {
+      "title": "Israeli forces release Al Jazeera journalist in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-arrest-al-jazeera-journalist-in-raid-on-his-west-bank-home?traffic_source=rss",
+      "summary": "Video of the arrest shows Israeli forces leading Montaser Nassar, who was blindfolded and handcuffed, into a vehicle.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "עיתונות",
+        "הופעות כוח"
+      ],
+      "published": "Tue, 03 Nov 2026 04:25:16 +0000"
+    },
+    {
+      "title": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+      "summary": "Israeli soldiers blindfolded, handcuffed and arrested Al Jazeera correspondent Montaser Nassar during a raid on his home",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "עיתונות",
+        "בעיה הנצורה"
+      ],
+      "published": "Tue, 03 Nov 2026 03:53:09 +0000"
     }
   ],
   "business": [
     {
-      "title": "Companies promised AI gains — here's how the payoff showed up in earnings",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
-      "summary": "AI כבר מראה תוצאות בדו\"חות הרבעוניים. Santander, Novartis ועוד חברות גדולות מדווחות על עלייה בהכנסות, קיצוץ עלויות ושיפור ברווחיות - וזה מגיע מהטמעות AI קונקרטיות, לא מהבטחות עתידיות.\n\nמה שמעניין פה: הרוויחות לא נופלות רק על חברות הטק. בנקים, פארמה, תעשייה - כל מי שהטמיע AI בתהליכים פנימיים מתחיל לראות את זה בשורת הרווח. זה הרגע שהשוק ציפה לו.",
-      "importance": 9,
+      "title": "ANTHROPIC Q3 2026 FINANCIAL HIGHLIGHTS: - Revenue: $17.0B, +1,127% YoY & 47% QoQ - Oper Loss: $567M (vs. $974M profit in Q2) - Net Loss: $23.3B, vs. $12.1B YoY - Adj. Oper Income: $2.5B - Adj. Oper Margin: 15%, down from 19% in Q2 - 9M Revenue: $33.2B Anthropic attributed its https://t.co/r7Fbv59KWE",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2117263614164025722",
+      "summary": "Anthropic סגרה את Q3 2026 עם הכנסות של 17 מיליארד דולר - צמיחה של מעל 1,100% משנה לשנה. זה לא טעות דפוס.\n\nבתוך שנה אחת הפכה Anthropic לאחת מחברות הטכנולוגיה הצומחות ביותר בהיסטוריה. הצד השני של המטבע: הפסד נקי של 23 מיליארד דולר, כי הצמיחה הזו עולה המון - בתשתיות, בכוח אדם, בחישוב.\n\nמי שצריך לשים לב: ספקיות ענן, חברות שבבים, וכל מי שמתחרה על תקציבי AI ארגוניים. הכסף זורם, ומהר מאוד.",
+      "importance": 10,
       "topics": [
         "AI",
-        "תשואות",
-        "טכנולוגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "פריצת הסייבר הגדולה בהיסטוריה של הקריפטו - ו-Binance חזרה לפעול.\n\nהבורסה הגדולה בעולם לקריפטו חוותה פריצה בקנה מידה שלא נראה כמוהו, והחזירה כבר כ-95% מהנכסים שנגנבו. זה נשמע כמו ניצחון - אבל השאלה האמיתית היא איך זה בכלל קרה, ואיפה הנכסים האלה הגיעו ממקום אחר.\n\nההשלכה שפחות מדברים עליה: כל מוסד פיננסי שכרגע שוקל להיכנס לקריפטו - בנק, קרן פנסיה, חברת ביטוח - הכתבה הזו נמצאת אצלם על השולחן הבוקר. אמון הוא הנכס הכי קשה לבנות, והכי קל לאבד.",
-      "importance": 8,
-      "topics": [
-        "קריפטו",
-        "אבטחה",
-        "זרימת הון"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "OPEC+ keeps December oil output targets steady",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "יצור הנפט של OPEC+ לדצמבר נשאר ללא שינוי - ההחלטה התקבלה בפגישה מקוונת של שבע המדינות המרכזיות בקרטל. הרקע מעניין: מדינות המפרץ חזרו להגדיל את היצוא אחרי חודשים של שיבושים בגלל המלחמה עם איראן. כלומר, ההיצע בשוק עולה בלי שהמכסות השתנו רשמית. זה לחץ כלפי מטה על מחיר הנפט - מה שמשפיע על כל מי שתלוי בו, מחברות תעופה ועד מדינות שמממנות את התקציב שלהן על בסיס מחיר החבית.",
-      "importance": 8,
-      "topics": [
-        "אנרגיה",
-        "נפט",
-        "מקרו"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Israeli fintech co Capitolis buys eSecLending for $200m",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "Capitolis, פינטק ישראלי שמתמחה בניהול הון ומסחר מוסדי, רכשה את eSecLending תמורת 200 מיליון דולר. הרוכשת פועלת בתחום ייעול ההון לבנקים ומוסדות פיננסיים גדולים, ועכשיו היא מוסיפה לפלטפורמה שלה גם הלוואות ניירות ערך - תחום שנוגע ישירות לאופן שבו קרנות גדולות מייצרות תשואה על נכסים שיושבים אצלן. חברת ההשקעות Parthenon Capital, שמכרה את eSecLending, גם משקיעה בעסקה בחזרה ב-Capitolis - מה שאומר שהיא ממשיכה לרצות חשיפה לצמיחה הזו. פינטק ישראלי שקונה תשתית פיננסית בחו\"ל בסדר גודל כזה - זה לא קורה כל יום.",
-      "importance": 8,
-      "topics": [
-        "פינטק",
-        "M&A",
-        "ניירות ערך"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "These Senate races may help determine the fate of Social Security",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
-      "summary": "קרן הפנסיה הממשלתית האמריקאית (Social Security) עלולה להתרוקן עד 2032. זה לא כותרת פוליטית - זה תאריך יעד ממשי שנמצא בתוך שמונה שנים.\n\nהסנאטורים שייבחרו בנובמבר הם אלה שיצטרכו להחליט: מעלים מסים, מקצצים קצבאות, או משלבים בין השניים. כל אפשרות כזו מגדירה מחדש איך עשרות מיליוני אמריקאים מתכננים את הגיל השלישי שלהם.\n\nההשפעה העקיפה: שינוי בקצבאות משפיע ישירות על הצריכה הפרטית בארה\"ב - וזה משהו ששווקים רחוקים יותר ממה שנדמה מלתמחר.",
-      "importance": 8,
-      "topics": [
-        "פנסיות",
-        "רגולציה",
-        "ממשל"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "This is the biggest threat to the AI-powered bull market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-      "summary": "השוק עלה בחדות ב-2026 על גב רווחי חברות שבירו שיאים - אבל MarketWatch מזהירים שב-2027 המנוע הזה עלול להיעצר.\n\nהבעיה: כשצמיחת הרווחים מאטה, השוק צריך הצדקה אחרת לרמות המחיר הגבוהות שהוא נסחר בהן. בלי זה, הרבה מהאופטימיות סביב ה-AI מתחילה להיראות כמו ריצה קדימה.\n\nמי שיושפע בשקט - חברות ענן, ספקי תשתיות AI, וכל מי שהמחיר שלו מגלם ציפיות ורודות לשנים קדימה.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "רווחים",
-        "שוק מניות"
+        "Anthropic",
+        "טכנולוגיה",
+        "הכנסות"
       ],
       "tag": "גלובלי"
     },
@@ -251,73 +187,186 @@
         "השקעות"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "קוריאה הדרומית מגדילה את תקציב המדינה שלה ב-12.8% לשנת 2027, וממנה מתוכו 21.3 טריליון וון - כ-15 מיליארד דולר - להשקעה בחצי-מוליכים, מרכזי נתונים ו-AI פיזי (physical AI). המטרה המוצהרת: מודל AI ריבוני שיהיה הטוב בעולם.\n\nזה לא רק חדשות קוריאניות. כשממשלות מתחילות להוציא תקציבי ענק על תשתיות AI, מי שנהנה ראשון הם ספקי ציוד - חברות שמוכרות שרתים, שבבים וחיבורי רשת. שווה לשים לב למי מרוויח מגל ההשקעות הממשלתי הזה שמתפשט גם מחוץ לארה\"ב.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "חצי-מוליכים",
+        "קורא טכנולוגי"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Ayalon Insurance and Finance undergoes remarkable transformation",
+      "source": "גלובס שוק ההון",
+      "url": "",
+      "summary": "מניית איילון ביטוח עלתה 1,200% בשלוש שנים. לא שגיאת כתיב.\n\nמה שקרה פה הוא קלאסיקה של שינוי הנהגה שמחולל מהפך: שרון רייך נכנסה כמנכ\"לית, קצצה פעילויות שהפסידו כסף ועכשיו בונה מחדש את מחלקת קרנות ההשתלמות וקופות הגמל.\n\nמה ששווה לשים לב אליו - זה לא רק סיפור של חברה אחת. כשחברת ביטוח קטנה מצליחה לעשות כזה pivot, זה בדרך כלל מאלץ את השחקנים הגדולים יותר להסתכל פנימה.",
+      "importance": 8,
+      "topics": [
+        "ביטוח",
+        "מרווחים פיננסיים",
+        "ניהול חברות"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "Stock Market Today: Oil Slides on Mideast Hopes; Stocks Rebound After Friday's Selloff",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "מחיר הנפט ירד היום אחרי סימנים שארה\"ב ואיראן שוקלות לחזור לשולחן המשא ומתן. חוזי ברנט נסוגו, והשווקים קפצו חזרה אחרי הירידות של יום שישי.\n\nכשמתח גיאופוליטי יורד - גם פרמיית הסיכון על הנפט יורדת. זה נשמע טכני, אבל זה משפיע על הכל: מחירי תעופה, עלויות ייצור, ואפילו החלטות ריבית של הפד. מי שנצפה לרווח מ\"נפט גבוה\" - חברות האנרגיה - כבר מרגיש את זה בשורת הרווח.",
+      "importance": 8,
+      "topics": [
+        "נפט",
+        "ג׳יאופוליטיקה",
+        "מחירים"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "BOE Expected to Join Peers in Raising Key Rate",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "בנק אנגליה צפוי להעלות ריבית ביום חמישי - וזה יהפוך אותו לבנק המרכזי הרביעי שמעלה ריבית מאז פרוץ המלחמה בין ארה\"ב לאיראן. הפד, הבנק האירופי והבנק המרכזי של יפן כבר עשו את זה.\n\nמה שמעניין פה: כשכל הבנקים המרכזיים הגדולים מעלים ריבית בו זמנית, זה לא רק נתון - זה שינוי בסביבה הכלכלית כולה. אשראי מתייקר, תשואות אגרות חוב עולות, ומניות צמיחה לרוב סובלות יותר. שווה לשים לב לאיך זה ישפיע על תיקי ההשקעות שנבנו בעידן הריבית האפסית.",
+      "importance": 8,
+      "topics": [
+        "בנקים מרכזיים",
+        "ריבית",
+        "מדיניות מוניטרית"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "How soon gas prices could go down now that oil is tumbling",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
+      "summary": "מחיר הדלק בארה\"ב ירד ל-4.12 דולר לגלון, ומחיר הנפט שבר את רף ה-100 דולר לחבית כלפי מטה. זה לא רק עניין אמריקאי - כשנפט יורד, זה מוריד לחץ על האינפלציה הגלובלית, כולל בישראל. מי שיושפע בצורה לא מיידית: חברות לוגיסטיקה ותעופה, שעלויות הדלק שלהן מהוות חלק משמעותי מההוצאות. אם המגמה תימשך, זה יכול להיות אחד הגורמים שמאטים את גל העליות במחירים שרואים בכל מקום.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
+        "דלק",
+        "מאקרו"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "אוקטובר היה מוזר: הכלכלה האמריקאית צמחה בקצב הכי מהיר שלה בחמש שנים, ובדיוק אז אגרות החוב עלו - הפוך ממה שהיה אמור לקרות. בדרך כלל כלכלה חזקה מורידה אגרות חוב, כי המשקיעים עוברים למניות. הפעם לא. זה מרמז שמשהו השתנה בלוגיקה הבסיסית של השוק - אולי חשש מהאטה עתידית, אולי ביקוש מוסדי שאנחנו לא רואים. מי שמושפע בשקט: שוק המשכנתאות, שמגיב ישירות לתשואות האג\"ח.",
+      "importance": 8,
+      "topics": [
+        "אג\"ח",
+        "ריבית",
+        "גדילה"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "בטיחות AI"
+      ],
+      "published": "Mon, 02 Nov 2026 22:14:50 +0000"
+    },
+    {
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+      "importance": 9,
+      "topics": [
+        "מיזוגים ורכישות",
+        "שבבים",
+        "Marvell"
+      ],
+      "published": "Mon, 02 Nov 2026 17:54:11 +0000"
+    },
+    {
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or […]",
       "importance": 8,
-      "topics": [
-        "AI",
-        "אבטחה",
-        "deepfake"
-      ],
-      "published": "Mon, 02 Nov 2026 10:00:00 +0000"
+      "topics": [],
+      "published": "2026-11-02T15:37:49-05:00"
     },
     {
-      "title": "North Korea linked to massive Binance crypto heist",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-      "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other […]",
+      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
       "importance": 7,
       "topics": [
         "אבטחה",
-        "קריפטו",
-        "הקר"
+        "Apple",
+        "ספיוור"
       ],
-      "published": "2026-11-01T09:33:11-05:00"
+      "published": "Mon, 02 Nov 2026 19:45:54 +0000"
     },
     {
-      "title": "ככה תבנו מפעל AI עם סוכנים שמדברים אחד עם השני – בלי להיתקע ביניהם",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/build-ai-factory-multi-agent-collaboration/",
-      "summary": "מאת עופר מנדלביץ' בשנה האחרונה סוכני קוד התקדמו מהשלמת שורות קוד לביצוע משימות שלמות – מהתכנון ועד ה-PR. הצעד הבא הוא בניית מפעל AI: צוות של סוכנים מתמחים, שכל אחד מהם רץ בסביבה משלו עם המודל והכלים שלו, והם עובדים יחד כדי לפתור את אותה הבעיה. לדוגמה, סוכן אחד מתכנן, אחר מממש, שלישי בודק, וכולם […] The post ככה תבנו מפעל AI עם סוכנים שמדברים אחד עם השני – בלי להיתקע ביניהם appeared first on גיקטיי",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
       "importance": 7,
       "topics": [
         "AI",
-        "סוכנים",
-        "מחקר"
-      ],
-      "published": "Mon, 02 Nov 2026 09:45:26 +0000"
-    },
-    {
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and make it more difficult for residents to challenge those projects in court. Proponent",
-      "importance": 6,
-      "topics": [
         "רגולציה",
-        "תשתיות דיגיטליות",
-        "מדיניות"
+        "זכויות יוצרים"
       ],
-      "published": "2026-11-01T08:00:00-05:00"
+      "published": "Mon, 02 Nov 2026 19:19:17 +0000"
     },
     {
-      "title": "What Democrats Can Learn From New York’s Data Center Moratorium",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
-      "summary": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "importance": 7,
+      "topics": [
+        "Apple",
+        "רובוטיקה",
+        "AI"
+      ],
+      "published": "Mon, 02 Nov 2026 18:32:21 +0000"
+    },
+    {
+      "title": "וויקס מאפשרת לכם עכשיו לבנות אתר עם אייג'נטים, Cursor וקלוד",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/wix-launches-studio-two/",
+      "summary": "חברת Wix הישראלית מנסה לצאת מנישת המערכת ההיא לבניית אתרים מהירים ופשוטים ב-5 דקות, והיא חושפת היום (ב') את Studio Two, סביבת הפיתוח והעיצוב החדשה שלה לבניית אתרים. העורך החדש, שהיא מכנה \"עורך האתרים המתקדם ביותר בתולדות החברה\", משלב (כמובן) סוכן AI, יכולות עריכה ויזואלית חופשית וכתיבת קוד ממש בתוך המערכת. הפלטפורמה מיועדת בעיקר עבור […] The post וויקס מאפשרת לכם עכשיו לבנות אתר עם אייג'נטים, Curs",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Wix",
+        "no-code"
+      ],
+      "published": "Mon, 02 Nov 2026 15:00:25 +0000"
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "summary": "The one-year-old startup is now valued at $300 million.",
       "importance": 6,
       "topics": [
-        "מדיניות",
-        "תשתיות דיגיטליות",
-        "רגולציה"
+        "AI",
+        "סטארטאפים",
+        "מימון"
       ],
-      "published": "Sun, 01 Nov 2026 11:00:00 +0000"
+      "published": "Mon, 02 Nov 2026 23:13:53 +0000"
     }
   ]
 }
