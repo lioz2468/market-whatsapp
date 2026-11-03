@@ -1106,7 +1106,8 @@
     "82c1be701c46a093": "2026-11-02T19:32:24.183973+00:00",
     "b2b0d16bbb2fcd38": "2026-11-03T06:00:40.073324+00:00",
     "951aa61932bbd802": "2026-11-03T07:30:33.527851+00:00",
-    "ae492059b623868e": "2026-11-03T09:01:52.820412+00:00"
+    "ae492059b623868e": "2026-11-03T09:01:52.820412+00:00",
+    "16730967545ca797": "2026-11-03T10:30:43.609759+00:00"
   },
   "messages": [
     {
@@ -16080,7 +16081,21 @@
         "נפט",
         "גיאופוליטיקה"
       ]
+    },
+    {
+      "sent_at": "2026-11-03T10:30:43.609759+00:00",
+      "title": "OPENAI HIRES FORMER U.S. ARMY SECRETARY: FT Dan Driscoll will join OpenAI as senior counselor for national security modernization, helping the company expand AI adoption across U.S. and allied defense institutions. An Iraq War veteran and close friend of Vice President JD https://t.co/aLKaP7d0w5",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "message": "OpenAI גייסה את דן דריסקול, לשעבר מזכיר הצבא האמריקאי, ליועץ בכיר בתחום הביטחון הלאומי. תפקידו יהיה להרחיב את השימוש ב-AI במוסדות ביטחוניים אמריקאיים ובמדינות מערביות בנות-ברית.\n\nזה לא סתם גיוס - זה אות שOpenAI עוברת משלב של \"חברת מוצר\" לשלב של שחקן ביטחוני-מדיני ממש. ההשפעה העקיפה: לחץ גדל על Palantir, Anduril ו-Microsoft שכבר נמצאות שם, ועל האיחוד האירופי שיצטרך להגיב לקצב הזה.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "מדיניות בטחון",
+        "רגולציה"
+      ]
     }
   ],
-  "last_auto_run": "2026-11-03T09:00:41.569366+00:00"
+  "last_auto_run": "2026-11-03T10:30:41.660276+00:00"
 }
