@@ -1114,7 +1114,8 @@
     "adfdf9e984d3d474": "2026-11-03T16:30:39.391370+00:00",
     "77d4760c9d5633bb": "2026-11-03T18:16:49.592397+00:00",
     "492699f047f7b6c8": "2026-11-04T06:00:43.913075+00:00",
-    "5db04572ce07bf9c": "2026-11-04T07:31:31.501778+00:00"
+    "5db04572ce07bf9c": "2026-11-04T07:31:31.501778+00:00",
+    "a87b5978ce24cab8": "2026-11-04T09:00:41.460888+00:00"
   },
   "messages": [
     {
@@ -16200,7 +16201,21 @@
         "זרימת הון",
         "מדיניות מונטרית"
       ]
+    },
+    {
+      "sent_at": "2026-11-04T09:00:41.460888+00:00",
+      "title": "Oracle $ORCL has reportedly canceled a $7B AI chip leasing deal with Tencent following pressure from the Trump administration, according to the FT. The five-year agreement would have given Tencent access to as many as 100,000 advanced AI chips across Oracle data centers in https://t.co/XfkaviC2uY",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "message": "ביטול עסקה של 7 מיליארד דולר בין Oracle לטנסנט - זה לא חדשות שגרה.\n\nהסכם ל-5 שנים שהיה אמור לתת לטנסנט גישה ל-100,000 שבבי AI מתקדמים בוטל לחלוטין, לפי ה-FT, בלחץ ישיר מממשל טראמפ.\n\nההשפעות העקיפות פה מעניינות: ספקי ענן אמריקאיים שרצו לבנות הכנסות מסין נמצאים כעת בנקודה קשה - הממשל בעצם אומר להם שהגישה לשוק הסיני עוברת דרכו. לחברות כמו Microsoft ו-Amazon יש עסקאות דומות על הפרק, ושוות לב לראות אם זה תקדים.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "AI",
+        "רגולציה",
+        "USA-סין"
+      ]
     }
   ],
-  "last_auto_run": "2026-11-04T07:30:32.582240+00:00"
+  "last_auto_run": "2026-11-04T09:00:39.874390+00:00"
 }
