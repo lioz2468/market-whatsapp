@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:45:10.460954+00:00",
+  "generated_at": "2026-11-04T10:44:34.203920+00:00",
   "lookback_hours": 24,
   "world": [
     {
@@ -11,22 +11,87 @@
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "ביטחון"
+        "מלחמה"
       ],
       "published": "Tue, 03 Nov 2026 06:01:14 -0500"
     },
     {
-      "title": "Lula’s victory is a stress test for the Global South",
+      "title": "Photos: US Democrats celebrate winning control of Congress",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
-      "summary": "Trump can still punish Brazil for pursuing an independent course. Can China offer lasting alternatives to US dominance?",
+      "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-us-democrats-celebrate-winning-control-of-congress?traffic_source=rss",
+      "summary": "Democrats flipped seats that had long been held by Republicans in a wave of historic leadership firsts.",
       "importance": 8,
       "topics": [
-        "ברזיל",
-        "גיאופוליטיקה",
-        "סין-ארה\"ב"
+        "ארה״ב",
+        "בחירות",
+        "פוליטיקה"
       ],
-      "published": "Wed, 04 Nov 2026 06:12:59 +0000"
+      "published": "Wed, 04 Nov 2026 10:18:10 +0000"
+    },
+    {
+      "title": "‘Rejecting hate’: Abdul El-Sayed wins Senate seat despite racist attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss",
+      "summary": "The Democrat defeats Republican Mike Rogers to win Michigan seat to become first Muslim senator-elect in US history.",
+      "importance": 8,
+      "topics": [
+        "ארה״ב",
+        "בחירות",
+        "מיליוטריות"
+      ],
+      "published": "Wed, 04 Nov 2026 09:47:49 +0000"
+    },
+    {
+      "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss",
+      "summary": "Iran is on the brink of a new escalation with the US, but negotiations are continuing.",
+      "importance": 8,
+      "topics": [
+        "איראן",
+        "ארה\"ב",
+        "גיאופוליטיקה"
+      ],
+      "published": "Wed, 04 Nov 2026 09:16:57 +0000"
+    },
+    {
+      "title": "אל-סייד האנטי-ישראלי עשה היסטוריה: \"אפשר לעבור מאינשאללה לאלחמדולילה\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/b11euidpzg",
+      "summary": "המועמד הדמוקרטי, בן למהגרים מצרים שמאשים את ישראל ברצח עם ורוצה למנוע ממנה כל סיוע ביטחוני, ניצח את יריבו ויהיה המוסלמי הראשון בסנאט. ברקע: סערת הפרסומת האנטישמית עם ביצים בסופרמרקט ו\"7 דולר כדי להרוג פלסטינים\". בנאום הניצחון תקף את ישראל: \"לא רוצים שהכסף שלנו יישלח למימון אפרטהייד, רצח עם או מלחמה\"",
+      "importance": 8,
+      "topics": [
+        "ארה\"ב",
+        "ישראל",
+        "בחירות"
+      ],
+      "published": "Wed, 04 Nov 2026 08:19:20 +0200"
+    },
+    {
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "importance": 7,
+      "topics": [
+        "איראן",
+        "ארה\"ב",
+        "דיפלומטיה"
+      ],
+      "published": "Wed, 04 Nov 2026 10:11:39 GMT"
+    },
+    {
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "importance": 7,
+      "topics": [
+        "ספרד",
+        "אסון",
+        "פוליטיקה"
+      ],
+      "published": "Tue, 03 Nov 2026 22:45:59 GMT"
     },
     {
       "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
@@ -36,131 +101,39 @@
       "importance": 7,
       "topics": [
         "אתיופיה",
-        "אבטחה",
-        "סכסוך"
-      ],
-      "published": "Wed, 04 Nov 2026 06:07:24 GMT"
-    },
-    {
-      "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
-      "summary": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
-      "importance": 7,
-      "topics": [
-        "קוריאה הצפונית",
-        "סייבר",
-        "ארה\"ב"
-      ],
-      "published": "Wed, 04 Nov 2026 05:11:00 +0000"
-    },
-    {
-      "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
-      "summary": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
-      "importance": 7,
-      "topics": [
-        "ארצות הברית",
-        "איראן",
+        "טיגראי",
         "ביטחון"
       ],
-      "published": "Wed, 04 Nov 2026 04:39:31 +0000"
+      "published": "Wed, 04 Nov 2026 10:35:03 GMT"
     },
     {
-      "title": "Democratic Party wins US Senate in 2026 midterm elections",
+      "title": "GOP’s redistricting gamble backfires in Florida as Democrats hold ground",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
-      "summary": "The outcome is widely seen as a rebuke to Trump's Republican Party, which won control of the chamber in 2024.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/gops-redistricting-gamble-backfires-in-florida-as-democrats-hold-ground?traffic_source=rss",
+      "summary": "Trump's party dealt a setback as Republican bid to tilt Florida's House map falters on a strong night for Democrats.",
       "importance": 7,
       "topics": [
+        "ארה״ב",
         "בחירות",
-        "ארצות הברית",
-        "דמוגרפיה"
+        "פלורידה"
       ],
-      "published": "Wed, 04 Nov 2026 04:37:05 +0000"
+      "published": "Wed, 04 Nov 2026 09:48:31 +0000"
     },
     {
-      "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
-      "summary": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
-      "importance": 6,
-      "topics": [
-        "יפן",
-        "רוסיה",
-        "גיאופוליטיקה"
-      ],
-      "published": "Tue, 03 Nov 2026 17:25:15 -0500"
-    },
-    {
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "importance": 6,
-      "topics": [
-        "ספרד",
-        "אסון",
-        "אירוע ביטחוני"
-      ],
-      "published": "Tue, 03 Nov 2026 22:45:59 GMT"
-    },
-    {
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "importance": 6,
-      "topics": [
-        "אירופה",
-        "ביטחון",
-        "איומים"
-      ],
-      "published": "Tue, 03 Nov 2026 20:42:47 GMT"
-    },
-    {
-      "title": "Keisha Lance Bottoms becomes Georgia’s first black governor",
+      "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss",
-      "summary": "Democrat Keisha Lance Bottoms has been elected Governor-elect of Georgia becoming the state's first black governor",
-      "importance": 6,
+      "url": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
+      "summary": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
+      "importance": 7,
       "topics": [
-        "בחירות",
-        "ארצות הברית",
-        "ג'ורג'יה"
+        "ישראל",
+        "פלסטינים",
+        "חברון"
       ],
-      "published": "Wed, 04 Nov 2026 05:07:00 +0000"
+      "published": "Wed, 04 Nov 2026 08:22:15 +0000"
     }
   ],
   "business": [
-    {
-      "title": "US Hits Iran’s Qeshm Island as Hormuz Talks Keep Oil Markets on Edge",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-03/horizons-middle-east-africa-11-3-2026-video",
-      "summary": "מתקפה אמריקנית על האי קשם באיראן - וזה מתחבר ישירות למצר הורמוז, שדרכו עוברים כ-20% מסחר הנפט העולמי.\n\nהשווקים עצבניים: מצד אחד ישנם מגעים דיפלומטיים על הסכם גרעין, מצד שני פעולה צבאית ישירה על אדמה איראנית. שני הכיוונים סותרים אחד את השני, וזה בדיוק מה שמחזיק את מחירי הנפט תחת לחץ.\n\nמי שפחות מדברים עליו: חברות ביטוח ימי. כשמתיחות במצר עולה, הפרמיות מזנקות - וזה מייקר שרשראות אספקה גלובליות הרבה מעבר לנפט בלבד.",
-      "importance": 9,
-      "topics": [
-        "ארה״ב",
-        "איראן",
-        "נפט",
-        "גיאופוליטיקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "OPENAI HIRES FORMER U.S. ARMY SECRETARY: FT Dan Driscoll will join OpenAI as senior counselor for national security modernization, helping the company expand AI adoption across U.S. and allied defense institutions. An Iraq War veteran and close friend of Vice President JD https://t.co/aLKaP7d0w5",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "OpenAI גייסה את דן דריסקול, לשעבר מזכיר הצבא האמריקאי, ליועץ בכיר בתחום הביטחון הלאומי. תפקידו יהיה להרחיב את השימוש ב-AI במוסדות ביטחוניים אמריקאיים ובמדינות מערביות בנות-ברית.\n\nזה לא סתם גיוס - זה אות שOpenAI עוברת משלב של \"חברת מוצר\" לשלב של שחקן ביטחוני-מדיני ממש. ההשפעה העקיפה: לחץ גדל על Palantir, Anduril ו-Microsoft שכבר נמצאות שם, ועל האיחוד האירופי שיצטרך להגיב לקצב הזה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "מדיניות בטחון",
-        "רגולציה"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
       "source": "CNBC Top News",
@@ -201,17 +174,43 @@
       "tag": "ישראל"
     },
     {
-      "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
-      "source": "MarketWatch",
+      "title": "Stocks, Dollar Drop on US Vote; Dip Buyers Emerge: Markets Wrap",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+      "summary": "הדמוקרטים זכו בשתי הקאמרות בקונגרס, והשווקים הגיבו מיד: מניות ודולר ירדו, ואגרות חוב אמריקאיות עלו. הלוגיקה פשוטה - אם הקונגרס מפוצל, חלק גדול מהאג'נדה של טראמפ פשוט נתקע. פחות גירעון, פחות אינפלציה, ריבית יורדת - זה מה שהשוק מתמחר עכשיו. מי שיושפע בשקט: חברות שתלויות בתעריפי מכס ובחקיקה מהירה - פתאום הסיכון שלהן נראה אחרת.",
+      "importance": 9,
+      "topics": [
+        "בחירות",
+        "זרימת הון",
+        "מדיניות מונטרית"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Oracle $ORCL has reportedly canceled a $7B AI chip leasing deal with Tencent following pressure from the Trump administration, according to the FT. The five-year agreement would have given Tencent access to as many as 100,000 advanced AI chips across Oracle data centers in https://t.co/XfkaviC2uY",
+      "source": "Twitter @wallstengine",
       "url": "",
-      "summary": "Oracle מגייסת 20 מיליארד דולר כדי לממן את הרחבת תשתיות ה-AI שלה - והשוק לא בדיוק מחבק את הצעד הזה. האג\"ח של החברה נסחרות כרגע ברמות של חברות עם דירוג אשראי נמוך, מה שמשקף כמה סיכון המשקיעים רואים בהימור הזה.\n\nמה שמעניין פה: כשענקית תוכנה מסורתית מתחילה לנהוג כמו חברת תשתיות עתירת הון, זה לוחץ על כל הסקטור. ספקי ציוד, חברות בנייה של מרכזי נתונים, ואפילו בנקים שמחזיקים את החוב הזה - כולם קשורים לתוצאה.",
-      "importance": 8,
+      "summary": "ביטול עסקה של 7 מיליארד דולר בין Oracle לטנסנט - זה לא חדשות שגרה.\n\nהסכם ל-5 שנים שהיה אמור לתת לטנסנט גישה ל-100,000 שבבי AI מתקדמים בוטל לחלוטין, לפי ה-FT, בלחץ ישיר מממשל טראמפ.\n\nההשפעות העקיפות פה מעניינות: ספקי ענן אמריקאיים שרצו לבנות הכנסות מסין נמצאים כעת בנקודה קשה - הממשל בעצם אומר להם שהגישה לשוק הסיני עוברת דרכו. לחברות כמו Microsoft ו-Amazon יש עסקאות דומות על הפרק, ושוות לב לראות אם זה תקדים.",
+      "importance": 9,
       "topics": [
         "AI",
-        "טכנולוגיה",
-        "חוב"
+        "רגולציה",
+        "USA-סין"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+      "summary": "AMD עלתה כמעט 5% אחרי דוח שהפתיע - לא בגלל הבטחות, אלא בגלל הכנסות AI אמיתיות שקשה להתווכח איתן. השוק כבר מזמן חושש שבועת ה-AI בנויה על ציפיות בלי ביצוע בפועל. AMD מראה שיש מי שמרוויח כבר עכשיו.\n\nמה שפחות ברור: זה לחץ ישיר על NVIDIA להוכיח שהיא לא לבד בשוק, ובאותה נשימה - חדשות טובות לחברות ענן שצריכות לגוון את ספקי השבבים שלהן.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "צ'יפים",
+        "טכנולוגיה"
+      ],
+      "tag": "גלובלי"
     },
     {
       "title": "This signal from the corporate bond market has historically preceded big drawdowns for the S&P 500",
@@ -259,26 +258,13 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
       "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is […]",
-      "importance": 9,
+      "importance": 8,
       "topics": [
         "שבבים",
         "AMD",
-        "דטה סנטר"
+        "data center"
       ],
       "published": "2026-11-03T20:15:34-05:00"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "סטארטאפ",
-        "גיוס הון"
-      ],
-      "published": "Tue, 03 Nov 2026 19:34:43 +0000"
     },
     {
       "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
@@ -287,9 +273,9 @@
       "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers […]",
       "importance": 8,
       "topics": [
-        "אבטחה",
-        "Binance",
-        "האקינג"
+        "אבטחה סייבר",
+        "קריפטו",
+        "Binance"
       ],
       "published": "2026-11-03T17:04:02-05:00"
     },
@@ -301,8 +287,8 @@
       "importance": 8,
       "topics": [
         "אבטחה",
-        "Microsoft",
-        "Windows"
+        "Windows",
+        "Microsoft"
       ],
       "published": "Tue, 03 Nov 2026 16:03:13 +0000"
     },
@@ -320,30 +306,30 @@
       "published": "Tue, 03 Nov 2026 22:41:03 +0000"
     },
     {
-      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
-      "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
-      "importance": 7,
-      "topics": [
-        "טכנולוגיה",
-        "חלל",
-        "חדשנות"
-      ],
-      "published": "Tue, 03 Nov 2026 20:57:17 +0000"
-    },
-    {
       "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
       "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
       "importance": 7,
       "topics": [
-        "אבטחה",
-        "קריפטו",
-        "Binance"
+        "cybersecurity",
+        "פריצה",
+        "crypto"
       ],
       "published": "Tue, 03 Nov 2026 19:45:48 +0000"
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "גיוסי הון",
+        "inference"
+      ],
+      "published": "Tue, 03 Nov 2026 19:34:43 +0000"
     },
     {
       "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
@@ -353,10 +339,23 @@
       "importance": 7,
       "topics": [
         "AI",
-        "רכישות",
-        "אבטחה"
+        "אבטחה סייבר",
+        "מיזוגים ורכישות"
       ],
       "published": "Tue, 03 Nov 2026 17:56:52 +0000"
+    },
+    {
+      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "זכויות יוצרים",
+        "דיני"
+      ],
+      "published": "Tue, 03 Nov 2026 18:30:27 +0000"
     }
   ]
 }
