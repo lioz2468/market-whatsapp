@@ -1,152 +1,139 @@
 {
-  "generated_at": "2026-11-03T10:41:14.689018+00:00",
+  "generated_at": "2026-11-04T06:45:10.460954+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+      "summary": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
         "ביטחון"
       ],
-      "published": "Tue, 03 Nov 2026 07:24:12 GMT"
+      "published": "Tue, 03 Nov 2026 06:01:14 -0500"
     },
     {
-      "title": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
+      "title": "Lula’s victory is a stress test for the Global South",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants?traffic_source=rss",
-      "summary": "Medical facility was struck by Russian ballistic missiles and aerial bombs overnight.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
+      "summary": "Trump can still punish Brazil for pursuing an independent course. Can China offer lasting alternatives to US dominance?",
       "importance": 8,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
+        "ברזיל",
+        "גיאופוליטיקה",
+        "סין-ארה\"ב"
       ],
-      "published": "Tue, 03 Nov 2026 10:18:18 +0000"
+      "published": "Wed, 04 Nov 2026 06:12:59 +0000"
     },
     {
-      "title": "US strikes Iranian island ahead of midterm elections",
+      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
       "importance": 7,
       "topics": [
-        "ירן",
-        "ארה״ב",
+        "אתיופיה",
+        "אבטחה",
+        "סכסוך"
+      ],
+      "published": "Wed, 04 Nov 2026 06:07:24 GMT"
+    },
+    {
+      "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
+      "summary": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
+      "importance": 7,
+      "topics": [
+        "קוריאה הצפונית",
+        "סייבר",
+        "ארה\"ב"
+      ],
+      "published": "Wed, 04 Nov 2026 05:11:00 +0000"
+    },
+    {
+      "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
+      "summary": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
+      "importance": 7,
+      "topics": [
+        "ארצות הברית",
+        "איראן",
+        "ביטחון"
+      ],
+      "published": "Wed, 04 Nov 2026 04:39:31 +0000"
+    },
+    {
+      "title": "Democratic Party wins US Senate in 2026 midterm elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
+      "summary": "The outcome is widely seen as a rebuke to Trump's Republican Party, which won control of the chamber in 2024.",
+      "importance": 7,
+      "topics": [
+        "בחירות",
+        "ארצות הברית",
+        "דמוגרפיה"
+      ],
+      "published": "Wed, 04 Nov 2026 04:37:05 +0000"
+    },
+    {
+      "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+      "summary": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
+      "importance": 6,
+      "topics": [
+        "יפן",
+        "רוסיה",
         "גיאופוליטיקה"
       ],
-      "published": "Tue, 03 Nov 2026 10:37:13 GMT"
+      "published": "Tue, 03 Nov 2026 17:25:15 -0500"
     },
     {
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "title": "Spanish transport minister resigns days after deadly train crash",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
-      "importance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "importance": 6,
       "topics": [
-        "אוקראינה",
+        "ספרד",
+        "אסון",
+        "אירוע ביטחוני"
+      ],
+      "published": "Tue, 03 Nov 2026 22:45:59 GMT"
+    },
+    {
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "importance": 6,
+      "topics": [
         "אירופה",
-        "ביטחון"
-      ],
-      "published": "Tue, 03 Nov 2026 00:07:05 GMT"
-    },
-    {
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ביטחון"
-      ],
-      "published": "Mon, 02 Nov 2026 17:33:19 GMT"
-    },
-    {
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "importance": 7,
-      "topics": [
-        "סייבר",
-        "צפון קוריאה",
-        "קריפטו"
-      ],
-      "published": "Tue, 03 Nov 2026 08:33:20 GMT"
-    },
-    {
-      "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss",
-      "summary": "The capital was one of the first areas to be affected, and one of the worst hit, by the war between the SAF and the RSF.",
-      "importance": 7,
-      "topics": [
-        "סודן",
-        "מלחמה",
-        "הפלטה"
-      ],
-      "published": "Tue, 03 Nov 2026 09:18:48 +0000"
-    },
-    {
-      "title": "חוליה מג'נין נעצרה: \"ייצרו גוף רקטה ומטענים, וביצעו 3 שיגורי ניסוי ביו\"ש\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/byucrfv6mx",
-      "summary": "המשטרה ושב\"כ חשפו תשתית לייצור רקטות ומטענים, בחקירה עלה כי חברי החוליה ייצרו גוף רקטה וביצעו שיגורי ניסוי, שבמהלכם בחנו את העוצמה והטווח ושיפרו את התוצרים. 6 תושבי אזור ג'נין נעצרו, ויוגשו נגדם כתבי אישום",
-      "importance": 7,
-      "topics": [
         "ביטחון",
-        "פלסטינים",
-        "יהודה ושומרון"
+        "איומים"
       ],
-      "published": "Tue, 03 Nov 2026 11:05:49 +0200"
+      "published": "Tue, 03 Nov 2026 20:42:47 GMT"
     },
     {
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-      "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "title": "Keisha Lance Bottoms becomes Georgia’s first black governor",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss",
+      "summary": "Democrat Keisha Lance Bottoms has been elected Governor-elect of Georgia becoming the state's first black governor",
       "importance": 6,
       "topics": [
-        "ארה״ב",
-        "משפט"
+        "בחירות",
+        "ארצות הברית",
+        "ג'ורג'יה"
       ],
-      "published": "Tue, 03 Nov 2026 03:32:36 GMT"
-    },
-    {
-      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-      "importance": 6,
-      "topics": [
-        "סעודיה",
-        "טרור",
-        "ספורט"
-      ],
-      "published": "Tue, 03 Nov 2026 07:15:17 GMT"
+      "published": "Wed, 04 Nov 2026 05:07:00 +0000"
     }
   ],
   "business": [
-    {
-      "title": "ANTHROPIC Q3 2026 FINANCIAL HIGHLIGHTS: - Revenue: $17.0B, +1,127% YoY & 47% QoQ - Oper Loss: $567M (vs. $974M profit in Q2) - Net Loss: $23.3B, vs. $12.1B YoY - Adj. Oper Income: $2.5B - Adj. Oper Margin: 15%, down from 19% in Q2 - 9M Revenue: $33.2B Anthropic attributed its https://t.co/r7Fbv59KWE",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2117263614164025722",
-      "summary": "Anthropic סגרה את Q3 2026 עם הכנסות של 17 מיליארד דולר - צמיחה של מעל 1,100% משנה לשנה. זה לא טעות דפוס.\n\nבתוך שנה אחת הפכה Anthropic לאחת מחברות הטכנולוגיה הצומחות ביותר בהיסטוריה. הצד השני של המטבע: הפסד נקי של 23 מיליארד דולר, כי הצמיחה הזו עולה המון - בתשתיות, בכוח אדם, בחישוב.\n\nמי שצריך לשים לב: ספקיות ענן, חברות שבבים, וכל מי שמתחרה על תקציבי AI ארגוניים. הכסף זורם, ומהר מאוד.",
-      "importance": 10,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "טכנולוגיה",
-        "הכנסות"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "US Hits Iran’s Qeshm Island as Hormuz Talks Keep Oil Markets on Edge",
       "source": "Bloomberg Markets",
@@ -175,82 +162,43 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
       "source": "CNBC Top News",
-      "url": "",
-      "summary": "קוריאה הדרומית מגדילה את תקציב המדינה שלה ב-12.8% לשנת 2027, וממנה מתוכו 21.3 טריליון וון - כ-15 מיליארד דולר - להשקעה בחצי-מוליכים, מרכזי נתונים ו-AI פיזי (physical AI). המטרה המוצהרת: מודל AI ריבוני שיהיה הטוב בעולם.\n\nזה לא רק חדשות קוריאניות. כשממשלות מתחילות להוציא תקציבי ענק על תשתיות AI, מי שנהנה ראשון הם ספקי ציוד - חברות שמוכרות שרתים, שבבים וחיבורי רשת. שווה לשים לב למי מרוויח מגל ההשקעות הממשלתי הזה שמתפשט גם מחוץ לארה\"ב.",
-      "importance": 8,
+      "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+      "summary": "נשיא Blackstone, ג'ון גריי, אמר בגלוי: התשתיות של ה-AI צריכות יותר הון עצמי - ופחות חוב. זה לא אמירה טכנית, זה אות אזהרה ממי שיש לו מידע על מה שקורה מאחורי הקלעים.\n\nהבעיה: כשמאות מיליארדי דולרים נשפכים לתשתיות AI, רוב המימון הוא חוב - וזה יוצר ריכוזיות שמדאיגה את המשקיעים בצד הזה. אם כמה פרויקטים גדולים נכשלים, ההדף מורגש הרבה מעבר לחברות ה-AI עצמן - בנקים, קרנות אשראי, ומשקיעי תשתיות בכלל.",
+      "importance": 9,
+      "topics": [
+        "בינה מלאכותית",
+        "הון סכום",
+        "פיננסים"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Brookfield plans for a $27 billion AI data center at UK power station",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+      "summary": "פרויקט של 27 מיליארד דולר: Brookfield מתכננת להקים מרכז נתונים ענק לצרכי AI על אתר תחנת כוח בבריטניה. האירופאים מתמודדים עם בעיה אמיתית - קרקע יקרה, חשמל יקר עוד יותר, וביקוש לתשתיות AI שרק הולך וגדל. הפתרון: לבנות ישירות על מקורות הייצור.\n\nמי שיושפע מזה מעבר לנדל\"ן ותשתיות - יצרני ציוד קירור, חברות סיבים אופטיים, וכל מי שנמצא בשרשרת האספקה של מרכזי נתונים. אירופה בונה, ובגדול.",
+      "importance": 9,
       "topics": [
         "AI",
-        "חצי-מוליכים",
-        "קורא טכנולוגי"
+        "תשתיות",
+        "אנרגיה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Ayalon Insurance and Finance undergoes remarkable transformation",
-      "source": "גלובס שוק ההון",
+      "title": "Trump: I agreed with Netanyahu to end US aid",
+      "source": "גלובס כללי",
       "url": "",
-      "summary": "מניית איילון ביטוח עלתה 1,200% בשלוש שנים. לא שגיאת כתיב.\n\nמה שקרה פה הוא קלאסיקה של שינוי הנהגה שמחולל מהפך: שרון רייך נכנסה כמנכ\"לית, קצצה פעילויות שהפסידו כסף ועכשיו בונה מחדש את מחלקת קרנות ההשתלמות וקופות הגמל.\n\nמה ששווה לשים לב אליו - זה לא רק סיפור של חברה אחת. כשחברת ביטוח קטנה מצליחה לעשות כזה pivot, זה בדרך כלל מאלץ את השחקנים הגדולים יותר להסתכל פנימה.",
-      "importance": 8,
+      "summary": "ישראל לא תקבל יותר את הסיוע הצבאי השנתי של 3.8 מיליארד דולר מארה\"ב - זה מה שטראמפ אמר אמש ל-Fox News, וציין שהוא הגיע להסכמה על כך עם נתניהו.\n\nמבחינה מעשית, ישראל בנתה עצמאות ביטחונית ניכרת בשנים האחרונות, אז זה לא קריסה מיידית. אבל ל-3.8 מיליארד יש היגיון כלכלי עמוק - חלק גדול ממנו מוציאים בחזרה בחברות ביטחוניות אמריקניות כמו Lockheed ו-Raytheon. השינוי הזה ישפיע עליהן לפחות כמו על ישראל.",
+      "importance": 9,
       "topics": [
-        "ביטוח",
-        "מרווחים פיננסיים",
-        "ניהול חברות"
+        "ארה״ב-ישראל",
+        "תקציב הגנה",
+        "גיאופוליטיקה"
       ],
       "tag": "ישראל"
-    },
-    {
-      "title": "Stock Market Today: Oil Slides on Mideast Hopes; Stocks Rebound After Friday's Selloff",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "מחיר הנפט ירד היום אחרי סימנים שארה\"ב ואיראן שוקלות לחזור לשולחן המשא ומתן. חוזי ברנט נסוגו, והשווקים קפצו חזרה אחרי הירידות של יום שישי.\n\nכשמתח גיאופוליטי יורד - גם פרמיית הסיכון על הנפט יורדת. זה נשמע טכני, אבל זה משפיע על הכל: מחירי תעופה, עלויות ייצור, ואפילו החלטות ריבית של הפד. מי שנצפה לרווח מ\"נפט גבוה\" - חברות האנרגיה - כבר מרגיש את זה בשורת הרווח.",
-      "importance": 8,
-      "topics": [
-        "נפט",
-        "ג׳יאופוליטיקה",
-        "מחירים"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "BOE Expected to Join Peers in Raising Key Rate",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "בנק אנגליה צפוי להעלות ריבית ביום חמישי - וזה יהפוך אותו לבנק המרכזי הרביעי שמעלה ריבית מאז פרוץ המלחמה בין ארה\"ב לאיראן. הפד, הבנק האירופי והבנק המרכזי של יפן כבר עשו את זה.\n\nמה שמעניין פה: כשכל הבנקים המרכזיים הגדולים מעלים ריבית בו זמנית, זה לא רק נתון - זה שינוי בסביבה הכלכלית כולה. אשראי מתייקר, תשואות אגרות חוב עולות, ומניות צמיחה לרוב סובלות יותר. שווה לשים לב לאיך זה ישפיע על תיקי ההשקעות שנבנו בעידן הריבית האפסית.",
-      "importance": 8,
-      "topics": [
-        "בנקים מרכזיים",
-        "ריבית",
-        "מדיניות מוניטרית"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "How soon gas prices could go down now that oil is tumbling",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
-      "summary": "מחיר הדלק בארה\"ב ירד ל-4.12 דולר לגלון, ומחיר הנפט שבר את רף ה-100 דולר לחבית כלפי מטה. זה לא רק עניין אמריקאי - כשנפט יורד, זה מוריד לחץ על האינפלציה הגלובלית, כולל בישראל. מי שיושפע בצורה לא מיידית: חברות לוגיסטיקה ותעופה, שעלויות הדלק שלהן מהוות חלק משמעותי מההוצאות. אם המגמה תימשך, זה יכול להיות אחד הגורמים שמאטים את גל העליות במחירים שרואים בכל מקום.",
-      "importance": 8,
-      "topics": [
-        "אנרגיה",
-        "דלק",
-        "מאקרו"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "אוקטובר היה מוזר: הכלכלה האמריקאית צמחה בקצב הכי מהיר שלה בחמש שנים, ובדיוק אז אגרות החוב עלו - הפוך ממה שהיה אמור לקרות. בדרך כלל כלכלה חזקה מורידה אגרות חוב, כי המשקיעים עוברים למניות. הפעם לא. זה מרמז שמשהו השתנה בלוגיקה הבסיסית של השוק - אולי חשש מהאטה עתידית, אולי ביקוש מוסדי שאנחנו לא רואים. מי שמושפע בשקט: שוק המשכנתאות, שמגיב ישירות לתשואות האג\"ח.",
-      "importance": 8,
-      "topics": [
-        "אג\"ח",
-        "ריבית",
-        "גדילה"
-      ],
-      "tag": "ארה\"ב"
     },
     {
       "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
@@ -264,111 +212,151 @@
         "חוב"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "This signal from the corporate bond market has historically preceded big drawdowns for the S&P 500",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "שוק אגרות החוב הקונצרניות שולח אות שהיסטורית הגיע לפני ירידות משמעותיות במניות.\n\nהלוגיקה פשוטה: כשמשקיעים באג\"ח קונצרני מתחילים לדרוש פרמיית סיכון גבוהה יותר, זה אומר שהם פחות בטוחים ביכולת של חברות להחזיר חוב. זה בדרך כלל קורה לפני שהחשש הזה מגיע לשוק המניות.\n\nמי שצריך לשים לב מעבר למניות: שוק ה-credit משפיע ישירות על עלויות המימון של חברות - מה שאומר פחות רכישות עצמיות, פחות השקעה, ולחץ על הרווחיות ברבעונים הקרובים.",
+      "importance": 8,
+      "topics": [
+        "אג״ח",
+        "בורסה",
+        "אותות שוק"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "מחירי הנפט קפצו הבוקר אחרי שארה\"ב תקפה את אי קשם האיראני. זה מגיע יום אחרי שנשיאי שתי המדינות רמזו שהם פתוחים לפתרון דיפלומטי - כלומר השוק מגיב לשני הכיוונים בו-זמנית: גם לאיום וגם לתקווה.\n\nמי שפחות ברור שיושפע: חברות תעופה שמגדרות עלויות דלק, ושווקים מתעוררים שמייבאים נפט ורגישים מאוד לתנודות כאלה. כדאי לשים לב גם לדולר - בסביבה של חוסר ודאות גיאופוליטית הוא נוטה להתחזק, וזה מגיע על חשבון שאר הנכסים.",
+      "importance": 8,
+      "topics": [
+        "נפט",
+        "ביטחון",
+        "מקרו"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "חוקרי בלוקצ'יין עוקבים אחר מיליארדי דולרים שנגנבו מ-Binance ועוברים בין רשתות שונות - וצפון קוריאה מכחישה כל קשר. זה לא סיפור חדש: קבוצת Lazarus הצפון קורינית היא החשודה המרכזית בגנבות קריפטו גדולות כבר שנים. מה שמעניין פה הוא פחות הגנבה עצמה ויותר מה שהיא מראה - עד כמה קשה לעצור זרימת כסף בין רשתות מבוזרות, גם כשכולם יודעים לאן הוא הולך.",
+      "importance": 8,
+      "topics": [
+        "קריפטו",
+        "סייבר",
+        "סיכוני מערכת"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is […]",
+      "importance": 9,
+      "topics": [
+        "שבבים",
+        "AMD",
+        "דטה סנטר"
+      ],
+      "published": "2026-11-03T20:15:34-05:00"
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
       "importance": 8,
+      "topics": [
+        "AI",
+        "סטארטאפ",
+        "גיוס הון"
+      ],
+      "published": "Tue, 03 Nov 2026 19:34:43 +0000"
+    },
+    {
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers […]",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "Binance",
+        "האקינג"
+      ],
+      "published": "2026-11-03T17:04:02-05:00"
+    },
+    {
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "Microsoft",
+        "Windows"
+      ],
+      "published": "Tue, 03 Nov 2026 16:03:13 +0000"
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "importance": 7,
       "topics": [
         "AI",
         "Anthropic",
-        "בטיחות AI"
+        "אבטחה"
       ],
-      "published": "Mon, 02 Nov 2026 22:14:50 +0000"
+      "published": "Tue, 03 Nov 2026 22:41:03 +0000"
     },
     {
-      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or […]",
-      "importance": 8,
+      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+      "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
+      "importance": 7,
+      "topics": [
+        "טכנולוגיה",
+        "חלל",
+        "חדשנות"
+      ],
+      "published": "Tue, 03 Nov 2026 20:57:17 +0000"
+    },
+    {
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+      "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
+      "importance": 7,
       "topics": [
         "אבטחה",
-        "Android",
-        "בוטנט"
+        "קריפטו",
+        "Binance"
       ],
-      "published": "2026-11-02T15:37:49-05:00"
+      "published": "Tue, 03 Nov 2026 19:45:48 +0000"
     },
     {
-      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-      "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
       "importance": 7,
-      "topics": [
-        "אבטחה",
-        "Apple",
-        "ספיוור"
-      ],
-      "published": "Mon, 02 Nov 2026 19:45:54 +0000"
-    },
-    {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "importance": 7,
-      "topics": [
-        "אבטחת IP",
-        "AI",
-        "בעיות חוקיות"
-      ],
-      "published": "Mon, 02 Nov 2026 19:19:17 +0000"
-    },
-    {
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]",
-      "importance": 7,
-      "topics": [
-        "OpenAI",
-        "תשתיות",
-        "אנרגיה"
-      ],
-      "published": "2026-11-02T13:01:30-05:00"
-    },
-    {
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-      "importance": 7,
-      "topics": [
-        "Apple",
-        "רובוטיקה"
-      ],
-      "published": "Mon, 02 Nov 2026 18:32:21 +0000"
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "importance": 6,
       "topics": [
         "AI",
-        "סטארטפ",
-        "למידת מכונה"
+        "רכישות",
+        "אבטחה"
       ],
-      "published": "Mon, 02 Nov 2026 23:13:53 +0000"
-    },
-    {
-      "title": "Xbox’s former COO has ‘serious concerns’ about her abrupt departure",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
-      "summary": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo from Xbox CEO Asha Sharma. […]",
-      "importance": 6,
-      "topics": [
-        "Microsoft",
-        "שינוי הנהלה",
-        "Xbox"
-      ],
-      "published": "2026-11-02T13:43:24-05:00"
+      "published": "Tue, 03 Nov 2026 17:56:52 +0000"
     }
   ]
 }
