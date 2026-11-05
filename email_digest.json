@@ -1,71 +1,84 @@
 {
-  "generated_at": "2026-11-04T10:44:34.203920+00:00",
+  "generated_at": "2026-11-05T06:45:10.912994+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
-      "summary": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מלחמה"
+        "ביטחון"
       ],
-      "published": "Tue, 03 Nov 2026 06:01:14 -0500"
+      "published": "Wed, 04 Nov 2026 22:48:43 GMT"
     },
     {
-      "title": "Photos: US Democrats celebrate winning control of Congress",
+      "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-us-democrats-celebrate-winning-control-of-congress?traffic_source=rss",
-      "summary": "Democrats flipped seats that had long been held by Republicans in a wave of historic leadership firsts.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
+      "summary": "Defence cooperation deal signed as Syria's President al-Sharaa visits Riyadh for the second time in less than a month.",
       "importance": 8,
       "topics": [
-        "ארה״ב",
-        "בחירות",
-        "פוליטיקה"
+        "מזרח תיכון",
+        "סוריה",
+        "סעודיה"
       ],
-      "published": "Wed, 04 Nov 2026 10:18:10 +0000"
+      "published": "Thu, 05 Nov 2026 03:46:13 +0000"
     },
     {
-      "title": "‘Rejecting hate’: Abdul El-Sayed wins Senate seat despite racist attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss",
-      "summary": "The Democrat defeats Republican Mike Rogers to win Michigan seat to become first Muslim senator-elect in US history.",
-      "importance": 8,
-      "topics": [
-        "ארה״ב",
-        "בחירות",
-        "מיליוטריות"
-      ],
-      "published": "Wed, 04 Nov 2026 09:47:49 +0000"
-    },
-    {
-      "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss",
-      "summary": "Iran is on the brink of a new escalation with the US, but negotiations are continuing.",
-      "importance": 8,
-      "topics": [
-        "איראן",
-        "ארה\"ב",
-        "גיאופוליטיקה"
-      ],
-      "published": "Wed, 04 Nov 2026 09:16:57 +0000"
-    },
-    {
-      "title": "אל-סייד האנטי-ישראלי עשה היסטוריה: \"אפשר לעבור מאינשאללה לאלחמדולילה\"",
+      "title": "חריגת ואנס מהשורות, וההערכה בבית הלבן: \"איראן? עכשיו לטראמפ אין מה להפסיד\"",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/b11euidpzg",
-      "summary": "המועמד הדמוקרטי, בן למהגרים מצרים שמאשים את ישראל ברצח עם ורוצה למנוע ממנה כל סיוע ביטחוני, ניצח את יריבו ויהיה המוסלמי הראשון בסנאט. ברקע: סערת הפרסומת האנטישמית עם ביצים בסופרמרקט ו\"7 דולר כדי להרוג פלסטינים\". בנאום הניצחון תקף את ישראל: \"לא רוצים שהכסף שלנו יישלח למימון אפרטהייד, רצח עם או מלחמה\"",
+      "url": "https://www.ynet.co.il/news/article/bkln0fkafg",
+      "summary": "למרות המפלה בבחירות האמצע ואולי בעקבותיה - בוושינגטון סבורים: חידוש המלחמה עם איראן עדיין על הפרק. \"הצעד נבחן\", הבהירו גורמים אמריקניים. \"אל תקשיבו למה שטראמפ אומר. הוא התאפק כי ביקשנו ממנו להמתין\". מאחורי ההצהרה של סגנו שהפתיעה רבים - והבכיר בממשל ששותק",
       "importance": 8,
       "topics": [
-        "ארה\"ב",
-        "ישראל",
-        "בחירות"
+        "ארה״ב",
+        "איראן",
+        "מדיניות חוץ"
       ],
-      "published": "Wed, 04 Nov 2026 08:19:20 +0200"
+      "published": "Thu, 05 Nov 2026 07:39:38 +0200"
+    },
+    {
+      "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+      "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
+      "importance": 7,
+      "topics": [
+        "הונג קונג",
+        "דמוקרטיה",
+        "זכויות אדם"
+      ],
+      "published": "Thu, 05 Nov 2026 00:29:56 -0500"
+    },
+    {
+      "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+      "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations.",
+      "importance": 7,
+      "topics": [
+        "ארצות הברית",
+        "פוליטיקה",
+        "דיפלומטיה"
+      ],
+      "published": "Wed, 04 Nov 2026 07:34:35 -0500"
+    },
+    {
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "importance": 7,
+      "topics": [
+        "הונג קונג",
+        "דמוקרטיה",
+        "סין"
+      ],
+      "published": "Thu, 05 Nov 2026 06:35:25 GMT"
     },
     {
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
@@ -75,104 +88,52 @@
       "importance": 7,
       "topics": [
         "איראן",
-        "ארה\"ב",
+        "ארה״ב",
         "דיפלומטיה"
       ],
-      "published": "Wed, 04 Nov 2026 10:11:39 GMT"
+      "published": "Wed, 04 Nov 2026 16:59:15 GMT"
     },
     {
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "importance": 7,
-      "topics": [
-        "ספרד",
-        "אסון",
-        "פוליטיקה"
-      ],
-      "published": "Tue, 03 Nov 2026 22:45:59 GMT"
-    },
-    {
-      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
-      "importance": 7,
-      "topics": [
-        "אתיופיה",
-        "טיגראי",
-        "ביטחון"
-      ],
-      "published": "Wed, 04 Nov 2026 10:35:03 GMT"
-    },
-    {
-      "title": "GOP’s redistricting gamble backfires in Florida as Democrats hold ground",
+      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/gops-redistricting-gamble-backfires-in-florida-as-democrats-hold-ground?traffic_source=rss",
-      "summary": "Trump's party dealt a setback as Republican bid to tilt Florida's House map falters on a strong night for Democrats.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+      "summary": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
       "importance": 7,
       "topics": [
+        "אוקראינה",
         "ארה״ב",
-        "בחירות",
-        "פלורידה"
+        "דיפלומטיה"
       ],
-      "published": "Wed, 04 Nov 2026 09:48:31 +0000"
+      "published": "Thu, 05 Nov 2026 04:49:56 +0000"
     },
     {
-      "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
+      "title": "Paraguay bank collapses with half of population’s savings",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
-      "summary": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
+      "summary": "Protests have erupted across Paraguay after Ueno Bank was shut down in the middle of the night over a solvency crisis.",
       "importance": 7,
       "topics": [
-        "ישראל",
-        "פלסטינים",
-        "חברון"
+        "כלכלה",
+        "פרגוואי",
+        "משבר"
       ],
-      "published": "Wed, 04 Nov 2026 08:22:15 +0000"
+      "published": "Thu, 05 Nov 2026 04:11:45 +0000"
+    },
+    {
+      "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
+      "summary": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.",
+      "importance": 7,
+      "topics": [
+        "הונג קונג",
+        "דמוקרטיה",
+        "סין"
+      ],
+      "published": "Thu, 05 Nov 2026 04:04:57 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
-      "summary": "נשיא Blackstone, ג'ון גריי, אמר בגלוי: התשתיות של ה-AI צריכות יותר הון עצמי - ופחות חוב. זה לא אמירה טכנית, זה אות אזהרה ממי שיש לו מידע על מה שקורה מאחורי הקלעים.\n\nהבעיה: כשמאות מיליארדי דולרים נשפכים לתשתיות AI, רוב המימון הוא חוב - וזה יוצר ריכוזיות שמדאיגה את המשקיעים בצד הזה. אם כמה פרויקטים גדולים נכשלים, ההדף מורגש הרבה מעבר לחברות ה-AI עצמן - בנקים, קרנות אשראי, ומשקיעי תשתיות בכלל.",
-      "importance": 9,
-      "topics": [
-        "בינה מלאכותית",
-        "הון סכום",
-        "פיננסים"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Brookfield plans for a $27 billion AI data center at UK power station",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
-      "summary": "פרויקט של 27 מיליארד דולר: Brookfield מתכננת להקים מרכז נתונים ענק לצרכי AI על אתר תחנת כוח בבריטניה. האירופאים מתמודדים עם בעיה אמיתית - קרקע יקרה, חשמל יקר עוד יותר, וביקוש לתשתיות AI שרק הולך וגדל. הפתרון: לבנות ישירות על מקורות הייצור.\n\nמי שיושפע מזה מעבר לנדל\"ן ותשתיות - יצרני ציוד קירור, חברות סיבים אופטיים, וכל מי שנמצא בשרשרת האספקה של מרכזי נתונים. אירופה בונה, ובגדול.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "תשתיות",
-        "אנרגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Trump: I agreed with Netanyahu to end US aid",
-      "source": "גלובס כללי",
-      "url": "",
-      "summary": "ישראל לא תקבל יותר את הסיוע הצבאי השנתי של 3.8 מיליארד דולר מארה\"ב - זה מה שטראמפ אמר אמש ל-Fox News, וציין שהוא הגיע להסכמה על כך עם נתניהו.\n\nמבחינה מעשית, ישראל בנתה עצמאות ביטחונית ניכרת בשנים האחרונות, אז זה לא קריסה מיידית. אבל ל-3.8 מיליארד יש היגיון כלכלי עמוק - חלק גדול ממנו מוציאים בחזרה בחברות ביטחוניות אמריקניות כמו Lockheed ו-Raytheon. השינוי הזה ישפיע עליהן לפחות כמו על ישראל.",
-      "importance": 9,
-      "topics": [
-        "ארה״ב-ישראל",
-        "תקציב הגנה",
-        "גיאופוליטיקה"
-      ],
-      "tag": "ישראל"
-    },
     {
       "title": "Stocks, Dollar Drop on US Vote; Dip Buyers Emerge: Markets Wrap",
       "source": "Bloomberg Markets",
@@ -213,149 +174,201 @@
       "tag": "גלובלי"
     },
     {
-      "title": "This signal from the corporate bond market has historically preceded big drawdowns for the S&P 500",
+      "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "summary": "CVS מכריזה על פירוק - המניה צנחה 10% אתמול. החברה מתכוונת להפריד את רשת בתי המרקחת שלה מהזרוע הביטוחית (Aetna), ובעצם לבטל את המהלך הגדול ביותר שלה - רכישת Aetna ב-78 מיליארד דולר לפני שבע שנים.\n\nהרעיון המקורי היה ליצור ענקית בריאות אחת שמחברת ביטוח, בתי מרקחת ומרפאות - מה שנקרא אינטגרציה אנכית. זה לא עבד. עכשיו הם עושים את הדרך הפוכה.\n\nשווה לשים לב: כשחברות ביג-פארמה מתפרקות, זה בדרך כלל מאותת שגם האחרות מתחילות לבחן מחדש את המודל הזה.",
+      "importance": 9,
+      "topics": [
+        "M&A",
+        "healthcare",
+        "ריסטרוקטורציה"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "China expands overseas mining stakes, tightening grip on critical minerals",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "סין מחזיקה כיום בנתח גדול יותר ממחצית עיבוד המינרלים הקריטיים בעולם - ועכשיו היא הולכת צעד קדימה ומשיגה שליטה גם על הכרייה עצמה, דרך חברות ממשלתיות שרוכשות נכסים במכרות ברחבי העולם.\n\nהמשמעות: כשסין שולטת גם בחומר הגלם וגם בעיבוד, יצרני מכוניות חשמליות, חברות סוללות וספקי ביטחון במערב מוצאים עצמם תלויים בשרשרת אספקה אחת שהם לא שולטים בה.\n\nזה אחד המהלכים הגיאו-פוליטיים שמתקדמים לאט - אבל עם השפעה ארוכת טווח שתרגיש בכל מקום, מתעשיית הרכב ועד לתקציבי ביטחון.",
+      "importance": 9,
+      "topics": [
+        "סין",
+        "מינרלים",
+        "גיאופוליטיקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Wall Street’s Reckoning Looms as Democrats Take Over Congress",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "הדמוקרטים השתלטו על הקונגרס, וול סטריט מתחיל לחשב מסלול מחדש.\n\nכמעט שנתיים של רגולציה מקלה - בנקים, סטארטאפים פיננסיים וחברות קריפטו נהנו ממנה - עומדות כנראה בפני שינוי כיוון. הדמוקרטים מביאים איתם תפיסה שונה לחלוטין: יותר פיקוח, יותר מגבלות, פחות חופש תמרון למוסדות פיננסיים גדולים.\n\nמי שפחות ברור שיושפע: חברות טכנולוגיה שהיו עסוקות בלבנות מוצרים פיננסיים - הרגולציה שחזרה עלולה לעצור כמה מהן באמצע הדרך.",
+      "importance": 9,
+      "topics": [
+        "רגולציה",
+        "וול סטריט",
+        "פיננסים"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "summary": "תקרת החוב חוזרת לכותרות - והפעם עם טוויסט מעניין.\n\nהדמוקרטים שוקלים לנצל את המשא ומתן על תקרת החוב כדי לסחוט ויתורים מהרפובליקאים - תפקידים הפוכים לגמרי ממה שהורגלנו לראות. הבעיה: אם הם ידחפו חזק מדי, השווקים יגיבו. ניירות ערך של ממשלת ארה\"ב, שנחשבים לנכס הבטוח בעולם, עלולים להגיב בחדות - ואיתם גם שוקי מניות גלובליים.\n\nמה שפחות ברור: גם שוקי האג\"ח בישראל ומדינות מתפתחות מושפעים ישירות כשהתשואות האמריקאיות קופצות מהסוג הזה של אי-ודאות. שווה לשים לב לאיך זה מתפתח בחודשים הקרובים.",
+      "importance": 9,
+      "topics": [
+        "חוב ממשלתי",
+        "התנגשות פוליטית",
+        "תנודות שוק"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill",
       "source": "MarketWatch",
       "url": "",
-      "summary": "שוק אגרות החוב הקונצרניות שולח אות שהיסטורית הגיע לפני ירידות משמעותיות במניות.\n\nהלוגיקה פשוטה: כשמשקיעים באג\"ח קונצרני מתחילים לדרוש פרמיית סיכון גבוהה יותר, זה אומר שהם פחות בטוחים ביכולת של חברות להחזיר חוב. זה בדרך כלל קורה לפני שהחשש הזה מגיע לשוק המניות.\n\nמי שצריך לשים לב מעבר למניות: שוק ה-credit משפיע ישירות על עלויות המימון של חברות - מה שאומר פחות רכישות עצמיות, פחות השקעה, ולחץ על הרווחיות ברבעונים הקרובים.",
+      "summary": "מניית Novo Nordisk קפצה היום אחרי שהחברה העלתה את תחזיות הרווח שלה - הפעם בזכות גלולת Wegovy, לא הזריקה. זה רגע משמעותי: אם אפשר לקחת את התרופה האהובה הזו בצורת כדור, שוק הפוטנציאל גדל בצורה דרמטית - הרבה יותר אנשים מוכנים לבלוע כדור מאשר להזריק לעצמם. מי שצריך לשים לב לזה מעבר ל-Novo: חברות מזון, ביגוד ספורטיבי, ואפילו תעשיית האורתופדיה - כולן מרגישות את הגלים של מהפכת הרזייה.",
       "importance": 8,
       "topics": [
-        "אג״ח",
-        "בורסה",
-        "אותות שוק"
+        "פרמצבטיקה",
+        "צרכנות",
+        "ביוטק"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
+      "title": "Dow futures rally 700 points as Democrats win big in midterms: Live updates",
       "source": "CNBC Top News",
       "url": "",
-      "summary": "מחירי הנפט קפצו הבוקר אחרי שארה\"ב תקפה את אי קשם האיראני. זה מגיע יום אחרי שנשיאי שתי המדינות רמזו שהם פתוחים לפתרון דיפלומטי - כלומר השוק מגיב לשני הכיוונים בו-זמנית: גם לאיום וגם לתקווה.\n\nמי שפחות ברור שיושפע: חברות תעופה שמגדרות עלויות דלק, ושווקים מתעוררים שמייבאים נפט ורגישים מאוד לתנודות כאלה. כדאי לשים לב גם לדולר - בסביבה של חוסר ודאות גיאופוליטית הוא נוטה להתחזק, וזה מגיע על חשבון שאר הנכסים.",
+      "summary": "הדאו ג'ונס קופץ 700 נקודות ב-pre-market אחרי שהדמוקרטים ניצחו ביג במידטרמס האמריקאים.\n\nהשוק אוהב בחירות שמסתיימות - לא משנה כמעט מי ניצח. הוודאות עצמה שווה כסף. אבל פה יש עוד משהו: ניצחון דמוקרטי מרמז על רגולציה יותר מחמירה על טק ובנקים, ולעומת זאת - יותר השקעה בתשתיות ואנרגיה ירוקה. מי שצריך לשים לב הן חברות ה-clean energy שעשויות לראות רוח גבית, ומי שצריך לעקוב הוא סקטור הפיננסים שעלול לקבל כאב ראש רגולטורי.",
       "importance": 8,
       "topics": [
-        "נפט",
-        "ביטחון",
-        "מקרו"
+        "שוק מניות",
+        "סנטימנט",
+        "מקרופ"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
-      "source": "CNBC Top News",
+      "title": "Big Tech’s $500 billion spending spree leaves a lot less for shareholders",
+      "source": "MarketWatch",
       "url": "",
-      "summary": "חוקרי בלוקצ'יין עוקבים אחר מיליארדי דולרים שנגנבו מ-Binance ועוברים בין רשתות שונות - וצפון קוריאה מכחישה כל קשר. זה לא סיפור חדש: קבוצת Lazarus הצפון קורינית היא החשודה המרכזית בגנבות קריפטו גדולות כבר שנים. מה שמעניין פה הוא פחות הגנבה עצמה ויותר מה שהיא מראה - עד כמה קשה לעצור זרימת כסף בין רשתות מבוזרות, גם כשכולם יודעים לאן הוא הולך.",
+      "summary": "ענקיות הטכנולוגיה מתכננות להוציא השנה מעל 500 מיליארד דולר על תשתיות AI - ורוב הכסף הזה לא יגיע לבעלי המניות.\n\nפעם המודל היה פשוט: רווחים גדולים, חלוקת דיבידנדים ורכישות עצמיות. עכשיו ה-AI משנה את העסקה. ההשקעות ענקיות, ארוכות טווח, ולא ברור מתי הן יחזרו.\n\nמה שפחות ברור: זה משנה גם את הציפיות מחברות טק קטנות יותר. המשקיעים עשויים להתחיל לשאול שאלות אחרות - לא \"כמה מחלקים\" אלא \"לאיזה AI strategy יש כאן\".",
       "importance": 8,
       "topics": [
-        "קריפטו",
-        "סייבר",
-        "סיכוני מערכת"
+        "טכנולוגיה",
+        "AI",
+        "בעלויות הון"
       ],
-      "tag": "גלובלי"
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+      "title": "Meta acquires AI coding startup Conductor",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Meta",
+        "רכישה"
+      ],
+      "published": "Wed, 04 Nov 2026 21:10:56 +0000"
+    },
+    {
+      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+      "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+      "importance": 7,
+      "topics": [
+        "רכב אוטונומי",
+        "Waymo",
+        "Uber"
+      ],
+      "published": "Wed, 04 Nov 2026 18:12:30 +0000"
+    },
+    {
+      "title": "Sequoia hits rewind, undoing 20 years of expansion",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "summary": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+      "importance": 7,
+      "topics": [
+        "השקעות",
+        "Sequoia",
+        "venture capital"
+      ],
+      "published": "Wed, 04 Nov 2026 17:11:15 +0000"
+    },
+    {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is […]",
-      "importance": 8,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]",
+      "importance": 7,
+      "topics": [
+        "Qualcomm",
+        "AI",
+        "שבבים"
+      ],
+      "published": "2026-11-04T17:42:15-05:00"
+    },
+    {
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+      "importance": 7,
+      "topics": [
+        "אבטחת סייבר",
+        "iOS",
+        "Android"
+      ],
+      "published": "Wed, 04 Nov 2026 22:26:49 +0000"
+    },
+    {
+      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+      "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+      "importance": 7,
       "topics": [
         "שבבים",
         "AMD",
-        "data center"
+        "מרכזי נתונים"
       ],
-      "published": "2026-11-03T20:15:34-05:00"
+      "published": "Wed, 04 Nov 2026 21:29:46 +0000"
     },
     {
-      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers […]",
-      "importance": 8,
+      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+      "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+      "importance": 7,
       "topics": [
-        "אבטחה סייבר",
+        "אבטחת סייבר",
         "קריפטו",
         "Binance"
       ],
-      "published": "2026-11-03T17:04:02-05:00"
+      "published": "Wed, 04 Nov 2026 16:06:03 +0000"
     },
     {
-      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-      "importance": 8,
-      "topics": [
-        "אבטחה",
-        "Windows",
-        "Microsoft"
-      ],
-      "published": "Tue, 03 Nov 2026 16:03:13 +0000"
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "title": "בכירים באנת'רופיק ומיקרוסופט משקיעים בסטארטאפ ישראלי שבודק אם מערכות האבטחה שלכם עובדות או \"עובדות\"",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/brava-security-seed-funding-ai-telemetry-fix/",
+      "summary": "\"היום כמעט אף ארגון לא יכול לענות בוודאות על השאלה הכי בסיסית באבטחת מידע: אם מישהו ינסה לתקוף אותנו מחר, האם נזהה את זה?\" אומר בשיחה עם גיקטיים עידן בצרי, מנכ\"ל הסטארטאפ החדש Brava. ארגונים שופכים סכומי עתק על מערכות SIEM ואלפי חוקי זיהוי, אבל בפועל מנהלי אבטחת מידע מגלים לא פעם שחוקים נשברים בשקט, […] The post בכירים באנת'רופיק ומיקרוסופט משקיעים בסטארטאפ ישראלי שבודק אם מערכות האבטחה שלכם עובדו",
       "importance": 7,
       "topics": [
         "AI",
-        "Anthropic",
-        "אבטחה"
+        "אבטחת סייבר",
+        "גיוסי הון"
       ],
-      "published": "Tue, 03 Nov 2026 22:41:03 +0000"
-    },
-    {
-      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-      "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
-      "importance": 7,
-      "topics": [
-        "cybersecurity",
-        "פריצה",
-        "crypto"
-      ],
-      "published": "Tue, 03 Nov 2026 19:45:48 +0000"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "גיוסי הון",
-        "inference"
-      ],
-      "published": "Tue, 03 Nov 2026 19:34:43 +0000"
-    },
-    {
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "אבטחה סייבר",
-        "מיזוגים ורכישות"
-      ],
-      "published": "Tue, 03 Nov 2026 17:56:52 +0000"
-    },
-    {
-      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "זכויות יוצרים",
-        "דיני"
-      ],
-      "published": "Tue, 03 Nov 2026 18:30:27 +0000"
+      "published": "Wed, 04 Nov 2026 14:00:09 +0000"
     }
   ]
 }
