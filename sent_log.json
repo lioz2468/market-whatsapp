@@ -1123,7 +1123,8 @@
     "50ec9102bcb421c8": "2026-11-04T16:30:39.373293+00:00",
     "209cd149c754dedc": "2026-11-04T18:04:49.692482+00:00",
     "fe0d9a90eeb766cb": "2026-11-04T19:30:41.129133+00:00",
-    "2bd2c0d0fdb4147e": "2026-11-05T06:02:35.585949+00:00"
+    "2bd2c0d0fdb4147e": "2026-11-05T06:02:35.585949+00:00",
+    "459615f4a3dc57ff": "2026-11-05T07:30:42.767843+00:00"
   },
   "messages": [
     {
@@ -16335,7 +16336,21 @@
         "התנגשות פוליטית",
         "תנודות שוק"
       ]
+    },
+    {
+      "sent_at": "2026-11-05T07:30:42.767843+00:00",
+      "title": "Goldman Sachs $GS and Apollo $APO are approaching Wall Street investors to sell portions of SpaceX $SPCX's roughly $40B AI chip financing deal. The two firms have begun marketing the financing to potential buyers, with some investors being offered portions worth as much as $500M https://t.co/NBr7hA0Eq1",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "message": "עסקת ענק של 40 מיליארד דולר זה לא מה שמוכרים לכל מי שמבקש. Goldman Sachs ו-Apollo יצאו לשווק את עסקת מימון שבבי ה-AI של SpaceX למשקיעים מוסדיים בוול סטריט - חלקים של עד 500 מיליון דולר ליחידה. המשמעות: SpaceX לא רק בונה לוויינים ורקטות - היא הפכה לשחקנית מרכזית בתשתית ה-AI העולמית. מי שכדאי לשים לב אליו פה הם יצרני השבבים - עסקה בסדר גודל כזה מחזקת את הביקוש לשנים קדימה.",
+      "importance": 9,
+      "tag": "ארה\"ב",
+      "topics": [
+        "AI",
+        "מימון",
+        "רכישה של הון"
+      ]
     }
   ],
-  "last_auto_run": "2026-11-05T06:00:47.545618+00:00"
+  "last_auto_run": "2026-11-05T07:30:40.904069+00:00"
 }
