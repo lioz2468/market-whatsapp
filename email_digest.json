@@ -1,178 +1,139 @@
 {
-  "generated_at": "2026-11-05T06:45:10.912994+00:00",
+  "generated_at": "2026-11-05T10:39:37.013706+00:00",
   "lookback_hours": 24,
   "world": [
-    {
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ביטחון"
-      ],
-      "published": "Wed, 04 Nov 2026 22:48:43 GMT"
-    },
-    {
-      "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
-      "summary": "Defence cooperation deal signed as Syria's President al-Sharaa visits Riyadh for the second time in less than a month.",
-      "importance": 8,
-      "topics": [
-        "מזרח תיכון",
-        "סוריה",
-        "סעודיה"
-      ],
-      "published": "Thu, 05 Nov 2026 03:46:13 +0000"
-    },
-    {
-      "title": "חריגת ואנס מהשורות, וההערכה בבית הלבן: \"איראן? עכשיו לטראמפ אין מה להפסיד\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bkln0fkafg",
-      "summary": "למרות המפלה בבחירות האמצע ואולי בעקבותיה - בוושינגטון סבורים: חידוש המלחמה עם איראן עדיין על הפרק. \"הצעד נבחן\", הבהירו גורמים אמריקניים. \"אל תקשיבו למה שטראמפ אומר. הוא התאפק כי ביקשנו ממנו להמתין\". מאחורי ההצהרה של סגנו שהפתיעה רבים - והבכיר בממשל ששותק",
-      "importance": 8,
-      "topics": [
-        "ארה״ב",
-        "איראן",
-        "מדיניות חוץ"
-      ],
-      "published": "Thu, 05 Nov 2026 07:39:38 +0200"
-    },
     {
       "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
       "source": "NPR World",
       "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
       "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
-      "importance": 7,
+      "importance": 8,
       "topics": [
         "הונג קונג",
-        "דמוקרטיה",
+        "סין",
         "זכויות אדם"
       ],
       "published": "Thu, 05 Nov 2026 00:29:56 -0500"
-    },
-    {
-      "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
-      "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations.",
-      "importance": 7,
-      "topics": [
-        "ארצות הברית",
-        "פוליטיקה",
-        "דיפלומטיה"
-      ],
-      "published": "Wed, 04 Nov 2026 07:34:35 -0500"
     },
     {
       "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
       "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "importance": 7,
+      "importance": 8,
       "topics": [
         "הונג קונג",
-        "דמוקרטיה",
-        "סין"
+        "סין",
+        "זכויות אדם"
       ],
-      "published": "Thu, 05 Nov 2026 06:35:25 GMT"
+      "published": "Thu, 05 Nov 2026 08:07:22 GMT"
     },
     {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
       "importance": 7,
       "topics": [
-        "איראן",
-        "ארה״ב",
-        "דיפלומטיה"
+        "אקלים",
+        "אסון טבע",
+        "אסיה"
       ],
-      "published": "Wed, 04 Nov 2026 16:59:15 GMT"
+      "published": "Wed, 04 Nov 2026 23:12:47 GMT"
     },
     {
-      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+      "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
-      "summary": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "ארה״ב",
-        "דיפלומטיה"
-      ],
-      "published": "Thu, 05 Nov 2026 04:49:56 +0000"
-    },
-    {
-      "title": "Paraguay bank collapses with half of population’s savings",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
-      "summary": "Protests have erupted across Paraguay after Ueno Bank was shut down in the middle of the night over a solvency crisis.",
-      "importance": 7,
-      "topics": [
-        "כלכלה",
-        "פרגוואי",
-        "משבר"
-      ],
-      "published": "Thu, 05 Nov 2026 04:11:45 +0000"
-    },
-    {
-      "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
-      "summary": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
+      "summary": "Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.",
       "importance": 7,
       "topics": [
         "הונג קונג",
-        "דמוקרטיה",
-        "סין"
+        "סין",
+        "זכויות אדם"
       ],
-      "published": "Thu, 05 Nov 2026 04:04:57 +0000"
+      "published": "Thu, 05 Nov 2026 07:50:44 +0000"
+    },
+    {
+      "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
+      "summary": "Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.",
+      "importance": 7,
+      "topics": [
+        "אקלים",
+        "סביבה",
+        "כלכלה גלובלית"
+      ],
+      "published": "Thu, 05 Nov 2026 07:41:25 +0000"
+    },
+    {
+      "title": "חריגת ואנס מהשורות, וההערכה בבית הלבן: \"איראן? עכשיו לטראמפ אין מה להפסיד\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/bkln0fkafg",
+      "summary": "למרות המפלה בבחירות האמצע ואולי בעקבותיה - בוושינגטון סבורים: חידוש המלחמה עם איראן עדיין על הפרק. \"הצעד נבחן\", הבהירו גורמים אמריקניים. \"אל תקשיבו למה שטראמפ אומר. הוא התאפק כי ביקשנו ממנו להמתין\". מאחורי ההצהרה של סגנו שהפתיעה רבים - והבכיר בממשל ששותק",
+      "importance": 7,
+      "topics": [
+        "אירן",
+        "ארצות הברית",
+        "ביטחון אזורי"
+      ],
+      "published": "Thu, 05 Nov 2026 07:39:38 +0200"
+    },
+    {
+      "title": "הצבא הלבנוני לא סיפק את הסחורה: התוצאות המאכזבות של הפיילוט בדרום לבנון",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/yokra14948635",
+      "summary": "חיזבאללה חוזר לכפרים שפונו, ארגוני סיוע מטעמו מספקים שירותים לתושבים וצבא לבנון מתקשה לשלוט. כשלושה חודשים וחצי מאז שצה\"ל העביר את האחריות על שלושה יישובים בדרום המדינה לידי הלבנונים - מתברר המצב העגום בשטח, שיתכן ויחייב את ישראל לחזור ללחימה",
+      "importance": 7,
+      "topics": [
+        "לבנון",
+        "חיזבאללה",
+        "ביטחון אזורי"
+      ],
+      "published": "Thu, 05 Nov 2026 01:08:45 +0200"
+    },
+    {
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+      "importance": 6,
+      "topics": [
+        "סייבר",
+        "צרפת",
+        "ביטחון"
+      ],
+      "published": "Wed, 04 Nov 2026 16:26:15 GMT"
+    },
+    {
+      "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
+      "summary": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
+      "importance": 6,
+      "topics": [
+        "דרום קוריאה",
+        "איראן",
+        "ארה״ב"
+      ],
+      "published": "Thu, 05 Nov 2026 07:44:47 +0000"
+    },
+    {
+      "title": "Germany’s Merz expects Trump to keep ignoring Congress",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/germanys-merz-expects-trump-to-keep-ignoring-congress?traffic_source=rss",
+      "summary": "German Chancellor Friedrich Merz expects US President Donald Trump to keep bypassing Congress despite midterm losses.",
+      "importance": 6,
+      "topics": [
+        "גרמניה",
+        "ארה״ב",
+        "מדיניות חוץ"
+      ],
+      "published": "Thu, 05 Nov 2026 07:25:56 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Stocks, Dollar Drop on US Vote; Dip Buyers Emerge: Markets Wrap",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
-      "summary": "הדמוקרטים זכו בשתי הקאמרות בקונגרס, והשווקים הגיבו מיד: מניות ודולר ירדו, ואגרות חוב אמריקאיות עלו. הלוגיקה פשוטה - אם הקונגרס מפוצל, חלק גדול מהאג'נדה של טראמפ פשוט נתקע. פחות גירעון, פחות אינפלציה, ריבית יורדת - זה מה שהשוק מתמחר עכשיו. מי שיושפע בשקט: חברות שתלויות בתעריפי מכס ובחקיקה מהירה - פתאום הסיכון שלהן נראה אחרת.",
-      "importance": 9,
-      "topics": [
-        "בחירות",
-        "זרימת הון",
-        "מדיניות מונטרית"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Oracle $ORCL has reportedly canceled a $7B AI chip leasing deal with Tencent following pressure from the Trump administration, according to the FT. The five-year agreement would have given Tencent access to as many as 100,000 advanced AI chips across Oracle data centers in https://t.co/XfkaviC2uY",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "ביטול עסקה של 7 מיליארד דולר בין Oracle לטנסנט - זה לא חדשות שגרה.\n\nהסכם ל-5 שנים שהיה אמור לתת לטנסנט גישה ל-100,000 שבבי AI מתקדמים בוטל לחלוטין, לפי ה-FT, בלחץ ישיר מממשל טראמפ.\n\nההשפעות העקיפות פה מעניינות: ספקי ענן אמריקאיים שרצו לבנות הכנסות מסין נמצאים כעת בנקודה קשה - הממשל בעצם אומר להם שהגישה לשוק הסיני עוברת דרכו. לחברות כמו Microsoft ו-Amazon יש עסקאות דומות על הפרק, ושוות לב לראות אם זה תקדים.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "רגולציה",
-        "USA-סין"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-      "summary": "AMD עלתה כמעט 5% אחרי דוח שהפתיע - לא בגלל הבטחות, אלא בגלל הכנסות AI אמיתיות שקשה להתווכח איתן. השוק כבר מזמן חושש שבועת ה-AI בנויה על ציפיות בלי ביצוע בפועל. AMD מראה שיש מי שמרוויח כבר עכשיו.\n\nמה שפחות ברור: זה לחץ ישיר על NVIDIA להוכיח שהיא לא לבד בשוק, ובאותה נשימה - חדשות טובות לחברות ענן שצריכות לגוון את ספקי השבבים שלהן.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "צ'יפים",
-        "טכנולוגיה"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
       "source": "CNBC Top News",
@@ -226,6 +187,19 @@
       "tag": "גלובלי"
     },
     {
+      "title": "Goldman Sachs $GS and Apollo $APO are approaching Wall Street investors to sell portions of SpaceX $SPCX's roughly $40B AI chip financing deal. The two firms have begun marketing the financing to potential buyers, with some investors being offered portions worth as much as $500M https://t.co/NBr7hA0Eq1",
+      "source": "Twitter @wallstengine",
+      "url": "",
+      "summary": "עסקת ענק של 40 מיליארד דולר זה לא מה שמוכרים לכל מי שמבקש. Goldman Sachs ו-Apollo יצאו לשווק את עסקת מימון שבבי ה-AI של SpaceX למשקיעים מוסדיים בוול סטריט - חלקים של עד 500 מיליון דולר ליחידה. המשמעות: SpaceX לא רק בונה לוויינים ורקטות - היא הפכה לשחקנית מרכזית בתשתית ה-AI העולמית. מי שכדאי לשים לב אליו פה הם יצרני השבבים - עסקה בסדר גודל כזה מחזקת את הביקוש לשנים קדימה.",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "מימון",
+        "רכישה של הון"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
       "title": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill",
       "source": "MarketWatch",
       "url": "",
@@ -263,21 +237,47 @@
         "בעלויות הון"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Stock futures mixed after big rally following Democrats' decisive midterm wins",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "הדאו זינק 3% אתמול - היום הטוב ביותר שלו מאז אפריל 2025. הסיבה: הדמוקרטים ניצחו בבחירות האמצע בצורה חדה, ומחירי הנפט ירדו במקביל. שילוב שהשווקים אהבו.\n\nמה שמעניין פה: ניצחון דמוקרטי נתפס על ידי השוק כיציבות רגולטורית - פחות הפתעות, פחות מכסים, פחות כאוס. הנפט הוסיף לאווירה כי מחיר אנרגיה נמוך מוריד לחץ אינפלציוני. הבוקר ה-futures כבר מתמתנים - השוק עיכל ועכשיו מחכה לנתונים הבאים.",
+      "importance": 8,
+      "topics": [
+        "בחירות",
+        "שוק מניות",
+        "נפט"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "מניית NextDC קפצה 43% ביום אחד אחרי ש-Goodman Group ו-Digital Realty הודיעו שהן רוצות לרכוש יחד עד 9.9% ממנה.\n\nזה לא סתם השקעה פיננסית - שתי החברות האלה בונות ומפעילות מרכזי נתונים ונדל\"ן תעשייתי. כשהן קונות חלק ב-NextDC, זה סימן שהן רואות בה שחקן אסטרטגי בתשתיות הענן של אוסטרליה.\n\nשווה לשים לב גם לתאגידים שמספקים לה חשמל, קירור וסיבים אופטיים - הם יהיו הנהנים הבאים אם הביקוש ממשיך לגדול.",
+      "importance": 8,
+      "topics": [
+        "M&A",
+        "תשתיות ענן",
+        "דיגיטל"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Meta acquires AI coding startup Conductor",
+      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+      "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
       "importance": 7,
       "topics": [
-        "AI",
-        "Meta",
-        "רכישה"
+        "אבטחה",
+        "סייבר",
+        "DreamHost"
       ],
-      "published": "Wed, 04 Nov 2026 21:10:56 +0000"
+      "published": "Wed, 04 Nov 2026 20:36:57 +0000"
     },
     {
       "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
@@ -300,8 +300,8 @@
       "importance": 7,
       "topics": [
         "השקעות",
-        "Sequoia",
-        "venture capital"
+        "Sequoia Capital",
+        "VC"
       ],
       "published": "Wed, 04 Nov 2026 17:11:15 +0000"
     },
@@ -314,7 +314,7 @@
       "topics": [
         "Qualcomm",
         "AI",
-        "שבבים"
+        "מרכזי נתונים"
       ],
       "published": "2026-11-04T17:42:15-05:00"
     },
@@ -325,7 +325,7 @@
       "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
       "importance": 7,
       "topics": [
-        "אבטחת סייבר",
+        "אבטחה",
         "iOS",
         "Android"
       ],
@@ -338,37 +338,37 @@
       "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
       "importance": 7,
       "topics": [
-        "שבבים",
         "AMD",
+        "שבבים",
         "מרכזי נתונים"
       ],
       "published": "Wed, 04 Nov 2026 21:29:46 +0000"
     },
     {
-      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-      "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+      "title": "פאלו אלטו בדרך לרכוש סטארטאפ ישראלי בן 3 בחצי מיליארד דולר",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/palo-alto-about-to-acquire-clutch-for-500m/",
+      "summary": "ענקית הסייבר Palo Alto Networks לא עוצרת את מסע הרכישות שלה, ואחרי שתי רכישות של חברות שאינן ישראליות בחצי מיליארד דולר – דיווח חדש מגלה שסטארטאפ ישראלי צעיר בדרך לאקזיט באותו הסכום. עסקה מהירה בסכום אדיר על פי דיווח חדש של The Information, הסטארטאפ הישראלי Clutch Security על הכוונת של פאלו אלטו וכרגע מתקיים מו\"מ […] The post פאלו אלטו בדרך לרכוש סטארטאפ ישראלי בן 3 בחצי מיליארד דולר appeared firs",
       "importance": 7,
       "topics": [
-        "אבטחת סייבר",
-        "קריפטו",
-        "Binance"
+        "רכישה",
+        "סייבר",
+        "סטארטאפ"
       ],
-      "published": "Wed, 04 Nov 2026 16:06:03 +0000"
+      "published": "Thu, 05 Nov 2026 07:27:44 +0000"
     },
     {
-      "title": "בכירים באנת'רופיק ומיקרוסופט משקיעים בסטארטאפ ישראלי שבודק אם מערכות האבטחה שלכם עובדות או \"עובדות\"",
+      "title": "הסטארטאפ Sentra שהוקם על ידי מפקד 8200 לשעבר מגייס 150 מיליון דולר",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/brava-security-seed-funding-ai-telemetry-fix/",
-      "summary": "\"היום כמעט אף ארגון לא יכול לענות בוודאות על השאלה הכי בסיסית באבטחת מידע: אם מישהו ינסה לתקוף אותנו מחר, האם נזהה את זה?\" אומר בשיחה עם גיקטיים עידן בצרי, מנכ\"ל הסטארטאפ החדש Brava. ארגונים שופכים סכומי עתק על מערכות SIEM ואלפי חוקי זיהוי, אבל בפועל מנהלי אבטחת מידע מגלים לא פעם שחוקים נשברים בשקט, […] The post בכירים באנת'רופיק ומיקרוסופט משקיעים בסטארטאפ ישראלי שבודק אם מערכות האבטחה שלכם עובדו",
+      "url": "https://www.geektime.co.il/sentra-nabs-major-funding-round/",
+      "summary": "כשארגונים דוהרים לענן ומאמצים כלי AI בקצב מהיר, משהו אחד נשאר מאחור – השליטה במידע הרגיש. פתאום אף אחד לא באמת יודע איפה יושב הדאטה או למי יש גישה אליו. הסטארטאפ הישראלי Sentra, שמורכב מבכירי 8200 לשעבר החליט לעשות לזה סוף, ועל הדרך גם להראות למיקרוסופט איך עושים את זה נכון. עכשיו הוא חושף גיוס […] The post הסטארטאפ Sentra שהוקם על ידי מפקד 8200 לשעבר מגייס 150 מיליון דולר appeared first on גיקטיי",
       "importance": 7,
       "topics": [
-        "AI",
-        "אבטחת סייבר",
-        "גיוסי הון"
+        "סטארטאפ",
+        "גיוס הון",
+        "AI"
       ],
-      "published": "Wed, 04 Nov 2026 14:00:09 +0000"
+      "published": "Wed, 04 Nov 2026 12:00:25 +0000"
     }
   ]
 }
