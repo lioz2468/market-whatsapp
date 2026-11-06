@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-11-06T06:45:12.451711+00:00",
+  "generated_at": "2026-11-06T10:40:14.001439+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Israel’s President Herzog to name candidate to form government on Sunday",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
+      "summary": "Announcement comes after majority of Israeli lawmakers endorse Eisenkot over Netanyahu.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "פוליטיקה"
+      ],
+      "published": "Fri, 06 Nov 2026 07:09:42 +0000"
+    },
+    {
+      "title": "נתניהו לא מכחיש שיופסק הסיוע מארה\"ב כבר משנה הבאה: \"עוברים לשותפות\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hyu5pfo6zx",
+      "summary": "משרד ראש הממשלה לא מכחיש שטראמפ סיכם עם נתניהו שהסיוע הצבאי יופסק כבר משנה הבאה - ללא ידיעת מערכת הביטחון ומשרד האוצר - ומסר: \"הכלכלה חזקה ויציבה\". גורמים מדיניים: \"יש עדיין דיונים, המטרה להגיע להסכם לפני השבעת הקונגרס החדש\"",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "ארה\"ב",
+        "ביטחון"
+      ],
+      "published": "Fri, 06 Nov 2026 11:33:22 +0200"
+    },
     {
       "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
       "source": "NPR World",
@@ -11,22 +36,61 @@
       "topics": [
         "פרגוואי",
         "משבר פוליטי",
-        "קריסת בנק"
+        "בנקאות"
       ],
       "published": "Thu, 05 Nov 2026 13:30:16 -0500"
     },
     {
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
+        "אירן",
+        "ביטחון",
+        "נשקים"
       ],
-      "published": "Thu, 05 Nov 2026 19:08:08 GMT"
+      "published": "Fri, 06 Nov 2026 07:33:41 GMT"
+    },
+    {
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "California has historically had the largest population of people on death row in the US.",
+      "importance": 7,
+      "topics": [
+        "ארה״ב",
+        "משפט",
+        "עונש מוות"
+      ],
+      "published": "Thu, 05 Nov 2026 23:09:33 GMT"
+    },
+    {
+      "title": "Macau jails pro-democracy campaigner in city's first national security case",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
+      "importance": 7,
+      "topics": [
+        "הונג קונג",
+        "זכויות אדם",
+        "סין"
+      ],
+      "published": "Fri, 06 Nov 2026 06:46:21 GMT"
+    },
+    {
+      "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
+      "summary": "Lebanese who lived through two Israeli escalations are stocking up and packing bags in case of a third.",
+      "importance": 7,
+      "topics": [
+        "לבנון",
+        "ישראל",
+        "ביטחון"
+      ],
+      "published": "Fri, 06 Nov 2026 07:30:04 +0000"
     },
     {
       "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
@@ -36,117 +100,39 @@
       "importance": 7,
       "topics": [
         "איראן",
-        "מזרח תיכון",
-        "כלכלה גלובלית"
+        "גיאופוליטיקה",
+        "סחר"
       ],
       "published": "Fri, 06 Nov 2026 06:06:24 +0000"
     },
     {
-      "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
-      "summary": "Call comes as Iraq's top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
-      "importance": 7,
-      "topics": [
-        "עיראק",
-        "איראן",
-        "מזרח תיכון"
-      ],
-      "published": "Fri, 06 Nov 2026 05:00:47 +0000"
-    },
-    {
-      "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-      "summary": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "פלסטינה",
-        "ביטחון"
-      ],
-      "published": "Fri, 06 Nov 2026 04:30:26 +0000"
-    },
-    {
-      "title": "Paraguay’s president impeached amid bank collapse crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
-      "summary": "Lawmakers have voted to impeach Paraguay’s President Santiago Pena amid a banking collapse that has roiled the country.",
-      "importance": 7,
-      "topics": [
-        "פרגוואי",
-        "משבר פוליטי",
-        "כלכלה"
-      ],
-      "published": "Fri, 06 Nov 2026 03:49:33 +0000"
-    },
-    {
-      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
-      "summary": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
-      "importance": 7,
-      "topics": [
-        "רוסיה",
-        "איראן",
-        "דיפלומטיה"
-      ],
-      "published": "Fri, 06 Nov 2026 02:48:19 +0000"
-    },
-    {
-      "title": "איראן עוד על הפרק: צה\"ל ממתין לראות לאן נושבת הרוח בוושינגטון",
+      "title": "ממשלת שינוי-חרדים? ליברמן: \"נתפשר גם בגיוס\", גולן: \"התקדמות ממשית\". אשר: \"אין הצעה\"",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14950309",
-      "summary": "ברקע מערכות הבחירות שטלטלו את ארה\"ב וישראל, במערכת הביטחון אומרים כי המצב מול איראן עלול להשתנות במהירות - וממתינים להכרעה אמריקנית. במקביל, נערכים להתחממות בזירה הלבנונית ומזהירים מפני התגברות הפשיעה הלאומנית ביו\"ש בגלל ההתפתחויות הפוליטיות: \"התופעה הולכת ומתעצמת\"",
+      "url": "https://www.ynet.co.il/news/article/byb6xmotzl",
+      "summary": "שינוי דרמטי בעמדתו של יו\"ר ישראל ביתנו, שעדיין מתנגד לממשלה בהימנעות מפלגות ערביות - אך לדבריו \"בכל שאר הנושאים רצוי להבין שתפסת מרובה לא תפסת. התוצאות מחייבות שנחשב מסלול מחדש\". גולן: \"אופטימי משהייתי\". יו\"ר יהדות התורה: \"כל הצעה תובא לגדולי הדור\". עדיין לא ברור איך יגיעו ל-61",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "פוליטיקה",
+        "ממשלה"
+      ],
+      "published": "Fri, 06 Nov 2026 10:52:52 +0200"
+    },
+    {
+      "title": "ספינות הקשורות לאיראן עקבו אחר כבלי תקשורת במפרץ: \"מתאים לפרופיל של הנחת מוקשים\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/skhjaxitgx",
+      "summary": "לפי דיווח ב\"פייננשל טיימס\", לפחות ארבע ספינות תועדו משייטות במסלולים חריגים ומתעכבות מעל נתיבי כבלים בקרקעית מפרץ עומאן. שלוש מהן מכליות הנתונות לסנקציות אמריקניות. החשש: טהרן עלולה לפגוע בתשתיות הדיגיטליות באזור במקרה שארה\"ב וישראל יחדשו את הלחימה",
       "importance": 7,
       "topics": [
         "איראן",
-        "ישראל",
-        "ביטחון"
+        "גיאופוליטיקה",
+        "תשתיות דיגיטליות"
       ],
-      "published": "Fri, 06 Nov 2026 03:08:02 +0200"
-    },
-    {
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-      "importance": 6,
-      "topics": [
-        "שוקי הון",
-        "טכנולוגיה",
-        "AI"
-      ],
-      "published": "Fri, 06 Nov 2026 06:00:59 GMT"
-    },
-    {
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "summary": "California has historically had the largest population of people on death row in the US.",
-      "importance": 6,
-      "topics": [
-        "קליפורניה",
-        "עדכון משפטי",
-        "עונש מוות"
-      ],
-      "published": "Thu, 05 Nov 2026 23:09:33 GMT"
+      "published": "Fri, 06 Nov 2026 09:36:30 +0200"
     }
   ],
   "business": [
-    {
-      "title": "Goldman Sachs $GS and Apollo $APO are approaching Wall Street investors to sell portions of SpaceX $SPCX's roughly $40B AI chip financing deal. The two firms have begun marketing the financing to potential buyers, with some investors being offered portions worth as much as $500M https://t.co/NBr7hA0Eq1",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "עסקת ענק של 40 מיליארד דולר זה לא מה שמוכרים לכל מי שמבקש. Goldman Sachs ו-Apollo יצאו לשווק את עסקת מימון שבבי ה-AI של SpaceX למשקיעים מוסדיים בוול סטריט - חלקים של עד 500 מיליון דולר ליחידה. המשמעות: SpaceX לא רק בונה לוויינים ורקטות - היא הפכה לשחקנית מרכזית בתשתית ה-AI העולמית. מי שכדאי לשים לב אליו פה הם יצרני השבבים - עסקה בסדר גודל כזה מחזקת את הביקוש לשנים קדימה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "מימון",
-        "רכישה של הון"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
       "source": "CNBC World",
@@ -188,28 +174,16 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Stock futures mixed after big rally following Democrats' decisive midterm wins",
+      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
       "source": "CNBC Top News",
       "url": "",
-      "summary": "הדאו זינק 3% אתמול - היום הטוב ביותר שלו מאז אפריל 2025. הסיבה: הדמוקרטים ניצחו בבחירות האמצע בצורה חדה, ומחירי הנפט ירדו במקביל. שילוב שהשווקים אהבו.\n\nמה שמעניין פה: ניצחון דמוקרטי נתפס על ידי השוק כיציבות רגולטורית - פחות הפתעות, פחות מכסים, פחות כאוס. הנפט הוסיף לאווירה כי מחיר אנרגיה נמוך מוריד לחץ אינפלציוני. הבוקר ה-futures כבר מתמתנים - השוק עיכל ועכשיו מחכה לנתונים הבאים.",
-      "importance": 8,
+      "summary": "אחרי ניצחון הדמוקרטים בבחירות האמצע, חלק מהחברים הנבחרים דורשים הקפאה מיידית על בניית מרכזי נתונים חדשים בארה\"ב. לא רגולציה עדינה - עצירה מלאה, עד להסדרת הנושא.\n\nזה עדיין רחוק מחקיקה, אבל הרטוריקה משנה את מפת הסיכונים. חברות כמו Microsoft, Amazon ו-Google שהשקיעו מאות מיליארדים בתשתיות AI - פתאום מתמחרות סיכון רגולטורי שלא היה על הפרק לפני שנה. וגם חברות תשתית, חשמל ונדל\"ן תעשייתי שבנו את העסק שלהן סביב הבום הזה - שווה לשים לב איך הן מגיבות.",
+      "importance": 9,
       "topics": [
-        "בחירות",
-        "שוק מניות",
-        "נפט"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
-      "source": "CNBC World",
-      "url": "",
-      "summary": "מניית NextDC קפצה 43% ביום אחד אחרי ש-Goodman Group ו-Digital Realty הודיעו שהן רוצות לרכוש יחד עד 9.9% ממנה.\n\nזה לא סתם השקעה פיננסית - שתי החברות האלה בונות ומפעילות מרכזי נתונים ונדל\"ן תעשייתי. כשהן קונות חלק ב-NextDC, זה סימן שהן רואות בה שחקן אסטרטגי בתשתיות הענן של אוסטרליה.\n\nשווה לשים לב גם לתאגידים שמספקים לה חשמל, קירור וסיבים אופטיים - הם יהיו הנהנים הבאים אם הביקוש ממשיך לגדול.",
-      "importance": 8,
-      "topics": [
-        "M&A",
-        "תשתיות ענן",
-        "דיגיטל"
+        "AI",
+        "רגולציה",
+        "תשתיות",
+        "טכנולוגיה"
       ],
       "tag": "גלובלי"
     },
@@ -264,6 +238,32 @@
         "רווחיות"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Hedge Funds Dump Positions and Cut Staff as Selloff Deepens",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "קרנות גידור פרקו פוזיציות בחודש שעבר בקצב הגבוה ביותר מזה יותר מעשור - וזה לא רק מספר.\n\nכשהן מוכרות בבת אחת בסקייל הזה, הן לא מגיבות לחדשות אחת - הן מגיבות ללחץ: משקיעים שמושכים כסף, מארג'ין שמצטמצם, סיכון שמנהלים מחשבים מחדש. חלקן גם מפטרות.\n\nמי שצריך לשים לב: כל מי שתוהה למה מניות \"טובות\" ירדו בלי סיבה ברורה - זה לעיתים קרובות הסיבה. לא חדשות רעות, אלא מכירה כפויה.",
+      "importance": 8,
+      "topics": [
+        "שווקי מניות",
+        "זרימת הון",
+        "התנהגות משקיעים"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "פרגוואי נכנסת למשבר: הנשיא סנטיאגו פניה התפטר אחרי שבנק עם קשרים הדוקים אליו קרס ומשך איתו את היציבות הפוליטית של המדינה.\n\nזה לא סתם דרמה דרום אמריקאית. פרגוואי הפכה בשנים האחרונות לאחת הכלכלות הצומחות המעניינות באזור - עם קשרים הדוקים לארה\"ב ותשומת לב גוברת ממשקיעים זרים. קריסה מהסוג הזה, שבה בנק ופוליטיקה שזורים יחד, מחזירה שאלות של אמינות ורגולציה. מי שצריך לשים לב: כל מי שמחזיק חשיפה לשווקים מתפתחים באמריקה הלטינית.",
+      "importance": 8,
+      "topics": [
+        "סיכון מדינתי",
+        "מערכת בנקאית",
+        "השקעות בשווקים מתעוררים"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
@@ -275,8 +275,7 @@
       "importance": 8,
       "topics": [
         "אבטחה",
-        "סייבר",
-        "תשתיות"
+        "סייבר"
       ],
       "published": "Thu, 05 Nov 2026 18:48:34 +0000"
     },
@@ -288,10 +287,34 @@
       "importance": 8,
       "topics": [
         "OpenAI",
-        "IPO",
-        "פיננסים"
+        "IPO"
       ],
       "published": "Thu, 05 Nov 2026 18:02:27 +0000"
+    },
+    {
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "Linux"
+      ],
+      "published": "Thu, 05 Nov 2026 23:09:36 +0000"
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "רכישה",
+        "אבטחה"
+      ],
+      "published": "Fri, 06 Nov 2026 06:28:32 +0000"
     },
     {
       "title": "Meta, Google, and TikTok sue California AG over teen social media law",
@@ -301,62 +324,10 @@
       "importance": 7,
       "topics": [
         "רגולציה",
-        "תקשורת חברתית",
-        "משפט"
+        "Meta",
+        "Google"
       ],
       "published": "Fri, 06 Nov 2026 00:01:38 +0000"
-    },
-    {
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-      "importance": 7,
-      "topics": [
-        "רובוטיקה",
-        "AI",
-        "פלטפורמה"
-      ],
-      "published": "Thu, 05 Nov 2026 21:15:00 +0000"
-    },
-    {
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "verification",
-        "מתמטיקה"
-      ],
-      "published": "Thu, 05 Nov 2026 16:16:45 +0000"
-    },
-    {
-      "title": "Perplexity launches its own take on AI agents for work",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]",
-      "importance": 7,
-      "topics": [
-        "AI agents",
-        "Perplexity",
-        "AI"
-      ],
-      "published": "2026-11-05T17:26:50-05:00"
-    },
-    {
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-      "importance": 7,
-      "topics": [
-        "אבטחה",
-        "Linux",
-        "Vulnerability"
-      ],
-      "published": "Thu, 05 Nov 2026 23:09:36 +0000"
     },
     {
       "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
@@ -367,9 +338,35 @@
       "topics": [
         "Google",
         "AI",
-        "Anti-trust"
+        "רגולציה"
       ],
       "published": "Thu, 05 Nov 2026 21:40:36 +0000"
+    },
+    {
+      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "מודלים שפה",
+        "פרסומות"
+      ],
+      "published": "Thu, 05 Nov 2026 21:37:18 +0000"
+    },
+    {
+      "title": "ה-Bluetooth מקבל את אחד השדרוגים הגדולים והחשובים אי פעם",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/bluetooth-is-about-to-get-a-huge-upgrade/",
+      "summary": "אמנם אנחנו כבר לא בדיוק מעבירים קבצים כמו פעם, והרבה מכשירים מתבססים בכלל על Wi-Fi, אבל תקן Bluetooth הוא עדיין התקן שעליו מתבססים לא מעט מכשירים ופיצ'רים. עכשיו מתברר שהשדרוג המשמעותי הגדול לתקן נמצא מעבר לפינה. קפיצה של כמעט פי ארבעה הקבוצה העומדת מאחורי התקן, בעלת השם הקליט והמפתיע Bluetooth Special Interest Group, או SIG […] The post ה-Bluetooth מקבל את אחד השדרוגים הגדולים והחשובים אי פעם app",
+      "importance": 7,
+      "topics": [
+        "Bluetooth",
+        "תקנים",
+        "טכנולוגיה"
+      ],
+      "published": "Fri, 06 Nov 2026 08:14:31 +0000"
     }
   ]
 }
