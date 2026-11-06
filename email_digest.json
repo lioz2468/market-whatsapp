@@ -1,191 +1,139 @@
 {
-  "generated_at": "2026-11-05T10:39:37.013706+00:00",
+  "generated_at": "2026-11-06T06:45:12.451711+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+      "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
-      "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
-      "importance": 8,
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+      "summary": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.",
+      "importance": 7,
       "topics": [
-        "הונג קונג",
-        "סין",
-        "זכויות אדם"
+        "פרגוואי",
+        "משבר פוליטי",
+        "קריסת בנק"
       ],
-      "published": "Thu, 05 Nov 2026 00:29:56 -0500"
+      "published": "Thu, 05 Nov 2026 13:30:16 -0500"
     },
     {
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "importance": 8,
-      "topics": [
-        "הונג קונג",
-        "סין",
-        "זכויות אדם"
-      ],
-      "published": "Thu, 05 Nov 2026 08:07:22 GMT"
-    },
-    {
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
       "importance": 7,
       "topics": [
-        "אקלים",
-        "אסון טבע",
-        "אסיה"
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה"
       ],
-      "published": "Wed, 04 Nov 2026 23:12:47 GMT"
+      "published": "Thu, 05 Nov 2026 19:08:08 GMT"
     },
     {
-      "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+      "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
-      "summary": "Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
+      "summary": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
       "importance": 7,
       "topics": [
-        "הונג קונג",
-        "סין",
-        "זכויות אדם"
-      ],
-      "published": "Thu, 05 Nov 2026 07:50:44 +0000"
-    },
-    {
-      "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
-      "summary": "Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.",
-      "importance": 7,
-      "topics": [
-        "אקלים",
-        "סביבה",
+        "איראן",
+        "מזרח תיכון",
         "כלכלה גלובלית"
       ],
-      "published": "Thu, 05 Nov 2026 07:41:25 +0000"
+      "published": "Fri, 06 Nov 2026 06:06:24 +0000"
     },
     {
-      "title": "חריגת ואנס מהשורות, וההערכה בבית הלבן: \"איראן? עכשיו לטראמפ אין מה להפסיד\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bkln0fkafg",
-      "summary": "למרות המפלה בבחירות האמצע ואולי בעקבותיה - בוושינגטון סבורים: חידוש המלחמה עם איראן עדיין על הפרק. \"הצעד נבחן\", הבהירו גורמים אמריקניים. \"אל תקשיבו למה שטראמפ אומר. הוא התאפק כי ביקשנו ממנו להמתין\". מאחורי ההצהרה של סגנו שהפתיעה רבים - והבכיר בממשל ששותק",
+      "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
+      "summary": "Call comes as Iraq's top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
       "importance": 7,
       "topics": [
-        "אירן",
-        "ארצות הברית",
-        "ביטחון אזורי"
+        "עיראק",
+        "איראן",
+        "מזרח תיכון"
       ],
-      "published": "Thu, 05 Nov 2026 07:39:38 +0200"
+      "published": "Fri, 06 Nov 2026 05:00:47 +0000"
     },
     {
-      "title": "הצבא הלבנוני לא סיפק את הסחורה: התוצאות המאכזבות של הפיילוט בדרום לבנון",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14948635",
-      "summary": "חיזבאללה חוזר לכפרים שפונו, ארגוני סיוע מטעמו מספקים שירותים לתושבים וצבא לבנון מתקשה לשלוט. כשלושה חודשים וחצי מאז שצה\"ל העביר את האחריות על שלושה יישובים בדרום המדינה לידי הלבנונים - מתברר המצב העגום בשטח, שיתכן ויחייב את ישראל לחזור ללחימה",
+      "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+      "summary": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
       "importance": 7,
       "topics": [
-        "לבנון",
-        "חיזבאללה",
-        "ביטחון אזורי"
-      ],
-      "published": "Thu, 05 Nov 2026 01:08:45 +0200"
-    },
-    {
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "importance": 6,
-      "topics": [
-        "סייבר",
-        "צרפת",
+        "ישראל",
+        "פלסטינה",
         "ביטחון"
       ],
-      "published": "Wed, 04 Nov 2026 16:26:15 GMT"
+      "published": "Fri, 06 Nov 2026 04:30:26 +0000"
     },
     {
-      "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+      "title": "Paraguay’s president impeached amid bank collapse crisis",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
-      "summary": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
-      "importance": 6,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
+      "summary": "Lawmakers have voted to impeach Paraguay’s President Santiago Pena amid a banking collapse that has roiled the country.",
+      "importance": 7,
       "topics": [
-        "דרום קוריאה",
+        "פרגוואי",
+        "משבר פוליטי",
+        "כלכלה"
+      ],
+      "published": "Fri, 06 Nov 2026 03:49:33 +0000"
+    },
+    {
+      "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
+      "summary": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
+      "importance": 7,
+      "topics": [
+        "רוסיה",
         "איראן",
-        "ארה״ב"
+        "דיפלומטיה"
       ],
-      "published": "Thu, 05 Nov 2026 07:44:47 +0000"
+      "published": "Fri, 06 Nov 2026 02:48:19 +0000"
     },
     {
-      "title": "Germany’s Merz expects Trump to keep ignoring Congress",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/germanys-merz-expects-trump-to-keep-ignoring-congress?traffic_source=rss",
-      "summary": "German Chancellor Friedrich Merz expects US President Donald Trump to keep bypassing Congress despite midterm losses.",
+      "title": "איראן עוד על הפרק: צה\"ל ממתין לראות לאן נושבת הרוח בוושינגטון",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/yokra14950309",
+      "summary": "ברקע מערכות הבחירות שטלטלו את ארה\"ב וישראל, במערכת הביטחון אומרים כי המצב מול איראן עלול להשתנות במהירות - וממתינים להכרעה אמריקנית. במקביל, נערכים להתחממות בזירה הלבנונית ומזהירים מפני התגברות הפשיעה הלאומנית ביו\"ש בגלל ההתפתחויות הפוליטיות: \"התופעה הולכת ומתעצמת\"",
+      "importance": 7,
+      "topics": [
+        "איראן",
+        "ישראל",
+        "ביטחון"
+      ],
+      "published": "Fri, 06 Nov 2026 03:08:02 +0200"
+    },
+    {
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
       "importance": 6,
       "topics": [
-        "גרמניה",
-        "ארה״ב",
-        "מדיניות חוץ"
+        "שוקי הון",
+        "טכנולוגיה",
+        "AI"
       ],
-      "published": "Thu, 05 Nov 2026 07:25:56 +0000"
+      "published": "Fri, 06 Nov 2026 06:00:59 GMT"
+    },
+    {
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "California has historically had the largest population of people on death row in the US.",
+      "importance": 6,
+      "topics": [
+        "קליפורניה",
+        "עדכון משפטי",
+        "עונש מוות"
+      ],
+      "published": "Thu, 05 Nov 2026 23:09:33 GMT"
     }
   ],
   "business": [
-    {
-      "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-      "summary": "CVS מכריזה על פירוק - המניה צנחה 10% אתמול. החברה מתכוונת להפריד את רשת בתי המרקחת שלה מהזרוע הביטוחית (Aetna), ובעצם לבטל את המהלך הגדול ביותר שלה - רכישת Aetna ב-78 מיליארד דולר לפני שבע שנים.\n\nהרעיון המקורי היה ליצור ענקית בריאות אחת שמחברת ביטוח, בתי מרקחת ומרפאות - מה שנקרא אינטגרציה אנכית. זה לא עבד. עכשיו הם עושים את הדרך הפוכה.\n\nשווה לשים לב: כשחברות ביג-פארמה מתפרקות, זה בדרך כלל מאותת שגם האחרות מתחילות לבחן מחדש את המודל הזה.",
-      "importance": 9,
-      "topics": [
-        "M&A",
-        "healthcare",
-        "ריסטרוקטורציה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "China expands overseas mining stakes, tightening grip on critical minerals",
-      "source": "CNBC World",
-      "url": "",
-      "summary": "סין מחזיקה כיום בנתח גדול יותר ממחצית עיבוד המינרלים הקריטיים בעולם - ועכשיו היא הולכת צעד קדימה ומשיגה שליטה גם על הכרייה עצמה, דרך חברות ממשלתיות שרוכשות נכסים במכרות ברחבי העולם.\n\nהמשמעות: כשסין שולטת גם בחומר הגלם וגם בעיבוד, יצרני מכוניות חשמליות, חברות סוללות וספקי ביטחון במערב מוצאים עצמם תלויים בשרשרת אספקה אחת שהם לא שולטים בה.\n\nזה אחד המהלכים הגיאו-פוליטיים שמתקדמים לאט - אבל עם השפעה ארוכת טווח שתרגיש בכל מקום, מתעשיית הרכב ועד לתקציבי ביטחון.",
-      "importance": 9,
-      "topics": [
-        "סין",
-        "מינרלים",
-        "גיאופוליטיקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Wall Street’s Reckoning Looms as Democrats Take Over Congress",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "הדמוקרטים השתלטו על הקונגרס, וול סטריט מתחיל לחשב מסלול מחדש.\n\nכמעט שנתיים של רגולציה מקלה - בנקים, סטארטאפים פיננסיים וחברות קריפטו נהנו ממנה - עומדות כנראה בפני שינוי כיוון. הדמוקרטים מביאים איתם תפיסה שונה לחלוטין: יותר פיקוח, יותר מגבלות, פחות חופש תמרון למוסדות פיננסיים גדולים.\n\nמי שפחות ברור שיושפע: חברות טכנולוגיה שהיו עסוקות בלבנות מוצרים פיננסיים - הרגולציה שחזרה עלולה לעצור כמה מהן באמצע הדרך.",
-      "importance": 9,
-      "topics": [
-        "רגולציה",
-        "וול סטריט",
-        "פיננסים"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "summary": "תקרת החוב חוזרת לכותרות - והפעם עם טוויסט מעניין.\n\nהדמוקרטים שוקלים לנצל את המשא ומתן על תקרת החוב כדי לסחוט ויתורים מהרפובליקאים - תפקידים הפוכים לגמרי ממה שהורגלנו לראות. הבעיה: אם הם ידחפו חזק מדי, השווקים יגיבו. ניירות ערך של ממשלת ארה\"ב, שנחשבים לנכס הבטוח בעולם, עלולים להגיב בחדות - ואיתם גם שוקי מניות גלובליים.\n\nמה שפחות ברור: גם שוקי האג\"ח בישראל ומדינות מתפתחות מושפעים ישירות כשהתשואות האמריקאיות קופצות מהסוג הזה של אי-ודאות. שווה לשים לב לאיך זה מתפתח בחודשים הקרובים.",
-      "importance": 9,
-      "topics": [
-        "חוב ממשלתי",
-        "התנגשות פוליטית",
-        "תנודות שוק"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "Goldman Sachs $GS and Apollo $APO are approaching Wall Street investors to sell portions of SpaceX $SPCX's roughly $40B AI chip financing deal. The two firms have begun marketing the financing to potential buyers, with some investors being offered portions worth as much as $500M https://t.co/NBr7hA0Eq1",
       "source": "Twitter @wallstengine",
@@ -200,43 +148,44 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "מניית Novo Nordisk קפצה היום אחרי שהחברה העלתה את תחזיות הרווח שלה - הפעם בזכות גלולת Wegovy, לא הזריקה. זה רגע משמעותי: אם אפשר לקחת את התרופה האהובה הזו בצורת כדור, שוק הפוטנציאל גדל בצורה דרמטית - הרבה יותר אנשים מוכנים לבלוע כדור מאשר להזריק לעצמם. מי שצריך לשים לב לזה מעבר ל-Novo: חברות מזון, ביגוד ספורטיבי, ואפילו תעשיית האורתופדיה - כולן מרגישות את הגלים של מהפכת הרזייה.",
-      "importance": 8,
+      "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+      "summary": "בנק אנגליה העלה את הריבית לראשונה מאז מלחמת איראן, ומזהיר שהאינפלציה תתקרב ל-5%.\n\nזה לא רק ענין בריטי - כשאחד מהבנקים המרכזיים הגדולים בעולם מהדק שוב, זה משפיע על כיוון הריבית הגלובלית כולה. משקיעים שמחזיקים אג\"ח בריטיות ירגישו את זה מיד, אבל גם שוקי המניות באירופה וחברות שמממנות את עצמן בלירה שטרלינג.\n\nמעניין לראות איך זה משפיע על הציפיות מהפד בחודשים הקרובים.",
+      "importance": 9,
       "topics": [
-        "פרמצבטיקה",
-        "צרכנות",
-        "ביוטק"
+        "בנק אנגליה",
+        "ריבית",
+        "אינפלציה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Dow futures rally 700 points as Democrats win big in midterms: Live updates",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "הדאו ג'ונס קופץ 700 נקודות ב-pre-market אחרי שהדמוקרטים ניצחו ביג במידטרמס האמריקאים.\n\nהשוק אוהב בחירות שמסתיימות - לא משנה כמעט מי ניצח. הוודאות עצמה שווה כסף. אבל פה יש עוד משהו: ניצחון דמוקרטי מרמז על רגולציה יותר מחמירה על טק ובנקים, ולעומת זאת - יותר השקעה בתשתיות ואנרגיה ירוקה. מי שצריך לשים לב הן חברות ה-clean energy שעשויות לראות רוח גבית, ומי שצריך לעקוב הוא סקטור הפיננסים שעלול לקבל כאב ראש רגולטורי.",
-      "importance": 8,
+      "title": "US STOCK MARKET HEADED FOR ITS WORST DAY SINCE APRIL 2025 Nasdaq -5.3% 🩸 S&P 500 -3.5% 🩸 Chip index -11.2%, worst since March 2020 🩸 https://t.co/jTuIvvcSA6",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2118371203165417728",
+      "summary": "מדד הצ'יפים צנח 11.2% היום - הירידה החדה ביותר מאז מרץ 2020. ה-Nasdaq ירד 5.3% וה-S&P 500 איבד 3.5%, היום הגרוע ביותר מאפריל השנה.\n\nזה לא רק כואב למי שמחזיק NVIDIA או AMD - ירידה כזו בסקטור השבבים מכה גם בחברות שתלויות בהם: ספקי ענן, יצרני רכב חשמלי, וכל מי שתכנן להרחיב תשתיות AI השנה. כשהשבבים נופלים ככה, זה בדרך כלל הכי קרוב שיש לאצבע על הדופק של הכלכלה הטכנולוגית.",
+      "importance": 9,
       "topics": [
         "שוק מניות",
-        "סנטימנט",
-        "מקרופ"
+        "צ'יפים",
+        "טכנולוגיה",
+        "משבר"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Big Tech’s $500 billion spending spree leaves a lot less for shareholders",
+      "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
       "source": "MarketWatch",
-      "url": "",
-      "summary": "ענקיות הטכנולוגיה מתכננות להוציא השנה מעל 500 מיליארד דולר על תשתיות AI - ורוב הכסף הזה לא יגיע לבעלי המניות.\n\nפעם המודל היה פשוט: רווחים גדולים, חלוקת דיבידנדים ורכישות עצמיות. עכשיו ה-AI משנה את העסקה. ההשקעות ענקיות, ארוכות טווח, ולא ברור מתי הן יחזרו.\n\nמה שפחות ברור: זה משנה גם את הציפיות מחברות טק קטנות יותר. המשקיעים עשויים להתחיל לשאול שאלות אחרות - לא \"כמה מחלקים\" אלא \"לאיזה AI strategy יש כאן\".",
-      "importance": 8,
+      "url": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
+      "summary": "ה-S&P 500 איבד 2.9 טריליון דולר של שווי שוק ביום אחד - השיא ההיסטורי של הפסד יחיד בתולדות השוק. מניות הטכנולוגיה רשמו את היום הגרוע ביותר מאז 2020, עם ירידות חדות במיוחד בכל מה שקשור ל-AI.\n\nמה שמעניין פה: זה לא רק כאב של יום. ימים כאלה מאפסים את הביטחון של המשקיעים ומשנים את תיאבון הסיכון לתקופה. ספקיות הענן, חברות הסמיקונדקטורים, וכל מי שרכב על גל ה-AI בשנה האחרונה - כולם חטפו.",
+      "importance": 9,
       "topics": [
+        "שוק ההון",
         "טכנולוגיה",
-        "AI",
-        "בעלויות הון"
+        "תנודתיות"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
       "title": "Stock futures mixed after big rally following Democrats' decisive midterm wins",
@@ -263,112 +212,164 @@
         "דיגיטל"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Deborah Elms: Global Trade Is Being Reshaped at Higher Cost",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "שרשרות האספקה הגלובליות עוברות שינוי מבני - ולא בזול. דבורה אלמס מ-Hinrich Foundation טוענת שמדינות וחברות ממשיכות לפזר את הייצור ולהסיט סחר לשותפות \"ידידותיות\", אבל זה לא באמת פותר את בעיית היציבות - רק מעביר אותה למקום אחר.\n\nמה שמעניין פה: החברות שמשקיעות עכשיו בגיוון שרשרות האספקה משלמות יותר בטווח הקצר, ועדיין לא מקבלות ביטחון אמיתי בטווח הארוך. זה לחץ על שולי הרווח בענפים כמו אלקטרוניקה, רכב ותרופות - גם בלי מכסים חדשים.",
+      "importance": 8,
+      "topics": [
+        "סחר בינלאומי",
+        "שרשרת אספקה",
+        "גיאופוליטיקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/interest-rates-could-go-significantly-higher-if-oil-prices-keep-climbing-even-if-the-iran-war-ends-soon-e3493498?mod=mw_rss_topstories",
+      "summary": "מחירי הנפט עלולים להיות הגורם שימנע את הורדת הריביות - גם אם המלחמה עם איראן תיגמר מחר. אנליסטים של Bank of America מצאו קורלציה חזקה בין מחירי נפט לריביות בארה\"ב, בבריטניה ובגרמניה: כל עוד הנפט יקר, הריביות נשארות גבוהות - או עולות עוד. מה שמעניין פה הוא ההשפעה העקיפה: חברות נדל\"ן, אשראי צרכני וכל מי שתמחר הורדת ריבית בקרוב - צריכים לחשב מסלול מחדש.",
+      "importance": 8,
+      "topics": [
+        "ריבית",
+        "נפט",
+        "אינפלציה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "How the midterms could fuel the K-shaped AI trade",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "תוצאות הביניים בארה\"ב עלולות לבלום את הרישוי והבנייה של מרכזי נתונים חדשים - וזה יכול להפוך את מי שכבר יש לו תשתיות AI לנכס הרבה יותר יקר. הלוגיקה פשוטה: אם ההיצע נעצר, הביקוש לא נעצר איתו.\n\nמי שייפגע הכי קשה הם חברות ה-neocloud - אלה שלקחו הרבה חוב כדי לבנות קיבולת חדשה ועכשיו יתקשו להצדיק את ההשקעה. לעומתן, Microsoft, Google ו-Amazon עם תשתיות קיימות - יוצאות מחוזקות. פוליטיקה משפיעה על שווקים גם כשזה לא נראה מיד.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "תשתיות",
+        "פוליטיקה כלכלית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "An Anthropic IPO when the AI trade is this turbulent? Good luck!",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "הערכת השווי של Anthropic לקראת הנפקה עומדת על כ-60 מיליארד דולר - וול סטריט מתחיל לשאול שאלות קשות על עלויות ה-AI ואם המספרים בכלל מסתדרים.\n\nהרקע: אחרי שתוצאות הביניים הכו את הציפיות, המשקיעים מסתכלים אחרת על חברות שמוציאות מיליארדים על מחשוב ולא מראות דרך ברורה לרווחיות. זה לא רק Anthropic - זה שאלה על כל הסקטור.\n\nההפתעה הקטנה: Apple דווקא מרוויחה מהמצב. ההימנעות שלה מהוצאות ענק על AI נראתה כחולשה - עכשיו חלק מהאנליסטים רואים בזה משמעת פיננסית.",
+      "importance": 8,
+      "topics": [
+        "בינה מלאכותית",
+        "IPO",
+        "רווחיות"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-      "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
-      "importance": 7,
+      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+      "importance": 8,
       "topics": [
         "אבטחה",
         "סייבר",
-        "DreamHost"
+        "תשתיות"
       ],
-      "published": "Wed, 04 Nov 2026 20:36:57 +0000"
+      "published": "Thu, 05 Nov 2026 18:48:34 +0000"
     },
     {
-      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-      "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
-      "importance": 7,
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+      "importance": 8,
       "topics": [
-        "רכב אוטונומי",
-        "Waymo",
-        "Uber"
+        "OpenAI",
+        "IPO",
+        "פיננסים"
       ],
-      "published": "Wed, 04 Nov 2026 18:12:30 +0000"
+      "published": "Thu, 05 Nov 2026 18:02:27 +0000"
     },
     {
-      "title": "Sequoia hits rewind, undoing 20 years of expansion",
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-      "summary": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
       "importance": 7,
       "topics": [
-        "השקעות",
-        "Sequoia Capital",
-        "VC"
+        "רגולציה",
+        "תקשורת חברתית",
+        "משפט"
       ],
-      "published": "Wed, 04 Nov 2026 17:11:15 +0000"
+      "published": "Fri, 06 Nov 2026 00:01:38 +0000"
     },
     {
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]",
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
       "importance": 7,
       "topics": [
-        "Qualcomm",
+        "רובוטיקה",
         "AI",
-        "מרכזי נתונים"
+        "פלטפורמה"
       ],
-      "published": "2026-11-04T17:42:15-05:00"
+      "published": "Thu, 05 Nov 2026 21:15:00 +0000"
     },
     {
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-      "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
       "importance": 7,
       "topics": [
-        "אבטחה",
-        "iOS",
-        "Android"
+        "AI",
+        "verification",
+        "מתמטיקה"
       ],
-      "published": "Wed, 04 Nov 2026 22:26:49 +0000"
+      "published": "Thu, 05 Nov 2026 16:16:45 +0000"
     },
     {
-      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
-      "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]",
       "importance": 7,
       "topics": [
-        "AMD",
-        "שבבים",
-        "מרכזי נתונים"
-      ],
-      "published": "Wed, 04 Nov 2026 21:29:46 +0000"
-    },
-    {
-      "title": "פאלו אלטו בדרך לרכוש סטארטאפ ישראלי בן 3 בחצי מיליארד דולר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/palo-alto-about-to-acquire-clutch-for-500m/",
-      "summary": "ענקית הסייבר Palo Alto Networks לא עוצרת את מסע הרכישות שלה, ואחרי שתי רכישות של חברות שאינן ישראליות בחצי מיליארד דולר – דיווח חדש מגלה שסטארטאפ ישראלי צעיר בדרך לאקזיט באותו הסכום. עסקה מהירה בסכום אדיר על פי דיווח חדש של The Information, הסטארטאפ הישראלי Clutch Security על הכוונת של פאלו אלטו וכרגע מתקיים מו\"מ […] The post פאלו אלטו בדרך לרכוש סטארטאפ ישראלי בן 3 בחצי מיליארד דולר appeared firs",
-      "importance": 7,
-      "topics": [
-        "רכישה",
-        "סייבר",
-        "סטארטאפ"
-      ],
-      "published": "Thu, 05 Nov 2026 07:27:44 +0000"
-    },
-    {
-      "title": "הסטארטאפ Sentra שהוקם על ידי מפקד 8200 לשעבר מגייס 150 מיליון דולר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/sentra-nabs-major-funding-round/",
-      "summary": "כשארגונים דוהרים לענן ומאמצים כלי AI בקצב מהיר, משהו אחד נשאר מאחור – השליטה במידע הרגיש. פתאום אף אחד לא באמת יודע איפה יושב הדאטה או למי יש גישה אליו. הסטארטאפ הישראלי Sentra, שמורכב מבכירי 8200 לשעבר החליט לעשות לזה סוף, ועל הדרך גם להראות למיקרוסופט איך עושים את זה נכון. עכשיו הוא חושף גיוס […] The post הסטארטאפ Sentra שהוקם על ידי מפקד 8200 לשעבר מגייס 150 מיליון דולר appeared first on גיקטיי",
-      "importance": 7,
-      "topics": [
-        "סטארטאפ",
-        "גיוס הון",
+        "AI agents",
+        "Perplexity",
         "AI"
       ],
-      "published": "Wed, 04 Nov 2026 12:00:25 +0000"
+      "published": "2026-11-05T17:26:50-05:00"
+    },
+    {
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "Linux",
+        "Vulnerability"
+      ],
+      "published": "Thu, 05 Nov 2026 23:09:36 +0000"
+    },
+    {
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "importance": 7,
+      "topics": [
+        "Google",
+        "AI",
+        "Anti-trust"
+      ],
+      "published": "Thu, 05 Nov 2026 21:40:36 +0000"
     }
   ]
 }
