@@ -1,256 +1,151 @@
 {
-  "generated_at": "2026-11-06T10:40:14.001439+00:00",
+  "generated_at": "2026-11-07T09:51:30.375047+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Israel’s President Herzog to name candidate to form government on Sunday",
+      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
-      "summary": "Announcement comes after majority of Israeli lawmakers endorse Eisenkot over Netanyahu.",
+      "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+      "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
       "importance": 8,
       "topics": [
-        "ישראל",
-        "פוליטיקה"
+        "ארה\"ב",
+        "איראן",
+        "גרעין"
       ],
-      "published": "Fri, 06 Nov 2026 07:09:42 +0000"
+      "published": "Sat, 07 Nov 2026 08:45:36 +0000"
     },
     {
-      "title": "נתניהו לא מכחיש שיופסק הסיוע מארה\"ב כבר משנה הבאה: \"עוברים לשותפות\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hyu5pfo6zx",
-      "summary": "משרד ראש הממשלה לא מכחיש שטראמפ סיכם עם נתניהו שהסיוע הצבאי יופסק כבר משנה הבאה - ללא ידיעת מערכת הביטחון ומשרד האוצר - ומסר: \"הכלכלה חזקה ויציבה\". גורמים מדיניים: \"יש עדיין דיונים, המטרה להגיע להסכם לפני השבעת הקונגרס החדש\"",
+      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+      "summary": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island.",
       "importance": 8,
       "topics": [
-        "ישראל",
-        "ארה\"ב",
+        "איראן",
+        "ארה״ב",
         "ביטחון"
       ],
-      "published": "Fri, 06 Nov 2026 11:33:22 +0200"
+      "published": "Sat, 07 Nov 2026 07:05:01 +0000"
     },
     {
-      "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+      "title": "אזהרה אמריקנית לשגרירות בירושלים: \"איראן מנסה לפגוע בבכירי ממשל\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hyhzpaitmg",
+      "summary": "ארה\"ב הזהירה נציגויות גם בסעודיה, איחוד האמירויות, בחריין וקטאר להגביר ערנות - ולהיערך להסלמה מהירה בלחימה. ברקע: מידע מודיעיני על ניסיונות פגיעה מצד איראן, והתגברות האיום מצד החות'ים בתימן",
+      "importance": 8,
+      "topics": [
+        "ביטחון",
+        "איראן",
+        "ישראל"
+      ],
+      "published": "Sat, 07 Nov 2026 00:04:13 +0200"
+    },
+    {
+      "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
-      "summary": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+      "summary": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
+      "importance": 7,
+      "topics": [
+        "קניה",
+        "כת דתית",
+        "צדק"
+      ],
+      "published": "Fri, 06 Nov 2026 09:53:46 -0500"
+    },
+    {
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "importance": 7,
+      "topics": [
+        "פראגוואי",
+        "משבר כלכלי",
+        "פוליטיקה"
+      ],
+      "published": "Sat, 07 Nov 2026 07:20:00 GMT"
+    },
+    {
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+      "importance": 7,
+      "topics": [
+        "אירופה",
+        "ביטחון"
+      ],
+      "published": "Fri, 06 Nov 2026 12:51:38 GMT"
+    },
+    {
+      "title": "Qatari PM says US willing to seek solution to war with Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+      "summary": "Qatari PM says US willing to seek solution to war with Iran",
+      "importance": 7,
+      "topics": [
+        "איראן",
+        "דיפלומטיה",
+        "ארה״ב"
+      ],
+      "published": "Sat, 07 Nov 2026 07:10:37 +0000"
+    },
+    {
+      "title": "‘Alien-cortical’ mice: Can human brain cells grow inside animals?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss",
+      "summary": "Modified mice with human brain cells ignite debates over neurohybrids and the future of cross-species medical research.",
+      "importance": 7,
+      "topics": [
+        "מדע",
+        "רפואה",
+        "מחקר"
+      ],
+      "published": "Sat, 07 Nov 2026 05:57:25 +0000"
+    },
+    {
+      "title": "בדואים נטשו את בתיהם ליד ההתנחלות החדשה ביריחו. צה\"ל: נמנע פלישת יהודים",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/b1ylbd3tge",
+      "summary": "ברקע ההתיישבות בשמונה בתים שנרכשו בפאתי העיר, עזבו שתי משפחות פלסטיניות את האזור. הצבא יידרש למנוע השתלטות על בתיהן. צה\"ל מתעקש שהמהלך לא היה תואם, והסיט כוחות ממשימות אחרות כדי לשמור על המתנחלים",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "התנחלויות",
+        "פלסטין"
+      ],
+      "published": "Sat, 07 Nov 2026 11:35:32 +0200"
+    },
+    {
+      "title": "הבנק הממשלתי קרס, הנשיא הפרו-ישראלי הודח ונעצר",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rkh7a113pge",
+      "summary": "חברי הסנאט הצביעו פה אחד בעד הדחת נשיא פרגוואי סנטיאגו פניה, שהעביר את שגרירות ארצו לירושלים ואף נשא נאום בכנסת. הוא נעצר בחשד להפרת אמונים וניצול כוחו לרעה, אחרי ש-60% מאוכלוסיית המדינה איבדו חסכונות עקב קריסת הבנק. המונים הריעו מחוץ לקונגרס: \"דיקטטורה - לעולם לא עוד!\"",
       "importance": 7,
       "topics": [
         "פרגוואי",
         "משבר פוליטי",
-        "בנקאות"
+        "קריסת בנק"
       ],
-      "published": "Thu, 05 Nov 2026 13:30:16 -0500"
-    },
-    {
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "importance": 7,
-      "topics": [
-        "אירן",
-        "ביטחון",
-        "נשקים"
-      ],
-      "published": "Fri, 06 Nov 2026 07:33:41 GMT"
-    },
-    {
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "summary": "California has historically had the largest population of people on death row in the US.",
-      "importance": 7,
-      "topics": [
-        "ארה״ב",
-        "משפט",
-        "עונש מוות"
-      ],
-      "published": "Thu, 05 Nov 2026 23:09:33 GMT"
-    },
-    {
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
-      "importance": 7,
-      "topics": [
-        "הונג קונג",
-        "זכויות אדם",
-        "סין"
-      ],
-      "published": "Fri, 06 Nov 2026 06:46:21 GMT"
-    },
-    {
-      "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
-      "summary": "Lebanese who lived through two Israeli escalations are stocking up and packing bags in case of a third.",
-      "importance": 7,
-      "topics": [
-        "לבנון",
-        "ישראל",
-        "ביטחון"
-      ],
-      "published": "Fri, 06 Nov 2026 07:30:04 +0000"
-    },
-    {
-      "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
-      "summary": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
-      "importance": 7,
-      "topics": [
-        "איראן",
-        "גיאופוליטיקה",
-        "סחר"
-      ],
-      "published": "Fri, 06 Nov 2026 06:06:24 +0000"
-    },
-    {
-      "title": "ממשלת שינוי-חרדים? ליברמן: \"נתפשר גם בגיוס\", גולן: \"התקדמות ממשית\". אשר: \"אין הצעה\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/byb6xmotzl",
-      "summary": "שינוי דרמטי בעמדתו של יו\"ר ישראל ביתנו, שעדיין מתנגד לממשלה בהימנעות מפלגות ערביות - אך לדבריו \"בכל שאר הנושאים רצוי להבין שתפסת מרובה לא תפסת. התוצאות מחייבות שנחשב מסלול מחדש\". גולן: \"אופטימי משהייתי\". יו\"ר יהדות התורה: \"כל הצעה תובא לגדולי הדור\". עדיין לא ברור איך יגיעו ל-61",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "פוליטיקה",
-        "ממשלה"
-      ],
-      "published": "Fri, 06 Nov 2026 10:52:52 +0200"
-    },
-    {
-      "title": "ספינות הקשורות לאיראן עקבו אחר כבלי תקשורת במפרץ: \"מתאים לפרופיל של הנחת מוקשים\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/skhjaxitgx",
-      "summary": "לפי דיווח ב\"פייננשל טיימס\", לפחות ארבע ספינות תועדו משייטות במסלולים חריגים ומתעכבות מעל נתיבי כבלים בקרקעית מפרץ עומאן. שלוש מהן מכליות הנתונות לסנקציות אמריקניות. החשש: טהרן עלולה לפגוע בתשתיות הדיגיטליות באזור במקרה שארה\"ב וישראל יחדשו את הלחימה",
-      "importance": 7,
-      "topics": [
-        "איראן",
-        "גיאופוליטיקה",
-        "תשתיות דיגיטליות"
-      ],
-      "published": "Fri, 06 Nov 2026 09:36:30 +0200"
+      "published": "Sat, 07 Nov 2026 08:45:38 +0200"
     }
   ],
   "business": [
     {
-      "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-      "summary": "בנק אנגליה העלה את הריבית לראשונה מאז מלחמת איראן, ומזהיר שהאינפלציה תתקרב ל-5%.\n\nזה לא רק ענין בריטי - כשאחד מהבנקים המרכזיים הגדולים בעולם מהדק שוב, זה משפיע על כיוון הריבית הגלובלית כולה. משקיעים שמחזיקים אג\"ח בריטיות ירגישו את זה מיד, אבל גם שוקי המניות באירופה וחברות שמממנות את עצמן בלירה שטרלינג.\n\nמעניין לראות איך זה משפיע על הציפיות מהפד בחודשים הקרובים.",
-      "importance": 9,
-      "topics": [
-        "בנק אנגליה",
-        "ריבית",
-        "אינפלציה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "US STOCK MARKET HEADED FOR ITS WORST DAY SINCE APRIL 2025 Nasdaq -5.3% 🩸 S&P 500 -3.5% 🩸 Chip index -11.2%, worst since March 2020 🩸 https://t.co/jTuIvvcSA6",
+      "title": "SUSQUEHANNA: 8% OF PLANNED AI DATA CENTER CAPACITY (148GW) COULD BE CANCELED IN A WORST-CASE SCENARIO",
       "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2118371203165417728",
-      "summary": "מדד הצ'יפים צנח 11.2% היום - הירידה החדה ביותר מאז מרץ 2020. ה-Nasdaq ירד 5.3% וה-S&P 500 איבד 3.5%, היום הגרוע ביותר מאפריל השנה.\n\nזה לא רק כואב למי שמחזיק NVIDIA או AMD - ירידה כזו בסקטור השבבים מכה גם בחברות שתלויות בהם: ספקי ענן, יצרני רכב חשמלי, וכל מי שתכנן להרחיב תשתיות AI השנה. כשהשבבים נופלים ככה, זה בדרך כלל הכי קרוב שיש לאצבע על הדופק של הכלכלה הטכנולוגית.",
-      "importance": 9,
-      "topics": [
-        "שוק מניות",
-        "צ'יפים",
-        "טכנולוגיה",
-        "משבר"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
-      "summary": "ה-S&P 500 איבד 2.9 טריליון דולר של שווי שוק ביום אחד - השיא ההיסטורי של הפסד יחיד בתולדות השוק. מניות הטכנולוגיה רשמו את היום הגרוע ביותר מאז 2020, עם ירידות חדות במיוחד בכל מה שקשור ל-AI.\n\nמה שמעניין פה: זה לא רק כאב של יום. ימים כאלה מאפסים את הביטחון של המשקיעים ומשנים את תיאבון הסיכון לתקופה. ספקיות הענן, חברות הסמיקונדקטורים, וכל מי שרכב על גל ה-AI בשנה האחרונה - כולם חטפו.",
-      "importance": 9,
-      "topics": [
-        "שוק ההון",
-        "טכנולוגיה",
-        "תנודתיות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "אחרי ניצחון הדמוקרטים בבחירות האמצע, חלק מהחברים הנבחרים דורשים הקפאה מיידית על בניית מרכזי נתונים חדשים בארה\"ב. לא רגולציה עדינה - עצירה מלאה, עד להסדרת הנושא.\n\nזה עדיין רחוק מחקיקה, אבל הרטוריקה משנה את מפת הסיכונים. חברות כמו Microsoft, Amazon ו-Google שהשקיעו מאות מיליארדים בתשתיות AI - פתאום מתמחרות סיכון רגולטורי שלא היה על הפרק לפני שנה. וגם חברות תשתית, חשמל ונדל\"ן תעשייתי שבנו את העסק שלהן סביב הבום הזה - שווה לשים לב איך הן מגיבות.",
+      "url": "https://twitter.com/wallstengine/status/2118667467275010059",
+      "summary": "לפי Susquehanna, בתרחיש הגרוע ביותר - כ-8% מהתשתיות המתוכננות למרכזי נתוני AI, שמסתכמות ב-148 ג'יגה-וואט, עלולות להתבטל. זה נשמע כמו מספר קטן, אבל 148 ג'יגה-וואט זו כמות חשמל עצומה - יותר ממה שמדינות שלמות צורכות.\n\nמי שצריך לשים לב מעבר לענקיות הטכנולוגיה: יצרני ציוד חשמלי, חברות תשתיות ואנרגיה, וכל מי שהימר על הצמיחה הישירה בתחום - כולם חשופים לאפקט הזה, גם אם לא בונים מרכז נתונים בעצמם.",
       "importance": 9,
       "topics": [
         "AI",
-        "רגולציה",
+        "נתונים",
         "תשתיות",
-        "טכנולוגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Deborah Elms: Global Trade Is Being Reshaped at Higher Cost",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "שרשרות האספקה הגלובליות עוברות שינוי מבני - ולא בזול. דבורה אלמס מ-Hinrich Foundation טוענת שמדינות וחברות ממשיכות לפזר את הייצור ולהסיט סחר לשותפות \"ידידותיות\", אבל זה לא באמת פותר את בעיית היציבות - רק מעביר אותה למקום אחר.\n\nמה שמעניין פה: החברות שמשקיעות עכשיו בגיוון שרשרות האספקה משלמות יותר בטווח הקצר, ועדיין לא מקבלות ביטחון אמיתי בטווח הארוך. זה לחץ על שולי הרווח בענפים כמו אלקטרוניקה, רכב ותרופות - גם בלי מכסים חדשים.",
-      "importance": 8,
-      "topics": [
-        "סחר בינלאומי",
-        "שרשרת אספקה",
-        "גיאופוליטיקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/interest-rates-could-go-significantly-higher-if-oil-prices-keep-climbing-even-if-the-iran-war-ends-soon-e3493498?mod=mw_rss_topstories",
-      "summary": "מחירי הנפט עלולים להיות הגורם שימנע את הורדת הריביות - גם אם המלחמה עם איראן תיגמר מחר. אנליסטים של Bank of America מצאו קורלציה חזקה בין מחירי נפט לריביות בארה\"ב, בבריטניה ובגרמניה: כל עוד הנפט יקר, הריביות נשארות גבוהות - או עולות עוד. מה שמעניין פה הוא ההשפעה העקיפה: חברות נדל\"ן, אשראי צרכני וכל מי שתמחר הורדת ריבית בקרוב - צריכים לחשב מסלול מחדש.",
-      "importance": 8,
-      "topics": [
-        "ריבית",
-        "נפט",
-        "אינפלציה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "How the midterms could fuel the K-shaped AI trade",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "תוצאות הביניים בארה\"ב עלולות לבלום את הרישוי והבנייה של מרכזי נתונים חדשים - וזה יכול להפוך את מי שכבר יש לו תשתיות AI לנכס הרבה יותר יקר. הלוגיקה פשוטה: אם ההיצע נעצר, הביקוש לא נעצר איתו.\n\nמי שייפגע הכי קשה הם חברות ה-neocloud - אלה שלקחו הרבה חוב כדי לבנות קיבולת חדשה ועכשיו יתקשו להצדיק את ההשקעה. לעומתן, Microsoft, Google ו-Amazon עם תשתיות קיימות - יוצאות מחוזקות. פוליטיקה משפיעה על שווקים גם כשזה לא נראה מיד.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "תשתיות",
-        "פוליטיקה כלכלית"
+        "רגולציה"
       ],
       "tag": "ארה\"ב"
-    },
-    {
-      "title": "An Anthropic IPO when the AI trade is this turbulent? Good luck!",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "הערכת השווי של Anthropic לקראת הנפקה עומדת על כ-60 מיליארד דולר - וול סטריט מתחיל לשאול שאלות קשות על עלויות ה-AI ואם המספרים בכלל מסתדרים.\n\nהרקע: אחרי שתוצאות הביניים הכו את הציפיות, המשקיעים מסתכלים אחרת על חברות שמוציאות מיליארדים על מחשוב ולא מראות דרך ברורה לרווחיות. זה לא רק Anthropic - זה שאלה על כל הסקטור.\n\nההפתעה הקטנה: Apple דווקא מרוויחה מהמצב. ההימנעות שלה מהוצאות ענק על AI נראתה כחולשה - עכשיו חלק מהאנליסטים רואים בזה משמעת פיננסית.",
-      "importance": 8,
-      "topics": [
-        "בינה מלאכותית",
-        "IPO",
-        "רווחיות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Hedge Funds Dump Positions and Cut Staff as Selloff Deepens",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "קרנות גידור פרקו פוזיציות בחודש שעבר בקצב הגבוה ביותר מזה יותר מעשור - וזה לא רק מספר.\n\nכשהן מוכרות בבת אחת בסקייל הזה, הן לא מגיבות לחדשות אחת - הן מגיבות ללחץ: משקיעים שמושכים כסף, מארג'ין שמצטמצם, סיכון שמנהלים מחשבים מחדש. חלקן גם מפטרות.\n\nמי שצריך לשים לב: כל מי שתוהה למה מניות \"טובות\" ירדו בלי סיבה ברורה - זה לעיתים קרובות הסיבה. לא חדשות רעות, אלא מכירה כפויה.",
-      "importance": 8,
-      "topics": [
-        "שווקי מניות",
-        "זרימת הון",
-        "התנהגות משקיעים"
-      ],
-      "tag": "גלובלי"
     },
     {
       "title": "Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis",
@@ -264,109 +159,124 @@
         "השקעות בשווקים מתעוררים"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Democrat sweep gives markets a reason to rethink path of interest rates",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "נתיב הריבית בארה\"ב אולי הולך להשתנות - וזה לא קשור רק לפד.\n\nניצחון דמוקרטי רחב בבחירות פותח שלוש סיבות אפשריות להאטה בעליות הריבית: פתרון אפשרי למשבר באיראן שמוריד לחץ אינפלציוני, צמיחה אמריקאית שמתמתנת, ומדיניות פיסקלית חדשה. אף אחת מהן עדיין לא וודאית, אבל השוק כבר מתחיל לתמחר מציאות שונה.\n\nמי שפחות ברור שיושפע: שווקים מתעוררים שסבלו מדולר חזק, וחברות צמיחה שהריבית הגבוהה פגעה בהן הכי קשה.",
+      "importance": 8,
+      "topics": [
+        "פד",
+        "ריבית",
+        "פוליטיקה"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
-      "importance": 8,
-      "topics": [
-        "אבטחה",
-        "סייבר"
-      ],
-      "published": "Thu, 05 Nov 2026 18:48:34 +0000"
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "importance": 8,
-      "topics": [
-        "OpenAI",
-        "IPO"
-      ],
-      "published": "Thu, 05 Nov 2026 18:02:27 +0000"
-    },
-    {
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-      "importance": 8,
-      "topics": [
-        "אבטחה",
-        "Linux"
-      ],
-      "published": "Thu, 05 Nov 2026 23:09:36 +0000"
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "importance": 7,
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+      "importance": 9,
       "topics": [
         "AI",
-        "רכישה",
-        "אבטחה"
+        "OpenAI",
+        "Anthropic"
       ],
-      "published": "Fri, 06 Nov 2026 06:28:32 +0000"
+      "published": "2026-11-06T18:46:18-05:00"
     },
     {
-      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "גיוס הון"
+      ],
+      "published": "Fri, 06 Nov 2026 22:53:46 +0000"
+    },
+    {
+      "title": "Fox completes its $22B acquisition of Roku",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+      "importance": 8,
+      "topics": [
+        "רכישה",
+        "Roku",
+        "רגולציה"
+      ],
+      "published": "Fri, 06 Nov 2026 16:05:36 +0000"
+    },
+    {
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "סייבר",
+        "בלוקצ'יין"
+      ],
+      "published": "Fri, 06 Nov 2026 20:56:41 +0000"
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "הנדסת אבטחה",
+        "DeepSeek"
+      ],
+      "published": "Fri, 06 Nov 2026 18:43:43 +0000"
+    },
+    {
+      "title": "דיווח: מרגלת סינית היתה במערכת יחסים \"קרובה\" עם ג'נסן הואנג",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/nvidia-ceo-jensen-huang-chinese-spy-megaspeed/",
+      "summary": "דיווח חדש של הניו יורק טיימס חושף פרשה שנראית כאילו נלקחה מסרט ריגול, ולא נתפלא אם תסריטאים של נטפליקס כבר מריצים טיוטות לתסריט. על פי הדיווח, סוכנות המודיעין המרכזית של סין, המוכרת גם כ-MSS, גייסה את אליס הואנג, מנהלת בכירה בחברת Megaspeed, כדי לרגל אחר מנכ\"ל Nvidia, ג'נסן הואנג. המטרה של המבצע הזה הייתה לאסוף […] The post דיווח: מרגלת סינית היתה במערכת יחסים \"קרובה\" עם ג'נסן הואנג appeared first",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "סיכון ביטחוני",
+        "ספיונאז"
+      ],
+      "published": "Sat, 07 Nov 2026 09:30:04 +0000"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "כלים זדוניים"
+      ],
+      "published": "Fri, 06 Nov 2026 18:44:38 +0000"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
       "importance": 7,
       "topics": [
         "רגולציה",
-        "Meta",
-        "Google"
+        "תשתיות",
+        "AI"
       ],
-      "published": "Fri, 06 Nov 2026 00:01:38 +0000"
-    },
-    {
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "importance": 7,
-      "topics": [
-        "Google",
-        "AI",
-        "רגולציה"
-      ],
-      "published": "Thu, 05 Nov 2026 21:40:36 +0000"
-    },
-    {
-      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "מודלים שפה",
-        "פרסומות"
-      ],
-      "published": "Thu, 05 Nov 2026 21:37:18 +0000"
-    },
-    {
-      "title": "ה-Bluetooth מקבל את אחד השדרוגים הגדולים והחשובים אי פעם",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/bluetooth-is-about-to-get-a-huge-upgrade/",
-      "summary": "אמנם אנחנו כבר לא בדיוק מעבירים קבצים כמו פעם, והרבה מכשירים מתבססים בכלל על Wi-Fi, אבל תקן Bluetooth הוא עדיין התקן שעליו מתבססים לא מעט מכשירים ופיצ'רים. עכשיו מתברר שהשדרוג המשמעותי הגדול לתקן נמצא מעבר לפינה. קפיצה של כמעט פי ארבעה הקבוצה העומדת מאחורי התקן, בעלת השם הקליט והמפתיע Bluetooth Special Interest Group, או SIG […] The post ה-Bluetooth מקבל את אחד השדרוגים הגדולים והחשובים אי פעם app",
-      "importance": 7,
-      "topics": [
-        "Bluetooth",
-        "תקנים",
-        "טכנולוגיה"
-      ],
-      "published": "Fri, 06 Nov 2026 08:14:31 +0000"
+      "published": "Fri, 06 Nov 2026 17:23:52 +0000"
     }
   ]
 }
