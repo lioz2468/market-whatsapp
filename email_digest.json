@@ -1,244 +1,165 @@
 {
-  "generated_at": "2026-11-07T09:51:30.375047+00:00",
+  "generated_at": "2026-11-08T06:44:55.985842+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
-      "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
+      "importance": 9,
+      "topics": [
+        "ישראל",
+        "פוליטיקה",
+        "ממשלה"
+      ],
+      "published": "Sat, 07 Nov 2026 23:45:45 +0000"
+    },
+    {
+      "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
       "importance": 8,
       "topics": [
+        "איראן",
         "ארה\"ב",
-        "איראן",
-        "גרעין"
+        "מזרח תיכון"
       ],
-      "published": "Sat, 07 Nov 2026 08:45:36 +0000"
+      "published": "Sun, 08 Nov 2026 00:00:56 +0000"
     },
     {
-      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
-      "summary": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island.",
-      "importance": 8,
-      "topics": [
-        "איראן",
-        "ארה״ב",
-        "ביטחון"
-      ],
-      "published": "Sat, 07 Nov 2026 07:05:01 +0000"
-    },
-    {
-      "title": "אזהרה אמריקנית לשגרירות בירושלים: \"איראן מנסה לפגוע בבכירי ממשל\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hyhzpaitmg",
-      "summary": "ארה\"ב הזהירה נציגויות גם בסעודיה, איחוד האמירויות, בחריין וקטאר להגביר ערנות - ולהיערך להסלמה מהירה בלחימה. ברקע: מידע מודיעיני על ניסיונות פגיעה מצד איראן, והתגברות האיום מצד החות'ים בתימן",
-      "importance": 8,
-      "topics": [
-        "ביטחון",
-        "איראן",
-        "ישראל"
-      ],
-      "published": "Sat, 07 Nov 2026 00:04:13 +0200"
-    },
-    {
-      "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+      "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-      "summary": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
-      "importance": 7,
-      "topics": [
-        "קניה",
-        "כת דתית",
-        "צדק"
-      ],
-      "published": "Fri, 06 Nov 2026 09:53:46 -0500"
-    },
-    {
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "importance": 7,
-      "topics": [
-        "פראגוואי",
-        "משבר כלכלי",
-        "פוליטיקה"
-      ],
-      "published": "Sat, 07 Nov 2026 07:20:00 GMT"
-    },
-    {
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-      "importance": 7,
-      "topics": [
-        "אירופה",
-        "ביטחון"
-      ],
-      "published": "Fri, 06 Nov 2026 12:51:38 GMT"
-    },
-    {
-      "title": "Qatari PM says US willing to seek solution to war with Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
-      "summary": "Qatari PM says US willing to seek solution to war with Iran",
-      "importance": 7,
-      "topics": [
-        "איראן",
-        "דיפלומטיה",
-        "ארה״ב"
-      ],
-      "published": "Sat, 07 Nov 2026 07:10:37 +0000"
-    },
-    {
-      "title": "‘Alien-cortical’ mice: Can human brain cells grow inside animals?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss",
-      "summary": "Modified mice with human brain cells ignite debates over neurohybrids and the future of cross-species medical research.",
-      "importance": 7,
-      "topics": [
-        "מדע",
-        "רפואה",
-        "מחקר"
-      ],
-      "published": "Sat, 07 Nov 2026 05:57:25 +0000"
-    },
-    {
-      "title": "בדואים נטשו את בתיהם ליד ההתנחלות החדשה ביריחו. צה\"ל: נמנע פלישת יהודים",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/b1ylbd3tge",
-      "summary": "ברקע ההתיישבות בשמונה בתים שנרכשו בפאתי העיר, עזבו שתי משפחות פלסטיניות את האזור. הצבא יידרש למנוע השתלטות על בתיהן. צה\"ל מתעקש שהמהלך לא היה תואם, והסיט כוחות ממשימות אחרות כדי לשמור על המתנחלים",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+      "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
       "importance": 7,
       "topics": [
         "ישראל",
-        "התנחלויות",
-        "פלסטין"
+        "פוליטיקה",
+        "נתניהו"
       ],
-      "published": "Sat, 07 Nov 2026 11:35:32 +0200"
+      "published": "Sat, 07 Nov 2026 17:12:09 -0500"
     },
     {
-      "title": "הבנק הממשלתי קרס, הנשיא הפרו-ישראלי הודח ונעצר",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rkh7a113pge",
-      "summary": "חברי הסנאט הצביעו פה אחד בעד הדחת נשיא פרגוואי סנטיאגו פניה, שהעביר את שגרירות ארצו לירושלים ואף נשא נאום בכנסת. הוא נעצר בחשד להפרת אמונים וניצול כוחו לרעה, אחרי ש-60% מאוכלוסיית המדינה איבדו חסכונות עקב קריסת הבנק. המונים הריעו מחוץ לקונגרס: \"דיקטטורה - לעולם לא עוד!\"",
+      "title": "What we know so far after Krakow gun attack",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
       "importance": 7,
+      "topics": [
+        "פולין",
+        "אסון",
+        "אלימות"
+      ],
+      "published": "Sun, 08 Nov 2026 01:47:41 GMT"
+    },
+    {
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "גיאופוליטיקה"
+      ],
+      "published": "Sat, 07 Nov 2026 12:49:36 GMT"
+    },
+    {
+      "title": "US launches task force to disrupt Iran’s land-based supply routes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+      "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
+      "importance": 7,
+      "topics": [
+        "ארצות הברית",
+        "איראן",
+        "גיאופוליטיקה"
+      ],
+      "published": "Sun, 08 Nov 2026 02:34:04 +0000"
+    },
+    {
+      "title": "מסע הירי בפולין: \"הרוצח היה לאומני קיצוני ולבש אפוד מגן, 3 גופות אותרו בביתו\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/r1vxzzt6fg",
+      "summary": "לפי הרשויות הצעיר בן ה-25 שפתח באש ממכונית נוסעת לכל עבר בכיכר הראשית של קרקוב, ורצח שישה בני אדם לפני שנפצע ונעצר בקרב יריות עם השוטרים, החזיק בעמדות \"קיצוניות מאוד\" וברכבו נמצאו \"כלי נשק רבים\". ראש הממשלה חשף בהמשך כי בחיפוש בביתו אותרו שלוש גופות, ככל הנראה של בני משפחתו",
+      "importance": 7,
+      "topics": [
+        "פולין",
+        "ביטחון",
+        "אלימות"
+      ],
+      "published": "Sun, 08 Nov 2026 00:20:21 +0200"
+    },
+    {
+      "title": "Ousted Paraguayan president appears before prosecutors",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+      "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+      "importance": 6,
       "topics": [
         "פרגוואי",
         "משבר פוליטי",
-        "קריסת בנק"
+        "בנקאות"
       ],
-      "published": "Sat, 07 Nov 2026 08:45:38 +0200"
-    }
-  ],
-  "business": [
-    {
-      "title": "SUSQUEHANNA: 8% OF PLANNED AI DATA CENTER CAPACITY (148GW) COULD BE CANCELED IN A WORST-CASE SCENARIO",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2118667467275010059",
-      "summary": "לפי Susquehanna, בתרחיש הגרוע ביותר - כ-8% מהתשתיות המתוכננות למרכזי נתוני AI, שמסתכמות ב-148 ג'יגה-וואט, עלולות להתבטל. זה נשמע כמו מספר קטן, אבל 148 ג'יגה-וואט זו כמות חשמל עצומה - יותר ממה שמדינות שלמות צורכות.\n\nמי שצריך לשים לב מעבר לענקיות הטכנולוגיה: יצרני ציוד חשמלי, חברות תשתיות ואנרגיה, וכל מי שהימר על הצמיחה הישירה בתחום - כולם חשופים לאפקט הזה, גם אם לא בונים מרכז נתונים בעצמם.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "נתונים",
-        "תשתיות",
-        "רגולציה"
-      ],
-      "tag": "ארה\"ב"
+      "published": "Sat, 07 Nov 2026 12:14:36 -0500"
     },
     {
-      "title": "Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "פרגוואי נכנסת למשבר: הנשיא סנטיאגו פניה התפטר אחרי שבנק עם קשרים הדוקים אליו קרס ומשך איתו את היציבות הפוליטית של המדינה.\n\nזה לא סתם דרמה דרום אמריקאית. פרגוואי הפכה בשנים האחרונות לאחת הכלכלות הצומחות המעניינות באזור - עם קשרים הדוקים לארה\"ב ותשומת לב גוברת ממשקיעים זרים. קריסה מהסוג הזה, שבה בנק ופוליטיקה שזורים יחד, מחזירה שאלות של אמינות ורגולציה. מי שצריך לשים לב: כל מי שמחזיק חשיפה לשווקים מתפתחים באמריקה הלטינית.",
-      "importance": 8,
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "importance": 6,
       "topics": [
-        "סיכון מדינתי",
-        "מערכת בנקאית",
-        "השקעות בשווקים מתעוררים"
+        "איראן",
+        "גרעין",
+        "ארצות הברית"
       ],
-      "tag": "גלובלי"
+      "published": "Sat, 07 Nov 2026 18:14:38 GMT"
     },
     {
-      "title": "Democrat sweep gives markets a reason to rethink path of interest rates",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "נתיב הריבית בארה\"ב אולי הולך להשתנות - וזה לא קשור רק לפד.\n\nניצחון דמוקרטי רחב בבחירות פותח שלוש סיבות אפשריות להאטה בעליות הריבית: פתרון אפשרי למשבר באיראן שמוריד לחץ אינפלציוני, צמיחה אמריקאית שמתמתנת, ומדיניות פיסקלית חדשה. אף אחת מהן עדיין לא וודאית, אבל השוק כבר מתחיל לתמחר מציאות שונה.\n\nמי שפחות ברור שיושפע: שווקים מתעוררים שסבלו מדולר חזק, וחברות צמיחה שהריבית הגבוהה פגעה בהן הכי קשה.",
-      "importance": 8,
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "importance": 6,
       "topics": [
-        "פד",
-        "ריבית",
-        "פוליטיקה"
+        "יממן",
+        "סעודיה",
+        "קונפליקט"
       ],
-      "tag": "גלובלי"
+      "published": "Sun, 08 Nov 2026 04:03:12 GMT"
     }
   ],
+  "business": [],
   "tech": [
     {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "title": "The US let Nvidia sell chips to an empty office in China",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "published": "2026-11-06T18:46:18-05:00"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
       "importance": 8,
       "topics": [
-        "AI",
-        "OpenAI",
-        "גיוס הון"
-      ],
-      "published": "Fri, 06 Nov 2026 22:53:46 +0000"
-    },
-    {
-      "title": "Fox completes its $22B acquisition of Roku",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-      "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
-      "importance": 8,
-      "topics": [
-        "רכישה",
-        "Roku",
+        "Nvidia",
+        "אבטחה לאומית",
         "רגולציה"
       ],
-      "published": "Fri, 06 Nov 2026 16:05:36 +0000"
+      "published": "2026-11-07T10:43:45-05:00"
     },
     {
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "importance": 8,
-      "topics": [
-        "אבטחה",
-        "סייבר",
-        "בלוקצ'יין"
-      ],
-      "published": "Fri, 06 Nov 2026 20:56:41 +0000"
-    },
-    {
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
       "importance": 8,
       "topics": [
         "AI",
-        "הנדסת אבטחה",
-        "DeepSeek"
+        "Anthropic",
+        "AI Safety"
       ],
-      "published": "Fri, 06 Nov 2026 18:43:43 +0000"
+      "published": "2026-11-07T07:30:00-05:00"
     },
     {
       "title": "דיווח: מרגלת סינית היתה במערכת יחסים \"קרובה\" עם ג'נסן הואנג",
@@ -248,35 +169,62 @@
       "importance": 8,
       "topics": [
         "NVIDIA",
-        "סיכון ביטחוני",
-        "ספיונאז"
+        "אבטחה",
+        "מודיעין"
       ],
       "published": "Sat, 07 Nov 2026 09:30:04 +0000"
     },
     {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
       "importance": 7,
       "topics": [
+        "Nvidia",
         "אבטחה",
-        "כלים זדוניים"
+        "סיכון גיאופוליטי"
       ],
-      "published": "Fri, 06 Nov 2026 18:44:38 +0000"
+      "published": "Sat, 07 Nov 2026 21:17:08 +0000"
     },
     {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
+      "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
       "importance": 7,
       "topics": [
-        "רגולציה",
-        "תשתיות",
-        "AI"
+        "IoT",
+        "Cybersecurity",
+        "Infrastructure"
       ],
-      "published": "Fri, 06 Nov 2026 17:23:52 +0000"
+      "published": "Sat, 07 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "התרגום הקולי החדש של גוגל יחסל את היתרון של דוברי האנגלית. אבל יש פה קאצ'",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/google-meet-ai-real-time-translation-economy/",
+      "summary": "גוגל מקרבת אותנו לעולם שבו השפה מפסיקה להיות מחסום. האם התרגום הקולי ישנה את יחסי הכוחות בכלכלה הגלובלית ויחליש את היתרון ההיסטורי של דוברי האנגלית? או דווקא יחזק את ענקיות הטכנולוגיה האמריקאיות שישלטו בתשתיות התקשורת שהעולם יהיה תלוי בהן? תרגום עם הקול שלכם אתמול נכתב כאן על כך שגוגל מרחיבה את יכולות תרגום הדיבור בזמן […] The post התרגום הקולי החדש של גוגל יחסל את היתרון של דוברי האנגלית. אבל יש ",
+      "importance": 7,
+      "topics": [
+        "Google",
+        "AI",
+        "תרגום"
+      ],
+      "published": "Sat, 07 Nov 2026 14:05:22 +0000"
+    },
+    {
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "importance": 6,
+      "topics": [
+        "קריפטוגרפיה",
+        "אבטחה",
+        "Binance"
+      ],
+      "published": "Sat, 07 Nov 2026 17:24:07 +0000"
     }
   ]
 }
