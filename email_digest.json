@@ -1,39 +1,13 @@
 {
-  "generated_at": "2026-11-08T06:44:55.985842+00:00",
+  "generated_at": "2026-11-08T10:04:47.674991+00:00",
   "lookback_hours": 24,
   "world": [
-    {
-      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
-      "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
-      "importance": 9,
-      "topics": [
-        "ישראל",
-        "פוליטיקה",
-        "ממשלה"
-      ],
-      "published": "Sat, 07 Nov 2026 23:45:45 +0000"
-    },
-    {
-      "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
-      "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
-      "importance": 8,
-      "topics": [
-        "איראן",
-        "ארה\"ב",
-        "מזרח תיכון"
-      ],
-      "published": "Sun, 08 Nov 2026 00:00:56 +0000"
-    },
     {
       "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
       "source": "NPR World",
       "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
       "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
-      "importance": 7,
+      "importance": 8,
       "topics": [
         "ישראל",
         "פוליטיקה",
@@ -42,63 +16,11 @@
       "published": "Sat, 07 Nov 2026 17:12:09 -0500"
     },
     {
-      "title": "What we know so far after Krakow gun attack",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
-      "importance": 7,
-      "topics": [
-        "פולין",
-        "אסון",
-        "אלימות"
-      ],
-      "published": "Sun, 08 Nov 2026 01:47:41 GMT"
-    },
-    {
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "גיאופוליטיקה"
-      ],
-      "published": "Sat, 07 Nov 2026 12:49:36 GMT"
-    },
-    {
-      "title": "US launches task force to disrupt Iran’s land-based supply routes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
-      "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
-      "importance": 7,
-      "topics": [
-        "ארצות הברית",
-        "איראן",
-        "גיאופוליטיקה"
-      ],
-      "published": "Sun, 08 Nov 2026 02:34:04 +0000"
-    },
-    {
-      "title": "מסע הירי בפולין: \"הרוצח היה לאומני קיצוני ולבש אפוד מגן, 3 גופות אותרו בביתו\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/r1vxzzt6fg",
-      "summary": "לפי הרשויות הצעיר בן ה-25 שפתח באש ממכונית נוסעת לכל עבר בכיכר הראשית של קרקוב, ורצח שישה בני אדם לפני שנפצע ונעצר בקרב יריות עם השוטרים, החזיק בעמדות \"קיצוניות מאוד\" וברכבו נמצאו \"כלי נשק רבים\". ראש הממשלה חשף בהמשך כי בחיפוש בביתו אותרו שלוש גופות, ככל הנראה של בני משפחתו",
-      "importance": 7,
-      "topics": [
-        "פולין",
-        "ביטחון",
-        "אלימות"
-      ],
-      "published": "Sun, 08 Nov 2026 00:20:21 +0200"
-    },
-    {
       "title": "Ousted Paraguayan president appears before prosecutors",
       "source": "NPR World",
       "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
       "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
-      "importance": 6,
+      "importance": 7,
       "topics": [
         "פרגוואי",
         "משבר פוליטי",
@@ -107,33 +29,152 @@
       "published": "Sat, 07 Nov 2026 12:14:36 -0500"
     },
     {
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "importance": 6,
-      "topics": [
-        "איראן",
-        "גרעין",
-        "ארצות הברית"
-      ],
-      "published": "Sat, 07 Nov 2026 18:14:38 GMT"
-    },
-    {
       "title": "Houthis say at least 33 killed in Saudi air strike",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "importance": 6,
+      "importance": 7,
       "topics": [
-        "יממן",
-        "סעודיה",
-        "קונפליקט"
+        "יָמן",
+        "ערב הסעודית",
+        "חות'ים"
       ],
       "published": "Sun, 08 Nov 2026 04:03:12 GMT"
+    },
+    {
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "importance": 7,
+      "topics": [
+        "איראן",
+        "גרעין",
+        "ארה״ב"
+      ],
+      "published": "Sat, 07 Nov 2026 18:14:38 GMT"
+    },
+    {
+      "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+      "summary": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
+      "importance": 7,
+      "topics": [
+        "סעודיה",
+        "חות'ים",
+        "תימן"
+      ],
+      "published": "Sun, 08 Nov 2026 07:40:07 +0000"
+    },
+    {
+      "title": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss",
+      "summary": "Heavy rain floods tents housing displaced Palestinians in Gaza as Israeli restrictions on aid hamper response.",
+      "importance": 7,
+      "topics": [
+        "גזה",
+        "אסון טבע",
+        "הומניטאריה"
+      ],
+      "published": "Sun, 08 Nov 2026 06:55:24 +0000"
+    },
+    {
+      "title": "\"חשבנו שיעשו כאן בחברון את מה שעשו בעזה, שיהרסו את הכל\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/yokra14948414",
+      "summary": "בעקבות הפיגוע לפני שבועיים ליד חברון נכנסו צה\"ל ושב\"כ לעיר והוציאו לדרך אקסודוס לילי | 537 משפחות, בסך הכל 3,361 בני אדם, גורשו מבתיהן למשך 11 ימים - וכשחזרו מצאו שתי שכונות חרבות, כאוס וחוסר אונים | במבצע, שנתניהו התעקש עליו ארבעה ימים לפני הבחירות, נתפסו לבסוף ארבעה כלי נשק | \"אמרו לנו לקחת תכשיטים ותעודות ולעזוב מהר\", משחזר ריאד מאריש על גל האבנים שפעם היה ביתו. \"מה נעשה עכשיו?\"",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "ביטחון",
+        "חברון"
+      ],
+      "published": "Sun, 08 Nov 2026 06:48:35 +0200"
+    },
+    {
+      "title": "What we know so far after Krakow gun attack",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "importance": 6,
+      "topics": [
+        "פולין",
+        "אסון",
+        "אלימות"
+      ],
+      "published": "Sun, 08 Nov 2026 07:52:33 GMT"
+    },
+    {
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "importance": 6,
+      "topics": [
+        "איטליה",
+        "סייבר",
+        "רוסיה"
+      ],
+      "published": "Sat, 07 Nov 2026 16:50:06 GMT"
+    },
+    {
+      "title": "לפני הטבח בקרקוב: הרוצח ירה למוות גם בהוריו ואחותו, מאבק על חיי השוטר הגיבור",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rjpmuha6zg",
+      "summary": "פולין: היורה שפתח באש בכיכר המפורסמת והרג 6 בני אדם הוא מיכאו א' בן ה-24, הבוקר נחשפה זהות 3 הגופות הנוספות שנמצאו בביתו. האב יאנוש היה חבר באותו מועדון ירי של הבן, שדגל באידאולוגיות ימין קיצוני, עדיין לא ברור איך השיג הרוצח את הנשק הצבאי ומה היה המניע המדויק שלו. הציבור נקרא לתרום דם כדי להציל את יאקוב קוליק, שהסתער על הרוצח והצליח לנטרל אותו – אך נפצע אנושות",
+      "importance": 6,
+      "topics": [
+        "פולין",
+        "אלימות",
+        "אסון"
+      ],
+      "published": "Sun, 08 Nov 2026 11:30:43 +0200"
     }
   ],
-  "business": [],
+  "business": [
+    {
+      "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
+      "summary": "940 מיליארד דולר - זה הסכום שסין מתכננת להשקיע באנרגיה ב-2026, יותר מכל מדינה אחרת בעולם.\n\nלהשוואה: זה בערך פי שניים מכל תקציב הביטחון האמריקאי. כשסין שופכת סכום כזה על תשתיות אנרגיה, זה לא רק סיפור סיני - זה לחץ ענק על שרשראות האספקה הגלובליות של פאנלים סולאריים, טורבינות רוח וסוללות. המחירים של חומרי גלם כמו ליתיום ונחושת ירגישו את זה, וגם היצרנים האירופאים והאמריקאים שמתחרים על אותם משאבים.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
+        "השקעות",
+        "סין"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+      "summary": "ירידת מניות ה-AI בשבועות האחרונים מחזירה משקיעים לשווקים שנשכחו קצת - סין והודו בראש. הכסף שיצא מחברות הטכנולוגיה האמריקאיות מחפש עכשיו יעד חלופי, והשווקים האסייתיים נראים פתאום אטרקטיביים - במיוחד מניות שנמכרו בזול בגלל מתחים סחר שנראים היום פחות חמורים.\n\nמה שמעניין פה: זה לא רק תנועת הון רגילה. זה שינוי בתפיסה - משקיעים שבנו את כל האסטרטגיה שלהם סביב AI אמריקאי מתחילים לפזר את הסיכון. חברות ישראליות עם חשיפה לשווקים אסייתיים שוות מבט נוסף.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "שווקים אסיה",
+        "סחר",
+        "אינפלציה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "דיב ונר, אחד מהבכירים הוותיקים ביותר ב-Meta, עוזב אחרי שנים ארוכות - ועובר ל-Fireworks, סטארטאפ לתשתיות AI שהיה שווה 17.5 מיליארד דולר בהערכה האחרונה שלו. ונר ייקח על עצמו את תפקיד ה-CFO שם.\n\nמה שמרתק פה הוא הכיוון: בכיר שבנה קריירה בענקית ביחרו לעזוב לסטארטאפ. זה לא מקרה בודד - זו מגמה. ההון האנושי זז לשכבת התשתיות של ה-AI, ומעניין לראות איך זה משפיע על המירוץ בין הסטארטאפים לענקיות.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "טכנולוגיה",
+        "זרימת הון"
+      ],
+      "tag": "גלובלי"
+    }
+  ],
   "tech": [
     {
       "title": "The US let Nvidia sell chips to an empty office in China",
@@ -143,8 +184,8 @@
       "importance": 8,
       "topics": [
         "Nvidia",
-        "אבטחה לאומית",
-        "רגולציה"
+        "AI",
+        "סנקציות"
       ],
       "published": "2026-11-07T10:43:45-05:00"
     },
@@ -157,22 +198,35 @@
       "topics": [
         "AI",
         "Anthropic",
-        "AI Safety"
+        "מדעי הנתונים"
       ],
       "published": "2026-11-07T07:30:00-05:00"
     },
     {
-      "title": "דיווח: מרגלת סינית היתה במערכת יחסים \"קרובה\" עם ג'נסן הואנג",
+      "title": "חשד: ישראלים עקצו 129 מיליון דולר בעזרת דיפ פייק של מנכ\"לים",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/nvidia-ceo-jensen-huang-chinese-spy-megaspeed/",
-      "summary": "דיווח חדש של הניו יורק טיימס חושף פרשה שנראית כאילו נלקחה מסרט ריגול, ולא נתפלא אם תסריטאים של נטפליקס כבר מריצים טיוטות לתסריט. על פי הדיווח, סוכנות המודיעין המרכזית של סין, המוכרת גם כ-MSS, גייסה את אליס הואנג, מנהלת בכירה בחברת Megaspeed, כדי לרגל אחר מנכ\"ל Nvidia, ג'נסן הואנג. המטרה של המבצע הזה הייתה לאסוף […] The post דיווח: מרגלת סינית היתה במערכת יחסים \"קרובה\" עם ג'נסן הואנג appeared first",
+      "url": "https://www.geektime.co.il/2-israelis-charged-with-major-fraud-using-ai-and-deep-fakes/",
+      "summary": "תארו לכם עוד יום עבודה סטנדרטי, שבו אתם עולים לזום עם המנכ\"ל, שמסביר שהוא צריך אתכם לעסקה גדולה וסודית, ומזמין אתכם על הדרך ככה לחתום על הסכם סודיות בנושא. עכשיו תארו לכם שאחרי החתימה על המסמכים ואחרי שהעברתם את הכספים שהתבקשתם, אתם מגלים שזה לא היה המנכ\"ל שלכם, והכסף שהעברתם לטובת העסקה הגיע בכלל לגורמים […] The post חשד: ישראלים עקצו 129 מיליון דולר בעזרת דיפ פייק של מנכ\"לים appeared first on גי",
       "importance": 8,
       "topics": [
-        "NVIDIA",
         "אבטחה",
-        "מודיעין"
+        "דיפ פייק",
+        "AI"
       ],
-      "published": "Sat, 07 Nov 2026 09:30:04 +0000"
+      "published": "Sun, 08 Nov 2026 08:42:17 +0000"
+    },
+    {
+      "title": "התרגום הקולי החדש של גוגל יחסל את היתרון של דוברי האנגלית. אבל יש פה קאצ'",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/google-meet-ai-real-time-translation-economy/",
+      "summary": "גוגל מקרבת אותנו לעולם שבו השפה מפסיקה להיות מחסום. האם התרגום הקולי ישנה את יחסי הכוחות בכלכלה הגלובלית ויחליש את היתרון ההיסטורי של דוברי האנגלית? או דווקא יחזק את ענקיות הטכנולוגיה האמריקאיות שישלטו בתשתיות התקשורת שהעולם יהיה תלוי בהן? תרגום עם הקול שלכם אתמול נכתב כאן על כך שגוגל מרחיבה את יכולות תרגום הדיבור בזמן […] The post התרגום הקולי החדש של גוגל יחסל את היתרון של דוברי האנגלית. אבל יש ",
+      "importance": 8,
+      "topics": [
+        "Google",
+        "AI",
+        "תרגום"
+      ],
+      "published": "Sat, 07 Nov 2026 14:05:22 +0000"
     },
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -183,48 +237,48 @@
       "topics": [
         "Nvidia",
         "אבטחה",
-        "סיכון גיאופוליטי"
+        "ג'יאופוליטיקה"
       ],
       "published": "Sat, 07 Nov 2026 21:17:08 +0000"
-    },
-    {
-      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
-      "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
-      "importance": 7,
-      "topics": [
-        "IoT",
-        "Cybersecurity",
-        "Infrastructure"
-      ],
-      "published": "Sat, 07 Nov 2026 13:00:00 +0000"
-    },
-    {
-      "title": "התרגום הקולי החדש של גוגל יחסל את היתרון של דוברי האנגלית. אבל יש פה קאצ'",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/google-meet-ai-real-time-translation-economy/",
-      "summary": "גוגל מקרבת אותנו לעולם שבו השפה מפסיקה להיות מחסום. האם התרגום הקולי ישנה את יחסי הכוחות בכלכלה הגלובלית ויחליש את היתרון ההיסטורי של דוברי האנגלית? או דווקא יחזק את ענקיות הטכנולוגיה האמריקאיות שישלטו בתשתיות התקשורת שהעולם יהיה תלוי בהן? תרגום עם הקול שלכם אתמול נכתב כאן על כך שגוגל מרחיבה את יכולות תרגום הדיבור בזמן […] The post התרגום הקולי החדש של גוגל יחסל את היתרון של דוברי האנגלית. אבל יש ",
-      "importance": 7,
-      "topics": [
-        "Google",
-        "AI",
-        "תרגום"
-      ],
-      "published": "Sat, 07 Nov 2026 14:05:22 +0000"
     },
     {
       "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
       "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-      "importance": 6,
+      "importance": 7,
       "topics": [
-        "קריפטוגרפיה",
+        "Binance",
         "אבטחה",
-        "Binance"
+        "קריפטו"
       ],
       "published": "Sat, 07 Nov 2026 17:24:07 +0000"
+    },
+    {
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "תכנון רובוטי",
+        "ראייה ממחשב"
+      ],
+      "published": "Sun, 08 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "title": "למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה?",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/why-ai-agents-need-company-brain/",
+      "summary": "מאת אריאל עוז דמיינו סוכן AI שמקבל גישה למערכות הארגון. הוא שולף נתונים, קורא מסמכים, כותב שאילתות SQL ואפילו מבצע פעולות בעצמו. עכשיו בקשו ממנו לחשב את הכנסות החברה ברבעון האחרון. הוא ימצא את הנתונים ויחזיר מספר מדויק, אולי אפילו בגרף מרשים. רק שיש בעיה קטנה: הוא השתמש בהגדרה הלא נכונה של הכנסה, התעלם מהחרגה […] The post למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה? appeared first on גי",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "סוכנים חכמים",
+        "ארגונומי"
+      ],
+      "published": "Sun, 08 Nov 2026 09:58:48 +0000"
     }
   ]
 }
