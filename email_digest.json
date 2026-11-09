@@ -1,139 +1,165 @@
 {
-  "generated_at": "2026-11-08T10:04:47.674991+00:00",
+  "generated_at": "2026-11-09T06:44:57.410786+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+      "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
-      "summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+      "summary": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
+      "importance": 8,
+      "topics": [
+        "הואווי",
+        "ארצות הברית",
+        "סנקציות"
+      ],
+      "published": "Sun, 08 Nov 2026 17:04:13 -0500"
+    },
+    {
+      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+      "summary": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "ארצות הברית"
+      ],
+      "published": "Sun, 08 Nov 2026 14:25:30 -0500"
+    },
+    {
+      "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+      "summary": "US secretary of state says Iran's negotiation demands are 'outrageous and ridiculous, and really not realistic'.",
+      "importance": 8,
+      "topics": [
+        "איראן",
+        "ארה'ב",
+        "דיפלומטיה"
+      ],
+      "published": "Mon, 09 Nov 2026 04:02:18 +0000"
+    },
+    {
+      "title": "חשיפה: הסיוע הביטחוני מארה\"ב לא יסתיים \"עד סוף השנה\" - אלא ייחתך בחצי",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/yokra14951614",
+      "summary": "לפי מזכר ההבנות המתרקם, הסיוע הצבאי הישיר יירד בחצי מ-2028 ויסתיים תוך 5 שנים. המטרה: אישור הדיל לפני השבעת הקונגרס החדש שהרפובליקנים איבדו בו את הרוב. חשש בישראל מהערמת קשיים, הרכב הממשלה הבא עשוי להשפיע",
       "importance": 8,
       "topics": [
         "ישראל",
-        "פוליטיקה",
-        "נתניהו"
+        "ארה\"ב",
+        "ביטחון"
       ],
-      "published": "Sat, 07 Nov 2026 17:12:09 -0500"
+      "published": "Mon, 09 Nov 2026 07:59:13 +0200"
     },
     {
-      "title": "Ousted Paraguayan president appears before prosecutors",
+      "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-      "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+      "summary": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.",
       "importance": 7,
       "topics": [
         "פרגוואי",
-        "משבר פוליטי",
-        "בנקאות"
+        "משבר פיננסי",
+        "פוליטיקה"
       ],
-      "published": "Sat, 07 Nov 2026 12:14:36 -0500"
+      "published": "Mon, 09 Nov 2026 01:20:44 -0500"
     },
     {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
       "importance": 7,
       "topics": [
-        "יָמן",
-        "ערב הסעודית",
-        "חות'ים"
+        "מצרים",
+        "אסון",
+        "בטיחות"
       ],
-      "published": "Sun, 08 Nov 2026 04:03:12 GMT"
+      "published": "Sun, 08 Nov 2026 19:58:02 GMT"
     },
     {
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "importance": 7,
-      "topics": [
-        "איראן",
-        "גרעין",
-        "ארה״ב"
-      ],
-      "published": "Sat, 07 Nov 2026 18:14:38 GMT"
-    },
-    {
-      "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
-      "summary": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
       "importance": 7,
       "topics": [
         "סעודיה",
-        "חות'ים",
-        "תימן"
+        "חוות'ים",
+        "ביטחון"
       ],
-      "published": "Sun, 08 Nov 2026 07:40:07 +0000"
+      "published": "Sun, 08 Nov 2026 21:37:36 GMT"
     },
     {
-      "title": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
+      "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss",
-      "summary": "Heavy rain floods tents housing displaced Palestinians in Gaza as Israeli restrictions on aid hamper response.",
+      "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+      "summary": "Hundreds of thousands of Palestinians are vulnerable to flooding as Israel continues to block entry of mobile homes.",
       "importance": 7,
       "topics": [
-        "גזה",
-        "אסון טבע",
-        "הומניטאריה"
+        "עזה",
+        "פלסטינים",
+        "ישראל"
       ],
-      "published": "Sun, 08 Nov 2026 06:55:24 +0000"
+      "published": "Mon, 09 Nov 2026 05:18:39 +0000"
     },
     {
-      "title": "\"חשבנו שיעשו כאן בחברון את מה שעשו בעזה, שיהרסו את הכל\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14948414",
-      "summary": "בעקבות הפיגוע לפני שבועיים ליד חברון נכנסו צה\"ל ושב\"כ לעיר והוציאו לדרך אקסודוס לילי | 537 משפחות, בסך הכל 3,361 בני אדם, גורשו מבתיהן למשך 11 ימים - וכשחזרו מצאו שתי שכונות חרבות, כאוס וחוסר אונים | במבצע, שנתניהו התעקש עליו ארבעה ימים לפני הבחירות, נתפסו לבסוף ארבעה כלי נשק | \"אמרו לנו לקחת תכשיטים ותעודות ולעזוב מהר\", משחזר ריאד מאריש על גל האבנים שפעם היה ביתו. \"מה נעשה עכשיו?\"",
+      "title": "South Africa’s ANC suffers worst-ever local elections result",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
+      "summary": "South Africa's ANC has suffered its worst-ever local elections result, securing just 30% of the vote.",
       "importance": 7,
       "topics": [
-        "ישראל",
-        "ביטחון",
-        "חברון"
+        "דרום אפריקה",
+        "בחירות",
+        "פוליטיקה"
       ],
-      "published": "Sun, 08 Nov 2026 06:48:35 +0200"
+      "published": "Mon, 09 Nov 2026 03:09:51 +0000"
     },
     {
-      "title": "What we know so far after Krakow gun attack",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-      "importance": 6,
+      "title": "Moldova launches new power line to Romania to cut reliance on Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
+      "summary": "Moldovan President Maia Sandu says 'two more power lines to Romania are on the way'.",
+      "importance": 7,
       "topics": [
-        "פולין",
-        "אסון",
-        "אלימות"
+        "מולדובה",
+        "רוסיה",
+        "אנרגיה"
       ],
-      "published": "Sun, 08 Nov 2026 07:52:33 GMT"
-    },
-    {
-      "title": "Italian foreign minister says hackers leaked his personal data",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-      "importance": 6,
-      "topics": [
-        "איטליה",
-        "סייבר",
-        "רוסיה"
-      ],
-      "published": "Sat, 07 Nov 2026 16:50:06 GMT"
-    },
-    {
-      "title": "לפני הטבח בקרקוב: הרוצח ירה למוות גם בהוריו ואחותו, מאבק על חיי השוטר הגיבור",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rjpmuha6zg",
-      "summary": "פולין: היורה שפתח באש בכיכר המפורסמת והרג 6 בני אדם הוא מיכאו א' בן ה-24, הבוקר נחשפה זהות 3 הגופות הנוספות שנמצאו בביתו. האב יאנוש היה חבר באותו מועדון ירי של הבן, שדגל באידאולוגיות ימין קיצוני, עדיין לא ברור איך השיג הרוצח את הנשק הצבאי ומה היה המניע המדויק שלו. הציבור נקרא לתרום דם כדי להציל את יאקוב קוליק, שהסתער על הרוצח והצליח לנטרל אותו – אך נפצע אנושות",
-      "importance": 6,
-      "topics": [
-        "פולין",
-        "אלימות",
-        "אסון"
-      ],
-      "published": "Sun, 08 Nov 2026 11:30:43 +0200"
+      "published": "Mon, 09 Nov 2026 02:35:15 +0000"
     }
   ],
   "business": [
+    {
+      "title": "Can Europe Afford Its Welfare State?",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
+      "summary": "אירופה מתמודדת עם אחת הסוגיות הכלכליות הכבדות של העשור - איך מממנים מדינת רווחה שתוכננה לאוכלוסייה צעירה וגדלה, כשהאוכלוסייה מזדקנת ומתכווצת.\n\nהלחץ ברור: פנסיות, בריאות וחינוך מתחרים על אותו תקציב שצריך לממן גם הגנה ותשתיות. הממשלות צריכות להעלות מסים או לקצץ - ואף אחת מהאפשרויות לא פופולרית.\n\nלמה זה רלוונטי גם לנו: מדינות שמעלות מסים מאטות את הצמיחה, ומדינות שמגדילות חוב דוחפות את הריביות למעלה. שתי הדרכים משפיעות על השווקים הגלובליים.",
+      "importance": 9,
+      "topics": [
+        "דמוגרפיה",
+        "פנסיות",
+        "מדיניות פיסקלית"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "וול סטריט עוברת לסוד מהיר. מאז שטראמפ חזר לבית הלבן, גל עסקאות ענק - מיזוגים ורכישות שהיו חלומות רחוקים בימי ביידן - הפך לאפשרי מחדש. הרגולציה מתרופפת, והחברות יודעות שיש חלון - לא בלי גבול זמן.\n\nמה שמעניין: זה לא רק טוב לבנקי ההשקעות. כשיש גל M&A, גם משרדי עורכי דין, חברות ייעוץ ואפילו ספקי טכנולוגיה לחברות גדולות מרגישים את זה. ומנגד - חברות קטנות שפעלו בשקט עלולות למצוא את עצמן פתאום על מפה של מישהו גדול יותר.",
+      "importance": 9,
+      "topics": [
+        "M&A",
+        "מדיניות",
+        "זרימת הון"
+      ],
+      "tag": "גלובלי"
+    },
     {
       "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
       "source": "Bloomberg Markets",
@@ -162,6 +188,19 @@
       "tag": "גלובלי"
     },
     {
+      "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "עונת הדוחות של S&P 500 מכה את הציפיות - אבל בקושי. הפער בין הרווחים בפועל לתחזיות האנליסטים הוא הצר ביותר בכארבע שנים.\n\nזה לא אות אזהרה דרמטי, אבל כן סיגנל שכדאי לשים לב אליו: כשהחברות מפסיקות להפתיע לטובה, זה בדרך כלל מסמן שהמחזור העסקי מגיע לנקודת שיא. ההשפעה הפחות ברורה - חברות שתלויות בגידול תקציבי מצד לקוחות גדולים, כמו ספקי תוכנה וייעוץ, עלולות להרגיש את זה לפני כולם.",
+      "importance": 8,
+      "topics": [
+        "רווחיות",
+        "ספקולציה שוק",
+        "מחזור עסקי"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
       "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
       "source": "CNBC Top News",
       "url": "",
@@ -173,86 +212,138 @@
         "זרימת הון"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Aramco Riyadh Office Targeted in Attack, Causing Limited Damage",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "התקפה על משרדי ארמקו בריאד - לא מדובר בנזק חמור, אבל הסמל חשוב: זו הסלמה נוספת בעימות בין סעודיה לחות'ים התימנים שנתמכים על ידי איראן.\n\nארמקו היא חברת הנפט הגדולה בעולם, וכל התקפה על תשתיות שלה מזכירה לשוק שהאנרגיה הגלובלית עדיין עוברת דרך אזור לא יציב. מעניין לראות איך זה ישפיע על מחירי הנפט השבוע - ועל ההחלטות של OPEC לגבי התפוקה.",
+      "importance": 7,
+      "topics": [
+        "נפט",
+        "אנרגיה",
+        "בטחון אספקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Payments giant Stripe to launch Israel operations",
+      "source": "גלובס שוק ההון",
+      "url": "",
+      "summary": "Stripe נכנסת לישראל - וזה עניין גדול יותר ממה שנראה במבט ראשון.\n\nהחברה, אחת מפלטפורמות התשלומים הגדולות בעולם, מחפשת מנהל מקומי שיפתח ויוביל את הפעילות פה. עד היום שירותיה לא היו זמינים בישראל בכלל.\n\nההשפעה העקיפה מעניינת: סטארטאפים ישראלים שעד עכשיו עקפו את הבעיה עם כתובות אמריקאיות, חברות פינטק מקומיות שיצטרכו להתמודד עם תחרות אמיתית, ובנקים שמספקים פתרונות סליקה - כולם ירגישו את זה.",
+      "importance": 7,
+      "topics": [
+        "תשלומים",
+        "פינטק",
+        "מודיניות"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "שוק הנדל\"ן האוסטרלי מראה סימני חיים - מכירות הבתים ושיעורי הסגירה במכירות הפומביות עולים, אחרי תקופה ארוכה של האטה על רקע העלאות הריבית. זה מעניין כי זה אחד המדדים הראשונים שמצביעים על כך שהשוק מתחיל לתמחר ציפיות להפסקת העלאות - או אפילו הורדות ריבית בעתיד. שווה לשים לב: מה שקורה באוסטרליה מגיע לרוב לשאר העולם עם פיגור של כמה חודשים, כולל לשוק המשכנתאות הישראלי.",
+      "importance": 6,
+      "topics": [
+        "נדלן",
+        "ריבית",
+        "מחזור כלכלי"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Developers' finance schemes find ways around BoI restrictions",
+      "source": "גלובס שוק ההון",
+      "url": "",
+      "summary": "יזמים מוצאים דרכים לעקוף את הגבלות בנק ישראל על מימון רכישת דירות. ג'ינדי ואביב מליסרון השיקו השבוע תוכניות מימון חדשות שמטרתן להזיז דירות יוקרה שתקועות. זה מרתק כי זה מראה עד כמה הביקוש האמיתי מוגבל - ולא חסר. ההשלכות העקיפות שווה לעקוב אחריהן: אם הבנק המרכזי יגיב, זה עלול להחמיר את תנאי המשכנתאות לכולם, לא רק לרוכשי יוקרה.",
+      "importance": 6,
+      "topics": [
+        "בנייה",
+        "מימון",
+        "רגולציה"
+      ],
+      "tag": "ישראל"
     }
   ],
   "tech": [
     {
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
-      "importance": 8,
-      "topics": [
-        "Nvidia",
-        "AI",
-        "סנקציות"
-      ],
-      "published": "2026-11-07T10:43:45-05:00"
-    },
-    {
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "מדעי הנתונים"
-      ],
-      "published": "2026-11-07T07:30:00-05:00"
-    },
-    {
-      "title": "חשד: ישראלים עקצו 129 מיליון דולר בעזרת דיפ פייק של מנכ\"לים",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/2-israelis-charged-with-major-fraud-using-ai-and-deep-fakes/",
-      "summary": "תארו לכם עוד יום עבודה סטנדרטי, שבו אתם עולים לזום עם המנכ\"ל, שמסביר שהוא צריך אתכם לעסקה גדולה וסודית, ומזמין אתכם על הדרך ככה לחתום על הסכם סודיות בנושא. עכשיו תארו לכם שאחרי החתימה על המסמכים ואחרי שהעברתם את הכספים שהתבקשתם, אתם מגלים שזה לא היה המנכ\"ל שלכם, והכסף שהעברתם לטובת העסקה הגיע בכלל לגורמים […] The post חשד: ישראלים עקצו 129 מיליון דולר בעזרת דיפ פייק של מנכ\"לים appeared first on גי",
-      "importance": 8,
-      "topics": [
-        "אבטחה",
-        "דיפ פייק",
-        "AI"
-      ],
-      "published": "Sun, 08 Nov 2026 08:42:17 +0000"
-    },
-    {
-      "title": "התרגום הקולי החדש של גוגל יחסל את היתרון של דוברי האנגלית. אבל יש פה קאצ'",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/google-meet-ai-real-time-translation-economy/",
-      "summary": "גוגל מקרבת אותנו לעולם שבו השפה מפסיקה להיות מחסום. האם התרגום הקולי ישנה את יחסי הכוחות בכלכלה הגלובלית ויחליש את היתרון ההיסטורי של דוברי האנגלית? או דווקא יחזק את ענקיות הטכנולוגיה האמריקאיות שישלטו בתשתיות התקשורת שהעולם יהיה תלוי בהן? תרגום עם הקול שלכם אתמול נכתב כאן על כך שגוגל מרחיבה את יכולות תרגום הדיבור בזמן […] The post התרגום הקולי החדש של גוגל יחסל את היתרון של דוברי האנגלית. אבל יש ",
-      "importance": 8,
-      "topics": [
-        "Google",
-        "AI",
-        "תרגום"
-      ],
-      "published": "Sat, 07 Nov 2026 14:05:22 +0000"
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "importance": 9,
+      "topics": [
+        "NVIDIA",
+        "מנהיגות",
+        "אבטחה"
+      ],
+      "published": "Sun, 08 Nov 2026 21:00:11 +0000"
+    },
+    {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
+      "importance": 9,
+      "topics": [
+        "NVIDIA",
+        "מנהיגות",
+        "אבטחה"
+      ],
+      "published": "2026-11-08T17:54:50-05:00"
+    },
+    {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]",
+      "importance": 9,
+      "topics": [
+        "NVIDIA",
+        "אבטחה",
+        "מנהלות"
+      ],
+      "published": "2026-11-08T15:22:39-05:00"
+    },
+    {
+      "title": "\"לא הייתי נאמן לאשתי\": הנה המייל המלא ששלח ג'נסן הואנג לעובדי אנבידיה הלילה",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/jensens-memo-to-nvidia-employees/",
+      "summary": "הלילה דווח שאנבידיה פתחה בחקירה רשמית לגבי קשריו של המייסד והמנכ\"ל האגדי שלה, ג'נסן הואנג, עם אליס הואנג, מנהלת בכירה בחברת Megaspeed, ועל פי החשד, סוכנת של ממשלת סין. במקביל, הואנג הודה ברומן במכתב ששלח לעובדי החברה. הנה תרגום של המייל המלא. \"אין שום תירוץ למה שעשיתי\" לעמיתיי באנבידיה, אני חייב למשפחתי ולכולכם התנצלות. לא […] The post \"לא הייתי נאמן לאשתי\": הנה המייל המלא ששלח ג'נסן הואנג לעובדי ",
+      "importance": 9,
+      "topics": [
+        "NVIDIA",
+        "אבטחה מידע",
+        "שינוי הנהלה"
+      ],
+      "published": "Mon, 09 Nov 2026 05:29:17 +0000"
+    },
+    {
+      "title": "ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פתח בחקירה",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/jensen-huang-admits-to-affair-with-chinese-spy/",
+      "summary": "רק לפני כמה ימים נחשפה פרשת הריגול הסיני שמסעירה את NVIDIA, ובמרכזה החשד שמנהלת בכירה בחברה סינגפורית גויסה על ידי המודיעין הסיני כדי להתקרב למנכ\"ל החברה, ג'נסן הואנג, ולהוציא ממנו מידע רגיש. אחרי הדיווחים כי בין השניים היה רומן, הערב (א') מנכ\"ל ענקית השבבים הודה בפני עובדי החברה כי ניהל רומן מחוץ לנישואים, בזמן שדירקטוריון […] The post ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פ",
+      "importance": 9,
+      "topics": [
+        "NVIDIA",
+        "אבטחה מידע",
+        "ריגול"
+      ],
+      "published": "Sun, 08 Nov 2026 20:33:45 +0000"
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
       "importance": 7,
       "topics": [
-        "Nvidia",
-        "אבטחה",
-        "ג'יאופוליטיקה"
+        "AI",
+        "Apple",
+        "סוכנים"
       ],
-      "published": "Sat, 07 Nov 2026 21:17:08 +0000"
-    },
-    {
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-      "importance": 7,
-      "topics": [
-        "Binance",
-        "אבטחה",
-        "קריפטו"
-      ],
-      "published": "Sat, 07 Nov 2026 17:24:07 +0000"
+      "published": "2026-11-08T14:18:19-05:00"
     },
     {
       "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
@@ -262,23 +353,23 @@
       "importance": 7,
       "topics": [
         "AI",
-        "תכנון רובוטי",
-        "ראייה ממחשב"
+        "רובוטיקה",
+        "עתידות טכנולוגיה"
       ],
       "published": "Sun, 08 Nov 2026 10:00:00 +0000"
     },
     {
-      "title": "למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה?",
+      "title": "חשד: ישראלים עקצו 129 מיליון דולר בעזרת דיפ פייק של מנכ\"לים",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/why-ai-agents-need-company-brain/",
-      "summary": "מאת אריאל עוז דמיינו סוכן AI שמקבל גישה למערכות הארגון. הוא שולף נתונים, קורא מסמכים, כותב שאילתות SQL ואפילו מבצע פעולות בעצמו. עכשיו בקשו ממנו לחשב את הכנסות החברה ברבעון האחרון. הוא ימצא את הנתונים ויחזיר מספר מדויק, אולי אפילו בגרף מרשים. רק שיש בעיה קטנה: הוא השתמש בהגדרה הלא נכונה של הכנסה, התעלם מהחרגה […] The post למה הסוכן החכם שלכם לא מבין את העסק, ואיך פותרים את זה? appeared first on גי",
+      "url": "https://www.geektime.co.il/2-israelis-charged-with-major-fraud-using-ai-and-deep-fakes/",
+      "summary": "תארו לכם עוד יום עבודה סטנדרטי, שבו אתם עולים לזום עם המנכ\"ל, שמסביר שהוא צריך אתכם לעסקה גדולה וסודית, ומזמין אתכם על הדרך ככה לחתום על הסכם סודיות בנושא. עכשיו תארו לכם שאחרי החתימה על המסמכים ואחרי שהעברתם את הכספים שהתבקשתם, אתם מגלים שזה לא היה המנכ\"ל שלכם, והכסף שהעברתם לטובת העסקה הגיע בכלל לגורמים […] The post חשד: ישראלים עקצו 129 מיליון דולר בעזרת דיפ פייק של מנכ\"לים appeared first on גי",
       "importance": 7,
       "topics": [
-        "AI",
-        "סוכנים חכמים",
-        "ארגונומי"
+        "אבטחה",
+        "Deepfake",
+        "AI"
       ],
-      "published": "Sun, 08 Nov 2026 09:58:48 +0000"
+      "published": "Sun, 08 Nov 2026 08:42:17 +0000"
     }
   ]
 }
