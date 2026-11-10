@@ -1,165 +1,139 @@
 {
-  "generated_at": "2026-11-09T11:14:15.091655+00:00",
+  "generated_at": "2026-11-10T06:45:08.207003+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
-      "summary": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
-      "importance": 9,
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "גיאופוליטיקה"
-      ],
-      "published": "Sun, 08 Nov 2026 14:25:30 -0500"
-    },
-    {
-      "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
-      "summary": "Huawei, the world's biggest telecommunications company, is on trial in New York, accused of stealing American technology and evading US sanctions.",
-      "importance": 8,
-      "topics": [
-        "הואוויי",
-        "ארצות הברית",
-        "סנקציות"
-      ],
-      "published": "Sun, 08 Nov 2026 17:04:13 -0500"
-    },
-    {
-      "title": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
-      "summary": "Iran has put forward a two-day proposal developed with Qatari mediators that Washington is examining.",
-      "importance": 8,
-      "topics": [
-        "איראן",
-        "ארה״ב",
         "דיפלומטיה"
       ],
-      "published": "Mon, 09 Nov 2026 09:27:35 +0000"
+      "published": "Tue, 10 Nov 2026 00:09:49 GMT"
     },
     {
-      "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
-      "summary": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.",
-      "importance": 7,
-      "topics": [
-        "פרגוואי",
-        "משבר פיננסי",
-        "פוליטיקה"
-      ],
-      "published": "Mon, 09 Nov 2026 01:20:44 -0500"
-    },
-    {
-      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-      "importance": 7,
-      "topics": [
-        "סנגל",
-        "הגירה",
-        "אסון"
-      ],
-      "published": "Mon, 09 Nov 2026 10:59:26 GMT"
-    },
-    {
-      "title": "At least four killed as Russia and Ukraine trade strikes overnight",
+      "title": "European diplomats press Rubio for a role in Russia-Ukraine talks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
-      "summary": "Russia's second-largest oil refinery was set on fire by drones, while Russian strikes targeted Ukrainian energy sites.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
+      "summary": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Tue, 10 Nov 2026 05:02:33 +0000"
+    },
+    {
+      "title": "\"השיחות התכופות\" בין נתניהו לטראמפ - והצהרת הנשיא: \"פעולה באיראן? זה לא הכרחי\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hktq3310mx",
+      "summary": "נשיא ארה\"ב נפגש עם ראש ממשלת קטאר בבית הלבן, והצהיר כי \"פעולה צבאית אינה הכרחית כרגע\": \"זה לא סביר. יש תנופה חיובית לסיום העימות\". בעיתון בריטי נטען כי מנהיגים ערבים חוששים שנתניהו לוחץ על טראמפ: \"הוא מתקשר אליו מדי יום ומפציר בו לחדש את המערכה, בבית הלבן מנסים לבלום זאת\"",
+      "importance": 8,
+      "topics": [
+        "ארה״ב",
+        "איראן",
+        "ישראל"
+      ],
+      "published": "Tue, 10 Nov 2026 00:25:12 +0200"
+    },
+    {
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+      "importance": 7,
+      "topics": [
+        "אירן",
+        "ארה״ב",
+        "ביטחון"
+      ],
+      "published": "Tue, 10 Nov 2026 05:33:25 GMT"
+    },
+    {
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "סייבר",
+        "טכנולוגיה"
+      ],
+      "published": "Tue, 10 Nov 2026 05:22:39 GMT"
+    },
+    {
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "importance": 7,
+      "topics": [
+        "רוסיה",
+        "חופש עיתונות",
+        "גיאופוליטיקה"
+      ],
+      "published": "Mon, 09 Nov 2026 18:08:07 GMT"
+    },
+    {
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+      "importance": 7,
+      "topics": [
+        "תורכיה",
+        "אסון",
+        "בטיחות עבודה"
+      ],
+      "published": "Mon, 09 Nov 2026 20:42:04 GMT"
+    },
+    {
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
       "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "ביטחון"
+        "אפריקה"
       ],
-      "published": "Mon, 09 Nov 2026 10:08:45 +0000"
+      "published": "Mon, 09 Nov 2026 17:06:18 GMT"
     },
     {
-      "title": "Which countries and industries emit the most greenhouse gases?",
+      "title": "Moscow summit tests Russia’s waning grip on former Soviet allies",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
-      "summary": "The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss",
+      "summary": "The CSTO's influence is declining as Armenia turns away, while former allies pursue independent partnerships.",
       "importance": 7,
       "topics": [
-        "סביבה",
-        "אקלים",
-        "כלכלה"
+        "רוסיה",
+        "אַרְמֶנִיָה",
+        "גיאופוליטיקה"
       ],
-      "published": "Mon, 09 Nov 2026 07:21:37 +0000"
+      "published": "Tue, 10 Nov 2026 05:38:50 +0000"
     },
     {
-      "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
+      "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
-      "summary": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
+      "summary": "Israel's military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa.",
       "importance": 7,
       "topics": [
-        "איראן",
         "ישראל",
-        "ביטחון"
+        "פלסטינים",
+        "גדה המערבית"
       ],
-      "published": "Mon, 09 Nov 2026 07:07:26 +0000"
-    },
-    {
-      "title": "לה פן נערכת לשלטון: \"צרפת הכי פחות גזענית בעולם, נגרש את מי ששונא אותנו\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bjn00y11krzl",
-      "summary": "מנהיגת הימין הקיצוני בצרפת, שהסקרים חוזים לה ניצחון בבחירות לנשיאות, מבטיחה בריאיון לתוכנית \"60 דקות\" להראות למהגרים ש\"שונאים\" את ארצה \"את הדלת החוצה\" - ומכחישה שיש בה גזענות: \"זה לא קיים\". על ההובלה בסקרים: \"לא ארשה שיגידו שצרפת קיצונית, האם היא השתנתה? זה סופו של עולם - עולם שנבנה על גלובליזציה חסרת רסן\". דיווח: זה היעד שלה ל\"פירוק\" באיחוד האירופי",
-      "importance": 7,
-      "topics": [
-        "צרפת",
-        "פוליטיקה",
-        "אירופה"
-      ],
-      "published": "Mon, 09 Nov 2026 13:01:44 +0200"
-    },
-    {
-      "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
-      "summary": "A new permanent exhibition at Paris' Musee d'Orsay showcases works of art suspected to have been looted by Nazis during the Second World War in France. Experts are trying to find the true owners or their descendants.",
-      "importance": 6,
-      "topics": [
-        "צרפת",
-        "שואה",
-        "תרבות"
-      ],
-      "published": "Sun, 08 Nov 2026 17:04:09 -0500"
+      "published": "Tue, 10 Nov 2026 05:23:57 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Can Europe Afford Its Welfare State?",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
-      "summary": "אירופה מתמודדת עם אחת הסוגיות הכלכליות הכבדות של העשור - איך מממנים מדינת רווחה שתוכננה לאוכלוסייה צעירה וגדלה, כשהאוכלוסייה מזדקנת ומתכווצת.\n\nהלחץ ברור: פנסיות, בריאות וחינוך מתחרים על אותו תקציב שצריך לממן גם הגנה ותשתיות. הממשלות צריכות להעלות מסים או לקצץ - ואף אחת מהאפשרויות לא פופולרית.\n\nלמה זה רלוונטי גם לנו: מדינות שמעלות מסים מאטות את הצמיחה, ומדינות שמגדילות חוב דוחפות את הריביות למעלה. שתי הדרכים משפיעות על השווקים הגלובליים.",
-      "importance": 9,
-      "topics": [
-        "דמוגרפיה",
-        "פנסיות",
-        "מדיניות פיסקלית"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "וול סטריט עוברת לסוד מהיר. מאז שטראמפ חזר לבית הלבן, גל עסקאות ענק - מיזוגים ורכישות שהיו חלומות רחוקים בימי ביידן - הפך לאפשרי מחדש. הרגולציה מתרופפת, והחברות יודעות שיש חלון - לא בלי גבול זמן.\n\nמה שמעניין: זה לא רק טוב לבנקי ההשקעות. כשיש גל M&A, גם משרדי עורכי דין, חברות ייעוץ ואפילו ספקי טכנולוגיה לחברות גדולות מרגישים את זה. ומנגד - חברות קטנות שפעלו בשקט עלולות למצוא את עצמן פתאום על מפה של מישהו גדול יותר.",
-      "importance": 9,
-      "topics": [
-        "M&A",
-        "מדיניות",
-        "זרימת הון"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
       "source": "CNBC Top News",
@@ -170,19 +144,6 @@
         "Nvidia",
         "סיכון ממשלתי",
         "מנהיגות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "עונת הדוחות של S&P 500 מכה את הציפיות - אבל בקושי. הפער בין הרווחים בפועל לתחזיות האנליסטים הוא הצר ביותר בכארבע שנים.\n\nזה לא אות אזהרה דרמטי, אבל כן סיגנל שכדאי לשים לב אליו: כשהחברות מפסיקות להפתיע לטובה, זה בדרך כלל מסמן שהמחזור העסקי מגיע לנקודת שיא. ההשפעה הפחות ברורה - חברות שתלויות בגידול תקציבי מצד לקוחות גדולים, כמו ספקי תוכנה וייעוץ, עלולות להרגיש את זה לפני כולם.",
-      "importance": 8,
-      "topics": [
-        "רווחיות",
-        "ספקולציה שוק",
-        "מחזור עסקי"
       ],
       "tag": "ארה\"ב"
     },
@@ -213,160 +174,202 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Aramco Riyadh Office Targeted in Attack, Causing Limited Damage",
+      "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "גל התקפות על תשתיות קריטיות באירופה מתגבר - מקירור מזון ברשתות סופרמרקט ועד איומי פצצה על טיסות נוסעים. זה לא רק סיפור ביטחוני.\n\nכשתשתיות כאלה מושבתות, העלויות נופלות על החברות שמפעילות אותן - ביטוח, שרידות, גיבוי מערכות. הענפים שיצטרכו להשקיע הכי הרבה כדי להתמגן: לוגיסטיקה, קמעונאות מזון ותעופה. כל זה עוד לפני שמדברים על הנזק לאמון הצרכנים.",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "תשתיות",
+        "סיכון מערכתי"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Latest Oil Market News and Analysis for Nov. 9",
       "source": "Bloomberg Markets",
       "url": "",
-      "summary": "התקפה על משרדי ארמקו בריאד - לא מדובר בנזק חמור, אבל הסמל חשוב: זו הסלמה נוספת בעימות בין סעודיה לחות'ים התימנים שנתמכים על ידי איראן.\n\nארמקו היא חברת הנפט הגדולה בעולם, וכל התקפה על תשתיות שלה מזכירה לשוק שהאנרגיה הגלובלית עדיין עוברת דרך אזור לא יציב. מעניין לראות איך זה ישפיע על מחירי הנפט השבוע - ועל ההחלטות של OPEC לגבי התפוקה.",
-      "importance": 7,
+      "summary": "הנפט סיים את השבוע עם הירידה השבועית הגדולה ביותר שלו מאז אפריל 2020 - למרות שהמצב בעזה ממשיך להסלים. הפרדוקס הוא מעניין: השוק מתמחר דיפלומטיה, לא סיכון. כשנפט נופל, זה משפיע על הרבה יותר מהתדלוק - מניות אנרגיה, מטבעות של מדינות מייצאות כמו סעודיה ורוסיה, ואפילו על הכיוון של הריבית בעולם. שווה לשים לב איך השוק קורא את הסיטואציה הזו בימים הקרובים.",
+      "importance": 8,
       "topics": [
-        "נפט",
         "אנרגיה",
-        "בטחון אספקה"
+        "נפט",
+        "דיפלומציה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Payments giant Stripe to launch Israel operations",
-      "source": "גלובס שוק ההון",
+      "title": "As AI trade falters, Goldman Sachs says this lagging region is now positioned to outperform",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-ai-trade-falters-goldman-sachs-says-this-lagging-region-is-now-positioned-to-outperform-589805c6?mod=mw_rss_topstories",
+      "summary": "גולדמן זאקס ממליצה לתת עין על אירופה - ודווקא מהסיבות שהיא הייתה חלשה. שווקי עבודה נוקשים ורגולציה כבדה, שהכבידו על הצמיחה האירופית שנים, הופכים לפתע ליתרון: כשה-AI מייעל תהליכים, חברות אירופאיות צפויות לחסוך יותר ביחס לנקודת הפתיחה שלהן לעומת חברות אמריקאיות שכבר יעילות. זה מתחבר לתזוזה שרואים בהקצאת הון גלובלית מארה\"ב לאירופה בחודשים האחרונים - ולא רק בגלל הכלכלה, גם בגלל גיאופוליטיקה. שווה לשים לב.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "השקעות",
+        "אירופה",
+        "פריון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Stock Market Today: Nvidia Stock Slides After Chip Maker Opens Probe",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026?mod=rss_markets_main",
+      "summary": "הדאו זינק ב-800 נקודות היום והנאסד\"ק חזר לעלות - השוק מתאושש מהירידות של השבוע שעבר. אבל NVIDIA דווקא ירדה: נפתחה חקירה פנימית בחברה, והמשקיעים מעדיפים לא להסתכן עד שמבינים על מה מדובר.\n\nמה שמעניין פה: כשמניה כמו NVIDIA - שהיא כבר לא סתם חברת שבבים אלא ציר מרכזי של כל תשתית ה-AI - יורדת בזמן שהשוק עולה, זה משהו שכדאי לשים לב אליו. קרנות שהחזיקו בה בכבדות עשויות להתחיל לשקול מחדש.",
+      "importance": 8,
+      "topics": [
+        "נוויידיה",
+        "טכנולוגיה",
+        "ממשלתי"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+      "source": "CNBC Top News",
       "url": "",
-      "summary": "Stripe נכנסת לישראל - וזה עניין גדול יותר ממה שנראה במבט ראשון.\n\nהחברה, אחת מפלטפורמות התשלומים הגדולות בעולם, מחפשת מנהל מקומי שיפתח ויוביל את הפעילות פה. עד היום שירותיה לא היו זמינים בישראל בכלל.\n\nההשפעה העקיפה מעניינת: סטארטאפים ישראלים שעד עכשיו עקפו את הבעיה עם כתובות אמריקאיות, חברות פינטק מקומיות שיצטרכו להתמודד עם תחרות אמיתית, ובנקים שמספקים פתרונות סליקה - כולם ירגישו את זה.",
+      "summary": "פרשה אישית של ג'נסן הואנג - מנכ\"ל Nvidia - הפכה לסיפור פוליטי. לפי הדיווחים, מדובר בקשר עם אישה שחשודה כסוכנת סינית, בדיוק כשהחברה ממילא נמצאת תחת מיקרוסקופ בגלל מדיניות הייצוא לסין.\n\nהדמוקרטים כבר אוחזים בזה כדי לדחוף לפיקוח מחודש על Nvidia. ומעבר לפוליטיקה - זה עלול להחמיר את המגבלות על שבבי AI מתקדמים שמיועדים לשווקים זרים, מה שמשפיע ישירות על ההכנסות.",
+      "importance": 8,
+      "topics": [
+        "נוויידיה",
+        "רגולציה",
+        "ביטחון"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "source": "TechCrunch",
+      "url": "",
+      "summary": "Anthropic רכשה טורבינות גז טבעי בשווי 3.4 מיליארד דולר - כדי לייצר חשמל בעצמה לצרכי ה-AI שלה.\n\nזה לא מקרה בודד: חברות AI גדולות מתחרות כרגע על כל מגה-וואט פנוי בארה\"ב, וכשהרשת הציבורית לא מספיקה - הן בונות תשתית משלהן. מי שמרגיש את זה קודם כל הוא ספקי הגז הטבעי, יצרני הטורבינות, וחברות התשתיות שפתאום נמצאות בלב המהפכה הטכנולוגית.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "אנרגיה",
+        "השקעות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "ניסוי קליני של Eli Lilly לתרופת לב נכשל - והתוצאות מדאיגות גם את המתחרים.\n\nהתרופה הצליחה להוריד את רמות החלבון Lp(a) בדם, שקשור לסיכון לבבי גבוה, אבל בפועל לא הפחיתה אירועים קרדיוווסקולריים. במילים פשוטות: הביו-מרקר ירד, הסיכון האמיתי - לא.\n\nזה בעיה לכל התעשייה. חברות כמו Novartis ו-Silence Therapeutics שמפתחות תרופות על אותה מטרה ביולוגית עלולות לגלות שהנחת היסוד של כולן שגויה. ההשפעה העקיפה: משקיעים בביוטק יהיו זהירים יותר עם כל הסקטור הזה, וחברות ביטוח רפואי עשויות לחזור ולבחון אילו טיפולים הן מכסות.",
       "importance": 7,
       "topics": [
-        "תשלומים",
-        "פינטק",
-        "מודיניות"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "שוק הנדל\"ן האוסטרלי מראה סימני חיים - מכירות הבתים ושיעורי הסגירה במכירות הפומביות עולים, אחרי תקופה ארוכה של האטה על רקע העלאות הריבית. זה מעניין כי זה אחד המדדים הראשונים שמצביעים על כך שהשוק מתחיל לתמחר ציפיות להפסקת העלאות - או אפילו הורדות ריבית בעתיד. שווה לשים לב: מה שקורה באוסטרליה מגיע לרוב לשאר העולם עם פיגור של כמה חודשים, כולל לשוק המשכנתאות הישראלי.",
-      "importance": 6,
-      "topics": [
-        "נדלן",
-        "ריבית",
-        "מחזור כלכלי"
+        "בטכנולוגיה רפואית",
+        "פרמצבטיקה",
+        "שוק הון"
       ],
       "tag": "גלובלי"
-    },
-    {
-      "title": "Developers' finance schemes find ways around BoI restrictions",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "יזמים מוצאים דרכים לעקוף את הגבלות בנק ישראל על מימון רכישת דירות. ג'ינדי ואביב מליסרון השיקו השבוע תוכניות מימון חדשות שמטרתן להזיז דירות יוקרה שתקועות. זה מרתק כי זה מראה עד כמה הביקוש האמיתי מוגבל - ולא חסר. ההשלכות העקיפות שווה לעקוב אחריהן: אם הבנק המרכזי יגיב, זה עלול להחמיר את תנאי המשכנתאות לכולם, לא רק לרוכשי יוקרה.",
-      "importance": 6,
-      "topics": [
-        "בנייה",
-        "מימון",
-        "רגולציה"
-      ],
-      "tag": "ישראל"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "importance": 9,
-      "topics": [
-        "NVIDIA",
-        "AI",
-        "הנהלה בכירה"
-      ],
-      "published": "Sun, 08 Nov 2026 21:00:11 +0000"
-    },
-    {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
-      "importance": 9,
-      "topics": [
-        "NVIDIA",
-        "AI",
-        "הנהלה בכירה"
-      ],
-      "published": "2026-11-08T17:54:50-05:00"
-    },
-    {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
       "importance": 8,
       "topics": [
-        "Nvidia",
+        "NVIDIA",
         "אבטחה",
-        "מודיעין"
+        "ביודלהקה"
       ],
-      "published": "2026-11-08T15:22:39-05:00"
+      "published": "Mon, 09 Nov 2026 15:23:20 +0000"
     },
     {
-      "title": "\"לא הייתי נאמן לאשתי\": הנה המייל המלא ששלח ג'נסן הואנג לעובדי אנבידיה הלילה",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/jensens-memo-to-nvidia-employees/",
-      "summary": "הלילה דווח שאנבידיה פתחה בחקירה רשמית לגבי קשריו של המייסד והמנכ\"ל האגדי שלה, ג'נסן הואנג, עם אליס הואנג, מנהלת בכירה בחברת Megaspeed, ועל פי החשד, סוכנת של ממשלת סין. במקביל, הואנג הודה ברומן במכתב ששלח לעובדי החברה. הנה תרגום של המייל המלא. \"אין שום תירוץ למה שעשיתי\" לעמיתיי באנבידיה, אני חייב למשפחתי ולכולכם התנצלות. לא […] The post \"לא הייתי נאמן לאשתי\": הנה המייל המלא ששלח ג'נסן הואנג לעובדי ",
-      "importance": 8,
-      "topics": [
-        "NVIDIA",
-        "סחר מודיעיני",
-        "שבבים"
-      ],
-      "published": "Mon, 09 Nov 2026 05:29:17 +0000"
-    },
-    {
-      "title": "ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פתח בחקירה",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/jensen-huang-admits-to-affair-with-chinese-spy/",
-      "summary": "רק לפני כמה ימים נחשפה פרשת הריגול הסיני שמסעירה את NVIDIA, ובמרכזה החשד שמנהלת בכירה בחברה סינגפורית גויסה על ידי המודיעין הסיני כדי להתקרב למנכ\"ל החברה, ג'נסן הואנג, ולהוציא ממנו מידע רגיש. אחרי הדיווחים כי בין השניים היה רומן, הערב (א') מנכ\"ל ענקית השבבים הודה בפני עובדי החברה כי ניהל רומן מחוץ לנישואים, בזמן שדירקטוריון […] The post ג'נסן הואנג מודה ברומן עם המרגלת הסינית; דירקטוריון אנבידיה פ",
-      "importance": 8,
-      "topics": [
-        "NVIDIA",
-        "סחר מודיעיני",
-        "שבבים"
-      ],
-      "published": "Sun, 08 Nov 2026 20:33:45 +0000"
-    },
-    {
-      "title": "Apple is racing to make Siri more agentic",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
       "importance": 7,
       "topics": [
         "AI",
-        "Apple"
+        "Anthropic",
+        "IPO"
       ],
-      "published": "2026-11-08T14:18:19-05:00"
+      "published": "Tue, 10 Nov 2026 01:27:12 +0000"
     },
     {
-      "title": "המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/ternus-wants-to-turn-siri-ai-into-muse-like/",
-      "summary": "יותר משנתיים אחרי ההכרזה המקורית, אפל סוף סוף השיקה השנה את Siri AI, הגרסה החדשה של העוזרת האישית שלה. אולם כעת כשיש לה עוזרת מודרנית והרבה יותר חכמה, היא הגיעה לשלב שבו היא מבינה שהיא כבר לא יכולה לנוח על זרי הדפנה, כיוון שבכל פעם שאתה משחק תופסת עם המתחרים בשוק ה-AI, המשחק משתנה לך […] The post המנכ\"ל החדש של אפל מאבד סבלנות, ודורש הרבה יותר מהבכירים appeared first on גיקטיים .",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
       "importance": 7,
       "topics": [
         "AI",
-        "Apple",
-        "Siri"
+        "Anthropic",
+        "מודלים"
       ],
-      "published": "Mon, 09 Nov 2026 08:13:18 +0000"
+      "published": "Mon, 09 Nov 2026 19:24:51 +0000"
     },
     {
-      "title": "Elvis and Eminem rights holders are suing Suno",
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+      "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "סייבר",
+        "תשתיות קריטיות"
+      ],
+      "published": "Mon, 09 Nov 2026 19:19:24 +0000"
+    },
+    {
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
-      "importance": 6,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
+      "importance": 7,
       "topics": [
         "AI",
-        "משפט"
+        "Anthropic",
+        "מודלים שפה"
       ],
-      "published": "2026-11-08T12:23:19-05:00"
+      "published": "2026-11-09T14:00:00-05:00"
+    },
+    {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "Linux",
+        "זוקף"
+      ],
+      "published": "Mon, 09 Nov 2026 19:41:34 +0000"
+    },
+    {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "אבטחה"
+      ],
+      "published": "Mon, 09 Nov 2026 17:24:26 +0000"
+    },
+    {
+      "title": "החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/grok-bot-xai-cursor-critical-security-flaw/",
+      "summary": "אם אתם משתמשים בסוכני AI בארגון, כנראה שאתם כבר סומכים עליהם עם לא מעט מידע רגיש כדי שיבצעו עבורכם פעולות מורכבות. אבל מחקר חדש של חברת אבטחת המידע הישראלית Profero חושף היום (ב') שורה של חולשות אבטחה ב-Grok Bot, סוכן ה-AI מבית xAI של אילון מאסק. החולשות הללו עלולות לאפשר לכאורה לתוקפים להשתלט על סביבת […] The post החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה appear",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "אבטחת מידע",
+        "xAI"
+      ],
+      "published": "Mon, 09 Nov 2026 13:29:17 +0000"
     }
   ]
 }
