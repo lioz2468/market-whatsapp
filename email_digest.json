@@ -1,45 +1,84 @@
 {
-  "generated_at": "2026-11-10T06:45:08.207003+00:00",
+  "generated_at": "2026-11-10T10:56:33.584461+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
+      "summary": "President Trump's top envoy is in Abu Dhabi with negotiators from Russia and Ukraine to resume peace talks.",
+      "importance": 9,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "גיאופוליטיקה"
+      ],
+      "published": "Tue, 10 Nov 2026 04:38:34 -0500"
+    },
     {
       "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
-      "importance": 8,
+      "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
+      "importance": 9,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "דיפלומטיה"
+        "גיאופוליטיקה"
       ],
-      "published": "Tue, 10 Nov 2026 00:09:49 GMT"
+      "published": "Tue, 10 Nov 2026 09:07:00 GMT"
     },
     {
-      "title": "European diplomats press Rubio for a role in Russia-Ukraine talks",
+      "title": "What powers does Netanyahu have as Israel’s interim PM?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
-      "summary": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss",
+      "summary": "As Israel faces political gridlock, Netanyahu wields caretaker powers to manage security and disrupt his rivals.",
       "importance": 8,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
+        "ישראל",
+        "פוליטיקה",
+        "נתניהו"
       ],
-      "published": "Tue, 10 Nov 2026 05:02:33 +0000"
+      "published": "Tue, 10 Nov 2026 08:38:11 +0000"
     },
     {
-      "title": "\"השיחות התכופות\" בין נתניהו לטראמפ - והצהרת הנשיא: \"פעולה באיראן? זה לא הכרחי\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hktq3310mx",
-      "summary": "נשיא ארה\"ב נפגש עם ראש ממשלת קטאר בבית הלבן, והצהיר כי \"פעולה צבאית אינה הכרחית כרגע\": \"זה לא סביר. יש תנופה חיובית לסיום העימות\". בעיתון בריטי נטען כי מנהיגים ערבים חוששים שנתניהו לוחץ על טראמפ: \"הוא מתקשר אליו מדי יום ומפציר בו לחדש את המערכה, בבית הלבן מנסים לבלום זאת\"",
+      "title": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+      "summary": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.",
       "importance": 8,
       "topics": [
-        "ארה״ב",
-        "איראן",
-        "ישראל"
+        "פלסטין",
+        "עזה",
+        "אסון"
       ],
-      "published": "Tue, 10 Nov 2026 00:25:12 +0200"
+      "published": "Tue, 10 Nov 2026 06:37:13 +0000"
+    },
+    {
+      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+      "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
+      "importance": 7,
+      "topics": [
+        "ירן",
+        "סייבר",
+        "אירופה"
+      ],
+      "published": "Mon, 09 Nov 2026 17:30:49 -0500"
+    },
+    {
+      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+      "importance": 7,
+      "topics": [
+        "קונגו",
+        "אפריקה",
+        "ביטחון"
+      ],
+      "published": "Tue, 10 Nov 2026 08:39:05 GMT"
     },
     {
       "title": "Trump says more US attacks on Iran 'highly unlikely'",
@@ -48,37 +87,11 @@
       "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
       "importance": 7,
       "topics": [
-        "אירן",
-        "ארה״ב",
-        "ביטחון"
+        "ארצות הברית",
+        "איראן",
+        "דיפלומטיה"
       ],
-      "published": "Tue, 10 Nov 2026 05:33:25 GMT"
-    },
-    {
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "סייבר",
-        "טכנולוגיה"
-      ],
-      "published": "Tue, 10 Nov 2026 05:22:39 GMT"
-    },
-    {
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-      "importance": 7,
-      "topics": [
-        "רוסיה",
-        "חופש עיתונות",
-        "גיאופוליטיקה"
-      ],
-      "published": "Mon, 09 Nov 2026 18:08:07 GMT"
+      "published": "Tue, 10 Nov 2026 09:40:31 GMT"
     },
     {
       "title": "Turkey steel factory blast kills at least 17 people",
@@ -87,89 +100,50 @@
       "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
       "importance": 7,
       "topics": [
-        "תורכיה",
+        "טורקיה",
         "אסון",
-        "בטיחות עבודה"
+        "בטיחות"
       ],
       "published": "Mon, 09 Nov 2026 20:42:04 GMT"
     },
     {
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "title": "Nvidia spy scandal fuels debate over chip exports to China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
+      "summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "אפריקה"
+        "ארה\"ב",
+        "סין",
+        "טכנולוגיה"
       ],
-      "published": "Mon, 09 Nov 2026 17:06:18 GMT"
+      "published": "Tue, 10 Nov 2026 09:42:04 +0000"
     },
     {
-      "title": "Moscow summit tests Russia’s waning grip on former Soviet allies",
+      "title": "US moves aircraft from second UK base over ‘threat from Iran’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss",
-      "summary": "The CSTO's influence is declining as Armenia turns away, while former allies pursue independent partnerships.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
+      "summary": "Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.",
       "importance": 7,
       "topics": [
-        "רוסיה",
-        "אַרְמֶנִיָה",
-        "גיאופוליטיקה"
+        "ארה\"ב",
+        "איראן",
+        "בריטניה"
       ],
-      "published": "Tue, 10 Nov 2026 05:38:50 +0000"
-    },
-    {
-      "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
-      "summary": "Israel's military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "פלסטינים",
-        "גדה המערבית"
-      ],
-      "published": "Tue, 10 Nov 2026 05:23:57 +0000"
+      "published": "Tue, 10 Nov 2026 08:08:24 +0000"
     }
   ],
   "business": [
     {
-      "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-      "summary": "מניית Nvidia ירדה כ-4% אחרי דיווחים שג'נסן הואנג היה מטרה למאמץ ריגול סיני. הדירקטוריון הכריז על חקירה עצמאית - מה שאומר שהם לוקחים את זה ברצינות.\n\nפה מעניין להסתכל על התמונה הרחבה: Nvidia כבר נמצאת תחת מיקרוסקופ בגלל מכירות שבבים לסין, וסיפור כזה רק מוסיף לחץ פוליטי בוושינגטון. אם הפיקוח על יצוא שבבים יתהדק עוד - זה לא רק בעיה של Nvidia. AMD ו-Intel יחושו את זה גם.",
+      "title": "פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג?",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/why-nvidia-ceo-jensen-huang-china-spy/",
+      "summary": "עובדת בכירה באנבידיה נעצרה בחשד שמסרה מידע לסין - וזה לא סתם ריגול תעשייתי רגיל.\n\nאנבידיה היא כרגע התשתית של ה-AI העולמי. השבבים שלה הם התקן שכולם מתיישרים אליו, והביקוש עולה על הייצור כבר שנים. זה אומר שמידע פנימי שם שווה יותר מאשר כמעט בכל מקום אחר בעולם הטכנולוגיה.\n\nמה שמעניין: זה לא רק עניין של NVIDIA - זה סימן עד כמה המלחמה על שבבי AI עוברת לשלב חדש.",
       "importance": 9,
       "topics": [
-        "Nvidia",
-        "סיכון ממשלתי",
-        "מנהיגות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "This market signal called the tech selloff. Now it’s sending another warning.",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "קורלציה בין מניות בשוק האמריקאי נפלה לרמה נמוכה היסטורית - וזה אמור להדליק נורה צהובה.\n\nכשמניות זזות בכיוונים שונים, זה בדרך כלל סימן לשוק בריא. אבל בפעם האחרונה שהקורלציה הייתה נמוכה כל כך, מה שבא אחרי היה גל הירידות בטכנולוגיה. כשהמספר הזה מתחיל לעלות חזרה - המניות נוטות לנוע יחד, וזה בדרך כלל אומר ירידות רחבות.\n\nמי שצריך לשים לב: מי שמשקיע ב-ETF מגזרי חושב שהוא מפוזר - הוא לא בהכרח מפוזר.",
-      "importance": 8,
-      "topics": [
-        "בורסה",
-        "סיכון שוק",
-        "טכנולוגיה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "3.4 מיליארד דולר - זה הסכום שאנת'רופיק חתמה עליו עם ספק גנרטורים לדטה סנטרים של AI. לא שרתים, לא שבבים - גנרטורים. תשתית חשמל.\n\nזה אומר משהו חשוב: מחסור החשמל הוא כבר לא תיאוריה, הוא הוצאה תקציבית בפועל. חברות AI משקיעות בחשמל עוד לפני שהן משקיעות בציוד עצמו.\n\nמי שכדאי לשים לב אליו פה: חברות שמייצרות ומתפעלות גנרטורים תעשייתיים - Caterpillar, Cummins, Aggreko. הן ייהנו מהגל הזה בלי שרוב האנשים שמים לב אליהן.",
-      "importance": 8,
-      "topics": [
         "AI",
-        "תשתיות",
-        "אנרגיה"
+        "שבבים",
+        "גיאופוליטיקה"
       ],
       "tag": "גלובלי"
     },
@@ -253,6 +227,32 @@
       "tag": "גלובלי"
     },
     {
+      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "עונת הרווחים עוזרת לשוק להתרחב מעבר לחברות הטכנולוגיה הגדולות - ומניות מגזרים כמו פיננסים, תעשייה וצריכה מתחילות להוביל. יום שלישי הוא המבחן: נתוני האינפלציה לאוקטובר (CPI) יקבעו אם הסיבוב הזה מחזיק. אינפלציה גבוהה מהצפוי תחזיר את הלחץ לריביות - וזה כבר ישפיע על שוק הנדל\"ן, הרכב ואשראי הצרכנים. שווה לשים לב.",
+      "importance": 8,
+      "topics": [
+        "אינפלציה",
+        "פד",
+        "רוטציה בתיקים"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Nvidia's China revenue exposure: What New Street estimates",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "לפי הערכות New Street Research, בין 10% ל-15% מהכנסות Nvidia מגיעות מסין - וזה אחרי כל הגבלות הייצוא.\n\nזה אומר שהחשיפה של Nvidia לסין גדולה משנדמה, למרות כל הרגולציה. כל סיבוב חדש של סנקציות - או החלטה סינית להאיץ פיתוח מקומי - מכה ישירות בשורת ההכנסות. ומעבר לזה: ספקי ענן, חברות שמשתמשות בתשתית AI, ואפילו AMD עלולות להרגיש את זה בעקיפין.",
+      "importance": 8,
+      "topics": [
+        "נוויידיה",
+        "סין",
+        "סנקציות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
       "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
       "source": "MarketWatch",
       "url": "",
@@ -268,17 +268,56 @@
   ],
   "tech": [
     {
-      "title": "Nvidia CEO's affair becomes a national security problem",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
       "importance": 8,
       "topics": [
-        "NVIDIA",
-        "אבטחה",
-        "ביודלהקה"
+        "Nvidia",
+        "בטחון לאומי",
+        "סעיף 337"
       ],
-      "published": "Mon, 09 Nov 2026 15:23:20 +0000"
+      "published": "Mon, 09 Nov 2026 18:09:52 +0000"
+    },
+    {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
+      "importance": 8,
+      "topics": [
+        "Nvidia",
+        "בטחון לאומי",
+        "סקנדל"
+      ],
+      "published": "2026-11-09T18:07:59-05:00"
+    },
+    {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "importance": 8,
+      "topics": [
+        "אבטחה",
+        "לינוקס",
+        "היכלות"
+      ],
+      "published": "Mon, 09 Nov 2026 19:41:34 +0000"
+    },
+    {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "אבטחה",
+        "Anthropic"
+      ],
+      "published": "Mon, 09 Nov 2026 17:24:26 +0000"
     },
     {
       "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -294,17 +333,30 @@
       "published": "Tue, 10 Nov 2026 01:27:12 +0000"
     },
     {
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
       "importance": 7,
       "topics": [
-        "AI",
-        "Anthropic",
-        "מודלים"
+        "אבטחה",
+        "נתונים",
+        "Wyndham"
       ],
-      "published": "Mon, 09 Nov 2026 19:24:51 +0000"
+      "published": "Mon, 09 Nov 2026 23:03:46 +0000"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "importance": 7,
+      "topics": [
+        "NVIDIA",
+        "תביעות",
+        "אנטי-טראסט"
+      ],
+      "published": "Mon, 09 Nov 2026 22:23:42 +0000"
     },
     {
       "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
@@ -313,63 +365,10 @@
       "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
       "importance": 7,
       "topics": [
-        "אבטחה",
-        "סייבר",
+        "אבטחת סייבר",
         "תשתיות קריטיות"
       ],
       "published": "Mon, 09 Nov 2026 19:19:24 +0000"
-    },
-    {
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "מודלים שפה"
-      ],
-      "published": "2026-11-09T14:00:00-05:00"
-    },
-    {
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "summary": "\"*sshole\" poses a serious threat to Internet security.",
-      "importance": 7,
-      "topics": [
-        "אבטחה",
-        "Linux",
-        "זוקף"
-      ],
-      "published": "Mon, 09 Nov 2026 19:41:34 +0000"
-    },
-    {
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "אבטחה"
-      ],
-      "published": "Mon, 09 Nov 2026 17:24:26 +0000"
-    },
-    {
-      "title": "החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/grok-bot-xai-cursor-critical-security-flaw/",
-      "summary": "אם אתם משתמשים בסוכני AI בארגון, כנראה שאתם כבר סומכים עליהם עם לא מעט מידע רגיש כדי שיבצעו עבורכם פעולות מורכבות. אבל מחקר חדש של חברת אבטחת המידע הישראלית Profero חושף היום (ב') שורה של חולשות אבטחה ב-Grok Bot, סוכן ה-AI מבית xAI של אילון מאסק. החולשות הללו עלולות לאפשר לכאורה לתוקפים להשתלט על סביבת […] The post החוקרים הישראלים התריעו על חולשה חמורה ב-Grok של אילון מאסק, xAI פשוט התעלמה appear",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "אבטחת מידע",
-        "xAI"
-      ],
-      "published": "Mon, 09 Nov 2026 13:29:17 +0000"
     }
   ]
 }
