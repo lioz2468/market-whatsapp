@@ -1169,7 +1169,8 @@
     "5d8b3dfd088126b7": "2026-11-10T18:00:43.374586+00:00",
     "99e1fe972299fa8c": "2026-11-10T19:31:39.191175+00:00",
     "31ba847381085c17": "2026-11-11T06:00:44.695389+00:00",
-    "ea560e32b0bcda2e": "2026-11-11T07:30:32.832727+00:00"
+    "ea560e32b0bcda2e": "2026-11-11T07:30:32.832727+00:00",
+    "e7bca6647aaf35e8": "2026-11-11T09:01:34.556723+00:00"
   },
   "messages": [
     {
@@ -17032,7 +17033,21 @@
         "טק",
         "שוק מניות"
       ]
+    },
+    {
+      "sent_at": "2026-11-11T09:01:34.556723+00:00",
+      "title": "Goldman Sachs now expects the Fed to hike rates by another 25 bps in March, on top of a December hike, following hotter-than-expected October inflation. The bank also pushed back its forecast for the first rate cut to December 2027, 3-months later than previously expected. https://t.co/MDganMDWwl",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2120427323015188971",
+      "message": "גולדמן זאקס עדכנו את התחזית שלהם: הם צופים עכשיו שני העלאות ריבית נוספות - אחת בדצמבר ואחת במרץ - אחרי שנתוני האינפלציה לאוקטובר הגיעו חמים מהצפוי. יותר מזה, הם דחו את תחזית הורדת הריבית הראשונה לדצמבר 2027.\n\nזה משנה את התמונה לכל מי שמחזיק אג\"ח ארוכות - הן יסבלו. גם חברות עם הרבה חוב, ובמיוחד נדל\"ן מסחרי, יצטרכו להתמודד עם עלויות מימון גבוהות הרבה יותר זמן ממה שחשבו.",
+      "importance": 9,
+      "tag": "גלובלי",
+      "topics": [
+        "פד",
+        "ריבית",
+        "אינפלציה"
+      ]
     }
   ],
-  "last_auto_run": "2026-11-11T07:30:31.206514+00:00"
+  "last_auto_run": "2026-11-11T09:00:40.303369+00:00"
 }
