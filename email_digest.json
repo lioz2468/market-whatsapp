@@ -1,45 +1,84 @@
 {
-  "generated_at": "2026-11-11T06:45:14.214068+00:00",
+  "generated_at": "2026-11-11T10:37:30.416319+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
+      "summary": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless spread of the disease.",
       "importance": 8,
       "topics": [
-        "ישראל",
-        "פוליטיקה",
-        "בחירות"
+        "קונגו",
+        "אבולה",
+        "בריאות ציבורית"
       ],
-      "published": "Tue, 10 Nov 2026 17:03:16 GMT"
+      "published": "Wed, 11 Nov 2026 04:16:01 -0500"
     },
     {
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
       "importance": 8,
+      "topics": [
+        "ריגול",
+        "ביטחון",
+        "ארה״ב"
+      ],
+      "published": "Tue, 10 Nov 2026 20:20:04 GMT"
+    },
+    {
+      "title": "UK probes alleged Iran-backed plot against base hosting US forces",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6036786/uk-probes-alleged-iran-backed-plot-against-base-hosting-us-forces",
+      "summary": "Two investigations in Britain raise security concerns: an alleged Iran-backed plot targeting a U.K. base hosting U.S. forces, and a U.S. soldier arrested on suspicion of spying for Russia.",
+      "importance": 7,
+      "topics": [
+        "איראן",
+        "בריטניה",
+        "ביטחון"
+      ],
+      "published": "Wed, 11 Nov 2026 05:02:54 -0500"
+    },
+    {
+      "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+      "summary": "Hopes of progress in ending Europe's biggest conflict since World War II are tempered by the absence of any significant breakthroughs in three previous rounds of talks early this year.",
+      "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "דיפלומטיה"
+        "שלום"
       ],
-      "published": "Tue, 10 Nov 2026 21:21:55 GMT"
+      "published": "Tue, 10 Nov 2026 05:58:18 -0500"
     },
     {
-      "title": "Section 219: the future of US-Israeli defence partnership",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_the-future-of-us-israeli-defence-partnership-101126?traffic_source=rss",
-      "summary": "US President Donald Trump has announced plans to end the billions of dollars in annual US military aid to Israel.",
-      "importance": 8,
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "importance": 7,
       "topics": [
-        "ישראל",
-        "ארה״ב",
+        "איראן",
+        "בריטניה",
         "ביטחון"
       ],
-      "published": "Wed, 11 Nov 2026 03:48:58 +0000"
+      "published": "Wed, 11 Nov 2026 01:01:20 GMT"
+    },
+    {
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "importance": 7,
+      "topics": [
+        "האיטי",
+        "אל סלוודור",
+        "אלימות"
+      ],
+      "published": "Wed, 11 Nov 2026 02:47:59 GMT"
     },
     {
       "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
@@ -49,87 +88,49 @@
       "importance": 7,
       "topics": [
         "בנגלדש",
-        "פוליטיקה",
-        "מהפך"
+        "אי-יציבות מדינית",
+        "הפגנות"
       ],
       "published": "Tue, 10 Nov 2026 19:26:42 GMT"
     },
     {
-      "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss",
-      "summary": "Authorities struggling to contain DRC's largest Ebola outbreak due to delayed detection and conflict.",
-      "importance": 7,
-      "topics": [
-        "בריאות",
-        "קונגו",
-        "אסון"
-      ],
-      "published": "Wed, 11 Nov 2026 04:44:18 +0000"
-    },
-    {
-      "title": "Russia claims interception of 146 drones in Leningrad region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
-      "summary": "Attacks also reported in the Russian-occupied Donbas region of Ukraine as US-mediated talks continue in Abu Dhabi.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ביטחון"
-      ],
-      "published": "Wed, 11 Nov 2026 04:34:47 +0000"
-    },
-    {
-      "title": "בונה מחדש את צבא שכירי החרב כוח וגנר ומנסה לחזור לקרמלין: המשחק המסוכן של פאבל פריגוז'ין",
+      "title": "הליך ההדחה נגד שר ההגנה הגסת' סוכל, בינתיים: \"הטיטאניק טובעת, והם נשארים\"",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14944580",
-      "summary": "האוליגרך יבגני פריגוז'ין התרסק במטוס אחרי שמרד בפוטין. בנו פאבל ירש אימפריה של מיליארדים, צבא שכירי חרב ורשת מסועפת של עסקים אפלים. עכשיו, הרחק מאור הזרקורים, הוא בונה את כוח וגנר מחדש, משתלט על אוצרות הטבע של אפריקה ומזרים כסף לקרמלין. אבל ברוסיה של פוטין, מי כמוהו יודע: הדרך מידיד לאויב יכולה להיות קצרה וקטלנית",
+      "url": "https://www.ynet.co.il/news/article/bjdrmc11rme",
+      "summary": "הרפובליקנים בבית הנבחרים התגייסו נגד ההצעה של חבר מפלגתם תומאס מאסי להדיח את ראש הפנטגון, גם בגלל מלחמת איראן, וקברו אותה בהליך פרוצדורלי. טראמפ חגג (\"כישלון חרוץ! זיכוי מוחלט!\"), אך הדמוקרטים ישתלטו בינואר על הבית, ועשויים לקדם הליך הדחה אינטנסיבי בהרבה. רפובליקנים חוששים שהגסת' הופך לנטל, מאסי: \"הם יודעים שהספינה טובעת אבל מחויבים להישאר על הסיפון\"",
       "importance": 7,
       "topics": [
-        "רוסיה",
-        "אפריקה",
-        "כוח וגנר"
+        "ארה״ב",
+        "פוליטיקה",
+        "דפנס"
       ],
-      "published": "Wed, 11 Nov 2026 06:40:04 +0200"
+      "published": "Wed, 11 Nov 2026 09:32:33 +0200"
     },
     {
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+      "summary": "Less than three weeks before a national election that could catapult the far right to power, Spain's workers are striking on Wednesday to demand that the government remedy the nation's housing crisis.",
       "importance": 6,
       "topics": [
-        "זכויות אדם",
-        "משפט"
+        "ספרד",
+        "משבר דיור",
+        "פוליטיקה"
       ],
-      "published": "Tue, 10 Nov 2026 18:04:18 GMT"
+      "published": "Wed, 11 Nov 2026 04:54:54 -0500"
     },
     {
-      "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
-      "summary": "Yemen's government says 190 rebel fighters killed and wounded, as Houthis also claim inflicting heavy losses.",
+      "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+      "summary": "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir.",
       "importance": 6,
       "topics": [
-        "תימן",
-        "חותיים",
-        "ביטחון"
+        "קוריאה הצפונית",
+        "פוליטיקה",
+        "יורשות כוח"
       ],
-      "published": "Wed, 11 Nov 2026 05:39:26 +0000"
-    },
-    {
-      "title": "US charges three men for allegedly plotting attack on UK base",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
-      "summary": "The US has charged three men over alleged involvement in a plot to attack a Royal Air Force Base in Fairford, UK.",
-      "importance": 6,
-      "topics": [
-        "ביטחון",
-        "בריטניה",
-        "ארה״ב"
-      ],
-      "published": "Wed, 11 Nov 2026 05:01:47 +0000"
+      "published": "Tue, 10 Nov 2026 09:16:53 -0500"
     }
   ],
   "business": [
@@ -145,19 +146,6 @@
         "מדיניות מוניטארית"
       ],
       "tag": "ארה\"ב"
-    },
-    {
-      "title": "פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג?",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/why-nvidia-ceo-jensen-huang-china-spy/",
-      "summary": "עובדת בכירה באנבידיה נעצרה בחשד שמסרה מידע לסין - וזה לא סתם ריגול תעשייתי רגיל.\n\nאנבידיה היא כרגע התשתית של ה-AI העולמי. השבבים שלה הם התקן שכולם מתיישרים אליו, והביקוש עולה על הייצור כבר שנים. זה אומר שמידע פנימי שם שווה יותר מאשר כמעט בכל מקום אחר בעולם הטכנולוגיה.\n\nמה שמעניין: זה לא רק עניין של NVIDIA - זה סימן עד כמה המלחמה על שבבי AI עוברת לשלב חדש.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "שבבים",
-        "גיאופוליטיקה"
-      ],
-      "tag": "גלובלי"
     },
     {
       "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
@@ -241,28 +229,40 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-      "source": "MarketWatch",
+      "title": "Nvidia $NVDA has now lost more than $1.8 TRILLION in market value from its peak, slipping to the world's 3rd-most valuable company behind Apple and Microsoft. https://t.co/c60kNTP3zS",
+      "source": "Twitter @wallstengine",
       "url": "",
-      "summary": "עונת הרווחים עוזרת לשוק להתרחב מעבר לחברות הטכנולוגיה הגדולות - ומניות מגזרים כמו פיננסים, תעשייה וצריכה מתחילות להוביל. יום שלישי הוא המבחן: נתוני האינפלציה לאוקטובר (CPI) יקבעו אם הסיבוב הזה מחזיק. אינפלציה גבוהה מהצפוי תחזיר את הלחץ לריביות - וזה כבר ישפיע על שוק הנדל\"ן, הרכב ואשראי הצרכנים. שווה לשים לב.",
-      "importance": 8,
+      "summary": "NVIDIA איבדה יותר מ-1.8 טריליון דולר משווי השיא שלה, וירדה למקום השלישי בין החברות הגדולות בעולם - אחרי Apple ו-Microsoft.\n\nזה לא רק מספר גדול. לפני כמה חודשים NVIDIA הייתה החברה הכי שווה בעולם, וה-AI הפך אותה לסמל של עידן חדש. הנפילה הזו משקפת שינוי אמיתי באיך שהשוק תומחר את גל ה-AI - פחות אופוריה, יותר שאלות על מתי הכסף הזה באמת מגיע לתוצאות.\n\nמי שצריך לשים לב: כל מי שמחזיק קרנות מחקות מדד - NVIDIA היא חלק ניכר מהן.",
+      "importance": 9,
       "topics": [
-        "אינפלציה",
-        "פד",
-        "רוטציה בתיקים"
+        "טק",
+        "שוק מניות"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Nvidia's China revenue exposure: What New Street estimates",
+      "title": "Goldman Sachs now expects the Fed to hike rates by another 25 bps in March, on top of a December hike, following hotter-than-expected October inflation. The bank also pushed back its forecast for the first rate cut to December 2027, 3-months later than previously expected. https://t.co/MDganMDWwl",
+      "source": "Twitter @wallstengine",
+      "url": "https://twitter.com/wallstengine/status/2120427323015188971",
+      "summary": "גולדמן זאקס עדכנו את התחזית שלהם: הם צופים עכשיו שני העלאות ריבית נוספות - אחת בדצמבר ואחת במרץ - אחרי שנתוני האינפלציה לאוקטובר הגיעו חמים מהצפוי. יותר מזה, הם דחו את תחזית הורדת הריבית הראשונה לדצמבר 2027.\n\nזה משנה את התמונה לכל מי שמחזיק אג\"ח ארוכות - הן יסבלו. גם חברות עם הרבה חוב, ובמיוחד נדל\"ן מסחרי, יצטרכו להתמודד עם עלויות מימון גבוהות הרבה יותר זמן ממה שחשבו.",
+      "importance": 9,
+      "topics": [
+        "פד",
+        "ריבית",
+        "אינפלציה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
       "source": "CNBC Top News",
       "url": "",
-      "summary": "לפי הערכות New Street Research, בין 10% ל-15% מהכנסות Nvidia מגיעות מסין - וזה אחרי כל הגבלות הייצוא.\n\nזה אומר שהחשיפה של Nvidia לסין גדולה משנדמה, למרות כל הרגולציה. כל סיבוב חדש של סנקציות - או החלטה סינית להאיץ פיתוח מקומי - מכה ישירות בשורת ההכנסות. ומעבר לזה: ספקי ענן, חברות שמשתמשות בתשתית AI, ואפילו AMD עלולות להרגיש את זה בעקיפין.",
+      "summary": "שר האוצר האמריקאי בסנט אמר השבוע שארה\"ב וסין צריכות לשתף פעולה בתחום ה-AI - אבל בלי אשליות לגבי האינטרסים של כל צד. מאז ביקורו של שי בספטמבר, שתי המדינות מקיימות ערוץ דיאלוג ישיר על AI, בעיקר כדי למנוע אסקלציה של תקריות רציניות. זה לא שלום - זה ניהול תחרות. למשקיעים שווה לשים לב: כל מסגרת רגולטורית משותפת שתצא מזה תשפיע ישירות על חברות AI שפועלות משני צידי הגבול, ועל זרימת ההון בין השווקים.",
       "importance": 8,
       "topics": [
-        "נוויידיה",
-        "סין",
-        "סנקציות"
+        "AI",
+        "רגולציה",
+        "ארה\"ב-סין"
       ],
       "tag": "גלובלי"
     }
@@ -273,7 +273,7 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
       "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-      "importance": 8,
+      "importance": 9,
       "topics": [
         "Anthropic",
         "IPO",
@@ -282,17 +282,16 @@
       "published": "Tue, 10 Nov 2026 19:57:52 +0000"
     },
     {
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
       "importance": 8,
       "topics": [
-        "אבטחה",
         "AI",
-        "SpaceX"
+        "רגולציה"
       ],
-      "published": "Tue, 10 Nov 2026 21:12:59 +0000"
+      "published": "Tue, 10 Nov 2026 20:52:13 +0000"
     },
     {
       "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
@@ -303,61 +302,34 @@
       "topics": [
         "Nvidia",
         "הנהלה",
-        "יום גיוס"
+        "תאגידי"
       ],
       "published": "Tue, 10 Nov 2026 14:53:05 +0000"
     },
     {
-      "title": "גיוס של 80 מיליון דולר לסטארטאפ הישראלי שמגן על Lovable ו-LastPass",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/daylight-raises-80m-series-b-ai-cybersecurity/",
-      "summary": "בדיוק שנה עברה מאז שחברת הסייבר הישראלית Daylight הודיעה על סבב הגיוס הקודם שלה, והיום (ג') היא חושפת גיוס גדול נוסף. עכשיו מודיע הסטארטאפ על השלמת סבב B בגובה 80 מיליון דולר בהובלת Goldman Sachs ובהשתתפות משקיעה חדשה, Okta Ventures, לצד הקרנות הקיימות Vintage Partners, Craft Ventures, Bain Capital ו-Maple Capital. הגיוס הנוכחי מביא את […] The post גיוס של 80 מיליון דולר לסטארטאפ הישראלי שמגן על L",
-      "importance": 8,
-      "topics": [
-        "סייבר",
-        "גיוס הון",
-        "סטארטאפ"
-      ],
-      "published": "Tue, 10 Nov 2026 14:31:48 +0000"
-    },
-    {
-      "title": "פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג?",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/why-nvidia-ceo-jensen-huang-china-spy/",
-      "summary": "קשה להפריז בכוחה של אנבידיה בשנים האחרונות, וזה ממש לא רק שווי השוק המטורף (והמשחק עם אפל על מי החברה בעלת השווי הגבוה בעולם). השבבים של החברה הם תשתית ה-AI העולמית, ואיפשהו גם התקן העולמי שכמעט כל החברות מתיישרות אליו, כך שהדרישה למוצרים של החברה עולה כבר שנים על קצב הייצור שלה. לכן, כשהתפוצצה פרשת […] The post פרשת המרגלת באנבידיה: מה סין באמת ניסתה להשיג? appeared first on גיקטיים .",
-      "importance": 8,
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "importance": 7,
       "topics": [
         "NVIDIA",
-        "שבבים",
-        "ביטחון"
+        "ממשלתיות"
       ],
-      "published": "Tue, 10 Nov 2026 07:04:47 +0000"
+      "published": "Wed, 11 Nov 2026 07:30:51 +0000"
     },
     {
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-      "importance": 7,
-      "topics": [
-        "רגולציה",
-        "AI",
-        "OpenAI"
-      ],
-      "published": "Tue, 10 Nov 2026 20:52:13 +0000"
-    },
-    {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
       "importance": 7,
       "topics": [
         "AI",
-        "שבבים",
-        "Google"
+        "Anthropic",
+        "מדע"
       ],
-      "published": "Tue, 10 Nov 2026 15:54:08 +0000"
+      "published": "Tue, 10 Nov 2026 19:03:52 +0000"
     },
     {
       "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
@@ -366,11 +338,37 @@
       "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their […]",
       "importance": 7,
       "topics": [
-        "AI",
         "רכישה",
-        "healthtech"
+        "AI",
+        "healthcare"
       ],
       "published": "2026-11-10T16:40:31-05:00"
+    },
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "importance": 7,
+      "topics": [
+        "אבטחה סייבר",
+        "AI",
+        "xAI"
+      ],
+      "published": "Tue, 10 Nov 2026 21:12:59 +0000"
+    },
+    {
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "DeepMind",
+        "רובוטיקה"
+      ],
+      "published": "Tue, 10 Nov 2026 15:00:39 +0000"
     }
   ]
 }
