@@ -1,13 +1,91 @@
 {
-  "generated_at": "2026-11-12T06:45:04.043549+00:00",
+  "generated_at": "2026-11-12T10:51:00.826055+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "עזה",
+        "קונפליקט"
+      ],
+      "published": "Thu, 12 Nov 2026 09:43:11 GMT"
+    },
+    {
+      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "ארה״ב"
+      ],
+      "published": "Thu, 12 Nov 2026 10:08:38 GMT"
+    },
+    {
+      "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+      "summary": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה אמריקנית"
+      ],
+      "published": "Thu, 12 Nov 2026 09:01:24 +0000"
+    },
+    {
+      "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+      "summary": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
+      "importance": 8,
+      "topics": [
+        "סין",
+        "טייוואן",
+        "גיאופוליטיקה"
+      ],
+      "published": "Thu, 12 Nov 2026 08:34:45 +0000"
+    },
+    {
+      "title": "כטב\"ם שיגר 3 טילים: זה \"מתקן העינויים\" של חמאס שהותקף",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/sytwbkx0mg",
+      "summary": "בצה\"ל עדיין ממתינים לתוצאות התקיפה החריגה בביה\"ח נאסר, בעזה כבר נערכות הלוויות. כטב\"ם שיגר טילים, בין המטרות: מתקן חקירות ועינויים שהקים חמאס בבית החולים - שם הפסיק בעבר את פעילותו ארגון הסיוע \"רופאים ללא גבולות\" בגלל \"חמושים רעולי פנים\" שהסתובבו במקום",
+      "importance": 8,
+      "topics": [
+        "גזה",
+        "חמאס",
+        "ישראל"
+      ],
+      "published": "Thu, 12 Nov 2026 09:42:39 +0200"
+    },
+    {
+      "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
+      "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Thu, 12 Nov 2026 04:38:46 -0500"
+    },
     {
       "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
       "source": "NPR World",
       "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
       "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
-      "importance": 8,
+      "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
@@ -16,149 +94,46 @@
       "published": "Wed, 11 Nov 2026 08:30:00 -0500"
     },
     {
-      "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
-      "summary": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless spread of the disease.",
-      "importance": 8,
-      "topics": [
-        "קונגו",
-        "משבר בריאות",
-        "אבולה"
-      ],
-      "published": "Wed, 11 Nov 2026 04:16:01 -0500"
-    },
-    {
-      "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
-      "summary": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "איראן",
-        "ביטחון"
-      ],
-      "published": "Thu, 12 Nov 2026 03:50:42 +0000"
-    },
-    {
-      "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
-      "summary": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
-      "importance": 7,
-      "topics": [
-        "אירן",
-        "בריטניה",
-        "ביטחון"
-      ],
-      "published": "Wed, 11 Nov 2026 05:02:54 -0500"
-    },
-    {
-      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "משבר הומניטרי"
-      ],
-      "published": "Thu, 12 Nov 2026 05:59:18 GMT"
-    },
-    {
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "עזה",
-        "קונפליקט"
-      ],
-      "published": "Thu, 12 Nov 2026 06:12:05 GMT"
-    },
-    {
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
-      ],
-      "published": "Wed, 11 Nov 2026 18:04:58 GMT"
-    },
-    {
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-      "importance": 7,
-      "topics": [
-        "קניה",
-        "בריאות ציבורית",
-        "אבולה"
-      ],
-      "published": "Wed, 11 Nov 2026 12:53:11 GMT"
-    },
-    {
-      "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
-      "summary": "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1.",
-      "importance": 7,
-      "topics": [
-        "תימן",
-        "חותיים",
+        "אינדונזיה",
+        "פוליטיקה",
         "גיאופוליטיקה"
       ],
-      "published": "Thu, 12 Nov 2026 04:41:17 +0000"
+      "published": "Thu, 12 Nov 2026 08:46:57 GMT"
     },
     {
-      "title": "צה\"ל תקף בית חולים בדרום הרצועה, היעד - מח\"ט חאן יונס: \"6 נהרגו, יותר מ-20 נפצעו\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rjyu1qmczl",
-      "summary": "ברצועה דיווחו על תקיפת בניין בבית החולים נאסר, וטענו כי בין ההרוגים גם רופא ובן 13. מנהל ביה\"ח תיאר \"נזק משמעותי\" למחלקות טיפול נמרץ וניתוחים. בצה\"ל ממתינים לתוצאות, חודשיים אחרי חיסול המח\"ט הקודם: \"במקום אוחסן נשק, יש שם חקירות ועינויים\". ארדואן בוועידת האקלים: \"לא רק ג'נוסייד, גם אקוסייד\"",
+      "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
+      "summary": "For decades, these bases allowed the US to wage faraway wars. Now, Iran has changed that calculation.",
       "importance": 7,
       "topics": [
-        "ישראל",
-        "פלסטינה",
-        "קזה"
+        "גיאופוליטיקה",
+        "בסיסים צבאיים אמריקניים",
+        "איראן"
       ],
-      "published": "Thu, 12 Nov 2026 05:00:04 +0200"
+      "published": "Thu, 12 Nov 2026 09:38:00 +0000"
+    },
+    {
+      "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
+      "summary": "Iran’s chief negotiator says Iran is open to a deal if the US refrains from creating distrust and excessive demands.",
+      "importance": 7,
+      "topics": [
+        "איראן",
+        "ארה״ב",
+        "דיפלומטיה"
+      ],
+      "published": "Thu, 12 Nov 2026 07:38:05 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Nvidia $NVDA has now lost more than $1.8 TRILLION in market value from its peak, slipping to the world's 3rd-most valuable company behind Apple and Microsoft. https://t.co/c60kNTP3zS",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "NVIDIA איבדה יותר מ-1.8 טריליון דולר משווי השיא שלה, וירדה למקום השלישי בין החברות הגדולות בעולם - אחרי Apple ו-Microsoft.\n\nזה לא רק מספר גדול. לפני כמה חודשים NVIDIA הייתה החברה הכי שווה בעולם, וה-AI הפך אותה לסמל של עידן חדש. הנפילה הזו משקפת שינוי אמיתי באיך שהשוק תומחר את גל ה-AI - פחות אופוריה, יותר שאלות על מתי הכסף הזה באמת מגיע לתוצאות.\n\nמי שצריך לשים לב: כל מי שמחזיק קרנות מחקות מדד - NVIDIA היא חלק ניכר מהן.",
-      "importance": 9,
-      "topics": [
-        "טק",
-        "שוק מניות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Goldman Sachs now expects the Fed to hike rates by another 25 bps in March, on top of a December hike, following hotter-than-expected October inflation. The bank also pushed back its forecast for the first rate cut to December 2027, 3-months later than previously expected. https://t.co/MDganMDWwl",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2120427323015188971",
-      "summary": "גולדמן זאקס עדכנו את התחזית שלהם: הם צופים עכשיו שני העלאות ריבית נוספות - אחת בדצמבר ואחת במרץ - אחרי שנתוני האינפלציה לאוקטובר הגיעו חמים מהצפוי. יותר מזה, הם דחו את תחזית הורדת הריבית הראשונה לדצמבר 2027.\n\nזה משנה את התמונה לכל מי שמחזיק אג\"ח ארוכות - הן יסבלו. גם חברות עם הרבה חוב, ובמיוחד נדל\"ן מסחרי, יצטרכו להתמודד עם עלויות מימון גבוהות הרבה יותר זמן ממה שחשבו.",
-      "importance": 9,
-      "topics": [
-        "פד",
-        "ריבית",
-        "אינפלציה"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "AI HAS POWERED AROUND A QUARTER OF UK 🇬🇧 ECONOMIC GROWTH THIS YEAR, ACCORDING TO BLOOMBERG ECONOMISTS.",
       "source": "Twitter @wallstengine",
@@ -212,15 +187,29 @@
       "tag": "גלובלי"
     },
     {
-      "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
-      "source": "CNBC Top News",
+      "title": "COMMERCE DEPARTMENT IS FINALIZING A RULE TO BLOCK CHINESE AI FIRMS FROM REMOTELY ACCESSING ADVANCED AI CHIPS THROUGH DATA CENTERS ABROAD: THE INFORMATION",
+      "source": "Twitter @wallstengine",
       "url": "",
-      "summary": "שר האוצר האמריקאי בסנט אמר השבוע שארה\"ב וסין צריכות לשתף פעולה בתחום ה-AI - אבל בלי אשליות לגבי האינטרסים של כל צד. מאז ביקורו של שי בספטמבר, שתי המדינות מקיימות ערוץ דיאלוג ישיר על AI, בעיקר כדי למנוע אסקלציה של תקריות רציניות. זה לא שלום - זה ניהול תחרות. למשקיעים שווה לשים לב: כל מסגרת רגולטורית משותפת שתצא מזה תשפיע ישירות על חברות AI שפועלות משני צידי הגבול, ועל זרימת ההון בין השווקים.",
-      "importance": 8,
+      "summary": "משרד המסחר האמריקאי מגבש כרגע חוק שיחסום חברות AI סיניות מגישה מרחוק למעבדי AI מתקדמים דרך מרכזי נתונים מחוץ לסין.\n\nזה סוגר פרצה שחברות סיניות השתמשו בה כדי לעקוף את ההגבלות על ייצוא שבבים - במקום לקנות את המעבד, פשוט שכרו גישה אליו ממדינה אחרת. אם הכלל יאושר, זה ישפיע גם על ספקיות ענן בסינגפור, איחוד האמירויות ואירופה שהרוויחו לא מעט מהביקוש הסיני הזה.",
+      "importance": 9,
       "topics": [
-        "AI",
         "רגולציה",
-        "ארה\"ב-סין"
+        "סין",
+        "AI",
+        "ניירות עם"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
+      "summary": "ג'נסן הואנג הוא לא רק המנכ\"ל של NVIDIA - הוא האיש שמחזיק את כל תעשיית ה-AI ביחד. הפרשה האישית שמסתובבת סביבו לא מאיימת רק על החברה, אלא על כל שרשרת האספקה של מהפכת ה-AI: מימון יצירתי, הסכמים עם ספקים, אמון המשקיעים. NVIDIA היא לא רק יצרנית שבבים - היא הגב הפיננסי של האקוסיסטם כולו. אם הואנג יוצא מהתמונה, שאלת \"מי מחליף אותו\" היא רק ההתחלה. השאלה האמיתית היא אילו עסקאות שקטות פשוט נעלמות איתו.",
+      "importance": 9,
+      "topics": [
+        "Nvidia",
+        "AI",
+        "ממשל תאגידי"
       ],
       "tag": "גלובלי"
     },
@@ -262,6 +251,19 @@
         "ריבית"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "השגריר הקנדי בוושינגטון יצא הבוקר בהתראה ישירה: המכסים של טראמפ על קנדה מייקרים עלויות לעסקים אמריקאים ודוחים השקעות - משני צידי הגבול. זה לא רק מאבק מדיני, זה לחץ ממשי על שרשראות אספקה שחברות אמריקאיות בנו על פני עשרות שנים. מי שלא חושב עליו: יצרני רכב, חברות אנרגיה וסקטור הבנייה האמריקאי - כולם תלויים בחומרי גלם קנדיים. ככל שהמשא ומתן נתקע, הנזק מצטבר בשקט.",
+      "importance": 8,
+      "topics": [
+        "תעריפים",
+        "סחר בינלאומי",
+        "השקעות"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
@@ -273,8 +275,8 @@
       "importance": 9,
       "topics": [
         "Nvidia",
-        "משבר ניהולי",
-        "נהלת חברה"
+        "מנהיגות",
+        "מיזוג וקנייה"
       ],
       "published": "Wed, 11 Nov 2026 23:28:45 +0000"
     },
@@ -282,14 +284,27 @@
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
       "importance": 9,
       "topics": [
         "NVIDIA",
-        "שינוי הנהלה",
-        "טכנולוגיה"
+        "הנהלה",
+        "מנהיגות"
       ],
       "published": "2026-11-11T17:44:36-05:00"
+    },
+    {
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "importance": 9,
+      "topics": [
+        "NVIDIA",
+        "הנהלה",
+        "משבר"
+      ],
+      "published": "Wed, 11 Nov 2026 23:10:17 +0000"
     },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -299,10 +314,23 @@
       "importance": 8,
       "topics": [
         "Nvidia",
-        "משבר ניהולי",
-        "אבטחה לאומית"
+        "מנהיגות",
+        "אבטחה"
       ],
       "published": "Wed, 11 Nov 2026 23:50:00 +0000"
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "importance": 8,
+      "topics": [
+        "Nvidia",
+        "רגולציה",
+        "מנהיגות"
+      ],
+      "published": "Wed, 11 Nov 2026 19:22:22 +0000"
     },
     {
       "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
@@ -312,62 +340,35 @@
       "importance": 8,
       "topics": [
         "OpenAI",
-        "הכנסות",
-        "AI"
+        "AI",
+        "כלכלה"
       ],
       "published": "Wed, 11 Nov 2026 16:14:44 +0000"
     },
     {
-      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "title": "איך Claude Code Desktop כמעט הדליף את כל המידע מהמחשב שלכם",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/claude-code-desktop-vulnerability-cvss-8-7-high/",
+      "summary": "מאת אלי איינהורן אם אתם מפתחים שמשתמשים ב-Claude Code Desktop, אז אתם מכירים את הפיצ'ר הבא: מבקשים מ-Claude לבדוק קובץ HTML לדוגמה, והאפליקציה מרנדרת אותו אוטומטית בפאנל צדדי. נוח, מהיר, ושימושי. ובכן… לא בדיוק. החוקרים שלנו ב-Noma Labs גילו חולשה חמורה ב-Preview Pane של אפליקציית הדסקטופ, שאפשרה לקובץ HTML לעקוף שלוש שכבות הגנה ולשלוף סיסמאות, […] The post איך Claude Code Desktop כמעט הדליף את כל",
       "importance": 8,
       "topics": [
-        "NVIDIA",
-        "שבבים",
-        "שינוי הנהלה"
+        "אבטחה",
+        "AI",
+        "Anthropic"
       ],
-      "published": "Wed, 11 Nov 2026 23:10:17 +0000"
+      "published": "Thu, 12 Nov 2026 08:58:03 +0000"
     },
     {
-      "title": "Why the data center you dread might never even be built",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
       "importance": 7,
       "topics": [
-        "תשתיות",
-        "מרכזי נתונים",
-        "AI"
+        "Nvidia",
+        "מנהיגות"
       ],
-      "published": "Wed, 11 Nov 2026 20:15:15 +0000"
-    },
-    {
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "importance": 7,
-      "topics": [
-        "שבבים",
-        "AI chips",
-        "סבב גיוס"
-      ],
-      "published": "Wed, 11 Nov 2026 19:34:55 +0000"
-    },
-    {
-      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-      "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, […]",
-      "importance": 7,
-      "topics": [
-        "רגולציה",
-        "EU",
-        "פלטפורמות"
-      ],
-      "published": "2026-11-11T13:13:52-05:00"
+      "published": "Wed, 11 Nov 2026 23:17:05 +0000"
     }
   ]
 }
