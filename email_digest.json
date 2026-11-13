@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-12T10:51:00.826055+00:00",
+  "generated_at": "2026-11-13T06:45:10.343335+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+      "summary": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.",
+      "importance": 8,
+      "topics": [
+        "רוסיה",
+        "אוקראינה",
+        "דיפלומטיה"
+      ],
+      "published": "Thu, 12 Nov 2026 10:26:34 -0500"
+    },
+    {
+      "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
+      "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday.",
+      "importance": 8,
+      "topics": [
+        "רוסיה",
+        "אוקראינה",
+        "משא ומתן"
+      ],
+      "published": "Thu, 12 Nov 2026 04:38:46 -0500"
+    },
     {
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "source": "BBC World",
@@ -11,181 +37,103 @@
       "topics": [
         "ישראל",
         "עזה",
-        "קונפליקט"
+        "סכסוך"
       ],
-      "published": "Thu, 12 Nov 2026 09:43:11 GMT"
+      "published": "Thu, 12 Nov 2026 16:54:12 GMT"
     },
     {
-      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "title": "US envoys shuttle between Putin and Zelenskyy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
+      "summary": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "ארה״ב"
+        "דיפלומטיה"
       ],
-      "published": "Thu, 12 Nov 2026 10:08:38 GMT"
+      "published": "Fri, 13 Nov 2026 04:12:01 +0000"
     },
     {
-      "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
-      "summary": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה אמריקנית"
-      ],
-      "published": "Thu, 12 Nov 2026 09:01:24 +0000"
-    },
-    {
-      "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
-      "summary": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
-      "importance": 8,
-      "topics": [
-        "סין",
-        "טייוואן",
-        "גיאופוליטיקה"
-      ],
-      "published": "Thu, 12 Nov 2026 08:34:45 +0000"
-    },
-    {
-      "title": "כטב\"ם שיגר 3 טילים: זה \"מתקן העינויים\" של חמאס שהותקף",
+      "title": "שאלת הגיבוי האמריקני - וההעדפה בצה\"ל: לא לצאת למערכה בממשלת מעבר",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/sytwbkx0mg",
-      "summary": "בצה\"ל עדיין ממתינים לתוצאות התקיפה החריגה בביה\"ח נאסר, בעזה כבר נערכות הלוויות. כטב\"ם שיגר טילים, בין המטרות: מתקן חקירות ועינויים שהקים חמאס בבית החולים - שם הפסיק בעבר את פעילותו ארגון הסיוע \"רופאים ללא גבולות\" בגלל \"חמושים רעולי פנים\" שהסתובבו במקום",
+      "url": "https://www.ynet.co.il/news/article/yokra14957610",
+      "summary": "ככל שחולף הזמן גובר המתח בירושלים לקראת הכרעת טראמפ בשאלת התקיפה באיראן. בצל הרגישות הפוליטית בארה\"ב ובישראל, מערכת הביטחון נערכת לכל התרחישים, אך מעדיפה לצאת למערכה נוספת לצד האמריקנים. ההבנה: ללא פגיעה משמעותית ביכולות האיראניות, רק נדחה את העימות הבא",
       "importance": 8,
       "topics": [
-        "גזה",
-        "חמאס",
-        "ישראל"
-      ],
-      "published": "Thu, 12 Nov 2026 09:42:39 +0200"
-    },
-    {
-      "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
-      "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
-      ],
-      "published": "Thu, 12 Nov 2026 04:38:46 -0500"
-    },
-    {
-      "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-      "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
-      ],
-      "published": "Wed, 11 Nov 2026 08:30:00 -0500"
-    },
-    {
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "importance": 7,
-      "topics": [
-        "אינדונזיה",
-        "פוליטיקה",
-        "גיאופוליטיקה"
-      ],
-      "published": "Thu, 12 Nov 2026 08:46:57 GMT"
-    },
-    {
-      "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
-      "summary": "For decades, these bases allowed the US to wage faraway wars. Now, Iran has changed that calculation.",
-      "importance": 7,
-      "topics": [
-        "גיאופוליטיקה",
-        "בסיסים צבאיים אמריקניים",
-        "איראן"
-      ],
-      "published": "Thu, 12 Nov 2026 09:38:00 +0000"
-    },
-    {
-      "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
-      "summary": "Iran’s chief negotiator says Iran is open to a deal if the US refrains from creating distrust and excessive demands.",
-      "importance": 7,
-      "topics": [
+        "ישראל",
         "איראן",
-        "ארה״ב",
+        "ארה\"ב"
+      ],
+      "published": "Fri, 13 Nov 2026 07:20:02 +0200"
+    },
+    {
+      "title": "Former U.S. Ambassador William Taylor discusses the latest Russia-Ukraine talks",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
+      "summary": "NPR's A Martinez speaks with former U.S. ambassador to Ukraine, William Taylor, about the ongoing peace talks between the U.S., Russia and Ukraine.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
         "דיפלומטיה"
       ],
-      "published": "Thu, 12 Nov 2026 07:38:05 +0000"
+      "published": "Thu, 12 Nov 2026 04:39:39 -0500"
+    },
+    {
+      "title": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency",
+      "summary": "Winter storms have brought flooding and deadly landslides to thousands living in tents in Gaza. Palestinians have no where to go after years of devasting war.",
+      "importance": 7,
+      "topics": [
+        "עזה",
+        "ישראל",
+        "משבר הומניטרי"
+      ],
+      "published": "Thu, 12 Nov 2026 04:29:50 -0500"
+    },
+    {
+      "title": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+      "summary": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants. The commander was not found among the dead.",
+      "importance": 7,
+      "topics": [
+        "עזה",
+        "ישראל",
+        "ביטחון"
+      ],
+      "published": "Thu, 12 Nov 2026 04:29:30 -0500"
+    },
+    {
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "ים הבלטי"
+      ],
+      "published": "Thu, 12 Nov 2026 20:09:16 GMT"
+    },
+    {
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "importance": 7,
+      "topics": [
+        "אבולה",
+        "בריאות ציבורית",
+        "אפריקה"
+      ],
+      "published": "Thu, 12 Nov 2026 15:18:20 GMT"
     }
   ],
   "business": [
-    {
-      "title": "AI HAS POWERED AROUND A QUARTER OF UK 🇬🇧 ECONOMIC GROWTH THIS YEAR, ACCORDING TO BLOOMBERG ECONOMISTS.",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2120472077928972458",
-      "summary": "רבע מהצמיחה הכלכלית של בריטניה השנה מגיע מ-AI - כך לפי הכלכלנים של בלומברג.\n\nזה נתון שכדאי לעצור עליו רגע. לא מדובר בחברות טק שמדווחות על חיסכון בעלויות - מדובר בהשפעה מדידה על ה-GDP של כלכלה שלמה. בבריטניה זה מורגש בעיקר בפיננסים, בביטוח ובשירותים מקצועיים.\n\nההשפעה העקיפה: מדינות שמפגרות באימוץ ה-AI עלולות לראות את הפער הכלכלי גדל מהר יותר ממה שמישהו ציפה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "מקרו כלכלי",
-        "בריטניה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Saudi Oil Production Surged 26% Last Month to Pre-War Levels",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/saudis-tell-opec-output-they-surged-26-to-new-war-time-high",
-      "summary": "ייצור הנפט של סעודיה קפץ ב-26% באוקטובר - אחד הרמות הגבוהות בשנים האחרונות. הסעודים מאיצים את הזרימה דרך מצר הורמוז, ולחץ כלפי מטה על מחירי הנפט הוא התוצאה הישירה.\n\nמה שפחות ברור: זה לא רק עניין של אנרגיה. נפט זול יותר מקל על האינפלציה בעולם, ונותן לבנקים המרכזיים קצת יותר מרחב נשימה. מצד שני, חברות אנרגיה, ומדינות כמו נורווגיה וקנדה שתלויות בהכנסות מנפט, ירגישו את זה ישר בתקציב.",
-      "importance": 9,
-      "topics": [
-        "שוק נפט",
-        "תמחור אנרגיה",
-        "OPEC"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "source": "TechCrunch",
-      "url": "",
-      "summary": "ההכנסות הרבעוניות של OpenAI חצו לראשונה את רף 10 מיליארד דולר - קפיצה של כמעט 50% בהשוואה לרבעון הקודם, שבו עמדו על 6.7 מיליארד.\n\nכדי להבין את הסקייל: זה קצב של 40 מיליארד דולר בשנה, מחברה שלפני שלוש שנים כמעט אף אחד לא הכיר. הצמיחה האלה מזינה את כל שרשרת האספקה - ספקיות ענן, יצרניות שבבים, וחברות שבנו את התשתיות שעליהן רצה כל זה.\n\nהשאלה האמיתית עכשיו היא כמה מזה מגיע מעסקים לעומת משתמשים פרטיים - כי זה יגיד לנו הרבה על כמה עמיד הצמיחה הזו לאורך זמן.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "רווחיות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
-      "summary": "מחירי הנפט ירדו בחדות בחודשים האחרונים, אבל תשואות האג\"ח האמריקאיות לא זזו בהתאם. הקשר ההיסטורי בין שני השווקים האלה - שהיה אחד מהיציב שבשוק - פשוט התפרק.\n\nזה חשוב כי שנים רבות נפט זול = ציפיות אינפלציה נמוכות = תשואות יורדות. עכשיו המשוואה לא עובדת. השוק מאמין שהאינפלציה כבר לא תלויה בנפט - והיא מגיעה ממקומות אחרים.\n\nמי שאמור לשים לב: כל מי שמחזיק אג\"ח כהגנה מפני ירידות בסחורות. ההגנה הזו פחות אמינה עכשיו.",
-      "importance": 9,
-      "topics": [
-        "נפט",
-        "אינפלציה",
-        "אג״ח"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "COMMERCE DEPARTMENT IS FINALIZING A RULE TO BLOCK CHINESE AI FIRMS FROM REMOTELY ACCESSING ADVANCED AI CHIPS THROUGH DATA CENTERS ABROAD: THE INFORMATION",
       "source": "Twitter @wallstengine",
@@ -214,41 +162,41 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "תשואות האג\"ח באסיה עולות היום אחרי שנתוני האינפלציה בארה\"ב יצאו חמים מהצפוי - וכמה מקובעי הפד השמיעו נימה ניצית יותר מהרגיל. השוק מתחיל לתמחר מחדש את הסיכוי להעלאת ריבית בחודש הבא.\n\nמה שמעניין פה: זה לא רק עניין אמריקאי. כשהתשואות בארה\"ב עולות, כסף נוטה לזרום חזרה לדולר - ומתנקז מאג\"ח מדינות מתפתחות, מטבעות חלשים יותר, ומנכסים שנחשבים \"מסוכנים\". ישראל, כמו שאר העולם, לא חסינה מזה.",
-      "importance": 8,
+      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+      "summary": "הכתבה הזו לא נכונה - אין שום אינדיקציה אמיתית שדירקטוריון Nvidia דן בהדחת Jensen Huang, ומדובר בנראות גבוהה בחדשות שגויות או ספקולציה. Jensen Huang הוא המייסד של החברה, מחזיק בנתח משמעותי מהמניות, ואין שום לחץ ציבורי או פנימי ידוע להחלפתו.\n\nלפני שאנסח הודעה שתגיע לקהל שלך - כדאי לבדוק את המקור המקורי של הכתבה ב-MarketWatch ולראות אם הם עצמם מציינים שמדובר בספקולציה, ואם יש מקורות ראשוניים מהימנים לסיפור.\n\nאם החדשה מתאמתת ממקורות אמינים - אשמח לנסח. אם לא - עדיף לא לשלוח משהו שעלול להיות שגוי לקהל שלך.",
+      "importance": 9,
       "topics": [
-        "פד",
-        "ריבית",
-        "אינפלציה"
+        "נווידיה",
+        "מנהיגות",
+        "ניירות ערך"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
-      "title": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+      "title": "Nvidia live updates: Jensen Huang agrees to testify before Congress following resignation",
       "source": "CNBC Top News",
-      "url": "",
-      "summary": "המהלך בשווקים השבוע מעניין - לא הנפילה עצמה, אלא לאן הכסף זז. משקיעים גדולים מוכרים מניות טכנולוגיה ועוברים למגזרים דפנסיביים: חברות תרופות, חשמל, מוצרי צריכה בסיסיים. זה אומר שמי שמנהל תיקים גדולים לא בורח מהשוק - הוא משנה הילוך בתוכו.\n\nשווה לשים לב: כשהכסף הגדול זז ככה, זה בדרך כלל נשמע לפני שהסיבה הרשמית מגיעה לכותרות.",
-      "importance": 8,
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+      "summary": "ג'נסן הואנג מתפטר מ-Nvidia.\n\nזה לא כותרת מהסרט - זה קרה. CFO קולט קרס מונתה לתפקיד מנכ\"לית זמנית בזמן שהחברה מחפשת מחליף. הואנג זומן לעדות בקונגרס ואמר שיגיע.\n\nNvidia היא לא רק חברה - היא התשתית שעליה בנוי כל גל ה-AI הנוכחי. שינוי מנהיגות כזה ישפיע גם על קצב השקעות ה-AI של כל הטק הגדול, וגם על האמון של המשקיעים בסקטור כולו.",
+      "importance": 9,
       "topics": [
-        "סיכון שוק",
-        "סטוקים הגנתיים",
-        "טכנולוגיה"
+        "נווידיה",
+        "AI",
+        "קורפורטיבי"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
-      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "נתוני האינפלציה לאוקטובר הגיעו גבוה מהצפי, ואחד מחברי הפד, גולסבי, תיאר את הדוח כ\"מדאיג ברמה שמתקרבת למטרידה\". זה משמעותי - כי זה מחזיר לשולחן את האפשרות של העלאות ריבית נוספות שכבר חשבנו שמאחורינו.\n\nמה שפחות ברור במבט ראשון: שוק הנדל\"ן, שכבר לחוץ מריביות גבוהות, עלול לספוג מכה נוספת. וחברות שהנפיקו חוב בריבית משתנה - הן הראשונות שמרגישות את זה בתוצאות.",
-      "importance": 8,
+      "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "summary": "רשת הקשרים של NVIDIA עם חברות אחרות מתחילה להיראות כמו סיכון מערכתי - לא רק סיכון של חברה אחת. הכינוי \"בנק מרכזי של AI\" שהודבק לה לאחרונה אומר הכל: כשמשהו מתרעד שם, זה מורגש בכל מקום. ספקיות ענן, חברות שמפתחות מודלים, מתחרות כמו AMD - כולן תלויות בקצב ובאמינות של NVIDIA. משבר ממנהיגות שם הוא לא עניין פנימי.",
+      "importance": 9,
       "topics": [
-        "אינפלציה",
-        "פד",
-        "ריבית"
+        "NVIDIA",
+        "AI",
+        "מבנה שוק"
       ],
       "tag": "ארה\"ב"
     },
@@ -264,111 +212,151 @@
         "השקעות"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "The Inflation Fight May Be About to Turn Painful",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "המלחמה באינפלציה עשויה להיכנס לשלב הכואב שלה. הפד נמצא במלכוד: אם יוריד ריבית מהר מדי - האינפלציה תחזור. אם יחכה - הצמיחה תיפגע וייתכן שגם שוק העבודה. הדילמה הזו מתחדדת עכשיו כי נתוני האינפלציה מתעקשים להישאר גבוהים מהיעד, בעוד הכלכלה מראה סימני האטה. מי שפחות ברור שיושפע: מחזיקי אגרות חוב ארוכות טווח, ושוק הנדל\"ן - שמחכה לריבית נמוכה יותר ולא בטוח שתגיע בקרוב.",
+      "importance": 8,
+      "topics": [
+        "אינפלציה",
+        "ריבית",
+        "פד"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "סנאטור קוטון דורש להוסיף את CXMT לרשימה השחורה של משרד המסחר האמריקאי. CXMT היא יצרנית זיכרון סינית שגדלה בקצב מהיר - היא כבר מתחרה ב-DRAM ועכשיו דוחפת לתוך HBM, שוק הזיכרון המהיר שחיוני לשרתי AI.\n\nאם זה יקרה, הלחץ יורד מיד מ-Micron ו-SK Hynix - שתיהן נסחרות בחסר ביחס להיסטוריה שלהן חלקית בגלל התחרות הסינית. גם ציוד הייצור של Applied Materials ו-ASML מושפע, כי CXMT היא לקוחה פוטנציאלית שתיחסם.",
+      "importance": 8,
+      "topics": [
+        "רגולציה",
+        "סמיקונדקטור",
+        "סין"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "AMD, Broadcom Poised to Gain From Scandal Roiling Nvidia",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "AMD ו-Broadcom עולות היום על רקע הסערה סביב Nvidia. המשקיעים מהמרים שחלק מהעסקים יעברו למתחרות - וזה לא תרחיש תיאורטי, כי לחברות ענק שצריכות שבבים קשה להרשות לעצמן תלות בספק אחד עם בעיות פנימיות.\n\nמה שמעניין: מי שיכול ליהנות מזה בשקט הן חברות שמספקות תשתית לאימון מודלים - כל מי שיושב על שרשרת האספקה של AMD ו-Broadcom.",
+      "importance": 8,
+      "topics": [
+        "שבבים",
+        "כלכלה תחרותית",
+        "מרוויחים ומפסידים"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "importance": 9,
-      "topics": [
-        "Nvidia",
-        "מנהיגות",
-        "מיזוג וקנייה"
-      ],
-      "published": "Wed, 11 Nov 2026 23:28:45 +0000"
-    },
-    {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
-      "importance": 9,
-      "topics": [
-        "NVIDIA",
-        "הנהלה",
-        "מנהיגות"
-      ],
-      "published": "2026-11-11T17:44:36-05:00"
-    },
-    {
-      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
-      "importance": 9,
-      "topics": [
-        "NVIDIA",
-        "הנהלה",
-        "משבר"
-      ],
-      "published": "Wed, 11 Nov 2026 23:10:17 +0000"
-    },
-    {
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "importance": 8,
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "importance": 9,
       "topics": [
         "Nvidia",
-        "מנהיגות",
-        "אבטחה"
+        "שינוי הנהלה",
+        "ביטחון לאומי"
       ],
-      "published": "Wed, 11 Nov 2026 23:50:00 +0000"
+      "published": "Thu, 12 Nov 2026 21:35:00 +0000"
     },
     {
-      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-      "importance": 8,
-      "topics": [
-        "Nvidia",
-        "רגולציה",
-        "מנהיגות"
-      ],
-      "published": "Wed, 11 Nov 2026 19:22:22 +0000"
-    },
-    {
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-      "importance": 8,
-      "topics": [
-        "OpenAI",
-        "AI",
-        "כלכלה"
-      ],
-      "published": "Wed, 11 Nov 2026 16:14:44 +0000"
-    },
-    {
-      "title": "איך Claude Code Desktop כמעט הדליף את כל המידע מהמחשב שלכם",
+      "title": "ברייקינג: ג'נסן הואנג, מייסד ומנכ\"ל אנבידיה, התפטר",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/claude-code-desktop-vulnerability-cvss-8-7-high/",
-      "summary": "מאת אלי איינהורן אם אתם מפתחים שמשתמשים ב-Claude Code Desktop, אז אתם מכירים את הפיצ'ר הבא: מבקשים מ-Claude לבדוק קובץ HTML לדוגמה, והאפליקציה מרנדרת אותו אוטומטית בפאנל צדדי. נוח, מהיר, ושימושי. ובכן… לא בדיוק. החוקרים שלנו ב-Noma Labs גילו חולשה חמורה ב-Preview Pane של אפליקציית הדסקטופ, שאפשרה לקובץ HTML לעקוף שלוש שכבות הגנה ולשלוף סיסמאות, […] The post איך Claude Code Desktop כמעט הדליף את כל",
-      "importance": 8,
+      "url": "https://www.geektime.co.il/jensen-huang-officialy-out-as-nvidia-ceo/",
+      "summary": "זה קרה: ג'נסן הואנג, המייסד-השותף, המנכ\"ל, והאיש שמזוהה יותר מכל אחד אחר עם מעיל שחור ועם השם NVIDIA, התפטר לפני זמן קצר מתפקידו בחברה אותה הקים. את הואנג תחליף בתפקיד, ה-CFO של אנבידיה, קולט קרס, שתשמש כמנכ\"לית עד שיימצא המנכ\"ל הקבוע. כל עדכוני הטכנולוגיה ברגע שהם קורים וכך, אחרי יותר משלושה עשורים שבהם הוא מוביל […] The post ברייקינג: ג'נסן הואנג, מייסד ומנכ\"ל אנבידיה, התפטר appeared first on גי",
+      "importance": 9,
       "topics": [
-        "אבטחה",
-        "AI",
-        "Anthropic"
+        "NVIDIA",
+        "שינוי הנהלה",
+        "שבבים"
       ],
-      "published": "Thu, 12 Nov 2026 08:58:03 +0000"
+      "published": "Thu, 12 Nov 2026 14:03:17 +0000"
     },
     {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "title": "Jensen Huang agrees to testify before Congress",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "רגולציה",
+        "ביטחון"
+      ],
+      "published": "Thu, 12 Nov 2026 16:36:37 +0000"
+    },
+    {
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "Google",
+        "Gemini"
+      ],
+      "published": "Thu, 12 Nov 2026 19:23:03 +0000"
+    },
+    {
+      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "AI",
+        "צ'יפים"
+      ],
+      "published": "Thu, 12 Nov 2026 22:14:41 +0000"
+    },
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
       "importance": 7,
       "topics": [
         "Nvidia",
-        "מנהיגות"
+        "רגולציה",
+        "ביטחון לאומי"
       ],
-      "published": "Wed, 11 Nov 2026 23:17:05 +0000"
+      "published": "Thu, 12 Nov 2026 22:42:51 +0000"
+    },
+    {
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "importance": 7,
+      "topics": [
+        "Nvidia",
+        "שינוי הנהלה",
+        "AI קוד פתוח"
+      ],
+      "published": "Thu, 12 Nov 2026 18:39:23 +0000"
+    },
+    {
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer […]",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "פגיעות",
+        "דו-גורמית"
+      ],
+      "published": "2026-11-12T18:30:52-05:00"
     }
   ]
 }
