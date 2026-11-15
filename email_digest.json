@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:44:59.299156+00:00",
+  "generated_at": "2026-11-15T10:37:44.881387+00:00",
   "lookback_hours": 24,
   "world": [
     {
@@ -10,74 +10,36 @@
       "importance": 8,
       "topics": [
         "אוקראינה",
-        "ארה״ב",
-        "נאטו"
+        "NATO",
+        "דיפלומטיה"
       ],
       "published": "Sat, 14 Nov 2026 22:37:25 GMT"
     },
     {
-      "title": "Netanyahu sends plea to Eisenkot for unity government",
+      "title": "Iran says it targets US radar in Bahrain. What do we know?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-      "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "פוליטיקה"
-      ],
-      "published": "Sun, 15 Nov 2026 01:33:11 +0000"
-    },
-    {
-      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-      "summary": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
-      "importance": 8,
-      "topics": [
-        "טכנולוגיה",
-        "חלל",
-        "SpaceX"
-      ],
-      "published": "Sun, 15 Nov 2026 00:14:22 +0000"
-    },
-    {
-      "title": "הערכת המודיעין שסותרת את ההצהרות על \"השמדה\": בכמה טילים מחזיקה איראן?",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/ry6rlj8czl",
-      "summary": "איראן תקפה מדינה שכנה בפעם השנייה תוך 48 שעות, ובמקביל דווח ב\"וול סטריט ג'ורנל\": ארה\"ב מעריכה שהיא מחזיקה ב-1,500 עד 2,500 טילים, לפחות מחצית מהמלאי שהיה לה ערב המלחמה. הנזק שנגרם לארה\"ב הוביל אותה להעביר נכסים צבאיים לישראל: \"בטוחה יותר\". חרף דברי נתניהו על ריסוק תוכנית הטילים, גורם ישראלי הזהיר: \"טהרן מתחמשת\"",
+      "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+      "summary": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
       "importance": 8,
       "topics": [
         "איראן",
-        "ישראל",
+        "בחריין",
         "ביטחון"
       ],
-      "published": "Sun, 15 Nov 2026 06:01:27 +0200"
+      "published": "Sun, 15 Nov 2026 09:41:27 +0000"
     },
     {
-      "title": "המלחמה לא תברח לשום מקום",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14957903",
-      "summary": "לפני שמטוסינו ממריאים לאיראן, כדאי לנסות את מה שעשוי להיראות כמאמץ סיזיפי: להגיע בדיפלומטיה חשאית להסדר",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "איראן",
-        "דיפלומטיה"
-      ],
-      "published": "Sun, 15 Nov 2026 00:03:00 +0200"
-    },
-    {
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
       "importance": 7,
       "topics": [
-        "ארה״ב",
-        "תעופה",
-        "תשתיות"
+        "ישראל",
+        "חמאס",
+        "עזה"
       ],
-      "published": "Sat, 14 Nov 2026 19:12:25 GMT"
+      "published": "Sun, 15 Nov 2026 08:17:41 GMT"
     },
     {
       "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
@@ -87,62 +49,169 @@
       "importance": 7,
       "topics": [
         "טכנולוגיה",
-        "חקר חלל",
+        "חלל",
         "SpaceX"
       ],
       "published": "Sat, 14 Nov 2026 22:09:40 GMT"
     },
     {
-      "title": "Secret votes and vetoes: How will the next UN chief be picked?",
+      "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-      "summary": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
+      "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
+      "summary": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
       "importance": 7,
       "topics": [
-        "האו\"ם",
-        "גיאופוליטיקה"
+        "סודאן",
+        "קונפליקט",
+        "תשתיות"
       ],
-      "published": "Sun, 15 Nov 2026 06:11:00 +0000"
+      "published": "Sun, 15 Nov 2026 09:59:37 +0000"
     },
     {
-      "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
+      "title": "ASEAN summit: Who’s attending and what’s at stake?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-      "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
+      "summary": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
       "importance": 7,
       "topics": [
-        "תימן",
+        "ASEAN",
+        "אירן",
+        "אנרגיה"
+      ],
+      "published": "Sun, 15 Nov 2026 07:11:24 +0000"
+    },
+    {
+      "title": "פנה מיוזמתו לטהרן ו\"רצה לנקום\": ישראלי מהצפון נאשם באיסוף מודיעין עבור איראן",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rkngf0uazx",
+      "summary": "ויסאם גאלב סאלח עווד, תושב מזרעה שליד נהריה, נאשם במגע עם סוכן חוץ. לפי החשד, הוא צילם מתקנים אסטרטגיים, בסיסים צבאיים ותחנות משטרה והעביר את התיעודים למפעיליו האיראנים: \"זה הבסיס שאליו אתם יורים טילים\". הוא הציע את שירותיו מ\"מניע אידיאולוגי\" ולא ביקש תמורה: \"הזדהה עם חיזבאללה\"",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "איראן",
         "ביטחון"
       ],
-      "published": "Sun, 15 Nov 2026 02:59:06 +0000"
+      "published": "Sun, 15 Nov 2026 09:10:10 +0200"
     },
     {
-      "title": "SpaceX’s Starship nails a smooth return with historic catch",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
-      "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
-      "importance": 7,
+      "title": "Fuel crisis and protests pressure Chile's far-right president",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+      "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+      "importance": 6,
+      "topics": [
+        "צ'ילה",
+        "משבר כלכלי",
+        "מחאה ציבורית"
+      ],
+      "published": "Sat, 14 Nov 2026 11:05:12 -0500"
+    },
+    {
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "importance": 6,
       "topics": [
         "טכנולוגיה",
-        "חלל"
+        "פרטיות",
+        "יורופה"
       ],
-      "published": "Sun, 15 Nov 2026 01:22:01 +0000"
+      "published": "Sat, 14 Nov 2026 18:28:06 GMT"
+    },
+    {
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "importance": 6,
+      "topics": [
+        "הונגריה",
+        "שחיתות",
+        "רפורמה"
+      ],
+      "published": "Sat, 14 Nov 2026 10:42:20 GMT"
     }
   ],
-  "business": [],
-  "tech": [
+  "business": [
     {
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "summary": "עדכון מהסוף השבוע: ה-FAA עצר לזמן קצר את כל הטיסות בארה\"ב אחרי תקלה בעדכון מערכת תקשורת ישנה שמנוהלת על ידי L3Harris Technologies. שר התחבורה דאפי אישר שהאחריות על הכשל היא של הקבלן.\n\nמה שמעניין פה: L3Harris היא ספקית תשתיות ביטחוניות וממשלתיות ענקית - הכשל הזה שם אותה בפוקוס לא נוח. ב-FAA כבר בוחנים כיצד מנהלים שדרוגים לתשתיות קריטיות, וזה עלול להחמיר את הלחץ הרגולטורי על ספקיות דומות.",
+      "importance": 9,
+      "topics": [
+        "רגולציה",
+        "תשתיות",
+        "בטיחות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+      "summary": "ספייסX תפסה את הרקטה באוויר - ולא מטאפורית. הזרועות המכניות של מגדל השיגור תפסו את Starship חוזר מהחלל, בלי שנחת על הקרקע. אם זה יהפוך לנורמה, עלות שיגור לוויין עלולה לרדת בצורה דרמטית. זה לא רק חלל - כל תעשיית הלוויינים, תקשורת, GPS, מזג אוויר, הגנה - כולם תלויים במחיר השיגור. ראשית כזאת שווה לשים לב אליה.",
       "importance": 8,
       "topics": [
-        "אבטחה סייבר",
-        "AI",
-        "איום דיגיטלי"
+        "תעשיית חלל",
+        "אינוביציה",
+        "השקעות בתשתיות"
       ],
-      "published": "Sat, 14 Nov 2026 13:00:00 +0000"
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "ביטקוין ממשיך להחליק לאט מטה, ורמות השפל של השנה כבר ממש מעבר לפינה. מה שמעניין פה זה לא רק המחיר - אלא שמקורות הביקוש המרכזיים מתחילים להיחלש. כלומר, הלחץ לא מגיע רק ממוכרים, אלא מהיעדר קונים.\n\nההשפעה העקיפה שכדאי לשים אליה לב: חברות שחשיפה לקריפטו היא חלק מהמודל העסקי שלהן - בורסות, חברות פינטק, ומניות כמו Coinbase - בדרך כלל מרגישות את זה לפני שמרגיש אותו שאר השוק.",
+      "importance": 7,
+      "topics": [
+        "קריפטו",
+        "ביקוש",
+        "משקיעים"
+      ],
+      "tag": "גלובלי"
+    }
+  ],
+  "tech": [
+    {
+      "title": "היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/spacex-starship-mechazilla-catch-flight-15/",
+      "summary": "קהל רב התאסף הלילה (מוצאי שבת, זמן ישראל) לצפות בהיסטוריה, והיסטוריה הוא קיבל. לקול השיר \"Baby Come Back\" פילחה חללית Starship (השלב העליון שלה, Ship 42) את העננים שמעל טקסס, ואחרי יותר מ-20 שעות במסלול סביב כדור הארץ, ובמהירות מטורפת, היא עשתה את דרכה לעבר מתקן הלכידה בבסיס Starbase של SpaceX. אבל רגע לפני שנגיע […] The post היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship appear",
+      "importance": 9,
+      "topics": [
+        "SpaceX",
+        "חוללים"
+      ],
+      "published": "Sun, 15 Nov 2026 06:51:55 +0000"
+    },
+    {
+      "title": "מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאזל קרה בסופ\"ש למיקרוסופט ולשדות התעופה בארה\"ב?",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/microsoft-outlook-faa-major-outages-explained/",
+      "summary": "אם ניסיתם במהלך הסופ\"ש להיכנס למייל שלכם באאוטלוק, לשלוח הודעה ב-Teams או להשתמש ב-Copilot (סתם סתם, אנחנו יודעים שאף אחד לא מנסה מרצונו להשתמש בקופיילוט) וגיליתם שכלום לא עובד, אתם כבר יודעים שאתם לא לבד. תקלה נרחבת בשירותי הענן של ענקית הטכנולוגיה השביתה במשך יותר מיממה כמה מהשירותים החשובים ביותר שלה, והשפיעה על מיליוני משתמשים […] The post מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאז",
+      "importance": 8,
+      "topics": [
+        "Microsoft",
+        "תקלה",
+        "ענן"
+      ],
+      "published": "Sun, 15 Nov 2026 08:40:34 +0000"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "importance": 7,
+      "topics": [
+        "Nvidia",
+        "שבבים",
+        "גיאופוליטיקה"
+      ],
+      "published": "Sat, 14 Nov 2026 16:34:15 +0000"
     },
     {
       "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
@@ -151,11 +220,24 @@
       "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one […]",
       "importance": 7,
       "topics": [
-        "רכבים אוטונומיים",
+        "רכב אוטונומי",
         "Tesla",
-        "טכנולוגיה"
+        "חדשנות"
       ],
       "published": "2026-11-14T09:18:36-05:00"
+    },
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "importance": 7,
+      "topics": [
+        "אבטחה סייבר",
+        "AI",
+        "איום דיגיטלי"
+      ],
+      "published": "Sat, 14 Nov 2026 13:00:00 +0000"
     },
     {
       "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
@@ -165,48 +247,34 @@
       "importance": 7,
       "topics": [
         "AI",
-        "תעופה",
-        "אוטומציה"
+        "תעופה"
       ],
       "published": "Sat, 14 Nov 2026 11:00:00 +0000"
     },
     {
-      "title": "מצטער. אני צריך את הסייברטראק-על-שלט שטסלה השיקה עכשיו",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/tesla-cybertruck-rc-racer/",
-      "summary": "בשבוע שעבר חלה רעידת אדמה (קלה) בעולם הרכב והטכנולוגיה, כאשר אילון מאסק הודיע כי החברה תפסיק בהדרגה את ייצור רכבי ה-Cybertruck עד אמצע שנת 2027. במילים אחרות, אחד הפרויקטים הגדולים והשנויים במחלוקת של טסלה מת בטרם עת, אחרי שהגיע באיחור של 3 שנים וסיים את דרכו עם נתוני מכירות עגומים למדי. אבל איכשהו, דווקא עכשיו, […] The post מצטער. אני צריך את הסייברטראק-על-שלט שטסלה השיקה עכשיו appeared first on ",
-      "importance": 7,
-      "topics": [
-        "טסלה",
-        "רכב חשמלי",
-        "מודיעין עסקי"
-      ],
-      "published": "Sat, 14 Nov 2026 15:36:50 +0000"
-    },
-    {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
       "importance": 6,
       "topics": [
         "Nvidia",
-        "אנטי-טראסט",
-        "משק עולמי"
+        "מנהיגות",
+        "AI"
       ],
-      "published": "Sat, 14 Nov 2026 16:34:15 +0000"
+      "published": "2026-11-14T07:00:00-05:00"
     },
     {
-      "title": "Outlook Went Down? Microsoft May Owe You Money",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/",
-      "summary": "If your Microsoft business services were offline last week, you’re probably entitled to a partial credit on your next monthly bill.",
-      "importance": 5,
+      "title": "שוב קיצוצים ב-eToro: עשרות עובדים יפוטרו",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/etoro-layoffs-151126/",
+      "summary": "פלטפורמת המסחר הישראלית eToro נערכת לסבב פיטורים נוסף. על פי דיווח בגלובס, במסגרת המהלך כמה עשרות עובדים צפויים לסיים את עבודתם בחברה. הפיטורים הללו מגיעים פחות משנה לאחר שב-eToro כבר קיצצו 7% מכוח האדם בינואר האחרון, סבב שבו פוטרו כ-105 עובדים, יותר ממחציתם בישראל. כיום מעסיקה החברה בישראל כ-700 עובדים מתוך כ-1,400 איש בעולם. דוחות מעורבים […] The post שוב קיצוצים ב-eToro: עשרות עובדים יפוטרו app",
+      "importance": 6,
       "topics": [
-        "Microsoft",
-        "אמינות שירותים"
+        "פיטורים",
+        "eToro"
       ],
-      "published": "Sat, 14 Nov 2026 07:00:00 +0000"
+      "published": "Sun, 15 Nov 2026 09:35:29 +0000"
     }
   ]
 }
