@@ -1,136 +1,135 @@
 {
-  "generated_at": "2026-11-15T10:37:44.881387+00:00",
+  "generated_at": "2026-11-16T06:45:00.788860+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "title": "What to expect from Trump and Xi's upcoming meeting in China",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+      "summary": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
       "importance": 8,
+      "topics": [
+        "ארה\"ב",
+        "סין",
+        "רוסיה"
+      ],
+      "published": "Sun, 15 Nov 2026 17:11:26 -0500"
+    },
+    {
+      "title": "\"הימור לא נכון\" | אלה הגנרלים ממשמרות המהפכה שהמוסד חטף בדמשק ואיסטנבול",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rkpspipazl",
+      "summary": "עלי רזא עסגרי, מפקד ובכיר מודיעין שפעל בלבנון, נתפס כדמות מסתורית אחרי שנעלם בטורקיה ב-2006. דווח שהתגורר בארה\"ב בזהות בדויה, אך לפי ה\"ניו יורק טיימס\" המוסד הרג אותו בים אחרי שנחקר על גורלו של רון ארד. הגנרל השני הוא עבדאללה סאברי, שנחטף בסוריה ושוחרר ביוהנסבורג - כשלא סייע באיתור הנווט",
+      "importance": 8,
+      "topics": [
+        "מודיעין",
+        "איראן",
+        "ישראל"
+      ],
+      "published": "Mon, 16 Nov 2026 00:36:22 +0200"
+    },
+    {
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "importance": 7,
       "topics": [
         "אוקראינה",
-        "NATO",
-        "דיפלומטיה"
+        "ארה\"ב",
+        "רוסיה"
       ],
-      "published": "Sat, 14 Nov 2026 22:37:25 GMT"
+      "published": "Sun, 15 Nov 2026 19:32:39 GMT"
     },
     {
-      "title": "Iran says it targets US radar in Bahrain. What do we know?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
-      "summary": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
-      "importance": 8,
-      "topics": [
-        "איראן",
-        "בחריין",
-        "ביטחון"
-      ],
-      "published": "Sun, 15 Nov 2026 09:41:27 +0000"
-    },
-    {
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
       "importance": 7,
       "topics": [
-        "ישראל",
-        "חמאס",
-        "עזה"
+        "תימן",
+        "ים האדום",
+        "סעודיה"
       ],
-      "published": "Sun, 15 Nov 2026 08:17:41 GMT"
+      "published": "Mon, 16 Nov 2026 03:08:31 GMT"
     },
     {
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
       "importance": 7,
       "topics": [
-        "טכנולוגיה",
-        "חלל",
-        "SpaceX"
+        "סין",
+        "ארה\"ב",
+        "בינה מלאכותית"
       ],
-      "published": "Sat, 14 Nov 2026 22:09:40 GMT"
+      "published": "Mon, 16 Nov 2026 01:47:57 GMT"
     },
     {
-      "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
+      "title": "US and rivals spar over next UN boss as race lurches towards deadline",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
-      "summary": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
+      "url": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss",
+      "summary": "Costa Rica's Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.",
       "importance": 7,
       "topics": [
-        "סודאן",
-        "קונפליקט",
-        "תשתיות"
+        "האו״ם",
+        "דיפלומטיה",
+        "גיאופוליטיקה"
       ],
-      "published": "Sun, 15 Nov 2026 09:59:37 +0000"
+      "published": "Mon, 16 Nov 2026 05:57:54 +0000"
     },
     {
-      "title": "ASEAN summit: Who’s attending and what’s at stake?",
+      "title": "Houthis advance in Yemen as government forces move to defend Aden",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-      "summary": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+      "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
       "importance": 7,
       "topics": [
-        "ASEAN",
-        "אירן",
-        "אנרגיה"
+        "תימן",
+        "חוות",
+        "סכסוך אזורי"
       ],
-      "published": "Sun, 15 Nov 2026 07:11:24 +0000"
+      "published": "Mon, 16 Nov 2026 02:22:29 +0000"
     },
     {
-      "title": "פנה מיוזמתו לטהרן ו\"רצה לנקום\": ישראלי מהצפון נאשם באיסוף מודיעין עבור איראן",
+      "title": "יריחו תחילה: המתנחלים מעלים הילוך מהגבעות אל תוך הערים הפלסטיניות",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rkngf0uazx",
-      "summary": "ויסאם גאלב סאלח עווד, תושב מזרעה שליד נהריה, נאשם במגע עם סוכן חוץ. לפי החשד, הוא צילם מתקנים אסטרטגיים, בסיסים צבאיים ותחנות משטרה והעביר את התיעודים למפעיליו האיראנים: \"זה הבסיס שאליו אתם יורים טילים\". הוא הציע את שירותיו מ\"מניע אידיאולוגי\" ולא ביקש תמורה: \"הזדהה עם חיזבאללה\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14955910",
+      "summary": "כניסתם של מתנחלים לבתים באחת השכונות ביריחו לוותה באלימות שהבריחה את השכנים: \"הבנו שזה או החיים של הילדים או הבית\", אומר מוסטפא כעבאנה, \"זרקו עלינו גשם של בלוקים, מה יכולנו לעשות? ברחנו על חיינו\" | הצבא הציב מחסומים בשכונה, והתושבים חוששים שזו רק ההתחלה: \"אנשים מפחדים שהם יתחילו לעשות בלגן גם במרכז העיר\" | עכשיו הנזירים במנזר ג'ורג' הקדוש בוואדי קלט מבינים למה הדרך אליהם, שהייתה סגורה במשך שלוש שנ",
       "importance": 7,
       "topics": [
-        "ישראל",
-        "איראן",
+        "ישראל-פלסטין",
+        "התנחלויות",
         "ביטחון"
       ],
-      "published": "Sun, 15 Nov 2026 09:10:10 +0200"
+      "published": "Mon, 16 Nov 2026 06:46:50 +0200"
     },
     {
-      "title": "Fuel crisis and protests pressure Chile's far-right president",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-      "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
-      "importance": 6,
-      "topics": [
-        "צ'ילה",
-        "משבר כלכלי",
-        "מחאה ציבורית"
-      ],
-      "published": "Sat, 14 Nov 2026 11:05:12 -0500"
-    },
-    {
-      "title": "Italy fines Meta €805m over accessing users' photos",
+      "title": "Canada bars Russia from Junior World Championships",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
       "importance": 6,
       "topics": [
-        "טכנולוגיה",
-        "פרטיות",
-        "יורופה"
+        "רוסיה",
+        "אוקראינה",
+        "קנדה"
       ],
-      "published": "Sat, 14 Nov 2026 18:28:06 GMT"
+      "published": "Sun, 15 Nov 2026 22:01:16 GMT"
     },
     {
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
       "importance": 6,
       "topics": [
-        "הונגריה",
-        "שחיתות",
-        "רפורמה"
+        "תאונות",
+        "תחבורה"
       ],
-      "published": "Sat, 14 Nov 2026 10:42:20 GMT"
+      "published": "Sun, 15 Nov 2026 22:57:27 GMT"
     }
   ],
   "business": [
@@ -148,6 +147,32 @@
       "tag": "ארה\"ב"
     },
     {
+      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+      "summary": "הסיבה שהאנשים ב-Wall Street מחכים לדוח של Nvidia ביום שלישי היא לא רק המספרים - זה גם ג'נסן הואנג. לפי MarketWatch, זו \"השיחת הרווחים החשובה ביותר בתולדות החברה\", אחרי שעזיבתו הפתאומית הוסיפה שאלות גדולות על הכיוון קדימה. כשמנהיג שמזוהה כל כך עם חברה עוזב, השוק לא מתמחר רק תוצאות - הוא מתמחר מנהיגות. מי שיושפע לא רק הוא Nvidia: כל שרשרת האספקה של בינה מלאכותית - מ-TSMC ועד לספקיות הזיכרון - תקבל את הכיוון שלה מהשיחה הזו.",
+      "importance": 9,
+      "topics": [
+        "Nvidia",
+        "טכנולוגיה",
+        "הכנסות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "China’s Economy Disappoints With Stimulus Yet to Lift Investment",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push",
+      "summary": "הנתונים הכלכליים שפורסמו היום מסין מאכזבים - צמיחה שנחלשה בכל הפרמטרים באוקטובר. ההשקעות דווקא הורעו (מה שלא ציפו לו), הצריכה והתפוקה התעשייתית הגיעו מתחת לתחזיות. התמריצים שבייג'ינג השיקה בחודשים האחרונים פשוט עוד לא מחלחלים לשטח.\n\nמי שצריך לשים לב מעבר לסין עצמה: חברות גלובליות שתלויות בביקוש הסיני - מיצרניות מכוניות אירופאיות ועד ספקיות חומרי גלם. סין עדיין המנוע הגדול, וכשהוא מתקשה להתניע - מרגישים את זה רחוק.",
+      "importance": 9,
+      "topics": [
+        "סין",
+        "צמיחה",
+        "מדיניות כלכלית"
+      ],
+      "tag": "גלובלי"
+    },
+    {
       "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
@@ -157,6 +182,45 @@
         "תעשיית חלל",
         "אינוביציה",
         "השקעות בתשתיות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Revolut awarded license to set up bank in Israel",
+      "source": "גלובס שוק ההון",
+      "url": "",
+      "summary": "רבולוט קיבלה רישיון בנק דיגיטלי בישראל - הפינטק הבריטי הגדול בעולם נכנס רשמית לשוק.\n\nזה הרישיון השלישי מסוגו שבנק ישראל מעניק, אחרי וואן זירו ואש. אבל כשמדובר בחברה עם 50 מיליון לקוחות ברחבי העולם, הכניסה הזו מרגישה אחרת לגמרי.\n\nהבנקים הוותיקים צריכים לדאוג - לא מהמוצר עצמו, אלא מכך שרבולוט מביאה איתה שם מוכר ומשתמשים שכבר רגילים לממשק שלה. חברות כרטיסי האשראי הישראליות יושבות על הגדר ומסתכלות בחשש.",
+      "importance": 8,
+      "topics": [
+        "בנקאות דיגיטלית",
+        "רגולציה",
+        "שיבוש פיננסי"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "The U.S. is turning more socialist under Trump 2.0, one analyst says. What could change with a Democratic-run Congress?",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "מדד חדש של המכון לחירות כלכלי מראה שארה\"ב הצניחה בדירוג החופש הכלכלי - והיא מתכנסת לכיוון של מדינות עם שליטה ממשלתית גבוהה יותר. הגורם המרכזי: מכסים, התערבות בסחר ולחץ על חברות פרטיות. הפרדוקס הוא שזה קורה תחת ממשל רפובליקאי שהגיע עם הבטחות להפחית רגולציה. למשקיעים זה חשוב כי שינויים בסביבת הפעילות של עסקים אמריקאים משפיעים ישירות על שולי הרווח, על הון זר שמחפש יציבות, ועל הדולר כמטבע מקלט.",
+      "importance": 8,
+      "topics": [
+        "מדיניות",
+        "כלכלה מקרו",
+        "מדינה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Congress Presses Nvidia Over China Chip Access",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "הקונגרס דורש מ-Nvidia הסברים על האופן שבו שבבים מוגבלים הגיעו לגורמים בסין - ולפי הדיווחים, יש שאלות ישירות על מה שג'נסן הואנג ידע ומתי.\n\nזה לא עוד ויכוח מדיניות - פה מדברים על פיקוח קונגרס, חקירות אפשריות ופקידי ממשל שייתכן שלא אכפו את הכללים כמו שצריך.\n\nההשפעה העקיפה: כל חברה שמוכרת שבבים לשוקי צד שלישי - קוריאה, טיוואן, איחוד האמירויות - עשויה להיקלע לאותה רמה של בדיקה. הלחץ הרגולטורי הזה עוד לפני שהתחיל.",
+      "importance": 8,
+      "topics": [
+        "צ'יפים",
+        "סחר",
+        "ביטחון"
       ],
       "tag": "ארה\"ב"
     },
@@ -172,20 +236,73 @@
         "משקיעים"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "'Root cause’ of nationwide ground stop is unknown, FAA says",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "תקלה ברשת הטמינה טיסות ברחבי ארה\"ב - ה-FAA הוציא עצירת טיסות ארצית ועדיין לא יודע למה. הם מצביעים על ציוד תקשורת ורשתות כסיבה אפשרית, אבל אין תשובה סופית. זה מרתק כי זה מדגים כמה תשתית דיגיטלית ישנה וצנרת רשת בסיסית יכולות לשתק מערכת ענקית. ההשפעות העקיפות כאן משמעותיות - חברות ביטוח, חברות לוגיסטיקה ועולם הסייבר הממשלתי הולכים להסתכל על זה מאוד בשנתיים הקרובות.",
+      "importance": 7,
+      "topics": [
+        "תשתיות",
+        "בטיחות",
+        "טכנולוגיה"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "מניות אירופה עברו כמה שבועות יפים - בזמן שהמניות האמריקאיות סבלו מהתנודות סביב ה-AI, האירופאיות דווקא זינקו. עכשיו State Street ו-Pictet אומרים שהמסיבה הזו עומדת להסתיים.\n\nמה שמעניין פה הוא לא רק אירופה - אלא לאן הכסף ינוע הלאה. אם המוסדיים מתחילים לצאת, שווה לשים לב לשקל-אירו ולחברות ישראליות עם חשיפה גדולה לשוק האירופי.",
+      "importance": 7,
+      "topics": [
+        "שוקי מניות",
+        "זרימת הון",
+        "אירופה"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/spacex-starship-mechazilla-catch-flight-15/",
-      "summary": "קהל רב התאסף הלילה (מוצאי שבת, זמן ישראל) לצפות בהיסטוריה, והיסטוריה הוא קיבל. לקול השיר \"Baby Come Back\" פילחה חללית Starship (השלב העליון שלה, Ship 42) את העננים שמעל טקסס, ואחרי יותר מ-20 שעות במסלול סביב כדור הארץ, ובמהירות מטורפת, היא עשתה את דרכה לעבר מתקן הלכידה בבסיס Starbase של SpaceX. אבל רגע לפני שנגיע […] The post היסטוריה בחלל: זרועות הצ'ופסטיקס של SpaceX תפסו את חללית Starship appear",
-      "importance": 9,
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]",
+      "importance": 8,
       "topics": [
-        "SpaceX",
-        "חוללים"
+        "Nvidia",
+        "הנהלה",
+        "מיזמות"
       ],
-      "published": "Sun, 15 Nov 2026 06:51:55 +0000"
+      "published": "2026-11-15T15:43:49-05:00"
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]",
+      "importance": 8,
+      "topics": [
+        "שבבים",
+        "AI",
+        "רגולציה"
+      ],
+      "published": "2026-11-15T14:15:43-05:00"
+    },
+    {
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "importance": 8,
+      "topics": [
+        "חלל",
+        "SpaceX",
+        "רכיבים"
+      ],
+      "published": "Sun, 15 Nov 2026 23:11:54 +0000"
     },
     {
       "title": "מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאזל קרה בסופ\"ש למיקרוסופט ולשדות התעופה בארה\"ב?",
@@ -194,87 +311,63 @@
       "summary": "אם ניסיתם במהלך הסופ\"ש להיכנס למייל שלכם באאוטלוק, לשלוח הודעה ב-Teams או להשתמש ב-Copilot (סתם סתם, אנחנו יודעים שאף אחד לא מנסה מרצונו להשתמש בקופיילוט) וגיליתם שכלום לא עובד, אתם כבר יודעים שאתם לא לבד. תקלה נרחבת בשירותי הענן של ענקית הטכנולוגיה השביתה במשך יותר מיממה כמה מהשירותים החשובים ביותר שלה, והשפיעה על מיליוני משתמשים […] The post מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאז",
       "importance": 8,
       "topics": [
-        "Microsoft",
+        "מיקרוסופט",
         "תקלה",
-        "ענן"
+        "שירותי ענן"
       ],
       "published": "Sun, 15 Nov 2026 08:40:34 +0000"
     },
     {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "importance": 7,
-      "topics": [
-        "Nvidia",
-        "שבבים",
-        "גיאופוליטיקה"
-      ],
-      "published": "Sat, 14 Nov 2026 16:34:15 +0000"
-    },
-    {
-      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
       "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one […]",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink […]",
       "importance": 7,
       "topics": [
-        "רכב אוטונומי",
-        "Tesla",
-        "חדשנות"
+        "לוויינים",
+        "Amazon",
+        "SpaceX"
       ],
-      "published": "2026-11-14T09:18:36-05:00"
+      "published": "2026-11-15T16:05:02-05:00"
     },
     {
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-      "importance": 7,
-      "topics": [
-        "אבטחה סייבר",
-        "AI",
-        "איום דיגיטלי"
-      ],
-      "published": "Sat, 14 Nov 2026 13:00:00 +0000"
-    },
-    {
-      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "תעופה"
-      ],
-      "published": "Sat, 14 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "title": "Apple’s first smart glasses are coming together",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
-      "importance": 6,
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman saying only that \"glasses shipments would begin before the end of the […]",
+      "importance": 7,
       "topics": [
-        "Nvidia",
-        "מנהיגות",
-        "AI"
+        "Apple",
+        "מוצרים חדשים",
+        "חומרה"
       ],
-      "published": "2026-11-14T07:00:00-05:00"
+      "published": "2026-11-15T11:59:16-05:00"
     },
     {
-      "title": "שוב קיצוצים ב-eToro: עשרות עובדים יפוטרו",
+      "title": "דיווח: ג'נסן הואנג בוחן קאמבק לאנבידיה",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/etoro-layoffs-151126/",
-      "summary": "פלטפורמת המסחר הישראלית eToro נערכת לסבב פיטורים נוסף. על פי דיווח בגלובס, במסגרת המהלך כמה עשרות עובדים צפויים לסיים את עבודתם בחברה. הפיטורים הללו מגיעים פחות משנה לאחר שב-eToro כבר קיצצו 7% מכוח האדם בינואר האחרון, סבב שבו פוטרו כ-105 עובדים, יותר ממחציתם בישראל. כיום מעסיקה החברה בישראל כ-700 עובדים מתוך כ-1,400 איש בעולם. דוחות מעורבים […] The post שוב קיצוצים ב-eToro: עשרות עובדים יפוטרו app",
+      "url": "https://www.geektime.co.il/jensen-huang-nvidia-ceo-comeback/",
+      "summary": "לפני שבוע בלבד עולם הטכנולוגיה הזדעזע כשג'נסן הואנג, האיש והמעיל שמאחורי אימפריית השבבים של אנבידיה, נאלץ להתפטר מתפקידו בעקבות רומנים שניהל עם מנהלת באנבידיה שכפופה לו, ויותר חשוב, רומן עם מי שחשודה כמרגלת סינית. אבל למרות ההתפטרות, לא בטוח שהפרשה הזו תרד מסדר היום כל-כך מהר. על פי דיווח חדש של ה-Financial Times, הואנג שוקל […] The post דיווח: ג'נסן הואנג בוחן קאמבק לאנבידיה appeared first on גיק",
+      "importance": 7,
+      "topics": [
+        "נביידיה",
+        "שבבים",
+        "הנהלה"
+      ],
+      "published": "Mon, 16 Nov 2026 06:30:19 +0000"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
       "importance": 6,
       "topics": [
-        "פיטורים",
-        "eToro"
+        "שבבים",
+        "AI",
+        "קרנות"
       ],
-      "published": "Sun, 15 Nov 2026 09:35:29 +0000"
+      "published": "Sun, 15 Nov 2026 23:30:00 +0000"
     }
   ]
 }
