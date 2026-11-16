@@ -1,32 +1,70 @@
 {
-  "generated_at": "2026-11-16T06:45:00.788860+00:00",
+  "generated_at": "2026-11-16T10:53:52.107635+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "What to expect from Trump and Xi's upcoming meeting in China",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
-      "summary": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+      "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+      "summary": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
       "importance": 8,
       "topics": [
-        "ארה\"ב",
+        "רוסיה",
+        "אוקראינה",
+        "NATO"
+      ],
+      "published": "Mon, 16 Nov 2026 10:03:11 +0000"
+    },
+    {
+      "title": "Antimicrobial resistance could kill 39 million people over 25 years: WHO",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss",
+      "summary": "UN's health agency says growing resistance to antibiotics and other medicines threatens 'future of modern medicine'.",
+      "importance": 8,
+      "topics": [
+        "בריאות",
+        "עולם"
+      ],
+      "published": "Mon, 16 Nov 2026 09:57:37 +0000"
+    },
+    {
+      "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+      "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+      "importance": 7,
+      "topics": [
+        "דיפלומטיה",
         "סין",
         "רוסיה"
       ],
-      "published": "Sun, 15 Nov 2026 17:11:26 -0500"
+      "published": "Mon, 16 Nov 2026 05:00:00 -0500"
     },
     {
-      "title": "\"הימור לא נכון\" | אלה הגנרלים ממשמרות המהפכה שהמוסד חטף בדמשק ואיסטנבול",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rkpspipazl",
-      "summary": "עלי רזא עסגרי, מפקד ובכיר מודיעין שפעל בלבנון, נתפס כדמות מסתורית אחרי שנעלם בטורקיה ב-2006. דווח שהתגורר בארה\"ב בזהות בדויה, אך לפי ה\"ניו יורק טיימס\" המוסד הרג אותו בים אחרי שנחקר על גורלו של רון ארד. הגנרל השני הוא עבדאללה סאברי, שנחטף בסוריה ושוחרר ביוהנסבורג - כשלא סייע באיתור הנווט",
-      "importance": 8,
+      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "importance": 7,
       "topics": [
-        "מודיעין",
-        "איראן",
-        "ישראל"
+        "יממה",
+        "ים אדום",
+        "ביטחון"
       ],
-      "published": "Mon, 16 Nov 2026 00:36:22 +0200"
+      "published": "Mon, 16 Nov 2026 07:23:23 GMT"
+    },
+    {
+      "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+      "importance": 7,
+      "topics": [
+        "עזה",
+        "ישראל",
+        "דיפלומטיה"
+      ],
+      "published": "Mon, 16 Nov 2026 08:56:04 GMT"
     },
     {
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -36,116 +74,64 @@
       "importance": 7,
       "topics": [
         "אוקראינה",
-        "ארה\"ב",
-        "רוסיה"
+        "רוסיה",
+        "טכנולוגיה"
       ],
       "published": "Sun, 15 Nov 2026 19:32:39 GMT"
-    },
-    {
-      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
-      "importance": 7,
-      "topics": [
-        "תימן",
-        "ים האדום",
-        "סעודיה"
-      ],
-      "published": "Mon, 16 Nov 2026 03:08:31 GMT"
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "importance": 7,
-      "topics": [
-        "סין",
-        "ארה\"ב",
-        "בינה מלאכותית"
-      ],
-      "published": "Mon, 16 Nov 2026 01:47:57 GMT"
-    },
-    {
-      "title": "US and rivals spar over next UN boss as race lurches towards deadline",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss",
-      "summary": "Costa Rica's Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.",
-      "importance": 7,
-      "topics": [
-        "האו״ם",
-        "דיפלומטיה",
-        "גיאופוליטיקה"
-      ],
-      "published": "Mon, 16 Nov 2026 05:57:54 +0000"
-    },
-    {
-      "title": "Houthis advance in Yemen as government forces move to defend Aden",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
-      "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
-      "importance": 7,
-      "topics": [
-        "תימן",
-        "חוות",
-        "סכסוך אזורי"
-      ],
-      "published": "Mon, 16 Nov 2026 02:22:29 +0000"
-    },
-    {
-      "title": "יריחו תחילה: המתנחלים מעלים הילוך מהגבעות אל תוך הערים הפלסטיניות",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14955910",
-      "summary": "כניסתם של מתנחלים לבתים באחת השכונות ביריחו לוותה באלימות שהבריחה את השכנים: \"הבנו שזה או החיים של הילדים או הבית\", אומר מוסטפא כעבאנה, \"זרקו עלינו גשם של בלוקים, מה יכולנו לעשות? ברחנו על חיינו\" | הצבא הציב מחסומים בשכונה, והתושבים חוששים שזו רק ההתחלה: \"אנשים מפחדים שהם יתחילו לעשות בלגן גם במרכז העיר\" | עכשיו הנזירים במנזר ג'ורג' הקדוש בוואדי קלט מבינים למה הדרך אליהם, שהייתה סגורה במשך שלוש שנ",
-      "importance": 7,
-      "topics": [
-        "ישראל-פלסטין",
-        "התנחלויות",
-        "ביטחון"
-      ],
-      "published": "Mon, 16 Nov 2026 06:46:50 +0200"
-    },
-    {
-      "title": "Canada bars Russia from Junior World Championships",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
-      "importance": 6,
-      "topics": [
-        "רוסיה",
-        "אוקראינה",
-        "קנדה"
-      ],
-      "published": "Sun, 15 Nov 2026 22:01:16 GMT"
     },
     {
       "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
       "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-      "importance": 6,
+      "importance": 7,
       "topics": [
         "תאונות",
-        "תחבורה"
+        "ארה״ב"
       ],
       "published": "Sun, 15 Nov 2026 22:57:27 GMT"
+    },
+    {
+      "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
+      "summary": "The aircraft carrier joins two others operating in the US Central Command area of responsibility.",
+      "importance": 7,
+      "topics": [
+        "ארה״ב",
+        "איראן",
+        "מזרח תיכון"
+      ],
+      "published": "Mon, 16 Nov 2026 10:14:27 +0000"
+    },
+    {
+      "title": "צה\"ל תקף בעומק לבנון: \"היעד - משלוח אמל\"ח מסוריה\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/skaivq000me",
+      "summary": "חיל האוויר הפציץ בבקאע לראשונה זה זמן רב. בצה\"ל אמרו כי היעד היה משלוח אמל\"ח שיועד לחיזבאללה. בלבנון דיווחו במקביל שכוחות נכנסו לבית בכפר שבעא שבדרום המדינה ועצרו שני אחים",
+      "importance": 7,
+      "topics": [
+        "ישראל-לבנון",
+        "חיזבאללה",
+        "מזרח התיכון"
+      ],
+      "published": "Mon, 16 Nov 2026 09:08:43 +0200"
+    },
+    {
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "importance": 6,
+      "topics": [
+        "סין",
+        "ארה״ב",
+        "מודיעין"
+      ],
+      "published": "Mon, 16 Nov 2026 01:47:57 GMT"
     }
   ],
   "business": [
-    {
-      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-      "summary": "עדכון מהסוף השבוע: ה-FAA עצר לזמן קצר את כל הטיסות בארה\"ב אחרי תקלה בעדכון מערכת תקשורת ישנה שמנוהלת על ידי L3Harris Technologies. שר התחבורה דאפי אישר שהאחריות על הכשל היא של הקבלן.\n\nמה שמעניין פה: L3Harris היא ספקית תשתיות ביטחוניות וממשלתיות ענקית - הכשל הזה שם אותה בפוקוס לא נוח. ב-FAA כבר בוחנים כיצד מנהלים שדרוגים לתשתיות קריטיות, וזה עלול להחמיר את הלחץ הרגולטורי על ספקיות דומות.",
-      "importance": 9,
-      "topics": [
-        "רגולציה",
-        "תשתיות",
-        "בטיחות"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
       "source": "MarketWatch",
@@ -171,19 +157,6 @@
         "מדיניות כלכלית"
       ],
       "tag": "גלובלי"
-    },
-    {
-      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-      "summary": "ספייסX תפסה את הרקטה באוויר - ולא מטאפורית. הזרועות המכניות של מגדל השיגור תפסו את Starship חוזר מהחלל, בלי שנחת על הקרקע. אם זה יהפוך לנורמה, עלות שיגור לוויין עלולה לרדת בצורה דרמטית. זה לא רק חלל - כל תעשיית הלוויינים, תקשורת, GPS, מזג אוויר, הגנה - כולם תלויים במחיר השיגור. ראשית כזאת שווה לשים לב אליה.",
-      "importance": 8,
-      "topics": [
-        "תעשיית חלל",
-        "אינוביציה",
-        "השקעות בתשתיות"
-      ],
-      "tag": "ארה\"ב"
     },
     {
       "title": "Revolut awarded license to set up bank in Israel",
@@ -225,17 +198,43 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
-      "source": "Bloomberg Markets",
+      "title": "The Month That Rocked the AI Trade and Rewired Wall Street",
+      "source": "WSJ Markets",
       "url": "",
-      "summary": "ביטקוין ממשיך להחליק לאט מטה, ורמות השפל של השנה כבר ממש מעבר לפינה. מה שמעניין פה זה לא רק המחיר - אלא שמקורות הביקוש המרכזיים מתחילים להיחלש. כלומר, הלחץ לא מגיע רק ממוכרים, אלא מהיעדר קונים.\n\nההשפעה העקיפה שכדאי לשים אליה לב: חברות שחשיפה לקריפטו היא חלק מהמודל העסקי שלהן - בורסות, חברות פינטק, ומניות כמו Coinbase - בדרך כלל מרגישות את זה לפני שמרגיש אותו שאר השוק.",
-      "importance": 7,
+      "summary": "ינואר 2025 היה אחד החודשים הכי מסקרנים בשווקים מזה שנים. שתי נקודות שבירה עיקריות: בחירות שהפכו את ההימורים של כולם ב-180 מעלות תוך לילה, ופרשיית ריגול שהטילה צל על כל עסקת ה-AI הגדולה.\n\nמה שמעניין פה הוא הסוף של עידן ה\"ברור מאליו\" - כשכולם יודעים מה לקנות ולמה, זה בדיוק הרגע שבו השוק מפתיע. חברות שבנו את עצמן סביב הביקוש לתשתיות AI גילו שהאוויר יכול לצאת מהר מאוד. מי שיושפע לא רק מה-AI הישיר - יצרניות החשמל, חברות הקירור ורשתות ההולכה שתכננו על הביקוש הזה.",
+      "importance": 8,
       "topics": [
-        "קריפטו",
-        "ביקוש",
-        "משקיעים"
+        "AI",
+        "וול סטריט",
+        "ריבית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "עדכון ראוטר ישן במחוז קטן בארקנסו גרם לעצירה מוחלטת של כל הטיסות בארה\"ב. שר התחבורה דאפי אישר שהבעיה נגעה למערכת תקשורת ישנה שמנהלת חברת L3Harris Technologies.\n\nמה שמעניין פה: L3Harris היא ספקית ביטחון ותשתיות קריטיות גדולה, וכשל כזה מזמין שאלות על גיל הציוד ומי נושא באחריות. סביר שזה יתורגם לתקציבי שדרוג של ה-FAA ולחקירות קונגרס - שזה עסק טוב לחברות סייבר ותשתיות שעובדות עם הממשל האמריקאי.",
+      "importance": 8,
+      "topics": [
+        "תשתיות",
+        "רגולציה",
+        "סיכון תפעולי"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Stock Market Today: Tech Stocks Under Pressure at Start of Crucial Week for AI",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main",
+      "summary": "שבוע קריטי לעולם ה-AI מתחיל היום. Nvidia מדווחת על רווחים על רקע משבר הנהגה פנימי, ובמקביל Anthropic מתכוננת להנפקה ענקית שתבחן את תיאבון השוק לחברות AI בשלב זה.\n\nלמה זה חשוב גם למי שלא מחזיק Nvidia ישירות - המניה היא רכיב מרכזי בעשרות קרנות סל ותיקי השקעות פאסיביים. תנועה חדה שלה מזיזה מדדים שלמים. ואם ההנפקה של Anthropic תקרר את ההתלהבות - זה ישפיע על כל סקטור הטכנולוגיה.",
+      "importance": 8,
+      "topics": [
+        "טכנולוגיה",
+        "בורסה",
+        "ניידיה"
+      ],
+      "tag": "ארה\"ב"
     },
     {
       "title": "'Root cause’ of nationwide ground stop is unknown, FAA says",
@@ -266,28 +265,15 @@
   ],
   "tech": [
     {
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]",
-      "importance": 8,
-      "topics": [
-        "Nvidia",
-        "הנהלה",
-        "מיזמות"
-      ],
-      "published": "2026-11-15T15:43:49-05:00"
-    },
-    {
       "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
       "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]",
       "importance": 8,
       "topics": [
+        "רגולציה",
         "שבבים",
-        "AI",
-        "רגולציה"
+        "AI"
       ],
       "published": "2026-11-15T14:15:43-05:00"
     },
@@ -298,37 +284,24 @@
       "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
       "importance": 8,
       "topics": [
-        "חלל",
-        "SpaceX",
-        "רכיבים"
+        "תעופה וחלל",
+        "ULA",
+        "SpaceX"
       ],
       "published": "Sun, 15 Nov 2026 23:11:54 +0000"
     },
     {
-      "title": "מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאזל קרה בסופ\"ש למיקרוסופט ולשדות התעופה בארה\"ב?",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/microsoft-outlook-faa-major-outages-explained/",
-      "summary": "אם ניסיתם במהלך הסופ\"ש להיכנס למייל שלכם באאוטלוק, לשלוח הודעה ב-Teams או להשתמש ב-Copilot (סתם סתם, אנחנו יודעים שאף אחד לא מנסה מרצונו להשתמש בקופיילוט) וגיליתם שכלום לא עובד, אתם כבר יודעים שאתם לא לבד. תקלה נרחבת בשירותי הענן של ענקית הטכנולוגיה השביתה במשך יותר מיממה כמה מהשירותים החשובים ביותר שלה, והשפיעה על מיליוני משתמשים […] The post מיליוני משתמשים עצבניים ואלפי טיסות מקורקעות: מה לעזאז",
-      "importance": 8,
-      "topics": [
-        "מיקרוסופט",
-        "תקלה",
-        "שירותי ענן"
-      ],
-      "published": "Sun, 15 Nov 2026 08:40:34 +0000"
-    },
-    {
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
       "source": "The Verge",
-      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink […]",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]",
       "importance": 7,
       "topics": [
-        "לוויינים",
-        "Amazon",
-        "SpaceX"
+        "Nvidia",
+        "הנהלה בכיר",
+        "AI"
       ],
-      "published": "2026-11-15T16:05:02-05:00"
+      "published": "2026-11-15T15:43:49-05:00"
     },
     {
       "title": "Apple’s first smart glasses are coming together",
@@ -338,36 +311,48 @@
       "importance": 7,
       "topics": [
         "Apple",
-        "מוצרים חדשים",
-        "חומרה"
+        "חומרה",
+        "משקפיים חכמים"
       ],
       "published": "2026-11-15T11:59:16-05:00"
     },
     {
-      "title": "דיווח: ג'נסן הואנג בוחן קאמבק לאנבידיה",
+      "title": "מכה לתחרות במאסק: תקלה מסתורית בשיגור חיסלה 10% מהלוויינים של אמזון",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/jensen-huang-nvidia-ceo-comeback/",
-      "summary": "לפני שבוע בלבד עולם הטכנולוגיה הזדעזע כשג'נסן הואנג, האיש והמעיל שמאחורי אימפריית השבבים של אנבידיה, נאלץ להתפטר מתפקידו בעקבות רומנים שניהל עם מנהלת באנבידיה שכפופה לו, ויותר חשוב, רומן עם מי שחשודה כמרגלת סינית. אבל למרות ההתפטרות, לא בטוח שהפרשה הזו תרד מסדר היום כל-כך מהר. על פי דיווח חדש של ה-Financial Times, הואנג שוקל […] The post דיווח: ג'נסן הואנג בוחן קאמבק לאנבידיה appeared first on גיק",
+      "url": "https://www.geektime.co.il/amazon-leo-suffers-blow-after-40-sattelites-go-to-waste/",
+      "summary": "בשנים האחרונות מנסה אמזון לאתגר את המונופול של אילון מאסק ו-SpaceX בכל הקשור לשיגורים לחלל ולאינטרנט לווייני עם סטארלינק. Amazon Leo (לשעבר פרויקט קויפר), המיזם של אמזון, שנועד להתחרות בסטארלינק, ראה בשנה שעברה שיגורים ראשונים של לוויינים שלו לחלל – בחלק מהמקרים על גבי טילי SpaceX – ואמש (א') עשרות לוויינים נוספים שלו היו אמורים […] The post מכה לתחרות במאסק: תקלה מסתורית בשיגור חיסלה 10% מהלוויינ",
       "importance": 7,
       "topics": [
-        "נביידיה",
-        "שבבים",
-        "הנהלה"
+        "לוויינים",
+        "אמזון",
+        "תחרות בחלל"
       ],
-      "published": "Mon, 16 Nov 2026 06:30:19 +0000"
+      "published": "Mon, 16 Nov 2026 08:01:50 +0000"
     },
     {
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink […]",
       "importance": 6,
       "topics": [
-        "שבבים",
-        "AI",
-        "קרנות"
+        "אינטרנט לוויני",
+        "Amazon",
+        "תשתיות"
       ],
-      "published": "Sun, 15 Nov 2026 23:30:00 +0000"
+      "published": "2026-11-15T16:05:02-05:00"
+    },
+    {
+      "title": "AI DJs Completely Kill My Groove",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "importance": 6,
+      "topics": [
+        "AI",
+        "שירותי סטרימינג"
+      ],
+      "published": "Sun, 15 Nov 2026 12:00:00 +0000"
     }
   ]
 }
