@@ -1,45 +1,110 @@
 {
-  "generated_at": "2026-11-17T06:45:02.640910+00:00",
+  "generated_at": "2026-11-17T11:39:18.991153+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+      "summary": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
+      "importance": 9,
+      "topics": [
+        "אמריקה",
+        "סין",
+        "רוסיה"
+      ],
+      "published": "Tue, 17 Nov 2026 04:46:00 -0500"
+    },
+    {
+      "title": "Trump arrives in Philippines to kick off Asia trip",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+      "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+      "importance": 8,
+      "topics": [
+        "אמריקה",
+        "אסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Tue, 17 Nov 2026 05:43:55 -0500"
+    },
+    {
+      "title": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+      "summary": "Ukraine's forces targeted a key rail and road bridge between Russia and the Crimean Peninsula for a second day. Moscow's forces, meanwhile, fired ballistic missiles and drones at Kyiv.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "פשעי מלחמה"
+        "קונפליקט"
       ],
-      "published": "Tue, 17 Nov 2026 05:59:01 GMT"
+      "published": "Tue, 17 Nov 2026 04:50:45 -0500"
     },
     {
-      "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
-      "summary": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
-      "importance": 8,
-      "topics": [
-        "אירן",
-        "מפרץ פרסי",
-        "גיאופוליטיקה"
-      ],
-      "published": "Tue, 17 Nov 2026 03:12:54 +0000"
-    },
-    {
-      "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
-      "summary": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
+      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
       "importance": 8,
       "topics": [
         "אוקראינה",
-        "שלום",
-        "דיפלומטיה"
+        "קרים",
+        "קונפליקט"
       ],
-      "published": "Tue, 17 Nov 2026 00:45:11 +0000"
+      "published": "Tue, 17 Nov 2026 10:45:55 GMT"
+    },
+    {
+      "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
+      "summary": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "קרבות"
+      ],
+      "published": "Tue, 17 Nov 2026 08:12:06 +0000"
+    },
+    {
+      "title": "אש אדירה בלב ים; איראן במשוואה חדשה: תקפה מתקן אמריקני בגלל \"הפרת המרחב האווירי\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/bk800rdtcgl",
+      "summary": "יממה לאחר שבבחריין גזרו עונשי מאסר כבדים על אנשי דת שהואשמו בשת\"פ עם משמרות המהפכה, באיראן הודיעו כי תקפו מערכת מכ\"ם אמריקנית בממלכה, ואיימו: \"השימוש בבסיסים באזור לפעולות עוינות נגדנו לא יישאר ללא מענה\". מכלית נפט תועדה בוערת כליל בהורמוז, האיראנים טענו שוב: \"עלתה על מוקש\"",
+      "importance": 8,
+      "topics": [
+        "איראן",
+        "ארה\"ב",
+        "ביטחון"
+      ],
+      "published": "Tue, 17 Nov 2026 09:19:26 +0200"
+    },
+    {
+      "title": "עוד שיא של 1,441 כטב\"מים על רוסיה, תיעוד: \"פיצוץ וקריסה\" בגשר קרים האסטרטגי",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hjhkmoy0me",
+      "summary": "רגע לפני שפוטין ייפגש עם טראמפ ונשיא סין לפסגה היסטורית, קייב משגרת שוב מתקפת ענק על רוסיה - ושברה זה יום שני ברציפות את שיא הכטב\"מים ששוגרו אליה במלחמה, הפעם עם פגיעה דרמטית בגשר קרים שמחבר בין חצי האי הכבוש לרוסיה. זהו הגשר הארוך באירופה, שהפך לסמל הכיבוש הרוסי ומשמש גם כעורק אספקה חשוב לצבא הרוסי. באוקראינה טענו שאחת הקשתות שלו קרסה: \"מתקפה משולבת עם טילים\". במקביל: מתקפה על קייב - שם דווח על פ",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
+      ],
+      "published": "Tue, 17 Nov 2026 09:15:17 +0200"
+    },
+    {
+      "title": "Africa: Trading in yuan",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
+      "summary": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
+      "importance": 7,
+      "topics": [
+        "כלכלה גלובלית",
+        "סין",
+        "אפריקה"
+      ],
+      "published": "Mon, 16 Nov 2026 18:49:35 -0500"
     },
     {
       "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
@@ -50,87 +115,22 @@
       "topics": [
         "בינלאומי",
         "AI",
-        "נשק"
+        "נשקים"
       ],
       "published": "Mon, 16 Nov 2026 13:04:50 -0500"
     },
     {
-      "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-      "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
-      "importance": 7,
-      "topics": [
-        "דיפלומטיה",
-        "אמריקה",
-        "סין"
-      ],
-      "published": "Mon, 16 Nov 2026 05:00:00 -0500"
-    },
-    {
-      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
       "importance": 7,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מלחמה"
+        "קונפליקט"
       ],
-      "published": "Tue, 17 Nov 2026 05:57:38 GMT"
-    },
-    {
-      "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
-      "summary": "As Eisenkot’s bloc moves to form a government and courts the ultra-Orthodox, Gaza genocide and settler pogroms continue.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "פלסטינה",
-        "פוליטיקה"
-      ],
-      "published": "Tue, 17 Nov 2026 06:06:58 +0000"
-    },
-    {
-      "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
-      "summary": "The ongoing Israeli assault continues to have disastrous consequences for the people of southern Lebanon.",
-      "importance": 7,
-      "topics": [
-        "לבנון",
-        "ישראל",
-        "סכסוך"
-      ],
-      "published": "Tue, 17 Nov 2026 05:50:29 +0000"
-    },
-    {
-      "title": "Gunfire erupts in occupied West Bank settler attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
-      "summary": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "פלסטינה",
-        "הסתיידרות"
-      ],
-      "published": "Tue, 17 Nov 2026 04:00:08 +0000"
-    },
-    {
-      "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
-      "summary": "The Trump administration introduces export licence requirements for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
-      "importance": 7,
-      "topics": [
-        "טכנולוגיה",
-        "סחר בינלאומי",
-        "AI"
-      ],
-      "published": "Tue, 17 Nov 2026 02:52:56 +0000"
+      "published": "Tue, 17 Nov 2026 05:59:01 GMT"
     }
   ],
   "business": [
@@ -187,41 +187,15 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "The Month That Rocked the AI Trade and Rewired Wall Street",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "ינואר 2025 היה אחד החודשים הכי מסקרנים בשווקים מזה שנים. שתי נקודות שבירה עיקריות: בחירות שהפכו את ההימורים של כולם ב-180 מעלות תוך לילה, ופרשיית ריגול שהטילה צל על כל עסקת ה-AI הגדולה.\n\nמה שמעניין פה הוא הסוף של עידן ה\"ברור מאליו\" - כשכולם יודעים מה לקנות ולמה, זה בדיוק הרגע שבו השוק מפתיע. חברות שבנו את עצמן סביב הביקוש לתשתיות AI גילו שהאוויר יכול לצאת מהר מאוד. מי שיושפע לא רק מה-AI הישיר - יצרניות החשמל, חברות הקירור ורשתות ההולכה שתכננו על הביקוש הזה.",
-      "importance": 8,
+      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+      "summary": "סכומים של עד 97.5 מיליון דולר נסחרו בחשבונות של טראמפ במניית Nvidia - וחלק מהמניות נמכרו חמישה ימים אחרי שטראמפ קיבל מידע מודיעיני על קשרים אפשריים בין ג'נסן הואנג לסוכן חשוד של סין.\n\nהסיפור הזה חורג מפוליטיקה. אם מדובר בסחר על בסיס מידע סודי, זה שאלה ישירה לגבי האמינות של כל הנרטיב סביב רגולציה על שבבים - ו-Nvidia עצמה, שמחירה מגלם ציפיות של גישה מלאה לשוקי העולם.",
+      "importance": 9,
       "topics": [
-        "AI",
-        "וול סטריט",
-        "ריבית"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
-      "source": "CNBC World",
-      "url": "",
-      "summary": "עדכון ראוטר ישן במחוז קטן בארקנסו גרם לעצירה מוחלטת של כל הטיסות בארה\"ב. שר התחבורה דאפי אישר שהבעיה נגעה למערכת תקשורת ישנה שמנהלת חברת L3Harris Technologies.\n\nמה שמעניין פה: L3Harris היא ספקית ביטחון ותשתיות קריטיות גדולה, וכשל כזה מזמין שאלות על גיל הציוד ומי נושא באחריות. סביר שזה יתורגם לתקציבי שדרוג של ה-FAA ולחקירות קונגרס - שזה עסק טוב לחברות סייבר ותשתיות שעובדות עם הממשל האמריקאי.",
-      "importance": 8,
-      "topics": [
-        "תשתיות",
-        "רגולציה",
-        "סיכון תפעולי"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Stock Market Today: Tech Stocks Under Pressure at Start of Crucial Week for AI",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main",
-      "summary": "שבוע קריטי לעולם ה-AI מתחיל היום. Nvidia מדווחת על רווחים על רקע משבר הנהגה פנימי, ובמקביל Anthropic מתכוננת להנפקה ענקית שתבחן את תיאבון השוק לחברות AI בשלב זה.\n\nלמה זה חשוב גם למי שלא מחזיק Nvidia ישירות - המניה היא רכיב מרכזי בעשרות קרנות סל ותיקי השקעות פאסיביים. תנועה חדה שלה מזיזה מדדים שלמים. ואם ההנפקה של Anthropic תקרר את ההתלהבות - זה ישפיע על כל סקטור הטכנולוגיה.",
-      "importance": 8,
-      "topics": [
-        "טכנולוגיה",
-        "בורסה",
-        "ניידיה"
+        "דונלד טראמפ",
+        "Nvidia",
+        "קונפליקט ניסיון"
       ],
       "tag": "ארה\"ב"
     },
@@ -251,9 +225,49 @@
         "סחר גלובלי"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "הדולר האמריקאי הגיע לרמה הגבוהה ביותר שלו מזה שנה וחצי - וזה לא בהכרח בשורה טובה לשווקים.\n\nכשהדולר מתחזק, חברות אמריקאיות גדולות מרוויחות פחות מפעילות בחו\"ל - הרווחים מתכווצים כשמחזירים אותם לדולרים. אבל ההשפעה העקיפה מעניינת יותר: שווקים מתעוררים כמו ברזיל, הודו וטורקיה סופגים לחץ כבד כשהדולר עולה, כי החוב שלהם מתייקר. זה אחד הסיכונים שהכי פחות מדברים עליו עכשיו.",
+      "importance": 8,
+      "topics": [
+        "דולר",
+        "פד",
+        "שוק מניות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "Summit Therapeutics קיבלה \"לא\" מה-FDA על תרופת הסרטן הריאות הכי מדוברת שלה, והמניה צנחה. הסיבה: הרגולטור אמר שהחברה הוכיחה שהתרופה מכווצת גידולים - אבל לא שהיא מאריכה חיים. ומבחינת ה-FDA, זה לא מספיק.\n\nמה שמעניין פה מעבר ל-Summit עצמה: זה סיגנל לכל ענף הביוטק. ה-FDA מחמירה עם הרקטה שמספיקה לאישור, ולחברות קטנות שבנו את כל הסיפור על תרופה אחת - זה שינוי כללים שעולה ביוקר.",
+      "importance": 8,
+      "topics": [
+        "ביוטק",
+        "FDA",
+        "סרטן",
+        "רגולציה"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
+    {
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "OpenAI",
+        "רגולציה"
+      ],
+      "published": "2026-11-16T15:46:01-05:00"
+    },
     {
       "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
       "source": "Ars Technica",
@@ -261,24 +275,23 @@
       "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
       "importance": 9,
       "topics": [
-        "Nvidia",
-        "הנהלה",
+        "NVIDIA",
         "שבבים"
       ],
       "published": "Mon, 16 Nov 2026 14:06:16 +0000"
     },
     {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
-      "importance": 8,
+      "title": "פעם ראשונה בלי ג'נסן: NVIDIA חושפת את המעבדים המפלצתיים החדשים שלה",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/nvidia-rubin-vera-ai-science-sc26/",
+      "summary": "השבוע האחרון ייזכר כנראה כאחד השבועות השחורים והסוערים בתולדות NVIDIA. בין פרשיית הריגול המביכה, הבגידה והרומן מחוץ לנישואין, ורעידת האדמה עם התפטרותו של המנכ\"ל והמייסד האגדי ג'נסן הואנג, אפשר היה לחשוב שהחברה תוריד פרופיל. אבל בכנס SC26 שנערך היום (ב') בשיקגו, נראה שענקית השבבים מנסה לשדר שההצגה חייבת להימשך והיא מציגה צ'יפים חדשים. \"סימולציה מהירה […] The post פעם ראשונה בלי ג'נסן: NVIDIA חושפת ",
+      "importance": 9,
       "topics": [
-        "AI",
-        "OpenAI",
-        "רגולציה"
+        "NVIDIA",
+        "שבבים",
+        "חומרה"
       ],
-      "published": "2026-11-16T15:46:01-05:00"
+      "published": "Mon, 16 Nov 2026 16:00:54 +0000"
     },
     {
       "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
@@ -288,7 +301,7 @@
       "importance": 8,
       "topics": [
         "Intel",
-        "שיבקוק"
+        "שבבים"
       ],
       "published": "Mon, 16 Nov 2026 20:37:47 +0000"
     },
@@ -300,10 +313,23 @@
       "importance": 8,
       "topics": [
         "AI",
-        "רגולציה",
-        "שבבים"
+        "שבבים",
+        "ג'אופוליטיקה"
       ],
       "published": "Mon, 16 Nov 2026 19:10:09 +0000"
+    },
+    {
+      "title": "הגארדיאן: ישראל העלתה מיליוני תמונות של פלסטינים למערכת זיהוי הפנים של AWS",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/idf-amazon-rekognition-palestinians-surveillance/",
+      "summary": "לפני כשנה הודיעה מיקרוסופט כי היא חוסמת את הגישה של יחידת 8200 ל-Azure בטענה שצה\"ל עשה שימוש אסור בשירותי הענן של החברה. עכשיו מעלה תחקיר חדש טענות דומות נגד צה\"ל, במה שעלול לדחוק אותו מתשתית הענן הגדולה בעולם. 3.5 מיליון תמונות במערכת תחקיר של הגרדיאן הבריטי טוען כי צה\"ל העלה בתחילת 2024 כ-3.5 מיליון תמונות […] The post הגארדיאן: ישראל העלתה מיליוני תמונות של פלסטינים למערכת זיהוי הפנים של AWS ap",
+      "importance": 8,
+      "topics": [
+        "AWS",
+        "אבטחה ופרטיות",
+        "AI"
+      ],
+      "published": "Mon, 16 Nov 2026 13:22:27 +0000"
     },
     {
       "title": "California state AG sues OpenAI over rogue agent incidents",
@@ -313,49 +339,23 @@
       "importance": 7,
       "topics": [
         "AI",
-        "רגולציה",
-        "OpenAI"
+        "OpenAI",
+        "רגולציה"
       ],
       "published": "Mon, 16 Nov 2026 20:07:13 +0000"
     },
     {
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
       "importance": 7,
       "topics": [
         "סייבר",
-        "אבטחה",
-        "האקינג"
+        "פריצת אבטחה",
+        "Uber"
       ],
-      "published": "Mon, 16 Nov 2026 17:36:43 +0000"
-    },
-    {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "OpenAI",
-        "בטיחות"
-      ],
-      "published": "Mon, 16 Nov 2026 17:02:43 +0000"
-    },
-    {
-      "title": "US data centers now burn more electricity than a midsized country",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "אנרגיה",
-        "מרכזי-נתונים"
-      ],
-      "published": "2026-11-16T15:27:58-05:00"
+      "published": "Mon, 16 Nov 2026 19:53:00 +0000"
     }
   ]
 }
