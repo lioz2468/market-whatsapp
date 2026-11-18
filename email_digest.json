@@ -1,32 +1,45 @@
 {
-  "generated_at": "2026-11-18T06:45:09.762117+00:00",
+  "generated_at": "2026-11-18T11:26:05.403355+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Trump arrives in Philippines to kick off Asia trip",
+      "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-      "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+      "summary": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
       "importance": 9,
       "topics": [
         "דיפלומטיה",
-        "ארה\"ב",
-        "רוסיה"
-      ],
-      "published": "Tue, 17 Nov 2026 05:43:55 -0500"
-    },
-    {
-      "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
-      "summary": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
-      "importance": 9,
-      "topics": [
-        "דיפלומטיה",
-        "ארה\"ב",
+        "אמריקה",
         "סין"
       ],
-      "published": "Tue, 17 Nov 2026 04:46:00 -0500"
+      "published": "Wed, 18 Nov 2026 05:32:03 -0500"
+    },
+    {
+      "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
+      "summary": "Russian President Vladimir Putin will meet Thursday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
+      "importance": 9,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Wed, 18 Nov 2026 04:43:28 -0500"
+    },
+    {
+      "title": "שטיח אדום וחיבוק משי ג'ינפינג: קבלת פנים חריגה לטראמפ בסין לפני הפסגה עם פוטין | צפו",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/b1cl01s0fg",
+      "summary": "נשיא ארה\"ב נחת בשנזן וזכה למחווה דיפלומטית נדירה: נשיא סין הגיע בעצמו לנמל התעופה כדי לקבל את פניו, והשניים התחבקו על השטיח האדום. מוקדם יותר נפגשו שי ופוטין למשך יותר משעתיים וקראו לקידום \"סדר עולמי רב-קוטבי\" (\"מעצמות המערב - ההגמונים לשעבר\"), מחר תתקיים הפסגה המשולשת שבמוקד שלה איראן והנשק הגרעיני. לפני שהמריא לסין הספיק טראמפ לפגוש ידידה ותיקה: \"פרפר הברזל\" בת ה-97, אלמנתו המיתולוגית של רודן הפ",
+      "importance": 9,
+      "topics": [
+        "דיפלומטיה",
+        "סין",
+        "רוסיה"
+      ],
+      "published": "Wed, 18 Nov 2026 13:15:59 +0200"
     },
     {
       "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
@@ -37,22 +50,9 @@
       "topics": [
         "איראן",
         "בחריין",
-        "ארה\"ב"
+        "ביטחון"
       ],
       "published": "Tue, 17 Nov 2026 13:34:31 -0500"
-    },
-    {
-      "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-      "summary": "Ukrainian drones and missiles struck the Kerch Bridge linking Russia to occupied Crimean, Ukrainian President Volodymyr Zelenskyy said, as Russia reported its forces downed Ukrainian drones.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "קרים"
-      ],
-      "published": "Tue, 17 Nov 2026 04:50:45 -0500"
     },
     {
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
@@ -63,35 +63,35 @@
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "קרים"
+        "קונפליקט"
       ],
       "published": "Tue, 17 Nov 2026 21:24:35 GMT"
     },
     {
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "importance": 8,
+      "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
+      "summary": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling behind on climate technologies.",
+      "importance": 7,
       "topics": [
-        "בריאות ציבורית",
-        "מחלות",
-        "ארה\"ב"
+        "אקלים",
+        "סין",
+        "אמריקה"
       ],
-      "published": "Tue, 17 Nov 2026 21:04:00 GMT"
+      "published": "Wed, 18 Nov 2026 05:00:00 -0500"
     },
     {
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-      "importance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "importance": 7,
       "topics": [
-        "דיפלומטיה",
-        "ארה\"ב",
-        "רוסיה"
+        "סין",
+        "אמריקה",
+        "טכנולוגיה"
       ],
-      "published": "Tue, 17 Nov 2026 20:25:46 GMT"
+      "published": "Tue, 17 Nov 2026 23:02:12 GMT"
     },
     {
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -102,9 +102,22 @@
       "topics": [
         "ישראל",
         "פלסטינים",
-        "גדה מערבית"
+        "הסכסוך"
       ],
       "published": "Tue, 17 Nov 2026 20:30:20 GMT"
+    },
+    {
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "importance": 7,
+      "topics": [
+        "בריאות",
+        "מחלות",
+        "USA"
+      ],
+      "published": "Tue, 17 Nov 2026 21:04:00 GMT"
     },
     {
       "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
@@ -113,40 +126,14 @@
       "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
       "importance": 7,
       "topics": [
-        "ביטחון",
-        "מודיעין",
-        "בריטניה"
+        "USA",
+        "בריטניה",
+        "מודיעין"
       ],
       "published": "Tue, 17 Nov 2026 22:46:30 GMT"
-    },
-    {
-      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "importance": 7,
-      "topics": [
-        "טכנולוגיה",
-        "סחר בינלאומי",
-        "ביטחון"
-      ],
-      "published": "Tue, 17 Nov 2026 11:17:32 GMT"
     }
   ],
   "business": [
-    {
-      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-      "summary": "סכומים של עד 97.5 מיליון דולר נסחרו בחשבונות של טראמפ במניית Nvidia - וחלק מהמניות נמכרו חמישה ימים אחרי שטראמפ קיבל מידע מודיעיני על קשרים אפשריים בין ג'נסן הואנג לסוכן חשוד של סין.\n\nהסיפור הזה חורג מפוליטיקה. אם מדובר בסחר על בסיס מידע סודי, זה שאלה ישירה לגבי האמינות של כל הנרטיב סביב רגולציה על שבבים - ו-Nvidia עצמה, שמחירה מגלם ציפיות של גישה מלאה לשוקי העולם.",
-      "importance": 9,
-      "topics": [
-        "דונלד טראמפ",
-        "Nvidia",
-        "קונפליקט ניסיון"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "End of US aid leaves $31b budget hole",
       "source": "גלובס כללי",
@@ -185,33 +172,6 @@
         "בריאות"
       ],
       "tag": "גלובלי"
-    },
-    {
-      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "הדולר האמריקאי הגיע לרמה הגבוהה ביותר שלו מזה שנה וחצי - וזה לא בהכרח בשורה טובה לשווקים.\n\nכשהדולר מתחזק, חברות אמריקאיות גדולות מרוויחות פחות מפעילות בחו\"ל - הרווחים מתכווצים כשמחזירים אותם לדולרים. אבל ההשפעה העקיפה מעניינת יותר: שווקים מתעוררים כמו ברזיל, הודו וטורקיה סופגים לחץ כבד כשהדולר עולה, כי החוב שלהם מתייקר. זה אחד הסיכונים שהכי פחות מדברים עליו עכשיו.",
-      "importance": 8,
-      "topics": [
-        "דולר",
-        "פד",
-        "שוק מניות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "Summit Therapeutics קיבלה \"לא\" מה-FDA על תרופת הסרטן הריאות הכי מדוברת שלה, והמניה צנחה. הסיבה: הרגולטור אמר שהחברה הוכיחה שהתרופה מכווצת גידולים - אבל לא שהיא מאריכה חיים. ומבחינת ה-FDA, זה לא מספיק.\n\nמה שמעניין פה מעבר ל-Summit עצמה: זה סיגנל לכל ענף הביוטק. ה-FDA מחמירה עם הרקטה שמספיקה לאישור, ולחברות קטנות שבנו את כל הסיפור על תרופה אחת - זה שינוי כללים שעולה ביוקר.",
-      "importance": 8,
-      "topics": [
-        "ביוטק",
-        "FDA",
-        "סרטן",
-        "רגולציה"
-      ],
-      "tag": "ארה\"ב"
     },
     {
       "title": "Deutsche Bank Shares Drop After Wide-Ranging Whistleblower Leaks",
@@ -264,21 +224,72 @@
         "צ'יפים"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "בנק אמריקה לא מוריד מהשולחן העלאת ריבית של חצי אחוז בדצמבר. זה נשמע כמו פרט טכני, אבל ההשלכות רחבות: אם הפד יחזור להאצה, אג\"ח קצרות יחזרו ל-5% תשואה, ומניות צמיחה יקבלו עוד לחץ. מה שמעניין יותר - שוק הנדל\"ן, שכבר נושם בכבדות, יתקשה עוד יותר. ריבית גבוהה לאורך זמן היא לא רק כאב ראש למשקיעים - היא משנה את כל חישובי הכדאיות הכלכלית.",
+      "importance": 8,
+      "topics": [
+        "ריבית",
+        "פד",
+        "אג\"ח"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+      "summary": "נשמע שזו הכתבה על אירוע ה-CrowdStrike מיולי 2024 - אבל מאחר שאין לי תאריך ספציפי בפרטים שסיפקת, אנסח על בסיס מה שיש.\n\n---\n\nביום אחד השתקו בנקים, חברות תעופה, סוכנויות ממשלתיות ו-Apple - כולם בבת אחת. לא מתקפת סייבר, אלא עדכון תוכנה אחד שהתפשט דרך תשתית משותפת והפיל מערכות קריטיות ברחבי העולם.\n\nזה מדגים בדיוק את הסיכון שפחות מדברים עליו: ככל שיותר חברות מסתמכות על אותן שכבות טכנולוגיה, נקודת כשל אחת הופכת לאסון גלובלי. בעידן ה-AI, התלות הזו רק הולכת לגדול.",
+      "importance": 8,
+      "topics": [
+        "תשתיות דיגיטליות",
+        "סיכון מערכתי",
+        "AI"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "תעשיית מרכזי הנתונים בדרום-מזרח אסיה צמחה בקצב מהיר בשנים האחרונות - ומי שהניע חלק גדול מהביקוש היו חברות סיניות שחיפשו גישה לשבבי AI מתקדמים מחוץ לסין. עכשיו ארה\"ב שמה את הרגל בדלת: כל מרכז נתונים באזור שרוצה לרכוש שבבים מתקדמים יצטרך אישור אמריקני מראש.\n\nזה לא רק בעיה של בוני מרכזי הנתונים עצמם. זה ישפיע על NVIDIA שמכרה לשם בהיקפים גדולים, על ספקיות תשתית ענן שמתרחבות לאזור, ועל חברות טכנולוגיה סיניות שבנו את תוכניות ה-AI שלהן סביב הגישה הזו.",
+      "importance": 8,
+      "topics": [
+        "מרכזי נתונים",
+        "וטו טכנולוגי",
+        "שרשרת אספקה"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "ההנפקה השבוע של אנת'רופיק תהפוך יותר מ-4,000 עובדים למיליונרים",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/anthropic-ipo-ai-millionaires/",
-      "summary": "אנת'רופיק, החברה שעומדת מאחורי Claude, צפויה לצאת להנפקה ביום חמישי הקרוב (תחת הסימול ANT) לפי שווי שיכול להגיע לעד 1.4 טריליון דולר. המשמעות עבור 5,300 עובדי החברה? חבילות המניות והאופציות שלהם צפויות לקבל שווי שוק, ויהפכו לכסף נזיל בהדרגה בשווי אסטרונומי של כ-216 מיליארד דולר. ממוצע של 41 מיליון דולר לעובד, אבל חלק גם יקבלו […] The post ההנפקה השבוע של אנת'רופיק תהפוך יותר מ-4,000 עובדים למיליונ",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
       "importance": 9,
       "topics": [
-        "IPO",
-        "AI",
-        "Anthropic"
+        "NVIDIA",
+        "רגולציה",
+        "אנטי-טראסט"
       ],
-      "published": "Tue, 17 Nov 2026 12:24:02 +0000"
+      "published": "Tue, 17 Nov 2026 21:48:07 +0000"
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "שבבים"
+      ],
+      "published": "Wed, 18 Nov 2026 00:16:50 +0000"
     },
     {
       "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
@@ -289,7 +300,7 @@
       "topics": [
         "NVIDIA",
         "שבבים",
-        "מדיניות"
+        "סחר בין-לאומי"
       ],
       "published": "Tue, 17 Nov 2026 23:37:48 +0000"
     },
@@ -301,22 +312,22 @@
       "importance": 8,
       "topics": [
         "NVIDIA",
-        "שינוי הנהלה"
+        "הנהלה"
       ],
       "published": "Tue, 17 Nov 2026 22:42:27 +0000"
     },
     {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
       "importance": 8,
       "topics": [
-        "NVIDIA",
-        "רגולציה",
-        "שינוי הנהלה"
+        "IPO",
+        "AI",
+        "Anthropic"
       ],
-      "published": "Tue, 17 Nov 2026 21:48:07 +0000"
+      "published": "Tue, 17 Nov 2026 22:29:05 +0000"
     },
     {
       "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
@@ -327,9 +338,22 @@
       "topics": [
         "Nvidia",
         "שינוי הנהלה",
-        "משבר תאגידי"
+        "משבר"
       ],
       "published": "2026-11-17T17:32:50-05:00"
+    },
+    {
+      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+      "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation […]",
+      "importance": 8,
+      "topics": [
+        "Nvidia",
+        "שינוי הנהלה",
+        "משבר"
+      ],
+      "published": "2026-11-17T17:05:05-05:00"
     },
     {
       "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
@@ -339,36 +363,10 @@
       "importance": 8,
       "topics": [
         "AI",
-        "OpenAI",
-        "רגולציה"
+        "רגולציה",
+        "OpenAI"
       ],
       "published": "Tue, 17 Nov 2026 18:13:34 +0000"
-    },
-    {
-      "title": "תקלה רחבה בשירותי אפל: App Store ו-iCloud קרסו",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/apple-icloud-app-store-internal-update-outage/",
-      "summary": "זה לא רק אצלכם. משתמשי אפל בכל העולם דיווחו בשעות האחרונות על שיבושים נרחבים במספר שירותים מרכזיים של החברה. על פי עמוד הסטטוס של אפל, נרשמו השבתות מלאות ב-App Store לצד תקלות ביישומי הרשת ובעיות בהתחברות לשירותי iCloud ול-AppleCare. בנוסף, התלוננו משתמשים על שיבושים ברשת Find My וכן ב-iCloud‌ Mail, ‌iCloud‌ Calendar ו-iCloud‌ Contacts. התקלות […] The post תקלה רחבה בשירותי אפל: App Store ו-iCloud",
-      "importance": 8,
-      "topics": [
-        "Apple",
-        "תקלה",
-        "שירותים"
-      ],
-      "published": "Tue, 17 Nov 2026 20:33:10 +0000"
-    },
-    {
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "importance": 7,
-      "topics": [
-        "NVIDIA",
-        "שינוי הנהלה",
-        "השקעות"
-      ],
-      "published": "Wed, 18 Nov 2026 01:44:21 +0000"
     }
   ]
 }
