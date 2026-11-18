@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-11-17T11:39:18.991153+00:00",
+  "generated_at": "2026-11-18T06:45:09.762117+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Trump arrives in Philippines to kick off Asia trip",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+      "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+      "importance": 9,
+      "topics": [
+        "דיפלומטיה",
+        "ארה\"ב",
+        "רוסיה"
+      ],
+      "published": "Tue, 17 Nov 2026 05:43:55 -0500"
+    },
     {
       "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
       "source": "NPR World",
@@ -9,183 +22,118 @@
       "summary": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
       "importance": 9,
       "topics": [
-        "אמריקה",
-        "סין",
-        "רוסיה"
+        "דיפלומטיה",
+        "ארה\"ב",
+        "סין"
       ],
       "published": "Tue, 17 Nov 2026 04:46:00 -0500"
     },
     {
-      "title": "Trump arrives in Philippines to kick off Asia trip",
+      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-      "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+      "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
       "importance": 8,
       "topics": [
-        "אמריקה",
-        "אסיה",
-        "דיפלומטיה"
+        "איראן",
+        "בחריין",
+        "ארה\"ב"
       ],
-      "published": "Tue, 17 Nov 2026 05:43:55 -0500"
+      "published": "Tue, 17 Nov 2026 13:34:31 -0500"
     },
     {
-      "title": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
+      "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
       "source": "NPR World",
       "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-      "summary": "Ukraine's forces targeted a key rail and road bridge between Russia and the Crimean Peninsula for a second day. Moscow's forces, meanwhile, fired ballistic missiles and drones at Kyiv.",
+      "summary": "Ukrainian drones and missiles struck the Kerch Bridge linking Russia to occupied Crimean, Ukrainian President Volodymyr Zelenskyy said, as Russia reported its forces downed Ukrainian drones.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "קונפליקט"
+        "קרים"
       ],
       "published": "Tue, 17 Nov 2026 04:50:45 -0500"
     },
     {
-      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "קרים",
-        "קונפליקט"
-      ],
-      "published": "Tue, 17 Nov 2026 10:45:55 GMT"
-    },
-    {
-      "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-      "summary": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "קרבות"
+        "קרים"
       ],
-      "published": "Tue, 17 Nov 2026 08:12:06 +0000"
+      "published": "Tue, 17 Nov 2026 21:24:35 GMT"
     },
     {
-      "title": "אש אדירה בלב ים; איראן במשוואה חדשה: תקפה מתקן אמריקני בגלל \"הפרת המרחב האווירי\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bk800rdtcgl",
-      "summary": "יממה לאחר שבבחריין גזרו עונשי מאסר כבדים על אנשי דת שהואשמו בשת\"פ עם משמרות המהפכה, באיראן הודיעו כי תקפו מערכת מכ\"ם אמריקנית בממלכה, ואיימו: \"השימוש בבסיסים באזור לפעולות עוינות נגדנו לא יישאר ללא מענה\". מכלית נפט תועדה בוערת כליל בהורמוז, האיראנים טענו שוב: \"עלתה על מוקש\"",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
       "importance": 8,
       "topics": [
-        "איראן",
+        "בריאות ציבורית",
+        "מחלות",
+        "ארה\"ב"
+      ],
+      "published": "Tue, 17 Nov 2026 21:04:00 GMT"
+    },
+    {
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "importance": 8,
+      "topics": [
+        "דיפלומטיה",
         "ארה\"ב",
+        "רוסיה"
+      ],
+      "published": "Tue, 17 Nov 2026 20:25:46 GMT"
+    },
+    {
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "פלסטינים",
+        "גדה מערבית"
+      ],
+      "published": "Tue, 17 Nov 2026 20:30:20 GMT"
+    },
+    {
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "importance": 7,
+      "topics": [
+        "ביטחון",
+        "מודיעין",
+        "בריטניה"
+      ],
+      "published": "Tue, 17 Nov 2026 22:46:30 GMT"
+    },
+    {
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "importance": 7,
+      "topics": [
+        "טכנולוגיה",
+        "סחר בינלאומי",
         "ביטחון"
       ],
-      "published": "Tue, 17 Nov 2026 09:19:26 +0200"
-    },
-    {
-      "title": "עוד שיא של 1,441 כטב\"מים על רוסיה, תיעוד: \"פיצוץ וקריסה\" בגשר קרים האסטרטגי",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hjhkmoy0me",
-      "summary": "רגע לפני שפוטין ייפגש עם טראמפ ונשיא סין לפסגה היסטורית, קייב משגרת שוב מתקפת ענק על רוסיה - ושברה זה יום שני ברציפות את שיא הכטב\"מים ששוגרו אליה במלחמה, הפעם עם פגיעה דרמטית בגשר קרים שמחבר בין חצי האי הכבוש לרוסיה. זהו הגשר הארוך באירופה, שהפך לסמל הכיבוש הרוסי ומשמש גם כעורק אספקה חשוב לצבא הרוסי. באוקראינה טענו שאחת הקשתות שלו קרסה: \"מתקפה משולבת עם טילים\". במקביל: מתקפה על קייב - שם דווח על פ",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
-      ],
-      "published": "Tue, 17 Nov 2026 09:15:17 +0200"
-    },
-    {
-      "title": "Africa: Trading in yuan",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
-      "summary": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
-      "importance": 7,
-      "topics": [
-        "כלכלה גלובלית",
-        "סין",
-        "אפריקה"
-      ],
-      "published": "Mon, 16 Nov 2026 18:49:35 -0500"
-    },
-    {
-      "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-      "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
-      "importance": 7,
-      "topics": [
-        "בינלאומי",
-        "AI",
-        "נשקים"
-      ],
-      "published": "Mon, 16 Nov 2026 13:04:50 -0500"
-    },
-    {
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "קונפליקט"
-      ],
-      "published": "Tue, 17 Nov 2026 05:59:01 GMT"
+      "published": "Tue, 17 Nov 2026 11:17:32 GMT"
     }
   ],
   "business": [
-    {
-      "title": "Semiconductor research firm SemiAnalysis has sharply LOWERED its global AI accelerator capital expenditure forecasts, with cuts of up to 41%: 2027: $770B → $627B (-19%) 2028: $1.054T → $758B (-28%) 2029: $1.352T → $796B (-41%) 2030: $1.531T → $923B (-40%) That's a $608 https://t.co/wP5MAAvwQL",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2122353777605071101",
-      "summary": "SemiAnalysis - אחד ממשרדי המחקר הכי מכובדים בתעשיית השבבים - קיצצה את תחזיות ההוצאות הגלובליות על תשתיות AI בעד 41%.\n\nהנתונים: עד 2030 מדובר בקיצוץ של כ-600 מיליארד דולר ביחס לתחזיות הקודמות.\n\nמה שמעניין הוא לא רק NVIDIA - אלא מה שקורה מתחת לפני השטח: חברות חשמל, יצרני קירור לאולמות שרתים, ספקי תשתיות רשת - כולם תמחרו צמיחה שאולי לא תגיע בקצב שחשבו. זה שינוי בתמונה הגדולה, לא רק בשבבים.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "השקעות",
-        "שבבים"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "TRUMP: JENSEN HUANG WASN'T ALLOWED TO SELL THE BLACKWELL CHIP NVIDIA'S HUANG LEARNED A LESSON WOULD NOT MIND JENSEN HUANG BEING REINSTATED AS $NVDA CEO DON'T WANT TO INSULT CHINA JUST BEFORE WE GET THERE, WE HAVE A GOOD RELATIONSHIP WITH THEM",
-      "source": "Twitter @wallstengine",
-      "url": "",
-      "summary": "ג'נסן הואנג לא הורשה למכור את שבב Blackwell לסין - כך אמר טראמפ, ורמז שהואנג \"למד את הלקח\". הוא הוסיף שלא היה מתנגד לכך שיחזור לנהל את NVIDIA, וסיים עם: \"אנחנו לא רוצים לפגוע בסין ממש לפני שאנחנו מגיעים לשם - יש לנו איתם יחסים טובים\".\n\nזה לא סתם ציטוט - זה טראמפ שמשדר ישירות ל-NVIDIA: הגבלות הייצוא לסין לא הולכות לשום מקום, וכל מי שחושב שנהיה פה פרצה - יחשוב שוב. לחברות כמו AMD ו-Intel שמוכרות גם הן ציוד לשוק הסיני, זה אותה הודעה בדיוק.",
-      "importance": 9,
-      "topics": [
-        "צ'יפים",
-        "סינה",
-        "רגולציה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Nvidia’s stock extends declines following harsh words from the U.S. government",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-      "summary": "המניה של NVIDIA ממשיכה לרדת אחרי שמשרד המסחר האמריקאי הכריז על כלל חדש שמגביל גישה מרחוק של סין לשבבים מתקדמים. זה לא עוד אזהרה - זה כבר חוק.\n\nההשפעה לא נגמרת ב-NVIDIA. חברות ענן שמוכרות כוח מחשוב לגופים סיניים - כמו AWS, Azure ו-Google Cloud - עוד יצטרכו להסביר איך הן מתאימות לכלל הזה. וכל חברה שבנתה מודל עסקי סביב גישה מרוחקת לתשתיות AI עם מאגרי לקוחות גלובליים - פתאום עם סימן שאלה גדול.",
-      "importance": 9,
-      "topics": [
-        "רגולציה",
-        "שבבים",
-        "סחר בין-לאומי"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Stock Selloff Extends Into Fourth Day, Oil Drops: Markets Wrap",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
-      "summary": "ארבעה ימים רצופים של ירידות בשוק, ועכשיו מתווספת הגבלה אמריקנית חדשה על ייצוא שבבי AI לסין - בדיוק לפני הדוח של Nvidia. השוק כבר היה עצבני, וזה שמן על האש.\n\nמה שמעניין פה: ההגבלות לא פוגעות רק ב-Nvidia. כל חברה שמוכרת ציוד לצנרת ייצור השבבים - כלים, חומרים, תוכנות עיצוב - נמצאת בסימן שאלה. ברוב המקרים אלה חברות שהרבה אנשים לא מכירים, אבל הן עמוד השדרה של כל תעשיית ה-AI.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "סנקציות",
-        "טכנולוגיה"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
       "source": "CNBC Top News",
@@ -200,29 +148,41 @@
       "tag": "ארה\"ב"
     },
     {
-      "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "מנכ\"לית קרן המטבע הבינלאומית (IMF) אומרת שהמימון המעגלי בין חברות ה-AI הגיע לטריליון דולר - שני שלישים ממנו חוב. זה אומר שחברות AI מממנות אחת את השנייה, בונות מגדל שנשען על עצמו. היא הוסיפה שהכלכלה העולמית \"עומדת על רגל אחת\" - אמריקה מחזיקה את הצמיחה הגלובלית בזמן שכולם מחכים לראות אם זה מחזיק.\n\nהסיכון העקיף: אם אחת מהחברות הגדולות מתחילה להתאים את תקציבי ה-cloud שלה, הגל מגיע מהר מאוד לכולן.",
-      "importance": 8,
+      "title": "End of US aid leaves $31b budget hole",
+      "source": "גלובס כללי",
+      "url": "https://en.globes.co.il/en/article-1001563744#utm_source=RSS",
+      "summary": "פער של 31 מיליארד דולר - זה מה שנשאר כשמסירים את הסיוע האמריקני מהתמונה.\n\nישראל התחייבה לרכישות ביטחוניות בארה\"ב בהנחה שהסיוע ימשיך לזרום. עכשיו, כשזה לא בטוח, צריך לממן את זה מאיפשהו - ובמספרים: זה שווה ערך לעלייה של 1.5% במע\"מ.\n\nמה שפחות ברור: חור כזה בתקציב הביטחון לא נשאר שם - הוא מתגלגל לתקציבים אחרים, מה שאומר פחות כסף לחינוך, בריאות ותשתיות. לא חדשות מחר, אבל שווה לעקוב איך הממשלה מתכננת לסגור את הפער.",
+      "importance": 9,
       "topics": [
-        "AI",
-        "ממון",
-        "יציבות גלובלית"
+        "תקציב ממלכתי",
+        "פיתוח ביטחוני",
+        "סיכון כלכלי"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "Bank of America Says US Rates Will Rise ‘Until Activity Cools’",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/bank-of-america-says-us-rates-will-rise-until-activity-cools",
+      "summary": "בנק אוף אמריקה אומר שהריבית בארה\"ב תמשיך לעלות - כל עוד הכלכלה לא מראה סימני האטה.\n\nזה לא רק עניין של הפד. ריבית גבוהה לאורך זמן אומרת: אג\"ח מתייקרות, מניות טק מקבלות לחץ כלפי מטה, ועלויות המימון של חברות עולות. הישראלים שמשקיעים בקרנות אמריקאיות או בנדל\"ן - זה משפיע גם עליהם, גם אם זה לא נראה מיידי.\n\nהשורה התחתונה: הפד לא גמר את העבודה שלו.",
+      "importance": 9,
+      "topics": [
+        "ריבית",
+        "מדיניות מוניטרית",
+        "אקונומיה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-      "source": "CNBC World",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "source": "TechCrunch",
       "url": "",
-      "summary": "הנתונים הכלכליים של סין לחודש אוקטובר יצאו חלשים מהצפוי - ייצור תעשייתי, מכירות קמעונאיות והשקעות כולם פספסו את התחזיות. מה שמעניין פה זה לא רק סין עצמה: כשהכלכלה הסינית מאטה ומסתמכת יותר על ייצוא, כל זעזוע חיצוני - מכסים, האטה אמריקאית, חוסר יציבות אירופאית - מכה אותה חזק יותר. עבור ישראל זה רלוונטי דרך שרשרות אספקה, מחירי סחורות ושווקים מתעוררים שתלויים בביקוש הסיני.",
-      "importance": 8,
+      "summary": "הזרוע של DeepMind לגילוי תרופות באמצעות AI גייסה 5 מיליארד דולר בסבב C - אחד הסבבים הגדולים בהיסטוריה של ביוטק. Isomorphic Labs עברה משלב המחקר לניסויים קליניים בבני אדם, וזה שינוי משמעותי.\n\nמה שמעניין פה מעבר לסכום: אם AI באמת מקצר את זמן הפיתוח מ-10-15 שנה לשנים בודדות, חברות פארמה מסורתיות עם צינורות פיתוח ארוכים נמצאות תחת לחץ אמיתי - וגם CRO-ים (חברות שמנהלות ניסויים קליניים) ירגישו את זה.",
+      "importance": 9,
       "topics": [
-        "סין",
-        "מאקרו",
-        "צמיחה כלכלית",
-        "סחר גלובלי"
+        "AI",
+        "תרופות",
+        "בריאות"
       ],
       "tag": "גלובלי"
     },
@@ -252,110 +212,163 @@
         "רגולציה"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Deutsche Bank Shares Drop After Wide-Ranging Whistleblower Leaks",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "מניית Deutsche Bank ירדה היום אחרי שדלפו מסמכים פנימיים שחושפים כנראה שהבנק טיפח קשרים עם אוליגרכים רוסים - וניסה להרחיב את פעילותו ברוסיה ממש לפני הפלישה לאוקראינה ב-2022.\n\nזה לא רק סיפור של בנק אחד. כשיוצאים דיווחים כאלה, המשקיעים מתחילים לבדוק גם מוסדות פיננסיים אחרים עם חשיפה היסטורית למזרח אירופה. ורגולטורים באירופה ובארה\"ב - שכבר עם האצבע על ההדק בנושא סנקציות - יתחילו לשאול שאלות גם לאחרים.",
+      "importance": 8,
+      "topics": [
+        "בנקאות",
+        "סיכון רגולטורי",
+        "אירופה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "דוחות ה-13F לרבעון השלישי חשפו שמנהלי קרנות גדולים כמו Tepper ו-Loeb הגדילו חשיפה ל-Nvidia ולמניות הטכנולוגיה הגדולות - בדיוק לפני שהמניות האלה צנחו חדות באוקטובר. זה מזכיר כמה קשה לתזמן שוק, אפילו עבור הטובים ביותר.\n\nמה שמעניין פה: דוחות ה-13F הם תמיד תמונת עבר - הם מראים פוזיציות מסוף ספטמבר, כשהאופטימיות סביב ה-AI הייתה בשיאה. מי שיושפע מזה מעבר לקרנות עצמן הם המשקיעים הפרטיים שמחקים את המהלכים של \"החכמים\" - והסיפור הזה מזכיר למה כדאי להיזהר מלעשות את זה.",
+      "importance": 8,
+      "topics": [
+        "בורסה",
+        "טכנולוגיה",
+        "משקיעים מוסדיים"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "Nvidia מזהירה את לקוחותיה מסכנות משפטיות - מי שמוכר מחדש את הצ'יפים שלה לסין עלול למצוא את עצמו בצרות רגולטוריות רציניות. זה לא אזהרה סתם: משרד המסחר האמריקאי מהדק את בקרות הייצוא, ו-Nvidia מכסה על עצמה מראש.\n\nמה שמעניין פה: הלחץ עובר עכשיו לקונים עצמם - חברות ענן, מתווכים, אפילו חברות שרק קונות שרתים. ההשפעה העקיפה על שרשרת האספקה של בינה מלאכותית עלולה להיות גדולה הרבה יותר ממה שנראה על פני השטח.",
+      "importance": 8,
+      "topics": [
+        "רגולציה",
+        "טכנולוגיה",
+        "וסחר בינלאומי"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+      "summary": "NVIDIA דיווחה על רבעון חזק במיוחד עם תחזית הכנסות של 130 מיליארד דולר לרבעון הבא - מספר שמשתיק כמעט כל חשש לגבי מעבר ההנהגה מ-Jensen Huang.\n\nהביקוש לשבבים נשאר עצום, וזה לא רק סיפור של NVIDIA: חברות כמו AMD ו-Intel נמדדות עכשיו על הרף שהיא קובעת, וכל מי שמספק לה חומרים, אריזות שבבים או תשתיות מרכזי נתונים - נהנה מהגל הזה. שווה לשים לב גם לספקיות החשמל והקירור - הן חלק מהסיפור הזה יותר ממה שנראה.",
+      "importance": 8,
+      "topics": [
+        "Nvidia",
+        "AI",
+        "צ'יפים"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "title": "ההנפקה השבוע של אנת'רופיק תהפוך יותר מ-4,000 עובדים למיליונרים",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/anthropic-ipo-ai-millionaires/",
+      "summary": "אנת'רופיק, החברה שעומדת מאחורי Claude, צפויה לצאת להנפקה ביום חמישי הקרוב (תחת הסימול ANT) לפי שווי שיכול להגיע לעד 1.4 טריליון דולר. המשמעות עבור 5,300 עובדי החברה? חבילות המניות והאופציות שלהם צפויות לקבל שווי שוק, ויהפכו לכסף נזיל בהדרגה בשווי אסטרונומי של כ-216 מיליארד דולר. ממוצע של 41 מיליון דולר לעובד, אבל חלק גם יקבלו […] The post ההנפקה השבוע של אנת'רופיק תהפוך יותר מ-4,000 עובדים למיליונ",
+      "importance": 9,
+      "topics": [
+        "IPO",
+        "AI",
+        "Anthropic"
+      ],
+      "published": "Tue, 17 Nov 2026 12:24:02 +0000"
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "שבבים",
+        "מדיניות"
+      ],
+      "published": "Tue, 17 Nov 2026 23:37:48 +0000"
+    },
+    {
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "שינוי הנהלה"
+      ],
+      "published": "Tue, 17 Nov 2026 22:42:27 +0000"
+    },
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "רגולציה",
+        "שינוי הנהלה"
+      ],
+      "published": "Tue, 17 Nov 2026 21:48:07 +0000"
+    },
+    {
+      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
-      "importance": 9,
+      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice […]",
+      "importance": 8,
+      "topics": [
+        "Nvidia",
+        "שינוי הנהלה",
+        "משבר תאגידי"
+      ],
+      "published": "2026-11-17T17:32:50-05:00"
+    },
+    {
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "importance": 8,
       "topics": [
         "AI",
         "OpenAI",
         "רגולציה"
       ],
-      "published": "2026-11-16T15:46:01-05:00"
+      "published": "Tue, 17 Nov 2026 18:13:34 +0000"
     },
     {
-      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-      "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-      "importance": 9,
-      "topics": [
-        "NVIDIA",
-        "שבבים"
-      ],
-      "published": "Mon, 16 Nov 2026 14:06:16 +0000"
-    },
-    {
-      "title": "פעם ראשונה בלי ג'נסן: NVIDIA חושפת את המעבדים המפלצתיים החדשים שלה",
+      "title": "תקלה רחבה בשירותי אפל: App Store ו-iCloud קרסו",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/nvidia-rubin-vera-ai-science-sc26/",
-      "summary": "השבוע האחרון ייזכר כנראה כאחד השבועות השחורים והסוערים בתולדות NVIDIA. בין פרשיית הריגול המביכה, הבגידה והרומן מחוץ לנישואין, ורעידת האדמה עם התפטרותו של המנכ\"ל והמייסד האגדי ג'נסן הואנג, אפשר היה לחשוב שהחברה תוריד פרופיל. אבל בכנס SC26 שנערך היום (ב') בשיקגו, נראה שענקית השבבים מנסה לשדר שההצגה חייבת להימשך והיא מציגה צ'יפים חדשים. \"סימולציה מהירה […] The post פעם ראשונה בלי ג'נסן: NVIDIA חושפת ",
-      "importance": 9,
-      "topics": [
-        "NVIDIA",
-        "שבבים",
-        "חומרה"
-      ],
-      "published": "Mon, 16 Nov 2026 16:00:54 +0000"
-    },
-    {
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "url": "https://www.geektime.co.il/apple-icloud-app-store-internal-update-outage/",
+      "summary": "זה לא רק אצלכם. משתמשי אפל בכל העולם דיווחו בשעות האחרונות על שיבושים נרחבים במספר שירותים מרכזיים של החברה. על פי עמוד הסטטוס של אפל, נרשמו השבתות מלאות ב-App Store לצד תקלות ביישומי הרשת ובעיות בהתחברות לשירותי iCloud ול-AppleCare. בנוסף, התלוננו משתמשים על שיבושים ברשת Find My וכן ב-iCloud‌ Mail, ‌iCloud‌ Calendar ו-iCloud‌ Contacts. התקלות […] The post תקלה רחבה בשירותי אפל: App Store ו-iCloud",
       "importance": 8,
       "topics": [
-        "Intel",
-        "שבבים"
+        "Apple",
+        "תקלה",
+        "שירותים"
       ],
-      "published": "Mon, 16 Nov 2026 20:37:47 +0000"
+      "published": "Tue, 17 Nov 2026 20:33:10 +0000"
     },
     {
-      "title": "US moves to cut China’s remote access to AI chips",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-      "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "שבבים",
-        "ג'אופוליטיקה"
-      ],
-      "published": "Mon, 16 Nov 2026 19:10:09 +0000"
-    },
-    {
-      "title": "הגארדיאן: ישראל העלתה מיליוני תמונות של פלסטינים למערכת זיהוי הפנים של AWS",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/idf-amazon-rekognition-palestinians-surveillance/",
-      "summary": "לפני כשנה הודיעה מיקרוסופט כי היא חוסמת את הגישה של יחידת 8200 ל-Azure בטענה שצה\"ל עשה שימוש אסור בשירותי הענן של החברה. עכשיו מעלה תחקיר חדש טענות דומות נגד צה\"ל, במה שעלול לדחוק אותו מתשתית הענן הגדולה בעולם. 3.5 מיליון תמונות במערכת תחקיר של הגרדיאן הבריטי טוען כי צה\"ל העלה בתחילת 2024 כ-3.5 מיליון תמונות […] The post הגארדיאן: ישראל העלתה מיליוני תמונות של פלסטינים למערכת זיהוי הפנים של AWS ap",
-      "importance": 8,
-      "topics": [
-        "AWS",
-        "אבטחה ופרטיות",
-        "AI"
-      ],
-      "published": "Mon, 16 Nov 2026 13:22:27 +0000"
-    },
-    {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
       "importance": 7,
       "topics": [
-        "AI",
-        "OpenAI",
-        "רגולציה"
+        "NVIDIA",
+        "שינוי הנהלה",
+        "השקעות"
       ],
-      "published": "Mon, 16 Nov 2026 20:07:13 +0000"
-    },
-    {
-      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-      "importance": 7,
-      "topics": [
-        "סייבר",
-        "פריצת אבטחה",
-        "Uber"
-      ],
-      "published": "Mon, 16 Nov 2026 19:53:00 +0000"
+      "published": "Wed, 18 Nov 2026 01:44:21 +0000"
     }
   ]
 }
