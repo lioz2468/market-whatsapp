@@ -1,139 +1,152 @@
 {
-  "generated_at": "2026-11-19T06:45:12.641336+00:00",
+  "generated_at": "2026-11-19T11:24:02.551263+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+      "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
-      "summary": "President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting.",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+      "summary": "President Trump, Xi and Putin have met in Shenzhen for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
       "importance": 9,
       "topics": [
-        "דיפלומטיה",
-        "רוסיה",
-        "סין"
+        "גיאופוליטיקה",
+        "ארצות הברית",
+        "רוסיה"
       ],
-      "published": "Wed, 18 Nov 2026 06:57:10 -0500"
+      "published": "Thu, 19 Nov 2026 04:44:40 -0500"
     },
     {
-      "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
-      "summary": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
+      "title": "Trump meets Putin and Xi for trilateral US, Russia, China talks at APEC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
+      "summary": "US president calls both Putin and Xi a 'friend' in separate meetings ahead of rare three-way talks in China.",
       "importance": 9,
       "topics": [
-        "דיפלומטיה",
-        "סין",
-        "ארה״ב"
+        "טראמפ",
+        "פוטין",
+        "שי ג'ינפינג"
       ],
-      "published": "Wed, 18 Nov 2026 05:32:03 -0500"
+      "published": "Thu, 19 Nov 2026 08:32:10 +0000"
     },
     {
-      "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
-      "summary": "Russian President Vladimir Putin will meet Thursday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
+      "title": "שלוש המעצמות נפגשו בסין: טראמפ, שי ופוטין קיימו פסגה היסטורית",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/sjncrehamx",
+      "summary": "אחרי שנפגש בנפרד עם מנהיגי סין ורוסיה (\"חברים שלי, יחסים נהדרים\"), נשיא ארה\"ב התכנס עם השניים לפסגה משולשת ראשונה מסוגה שנמשכה כשעה וחצי. במוקד - המלחמות באוקראינה ובאיראן והאפשרות להסכם חדש לצמצום הנשק הגרעיני: \"אי אפשר לנצח במלחמה גרעינית, ואסור לעולם להילחם בה\". טראמפ ניצל את הבמה כדי להשתלח בבית הדין הפלילי בהאג: \"ארגון סורר שיצא משליטה״",
       "importance": 9,
       "topics": [
         "דיפלומטיה",
         "אוקראינה",
+        "גיאופוליטיקה"
+      ],
+      "published": "Thu, 19 Nov 2026 12:07:16 +0200"
+    },
+    {
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+      "importance": 8,
+      "topics": [
+        "איראן",
+        "קואיט",
+        "בחריין"
+      ],
+      "published": "Wed, 18 Nov 2026 13:04:48 GMT"
+    },
+    {
+      "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
+      "summary": "In case filed at the ICJ in 2019, The Gambia accused Myanmar of breaching the 1948 Genocide Convention.",
+      "importance": 8,
+      "topics": [
+        "מיאנמר",
+        "רוהינג'ה",
+        "בית משפט בינלאומי"
+      ],
+      "published": "Thu, 19 Nov 2026 10:31:36 +0000"
+    },
+    {
+      "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
+      "summary": "North Korea can produce both highly enriched uranium and weapons-grade plutonium at its facilities, according to IAEA.",
+      "importance": 8,
+      "topics": [
+        "קוריאה הצפונית",
+        "גרעין",
+        "IAEA"
+      ],
+      "published": "Thu, 19 Nov 2026 09:16:47 +0000"
+    },
+    {
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "importance": 7,
+      "topics": [
+        "גיאופוליטיקה",
+        "סין",
         "רוסיה"
       ],
-      "published": "Wed, 18 Nov 2026 04:43:28 -0500"
+      "published": "Thu, 19 Nov 2026 04:42:52 GMT"
     },
     {
-      "title": "נתניהו דוחף למערכה \"אגרסיבית\" של 7-4 ימים באיראן, טראמפ מתלבט | דיווח",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/sjlfpsorfx",
-      "summary": "\"ניו יורק טיימס\": רה\"מ דוחף לצאת \"מהר\" למערכה משותפת, בעוד נשיא ארה\"ב שוקל ולוקח בחשבון את המידע המודיעיני - שלגבי \"חוזקו\" חלוקים בממשל. בסיסים אמריקניים פונו, לישראל הועברה עוד סוללת פטריוט. המידע שהועבר על נשק כימי, האיום של טראמפ - ויעדי התקיפה הישראליים שהוא לא אישר להפציץ",
-      "importance": 9,
-      "topics": [
-        "ישראל",
-        "איראן",
-        "ארה״ב"
-      ],
-      "published": "Thu, 19 Nov 2026 03:45:14 +0200"
-    },
-    {
-      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "title": "Crimean Bridge attacked again, Russia says",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-      "summary": "No state has ever been found guilty by an international court of committing genocide.",
-      "importance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "importance": 7,
       "topics": [
-        "בורמה",
-        "רוהינגיה",
-        "דין בינלאומי"
+        "אוקראינה",
+        "רוסיה",
+        "ביטחון"
       ],
-      "published": "Wed, 18 Nov 2026 23:04:06 GMT"
+      "published": "Thu, 19 Nov 2026 07:32:06 GMT"
     },
     {
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "importance": 8,
+      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "importance": 7,
       "topics": [
         "ישראל",
         "עזה",
-        "קיסום"
+        "הסכם שקיעה"
       ],
-      "published": "Wed, 18 Nov 2026 22:34:56 GMT"
+      "published": "Thu, 19 Nov 2026 11:07:37 GMT"
     },
     {
-      "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+      "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
-      "summary": "World court to issue key verdict in its first genocide ruling in more than a decade.",
-      "importance": 8,
+      "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+      "summary": "The US blockade of Iranian ports has a crippling effect on the economy, but Tehran insists its economy can survive.",
+      "importance": 7,
       "topics": [
-        "בית הדין הבינלאומי",
-        "מיאנמר",
-        "זכויות אדם"
+        "איראן",
+        "סנקציות",
+        "כלכלה"
       ],
-      "published": "Thu, 19 Nov 2026 05:13:13 +0000"
-    },
-    {
-      "title": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
-      "summary": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
-      "importance": 8,
-      "topics": [
-        "דיפלומטיה",
-        "סין",
-        "ארה\"ב-רוסיה"
-      ],
-      "published": "Thu, 19 Nov 2026 03:30:26 +0000"
-    },
-    {
-      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
-      "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
-      "importance": 8,
-      "topics": [
-        "גיאופוליטיקה",
-        "סין",
-        "ארה״ב"
-      ],
-      "published": "Thu, 19 Nov 2026 03:01:27 +0000"
-    },
-    {
-      "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
-      "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
-      "importance": 8,
-      "topics": [
-        "גיאופוליטיקה",
-        "ארה״ב",
-        "סין"
-      ],
-      "published": "Thu, 19 Nov 2026 02:57:19 +0000"
+      "published": "Thu, 19 Nov 2026 07:08:57 +0000"
     }
   ],
   "business": [
+    {
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "summary": "Anthropic הונפקה בשווי של יותר מ-81 מיליארד דולר - ה-IPO הגדול בהיסטוריה, שעקף אפילו את SpaceX. המניה תתחיל להיסחר ב-Nasdaq מחר תחת הסימול ANT.\n\nזה לא רק אירוע חגיגי ל-Anthropic - זה סימן לשוק כולו. כשחברת AI מגייסת בהיקף כזה, זה מושך הון לתוך הסקטור כולו, מעלה את רף ההערכות גם לחברות אחרות, ומגביר את הלחץ על Nvidia, Google ו-Microsoft להראות שהן ממשיכות להוביל. שווה לעקוב מחר.",
+      "importance": 10,
+      "topics": [
+        "IPO",
+        "AI",
+        "פיננסים"
+      ],
+      "tag": "ארה\"ב"
+    },
     {
       "title": "How high must interest rates go to cool inflation? Possibly 100 basis points or more, Fed’s Waller says.",
       "source": "MarketWatch",
@@ -159,45 +172,6 @@
         "אינפלציה"
       ],
       "tag": "ארה\"ב"
-    },
-    {
-      "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "בנק אמריקה לא מוריד מהשולחן העלאת ריבית של חצי אחוז בדצמבר. זה נשמע כמו פרט טכני, אבל ההשלכות רחבות: אם הפד יחזור להאצה, אג\"ח קצרות יחזרו ל-5% תשואה, ומניות צמיחה יקבלו עוד לחץ. מה שמעניין יותר - שוק הנדל\"ן, שכבר נושם בכבדות, יתקשה עוד יותר. ריבית גבוהה לאורך זמן היא לא רק כאב ראש למשקיעים - היא משנה את כל חישובי הכדאיות הכלכלית.",
-      "importance": 8,
-      "topics": [
-        "ריבית",
-        "פד",
-        "אג\"ח"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-      "summary": "נשמע שזו הכתבה על אירוע ה-CrowdStrike מיולי 2024 - אבל מאחר שאין לי תאריך ספציפי בפרטים שסיפקת, אנסח על בסיס מה שיש.\n\n---\n\nביום אחד השתקו בנקים, חברות תעופה, סוכנויות ממשלתיות ו-Apple - כולם בבת אחת. לא מתקפת סייבר, אלא עדכון תוכנה אחד שהתפשט דרך תשתית משותפת והפיל מערכות קריטיות ברחבי העולם.\n\nזה מדגים בדיוק את הסיכון שפחות מדברים עליו: ככל שיותר חברות מסתמכות על אותן שכבות טכנולוגיה, נקודת כשל אחת הופכת לאסון גלובלי. בעידן ה-AI, התלות הזו רק הולכת לגדול.",
-      "importance": 8,
-      "topics": [
-        "תשתיות דיגיטליות",
-        "סיכון מערכתי",
-        "AI"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
-      "source": "CNBC World",
-      "url": "",
-      "summary": "תעשיית מרכזי הנתונים בדרום-מזרח אסיה צמחה בקצב מהיר בשנים האחרונות - ומי שהניע חלק גדול מהביקוש היו חברות סיניות שחיפשו גישה לשבבי AI מתקדמים מחוץ לסין. עכשיו ארה\"ב שמה את הרגל בדלת: כל מרכז נתונים באזור שרוצה לרכוש שבבים מתקדמים יצטרך אישור אמריקני מראש.\n\nזה לא רק בעיה של בוני מרכזי הנתונים עצמם. זה ישפיע על NVIDIA שמכרה לשם בהיקפים גדולים, על ספקיות תשתית ענן שמתרחבות לאזור, ועל חברות טכנולוגיה סיניות שבנו את תוכניות ה-AI שלהן סביב הגישה הזו.",
-      "importance": 8,
-      "topics": [
-        "מרכזי נתונים",
-        "וטו טכנולוגי",
-        "שרשרת אספקה"
-      ],
-      "tag": "גלובלי"
     },
     {
       "title": "Analysts are cautiously optimistic on Nvidia after earnings call",
@@ -263,6 +237,32 @@
         "שוק הון"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "פורד התחילה לייצר תאי סוללות בארה\"ב - אבל הטכנולוגיה מגיעה מ-CATL, יצרנית הסוללות הסינית הגדולה בעולם.\n\nזה מהלך מחושב: פורד מקבלת גישה לטכנולוגיה הסינית המתקדמת בלי להיות תלויה בייצור סיני. מבחינת הגיאופוליטיקה - זה בדיוק קו הגבול שוושינגטון מנסה לשרטט.\n\nמי שיושפע בשקט: יצרניות הסוללות הקוריאניות כמו LG ו-Samsung SDI, שהיו עד כה הספקיות הטבעיות של חברות הרכב האמריקניות.",
+      "importance": 8,
+      "topics": [
+        "תעופה",
+        "גיאופוליטיקה",
+        "שרשרת אספקה"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "המניה של Target קפצה 7% אחרי שהחברה פרסמה את קצב הצמיחה הטוב ביותר שלה בחמש שנים - והעלתה את התחזית שלה קדימה. זה לא סתם רבעון טוב: Target נלחמת על חזרה לרלוונטיות מזה כמה שנים, ונראה שמשהו מתחיל לעבוד. מה שמעניין פה הוא הסיפור הרחב יותר - הצרכן האמריקאי ממשיך להוציא כסף, אבל הוא בוחר היכן. קמעונאים שלא עמדו בציפיות לאחרונה, כמו Walmart ו-Amazon, יתחילו לחוש את הלחץ.",
+      "importance": 8,
+      "topics": [
+        "קמעונאות",
+        "צרכנות",
+        "הכנסות"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
@@ -293,30 +293,17 @@
       "published": "2026-11-18T14:30:00-05:00"
     },
     {
-      "title": "גוגל הופכת את הסוכנים שלה לחינמיים",
+      "title": "מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/google-gemini-spark-tasks-free-launch/",
-      "summary": "בא לכם עוזר אישי שמתקשר למוסך, בודק למה חשבון החשמל שלכם קפץ לשמיים וגם קונה לכם קורנפלקס על הדרך? גוגל לוקחת את סוכן ה-AI שלה צעד אחד קדימה, משנה לו את השם, והכי חשוב: פותחת אותו לכולם לגמרי בחינם. הנה כל מה שאתם צריכים לדעת על המהלך החדש שמאיים לבלוע את המתחרות כמו אינסטינקט, Muse של […] The post גוגל הופכת את הסוכנים שלה לחינמיים appeared first on גיקטיים .",
+      "url": "https://www.geektime.co.il/microsoft-nadella-explains-60k-employees-buyout-ai/",
+      "summary": "בחודש אוקטובר האחרון, מיקרוסופט הטילה פצצה בעולם הטכנולוגיה כשהציעה ל-60 אלף עובדים – כמעט 30% מסך העובדים בחברה – להתפטר במסגרת של חבילות פרישה מרצון. על פניו זה הריח כמו גל פיטורים שקט, כמעט מנומס של החברה, אבל עכשיו המנכ\"ל סאטיה נאדלה מסביר את המהלך. אמ;לק: זה ה-AI, אבל לא בקטע של \"הרובוטים מחליפים אותנו\", […] The post מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר appeared first on גיקט",
       "importance": 8,
       "topics": [
-        "AI",
-        "Google",
-        "סוכנים אוטונומיים"
+        "Microsoft",
+        "פיטורים",
+        "AI"
       ],
-      "published": "Wed, 18 Nov 2026 08:55:38 +0000"
-    },
-    {
-      "title": "בזמן שישנתם: חולשת אבטחה קריטית ב-Java. לכו לעדכן",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/java4shell-cve-2026-114938-critical-vulnerability/",
-      "summary": "זוכרים את Log4j? התגעגעתם? אה לא? ובכן, חבל. תגידו שלום ל-Java4Shell, חולשת אבטחה קריטית (CVE-2026-114938) במפענח ה-Base64 של OpenJDK. על פי חוקרי חברת Calif, שגילו את החולשה, היא מאפשרת הרצת קוד מרחוק ללא צורך באימות על שרתים עם מעבדי x86-64 שתומכים ב-AVX-512. המערכות הפגיעות כוללות כלים פופולריים בחברות טק כמו Jira ו-Jenkins שמריצים Java 17 […] The post בזמן שישנתם: חולשת אבטחה קריטית ב-Java. לכ",
-      "importance": 8,
-      "topics": [
-        "אבטחת סייבר",
-        "Java",
-        "חולשות אבטחה"
-      ],
-      "published": "Wed, 18 Nov 2026 06:46:22 +0000"
+      "published": "Thu, 19 Nov 2026 09:35:10 +0000"
     },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -326,8 +313,8 @@
       "importance": 7,
       "topics": [
         "Microsoft",
-        "הנהלה",
-        "AI"
+        "AI",
+        "ניהול"
       ],
       "published": "Thu, 19 Nov 2026 00:42:56 +0000"
     },
@@ -340,9 +327,22 @@
       "topics": [
         "AI",
         "agents",
-        "אסטרטגיה"
+        "מודלים עסקיים"
       ],
       "published": "Wed, 18 Nov 2026 22:58:11 +0000"
+    },
+    {
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "importance": 7,
+      "topics": [
+        "אבטחת סייבר",
+        "AI",
+        "הגנה"
+      ],
+      "published": "Wed, 18 Nov 2026 21:34:13 +0000"
     },
     {
       "title": "The nation’s largest school districts consider ditching Google Search",
@@ -351,9 +351,9 @@
       "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]",
       "importance": 7,
       "topics": [
+        "AI",
         "Google",
-        "אנטי-טראסט",
-        "חינוך"
+        "רגולציה"
       ],
       "published": "2026-11-18T18:18:35-05:00"
     },
@@ -364,9 +364,9 @@
       "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
       "importance": 7,
       "topics": [
-        "מיקרוסופט",
+        "Windows",
         "אבטחה",
-        "Windows"
+        "Microsoft"
       ],
       "published": "Wed, 18 Nov 2026 20:41:12 +0000"
     }
