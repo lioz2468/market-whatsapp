@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-11-18T11:26:05.403355+00:00",
+  "generated_at": "2026-11-19T06:45:12.641336+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+      "summary": "President Trump will meet with Russian President Vladimir Putin and Chinese President Xi on Thursday for a historic three-way meeting.",
+      "importance": 9,
+      "topics": [
+        "דיפלומטיה",
+        "רוסיה",
+        "סין"
+      ],
+      "published": "Wed, 18 Nov 2026 06:57:10 -0500"
+    },
     {
       "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
       "source": "NPR World",
@@ -10,8 +23,8 @@
       "importance": 9,
       "topics": [
         "דיפלומטיה",
-        "אמריקה",
-        "סין"
+        "סין",
+        "ארה״ב"
       ],
       "published": "Wed, 18 Nov 2026 05:32:03 -0500"
     },
@@ -22,206 +35,128 @@
       "summary": "Russian President Vladimir Putin will meet Thursday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
       "importance": 9,
       "topics": [
+        "דיפלומטיה",
         "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
+        "רוסיה"
       ],
       "published": "Wed, 18 Nov 2026 04:43:28 -0500"
     },
     {
-      "title": "שטיח אדום וחיבוק משי ג'ינפינג: קבלת פנים חריגה לטראמפ בסין לפני הפסגה עם פוטין | צפו",
+      "title": "נתניהו דוחף למערכה \"אגרסיבית\" של 7-4 ימים באיראן, טראמפ מתלבט | דיווח",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/b1cl01s0fg",
-      "summary": "נשיא ארה\"ב נחת בשנזן וזכה למחווה דיפלומטית נדירה: נשיא סין הגיע בעצמו לנמל התעופה כדי לקבל את פניו, והשניים התחבקו על השטיח האדום. מוקדם יותר נפגשו שי ופוטין למשך יותר משעתיים וקראו לקידום \"סדר עולמי רב-קוטבי\" (\"מעצמות המערב - ההגמונים לשעבר\"), מחר תתקיים הפסגה המשולשת שבמוקד שלה איראן והנשק הגרעיני. לפני שהמריא לסין הספיק טראמפ לפגוש ידידה ותיקה: \"פרפר הברזל\" בת ה-97, אלמנתו המיתולוגית של רודן הפ",
+      "url": "https://www.ynet.co.il/news/article/sjlfpsorfx",
+      "summary": "\"ניו יורק טיימס\": רה\"מ דוחף לצאת \"מהר\" למערכה משותפת, בעוד נשיא ארה\"ב שוקל ולוקח בחשבון את המידע המודיעיני - שלגבי \"חוזקו\" חלוקים בממשל. בסיסים אמריקניים פונו, לישראל הועברה עוד סוללת פטריוט. המידע שהועבר על נשק כימי, האיום של טראמפ - ויעדי התקיפה הישראליים שהוא לא אישר להפציץ",
       "importance": 9,
+      "topics": [
+        "ישראל",
+        "איראן",
+        "ארה״ב"
+      ],
+      "published": "Thu, 19 Nov 2026 03:45:14 +0200"
+    },
+    {
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "importance": 8,
+      "topics": [
+        "בורמה",
+        "רוהינגיה",
+        "דין בינלאומי"
+      ],
+      "published": "Wed, 18 Nov 2026 23:04:06 GMT"
+    },
+    {
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "עזה",
+        "קיסום"
+      ],
+      "published": "Wed, 18 Nov 2026 22:34:56 GMT"
+    },
+    {
+      "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
+      "summary": "World court to issue key verdict in its first genocide ruling in more than a decade.",
+      "importance": 8,
+      "topics": [
+        "בית הדין הבינלאומי",
+        "מיאנמר",
+        "זכויות אדם"
+      ],
+      "published": "Thu, 19 Nov 2026 05:13:13 +0000"
+    },
+    {
+      "title": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+      "summary": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
+      "importance": 8,
       "topics": [
         "דיפלומטיה",
         "סין",
-        "רוסיה"
+        "ארה\"ב-רוסיה"
       ],
-      "published": "Wed, 18 Nov 2026 13:15:59 +0200"
+      "published": "Thu, 19 Nov 2026 03:30:26 +0000"
     },
     {
-      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-      "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
+      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+      "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
       "importance": 8,
       "topics": [
-        "איראן",
-        "בחריין",
-        "ביטחון"
+        "גיאופוליטיקה",
+        "סין",
+        "ארה״ב"
       ],
-      "published": "Tue, 17 Nov 2026 13:34:31 -0500"
+      "published": "Thu, 19 Nov 2026 03:01:27 +0000"
     },
     {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+      "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
       "importance": 8,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "קונפליקט"
+        "גיאופוליטיקה",
+        "ארה״ב",
+        "סין"
       ],
-      "published": "Tue, 17 Nov 2026 21:24:35 GMT"
-    },
-    {
-      "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
-      "summary": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling behind on climate technologies.",
-      "importance": 7,
-      "topics": [
-        "אקלים",
-        "סין",
-        "אמריקה"
-      ],
-      "published": "Wed, 18 Nov 2026 05:00:00 -0500"
-    },
-    {
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-      "importance": 7,
-      "topics": [
-        "סין",
-        "אמריקה",
-        "טכנולוגיה"
-      ],
-      "published": "Tue, 17 Nov 2026 23:02:12 GMT"
-    },
-    {
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "פלסטינים",
-        "הסכסוך"
-      ],
-      "published": "Tue, 17 Nov 2026 20:30:20 GMT"
-    },
-    {
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "importance": 7,
-      "topics": [
-        "בריאות",
-        "מחלות",
-        "USA"
-      ],
-      "published": "Tue, 17 Nov 2026 21:04:00 GMT"
-    },
-    {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "importance": 7,
-      "topics": [
-        "USA",
-        "בריטניה",
-        "מודיעין"
-      ],
-      "published": "Tue, 17 Nov 2026 22:46:30 GMT"
+      "published": "Thu, 19 Nov 2026 02:57:19 +0000"
     }
   ],
   "business": [
     {
-      "title": "End of US aid leaves $31b budget hole",
-      "source": "גלובס כללי",
-      "url": "https://en.globes.co.il/en/article-1001563744#utm_source=RSS",
-      "summary": "פער של 31 מיליארד דולר - זה מה שנשאר כשמסירים את הסיוע האמריקני מהתמונה.\n\nישראל התחייבה לרכישות ביטחוניות בארה\"ב בהנחה שהסיוע ימשיך לזרום. עכשיו, כשזה לא בטוח, צריך לממן את זה מאיפשהו - ובמספרים: זה שווה ערך לעלייה של 1.5% במע\"מ.\n\nמה שפחות ברור: חור כזה בתקציב הביטחון לא נשאר שם - הוא מתגלגל לתקציבים אחרים, מה שאומר פחות כסף לחינוך, בריאות ותשתיות. לא חדשות מחר, אבל שווה לעקוב איך הממשלה מתכננת לסגור את הפער.",
+      "title": "How high must interest rates go to cool inflation? Possibly 100 basis points or more, Fed’s Waller says.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
+      "summary": "ריבית של 100 נקודות בסיס או יותר - כך דיבר הבוקר כריסטופר וולר מהפד, וזה לא סתם ניסוח. הוא השתמש במילה \"shock\" - להלם את האינפלציה החוצה מהמערכת. זה אומר שחלק מהפד מוכן להיות אגרסיבי הרבה יותר ממה שהשוק מתמחר כרגע. ההשפעה לא נשארת בארה\"ב - עליית ריבית חדה מחזקת את הדולר, מייקרת חוב של שווקים מתעוררים, ומורידה את האטרקטיביות של מניות צמיחה בכל מקום. שווה לשים לב לאיך השוק מגיב בימים הקרובים.",
       "importance": 9,
       "topics": [
-        "תקציב ממלכתי",
-        "פיתוח ביטחוני",
-        "סיכון כלכלי"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "Bank of America Says US Rates Will Rise ‘Until Activity Cools’",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/bank-of-america-says-us-rates-will-rise-until-activity-cools",
-      "summary": "בנק אוף אמריקה אומר שהריבית בארה\"ב תמשיך לעלות - כל עוד הכלכלה לא מראה סימני האטה.\n\nזה לא רק עניין של הפד. ריבית גבוהה לאורך זמן אומרת: אג\"ח מתייקרות, מניות טק מקבלות לחץ כלפי מטה, ועלויות המימון של חברות עולות. הישראלים שמשקיעים בקרנות אמריקאיות או בנדל\"ן - זה משפיע גם עליהם, גם אם זה לא נראה מיידי.\n\nהשורה התחתונה: הפד לא גמר את העבודה שלו.",
-      "importance": 9,
-      "topics": [
+        "פד",
         "ריבית",
-        "מדיניות מוניטרית",
-        "אקונומיה"
+        "אינפלציה"
       ],
-      "tag": "גלובלי"
+      "tag": "ארה\"ב"
     },
     {
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "source": "TechCrunch",
-      "url": "",
-      "summary": "הזרוע של DeepMind לגילוי תרופות באמצעות AI גייסה 5 מיליארד דולר בסבב C - אחד הסבבים הגדולים בהיסטוריה של ביוטק. Isomorphic Labs עברה משלב המחקר לניסויים קליניים בבני אדם, וזה שינוי משמעותי.\n\nמה שמעניין פה מעבר לסכום: אם AI באמת מקצר את זמן הפיתוח מ-10-15 שנה לשנים בודדות, חברות פארמה מסורתיות עם צינורות פיתוח ארוכים נמצאות תחת לחץ אמיתי - וגם CRO-ים (חברות שמנהלות ניסויים קליניים) ירגישו את זה.",
+      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "summary": "נגיד פד בכיר, וולר, אמר היום שהבנק המרכזי אולי צריך \"להלם את השוק\" עם העלאת ריבית של חצי אחוז בבת אחת. זה לא סתם דיבורים - הציפייה עד לאחרונה הייתה להעלאות הדרגתיות של רבע אחוז, וחצי אחוז בפגישה אחת זה מהלך אגרסיבי שלא ראינו מזמן.\n\nההשפעות העקיפות שווה לשים לב אליהן: איגרות חוב ארוכות טווח יקבלו לחץ, וחברות צמיחה שמחזיקות חוב זול - במיוחד בטכנולוגיה - עלולות לראות את המכפילים שלהן מתכווצים מהר.",
       "importance": 9,
       "topics": [
-        "AI",
-        "תרופות",
-        "בריאות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Deutsche Bank Shares Drop After Wide-Ranging Whistleblower Leaks",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "מניית Deutsche Bank ירדה היום אחרי שדלפו מסמכים פנימיים שחושפים כנראה שהבנק טיפח קשרים עם אוליגרכים רוסים - וניסה להרחיב את פעילותו ברוסיה ממש לפני הפלישה לאוקראינה ב-2022.\n\nזה לא רק סיפור של בנק אחד. כשיוצאים דיווחים כאלה, המשקיעים מתחילים לבדוק גם מוסדות פיננסיים אחרים עם חשיפה היסטורית למזרח אירופה. ורגולטורים באירופה ובארה\"ב - שכבר עם האצבע על ההדק בנושא סנקציות - יתחילו לשאול שאלות גם לאחרים.",
-      "importance": 8,
-      "topics": [
-        "בנקאות",
-        "סיכון רגולטורי",
-        "אירופה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "דוחות ה-13F לרבעון השלישי חשפו שמנהלי קרנות גדולים כמו Tepper ו-Loeb הגדילו חשיפה ל-Nvidia ולמניות הטכנולוגיה הגדולות - בדיוק לפני שהמניות האלה צנחו חדות באוקטובר. זה מזכיר כמה קשה לתזמן שוק, אפילו עבור הטובים ביותר.\n\nמה שמעניין פה: דוחות ה-13F הם תמיד תמונת עבר - הם מראים פוזיציות מסוף ספטמבר, כשהאופטימיות סביב ה-AI הייתה בשיאה. מי שיושפע מזה מעבר לקרנות עצמן הם המשקיעים הפרטיים שמחקים את המהלכים של \"החכמים\" - והסיפור הזה מזכיר למה כדאי להיזהר מלעשות את זה.",
-      "importance": 8,
-      "topics": [
-        "בורסה",
-        "טכנולוגיה",
-        "משקיעים מוסדיים"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "Nvidia מזהירה את לקוחותיה מסכנות משפטיות - מי שמוכר מחדש את הצ'יפים שלה לסין עלול למצוא את עצמו בצרות רגולטוריות רציניות. זה לא אזהרה סתם: משרד המסחר האמריקאי מהדק את בקרות הייצוא, ו-Nvidia מכסה על עצמה מראש.\n\nמה שמעניין פה: הלחץ עובר עכשיו לקונים עצמם - חברות ענן, מתווכים, אפילו חברות שרק קונות שרתים. ההשפעה העקיפה על שרשרת האספקה של בינה מלאכותית עלולה להיות גדולה הרבה יותר ממה שנראה על פני השטח.",
-      "importance": 8,
-      "topics": [
-        "רגולציה",
-        "טכנולוגיה",
-        "וסחר בינלאומי"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
-      "summary": "NVIDIA דיווחה על רבעון חזק במיוחד עם תחזית הכנסות של 130 מיליארד דולר לרבעון הבא - מספר שמשתיק כמעט כל חשש לגבי מעבר ההנהגה מ-Jensen Huang.\n\nהביקוש לשבבים נשאר עצום, וזה לא רק סיפור של NVIDIA: חברות כמו AMD ו-Intel נמדדות עכשיו על הרף שהיא קובעת, וכל מי שמספק לה חומרים, אריזות שבבים או תשתיות מרכזי נתונים - נהנה מהגל הזה. שווה לשים לב גם לספקיות החשמל והקירור - הן חלק מהסיפור הזה יותר ממה שנראה.",
-      "importance": 8,
-      "topics": [
-        "Nvidia",
-        "AI",
-        "צ'יפים"
+        "פד",
+        "ריבית",
+        "אינפלציה"
       ],
       "tag": "ארה\"ב"
     },
@@ -263,110 +198,177 @@
         "שרשרת אספקה"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Analysts are cautiously optimistic on Nvidia after earnings call",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-q3-earnings-analyst-reaction.html",
+      "summary": "Nvidia העלתה את תחזית ההכנסות שלה והשוק קיבל את זה בזהירות אופטימית. שני הדברים שהמשקיעים רצו לראות היו שם - מספרים טובים ובהירות על ההנהלה. הסיפור המעניין יותר הוא מה שקורה מתחת לפני השטח: כל חברה שמוכרת כלים לאימון מודלי AI - ממעבדים ועד ציוד מרכזי נתונים - נוסעת על אותו גל. הסיכון האמיתי עכשיו הוא הביקורת הרגולטורית על עסקאות בתחום, שיכולה לבלום חלק מהמומנטום.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "טכנולוגיה",
+        "ניידאות טכנולוגית"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Credit Chiefs Warn of ‘Fear Factor’ as Debt Reprices All at Once",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "שוקי החוב עוברים תמחור מחדש בו-זמנית בכל הסגמנטים - וראשי האשראי הגדולים מזהירים שזה עוד לא נגמר.\n\nכל עוד הריבית נשארת גבוהה, לווים חלשים יותר - חברות עם מינוף גבוה, דירוג נמוך או תזרים לא יציב - מתקשים לגלגל את החוב שלהם בתנאים סבירים. זה לא רק בעיה של המגזר הפיננסי: ספקים, שוכרי נדל\"ן מסחרי וחברות שתלויות באשראי זול - כולם ירגישו את זה, חלקם כבר מרגישים.\n\nשווה לשים לב לאיך זה מתגלגל לחברות שנראו יציבות על הנייר.",
+      "importance": 8,
+      "topics": [
+        "אשראי",
+        "ריבית",
+        "חוב"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "The AI power scramble is in full force. Which companies really stand to profit?",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "המירוץ על חשמל לצרכי AI כבר לא רק עניין של ענקיות הטק - הוא הפך לאחת מהזדמנויות הצמיחה הכי מעניינות בתשתיות. החברות הגדולות חותמות על הסכמים עם ספקי חשמל מסורתיים, אבל הכסף האמיתי לא תמיד נמצא שם. חברות כמו יצרניות טורבינות גז, ספקיות ציוד לרשתות חשמל ואפילו חברות קירור תעשייתי - כולן נמצאות בלב הסיפור הזה. מי שמסתכל רק על Nvidia ו-Microsoft מפספס חצי מהתמונה.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "אנרגיה",
+        "השקעות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Stock Market Today: Nvidia Earnings Fail to Soothe Investors’ Nerves",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "NVIDIA דיווחה על הכנסות שיא והעלתה תחזיות - והמניה ירדה בכל זאת.\n\nזה לא רק תסכול. זה סימן שהרף הציפיות פה הוא כל כך גבוה, שגם תוצאות מצוינות לא מספיקות כדי להרגיע. כשהחברה הכי חשובה בשוק לא מצליחה לספק - זה מדביק. חברות שבכלל לא קשורות ל-AI ירגישו את זה, כי NVIDIA היא כרגע כמו מד החום של כל השוק.",
+      "importance": 8,
+      "topics": [
+        "טכנולוגיה",
+        "מניות",
+        "שוק הון"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "Anthropic מתכוונת להגדיל את היקף ההנפקה שלה אחרי שהביקוש ממשקיעים פרץ את כל הציפיות. המניה תתחיל להיסחר ביום חמישי בנאסד\"ק תחת הסימול ANT.\n\nזו לא סתם הנפקה - Anthropic היא אחת מחברות ה-AI הבודדות שמתחרות ישירות ב-OpenAI. הביקוש הגבוה מראה עד כמה המוסדיים רוצים חשיפה ל-AI, וזה עשוי לפתוח את הדרך להנפקות נוספות של חברות AI שחיכו לראות איך זה עובר.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "IPO",
+        "שוק הון"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
       "importance": 9,
       "topics": [
-        "NVIDIA",
-        "רגולציה",
-        "אנטי-טראסט"
+        "Anthropic",
+        "IPO",
+        "AI"
       ],
-      "published": "Tue, 17 Nov 2026 21:48:07 +0000"
+      "published": "Wed, 18 Nov 2026 22:11:15 +0000"
     },
     {
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "importance": 8,
-      "topics": [
-        "NVIDIA",
-        "שבבים"
-      ],
-      "published": "Wed, 18 Nov 2026 00:16:50 +0000"
-    },
-    {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "title": "Nvidia’s rise, visualized",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of […]",
       "importance": 8,
       "topics": [
         "NVIDIA",
         "שבבים",
-        "סחר בין-לאומי"
+        "AI"
       ],
-      "published": "Tue, 17 Nov 2026 23:37:48 +0000"
+      "published": "2026-11-18T14:30:00-05:00"
     },
     {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "title": "גוגל הופכת את הסוכנים שלה לחינמיים",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/google-gemini-spark-tasks-free-launch/",
+      "summary": "בא לכם עוזר אישי שמתקשר למוסך, בודק למה חשבון החשמל שלכם קפץ לשמיים וגם קונה לכם קורנפלקס על הדרך? גוגל לוקחת את סוכן ה-AI שלה צעד אחד קדימה, משנה לו את השם, והכי חשוב: פותחת אותו לכולם לגמרי בחינם. הנה כל מה שאתם צריכים לדעת על המהלך החדש שמאיים לבלוע את המתחרות כמו אינסטינקט, Muse של […] The post גוגל הופכת את הסוכנים שלה לחינמיים appeared first on גיקטיים .",
       "importance": 8,
       "topics": [
-        "NVIDIA",
-        "הנהלה"
-      ],
-      "published": "Tue, 17 Nov 2026 22:42:27 +0000"
-    },
-    {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "importance": 8,
-      "topics": [
-        "IPO",
         "AI",
-        "Anthropic"
+        "Google",
+        "סוכנים אוטונומיים"
       ],
-      "published": "Tue, 17 Nov 2026 22:29:05 +0000"
+      "published": "Wed, 18 Nov 2026 08:55:38 +0000"
     },
     {
-      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice […]",
+      "title": "בזמן שישנתם: חולשת אבטחה קריטית ב-Java. לכו לעדכן",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/java4shell-cve-2026-114938-critical-vulnerability/",
+      "summary": "זוכרים את Log4j? התגעגעתם? אה לא? ובכן, חבל. תגידו שלום ל-Java4Shell, חולשת אבטחה קריטית (CVE-2026-114938) במפענח ה-Base64 של OpenJDK. על פי חוקרי חברת Calif, שגילו את החולשה, היא מאפשרת הרצת קוד מרחוק ללא צורך באימות על שרתים עם מעבדי x86-64 שתומכים ב-AVX-512. המערכות הפגיעות כוללות כלים פופולריים בחברות טק כמו Jira ו-Jenkins שמריצים Java 17 […] The post בזמן שישנתם: חולשת אבטחה קריטית ב-Java. לכ",
       "importance": 8,
       "topics": [
-        "Nvidia",
-        "שינוי הנהלה",
-        "משבר"
+        "אבטחת סייבר",
+        "Java",
+        "חולשות אבטחה"
       ],
-      "published": "2026-11-17T17:32:50-05:00"
+      "published": "Wed, 18 Nov 2026 06:46:22 +0000"
     },
     {
-      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
-      "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation […]",
-      "importance": 8,
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "importance": 7,
       "topics": [
-        "Nvidia",
-        "שינוי הנהלה",
-        "משבר"
+        "Microsoft",
+        "הנהלה",
+        "AI"
       ],
-      "published": "2026-11-17T17:05:05-05:00"
+      "published": "Thu, 19 Nov 2026 00:42:56 +0000"
     },
     {
-      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "agents",
+        "אסטרטגיה"
+      ],
+      "published": "Wed, 18 Nov 2026 22:58:11 +0000"
+    },
+    {
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]",
+      "importance": 7,
+      "topics": [
+        "Google",
+        "אנטי-טראסט",
+        "חינוך"
+      ],
+      "published": "2026-11-18T18:18:35-05:00"
+    },
+    {
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
-      "importance": 8,
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "importance": 7,
       "topics": [
-        "AI",
-        "רגולציה",
-        "OpenAI"
+        "מיקרוסופט",
+        "אבטחה",
+        "Windows"
       ],
-      "published": "Tue, 17 Nov 2026 18:13:34 +0000"
+      "published": "Wed, 18 Nov 2026 20:41:12 +0000"
     }
   ]
 }
