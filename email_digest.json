@@ -1,32 +1,19 @@
 {
-  "generated_at": "2026-11-20T06:45:06.299010+00:00",
+  "generated_at": "2026-11-20T11:13:55.882291+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-      "summary": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
-      "importance": 9,
-      "topics": [
-        "טראמפ",
-        "שיוטין",
-        "שי ג'ינפינג"
-      ],
-      "published": "Thu, 19 Nov 2026 04:44:40 -0500"
-    },
-    {
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+      "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+      "summary": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
       "importance": 9,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "קרימיה"
+        "מלחמה"
       ],
-      "published": "Thu, 19 Nov 2026 13:07:35 GMT"
+      "published": "Fri, 20 Nov 2026 09:54:00 +0000"
     },
     {
       "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
@@ -37,7 +24,7 @@
       "topics": [
         "מיאנמר",
         "רוהינג'ה",
-        "משפט בינלאומי"
+        "דין בינלאומי"
       ],
       "published": "Thu, 19 Nov 2026 07:29:41 -0500"
     },
@@ -50,61 +37,35 @@
       "topics": [
         "מיאנמר",
         "רוהינג'ה",
-        "משפט בינלאומי"
+        "דין בינלאומי"
       ],
       "published": "Thu, 19 Nov 2026 20:07:02 GMT"
     },
     {
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-      "importance": 8,
-      "topics": [
-        "טראמפ",
-        "פוטין",
-        "שי ג'ינפינג"
-      ],
-      "published": "Thu, 19 Nov 2026 17:38:22 GMT"
-    },
-    {
-      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
-      "importance": 8,
-      "topics": [
-        "וונצואלה",
-        "ארה\"ב",
-        "דיפלומטיה"
-      ],
-      "published": "Thu, 19 Nov 2026 13:31:23 GMT"
-    },
-    {
-      "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
+      "title": "Can the Rohingya genocide verdict deliver justice?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
-      "summary": "For refugees, the ICJ ruling that Myanmar committed genocide is a vindication. But will they be able to return home?",
+      "url": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
+      "summary": "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.",
       "importance": 8,
       "topics": [
         "מיאנמר",
-        "רוהינג'ה",
-        "בית משפט בינלאומי"
+        "זכויות אדם",
+        "בית דין בינלאומי"
       ],
-      "published": "Fri, 20 Nov 2026 05:36:21 +0000"
+      "published": "Fri, 20 Nov 2026 10:45:20 +0000"
     },
     {
-      "title": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
+      "title": "The Gambia stood up for the Rohingya, now the world must act",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
-      "summary": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
+      "summary": "The ICJ has delivered a historic judgement, but justice will depend on what happens next.",
       "importance": 8,
       "topics": [
-        "אוקראינה",
-        "ארה״ב",
-        "דיפלומטיה"
+        "גיאופוליטיקה",
+        "זכויות אדם",
+        "הוראה משפטית"
       ],
-      "published": "Fri, 20 Nov 2026 04:44:53 +0000"
+      "published": "Fri, 20 Nov 2026 07:20:53 +0000"
     },
     {
       "title": "השעון מתקתק: לוחות הזמנים לתקיפה באיראן - והמרוץ שלה לחסינות צבאית",
@@ -115,38 +76,64 @@
       "topics": [
         "איראן",
         "ישראל",
-        "ביטחון"
+        "ארה\"ב"
       ],
       "published": "Fri, 20 Nov 2026 06:11:45 +0200"
     },
     {
-      "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-      "summary": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
+      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
       "importance": 7,
       "topics": [
-        "איראן",
-        "מפרץ פרסי",
-        "ביטחון ימי"
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
       ],
-      "published": "Thu, 19 Nov 2026 04:46:24 -0500"
+      "published": "Fri, 20 Nov 2026 11:08:40 GMT"
+    },
+    {
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "שיום"
+      ],
+      "published": "Fri, 20 Nov 2026 00:50:24 GMT"
+    },
+    {
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+      "importance": 7,
+      "topics": [
+        "משבר הגירה",
+        "אפריקה",
+        "אסון"
+      ],
+      "published": "Thu, 19 Nov 2026 15:52:26 GMT"
+    },
+    {
+      "title": "Pakistan minister visits India for first time since 2025 war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
+      "summary": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
+      "importance": 7,
+      "topics": [
+        "דרום אסיה",
+        "דיפלומטיה",
+        "הודו-פקיסטן"
+      ],
+      "published": "Fri, 20 Nov 2026 09:11:57 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "summary": "Anthropic הונפקה בשווי של יותר מ-81 מיליארד דולר - ה-IPO הגדול בהיסטוריה, שעקף אפילו את SpaceX. המניה תתחיל להיסחר ב-Nasdaq מחר תחת הסימול ANT.\n\nזה לא רק אירוע חגיגי ל-Anthropic - זה סימן לשוק כולו. כשחברת AI מגייסת בהיקף כזה, זה מושך הון לתוך הסקטור כולו, מעלה את רף ההערכות גם לחברות אחרות, ומגביר את הלחץ על Nvidia, Google ו-Microsoft להראות שהן ממשיכות להוביל. שווה לעקוב מחר.",
-      "importance": 10,
-      "topics": [
-        "IPO",
-        "AI",
-        "פיננסים"
-      ],
-      "tag": "ארה\"ב"
-    },
     {
       "title": "ANTHROPIC $ANT SHARES ARE NOW TRADING ON NASDAQ AFTER THE BIGGEST IPO IN HISTORY. OPENED AT $111.5, UP 34.3% FROM ITS $83 IPO PRICE. FULLY DILUTED VALUATION: $2.02 TRILLION RAISED $81.34B IN THE IPO, OR $107.34B INCLUDING A SEPARATE $26B PRIVATE PLACEMENT. https://t.co/u7fVk2lfL7",
       "source": "Twitter @wallstengine",
@@ -215,28 +202,29 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
+      "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
       "source": "CNBC Top News",
-      "url": "",
-      "summary": "פורד התחילה לייצר תאי סוללות בארה\"ב - אבל הטכנולוגיה מגיעה מ-CATL, יצרנית הסוללות הסינית הגדולה בעולם.\n\nזה מהלך מחושב: פורד מקבלת גישה לטכנולוגיה הסינית המתקדמת בלי להיות תלויה בייצור סיני. מבחינת הגיאופוליטיקה - זה בדיוק קו הגבול שוושינגטון מנסה לשרטט.\n\nמי שיושפע בשקט: יצרניות הסוללות הקוריאניות כמו LG ו-Samsung SDI, שהיו עד כה הספקיות הטבעיות של חברות הרכב האמריקניות.",
-      "importance": 8,
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "summary": "אנתרופיק נכנסת לנאסד\"ק עם שווי של 1.8 טריליון דולר - אחד מהאייפיאו הגדולים בהיסטוריה של שוק ההון האמריקאי.\n\nזו לא סתם חברת AI שהולכת לבורסה. אנתרופיק היא המתחרה הישירה של OpenAI, ו-1.8 טריליון זה שווי שמתמחר ניצחון בשוק שעדיין לא הוכרע. למשקיעים המוסדיים שנכנסו - זה הימור על כך ש-Claude הוא הפלטפורמה שתנצח את GPT בעסקים.\n\nמה שפחות ברור: הלחץ שזה שם על מיקרוסופט, שהימרה את הקשה על OpenAI. הפער בין שתי החברות עכשיו הופך לנראה לעין.",
+      "importance": 9,
       "topics": [
-        "תעופה",
-        "גיאופוליטיקה",
-        "שרשרת אספקה"
+        "IPO",
+        "AI",
+        "בורסה"
       ],
       "tag": "ארה\"ב"
     },
     {
-      "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
-      "source": "CNBC World",
-      "url": "",
-      "summary": "המניה של Target קפצה 7% אחרי שהחברה פרסמה את קצב הצמיחה הטוב ביותר שלה בחמש שנים - והעלתה את התחזית שלה קדימה. זה לא סתם רבעון טוב: Target נלחמת על חזרה לרלוונטיות מזה כמה שנים, ונראה שמשהו מתחיל לעבוד. מה שמעניין פה הוא הסיפור הרחב יותר - הצרכן האמריקאי ממשיך להוציא כסף, אבל הוא בוחר היכן. קמעונאים שלא עמדו בציפיות לאחרונה, כמו Walmart ו-Amazon, יתחילו לחוש את הלחץ.",
-      "importance": 8,
+      "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+      "summary": "נוידיה איבדה 669 מיליארד דולר בשווי שוק תוך שישה ימי מסחר בלבד. לשם השוואה - יש בעולם רק 20 חברות שכל שווין גבוה מהסכום הזה. זה לא רק תיקון של מניה אחת: כשנוידיה יורדת בחדות, היא מושכת איתה את כל שרשרת ה-AI - ספקיות שרתים, יצרניות זיכרון, חברות ענן. שווה לשים לב איפה הרצפה, כי מה שקורה כאן ישפיע על כיוון הסקטור כולו.",
+      "importance": 9,
       "topics": [
-        "קמעונאות",
-        "צרכנות",
-        "הכנסות"
+        "Nvidia",
+        "AI",
+        "טק",
+        "הון שוק"
       ],
       "tag": "ארה\"ב"
     },
@@ -265,6 +253,20 @@
         "ריבית"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "AMD dives on short seller report of alleged China exposure",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "AMD צנחה ביותר מ-7% אחרי שגוף מכירות בחסר (short seller) טען שקושחה של החברה זוהתה בחברה סינית שנמצאת ברשימה השחורה האמריקאית.\n\nAMD הכחישה ואמרה שהיא פועלת בהתאם לחוק - אבל השוק לא ממש חיכה לפרטים.\n\nזה מעניין כי זה לא עניין של ביצועים עסקיים - זה סיכון רגולטורי. וכשזה הטריגר, גם Intel ו-NVIDIA עלולות להרגיש את זה. המשקיעים שם עוקבים עכשיו מקרוב.",
+      "importance": 8,
+      "topics": [
+        "AMD",
+        "סין",
+        "רגולציה",
+        "סכנה"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
@@ -275,8 +277,8 @@
       "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
       "importance": 9,
       "topics": [
-        "Anthropic",
         "IPO",
+        "Anthropic",
         "AI"
       ],
       "published": "Fri, 20 Nov 2026 00:43:50 +0000"
@@ -295,6 +297,19 @@
       "published": "Thu, 19 Nov 2026 16:59:23 +0000"
     },
     {
+      "title": "ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/anthropic-ipo-is-the-biggest-we-have-ever-seen/",
+      "summary": "לפני קצת פחות מ-6 שנים הוקמה Anthropic על ידי שבעה מייסדים, בהם האחים דניאלה ודריו אמודיי, שעזבו בטריקת דלת את OpenAI, והיום (ה') היא הופכת לחברה ציבורית בהנפקה הכי גדולה בהיסטוריה, וחוצה אף את שווי השוק של 2 טריליון דולר. לא הפסיקו לגייס המפתחת של מודלי קלוד וקלוד קוד החלה להיסחר היום בנאסד\"ק תחת הסימול […] The post ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר appeared first on ",
+      "importance": 9,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "IPO"
+      ],
+      "published": "Thu, 19 Nov 2026 19:08:24 +0000"
+    },
+    {
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
@@ -302,23 +317,36 @@
       "importance": 8,
       "topics": [
         "NVIDIA",
-        "הנהלה",
+        "שינוי הנהלה",
         "שבבים"
       ],
       "published": "Thu, 19 Nov 2026 20:18:49 +0000"
     },
     {
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
       "importance": 8,
       "topics": [
-        "Meta",
-        "AI agents",
-        "אבטחה ופרטיות"
+        "AI",
+        "Apple",
+        "agents"
       ],
-      "published": "Thu, 19 Nov 2026 17:38:40 +0000"
+      "published": "2026-11-19T17:31:41-05:00"
+    },
+    {
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "שבבים",
+        "שוק מניות"
+      ],
+      "published": "2026-11-19T16:59:35-05:00"
     },
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -327,9 +355,9 @@
       "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
       "importance": 7,
       "topics": [
-        "AI agents",
+        "AI",
         "Apple",
-        "תחרות טכנולוגית"
+        "AI agents"
       ],
       "published": "Fri, 20 Nov 2026 00:56:01 +0000"
     },
@@ -341,36 +369,10 @@
       "importance": 7,
       "topics": [
         "AI agents",
-        "Google Gemini",
-        "תחרות טכנולוגית"
+        "Google",
+        "Gemini"
       ],
       "published": "Thu, 19 Nov 2026 18:09:11 +0000"
-    },
-    {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Apple",
-        "AI agents"
-      ],
-      "published": "2026-11-19T17:31:41-05:00"
-    },
-    {
-      "title": "מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/microsoft-nadella-explains-60k-employees-buyout-ai/",
-      "summary": "בחודש אוקטובר האחרון, מיקרוסופט הטילה פצצה בעולם הטכנולוגיה כשהציעה ל-60 אלף עובדים – כמעט 30% מסך העובדים בחברה – להתפטר במסגרת של חבילות פרישה מרצון. על פניו זה הריח כמו גל פיטורים שקט, כמעט מנומס של החברה, אבל עכשיו המנכ\"ל סאטיה נאדלה מסביר את המהלך. אמ;לק: זה ה-AI, אבל לא בקטע של \"הרובוטים מחליפים אותנו\", […] The post מנכ\"ל מיקרוסופט מסביר למה הציע ל-60 אלף עובדים להתפטר appeared first on גיקט",
-      "importance": 7,
-      "topics": [
-        "Microsoft",
-        "AI",
-        "פיטורים"
-      ],
-      "published": "Thu, 19 Nov 2026 09:35:10 +0000"
     }
   ]
 }
