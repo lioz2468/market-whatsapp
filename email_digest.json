@@ -1,378 +1,269 @@
 {
-  "generated_at": "2026-11-20T11:13:55.882291+00:00",
+  "generated_at": "2026-11-21T10:51:14.580477+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "importance": 8,
+      "topics": [
+        "אקלים",
+        "דיפלומטיה בינלאומית",
+        "דלקים מחפרים"
+      ],
+      "published": "Sat, 21 Nov 2026 09:52:11 GMT"
+    },
+    {
+      "title": "Emergency crews in Ukraine hit by a double-tap strike",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
-      "summary": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
-      "importance": 9,
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+      "summary": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
+      "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מלחמה"
+        "קונפליקט"
       ],
-      "published": "Fri, 20 Nov 2026 09:54:00 +0000"
+      "published": "Sat, 21 Nov 2026 07:12:03 +0000"
     },
     {
-      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-      "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
-      "importance": 8,
-      "topics": [
-        "מיאנמר",
-        "רוהינג'ה",
-        "דין בינלאומי"
-      ],
-      "published": "Thu, 19 Nov 2026 07:29:41 -0500"
-    },
-    {
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-      "importance": 8,
-      "topics": [
-        "מיאנמר",
-        "רוהינג'ה",
-        "דין בינלאומי"
-      ],
-      "published": "Thu, 19 Nov 2026 20:07:02 GMT"
-    },
-    {
-      "title": "Can the Rohingya genocide verdict deliver justice?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
-      "summary": "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.",
-      "importance": 8,
-      "topics": [
-        "מיאנמר",
-        "זכויות אדם",
-        "בית דין בינלאומי"
-      ],
-      "published": "Fri, 20 Nov 2026 10:45:20 +0000"
-    },
-    {
-      "title": "The Gambia stood up for the Rohingya, now the world must act",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
-      "summary": "The ICJ has delivered a historic judgement, but justice will depend on what happens next.",
-      "importance": 8,
-      "topics": [
-        "גיאופוליטיקה",
-        "זכויות אדם",
-        "הוראה משפטית"
-      ],
-      "published": "Fri, 20 Nov 2026 07:20:53 +0000"
-    },
-    {
-      "title": "השעון מתקתק: לוחות הזמנים לתקיפה באיראן - והמרוץ שלה לחסינות צבאית",
+      "title": "בישראל נערכים בהגנה גם למתקפת פתע; דיווח: \"בצבא ארה\"ב דוחקים להחליט\"",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14964791",
-      "summary": "בעוד טהרן מעלה את גובה ההימור מול ארה\"ב, ומאיימת על בכירים בממשל טראמפ - בישראל חוששים שחלון ההזדמנויות לתקיפה הולך ונסגר. ברקע המאמצים להקמת ממשלה, במערכת הביטחון עסוקים בבעיית איראן: ככל שהיא תעמיק את מתקניה ותעביר אותם לאזורים מוגנים - כך יגדל הקושי לפגוע בהם בעתיד",
+      "url": "https://www.ynet.co.il/news/article/h1w7ygrrfl",
+      "summary": "נשיא ארה\"ב כינה את האיראנים \"מטורפים שמקשקשים כבר 51 שנה\". לפי שעה, כנראה טרם החליט אם לחדש את המלחמה. בישראל מתכוננים לאפשרות שטהרן תפתיע, אם תגיע למסקנה שתקיפה ישראלית-אמריקנית היא ודאית. וויטקוף וקושנר נועדו עם הקטארים. פייננשל טיימס: בסנטקום חוששים לשרוף זמן וכסף",
       "importance": 8,
+      "topics": [
+        "ישראל",
+        "איראן",
+        "ארה״ב"
+      ],
+      "published": "Sat, 21 Nov 2026 00:20:39 +0200"
+    },
+    {
+      "title": "Trump touts meeting with Xi and Putin but offers little results",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+      "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
+      "importance": 7,
+      "topics": [
+        "דיפלומטיה אמריקאית",
+        "רוסיה",
+        "סין"
+      ],
+      "published": "Fri, 20 Nov 2026 10:00:00 -0500"
+    },
+    {
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Sat, 21 Nov 2026 08:10:25 GMT"
+    },
+    {
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "importance": 7,
+      "topics": [
+        "מדע",
+        "בינה מלאכותית",
+        "מתמטיקה"
+      ],
+      "published": "Fri, 20 Nov 2026 23:08:57 GMT"
+    },
+    {
+      "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+      "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
+      "importance": 7,
       "topics": [
         "איראן",
-        "ישראל",
-        "ארה\"ב"
+        "ארה\"ב",
+        "ביטחון"
       ],
-      "published": "Fri, 20 Nov 2026 06:11:45 +0200"
+      "published": "Sat, 21 Nov 2026 09:30:24 +0000"
     },
     {
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
-      ],
-      "published": "Fri, 20 Nov 2026 11:08:40 GMT"
-    },
-    {
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "שיום"
-      ],
-      "published": "Fri, 20 Nov 2026 00:50:24 GMT"
-    },
-    {
-      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
-      "importance": 7,
-      "topics": [
-        "משבר הגירה",
-        "אפריקה",
-        "אסון"
-      ],
-      "published": "Thu, 19 Nov 2026 15:52:26 GMT"
-    },
-    {
-      "title": "Pakistan minister visits India for first time since 2025 war",
+      "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
-      "summary": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
+      "summary": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
       "importance": 7,
       "topics": [
-        "דרום אסיה",
-        "דיפלומטיה",
-        "הודו-פקיסטן"
+        "הודו",
+        "אסון",
+        "בריאות ציבורית"
       ],
-      "published": "Fri, 20 Nov 2026 09:11:57 +0000"
+      "published": "Sat, 21 Nov 2026 08:48:54 +0000"
+    },
+    {
+      "title": "ירי במגרש בייסבול ומסוקים באוויר: תיעודים דרמטיים ממעצר ברון סמים",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/s1lgkhccze",
+      "summary": "הרשויות במקסיקו הודיעו כי עצרו את פאוסטו איסידרו מסה, המכונה \"צ'אפו איסידרו\" - ראש קרטל סמים במדינת סינלואה, בין 10 המבוקשים הבכירים של ה-FBI. בתיעודים מהמבצע נראה קרב יריות במגרש בייסבול ופעילות מסוקי קרב",
+      "importance": 7,
+      "topics": [
+        "מקסיקו",
+        "אלימות",
+        "סמים"
+      ],
+      "published": "Sat, 21 Nov 2026 12:37:55 +0200"
+    },
+    {
+      "title": "המאהבת של מנכ\"ל אנבידיה הפורש - וקשריה עם צבא סין | תחקיר חדש",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/byrmjsrczg",
+      "summary": "ממצאי תחקיר ה\"ניו יורק טיימס\" חושפים רשת קשרים בין משפחתה של אליס הואנג וחברות שרכשו שבבים של אנבידיה לבין קבלניות ביטחוניות בבעלות ממשלת סין. כ-3.6 מיליארד דולר מכספי ממשלת סין עברו דרך חברות הקשורות לבני משפחתה או מקורביה",
+      "importance": 7,
+      "topics": [
+        "אנבידיה",
+        "סין",
+        "טכנולוגיה"
+      ],
+      "published": "Sat, 21 Nov 2026 02:07:55 +0200"
     }
   ],
   "business": [
     {
-      "title": "ANTHROPIC $ANT SHARES ARE NOW TRADING ON NASDAQ AFTER THE BIGGEST IPO IN HISTORY. OPENED AT $111.5, UP 34.3% FROM ITS $83 IPO PRICE. FULLY DILUTED VALUATION: $2.02 TRILLION RAISED $81.34B IN THE IPO, OR $107.34B INCLUDING A SEPARATE $26B PRIVATE PLACEMENT. https://t.co/u7fVk2lfL7",
-      "source": "Twitter @wallstengine",
-      "url": "https://twitter.com/wallstengine/status/2123458619572383816",
-      "summary": "Anthropic נסחרת עכשיו בנאסד\"ק, ופתחה ב-111.5 דולר - עלייה של 34% ממחיר ההנפקה של 83 דולר. זו ההנפקה הגדולה בהיסטוריה: 107 מיליארד דולר כולל השמה פרטית נפרדת של 26 מיליארד, עם שווי חברה מלא של 2 טריליון דולר.\n\nכדי להבין את הסדר גודל - אמזון שווה כיום 2.3 טריליון. Anthropic הגיעה לשם בלי למכור מוצר אחד לצרכן רגיל.\n\nההשפעה העקיפה מעניינת: הנפקה בסדר גודל כזה מושכת הון ממקומות אחרים - קרנות שמוכרות פוזיציות אחרות כדי להשתתף, ולחברות AI קטנות יותר זה יכול להיות רוח גב או תחרות ישירה על מימון.",
-      "importance": 10,
-      "topics": [
-        "IPO",
-        "AI",
-        "Anthropic",
-        "שוק הון"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Anthropic IPO live updates: Dario and Daniela Amodei to join CNBC in exclusive interview",
+      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
       "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-      "summary": "Anthropic נסחרת היום בנאסד\"ק לראשונה - יצרנית Claude, אחד המתחרים הרציניים ביותר ל-ChatGPT, הפכה לחברה ציבורית.\n\nזה רגע שמגדיר את המחזור הזה: משקיעים מתחילים לקבל מחיר שוק אמיתי לחברות AI - לא רק הערכות ממשקיעים פרטיים. ה-IPO הזה יהיה מדד לשאלה כמה השוק מוכן לשלם על \"AI שני\" שאינו OpenAI.\n\nמי שכדאי לשים לב: חברות כמו Google ו-Amazon, שהשקיעו עמוק ב-Anthropic, ייראו את ההחזר שלהן מתורגם לשווי ציבורי - וזה משפיע על האופן שבו הן ימשיכו להשקיע ב-AI.",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+      "summary": "Anthropic השלימה את ה-IPO הגדול ביותר אי פעם - בדיוק כשהשוק ירד, הסנטימנט נגד AI היה בשפל, ו-Nvidia בקריזה. שלושה גורמים שבדרך כלל הורגים הנפקה, ועדיין היא עברה.\n\nזה אומר משהו על כמה ההון רוצה חשיפה ל-AI ממש עכשיו. ההשפעה העקיפה: חברות AI אחרות שחיכו עם הנפקות יתחילו לחשב מחדש את הטיימינג שלהן - וגם המשקיעים שהימרו שהחלון נסגר.",
       "importance": 9,
       "topics": [
-        "IPO",
-        "AI",
-        "Anthropic"
+        "בינה מלאכותית",
+        "שוקי הון",
+        "טכנולוגיה"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     },
     {
-      "title": "Nvidia Is the Central Bank to AI’s Circular Economy. See Where the Money Goes.",
+      "title": "The Seven Charts That Explain the New Normal for Oil Prices",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nvidia-is-the-central-bank-to-ais-circular-economy-see-where-the-money-goes-da480b61?mod=rss_markets_main",
-      "summary": "יותר מ-293 עסקאות מאז 2023, ותיק השקעות של מעל 100 מיליארד דולר - Nvidia כבר לא רק מוכרת שבבים, היא הפכה למי שמממנת את כל מערכת ה-AI.\n\nהלוגיקה פשוטה: חברות AI מקבלות מימון מ-Nvidia, קונות ממנה שבבים, וה-Nvidia משקיעה שוב בחברות הבאות. מחזור סגור.\n\nמי שלא רואים בזה מייד - ספקי ענן, חברות תוכנה וסטארטאפים שמקבלים כסף Nvidia. הם לא עצמאיים כפי שנראה.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "Nvidia",
-        "השקעות",
-        "שרשרת ערך"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Anthropic Shares Indicated to Open 25% Above IPO",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-indicated-to-open-25-above-ipo-video",
-      "summary": "הצעת המניות של Anthropic תיפתח היום בפרמיה של 25% - אחרי שהחברה גייסה 107 מיליארד דולר, שבר שיא של SpaceX ומוביל ל-שווי של 1.5 טריליון דולר. זה לא סתם IPO גדול. זה רגע שבו ההון המוסדי הגדול בעולם אומר בקול רם: AI היא לא באבל - היא תשתית. מי שיושפע בשקט: חברות ענן שמארחות את המודלים, ספקי אנרגיה לצד חברות שבבים, וכל סטארטאפ AI שעכשיו יתמחר את עצמו מחדש.",
-      "importance": 9,
-      "topics": [
-        "IPO",
-        "AI",
-        "Anthropic"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "TSMC is halting affected Chinese customers' chip orders using 16nm or smaller manufacturing processes unless they obtain U.S. export licenses, following new Commerce Department rules that took effect today, Reuters reports.",
-      "source": "Twitter @wallstengine",
       "url": "",
-      "summary": "TSMC מקפיאה הזמנות שבב מלקוחות סינים על תהליכי ייצור של 16 ננומטר ומטה - אלא אם הם ישיגו רישיון יצוא אמריקאי. הכללים של משרד המסחר האמריקאי נכנסו לתוקף היום.\n\nזה לא רק סין ו-TSMC. כל חברה שמייצרת ציוד מתקדם, בינה מלאכותית או שרתים עם שבבים מתקדמים - ומקבלת רכיבים דרך שרשרת אספקה שעוברת בטייוואן - צריכה לבדוק את עצמה. הרגולציה האמריקאית הפכה לשחקן מרכזי בשוק השבבים הגלובלי.",
-      "importance": 9,
-      "topics": [
-        "רגולציה",
-        "שרשרת אספקה",
-        "צ'יפס"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-      "summary": "אנתרופיק נכנסת לנאסד\"ק עם שווי של 1.8 טריליון דולר - אחד מהאייפיאו הגדולים בהיסטוריה של שוק ההון האמריקאי.\n\nזו לא סתם חברת AI שהולכת לבורסה. אנתרופיק היא המתחרה הישירה של OpenAI, ו-1.8 טריליון זה שווי שמתמחר ניצחון בשוק שעדיין לא הוכרע. למשקיעים המוסדיים שנכנסו - זה הימור על כך ש-Claude הוא הפלטפורמה שתנצח את GPT בעסקים.\n\nמה שפחות ברור: הלחץ שזה שם על מיקרוסופט, שהימרה את הקשה על OpenAI. הפער בין שתי החברות עכשיו הופך לנראה לעין.",
-      "importance": 9,
-      "topics": [
-        "IPO",
-        "AI",
-        "בורסה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-      "summary": "נוידיה איבדה 669 מיליארד דולר בשווי שוק תוך שישה ימי מסחר בלבד. לשם השוואה - יש בעולם רק 20 חברות שכל שווין גבוה מהסכום הזה. זה לא רק תיקון של מניה אחת: כשנוידיה יורדת בחדות, היא מושכת איתה את כל שרשרת ה-AI - ספקיות שרתים, יצרניות זיכרון, חברות ענן. שווה לשים לב איפה הרצפה, כי מה שקורה כאן ישפיע על כיוון הסקטור כולו.",
-      "importance": 9,
-      "topics": [
-        "Nvidia",
-        "AI",
-        "טק",
-        "הון שוק"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "סקטור הטכנולוגיה נראה זול לראשונה מזה שנים - ומניות ההגנה כמו מזון ותרופות נראות יקרות. זה היפוך של הסדר שהכרנו עשור שלם.\n\nמה שקורה פה הוא לא סתם תיקון - זה שינוי מבני. כסף יוצא מהצמיחה ונכנס לסקטורים שאנשים בדרך כלל קונים כשהם מפחדים. ומי שלא חושב על זה: חברות שמוכרות פרסום דיגיטלי, ענן וציוד לדייטה סנטרים - כולן ירגישו את זה.\n\nהשאלה האמיתית היא אם זה שינוי אמיתי בסנטימנט, או שהשוק פשוט מחפש נשימה.",
+      "summary": "נפט ב-85 עד 95 דולר לחבית - זה כנראה \"הנורמל החדש\" לשנים הקרובות, לפחות לפי הסוחרים והאנליסטים שעוקבים אחרי השוק הזה.\n\nזה לא רק מחיר דלק - זה מחדש את כל חישובי הכדאיות של האנרגיה המתחדשת, משפיע על הציפיות לאינפלציה, ומעביר הון מחדש לחברות האנרגיה המסורתית שנמחקו מהתיקים בשנים האחרונות.\n\nמי שלא חושב על חשיפה לאנרגיה - אולי הגיע הזמן לחשוב.",
       "importance": 8,
       "topics": [
-        "בורסה",
-        "טכנולוגיה",
-        "הקצאת הון"
+        "נפט",
+        "מחירים",
+        "אנרגיה"
       ],
       "tag": "גלובלי"
-    },
-    {
-      "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "הכלכלה האמריקאית צומחת בקצב מפתיע - והסיבה האמיתית היא לא מה שרוב האנשים חושבים.\n\nהמנוע הראשי של הצמיחה האמריקאית עובד בתפוקה מלאה, והנתונים מצביעים על כך שיש עוד מקום לרוץ. הדבר המעניין כאן הוא המנגנון: לא גירוי ממשלתי קלאסי, אלא משהו עמוק יותר בצד הייצור והפריון.\n\nההשפעה העקיפה: כלכלה חזקה מהצפוי מסבכת את חשבונות הפד בנושא הורדות ריבית, וגם תומכת בדולר - מה שמשפיע ישירות על כל מי שמחזיק נכסים מחוץ לארה\"ב.",
-      "importance": 8,
-      "topics": [
-        "מקרו כלכלי",
-        "גדילה",
-        "ריבית"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "AMD dives on short seller report of alleged China exposure",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "AMD צנחה ביותר מ-7% אחרי שגוף מכירות בחסר (short seller) טען שקושחה של החברה זוהתה בחברה סינית שנמצאת ברשימה השחורה האמריקאית.\n\nAMD הכחישה ואמרה שהיא פועלת בהתאם לחוק - אבל השוק לא ממש חיכה לפרטים.\n\nזה מעניין כי זה לא עניין של ביצועים עסקיים - זה סיכון רגולטורי. וכשזה הטריגר, גם Intel ו-NVIDIA עלולות להרגיש את זה. המשקיעים שם עוקבים עכשיו מקרוב.",
-      "importance": 8,
-      "topics": [
-        "AMD",
-        "סין",
-        "רגולציה",
-        "סכנה"
-      ],
-      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "importance": 9,
-      "topics": [
-        "IPO",
-        "Anthropic",
-        "AI"
-      ],
-      "published": "Fri, 20 Nov 2026 00:43:50 +0000"
-    },
-    {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "IPO"
-      ],
-      "published": "Thu, 19 Nov 2026 16:59:23 +0000"
-    },
-    {
-      "title": "ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/anthropic-ipo-is-the-biggest-we-have-ever-seen/",
-      "summary": "לפני קצת פחות מ-6 שנים הוקמה Anthropic על ידי שבעה מייסדים, בהם האחים דניאלה ודריו אמודיי, שעזבו בטריקת דלת את OpenAI, והיום (ה') היא הופכת לחברה ציבורית בהנפקה הכי גדולה בהיסטוריה, וחוצה אף את שווי השוק של 2 טריליון דולר. לא הפסיקו לגייס המפתחת של מודלי קלוד וקלוד קוד החלה להיסחר היום בנאסד\"ק תחת הסימול […] The post ההנפקה הגדולה בהיסטוריה: אנת'רופיק חצתה שווי של 2 טריליון דולר appeared first on ",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "Anthropic",
-        "IPO"
-      ],
-      "published": "Thu, 19 Nov 2026 19:08:24 +0000"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
       "importance": 8,
       "topics": [
-        "NVIDIA",
-        "שינוי הנהלה",
-        "שבבים"
+        "אבטחה",
+        "פרטיות"
       ],
-      "published": "Thu, 19 Nov 2026 20:18:49 +0000"
+      "published": "Fri, 20 Nov 2026 15:46:07 +0000"
     },
     {
-      "title": "Apple is hiring engineers to build its own AI agent",
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "importance": 8,
+      "topics": [
+        "Nvidia",
+        "רגולציה",
+        "אנטי-טראסט"
+      ],
+      "published": "Fri, 20 Nov 2026 13:21:11 +0000"
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
       "importance": 8,
       "topics": [
         "AI",
-        "Apple",
-        "agents"
+        "Claude",
+        "Anthropic"
       ],
-      "published": "2026-11-19T17:31:41-05:00"
+      "published": "2026-11-20T11:34:13-05:00"
     },
     {
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
-      "importance": 8,
-      "topics": [
-        "NVIDIA",
-        "שבבים",
-        "שוק מניות"
-      ],
-      "published": "2026-11-19T16:59:35-05:00"
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
       "importance": 7,
       "topics": [
-        "AI",
-        "Apple",
-        "AI agents"
+        "M&A",
+        "Bending Spoons",
+        "Mailchimp"
       ],
-      "published": "Fri, 20 Nov 2026 00:56:01 +0000"
+      "published": "Fri, 20 Nov 2026 16:16:06 +0000"
     },
     {
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]",
       "importance": 7,
       "topics": [
-        "AI agents",
         "Google",
-        "Gemini"
+        "YouTube",
+        "רגולציה"
       ],
-      "published": "Thu, 19 Nov 2026 18:09:11 +0000"
+      "published": "2026-11-20T15:43:52-05:00"
+    },
+    {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "פוליטיקה",
+        "תשתיות"
+      ],
+      "published": "2026-11-20T13:50:19-05:00"
+    },
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "importance": 7,
+      "topics": [
+        "Google",
+        "AI",
+        "חיפוש"
+      ],
+      "published": "Fri, 20 Nov 2026 21:58:29 +0000"
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "פרטיות",
+        "אבטחה"
+      ],
+      "published": "Fri, 20 Nov 2026 20:59:08 +0000"
     }
   ]
 }
