@@ -1,269 +1,178 @@
 {
-  "generated_at": "2026-11-21T10:51:14.580477+00:00",
+  "generated_at": "2026-11-22T06:45:00.945527+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "importance": 8,
-      "topics": [
-        "אקלים",
-        "דיפלומטיה בינלאומית",
-        "דלקים מחפרים"
-      ],
-      "published": "Sat, 21 Nov 2026 09:52:11 GMT"
-    },
-    {
-      "title": "Emergency crews in Ukraine hit by a double-tap strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
-      "summary": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "קונפליקט"
-      ],
-      "published": "Sat, 21 Nov 2026 07:12:03 +0000"
-    },
-    {
-      "title": "בישראל נערכים בהגנה גם למתקפת פתע; דיווח: \"בצבא ארה\"ב דוחקים להחליט\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/h1w7ygrrfl",
-      "summary": "נשיא ארה\"ב כינה את האיראנים \"מטורפים שמקשקשים כבר 51 שנה\". לפי שעה, כנראה טרם החליט אם לחדש את המלחמה. בישראל מתכוננים לאפשרות שטהרן תפתיע, אם תגיע למסקנה שתקיפה ישראלית-אמריקנית היא ודאית. וויטקוף וקושנר נועדו עם הקטארים. פייננשל טיימס: בסנטקום חוששים לשרוף זמן וכסף",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "איראן",
-        "ארה״ב"
-      ],
-      "published": "Sat, 21 Nov 2026 00:20:39 +0200"
-    },
-    {
-      "title": "Trump touts meeting with Xi and Putin but offers little results",
+      "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-      "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
-      "importance": 7,
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+      "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
+      "importance": 8,
       "topics": [
-        "דיפלומטיה אמריקאית",
-        "רוסיה",
-        "סין"
-      ],
-      "published": "Fri, 20 Nov 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
+        "סין",
+        "ארה\"ב",
         "דיפלומטיה"
       ],
-      "published": "Sat, 21 Nov 2026 08:10:25 GMT"
+      "published": "Sat, 21 Nov 2026 17:01:42 -0500"
     },
     {
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "importance": 7,
+      "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+      "summary": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andrew's University.",
+      "importance": 8,
       "topics": [
-        "מדע",
-        "בינה מלאכותית",
-        "מתמטיקה"
+        "אוקראינה",
+        "אירופה",
+        "דיפלומטיה"
       ],
-      "published": "Fri, 20 Nov 2026 23:08:57 GMT"
+      "published": "Sat, 21 Nov 2026 07:40:18 -0500"
     },
     {
-      "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
-      "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
-      "importance": 7,
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+      "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+      "importance": 8,
       "topics": [
         "איראן",
-        "ארה\"ב",
+        "ארה״ב",
+        "המפרץ"
+      ],
+      "published": "Sat, 21 Nov 2026 23:59:03 +0000"
+    },
+    {
+      "title": "A grieving family in Lebanon returns to their village",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+      "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
+      "importance": 7,
+      "topics": [
+        "לבנון",
+        "ישראל",
+        "קונפליקט"
+      ],
+      "published": "Sat, 21 Nov 2026 17:01:32 -0500"
+    },
+    {
+      "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+      "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+      "importance": 7,
+      "topics": [
+        "בינלאום",
+        "AI",
         "ביטחון"
       ],
-      "published": "Sat, 21 Nov 2026 09:30:24 +0000"
+      "published": "Sat, 21 Nov 2026 09:18:17 -0500"
     },
     {
-      "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "importance": 7,
+      "topics": [
+        "אקלים",
+        "סביבה",
+        "בינלאום"
+      ],
+      "published": "Sun, 22 Nov 2026 05:26:10 GMT"
+    },
+    {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "importance": 7,
+      "topics": [
+        "רוסיה",
+        "דנמרק",
+        "גיאופוליטיקה"
+      ],
+      "published": "Sat, 21 Nov 2026 10:26:36 GMT"
+    },
+    {
+      "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-      "summary": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+      "summary": "COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.",
       "importance": 7,
       "topics": [
-        "הודו",
-        "אסון",
-        "בריאות ציבורית"
+        "אקלים",
+        "שינוי מנהיגות",
+        "COP31"
       ],
-      "published": "Sat, 21 Nov 2026 08:48:54 +0000"
+      "published": "Sun, 22 Nov 2026 04:51:35 +0000"
     },
     {
-      "title": "ירי במגרש בייסבול ומסוקים באוויר: תיעודים דרמטיים ממעצר ברון סמים",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/s1lgkhccze",
-      "summary": "הרשויות במקסיקו הודיעו כי עצרו את פאוסטו איסידרו מסה, המכונה \"צ'אפו איסידרו\" - ראש קרטל סמים במדינת סינלואה, בין 10 המבוקשים הבכירים של ה-FBI. בתיעודים מהמבצע נראה קרב יריות במגרש בייסבול ופעילות מסוקי קרב",
+      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+      "summary": "Israeli forces continue to destroy residential buildings as part of a 'gradual displacement' policy, a Gaza mayor says.",
       "importance": 7,
       "topics": [
-        "מקסיקו",
-        "אלימות",
-        "סמים"
+        "עזה",
+        "ישראל",
+        "פלסטינים"
       ],
-      "published": "Sat, 21 Nov 2026 12:37:55 +0200"
+      "published": "Sun, 22 Nov 2026 02:14:18 +0000"
     },
     {
-      "title": "המאהבת של מנכ\"ל אנבידיה הפורש - וקשריה עם צבא סין | תחקיר חדש",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/byrmjsrczg",
-      "summary": "ממצאי תחקיר ה\"ניו יורק טיימס\" חושפים רשת קשרים בין משפחתה של אליס הואנג וחברות שרכשו שבבים של אנבידיה לבין קבלניות ביטחוניות בבעלות ממשלת סין. כ-3.6 מיליארד דולר מכספי ממשלת סין עברו דרך חברות הקשורות לבני משפחתה או מקורביה",
+      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+      "summary": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
       "importance": 7,
       "topics": [
-        "אנבידיה",
-        "סין",
-        "טכנולוגיה"
+        "לבנון",
+        "ישראל",
+        "איראן"
       ],
-      "published": "Sat, 21 Nov 2026 02:07:55 +0200"
+      "published": "Sat, 21 Nov 2026 23:44:00 +0000"
     }
   ],
-  "business": [
-    {
-      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "summary": "Anthropic השלימה את ה-IPO הגדול ביותר אי פעם - בדיוק כשהשוק ירד, הסנטימנט נגד AI היה בשפל, ו-Nvidia בקריזה. שלושה גורמים שבדרך כלל הורגים הנפקה, ועדיין היא עברה.\n\nזה אומר משהו על כמה ההון רוצה חשיפה ל-AI ממש עכשיו. ההשפעה העקיפה: חברות AI אחרות שחיכו עם הנפקות יתחילו לחשב מחדש את הטיימינג שלהן - וגם המשקיעים שהימרו שהחלון נסגר.",
-      "importance": 9,
-      "topics": [
-        "בינה מלאכותית",
-        "שוקי הון",
-        "טכנולוגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "The Seven Charts That Explain the New Normal for Oil Prices",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "נפט ב-85 עד 95 דולר לחבית - זה כנראה \"הנורמל החדש\" לשנים הקרובות, לפחות לפי הסוחרים והאנליסטים שעוקבים אחרי השוק הזה.\n\nזה לא רק מחיר דלק - זה מחדש את כל חישובי הכדאיות של האנרגיה המתחדשת, משפיע על הציפיות לאינפלציה, ומעביר הון מחדש לחברות האנרגיה המסורתית שנמחקו מהתיקים בשנים האחרונות.\n\nמי שלא חושב על חשיפה לאנרגיה - אולי הגיע הזמן לחשוב.",
-      "importance": 8,
-      "topics": [
-        "נפט",
-        "מחירים",
-        "אנרגיה"
-      ],
-      "tag": "גלובלי"
-    }
-  ],
+  "business": [],
   "tech": [
     {
-      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-      "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
+      "title": "Can Anthropic afford to put safety first?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
       "importance": 8,
+      "topics": [
+        "AI",
+        "Anthropic",
+        "IPO"
+      ],
+      "published": "2026-11-21T10:00:00-05:00"
+    },
+    {
+      "title": "The FBI and USDA were reportedly hacked",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]",
+      "importance": 7,
       "topics": [
         "אבטחה",
-        "פרטיות"
+        "סייבר",
+        "הקינג"
       ],
-      "published": "Fri, 20 Nov 2026 15:46:07 +0000"
+      "published": "2026-11-21T12:42:27-05:00"
     },
     {
-      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-      "importance": 8,
+      "title": "The Outages Are Just Getting Started",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "importance": 7,
       "topics": [
-        "Nvidia",
-        "רגולציה",
-        "אנטי-טראסט"
-      ],
-      "published": "Fri, 20 Nov 2026 13:21:11 +0000"
-    },
-    {
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
-      "importance": 8,
-      "topics": [
+        "אבטחה סייבר",
         "AI",
-        "Claude",
-        "Anthropic"
+        "פגיעויות"
       ],
-      "published": "2026-11-20T11:34:13-05:00"
-    },
-    {
-      "title": "Bending Spoons buys Mailchimp for $3.68B",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-      "importance": 7,
-      "topics": [
-        "M&A",
-        "Bending Spoons",
-        "Mailchimp"
-      ],
-      "published": "Fri, 20 Nov 2026 16:16:06 +0000"
-    },
-    {
-      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]",
-      "importance": 7,
-      "topics": [
-        "Google",
-        "YouTube",
-        "רגולציה"
-      ],
-      "published": "2026-11-20T15:43:52-05:00"
-    },
-    {
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "פוליטיקה",
-        "תשתיות"
-      ],
-      "published": "2026-11-20T13:50:19-05:00"
-    },
-    {
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-      "summary": "Google search is making it even easier to access AI tools on the search page.",
-      "importance": 7,
-      "topics": [
-        "Google",
-        "AI",
-        "חיפוש"
-      ],
-      "published": "Fri, 20 Nov 2026 21:58:29 +0000"
-    },
-    {
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "פרטיות",
-        "אבטחה"
-      ],
-      "published": "Fri, 20 Nov 2026 20:59:08 +0000"
+      "published": "Sat, 21 Nov 2026 13:00:00 +0000"
     }
   ]
 }
