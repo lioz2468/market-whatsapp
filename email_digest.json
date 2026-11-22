@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-11-22T06:45:00.945527+00:00",
+  "generated_at": "2026-11-22T10:58:59.690001+00:00",
   "lookback_hours": 24,
   "world": [
-    {
-      "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
-      "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
-      "importance": 8,
-      "topics": [
-        "סין",
-        "ארה\"ב",
-        "דיפלומטיה"
-      ],
-      "published": "Sat, 21 Nov 2026 17:01:42 -0500"
-    },
     {
       "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
       "source": "NPR World",
@@ -29,30 +16,30 @@
       "published": "Sat, 21 Nov 2026 07:40:18 -0500"
     },
     {
-      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-      "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+      "title": "המשטר באיראן מחפש הכרעה מהירה וינסה לפרוץ את המצור הימי | פרשנות",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/r1nojxg1xg",
+      "summary": "האייתולות מתכוננים ליוזמה התקפית אסטרטגית: שיגור שיירת מכליות נפט דרך מצר הורמוז כשהמטרה לאתגר את הצי האמריקני. התכלית היא לשים קץ לקיפאון הצבאי והדיפלומטי שמחרב את הכלכלה האיראנית. מהם מנופי ההרתעה של איראן, מהן דרכי הפעולה האפשריות של ארה\"ב, ואיך תשתלב ישראל בהתפתחויות",
       "importance": 8,
       "topics": [
         "איראן",
-        "ארה״ב",
-        "המפרץ"
+        "ים המחוות",
+        "גיאופוליטיקה"
       ],
-      "published": "Sat, 21 Nov 2026 23:59:03 +0000"
+      "published": "Sun, 22 Nov 2026 11:55:37 +0200"
     },
     {
-      "title": "A grieving family in Lebanon returns to their village",
+      "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
-      "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+      "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China this week.",
       "importance": 7,
       "topics": [
-        "לבנון",
-        "ישראל",
-        "קונפליקט"
+        "דיפלומטיה",
+        "ארה\"ב-סין",
+        "טראמפ"
       ],
-      "published": "Sat, 21 Nov 2026 17:01:32 -0500"
+      "published": "Sat, 21 Nov 2026 17:01:42 -0500"
     },
     {
       "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
@@ -61,79 +48,134 @@
       "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
       "importance": 7,
       "topics": [
-        "בינלאום",
-        "AI",
-        "ביטחון"
+        "או\"ם",
+        "AI צבאי",
+        "דיפלומטיה"
       ],
       "published": "Sat, 21 Nov 2026 09:18:17 -0500"
     },
     {
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "importance": 7,
       "topics": [
-        "אקלים",
-        "סביבה",
-        "בינלאום"
-      ],
-      "published": "Sun, 22 Nov 2026 05:26:10 GMT"
-    },
-    {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "importance": 7,
-      "topics": [
+        "אוקראינה",
         "רוסיה",
-        "דנמרק",
-        "גיאופוליטיקה"
+        "סכסוך"
       ],
-      "published": "Sat, 21 Nov 2026 10:26:36 GMT"
+      "published": "Sat, 21 Nov 2026 13:17:38 GMT"
     },
     {
-      "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
+      "title": "Russian cargo ship still on fire off Finland after drone attack",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
-      "summary": "COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
+      "summary": "The ship, bound for Russia's Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
       "importance": 7,
       "topics": [
-        "אקלים",
-        "שינוי מנהיגות",
-        "COP31"
+        "אוקראינה",
+        "רוסיה",
+        "סכסוך"
       ],
-      "published": "Sun, 22 Nov 2026 04:51:35 +0000"
+      "published": "Sun, 22 Nov 2026 10:39:50 +0000"
     },
     {
-      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
-      "summary": "Israeli forces continue to destroy residential buildings as part of a 'gradual displacement' policy, a Gaza mayor says.",
+      "title": "צה\"ל גינה אחרי שהאש כבתה, המשטרה לא עצרה אף אחד. איזנקוט, גולן ולפיד: \"טרור יהודי\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rkr6qmxj7x",
+      "summary": "\"צה\"ל מגנה בתוקף אירועים מסוג זה\", אמרו בצבא שאמון על החוק והסדר ביהודה ושומרון. המשטרה הבטיחה לגבות עדויות. בזמן עוד ליל התפרעויות, בקונגרס בארה\"ב מבטיחים \"שינוי דרמטי\" בגדה. העדויות מהשטח: \"כל הפעולה נמשכה בערך 10 דקות. זו לא הפעם הראשונה\". בן גביר: \"ממהרים לקבוע שזה טרור יהודי\"",
       "importance": 7,
       "topics": [
-        "עזה",
-        "ישראל",
-        "פלסטינים"
+        "יהודה ושומרון",
+        "ביטחון",
+        "טרור"
       ],
-      "published": "Sun, 22 Nov 2026 02:14:18 +0000"
+      "published": "Sun, 22 Nov 2026 10:40:06 +0200"
     },
     {
-      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-      "summary": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
+      "title": "ליל הצתות והתפרעויות ביהודה ושומרון: להבות בכפרים פלסטיניים וכתובות \"נקמה\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hylzyxlkxg",
+      "summary": "פורעים יהודים הציתו מכוניות ורכוש של פלסטינים בארבעה מוקדים שונים: בשלושה כפרים ליד רמאללה, ובאזור הר חברון. הפלסטינים תיעדו להבות וכתובות גרפיטי. לא דווח על עצורים. איזנקוט: \"לקרוא לדבר בשמו - טרור יהודי לכל דבר\". בן גביר: \"אין לו מושג בעובדות ובחקירה\"",
       "importance": 7,
+      "topics": [
+        "יהודה ושומרון",
+        "ביטחון",
+        "התנגדות פלסטינית"
+      ],
+      "published": "Sun, 22 Nov 2026 10:01:58 +0200"
+    },
+    {
+      "title": "A grieving family in Lebanon returns to their village",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+      "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
+      "importance": 6,
       "topics": [
         "לבנון",
         "ישראל",
-        "איראן"
+        "התרחקות צבאית"
       ],
-      "published": "Sat, 21 Nov 2026 23:44:00 +0000"
+      "published": "Sat, 21 Nov 2026 17:01:32 -0500"
+    },
+    {
+      "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+      "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
+      "importance": 6,
+      "topics": [
+        "מקסיקו",
+        "אלימות כרטלים",
+        "ביטחון"
+      ],
+      "published": "Sat, 21 Nov 2026 13:08:55 -0500"
     }
   ],
-  "business": [],
+  "business": [
+    {
+      "title": "Citi warns a key stock-market signal is close to flashing red",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "אנליסטים של Citi אומרים שמד הסנטימנט שלהם קרוב לאזור אדום - רמה שבה היסטורית השווקים נמצאים בלחץ אמיתי. הם עברו לגישה זהירה כבר לפני יותר מחודש, ולמרות הירידות החדות - הם לא רואים סיבה לשנות כיוון.\n\nמה שמעניין: אם הסנטימנט ממשיך להידרדר, Citi ממליצים על אג\"ח ארוכות טווח כמקלט. זה סיגנל שמשפיע לא רק על מניות - גם על שוק הנדל\"ן, האשראי, וכל מי שתמחורו תלוי בריביות.",
+      "importance": 8,
+      "topics": [
+        "בורסות",
+        "סיכון",
+        "אסטרטגיה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+      "source": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+      "summary": "מניות הבינה המלאכותית הסינית מחקו 1.7 טריליון דולר משווי השוק שלהן - ומה שנחשב לאחד הטרנדים החמים של השנה הפך להפסד כואב למשקיעים.\n\nהסיפור כאן הוא לא רק ירידות - אלא שינוי בתפיסה. המשקיעים שהמרו שסין תדביק את ארה\"ב בתחום ה-AI מתחילים לפקפק בתזה הזו. זה שווה לעקוב אחריו, כי זרימת ההון בין שתי המעצמות הטכנולוגיות תשפיע על כל הסקטור - גם על חברות המערביות שמתחרות מולן.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "סין",
+        "טכנולוגיה",
+        "השקעות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "החברות שעובדות על מחשוב קוונטי הפתיעו קצת את כולם - הפריצה הראשונה לשימוש אמיתי לא תגיע מתרופות, אלא מאנרגיה. הן כבר בודקות אופטימיזציה של רשתות חשמל, חומרים לפאנלים סולאריים וזרזים לייצור מימן. זה מרתק כי זה מאד מוחשי - מחשב שמוצא את הדרך היעילה ביותר להזרים חשמל ברשת יכול לחסוך מיליארדים. שווה לשים לב גם לחברות האנרגיה המסורתיות - הן עלולות למצוא את עצמן מול שחקנים חדשים שמגיעים עם יתרון טכנולוגי משמעותי.",
+      "importance": 7,
+      "topics": [
+        "קוונטום",
+        "אנרגיה",
+        "השקעות",
+        "טכנולוגיה"
+      ],
+      "tag": "גלובלי"
+    }
+  ],
   "tech": [
     {
       "title": "Can Anthropic afford to put safety first?",
@@ -155,9 +197,9 @@
       "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]",
       "importance": 7,
       "topics": [
-        "אבטחה",
-        "סייבר",
-        "הקינג"
+        "אבטחת סייבר",
+        "הקינג",
+        "FBI"
       ],
       "published": "2026-11-21T12:42:27-05:00"
     },
@@ -168,9 +210,9 @@
       "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
       "importance": 7,
       "topics": [
-        "אבטחה סייבר",
+        "אבטחת סייבר",
         "AI",
-        "פגיעויות"
+        "תשתיות דיגיטליות"
       ],
       "published": "Sat, 21 Nov 2026 13:00:00 +0000"
     }
