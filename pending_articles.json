@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "final_message": "נאסד\"ק קפץ 7% אחרי ירידות של סוף השבוע - ו-Nvidia מובילה את ההתאוששות.\n\nג'נסן הואנג חזר למרכז הבמה, והשוק הגיב בהתלהבות. זה לא רק סיפור של מניה אחת - כשהסנטימנט סביב AI משתנה כך, זה מתגלגל גם לחברות שמספקות תשתיות ענן, יצרני שבבים כמו AMD ו-TSMC, ואפילו קרנות מחקות שמחזיקות הרבה מהסקטור. שווה לשים לב איך שאר השבוע נראה.",
+    "title": "Stock Market Today: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO",
+    "source": "WSJ Markets",
+    "hash": "a664a0331c30c9db",
+    "importance": 8,
+    "tag": "ארה\"ב",
+    "topics": [
+      "טכנולוגיה",
+      "שווקים",
+      "מניות"
+    ]
+  },
+  {
+    "final_message": "מניות חברות הביטוח הגדולות בארה\"ב - UnitedHealth, Humana ו-CVS - נפלו בחדות אחרי שהממשל הפדרלי הודיע שהוא בוחן מחדש את שיטת הדירוג של תוכנית Medicare Advantage.\n\nזו לא רק סוגיה טכנית: הדירוג קובע כמה כסף החברות מקבלות מהממשלה על כל מבוטח. שינוי בנוסחה יכול לפגוע ישירות ברווחים.\n\nמי שכדאי לעקוב אחריו: בתי חולים ורשתות מרפאות שקשורות לחוזים עם אותן חברות - גם הם ייפגעו אם תקציבי הביטוח יצטמצמו.",
+    "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
+    "source": "MarketWatch",
+    "hash": "f58e4443bbaf6bf1",
+    "importance": 8,
+    "tag": "ארה\"ב",
+    "topics": [
+      "רגולציה",
+      "בריאות",
+      "ביטוח"
+    ]
+  }
+]
