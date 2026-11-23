@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T06:45:04.499895+00:00",
+  "generated_at": "2026-11-23T12:06:44.575215+00:00",
   "lookback_hours": 24,
   "world": [
     {
@@ -7,11 +7,11 @@
       "source": "NPR World",
       "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
       "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
-      "importance": 9,
+      "importance": 8,
       "topics": [
         "אוקראינה",
-        "רוסיה",
-        "נאטו"
+        "נאטו",
+        "אירופה"
       ],
       "published": "Sun, 22 Nov 2026 17:40:22 -0500"
     },
@@ -22,9 +22,9 @@
       "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
       "importance": 8,
       "topics": [
-        "האקלים",
-        "מדיניות גלובלית",
-        "אנרגיה"
+        "אקלים",
+        "COP31",
+        "דלקים מאובנים"
       ],
       "published": "Sun, 22 Nov 2026 11:33:22 -0500"
     },
@@ -35,24 +35,63 @@
       "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
       "importance": 8,
       "topics": [
-        "האקלים",
-        "מדיניות גלובלית",
-        "אנרגיה"
+        "אקלים",
+        "COP31",
+        "דיפלומטיה"
       ],
       "published": "Mon, 23 Nov 2026 05:15:06 GMT"
     },
     {
-      "title": "ספינה רוסית התפוצצה בלוב; עדויות קשות על אונס שבויים אוקראינים: \"אתם הז***ת שלנו\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/h1ocd5g17g",
-      "summary": "סירות נפץ בלתי-מאוישות ששוגרו ככל הנראה מבסיס אוקראיני פגעו בספינת המלחמה \"מרקורי\" בבנגאזי וגרמו לה נזק כבד, 10 בני אדם נפצעו. במקביל הותקפה גם ספינת מטען רוסית בים הבלטי, מוסקבה שיגרה מאות כטב\"מים לאזור קייב - לפחות 6 נהרגו. 3 טילי שיוט רוסיים חדרו לשטח פולין, נאט\"ו תקיים דיון מיוחד. תחקיר של \"וול סטריט ג'ורנל\" חושף עדויות על התעללות מינית שיטתית בשבויי מלחמה אוקראינים בכלא הרוסי: \"ברור שהם נהנו ",
+      "title": "COP31: What next after UN climate talks collapse",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss",
+      "summary": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
+      "importance": 8,
+      "topics": [
+        "אקלים",
+        "UN",
+        "סביבה"
+      ],
+      "published": "Mon, 23 Nov 2026 11:19:08 +0000"
+    },
+    {
+      "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+      "summary": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "נאט\"ו"
+        "מלחמה"
       ],
-      "published": "Mon, 23 Nov 2026 00:49:25 +0200"
+      "published": "Mon, 23 Nov 2026 09:34:25 +0000"
+    },
+    {
+      "title": "\"רוסיה נערכת לשגר לוויין עם נשק גרעיני\". תיעוד: כך הוטבעה ספינת המלחמה החדשה של פוטין",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hyjqukzjxl",
+      "summary": "תחקיר גרמני חושף כי המודיעין המערבי מזהה היערכות רוסית לשגר לוויין עם ראש קרב גרעיני, שיכונה Sputnik-S, עד סוף השנה הנוכחית. בעבר כבר דווח שמוסקבה תכננה נשק כזה, שהפעלתו תשתק המוני לוויינים אחרים ותשבש כך מערכות תקשורת וניווט של היריב. האזהרה מ\"התרחיש הגרוע ביותר כמו בסרטי אסונות\" בעקבות שיבוש רשתות חשמל ואספקת מזון - והתיעוד הדרמטי שפרסם זלנסקי מתוך סירות הנפץ שהתפוצצו על ספינת המלחמה הרוסית, מול",
+      "importance": 8,
+      "topics": [
+        "רוסיה",
+        "נשקים גרעיניים",
+        "ביטחון"
+      ],
+      "published": "Mon, 23 Nov 2026 12:54:21 +0200"
+    },
+    {
+      "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+      "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "ליביה"
+      ],
+      "published": "Mon, 23 Nov 2026 05:16:33 -0500"
     },
     {
       "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
@@ -63,7 +102,7 @@
       "topics": [
         "לבנון",
         "ישראל",
-        "עימות צבאי"
+        "עימות"
       ],
       "published": "Sun, 22 Nov 2026 12:44:52 -0500"
     },
@@ -76,63 +115,25 @@
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "פינלנד"
+        "ביטחון"
       ],
       "published": "Sun, 22 Nov 2026 17:18:26 GMT"
     },
     {
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-      "importance": 6,
+      "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+      "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
+      "importance": 7,
       "topics": [
         "אוקראינה",
-        "רוסיה"
+        "רוסיה",
+        "ביטחון"
       ],
-      "published": "Mon, 23 Nov 2026 05:33:17 GMT"
-    },
-    {
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-      "importance": 5,
-      "topics": [
-        "אינדונזיה",
-        "אסון"
-      ],
-      "published": "Sun, 22 Nov 2026 14:05:20 GMT"
+      "published": "Mon, 23 Nov 2026 11:10:12 +0000"
     }
   ],
   "business": [
-    {
-      "title": "Citi warns a key stock-market signal is close to flashing red",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "אנליסטים של Citi אומרים שמד הסנטימנט שלהם קרוב לאזור אדום - רמה שבה היסטורית השווקים נמצאים בלחץ אמיתי. הם עברו לגישה זהירה כבר לפני יותר מחודש, ולמרות הירידות החדות - הם לא רואים סיבה לשנות כיוון.\n\nמה שמעניין: אם הסנטימנט ממשיך להידרדר, Citi ממליצים על אג\"ח ארוכות טווח כמקלט. זה סיגנל שמשפיע לא רק על מניות - גם על שוק הנדל\"ן, האשראי, וכל מי שתמחורו תלוי בריביות.",
-      "importance": 8,
-      "topics": [
-        "בורסות",
-        "סיכון",
-        "אסטרטגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
-      "source": "Bloomberg Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
-      "summary": "מניות הבינה המלאכותית הסינית מחקו 1.7 טריליון דולר משווי השוק שלהן - ומה שנחשב לאחד הטרנדים החמים של השנה הפך להפסד כואב למשקיעים.\n\nהסיפור כאן הוא לא רק ירידות - אלא שינוי בתפיסה. המשקיעים שהמרו שסין תדביק את ארה\"ב בתחום ה-AI מתחילים לפקפק בתזה הזו. זה שווה לעקוב אחריו, כי זרימת ההון בין שתי המעצמות הטכנולוגיות תשפיע על כל הסקטור - גם על חברות המערביות שמתחרות מולן.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "סין",
-        "טכנולוגיה",
-        "השקעות"
-      ],
-      "tag": "גלובלי"
-    },
     {
       "title": "Has the AI Bubble Already Burst?",
       "source": "WSJ Markets",
@@ -212,46 +213,72 @@
       "tag": "גלובלי"
     },
     {
-      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
-      "source": "CNBC Top News",
+      "title": "Fed’s Inflation Fight May Require More Hikes",
+      "source": "Bloomberg Markets",
       "url": "",
-      "summary": "החברות שעובדות על מחשוב קוונטי הפתיעו קצת את כולם - הפריצה הראשונה לשימוש אמיתי לא תגיע מתרופות, אלא מאנרגיה. הן כבר בודקות אופטימיזציה של רשתות חשמל, חומרים לפאנלים סולאריים וזרזים לייצור מימן. זה מרתק כי זה מאד מוחשי - מחשב שמוצא את הדרך היעילה ביותר להזרים חשמל ברשת יכול לחסוך מיליארדים. שווה לשים לב גם לחברות האנרגיה המסורתיות - הן עלולות למצוא את עצמן מול שחקנים חדשים שמגיעים עם יתרון טכנולוגי משמעותי.",
-      "importance": 7,
+      "summary": "האינפלציה בארה\"ב עדיין מסרבת לרדת ל-2%, ואנליסט ממחקר Renaissance טוען שהפד עשה טעות כשהחזיק את הריבית יציבה באוקטובר - ועכשיו יצטרך להעלות אותה כמה פעמים נוספות כדי לתקן את זה.\n\nשוק העבודה עדיין חזק וההשקעות ב-AI ממשיכות לתמוך בצמיחה, אז הירידות האחרונות בשוק לא בהכרח מסמנות צרות גדולות - אבל ריבית גבוהה לאורך זמן תכאב בעיקר לחברות עם הרבה חוב ולמי שמחכה להוזלת משכנתאות.",
+      "importance": 8,
       "topics": [
-        "קוונטום",
-        "אנרגיה",
-        "השקעות",
-        "טכנולוגיה"
+        "פד",
+        "ריבית",
+        "אינפלציה"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Revolut in recruitment drive in Israel",
+      "title": "Citibank registers Mizrahi Tefahot ADRs for trading in US",
       "source": "גלובס שוק ההון",
       "url": "",
-      "summary": "רווליוט (Revolut) קיבלה רישיון בנקאי מותנה מבנק ישראל ועכשיו מגייסת עובדים בכל הרמות - זו כניסה רצינית לשוק המקומי, לא סתם הרחבה.\n\nמה שמעניין פה: זה הלחץ שמופעל על הבנקים הישראליים הגדולים. כשמתחרה דיגיטלי עם 50 מיליון לקוחות בעולם נכנס לשוק, הבנקים המסורתיים מרגישים את זה - בעיקר בתחום דמי העברות ומט\"ח, שם רווליוט ידועה במחירים נמוכים משמעותית. שווה לעקוב איך הבנקים יגיבו.",
-      "importance": 7,
+      "summary": "רישום של עד 50 מיליון תעודות ADR של מזרחי טפחות בארה\"ב - זה לא סתם צעד טכני. סיטיבנק הגיש את המסמכים בשבוע שעבר, וכל תעודה מייצגת חמישית ממניה רגילה של הבנק.\n\nהמשמעות: משקיעים אמריקאים יוכלו להיחשף למזרחי דרך חשבון הברוקרייג' הרגיל שלהם, בלי להתעסק עם הבורסה בתל אביב. זה מרחיב את בסיס המשקיעים הפוטנציאלי בצורה משמעותית.\n\nשווה לשים לב גם לאפקט הרחב - הצלחה של מהלך כזה עשויה לדחוף בנקים ישראליים נוספים לנסות את אותו הנתיב.",
+      "importance": 8,
       "topics": [
-        "בנקאות דיגיטלית",
-        "רגולציה",
-        "רווליוט"
+        "בנקאות",
+        "שוק הון אמריקני",
+        "הון בינלאומי"
       ],
       "tag": "ישראל"
+    },
+    {
+      "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
+      "summary": "Anthropic התחייבה להוציא 900 מיליארד דולר על תשתיות - ווול סטריט מעריך שהחוב שלה יקבל דירוג זבל (junk).\n\nזה לא רק בעיה של Anthropic. כשחברת AI מובילה מתמחרת ברמת סיכון כזו, זה משנה את התנאים לכל מי שמנסה לגייס חוב למימון תשתיות AI - מחירי האשראי עולים לכולם. ספקיות הענן וחברות החשמל שתוכנן להן הכנסות ענק מה-capex הזה - גם הן עכשיו בסימן שאלה.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "הון",
+        "רגולציה",
+        "בדלי אשראי"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "הח'ות'ים תקפו את בית הזיקוק של ראבג' בסעודיה - אחד המתקנים הגדולים בחצי האי. זה עדיין לא שיבש את האספקה, אבל מחירי הנפט רגישים מאוד לאירועים כאלה, ואנחנו ממש ליד מחסן האנרגיה של העולם. מי שפחות ברור שיושפע: חברות ביטוח ימי, נתיבי משלוח דרך הים האדום, ומדינות שמייבאות נפט סעודי - כולל ישראל.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
+        "ביטחון",
+        "נפט"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה התרסקו",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/wall-street-tech-stocks-ai-nvidia-crash-november-2026/",
-      "summary": "אחרי חודשים ארוכים שבהם מניות ה-AI סחבו את וול סטריט על הגב, נראה שלשוק ההון מתחילה להיגמר הסבלנות. ביום שישי האחרון ננעל שבוע מסחר מדמם במיוחד עבור ענקיות הטכנולוגיה, עם ירידות חדות במדדים המובילים בארה\"ב, מחיקה של טריליוני דולרים משווי החברות, והצלילה הגדולה ביותר של מניית אנבידיה (NVIDIA) מאז התפטרות ג'נסן הואנג. מה בעצם קרה […] The post טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה",
+      "title": "We haven’t seen the last of the major tech outages",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
       "importance": 8,
       "topics": [
-        "NVIDIA",
-        "שווקים",
-        "AI"
+        "אבטחה",
+        "תשתיות",
+        "סיסטמים קריטיים"
       ],
-      "published": "Sun, 22 Nov 2026 08:16:54 +0000"
+      "published": "2026-11-22T17:48:02-05:00"
     },
     {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -260,50 +287,37 @@
       "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
       "importance": 7,
       "topics": [
-        "Anthropic",
         "AI",
-        "גיוס הון"
+        "Anthropic",
+        "גיוסי הון"
       ],
       "published": "Mon, 23 Nov 2026 01:25:53 +0000"
     },
     {
-      "title": "We haven’t seen the last of the major tech outages",
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
       "importance": 7,
       "topics": [
-        "אבטחה",
-        "outages",
-        "infrastructure"
+        "AI agents",
+        "Meta",
+        "AI בעסקים"
       ],
-      "published": "2026-11-22T17:48:02-05:00"
+      "published": "2026-11-23T06:00:00-05:00"
     },
     {
-      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "title": "States Sue SpaceX Over Grok Deepfakes",
       "source": "Wired",
-      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
       "importance": 7,
       "topics": [
         "AI",
         "רגולציה",
-        "בנקאות"
+        "אבטחה"
       ],
-      "published": "Sun, 22 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "title": "אפילו עמוד החיפוש הקלאסי של Google נכנע ל-AI",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/google-changes-search-again/",
-      "summary": "גם העמוד המוכר ביותר באינטרנט לא חסין בפני השפעות ה-AI והוא בדרך למתיחת פנים נדירה למדי. אחרי שגוגל נתפסה לא מוכנה במירוץ ה-AI, ואחרי הקאמבק, ואחרי שהיא שוב נתפסת כמפגרת אחרי המתחרות – היא מתחילה להטמיע את Gemini עמוק גם לתוך מוצר הדגל שלה, עמוד החיפוש. היכונו לעוד שינוי השינוי המשמעותי הראשון לעמוד הבית של […] The post אפילו עמוד החיפוש הקלאסי של Google נכנע ל-AI appeared first on גיקטיים .",
-      "importance": 7,
-      "topics": [
-        "AI",
-        "Google",
-        "חיפוש"
-      ],
-      "published": "Sun, 22 Nov 2026 08:49:11 +0000"
+      "published": "Mon, 23 Nov 2026 11:00:00 +0000"
     },
     {
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -325,24 +339,23 @@
       "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
       "importance": 6,
       "topics": [
+        "תשתיות",
         "Big Tech",
-        "data centers",
-        "רגולציה"
+        "בתיקבליות"
       ],
       "published": "Sun, 22 Nov 2026 18:08:43 +0000"
     },
     {
-      "title": "Protesters storm Meta offices in India",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta […]",
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
       "importance": 6,
       "topics": [
-        "Meta",
-        "רגולציה",
-        "הודו"
+        "AI",
+        "חומרה"
       ],
-      "published": "2026-11-22T10:15:07-05:00"
+      "published": "Mon, 23 Nov 2026 12:00:00 +0000"
     }
   ]
 }
