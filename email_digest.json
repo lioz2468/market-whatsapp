@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-24T06:45:14.527385+00:00",
+  "generated_at": "2026-11-24T13:29:33.069391+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "מלחמת אוקראינה: החזית קפואה, המלחמה בוערת",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14963006",
-      "summary": "קרוב לחמש שנים מאז הפלישה הרוסית, מפת המלחמה באוקראינה כמעט שאינה מראה תזוזה | בעוד שהלחימה על הקרקע נעצרה למעשה והמו\"מ לפיתרון תקוע, בירי מהאוויר נשברים עוד ועוד שיאים של אש ודם | בין ההרואיות של זלנסקי לקור הדורסני של פוטין וההבטחות הריקות של טראמפ, החורף כבר מאיים מעבר לפינה",
-      "importance": 9,
+      "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
+      "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
+      "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "קונפליקט"
+        "NATO"
       ],
-      "published": "Tue, 24 Nov 2026 06:46:16 +0200"
+      "published": "Tue, 24 Nov 2026 04:52:03 -0500"
     },
     {
       "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
@@ -23,36 +23,23 @@
       "importance": 8,
       "topics": [
         "רוסיה",
-        "נאט״ו",
+        "NATO",
         "חלל"
       ],
-      "published": "Tue, 24 Nov 2026 02:15:59 GMT"
+      "published": "Tue, 24 Nov 2026 10:58:51 GMT"
     },
     {
-      "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
-      "summary": "Qatar’s Prime Minister says he’s working towards deescalating tensions between Iran and the US.",
-      "importance": 8,
-      "topics": [
-        "איראן",
-        "ארה״ב",
-        "דיפלומטיה"
-      ],
-      "published": "Tue, 24 Nov 2026 01:32:12 +0000"
-    },
-    {
-      "title": "החשד בוושינגטון, המחלוקת בצמרת הביטחונית: המכשולים של נתניהו בדרך לתקיפה",
+      "title": "ההדלפה שחושפת את מחיר הדמים האדיר שפוטין מסתיר: \"נקודת המפנה מתקרבת\"",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bj6pqwf1qg",
-      "summary": "רה\"מ לוחץ לקדם תקיפה נוספת באיראן, אך בצמרת הביטחונית חלוקים על מידת הדחיפות: ראש המוסד סבור שיש לפעול בהקדם, הרמטכ\"ל לא מזהה איום קרוב ומבקש להמתין. האיום הכימי והביולוגי לא מיידי, ובארה\"ב חוששים כי שיקולים פוליטיים עומדים מאחורי הלחץ של נתניהו. טראמפ, בינתיים, דוחה את ההכרעה",
+      "url": "https://www.ynet.co.il/news/article/h11162amk7x",
+      "summary": "כמעט 5 שנים אחרי הפלישה לאוקראינה, שהציתה את המלחמה הגדולה באירופה מאז מלחה\"ע ה-2, מאגר נתוני תמותה רוסי שנפרץ חושף שכמעט 500,000 חיילים רוסים נהרגו עד ספטמבר. עם זאת, הוא כולל חוסרים רבים וניתוח שהתבסס על ההדלפה מעריך: מניין ההרוגים האמיתי עומד על יותר מ-700,000. ב\"גרדיאן\" דיווחו שיותר מ-1,000 שמו קץ לחייהם: \"מתעללים בהם וכופים עליהם להילחם\"",
       "importance": 8,
       "topics": [
-        "איראן",
-        "ישראל",
-        "דיפלומטיה"
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
       ],
-      "published": "Tue, 24 Nov 2026 00:05:46 +0200"
+      "published": "Tue, 24 Nov 2026 14:35:39 +0200"
     },
     {
       "title": "Russian incursions into NATO territory are increasing",
@@ -62,23 +49,36 @@
       "importance": 7,
       "topics": [
         "רוסיה",
-        "נאט״ו",
+        "NATO",
         "פולין"
       ],
       "published": "Mon, 23 Nov 2026 18:08:51 -0500"
     },
     {
-      "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
-      "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
+        "ישראל",
+        "עזה",
+        "Hamas"
       ],
-      "published": "Mon, 23 Nov 2026 05:16:33 -0500"
+      "published": "Tue, 24 Nov 2026 12:12:48 GMT"
+    },
+    {
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "importance": 7,
+      "topics": [
+        "קונגו",
+        "מלחמה",
+        "אפריקה"
+      ],
+      "published": "Tue, 24 Nov 2026 10:48:27 GMT"
     },
     {
       "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
@@ -88,49 +88,49 @@
       "importance": 7,
       "topics": [
         "מיאנמר",
-        "אנושות",
-        "בינלאומי"
+        "סנקציות",
+        "זכויות אדם"
       ],
       "published": "Mon, 23 Nov 2026 21:03:34 GMT"
     },
     {
-      "title": "UN chief calls for world to agree on AI oversight within a year",
+      "title": "Heat deaths reach record high in UK in 2026",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
-      "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/heat-deaths-reach-record-high-in-uk-in-2026?traffic_source=rss",
+      "summary": "The UK Health Security Agency estimates that the total number of deaths has reached 5,258 for the summer of 2026.",
       "importance": 7,
       "topics": [
-        "בינה מלאכותית",
-        "דיפלומטיה בינלאומית",
-        "האו״ם"
+        "בריטניה",
+        "אקלים",
+        "בריאות ציבור"
       ],
-      "published": "Tue, 24 Nov 2026 02:27:19 +0000"
+      "published": "Tue, 24 Nov 2026 13:11:25 +0000"
     },
     {
-      "title": "סנאטור בכיר: \"במועצת השלום צודקים, ישראל חייבת לעמוד בהתחייבויותיה\"",
+      "title": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/24/can-ukraine-disrupt-russias-operations-in-africa?traffic_source=rss",
+      "summary": "Ukraine's strike off Libya signals Kyiv's ability to challenge Russian influence beyond the front lines, analysts say.",
+      "importance": 7,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "מלחמה"
+      ],
+      "published": "Tue, 24 Nov 2026 12:47:23 +0000"
+    },
+    {
+      "title": "הנתון שמדאיג את צה\"ל: כ-30% מכלי המלחמה היבשתיים מושבתים",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rkj8uqfymx",
-      "summary": "הרפובליקני דייב מקורמיק, יו\"ר תת הוועדה למזרח התיכון בסנאט, הגיב על ריאיון היועץ הבכיר במועצת השלום לנדב איל ב-ynet, שבו הביע תסכול מהתנהלות ישראל בעזה. \"חמאס חייב להתפרק מנשקו, הזדמנות היסטורית עשויה להיות מוחמצת\". זאת, אחרי שגם ג'ארד קושנר הזהיר מפני המשך המסלול הנוכחי של ישראל",
+      "url": "https://www.ynet.co.il/news/article/yokra14967619",
+      "summary": "פרסום ראשון: למרות שכ-900 כלים משוריינים הוחזרו לכשירות ויותר מ-9,600 דחפורים תוקנו במהלך המלחמה, נכון לעכשיו כשליש מהטנקים והרק\"מים אינם נמצאים בכשירות. במקביל, בפיקוד המרכז מתכוננים לשינוי פריסת הבסיסים ביו\"ש, כשברבים מהם התנאים ללוחמים בעייתיים: ללא מטבח, חשמל ותשתיות",
       "importance": 7,
       "topics": [
         "ישראל",
-        "ארה״ב",
-        "דיפלומטיה"
+        "ביטחון",
+        "צה\"ל"
       ],
-      "published": "Tue, 24 Nov 2026 07:14:04 +0200"
-    },
-    {
-      "title": "מתקפות סייבר ואיומים לפוצץ ספינות - גם בחופי ארה\"ב. החשודה המרכזית: איראן",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/rjsn4imyml",
-      "summary": "לפי דיווח ב\"וול סטריט ג'ורנל\", כ-50 מכליות נפט וגז הותקפו על ידי ניצול פרצה בנתבים נפוצים בתעשייה הימית. צוותי ספינות קיבלו איומי פצצה והודעות אזהרה שלא להעמיס סחורה אמריקנית: \"נצוד אתכם בכל העולם\". מנגד, בממשל טראמפ טוענים כי טרם נמצאו ראיות למעורבות טהרן, וכי גם רוסיה חשודה אפשרית",
-      "importance": 7,
-      "topics": [
-        "איראן",
-        "סייבר",
-        "גיאופוליטיקה"
-      ],
-      "published": "Tue, 24 Nov 2026 03:36:44 +0200"
+      "published": "Tue, 24 Nov 2026 11:31:17 +0200"
     }
   ],
   "business": [
@@ -158,59 +158,6 @@
         "סייבר",
         "M&A",
         "AI"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Fed’s Inflation Fight May Require More Hikes",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "האינפלציה בארה\"ב עדיין מסרבת לרדת ל-2%, ואנליסט ממחקר Renaissance טוען שהפד עשה טעות כשהחזיק את הריבית יציבה באוקטובר - ועכשיו יצטרך להעלות אותה כמה פעמים נוספות כדי לתקן את זה.\n\nשוק העבודה עדיין חזק וההשקעות ב-AI ממשיכות לתמוך בצמיחה, אז הירידות האחרונות בשוק לא בהכרח מסמנות צרות גדולות - אבל ריבית גבוהה לאורך זמן תכאב בעיקר לחברות עם הרבה חוב ולמי שמחכה להוזלת משכנתאות.",
-      "importance": 8,
-      "topics": [
-        "פד",
-        "ריבית",
-        "אינפלציה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Citibank registers Mizrahi Tefahot ADRs for trading in US",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "רישום של עד 50 מיליון תעודות ADR של מזרחי טפחות בארה\"ב - זה לא סתם צעד טכני. סיטיבנק הגיש את המסמכים בשבוע שעבר, וכל תעודה מייצגת חמישית ממניה רגילה של הבנק.\n\nהמשמעות: משקיעים אמריקאים יוכלו להיחשף למזרחי דרך חשבון הברוקרייג' הרגיל שלהם, בלי להתעסק עם הבורסה בתל אביב. זה מרחיב את בסיס המשקיעים הפוטנציאלי בצורה משמעותית.\n\nשווה לשים לב גם לאפקט הרחב - הצלחה של מהלך כזה עשויה לדחוף בנקים ישראליים נוספים לנסות את אותו הנתיב.",
-      "importance": 8,
-      "topics": [
-        "בנקאות",
-        "שוק הון אמריקני",
-        "הון בינלאומי"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
-      "summary": "Anthropic התחייבה להוציא 900 מיליארד דולר על תשתיות - ווול סטריט מעריך שהחוב שלה יקבל דירוג זבל (junk).\n\nזה לא רק בעיה של Anthropic. כשחברת AI מובילה מתמחרת ברמת סיכון כזו, זה משנה את התנאים לכל מי שמנסה לגייס חוב למימון תשתיות AI - מחירי האשראי עולים לכולם. ספקיות הענן וחברות החשמל שתוכנן להן הכנסות ענק מה-capex הזה - גם הן עכשיו בסימן שאלה.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "הון",
-        "רגולציה",
-        "בדלי אשראי"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "הח'ות'ים תקפו את בית הזיקוק של ראבג' בסעודיה - אחד המתקנים הגדולים בחצי האי. זה עדיין לא שיבש את האספקה, אבל מחירי הנפט רגישים מאוד לאירועים כאלה, ואנחנו ממש ליד מחסן האנרגיה של העולם. מי שפחות ברור שיושפע: חברות ביטוח ימי, נתיבי משלוח דרך הים האדום, ומדינות שמייבאות נפט סעודי - כולל ישראל.",
-      "importance": 8,
-      "topics": [
-        "אנרגיה",
-        "ביטחון",
-        "נפט"
       ],
       "tag": "גלובלי"
     },
@@ -265,33 +212,74 @@
         "ביטוח"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing.",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?mod=rss_markets_main",
+      "summary": "הנאסד\"ק קפץ ביותר 2 טריליון דולר בשווי שוק ביום אחד - אחד הימים החזקים של השנה. הקפיצה הגיעה אחרי שג'נסן הואנג מ-NVIDIA עלה על הבמה בוועידה שלהם והציג כיוון ברור לשנים הקרובות. כל ענף הטק נשם לרווחה.\n\nמה שמעניין מעבר לכותרות: הירידות של השבוע שעבר יצרו לחץ אמיתי על קרנות שהיו חשופות לטק. השיבה החדה הזו עוזרת להן לצאת ממצב לא נוח - וזה מה שמזין חלק גדול מהנפח הגבוה היום.",
+      "importance": 8,
+      "topics": [
+        "בורסה",
+        "טכנולוגיה",
+        "AI"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "שלושה מכליות נפט נפגעו ממוקשים ימיים במיצר הורמוז - אחד מנקודות החנק הקריטיות ביותר בסחר הגלובלי. זה קורה בדיוק כשארה\"ב מרחיבה סנקציות על איראן ומנסה לחתוך את הכנסותיה מנפט.\n\nהמיצר הזה הוא שביל עובר של כ-20% מסחר הנפט העולמי. כל הסלמה שם נכנסת ישר למחירי הנפט - ומשם לעלויות הובלה, ביטוח ימי, וסופו של דבר גם למחירי הדלק.\n\nשווה לעקוב אחרי מחירי הנפט הגולמי בימים הקרובים.",
+      "importance": 8,
+      "topics": [
+        "סנקציות",
+        "אנרגיה",
+        "שרשרת אספקה",
+        "גיאופוליטיקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+      "summary": "סאנופי הצרפתית רוכשת את חברת הביוטק האמריקאית Insmed תמורת 41 מיליארד דולר - העסקה הגדולה ביותר בתעשייה כמעט שלוש שנים. הרקע: התרופה המרכזית של סאנופי מאבדת פטנט בקרוב, וצריך למלא את החור בהכנסות.\n\nזה בדיוק הדפוס שחוזר על עצמו בתרופות - חברות גדולות מעדיפות לקנות צמיחה מבחוץ במקום לפתח מאפס. שווה לשים לב: כשדיל בסדר גודל כזה נסגר, זה בדרך כלל מאיץ רכישות נוספות בסקטור - חברות ביוטק קטנות ובינוניות הופכות פתאום לאטרקטיביות יותר.",
+      "importance": 8,
+      "topics": [
+        "תרופות",
+        "M&A",
+        "שיבוש תעשייה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "ארה\"ב הוסיפה את Megaspeed ועוד שש חברות לרשימה השחורה של הסחר, בגלל חשש שמוצרי מחשוב מתקדמים עוברים עקיפות על פקדי הייצוא.\n\nזה חלק ממגמה ברורה: הממשל מחפש בכל מקום ערוצים שבהם שבבים מתקדמים - בעיקר של Nvidia - מגיעים למי שלא אמורים לקבל אותם. ה-controversy סביב Nvidia לא מקרי - השם הזה מופיע בכל הסיפור הזה.\n\nמי שצריך לשים לב: כל חברה שתלויה בגישה לשוק הסיני - מפיצים, ספקים, חברות לוגיסטיקה - יכולה למצוא את עצמה על הרשימה הזו בהפתעה.",
+      "importance": 8,
+      "topics": [
+        "סנקציות",
+        "AI",
+        "ניידות ההון"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "ברייקינג: דירקטוריון NVIDIA החזיר את ג'נסן הואנג לתפקיד המנכ\"ל",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/jensen-huand-back-as-nvidia-ceo/",
-      "summary": "דירקטוריון אנבידיה הודיע היום (ב') בהפתעה על החזרת ג'נסן הואנג לתפקיד מנכ\"ל אנבידיה וחבר הדירקטוריון – שבוע וחצי אחרי שהתפטר על רקע רומנים עם אישה החשודה בריגול למען סין ובכירה שעבדה תחתיו. ההחלטה התקבלה פה אחד, ובדירקטוריון ציינו כי הגיעה לאחר שיחות איתו וקבלת התייחסות מבכירים בממשל האמריקאי. במקביל, בדירקטוריון מציינים כי החקירה העצמאית בנושא […] The post ברייקינג: דירקטוריון NVIDIA החזיר את ג'נ",
+      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
       "importance": 9,
       "topics": [
-        "NVIDIA",
-        "הנהלה"
+        "AI",
+        "Anthropic",
+        "מחקר מדעי"
       ],
-      "published": "Mon, 23 Nov 2026 14:06:23 +0000"
-    },
-    {
-      "title": "עסקת ענק: קראודסטרייק רוכשת את Zscaler ב-44 מיליארד דולר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/crowdstrike-acquires-zscaler/",
-      "summary": "ענקית הסייבר האמריקאית CrowdStrike הודיעה היום (ב') על רכישת Zscaler בעסקת מניות בשווי של כ-43.9 מיליארד דולר, באחת מהעסקאות הגדולות ביותר בתולדות ענף הסייבר העולמי. העסקה משקפת שווי של כ-260 דולר למניית זיסקיילר ופרמיה של כ-34% על מחיר הסגירה שלה ביום שישי האחרון. בעלי המניות של קראודסטרייק יחזיקו בכ-84% מהחברה הממוזגת, בעוד שבעלי המניות של […] The post עסקת ענק: קראודסטרייק רוכשת את Zscaler ב-44",
-      "importance": 9,
-      "topics": [
-        "M&A",
-        "CrowdStrike",
-        "Zscaler"
-      ],
-      "published": "Mon, 23 Nov 2026 11:57:36 +0000"
+      "published": "Tue, 24 Nov 2026 10:15:00 +0000"
     },
     {
       "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
@@ -300,24 +288,11 @@
       "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
       "importance": 8,
       "topics": [
-        "NVIDIA",
-        "גיאופוליטיקה",
-        "סנקציות"
+        "רגולציה",
+        "סנקציות",
+        "NVIDIA"
       ],
       "published": "Mon, 23 Nov 2026 21:25:42 +0000"
-    },
-    {
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-      "importance": 8,
-      "topics": [
-        "NVIDIA",
-        "רגולציה",
-        "ביטחון"
-      ],
-      "published": "Mon, 23 Nov 2026 18:12:22 +0000"
     },
     {
       "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
@@ -326,9 +301,9 @@
       "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
       "importance": 8,
       "topics": [
-        "Amazon",
         "AI",
-        "שבבים"
+        "Amazon",
+        "רכישות"
       ],
       "published": "Mon, 23 Nov 2026 17:14:23 +0000"
     },
@@ -339,11 +314,36 @@
       "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
       "importance": 8,
       "topics": [
-        "סייבר",
-        "מיזוגים ורכישות",
-        "תעשיית טכנולוגיה"
+        "M&A",
+        "סייבר ביטחון",
+        "AI"
       ],
       "published": "Mon, 23 Nov 2026 16:20:11 +0000"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "שינוי הנהלה"
+      ],
+      "published": "2026-11-23T17:10:32-05:00"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "רגולציה",
+        "X/Grok"
+      ],
+      "published": "Mon, 23 Nov 2026 21:30:44 +0000"
     },
     {
       "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
@@ -353,22 +353,22 @@
       "importance": 8,
       "topics": [
         "NVIDIA",
-        "הנהלה בכירה"
+        "הנהלה",
+        "שבבים"
       ],
       "published": "Mon, 23 Nov 2026 15:46:18 +0000"
     },
     {
-      "title": "אמזון רוכשת את הטכנולוגיות של Decart הישראלית",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/amazon-acquires-israeli-decart-exit/",
-      "summary": "אחרי הדיווחים וההדלפות, אמזון הודיעה היום (ב') רשמית על רכישת הטכנולוגיות של הסטארטאפ הישראלי Decart (דקארט). החברות לא פרסמו פרטים נוספים על העסקה. דיווחים קודמים (גם כאן) הזכירו סכומים של עד 7.5 מיליארד דולר, עם זאת הטיב המלא של העסקה אינו ברור עדיין וגם הסכומים. עוד כמה סימני שאלה על העסקה – כאן. רכישה אחרי […] The post אמזון רוכשת את הטכנולוגיות של Decart הישראלית appeared first on גיקטיים .",
+      "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/",
+      "summary": "A pair of unsecured databases exposed sensitive information about hundreds of millions of people—including data that could let attackers “own” a victim’s digital life.",
       "importance": 8,
       "topics": [
-        "M&A",
-        "Amazon",
-        "Decart"
+        "אבטחה סייבר",
+        "דליפת נתונים"
       ],
-      "published": "Mon, 23 Nov 2026 13:49:12 +0000"
+      "published": "Tue, 24 Nov 2026 11:00:00 +0000"
     }
   ]
 }
