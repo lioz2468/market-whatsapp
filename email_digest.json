@@ -1,87 +1,74 @@
 {
-  "generated_at": "2026-11-23T12:06:44.575215+00:00",
+  "generated_at": "2026-11-24T06:45:14.527385+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Ukraine war spilling into NATO territory",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
-      "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
-      "importance": 8,
+      "title": "מלחמת אוקראינה: החזית קפואה, המלחמה בוערת",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/yokra14963006",
+      "summary": "קרוב לחמש שנים מאז הפלישה הרוסית, מפת המלחמה באוקראינה כמעט שאינה מראה תזוזה | בעוד שהלחימה על הקרקע נעצרה למעשה והמו\"מ לפיתרון תקוע, בירי מהאוויר נשברים עוד ועוד שיאים של אש ודם | בין ההרואיות של זלנסקי לקור הדורסני של פוטין וההבטחות הריקות של טראמפ, החורף כבר מאיים מעבר לפינה",
+      "importance": 9,
       "topics": [
         "אוקראינה",
-        "נאטו",
-        "אירופה"
+        "רוסיה",
+        "קונפליקט"
       ],
-      "published": "Sun, 22 Nov 2026 17:40:22 -0500"
+      "published": "Tue, 24 Nov 2026 06:46:16 +0200"
     },
     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
-      "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
-      "importance": 8,
-      "topics": [
-        "אקלים",
-        "COP31",
-        "דלקים מאובנים"
-      ],
-      "published": "Sun, 22 Nov 2026 11:33:22 -0500"
-    },
-    {
-      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
       "importance": 8,
       "topics": [
-        "אקלים",
-        "COP31",
+        "רוסיה",
+        "נאט״ו",
+        "חלל"
+      ],
+      "published": "Tue, 24 Nov 2026 02:15:59 GMT"
+    },
+    {
+      "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+      "summary": "Qatar’s Prime Minister says he’s working towards deescalating tensions between Iran and the US.",
+      "importance": 8,
+      "topics": [
+        "איראן",
+        "ארה״ב",
         "דיפלומטיה"
       ],
-      "published": "Mon, 23 Nov 2026 05:15:06 GMT"
+      "published": "Tue, 24 Nov 2026 01:32:12 +0000"
     },
     {
-      "title": "COP31: What next after UN climate talks collapse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss",
-      "summary": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
-      "importance": 8,
-      "topics": [
-        "אקלים",
-        "UN",
-        "סביבה"
-      ],
-      "published": "Mon, 23 Nov 2026 11:19:08 +0000"
-    },
-    {
-      "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
-      "summary": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
-      ],
-      "published": "Mon, 23 Nov 2026 09:34:25 +0000"
-    },
-    {
-      "title": "\"רוסיה נערכת לשגר לוויין עם נשק גרעיני\". תיעוד: כך הוטבעה ספינת המלחמה החדשה של פוטין",
+      "title": "החשד בוושינגטון, המחלוקת בצמרת הביטחונית: המכשולים של נתניהו בדרך לתקיפה",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hyjqukzjxl",
-      "summary": "תחקיר גרמני חושף כי המודיעין המערבי מזהה היערכות רוסית לשגר לוויין עם ראש קרב גרעיני, שיכונה Sputnik-S, עד סוף השנה הנוכחית. בעבר כבר דווח שמוסקבה תכננה נשק כזה, שהפעלתו תשתק המוני לוויינים אחרים ותשבש כך מערכות תקשורת וניווט של היריב. האזהרה מ\"התרחיש הגרוע ביותר כמו בסרטי אסונות\" בעקבות שיבוש רשתות חשמל ואספקת מזון - והתיעוד הדרמטי שפרסם זלנסקי מתוך סירות הנפץ שהתפוצצו על ספינת המלחמה הרוסית, מול",
+      "url": "https://www.ynet.co.il/news/article/bj6pqwf1qg",
+      "summary": "רה\"מ לוחץ לקדם תקיפה נוספת באיראן, אך בצמרת הביטחונית חלוקים על מידת הדחיפות: ראש המוסד סבור שיש לפעול בהקדם, הרמטכ\"ל לא מזהה איום קרוב ומבקש להמתין. האיום הכימי והביולוגי לא מיידי, ובארה\"ב חוששים כי שיקולים פוליטיים עומדים מאחורי הלחץ של נתניהו. טראמפ, בינתיים, דוחה את ההכרעה",
       "importance": 8,
       "topics": [
-        "רוסיה",
-        "נשקים גרעיניים",
-        "ביטחון"
+        "איראן",
+        "ישראל",
+        "דיפלומטיה"
       ],
-      "published": "Mon, 23 Nov 2026 12:54:21 +0200"
+      "published": "Tue, 24 Nov 2026 00:05:46 +0200"
     },
     {
-      "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+      "title": "Russian incursions into NATO territory are increasing",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+      "summary": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
+      "importance": 7,
+      "topics": [
+        "רוסיה",
+        "נאט״ו",
+        "פולין"
+      ],
+      "published": "Mon, 23 Nov 2026 18:08:51 -0500"
+    },
+    {
+      "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
       "source": "NPR World",
       "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
       "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
@@ -89,126 +76,88 @@
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "ליביה"
+        "מלחמה"
       ],
       "published": "Mon, 23 Nov 2026 05:16:33 -0500"
     },
     {
-      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
-      "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
-      "importance": 7,
-      "topics": [
-        "לבנון",
-        "ישראל",
-        "עימות"
-      ],
-      "published": "Sun, 22 Nov 2026 12:44:52 -0500"
-    },
-    {
-      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ביטחון"
+        "מיאנמר",
+        "אנושות",
+        "בינלאומי"
       ],
-      "published": "Sun, 22 Nov 2026 17:18:26 GMT"
+      "published": "Mon, 23 Nov 2026 21:03:34 GMT"
     },
     {
-      "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+      "title": "UN chief calls for world to agree on AI oversight within a year",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
-      "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+      "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
       "importance": 7,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "ביטחון"
+        "בינה מלאכותית",
+        "דיפלומטיה בינלאומית",
+        "האו״ם"
       ],
-      "published": "Mon, 23 Nov 2026 11:10:12 +0000"
+      "published": "Tue, 24 Nov 2026 02:27:19 +0000"
+    },
+    {
+      "title": "סנאטור בכיר: \"במועצת השלום צודקים, ישראל חייבת לעמוד בהתחייבויותיה\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rkj8uqfymx",
+      "summary": "הרפובליקני דייב מקורמיק, יו\"ר תת הוועדה למזרח התיכון בסנאט, הגיב על ריאיון היועץ הבכיר במועצת השלום לנדב איל ב-ynet, שבו הביע תסכול מהתנהלות ישראל בעזה. \"חמאס חייב להתפרק מנשקו, הזדמנות היסטורית עשויה להיות מוחמצת\". זאת, אחרי שגם ג'ארד קושנר הזהיר מפני המשך המסלול הנוכחי של ישראל",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "ארה״ב",
+        "דיפלומטיה"
+      ],
+      "published": "Tue, 24 Nov 2026 07:14:04 +0200"
+    },
+    {
+      "title": "מתקפות סייבר ואיומים לפוצץ ספינות - גם בחופי ארה\"ב. החשודה המרכזית: איראן",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/rjsn4imyml",
+      "summary": "לפי דיווח ב\"וול סטריט ג'ורנל\", כ-50 מכליות נפט וגז הותקפו על ידי ניצול פרצה בנתבים נפוצים בתעשייה הימית. צוותי ספינות קיבלו איומי פצצה והודעות אזהרה שלא להעמיס סחורה אמריקנית: \"נצוד אתכם בכל העולם\". מנגד, בממשל טראמפ טוענים כי טרם נמצאו ראיות למעורבות טהרן, וכי גם רוסיה חשודה אפשרית",
+      "importance": 7,
+      "topics": [
+        "איראן",
+        "סייבר",
+        "גיאופוליטיקה"
+      ],
+      "published": "Tue, 24 Nov 2026 03:36:44 +0200"
     }
   ],
   "business": [
     {
-      "title": "Has the AI Bubble Already Burst?",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
-      "summary": "מי שזוכר את שנת 2000 - הסיפור הנוכחי של מניות ה-AI מרגיש מוכר. וול סטריט ג'ורנל מציין השבוע שמתבצעת ירידה חדה במניות AI, עם דפוסים שדומים מאוד לפיצוץ בועת הדוט-קום. לא מדובר רק בנאסד\"ק - הסיפור הזה נוגע לכל חברה שבנתה את הערכת השוק שלה על הציפיות מ-AI: ספקיות ענן, יצרניות שבבים, וגם חברות תשתית שאף אחד לא שמע עליהן. השאלה האמיתית היא לא אם הבועה התפוצצה - אלא כמה שכבות עמוק היא הגיעה.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "בועות שוק",
-        "ריסק-אסט"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Asia’s Stock Rescue Efforts Gather Pace After Wall Street Plunge",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "סין, טייוואן וקוריאה הדרומית נכנסו לפעולה הלילה כדי לעצור את הירידות בשווקים שלהן - בעקבות הצניחה החדה של וול סטריט ביום שישי.\n\nסין הקלה על דרישות המרווח (margin requirements), מה שמאפשר לסוחרים לקחת פוזיציות גדולות יותר עם פחות ביטחונות. טייוואן וקוריאה הפעילו מנגנוני התערבות ישירים בשוק.\n\nמה שמעניין פה: כשממשלות אסיאתיות נאלצות לפעול בזו אחר זו תוך שעות - זה אומר שהלחץ היה אמיתי. שווה לעקוב אחרי איך האירופים פותחים מחר בבוקר.",
-      "importance": 8,
-      "topics": [
-        "אסיה",
-        "הצלת שוק",
-        "חסרונות מרווח"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Major banks' aggregate third quarter profit down 6%",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "רווחי חמשת הבנקים הגדולים בישראל ירדו ב-6% ברבעון השלישי - ל-8.1 מיליארד שקל. שני הגורמים העיקריים: הורדת הריבית שדוחקת את מרווחי האשראי, ומס הייטב שהממשלה הטילה על רווחיהם.\n\nמה שמעניין פה הוא שאנחנו רואים בפועל את המחיר של הורדות הריבית - לא רק בתיאוריה. לחברות שמחזיקות מניות בנקים יש סיבה לשים לב, וגם מי שמסתכל על שוק האשראי הישראלי ימצא כאן אות על כיוון הרווחיות קדימה.",
-      "importance": 8,
-      "topics": [
-        "בנקים",
-        "ריבית",
-        "רווחיות"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "טריליוני דולרים נמחקו אחרי שאנבידיה ושאר מניות הטכנולוגיה התרסקו",
+      "title": "עסקת ענק: קראודסטרייק רוכשת את Zscaler ב-44 מיליארד דולר",
       "source": "גיקטיים",
-      "url": "",
-      "summary": "NVIDIA רשמה השבוע את הצניחה הגדולה ביותר שלה מזה זמן רב, וגררה איתה את שאר מניות הטכנולוגיה. טריליוני דולרים נמחקו משווי החברות בשבוע מסחר אחד.\n\nמה שמעניין פה הוא לא הירידה עצמה - אלא מה היא אומרת. אחרי שמניות ה-AI סחבו את וול סטריט על הגב במשך חודשים, השוק מתחיל לשאול שאלות על הרווחים בפועל. ההשפעה העקיפה: חברות שמוכרות שרתים, אחסון ותשתיות - גם הן בלחץ כשהסנטימנט סביב AI משתנה.",
-      "importance": 8,
+      "url": "https://www.geektime.co.il/crowdstrike-acquires-zscaler/",
+      "summary": "עסקת הסייבר הגדולה בהיסטוריה: CrowdStrike רוכשת את Zscaler ב-44 מיליארד דולר. בעלי מניות Zscaler מקבלים פרמיה של 34% על מחיר המניה מסוף השבוע.\n\nפה קורה משהו שחורג מעסקה אחת - CrowdStrike מחברת בין אבטחת נקודות קצה לאבטחת רשתות ענן, וזה לחץ ישיר על Palo Alto Networks ו-Microsoft שבונות את אותה עוגה. מי שיספגו יותר מהצפוי הם ספקיות הסייבר הקטנות - כשהגדולות מתמזגות, הלקוחות הארגוניים מעדיפים לרכז הכל אצל שחקן אחד.",
+      "importance": 9,
       "topics": [
-        "שווקי מניות",
+        "סייבר",
+        "M&A",
         "טכנולוגיה",
-        "תיקון שוק"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
-      "summary": "הגרעון של Social Security ו-Medicare צפוי להגיע לשיא של טריליוני דולרים בעשורים הקרובים - ו-MarketWatch מציגה פתרון שנוי במחלוקת: מס אחד פשוט שאמור לסגור את הפער.\n\nהרעיון לא חדש, אבל העיתוי כן. עם גידול מהיר באוכלוסייה המבוגרת בארה\"ב, הלחץ על שתי התכניות מואץ - וההשפעה מגיעה גם לשווקים: תשואות האג\"ח, הוצאות הממשל והאינפלציה קשורות ישירות לאיך שוושינגטון תחליט להתמודד עם זה.",
-      "importance": 8,
-      "topics": [
-        "סוקיוריטי סוציאלי",
-        "בריאות",
-        "מדיניות פיסקלית"
+        "בורסות"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "הירידות החדות בשוק השבוע הפכו את סוחרי האופציות לזהירים במיוחד - הם מגדרים את עצמם מפני תנודתיות גבוהה יותר קדימה.\n\nמה שמעניין פה: זה לא סתם תיקון רגיל. ה-AI trade - כל הסיפור שמשך את שוק המניות מעלה בשנה האחרונה - מראה סימני עייפות. וכשהנרטיב המרכזי של השוק מתחיל להתפורר, זה מרגיש אחרת מירידה רגילה.\n\nמי שיושפע מעבר לטכנולוגיה: חברות תשתיות, ספקי חשמל לדאטה סנטרים, וכל מי שבנה את הסיפור שלו על הגדלת הוצאות AI.",
-      "importance": 8,
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "summary": "לפני שאנסח - כדאי לבדוק את הכתבה הזו. נכון להיום, לא מדובר בעסקה שהתפרסמה באופן רשמי, וייתכן שמדובר בשמועה, ספקולציה, או כתבה שגויה. עסקה בשווי 44 מיליארד דולר מהסוג הזה הייתה מזעזעת את השוק ומופיעה בכל הכותרות הפיננסיות.\n\nאם אתה בטוח שהכתבה אמיתית ומאומתת - שלח לי את הקישור ואנסח מיד. אם יש ספק - עדיף לא לשלוח לקהל מידע שעלול להיות שגוי, במיוחד על עסקה בסדר גודל כזה.",
+      "importance": 9,
       "topics": [
-        "AI",
-        "שוקי מניות",
-        "תנודתיות"
+        "סייבר",
+        "M&A",
+        "AI"
       ],
       "tag": "גלובלי"
     },
@@ -264,98 +213,162 @@
         "נפט"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "ועידת האקלים של האו\"ם (COP31) קרסה בסוף השבוע אחרי שהטיוטה הסופית לא כללה כמעט שום התייחסות לדלקים פוסיליים. ממשלות וארגוני סביבה דחו אותה על הסף.\n\nלמה זה חשוב מעבר לכותרות הירוקות: חברות אנרגיה מתחדשת שתמחרו האצה רגולטורית יצטרכו לאחר את הציפיות. מנגד, חברות נפט וגז יוצאות מהוועידה עם פחות לחץ ממה שציפו - לפחות לטווח הקצר. השוק כבר יתחיל לשאול מי מרוויח מהשאיפות שלא מומשו.",
+      "importance": 8,
+      "topics": [
+        "אנרגיה",
+        "דלקים מחומרים",
+        "פוליטיקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "ריבית המשכנתאות בארה\"ב קפצה בספטמבר לרמות שמקפיאות את שוק הנדל\"ן לחלוטין. קונים לא קונים, מוכרים לא מוכרים - כי מי שיש לו משכנתא זולה מהשנים האחרונות פשוט לא מוכן לוותר עליה. התוצאה היא שוק תקוע שמשפיע על הרבה יותר מנדל\"ן: פחות מעברי דירה זה פחות רהיטים, פחות שיפוצים, פחות הוצאות צרכניות - וזה כבר מתחיל להיות מורגש בכלכלה הרחבה.",
+      "importance": 8,
+      "topics": [
+        "דיור",
+        "ריבית",
+        "צרכנות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Stock Market Today: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "נאסד\"ק קפץ 7% אחרי ירידות של סוף השבוע - ו-Nvidia מובילה את ההתאוששות.\n\nג'נסן הואנג חזר למרכז הבמה, והשוק הגיב בהתלהבות. זה לא רק סיפור של מניה אחת - כשהסנטימנט סביב AI משתנה כך, זה מתגלגל גם לחברות שמספקות תשתיות ענן, יצרני שבבים כמו AMD ו-TSMC, ואפילו קרנות מחקות שמחזיקות הרבה מהסקטור. שווה לשים לב איך שאר השבוע נראה.",
+      "importance": 8,
+      "topics": [
+        "טכנולוגיה",
+        "שווקים",
+        "מניות"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "מניות חברות הביטוח הגדולות בארה\"ב - UnitedHealth, Humana ו-CVS - נפלו בחדות אחרי שהממשל הפדרלי הודיע שהוא בוחן מחדש את שיטת הדירוג של תוכנית Medicare Advantage.\n\nזו לא רק סוגיה טכנית: הדירוג קובע כמה כסף החברות מקבלות מהממשלה על כל מבוטח. שינוי בנוסחה יכול לפגוע ישירות ברווחים.\n\nמי שכדאי לעקוב אחריו: בתי חולים ורשתות מרפאות שקשורות לחוזים עם אותן חברות - גם הם ייפגעו אם תקציבי הביטוח יצטמצמו.",
+      "importance": 8,
+      "topics": [
+        "רגולציה",
+        "בריאות",
+        "ביטוח"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
     {
-      "title": "We haven’t seen the last of the major tech outages",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
+      "title": "ברייקינג: דירקטוריון NVIDIA החזיר את ג'נסן הואנג לתפקיד המנכ\"ל",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/jensen-huand-back-as-nvidia-ceo/",
+      "summary": "דירקטוריון אנבידיה הודיע היום (ב') בהפתעה על החזרת ג'נסן הואנג לתפקיד מנכ\"ל אנבידיה וחבר הדירקטוריון – שבוע וחצי אחרי שהתפטר על רקע רומנים עם אישה החשודה בריגול למען סין ובכירה שעבדה תחתיו. ההחלטה התקבלה פה אחד, ובדירקטוריון ציינו כי הגיעה לאחר שיחות איתו וקבלת התייחסות מבכירים בממשל האמריקאי. במקביל, בדירקטוריון מציינים כי החקירה העצמאית בנושא […] The post ברייקינג: דירקטוריון NVIDIA החזיר את ג'נ",
+      "importance": 9,
+      "topics": [
+        "NVIDIA",
+        "הנהלה"
+      ],
+      "published": "Mon, 23 Nov 2026 14:06:23 +0000"
+    },
+    {
+      "title": "עסקת ענק: קראודסטרייק רוכשת את Zscaler ב-44 מיליארד דולר",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/crowdstrike-acquires-zscaler/",
+      "summary": "ענקית הסייבר האמריקאית CrowdStrike הודיעה היום (ב') על רכישת Zscaler בעסקת מניות בשווי של כ-43.9 מיליארד דולר, באחת מהעסקאות הגדולות ביותר בתולדות ענף הסייבר העולמי. העסקה משקפת שווי של כ-260 דולר למניית זיסקיילר ופרמיה של כ-34% על מחיר הסגירה שלה ביום שישי האחרון. בעלי המניות של קראודסטרייק יחזיקו בכ-84% מהחברה הממוזגת, בעוד שבעלי המניות של […] The post עסקת ענק: קראודסטרייק רוכשת את Zscaler ב-44",
+      "importance": 9,
+      "topics": [
+        "M&A",
+        "CrowdStrike",
+        "Zscaler"
+      ],
+      "published": "Mon, 23 Nov 2026 11:57:36 +0000"
+    },
+    {
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
       "importance": 8,
       "topics": [
-        "אבטחה",
-        "תשתיות",
-        "סיסטמים קריטיים"
+        "NVIDIA",
+        "גיאופוליטיקה",
+        "סנקציות"
       ],
-      "published": "2026-11-22T17:48:02-05:00"
+      "published": "Mon, 23 Nov 2026 21:25:42 +0000"
     },
     {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "importance": 7,
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "importance": 8,
       "topics": [
-        "AI",
-        "Anthropic",
-        "גיוסי הון"
-      ],
-      "published": "Mon, 23 Nov 2026 01:25:53 +0000"
-    },
-    {
-      "title": "Meta Muse can do your Black Friday shopping at Walmart",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-      "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
-      "importance": 7,
-      "topics": [
-        "AI agents",
-        "Meta",
-        "AI בעסקים"
-      ],
-      "published": "2026-11-23T06:00:00-05:00"
-    },
-    {
-      "title": "States Sue SpaceX Over Grok Deepfakes",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-      "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
-      "importance": 7,
-      "topics": [
-        "AI",
+        "NVIDIA",
         "רגולציה",
-        "אבטחה"
+        "ביטחון"
       ],
-      "published": "Mon, 23 Nov 2026 11:00:00 +0000"
+      "published": "Mon, 23 Nov 2026 18:12:22 +0000"
     },
     {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "importance": 6,
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "importance": 8,
       "topics": [
+        "Amazon",
         "AI",
-        "OpenAI",
-        "רגולציה"
+        "שבבים"
       ],
-      "published": "Sun, 22 Nov 2026 21:14:07 +0000"
+      "published": "Mon, 23 Nov 2026 17:14:23 +0000"
     },
     {
-      "title": "Why data centers are at the center of the Big Tech backlash",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-      "importance": 6,
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+      "importance": 8,
       "topics": [
-        "תשתיות",
-        "Big Tech",
-        "בתיקבליות"
+        "סייבר",
+        "מיזוגים ורכישות",
+        "תעשיית טכנולוגיה"
       ],
-      "published": "Sun, 22 Nov 2026 18:08:43 +0000"
+      "published": "Mon, 23 Nov 2026 16:20:11 +0000"
     },
     {
-      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
-      "importance": 6,
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "importance": 8,
       "topics": [
-        "AI",
-        "חומרה"
+        "NVIDIA",
+        "הנהלה בכירה"
       ],
-      "published": "Mon, 23 Nov 2026 12:00:00 +0000"
+      "published": "Mon, 23 Nov 2026 15:46:18 +0000"
+    },
+    {
+      "title": "אמזון רוכשת את הטכנולוגיות של Decart הישראלית",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/amazon-acquires-israeli-decart-exit/",
+      "summary": "אחרי הדיווחים וההדלפות, אמזון הודיעה היום (ב') רשמית על רכישת הטכנולוגיות של הסטארטאפ הישראלי Decart (דקארט). החברות לא פרסמו פרטים נוספים על העסקה. דיווחים קודמים (גם כאן) הזכירו סכומים של עד 7.5 מיליארד דולר, עם זאת הטיב המלא של העסקה אינו ברור עדיין וגם הסכומים. עוד כמה סימני שאלה על העסקה – כאן. רכישה אחרי […] The post אמזון רוכשת את הטכנולוגיות של Decart הישראלית appeared first on גיקטיים .",
+      "importance": 8,
+      "topics": [
+        "M&A",
+        "Amazon",
+        "Decart"
+      ],
+      "published": "Mon, 23 Nov 2026 13:49:12 +0000"
     }
   ]
 }
