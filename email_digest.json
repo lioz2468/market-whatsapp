@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:29:33.069391+00:00",
+  "generated_at": "2026-11-25T06:45:08.002852+00:00",
   "lookback_hours": 24,
   "world": [
     {
@@ -7,13 +7,25 @@
       "source": "NPR World",
       "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
       "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
-      "importance": 8,
+      "importance": 9,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "NATO"
+        "פולין"
       ],
       "published": "Tue, 24 Nov 2026 04:52:03 -0500"
+    },
+    {
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה"
+      ],
+      "published": "Wed, 25 Nov 2026 00:56:51 GMT"
     },
     {
       "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
@@ -23,195 +35,117 @@
       "importance": 8,
       "topics": [
         "רוסיה",
-        "NATO",
-        "חלל"
+        "נאטו",
+        "אבטחה חלל"
       ],
       "published": "Tue, 24 Nov 2026 10:58:51 GMT"
     },
     {
-      "title": "ההדלפה שחושפת את מחיר הדמים האדיר שפוטין מסתיר: \"נקודת המפנה מתקרבת\"",
+      "title": "טראמפ מסמן את חלון הזמן לתקיפה באיראן: \"יש לנו מימון עד סוף ינואר\"",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/h11162amk7x",
-      "summary": "כמעט 5 שנים אחרי הפלישה לאוקראינה, שהציתה את המלחמה הגדולה באירופה מאז מלחה\"ע ה-2, מאגר נתוני תמותה רוסי שנפרץ חושף שכמעט 500,000 חיילים רוסים נהרגו עד ספטמבר. עם זאת, הוא כולל חוסרים רבים וניתוח שהתבסס על ההדלפה מעריך: מניין ההרוגים האמיתי עומד על יותר מ-700,000. ב\"גרדיאן\" דיווחו שיותר מ-1,000 שמו קץ לחייהם: \"מתעללים בהם וכופים עליהם להילחם\"",
+      "url": "https://www.ynet.co.il/news/article/sknzej4jme",
+      "summary": "נשיא ארה\"ב הודה בריאיון ל\"ניו יורק פוסט\" כי השתלטות הדמוקרטים על הקונגרס בינואר עלולה להגביל את חופש הפעולה הצבאי שלו, והזהיר כי הם עלולים להפוך \"ניצחון מוחלט להפסד\". הוא התייחס גם לשאיפה הישראלית להפיל את משטר האייתוללות: \"זה כנראה אפשרי, אבל זו מעולם לא הייתה המטרה שלי\"",
       "importance": 8,
       "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
+        "ארה\"ב",
+        "איראן",
+        "דיפלומטיה"
       ],
-      "published": "Tue, 24 Nov 2026 14:35:39 +0200"
+      "published": "Wed, 25 Nov 2026 06:49:43 +0200"
     },
     {
-      "title": "Russian incursions into NATO territory are increasing",
+      "title": "ימים, שבועות או חודשים? האיום הכימי מאיראן - והדילמה בצמרת הביטחונית",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/yokra14969600",
+      "summary": "בכיר בצה\"ל מזהיר כי התפתחות היכולות הכימיות באיראן עלולה להציב את ישראל בפני \"איום שקשה יהיה לתת לו מענה\". במערכת הביטחון מסכימים על הצורך בתקיפה נוספת: ראש המוסד גופמן דוחף לפעולה מהירה, בצבא יש הסבורים שנותר עוד זמן. ההערכה: בידי איראן יותר מ-1,700 טילים בליסטיים",
+      "importance": 8,
+      "topics": [
+        "איראן",
+        "ביטחון ישראל",
+        "כלי נשק כימיים"
+      ],
+      "published": "Wed, 25 Nov 2026 05:41:18 +0200"
+    },
+    {
+      "title": "חשד למתקפת סייבר סינית על ה-CIA: האקרים חדרו למערכות המודיעין בעזרת AI",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/bjp4qsmkme",
+      "summary": "אחרי הפריצה למאגר המידע של ה-FBI וקריסת רשת התקשורת המסווגת של הסוכנות לביטחון לאומי, \"ניו יורק טיימס\" חושף כי האקרים חדרו למערכת שמשמשת לפחות 3 סוכנויות מודיעין אמריקניות. לפי החשד, הפורצים השתמשו בכלי בינה מלאכותית שפיתח מהנדס סיני ושנקשר לעשרות מתקפות ברחבי העולם. מידע מסווג לא נפגע, אך בוושינגטון גוברת הדאגה בצל רצף התקלות",
+      "importance": 8,
+      "topics": [
+        "סייבר",
+        "סין",
+        "מודיעין"
+      ],
+      "published": "Wed, 25 Nov 2026 03:06:51 +0200"
+    },
+    {
+      "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
       "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
-      "summary": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+      "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
       "importance": 7,
       "topics": [
-        "רוסיה",
-        "NATO",
-        "פולין"
+        "קונגו",
+        "סין",
+        "כרייה"
       ],
-      "published": "Mon, 23 Nov 2026 18:08:51 -0500"
+      "published": "Tue, 24 Nov 2026 05:00:00 -0500"
+    },
+    {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "importance": 7,
+      "topics": [
+        "סין",
+        "ארצות הברית",
+        "קניין אינטלקטואלי"
+      ],
+      "published": "Wed, 25 Nov 2026 02:59:27 GMT"
     },
     {
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
       "importance": 7,
       "topics": [
         "ישראל",
         "עזה",
-        "Hamas"
+        "חמאס"
       ],
-      "published": "Tue, 24 Nov 2026 12:12:48 GMT"
+      "published": "Tue, 24 Nov 2026 15:35:53 GMT"
     },
     {
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
       "importance": 7,
       "topics": [
-        "קונגו",
-        "מלחמה",
-        "אפריקה"
+        "טייוואן",
+        "סין",
+        "ההשפעה דיגיטלית"
       ],
-      "published": "Tue, 24 Nov 2026 10:48:27 GMT"
-    },
-    {
-      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
-      "importance": 7,
-      "topics": [
-        "מיאנמר",
-        "סנקציות",
-        "זכויות אדם"
-      ],
-      "published": "Mon, 23 Nov 2026 21:03:34 GMT"
-    },
-    {
-      "title": "Heat deaths reach record high in UK in 2026",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/24/heat-deaths-reach-record-high-in-uk-in-2026?traffic_source=rss",
-      "summary": "The UK Health Security Agency estimates that the total number of deaths has reached 5,258 for the summer of 2026.",
-      "importance": 7,
-      "topics": [
-        "בריטניה",
-        "אקלים",
-        "בריאות ציבור"
-      ],
-      "published": "Tue, 24 Nov 2026 13:11:25 +0000"
-    },
-    {
-      "title": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/24/can-ukraine-disrupt-russias-operations-in-africa?traffic_source=rss",
-      "summary": "Ukraine's strike off Libya signals Kyiv's ability to challenge Russian influence beyond the front lines, analysts say.",
-      "importance": 7,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "מלחמה"
-      ],
-      "published": "Tue, 24 Nov 2026 12:47:23 +0000"
-    },
-    {
-      "title": "הנתון שמדאיג את צה\"ל: כ-30% מכלי המלחמה היבשתיים מושבתים",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14967619",
-      "summary": "פרסום ראשון: למרות שכ-900 כלים משוריינים הוחזרו לכשירות ויותר מ-9,600 דחפורים תוקנו במהלך המלחמה, נכון לעכשיו כשליש מהטנקים והרק\"מים אינם נמצאים בכשירות. במקביל, בפיקוד המרכז מתכוננים לשינוי פריסת הבסיסים ביו\"ש, כשברבים מהם התנאים ללוחמים בעייתיים: ללא מטבח, חשמל ותשתיות",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "ביטחון",
-        "צה\"ל"
-      ],
-      "published": "Tue, 24 Nov 2026 11:31:17 +0200"
+      "published": "Tue, 24 Nov 2026 23:05:11 GMT"
     }
   ],
   "business": [
     {
-      "title": "עסקת ענק: קראודסטרייק רוכשת את Zscaler ב-44 מיליארד דולר",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/crowdstrike-acquires-zscaler/",
-      "summary": "עסקת הסייבר הגדולה בהיסטוריה: CrowdStrike רוכשת את Zscaler ב-44 מיליארד דולר. בעלי מניות Zscaler מקבלים פרמיה של 34% על מחיר המניה מסוף השבוע.\n\nפה קורה משהו שחורג מעסקה אחת - CrowdStrike מחברת בין אבטחת נקודות קצה לאבטחת רשתות ענן, וזה לחץ ישיר על Palo Alto Networks ו-Microsoft שבונות את אותה עוגה. מי שיספגו יותר מהצפוי הם ספקיות הסייבר הקטנות - כשהגדולות מתמזגות, הלקוחות הארגוניים מעדיפים לרכז הכל אצל שחקן אחד.",
-      "importance": 9,
-      "topics": [
-        "סייבר",
-        "M&A",
-        "טכנולוגיה",
-        "בורסות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-      "summary": "לפני שאנסח - כדאי לבדוק את הכתבה הזו. נכון להיום, לא מדובר בעסקה שהתפרסמה באופן רשמי, וייתכן שמדובר בשמועה, ספקולציה, או כתבה שגויה. עסקה בשווי 44 מיליארד דולר מהסוג הזה הייתה מזעזעת את השוק ומופיעה בכל הכותרות הפיננסיות.\n\nאם אתה בטוח שהכתבה אמיתית ומאומתת - שלח לי את הקישור ואנסח מיד. אם יש ספק - עדיף לא לשלוח לקהל מידע שעלול להיות שגוי, במיוחד על עסקה בסדר גודל כזה.",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "summary": "אמזון רוכשת את Decart תמורת 7.5 מיליארד דולר - וזה לא עוד עסקת AI רגילה.\n\nהרעיון: במקום להשקיע עוד מיליארדים בפיתוח שבבים חזקים יותר, אמזון מנסה לסגור את הפער מול Nvidia דרך תוכנה. Decart מתמחה בלהפיק ביצועים גבוהים יותר מהשבבים הקיימים של Trainium - כלומר לעשות יותר עם מה שכבר יש.\n\nהנפגעת הראשונה היא Nvidia, שהיתרון שלה עד היום לא היה רק בחומרה אלא בסט הכלים סביבה. אם אמזון מצליחה לשחזר את זה לשבבים שלה - המשחק משתנה. ומי שמוכר ל-AWS שירותי מחשוב יכול לראות מחירים שונים לגמרי בשנים הקרובות.",
       "importance": 9,
       "topics": [
-        "סייבר",
-        "M&A",
-        "AI"
+        "סמיקונדקטורים",
+        "השקעות",
+        "AI",
+        "תחרות"
       ],
       "tag": "גלובלי"
-    },
-    {
-      "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "ועידת האקלים של האו\"ם (COP31) קרסה בסוף השבוע אחרי שהטיוטה הסופית לא כללה כמעט שום התייחסות לדלקים פוסיליים. ממשלות וארגוני סביבה דחו אותה על הסף.\n\nלמה זה חשוב מעבר לכותרות הירוקות: חברות אנרגיה מתחדשת שתמחרו האצה רגולטורית יצטרכו לאחר את הציפיות. מנגד, חברות נפט וגז יוצאות מהוועידה עם פחות לחץ ממה שציפו - לפחות לטווח הקצר. השוק כבר יתחיל לשאול מי מרוויח מהשאיפות שלא מומשו.",
-      "importance": 8,
-      "topics": [
-        "אנרגיה",
-        "דלקים מחומרים",
-        "פוליטיקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "ריבית המשכנתאות בארה\"ב קפצה בספטמבר לרמות שמקפיאות את שוק הנדל\"ן לחלוטין. קונים לא קונים, מוכרים לא מוכרים - כי מי שיש לו משכנתא זולה מהשנים האחרונות פשוט לא מוכן לוותר עליה. התוצאה היא שוק תקוע שמשפיע על הרבה יותר מנדל\"ן: פחות מעברי דירה זה פחות רהיטים, פחות שיפוצים, פחות הוצאות צרכניות - וזה כבר מתחיל להיות מורגש בכלכלה הרחבה.",
-      "importance": 8,
-      "topics": [
-        "דיור",
-        "ריבית",
-        "צרכנות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Stock Market Today: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "נאסד\"ק קפץ 7% אחרי ירידות של סוף השבוע - ו-Nvidia מובילה את ההתאוששות.\n\nג'נסן הואנג חזר למרכז הבמה, והשוק הגיב בהתלהבות. זה לא רק סיפור של מניה אחת - כשהסנטימנט סביב AI משתנה כך, זה מתגלגל גם לחברות שמספקות תשתיות ענן, יצרני שבבים כמו AMD ו-TSMC, ואפילו קרנות מחקות שמחזיקות הרבה מהסקטור. שווה לשים לב איך שאר השבוע נראה.",
-      "importance": 8,
-      "topics": [
-        "טכנולוגיה",
-        "שווקים",
-        "מניות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "מניות חברות הביטוח הגדולות בארה\"ב - UnitedHealth, Humana ו-CVS - נפלו בחדות אחרי שהממשל הפדרלי הודיע שהוא בוחן מחדש את שיטת הדירוג של תוכנית Medicare Advantage.\n\nזו לא רק סוגיה טכנית: הדירוג קובע כמה כסף החברות מקבלות מהממשלה על כל מבוטח. שינוי בנוסחה יכול לפגוע ישירות ברווחים.\n\nמי שכדאי לעקוב אחריו: בתי חולים ורשתות מרפאות שקשורות לחוזים עם אותן חברות - גם הם ייפגעו אם תקציבי הביטוח יצטמצמו.",
-      "importance": 8,
-      "topics": [
-        "רגולציה",
-        "בריאות",
-        "ביטוח"
-      ],
-      "tag": "ארה\"ב"
     },
     {
       "title": "‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing.",
@@ -265,110 +199,175 @@
         "ניידות ההון"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Xi Delays US Chip Retaliation After Trump Seals Nvidia U-Turn",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "צ'ינה החליטה לדחות את תגובת הנגד על הגבלות הצ'יפים האמריקאיות - ולא חתכה את הייצוא של מינרלים קריטיים לארה\"ב. זה קורה כמה שעות אחרי שטראמפ פתח מחדש את הדלת לנבידיה למכור ב-H20 לסין.\n\nמה שמעניין פה: זו לא נסיגה - זה סימן שסין שומרת את הקלפים שלה. המינרלים האלה (גליום, גרמניום ואחרים) הם חומרי גלם שהמערב עדיין לא מצא להם תחליף. כל עוד הם על השולחן, יש לסין אמצעי לחץ אמיתי - וגם הסיבה שמניות הצ'יפים מגיבות לכל הודעה כזו הרבה לפני שהמשקיעים מבינים את ההקשר המלא.",
+      "importance": 8,
+      "topics": [
+        "צ'יפים",
+        "סחר",
+        "ארה\"ב-סין",
+        "טכנולוגיה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_markets_main",
+      "summary": "הגורל של בום ה-AI תלוי כרגע בחברה אחת - NVIDIA. הוול סטריט ג'ורנל מעלה נקודה שחשוב להבין: כשתעשייה שלמה נשענת על ספק יחיד של תשתית קריטית, זה לא רק כוח - זה גם סיכון מערכתי. אם NVIDIA תיתקל בבעיה - פיסית, רגולטורית או תחרותית - כל מי שבנה תוכניות סביבה ירגיש את זה. שווה לשים לב לא רק למה שג'נסן הואנג אומר, אלא למי שמנסה לבנות חלופות.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "Nvidia",
+        "סיכון מערכתי"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "המניה של Insmed קפצה 14% אחרי שסאנופי הכריזה על רכישתה - העסקה הגדולה בתרופות בשלוש שנים.\n\nהרקע חשוב: סאנופי מתמודדת עם ירידת הכנסות צפויה בסוף העשור, כשפטנטים על תרופות מובילות יפקעו ותחרות גנרית תיכנס. הרכישה הזו היא פתרון קלאסי - במקום לחכות שהבעיה תגיע, קונים צינור מוצרים חדש.\n\nמה שפחות ברור: חברות תרופות אחרות שנמצאות במצב דומה עלולות להיכנס ללחץ לעשות אותו הדבר. ציפיות לגל עסקאות נוסף בסקטור.",
+      "importance": 8,
+      "topics": [
+        "תרופות",
+        "M&A",
+        "שרשרת אספקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "OPEC+ Faces Its Most Consequential Supply Decision of the Year",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "פגישת OPEC+ בסוף החודש היא כנראה הסיבוב החשוב ביותר השנה בשוק הנפט. השאלה על השולחן: כמה נפט להזרים לשוק - וכל תשובה מחרצת גורלות.\n\nאם יחתכו אספקה, המחירים עולים ואיתם עלויות ייצור, שילוח ואנרגיה ברחבי העולם. אם יגדילו אספקה, הלחץ יורד על אינפלציה - אבל מדינות המפרץ מפסידות הכנסות. מי שצריך לשים לב במיוחד: חברות שירותים תעשייתיים, חברות תעופה וכל מי שהמרווחים שלו תלויים במחיר האנרגיה.",
+      "importance": 8,
+      "topics": [
+        "opec",
+        "שמן",
+        "אנרגיה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "ג'ון וויליאמס מהפד - אחד מהבכירים שמשפיעים ביותר על המדיניות - אמר אמש שהריביות ככל הנראה יעלו \"עם הזמן\" כדי להחזיר את האינפלציה ל-2%. הוא לא מצפה לזה לפני 2027.\n\nזה חשוב כי השוק תמחר עד עכשיו הורדות ריבית השנה. אם וויליאמס צודק, ההערכות האלה יצטרכו לזוז - וזה ישפיע על כל מה שרגיש לריבית: אג\"ח, נדל\"ן, חברות צמיחה, ואפילו הדולר מול השקל.",
+      "importance": 8,
+      "topics": [
+        "פד",
+        "ריבית",
+        "אינפלציה"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "title": "Huawei found guilty of stealing trade secrets",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and […]",
+      "importance": 8,
+      "topics": [
+        "Huawei",
+        "משפט",
+        "סחר בחו\"ל"
+      ],
+      "published": "2026-11-24T17:23:27-05:00"
+    },
+    {
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "importance": 8,
+      "topics": [
+        "Microsoft",
+        "Cloud",
+        "אנטי-טראסט"
+      ],
+      "published": "Tue, 24 Nov 2026 22:36:28 +0000"
+    },
+    {
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+      "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "הנהלה בכירה",
+        "פוליטיקה"
+      ],
+      "published": "Tue, 24 Nov 2026 14:56:50 +0000"
+    },
+    {
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
       "source": "Wired",
-      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
-      "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
-      "importance": 9,
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "importance": 8,
+      "topics": [
+        "NVIDIA",
+        "אנטי-טראסט",
+        "גיאופוליטיקה"
+      ],
+      "published": "Tue, 24 Nov 2026 23:39:04 +0000"
+    },
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+      "importance": 7,
+      "topics": [
+        "NVIDIA",
+        "הנהלה בכירה"
+      ],
+      "published": "Wed, 25 Nov 2026 00:12:02 +0000"
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "importance": 7,
+      "topics": [
+        "AI",
+        "מחקר"
+      ],
+      "published": "Tue, 24 Nov 2026 21:33:29 +0000"
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "importance": 7,
       "topics": [
         "AI",
         "Anthropic",
-        "מחקר מדעי"
+        "IPO"
       ],
-      "published": "Tue, 24 Nov 2026 10:15:00 +0000"
+      "published": "Tue, 24 Nov 2026 18:30:42 +0000"
     },
     {
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
-      "importance": 8,
+      "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+      "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
+      "importance": 7,
       "topics": [
-        "רגולציה",
-        "סנקציות",
-        "NVIDIA"
+        "רכב אוטונומי",
+        "טכנולוגיה"
       ],
-      "published": "Mon, 23 Nov 2026 21:25:42 +0000"
-    },
-    {
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "Amazon",
-        "רכישות"
-      ],
-      "published": "Mon, 23 Nov 2026 17:14:23 +0000"
-    },
-    {
-      "title": "CrowdStrike to acquire Zscaler for $44 billion",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-      "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
-      "importance": 8,
-      "topics": [
-        "M&A",
-        "סייבר ביטחון",
-        "AI"
-      ],
-      "published": "Mon, 23 Nov 2026 16:20:11 +0000"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
-      "importance": 8,
-      "topics": [
-        "NVIDIA",
-        "שינוי הנהלה"
-      ],
-      "published": "2026-11-23T17:10:32-05:00"
-    },
-    {
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "רגולציה",
-        "X/Grok"
-      ],
-      "published": "Mon, 23 Nov 2026 21:30:44 +0000"
-    },
-    {
-      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
-      "importance": 8,
-      "topics": [
-        "NVIDIA",
-        "הנהלה",
-        "שבבים"
-      ],
-      "published": "Mon, 23 Nov 2026 15:46:18 +0000"
-    },
-    {
-      "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/",
-      "summary": "A pair of unsecured databases exposed sensitive information about hundreds of millions of people—including data that could let attackers “own” a victim’s digital life.",
-      "importance": 8,
-      "topics": [
-        "אבטחה סייבר",
-        "דליפת נתונים"
-      ],
-      "published": "Tue, 24 Nov 2026 11:00:00 +0000"
+      "published": "Tue, 24 Nov 2026 16:40:46 +0000"
     }
   ]
 }
