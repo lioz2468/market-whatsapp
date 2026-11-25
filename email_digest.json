@@ -1,109 +1,97 @@
 {
-  "generated_at": "2026-11-25T06:45:08.002852+00:00",
+  "generated_at": "2026-11-25T12:28:25.728688+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
-      "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
-      "importance": 9,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "פולין"
-      ],
-      "published": "Tue, 24 Nov 2026 04:52:03 -0500"
-    },
-    {
-      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
       "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה"
-      ],
-      "published": "Wed, 25 Nov 2026 00:56:51 GMT"
-    },
-    {
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "importance": 8,
+      "importance": 9,
       "topics": [
         "רוסיה",
-        "נאטו",
-        "אבטחה חלל"
+        "אוקראינה",
+        "מלחמה"
       ],
-      "published": "Tue, 24 Nov 2026 10:58:51 GMT"
+      "published": "Wed, 25 Nov 2026 12:21:49 GMT"
     },
     {
-      "title": "טראמפ מסמן את חלון הזמן לתקיפה באיראן: \"יש לנו מימון עד סוף ינואר\"",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/sknzej4jme",
-      "summary": "נשיא ארה\"ב הודה בריאיון ל\"ניו יורק פוסט\" כי השתלטות הדמוקרטים על הקונגרס בינואר עלולה להגביל את חופש הפעולה הצבאי שלו, והזהיר כי הם עלולים להפוך \"ניצחון מוחלט להפסד\". הוא התייחס גם לשאיפה הישראלית להפיל את משטר האייתוללות: \"זה כנראה אפשרי, אבל זו מעולם לא הייתה המטרה שלי\"",
-      "importance": 8,
-      "topics": [
-        "ארה\"ב",
-        "איראן",
-        "דיפלומטיה"
-      ],
-      "published": "Wed, 25 Nov 2026 06:49:43 +0200"
-    },
-    {
-      "title": "ימים, שבועות או חודשים? האיום הכימי מאיראן - והדילמה בצמרת הביטחונית",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14969600",
-      "summary": "בכיר בצה\"ל מזהיר כי התפתחות היכולות הכימיות באיראן עלולה להציב את ישראל בפני \"איום שקשה יהיה לתת לו מענה\". במערכת הביטחון מסכימים על הצורך בתקיפה נוספת: ראש המוסד גופמן דוחף לפעולה מהירה, בצבא יש הסבורים שנותר עוד זמן. ההערכה: בידי איראן יותר מ-1,700 טילים בליסטיים",
-      "importance": 8,
-      "topics": [
-        "איראן",
-        "ביטחון ישראל",
-        "כלי נשק כימיים"
-      ],
-      "published": "Wed, 25 Nov 2026 05:41:18 +0200"
-    },
-    {
-      "title": "חשד למתקפת סייבר סינית על ה-CIA: האקרים חדרו למערכות המודיעין בעזרת AI",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bjp4qsmkme",
-      "summary": "אחרי הפריצה למאגר המידע של ה-FBI וקריסת רשת התקשורת המסווגת של הסוכנות לביטחון לאומי, \"ניו יורק טיימס\" חושף כי האקרים חדרו למערכת שמשמשת לפחות 3 סוכנויות מודיעין אמריקניות. לפי החשד, הפורצים השתמשו בכלי בינה מלאכותית שפיתח מהנדס סיני ושנקשר לעשרות מתקפות ברחבי העולם. מידע מסווג לא נפגע, אך בוושינגטון גוברת הדאגה בצל רצף התקלות",
-      "importance": 8,
-      "topics": [
-        "סייבר",
-        "סין",
-        "מודיעין"
-      ],
-      "published": "Wed, 25 Nov 2026 03:06:51 +0200"
-    },
-    {
-      "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-      "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
-      "importance": 7,
-      "topics": [
-        "קונגו",
-        "סין",
-        "כרייה"
-      ],
-      "published": "Tue, 24 Nov 2026 05:00:00 -0500"
-    },
-    {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "title": "US preparing to unveil plan for new tariffs on global trading partners",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "importance": 8,
+      "topics": [
+        "מסחר",
+        "טריפים",
+        "כלכלה"
+      ],
+      "published": "Wed, 25 Nov 2026 00:38:01 GMT"
+    },
+    {
+      "title": "Israeli strike kills Hamas official, his wife and children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
+      "summary": "The air strike hit their Gaza apartment amid escalating Israeli attacks, the Interior Ministry says.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "פלסטינה",
+        "חמאס"
+      ],
+      "published": "Wed, 25 Nov 2026 11:24:37 +0000"
+    },
+    {
+      "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+      "summary": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "איראן",
+        "נתניהו"
+      ],
+      "published": "Wed, 25 Nov 2026 10:27:53 +0000"
+    },
+    {
+      "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+      "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
       "importance": 7,
       "topics": [
         "סין",
-        "ארצות הברית",
-        "קניין אינטלקטואלי"
+        "פוליטיקה",
+        "שחיתות"
       ],
-      "published": "Wed, 25 Nov 2026 02:59:27 GMT"
+      "published": "Wed, 25 Nov 2026 04:44:13 -0500"
+    },
+    {
+      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "importance": 7,
+      "topics": [
+        "מדע",
+        "חלל",
+        "פריצת דרך"
+      ],
+      "published": "Wed, 25 Nov 2026 06:00:36 GMT"
+    },
+    {
+      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+      "importance": 7,
+      "topics": [
+        "איי שלמון",
+        "סין",
+        "אוסטרליה"
+      ],
+      "published": "Wed, 25 Nov 2026 03:15:12 GMT"
     },
     {
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
@@ -113,23 +101,35 @@
       "importance": 7,
       "topics": [
         "ישראל",
-        "עזה",
-        "חמאס"
+        "חמאס",
+        "עזה"
       ],
       "published": "Tue, 24 Nov 2026 15:35:53 GMT"
     },
     {
-      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
+      "summary": "Chen is the fourth high-ranking Politburo member to be pushed out in two years.",
       "importance": 7,
       "topics": [
-        "טייוואן",
         "סין",
-        "ההשפעה דיגיטלית"
+        "פוליטיקה"
       ],
-      "published": "Tue, 24 Nov 2026 23:05:11 GMT"
+      "published": "Wed, 25 Nov 2026 10:50:26 +0000"
+    },
+    {
+      "title": "הצעת החוק להקמת ועדת חקירה ממלכתית לטבח 7 באוקטובר אושרה בקריאה טרומית",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/bydezhnyxg",
+      "summary": "הצעת החוק אושרה בתמיכת 65 חברי כנסת מול 50 מתנגדים. משפחות שכולות קראו לשרה רגב לרדת מהפודיום בזמן שטענה: \"ההצעה לא תבדוק את מה שקרה במחדל\"",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "פוליטיקה",
+        "7 באוקטובר"
+      ],
+      "published": "Wed, 25 Nov 2026 14:16:27 +0200"
     }
   ],
   "business": [
@@ -146,59 +146,6 @@
         "תחרות"
       ],
       "tag": "גלובלי"
-    },
-    {
-      "title": "‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?mod=rss_markets_main",
-      "summary": "הנאסד\"ק קפץ ביותר 2 טריליון דולר בשווי שוק ביום אחד - אחד הימים החזקים של השנה. הקפיצה הגיעה אחרי שג'נסן הואנג מ-NVIDIA עלה על הבמה בוועידה שלהם והציג כיוון ברור לשנים הקרובות. כל ענף הטק נשם לרווחה.\n\nמה שמעניין מעבר לכותרות: הירידות של השבוע שעבר יצרו לחץ אמיתי על קרנות שהיו חשופות לטק. השיבה החדה הזו עוזרת להן לצאת ממצב לא נוח - וזה מה שמזין חלק גדול מהנפח הגבוה היום.",
-      "importance": 8,
-      "topics": [
-        "בורסה",
-        "טכנולוגיה",
-        "AI"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "שלושה מכליות נפט נפגעו ממוקשים ימיים במיצר הורמוז - אחד מנקודות החנק הקריטיות ביותר בסחר הגלובלי. זה קורה בדיוק כשארה\"ב מרחיבה סנקציות על איראן ומנסה לחתוך את הכנסותיה מנפט.\n\nהמיצר הזה הוא שביל עובר של כ-20% מסחר הנפט העולמי. כל הסלמה שם נכנסת ישר למחירי הנפט - ומשם לעלויות הובלה, ביטוח ימי, וסופו של דבר גם למחירי הדלק.\n\nשווה לעקוב אחרי מחירי הנפט הגולמי בימים הקרובים.",
-      "importance": 8,
-      "topics": [
-        "סנקציות",
-        "אנרגיה",
-        "שרשרת אספקה",
-        "גיאופוליטיקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-      "summary": "סאנופי הצרפתית רוכשת את חברת הביוטק האמריקאית Insmed תמורת 41 מיליארד דולר - העסקה הגדולה ביותר בתעשייה כמעט שלוש שנים. הרקע: התרופה המרכזית של סאנופי מאבדת פטנט בקרוב, וצריך למלא את החור בהכנסות.\n\nזה בדיוק הדפוס שחוזר על עצמו בתרופות - חברות גדולות מעדיפות לקנות צמיחה מבחוץ במקום לפתח מאפס. שווה לשים לב: כשדיל בסדר גודל כזה נסגר, זה בדרך כלל מאיץ רכישות נוספות בסקטור - חברות ביוטק קטנות ובינוניות הופכות פתאום לאטרקטיביות יותר.",
-      "importance": 8,
-      "topics": [
-        "תרופות",
-        "M&A",
-        "שיבוש תעשייה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "ארה\"ב הוסיפה את Megaspeed ועוד שש חברות לרשימה השחורה של הסחר, בגלל חשש שמוצרי מחשוב מתקדמים עוברים עקיפות על פקדי הייצוא.\n\nזה חלק ממגמה ברורה: הממשל מחפש בכל מקום ערוצים שבהם שבבים מתקדמים - בעיקר של Nvidia - מגיעים למי שלא אמורים לקבל אותם. ה-controversy סביב Nvidia לא מקרי - השם הזה מופיע בכל הסיפור הזה.\n\nמי שצריך לשים לב: כל חברה שתלויה בגישה לשוק הסיני - מפיצים, ספקים, חברות לוגיסטיקה - יכולה למצוא את עצמה על הרשימה הזו בהפתעה.",
-      "importance": 8,
-      "topics": [
-        "סנקציות",
-        "AI",
-        "ניידות ההון"
-      ],
-      "tag": "ארה\"ב"
     },
     {
       "title": "Xi Delays US Chip Retaliation After Trump Seals Nvidia U-Turn",
@@ -265,9 +212,73 @@
         "אינפלציה"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "source": "CNBC World",
+      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "summary": "ג'נסן הואנג חזר לסין - וזה לא רק סיפור של Nvidia.\n\nהתחרות בין ארה\"ב וסין על AI כבר מזמן לא עוסקת רק בשבבים. המשאב האמיתי שעליו נלחמים עכשיו הוא כישרון אנושי - מהנדסים, חוקרים, אנשים שיכולים לבנות את הדור הבא של מודלים. הואנג נסע לסין לא רק כדי למכור כרטיסים גרפיים, אלא כדי לשמור על קשרים עם מערכת שלמה של טאלנט ומחקר.\n\nההשלכה הפחות מדוברת: חברות כמו Google, Microsoft ו-Meta גם הן חלק מהמשחק הזה - ומי שיצליח לשמר את האנשים הנכונים, ינצח.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "סין",
+        "טכנולוגיה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Dangote Refinery Set to Start Trading in Lagos on Dec. 1",
+      "source": "Bloomberg Markets",
+      "url": "",
+      "summary": "בורסת לאגוס תקבל מחר את החברה הגדולה ביותר שנסחרת באפריקה. מפעל הזיקוק של אליקו דנגוטה מונפק לראשונה לציבור לפי שווי של כ-48 מיליארד דולר - וזה ה-IPO הגדול ביותר בהיסטוריה של היבשת.\n\nמה שמעניין פה מעבר למספר: ניגריה מנסה להפוך ממוצאת גולמי למדינה שמעבדת את הנפט שלה בעצמה. זה משנה את מאזן הכוחות האזורי - ומשפיע ישירות על מדינות אפריקאיות שמייבאות דלק מזוקק מחוץ ליבשת.",
+      "importance": 8,
+      "topics": [
+        "IPO",
+        "אנרגיה",
+        "אפריקה"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Will it stop at construction? UK sanctions a worrying portent",
+      "source": "גלובס שוק ההון",
+      "url": "",
+      "summary": "בריטניה הטילה סנקציות על חברות בנייה ישראליות - וסוגיית המשך כבר מדירה שינה מאנשים בתחום. עורך דין טרבור אסרסון, שמכיר היטב את המערכת הבריטית, אומר שהבנקים הישראליים עלולים להיות הבאים בתור.\n\nזה לא תרחיש תיאורטי. בנק ישראלי שייכנס לרשימות סנקציות בריטיות יתקשה מאוד לעבוד מול בנקים אירופאים שחוששים מחשיפה משנית. חברות ישראליות שמייצאות לאירופה, חברות ביטוח, וכל מי שתלוי בגישה למערכת הפיננסית הגלובלית - כולם בתמונה.",
+      "importance": 8,
+      "topics": [
+        "סנקציות",
+        "בנקאות",
+        "גיאופוליטיקה"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+      "summary": "חברות הטק הגדולות מתחילות להרגיש לחץ ממקום לא צפוי - שוק האג\"ח הקונצרני. המלווים נעשים סלקטיביים יותר לגבי מי שמנפיק חוב למימון תשתיות AI, מה שעלול לסבך את גיוסי ההון שמאחורי מרוץ ה-AI.\n\nהנקודה המעניינת: הרבה מהשקעות ה-AI מומנו עד היום בחוב, לא בהון עצמי. אם שוק האג\"ח מתנהג בזהירות, זה לא רק בעיה של Meta או Google - זה לחץ על כל שרשרת האספקה: מרכזי נתונים, קבלני בנייה, וגם יצרניות הציוד.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "פיננסול",
+        "חוב תאגידי"
+      ],
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
+    {
+      "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+      "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to […]",
+      "importance": 8,
+      "topics": [
+        "Microsoft",
+        "הפסקה"
+      ],
+      "published": "2026-11-25T06:12:42-05:00"
+    },
     {
       "title": "Huawei found guilty of stealing trade secrets",
       "source": "The Verge",
@@ -276,8 +287,8 @@
       "importance": 8,
       "topics": [
         "Huawei",
-        "משפט",
-        "סחר בחו\"ל"
+        "אנטי-טראסט",
+        "משפט"
       ],
       "published": "2026-11-24T17:23:27-05:00"
     },
@@ -290,35 +301,22 @@
       "topics": [
         "Microsoft",
         "Cloud",
-        "אנטי-טראסט"
+        "תקלה גדולה"
       ],
       "published": "Tue, 24 Nov 2026 22:36:28 +0000"
     },
     {
-      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
-      "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+      "title": "מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/microsoft-code-red-m365-outage-three-issues-explained/",
+      "summary": "אם גם אתם מצאתם את עצמכם בוהים במסך ריק לפני כשבועיים ותוהים למה לעזאזל האאוטלוק שלכם לא זז או למה הטימס התנתק, תתנחמו בזה שאתם לא בצוותי ההנדסה של מיקרוסופט, כי מתברר שמאחורי הקלעים במיקרוסופט המצב מלחיץ הרבה יותר. מיילים פנימיים שהגיעו לרויטרס חושפים עכשיו שבעקבות התקלה שנמשכה 24 שעות, הכריזה מיקרוסופט על מצב חירום […] The post מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת appeared first on ג",
       "importance": 8,
       "topics": [
-        "NVIDIA",
-        "הנהלה בכירה",
-        "פוליטיקה"
+        "Microsoft",
+        "תקלה",
+        "אבטחה"
       ],
-      "published": "Tue, 24 Nov 2026 14:56:50 +0000"
-    },
-    {
-      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-      "importance": 8,
-      "topics": [
-        "NVIDIA",
-        "אנטי-טראסט",
-        "גיאופוליטיקה"
-      ],
-      "published": "Tue, 24 Nov 2026 23:39:04 +0000"
+      "published": "Wed, 25 Nov 2026 10:41:51 +0000"
     },
     {
       "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
@@ -328,21 +326,33 @@
       "importance": 7,
       "topics": [
         "NVIDIA",
-        "הנהלה בכירה"
+        "הנהלה"
       ],
       "published": "Wed, 25 Nov 2026 00:12:02 +0000"
     },
     {
-      "title": "Even the best AI agents struggle with everyday life",
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
       "importance": 7,
       "topics": [
-        "AI",
-        "מחקר"
+        "NVIDIA",
+        "רגולציה"
       ],
-      "published": "Tue, 24 Nov 2026 21:33:29 +0000"
+      "published": "Wed, 25 Nov 2026 00:10:27 +0000"
+    },
+    {
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "סייבר"
+      ],
+      "published": "Tue, 24 Nov 2026 21:09:04 +0000"
     },
     {
       "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
@@ -352,22 +362,9 @@
       "importance": 7,
       "topics": [
         "AI",
-        "Anthropic",
-        "IPO"
+        "בורסה"
       ],
       "published": "Tue, 24 Nov 2026 18:30:42 +0000"
-    },
-    {
-      "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-      "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
-      "importance": 7,
-      "topics": [
-        "רכב אוטונומי",
-        "טכנולוגיה"
-      ],
-      "published": "Tue, 24 Nov 2026 16:40:46 +0000"
     }
   ]
 }
