@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T06:45:11.320893+00:00",
+  "generated_at": "2026-11-26T12:09:02.288459+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
+      "importance": 8,
+      "topics": [
+        "מיאנמר",
+        "רוהינג'ה",
+        "משפט בינלאומי"
+      ],
+      "published": "Thu, 26 Nov 2026 10:25:51 GMT"
+    },
+    {
+      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
+      "importance": 8,
+      "topics": [
+        "ישראל",
+        "עזה",
+        "ביטחון"
+      ],
+      "published": "Thu, 26 Nov 2026 10:14:08 GMT"
+    },
     {
       "title": "US announces new tariffs on host of countries including China",
       "source": "BBC World",
@@ -10,127 +36,101 @@
       "importance": 8,
       "topics": [
         "ארה״ב",
-        "סחר בינלאומי",
-        "סין"
+        "מסחר",
+        "כלכלה גלובלית"
       ],
       "published": "Thu, 26 Nov 2026 04:10:58 GMT"
     },
     {
-      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "נתניהו",
-        "משפט"
-      ],
-      "published": "Wed, 25 Nov 2026 19:47:39 GMT"
-    },
-    {
-      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+      "summary": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "קונפליקט"
+        "מלחמה"
       ],
-      "published": "Wed, 25 Nov 2026 12:21:49 GMT"
+      "published": "Thu, 26 Nov 2026 10:02:09 +0000"
     },
     {
-      "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+      "title": "Israeli attacks on Gaza kill senior education official, seven other people",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
-      "summary": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
+      "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu confirms killing of Khaled Abu Nada, undersecretary of Education Ministry.",
       "importance": 8,
       "topics": [
-        "צפון קוריאה",
-        "נשקים גרעיניים",
-        "ביטחון"
+        "ישראל",
+        "עזה",
+        "סכסוך"
       ],
-      "published": "Thu, 26 Nov 2026 02:03:03 +0000"
+      "published": "Thu, 26 Nov 2026 09:00:06 +0000"
     },
     {
-      "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-      "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
-      "importance": 7,
-      "topics": [
-        "סין",
-        "פוליטיקה",
-        "השחתות"
-      ],
-      "published": "Wed, 25 Nov 2026 04:44:13 -0500"
-    },
-    {
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "title": "Desperate appeals from women on death row in Iran after protests",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
       "importance": 7,
       "topics": [
-        "מצרים",
-        "אסון",
-        "תאונה"
+        "איראן",
+        "זכויות אדם",
+        "הוצאות להורג"
       ],
-      "published": "Wed, 25 Nov 2026 22:18:06 GMT"
+      "published": "Thu, 26 Nov 2026 06:01:58 GMT"
     },
     {
-      "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
-      "summary": "Meningitis is raising alarm in Gaza, where overcrowding, damaged sanitation are putting children at risk.",
+      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
       "importance": 7,
       "topics": [
         "בריאות",
-        "עזה",
-        "משבר הומניטרי"
+        "אפריקה",
+        "חדשנות רפואית"
       ],
-      "published": "Thu, 26 Nov 2026 06:14:15 +0000"
+      "published": "Thu, 26 Nov 2026 11:00:39 GMT"
     },
     {
-      "title": "How Silicon Valley became central to Israel’s war on Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
-      "summary": "From surveillance systems to AI targeting, US tech giants are deeply embedded in Israel's war machine.",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
       "importance": 7,
       "topics": [
-        "ישראל",
+        "בריטניה",
+        "אירופה",
+        "מדיניות מסחר"
+      ],
+      "published": "Thu, 26 Nov 2026 09:59:14 GMT"
+    },
+    {
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "importance": 7,
+      "topics": [
         "טכנולוגיה",
-        "ארה״ב"
+        "חלל",
+        "AI"
       ],
-      "published": "Thu, 26 Nov 2026 06:12:53 +0000"
+      "published": "Thu, 26 Nov 2026 09:27:44 GMT"
     },
     {
-      "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
-      "summary": "Apps not working. Bank transfers not going through. And a court fighting for international law must skirt US firms.",
-      "importance": 7,
-      "topics": [
-        "בית משפט בינלאומי",
-        "סנקציות",
-        "משפט"
-      ],
-      "published": "Thu, 26 Nov 2026 06:07:35 +0000"
-    },
-    {
-      "title": "חבר הלשכה המדינית של חמאס חוסל בעזה: \"שני טילים שוגרו למבנה\"",
+      "title": "מטרת איזנקוט: לסגור הסכמים עם הגוש עד מוצ\"ש | הציר החרדי - ושאלת בנט",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/hywhsgs1mg",
-      "summary": "צה\"ל ושב\"כ עדכנו על ניסיון החיסול, וזמן קצר לאחר מכן דווח שסוכל ראש מחלקת כלכלה ומנכ״ל משרד החינוך של חמאס. בעזה דיווחו על 3 הרוגים בתקיפה על מחנה שאטי ועל עוד שניים בתקיפת דירה בדיר אל-בלח. ברקע: שורת חיסולים בימים האחרונים של בכירים במנגנון ביטחון הפנים של חמאס",
+      "url": "https://www.ynet.co.il/news/article/h111fo00hkxe",
+      "summary": "אחרי ההסכם עם ליברמן שלקראת חתימה, יו\"ר ישר שואף להשלים את המו\"מ עם יתר מפלגות הגוש בראשותו ב-48 השעות הקרובות. בנט עדיין לא ממהר להתחייב ומחכה לשמוע מאיזנקוט בדיוק מה וכמה יקבלו החרדים - ודורש תשובות גם בנוגע לרע\"מ. אלה שני המסלולים, שמתנהלים בקצב שונה",
       "importance": 7,
       "topics": [
-        "עזה",
-        "חמאס",
-        "ביטחון"
+        "פוליטיקה ישראלית",
+        "הקמת ממשלה",
+        "משא ומתן קואליציוני"
       ],
-      "published": "Thu, 26 Nov 2026 04:30:35 +0200"
+      "published": "Thu, 26 Nov 2026 11:45:47 +0200"
     }
   ],
   "business": [
@@ -157,58 +157,6 @@
         "AI",
         "בורסה",
         "טכנולוגיה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "source": "CNBC World",
-      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "summary": "ג'נסן הואנג חזר לסין - וזה לא רק סיפור של Nvidia.\n\nהתחרות בין ארה\"ב וסין על AI כבר מזמן לא עוסקת רק בשבבים. המשאב האמיתי שעליו נלחמים עכשיו הוא כישרון אנושי - מהנדסים, חוקרים, אנשים שיכולים לבנות את הדור הבא של מודלים. הואנג נסע לסין לא רק כדי למכור כרטיסים גרפיים, אלא כדי לשמור על קשרים עם מערכת שלמה של טאלנט ומחקר.\n\nההשלכה הפחות מדוברת: חברות כמו Google, Microsoft ו-Meta גם הן חלק מהמשחק הזה - ומי שיצליח לשמר את האנשים הנכונים, ינצח.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "סין",
-        "טכנולוגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Dangote Refinery Set to Start Trading in Lagos on Dec. 1",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "בורסת לאגוס תקבל מחר את החברה הגדולה ביותר שנסחרת באפריקה. מפעל הזיקוק של אליקו דנגוטה מונפק לראשונה לציבור לפי שווי של כ-48 מיליארד דולר - וזה ה-IPO הגדול ביותר בהיסטוריה של היבשת.\n\nמה שמעניין פה מעבר למספר: ניגריה מנסה להפוך ממוצאת גולמי למדינה שמעבדת את הנפט שלה בעצמה. זה משנה את מאזן הכוחות האזורי - ומשפיע ישירות על מדינות אפריקאיות שמייבאות דלק מזוקק מחוץ ליבשת.",
-      "importance": 8,
-      "topics": [
-        "IPO",
-        "אנרגיה",
-        "אפריקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Will it stop at construction? UK sanctions a worrying portent",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "בריטניה הטילה סנקציות על חברות בנייה ישראליות - וסוגיית המשך כבר מדירה שינה מאנשים בתחום. עורך דין טרבור אסרסון, שמכיר היטב את המערכת הבריטית, אומר שהבנקים הישראליים עלולים להיות הבאים בתור.\n\nזה לא תרחיש תיאורטי. בנק ישראלי שייכנס לרשימות סנקציות בריטיות יתקשה מאוד לעבוד מול בנקים אירופאים שחוששים מחשיפה משנית. חברות ישראליות שמייצאות לאירופה, חברות ביטוח, וכל מי שתלוי בגישה למערכת הפיננסית הגלובלית - כולם בתמונה.",
-      "importance": 8,
-      "topics": [
-        "סנקציות",
-        "בנקאות",
-        "גיאופוליטיקה"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-      "summary": "חברות הטק הגדולות מתחילות להרגיש לחץ ממקום לא צפוי - שוק האג\"ח הקונצרני. המלווים נעשים סלקטיביים יותר לגבי מי שמנפיק חוב למימון תשתיות AI, מה שעלול לסבך את גיוסי ההון שמאחורי מרוץ ה-AI.\n\nהנקודה המעניינת: הרבה מהשקעות ה-AI מומנו עד היום בחוב, לא בהון עצמי. אם שוק האג\"ח מתנהג בזהירות, זה לא רק בעיה של Meta או Google - זה לחץ על כל שרשרת האספקה: מרכזי נתונים, קבלני בנייה, וגם יצרניות הציוד.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "פיננסול",
-        "חוב תאגידי"
       ],
       "tag": "ארה\"ב"
     },
@@ -263,47 +211,86 @@
         "יתרון תחרותי"
       ],
       "tag": "גלובלי"
+    },
+    {
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "summary": "השווקים הגלובליים עלו היום למרות סבב מכסים חדש של הבית הלבן על עשרות מדינות שותפות. המשקיעים, במקום לברוח, החליטו לנצל את הירידות של הימים האחרונים ולהיכנס במחירים נמוכים יותר.\n\nזה מעניין כי זה מראה שהשוק כבר \"עיכל\" חלק מהחדשות על המכסים - הפחד הראשוני מתמחר ומה שנשאר זה ציד עסקאות. מי שיושפע מזה בעקיפין: חברות ישראליות שמייצאות לארה\"ב ומטבעות של שווקים מתעוררים שנושמים לרווחה כשהדולר נחלש.",
+      "importance": 8,
+      "topics": [
+        "מכסים",
+        "סחר",
+        "בורסה"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "S&P מאיימת להוריד את דירוג האשראי של NVIDIA דרגה אחת, בגלל מה שהם מגדירים \"סיכון ניהולי וממשלי גובר\". זה לא אזהרה על הביזנס עצמו - ההכנסות ממשיכות לשבור שיאים - אלא על האופן שבו החברה מנוהלת.\n\nמה שמעניין: דירוג נמוך יותר מייקר את עלויות הגיוס של NVIDIA, מה שעלול להאט השקעות בתשתיות ו-R&D. בעקיפין, זה עשוי לגעת גם בשותפות הגדולות שמסתמכות על מחויבויות ארוכות טווח של החברה.",
+      "importance": 7,
+      "topics": [
+        "Nvidia",
+        "סיכון כלכלי",
+        "דירוגי אשראי"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "שוק הרכב ההודי עומד לשבור שיאים - יצרניות הרכב שם צפויות למכור יותר מ-30 מיליון כלי רכב בשנת הכספים שתסתיים במרץ 2027. זה לא רק מספר יפה: הודו הופכת לאחד השווקים הגדולים בעולם לרכב, וזה מושך בחזרה משקיעים זרים שהתרחקו ממנה בשנים האחרונות.\n\nמה שמעניין לראות כאן הוא מי נהנה מזה מעבר ליצרניות הרכב עצמן - ספקי חלפים, חברות ביטוח, ותשתיות דלק וטעינה. שוק של 1.4 מיליארד בני אדם שמתחיל לנסוע ברצינות - זה שינוי מבני, לא רק עונתי.",
+      "importance": 7,
+      "topics": [
+        "הודו",
+        "צמיחה כלכלית",
+        "תעשיית רכב"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "הבנק המרכזי של קוריאה העלה ריבית ב-0.25% לרמה של 3.25% - הגבוהה ביותר בשנתיים. זה קרה במקביל לשדרוג תחזית הצמיחה של המדינה, שילוב שלא רואים הרבה כיום. בדרך כלל העלאת ריבית מגיעה כשהכלכלה נחלשת - כאן זה ההפך. מעניין לראות איך זה משפיע על זרימת הון לשווקים מתפתחים אחרים באסיה, ובעקיפין גם על הדולר מול מטבעות אזוריים.",
+      "importance": 7,
+      "topics": [
+        "בנקים מרכזיים",
+        "ריביות",
+        "קוריאה דרומית"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "SpaceX",
-        "תקשורת לוויינית"
-      ],
-      "published": "2026-11-25T12:44:51-05:00"
-    },
-    {
-      "title": "AI may soon change what it means to be a theoretical physicist",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
       "importance": 8,
       "topics": [
-        "AI",
-        "מדע",
-        "Frontier AI"
+        "SpaceX",
+        "וויין",
+        "אנטנה"
       ],
-      "published": "Wed, 25 Nov 2026 12:00:28 +0000"
+      "published": "Wed, 25 Nov 2026 18:22:38 +0000"
     },
     {
-      "title": "מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת",
+      "title": "ה-FDA אישר וחברת שבבי המוח של אילון מאסק תתחיל ניסוי ראשון מסוגו",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/microsoft-code-red-m365-outage-three-issues-explained/",
-      "summary": "אם גם אתם מצאתם את עצמכם בוהים במסך ריק לפני כשבועיים ותוהים למה לעזאזל האאוטלוק שלכם לא זז או למה הטימס התנתק, תתנחמו בזה שאתם לא בצוותי ההנדסה של מיקרוסופט, כי מתברר שמאחורי הקלעים במיקרוסופט המצב מלחיץ הרבה יותר. מיילים פנימיים שהגיעו לרויטרס חושפים עכשיו שבעקבות התקלה שנמשכה 24 שעות, הכריזה מיקרוסופט על מצב חירום […] The post מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת appeared first on ג",
+      "url": "https://www.geektime.co.il/neuralink-fda-approval-link-pivotal-brain-implant-trial-als/",
+      "summary": "החזון של אילון מאסק (ושל אחרים לפניו) לשלוט במחשבים ולהזיז איברים בגוף בכוח המחשבה בלבד הולך והופך לאט לאט ממדע בדיוני למציאות. חברת Neuralink הודיעה אתמול (ד') שקיבלה אישור ממנהל המזון והתרופות האמריקאי, ה-FDA, להשיק את LINK, הניסוי הגדול הראשון שלה בארצות הברית. במסגרת הניסוי היא תבדוק את ה-BCI או ממשק המוח-מחשב שלה על מספר […] The post ה-FDA אישר וחברת שבבי המוח של אילון מאסק תתחיל ניסוי ראשון ",
       "importance": 8,
       "topics": [
-        "מיקרוסופט",
-        "תקלה",
-        "פיטורים"
+        "Neuralink",
+        "ביו-טק",
+        "AI"
       ],
-      "published": "Wed, 25 Nov 2026 10:41:51 +0000"
+      "published": "Thu, 26 Nov 2026 08:42:18 +0000"
     },
     {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -313,6 +300,7 @@
       "importance": 7,
       "topics": [
         "NVIDIA",
+        "שבבים",
         "כלכלה"
       ],
       "published": "Wed, 25 Nov 2026 22:44:32 +0000"
@@ -324,7 +312,8 @@
       "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
       "importance": 7,
       "topics": [
-        "סייברסיקיוריטי",
+        "אבטחה",
+        "הקינג",
         "1Password"
       ],
       "published": "Wed, 25 Nov 2026 18:49:52 +0000"
@@ -337,10 +326,36 @@
       "importance": 7,
       "topics": [
         "AI",
-        "רגולציה",
-        "דוקטרינלי"
+        "פרטיות",
+        "רגולציה"
       ],
       "published": "Wed, 25 Nov 2026 17:35:58 +0000"
+    },
+    {
+      "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+      "summary": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+      "importance": 7,
+      "topics": [
+        "אבטחה",
+        "פריצת נתונים",
+        "Todoist"
+      ],
+      "published": "Wed, 25 Nov 2026 14:20:28 +0000"
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
+      "importance": 7,
+      "topics": [
+        "רגולציה",
+        "אבטחה",
+        "AI"
+      ],
+      "published": "2026-11-26T04:54:40-05:00"
     },
     {
       "title": "1Password breach leaked customer names and emails, but not passwords",
@@ -349,23 +364,11 @@
       "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager […]",
       "importance": 7,
       "topics": [
-        "אבטחת סייבר",
-        "הפרת נתונים"
+        "אבטחה",
+        "פריצת נתונים",
+        "1Password"
       ],
       "published": "2026-11-25T14:10:15-05:00"
-    },
-    {
-      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
-      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
-      "importance": 7,
-      "topics": [
-        "SpaceX",
-        "לוויינים",
-        "רגולציה"
-      ],
-      "published": "Wed, 25 Nov 2026 18:22:38 +0000"
     }
   ]
 }
