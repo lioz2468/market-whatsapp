@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-11-25T12:28:25.728688+00:00",
+  "generated_at": "2026-11-26T06:45:11.320893+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "importance": 9,
-      "topics": [
-        "רוסיה",
-        "אוקראינה",
-        "מלחמה"
-      ],
-      "published": "Wed, 25 Nov 2026 12:21:49 GMT"
-    },
-    {
-      "title": "US preparing to unveil plan for new tariffs on global trading partners",
+      "title": "US announces new tariffs on host of countries including China",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
       "importance": 8,
       "topics": [
-        "מסחר",
-        "טריפים",
-        "כלכלה"
+        "ארה״ב",
+        "סחר בינלאומי",
+        "סין"
       ],
-      "published": "Wed, 25 Nov 2026 00:38:01 GMT"
+      "published": "Thu, 26 Nov 2026 04:10:58 GMT"
     },
     {
-      "title": "Israeli strike kills Hamas official, his wife and children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
-      "summary": "The air strike hit their Gaza apartment amid escalating Israeli attacks, the Interior Ministry says.",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
       "importance": 8,
       "topics": [
         "ישראל",
-        "פלסטינה",
-        "חמאס"
+        "נתניהו",
+        "משפט"
       ],
-      "published": "Wed, 25 Nov 2026 11:24:37 +0000"
+      "published": "Wed, 25 Nov 2026 19:47:39 GMT"
     },
     {
-      "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
-      "summary": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
       "importance": 8,
       "topics": [
-        "ישראל",
-        "איראן",
-        "נתניהו"
+        "אוקראינה",
+        "רוסיה",
+        "קונפליקט"
       ],
-      "published": "Wed, 25 Nov 2026 10:27:53 +0000"
+      "published": "Wed, 25 Nov 2026 12:21:49 GMT"
+    },
+    {
+      "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+      "summary": "North Korean leader warns attempts to deny country's nuclear status will be seen as \"an open declaration of war\".",
+      "importance": 8,
+      "topics": [
+        "צפון קוריאה",
+        "נשקים גרעיניים",
+        "ביטחון"
+      ],
+      "published": "Thu, 26 Nov 2026 02:03:03 +0000"
     },
     {
       "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
@@ -63,155 +63,102 @@
       "topics": [
         "סין",
         "פוליטיקה",
-        "שחיתות"
+        "השחתות"
       ],
       "published": "Wed, 25 Nov 2026 04:44:13 -0500"
     },
     {
-      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
       "importance": 7,
       "topics": [
-        "מדע",
-        "חלל",
-        "פריצת דרך"
+        "מצרים",
+        "אסון",
+        "תאונה"
       ],
-      "published": "Wed, 25 Nov 2026 06:00:36 GMT"
+      "published": "Wed, 25 Nov 2026 22:18:06 GMT"
     },
     {
-      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
-      "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
-      "importance": 7,
-      "topics": [
-        "איי שלמון",
-        "סין",
-        "אוסטרליה"
-      ],
-      "published": "Wed, 25 Nov 2026 03:15:12 GMT"
-    },
-    {
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "חמאס",
-        "עזה"
-      ],
-      "published": "Tue, 24 Nov 2026 15:35:53 GMT"
-    },
-    {
-      "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
+      "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
-      "summary": "Chen is the fourth high-ranking Politburo member to be pushed out in two years.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
+      "summary": "Meningitis is raising alarm in Gaza, where overcrowding, damaged sanitation are putting children at risk.",
       "importance": 7,
       "topics": [
-        "סין",
-        "פוליטיקה"
+        "בריאות",
+        "עזה",
+        "משבר הומניטרי"
       ],
-      "published": "Wed, 25 Nov 2026 10:50:26 +0000"
+      "published": "Thu, 26 Nov 2026 06:14:15 +0000"
     },
     {
-      "title": "הצעת החוק להקמת ועדת חקירה ממלכתית לטבח 7 באוקטובר אושרה בקריאה טרומית",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bydezhnyxg",
-      "summary": "הצעת החוק אושרה בתמיכת 65 חברי כנסת מול 50 מתנגדים. משפחות שכולות קראו לשרה רגב לרדת מהפודיום בזמן שטענה: \"ההצעה לא תבדוק את מה שקרה במחדל\"",
+      "title": "How Silicon Valley became central to Israel’s war on Palestinians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
+      "summary": "From surveillance systems to AI targeting, US tech giants are deeply embedded in Israel's war machine.",
       "importance": 7,
       "topics": [
         "ישראל",
-        "פוליטיקה",
-        "7 באוקטובר"
+        "טכנולוגיה",
+        "ארה״ב"
       ],
-      "published": "Wed, 25 Nov 2026 14:16:27 +0200"
+      "published": "Thu, 26 Nov 2026 06:12:53 +0000"
+    },
+    {
+      "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
+      "summary": "Apps not working. Bank transfers not going through. And a court fighting for international law must skirt US firms.",
+      "importance": 7,
+      "topics": [
+        "בית משפט בינלאומי",
+        "סנקציות",
+        "משפט"
+      ],
+      "published": "Thu, 26 Nov 2026 06:07:35 +0000"
+    },
+    {
+      "title": "חבר הלשכה המדינית של חמאס חוסל בעזה: \"שני טילים שוגרו למבנה\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hywhsgs1mg",
+      "summary": "צה\"ל ושב\"כ עדכנו על ניסיון החיסול, וזמן קצר לאחר מכן דווח שסוכל ראש מחלקת כלכלה ומנכ״ל משרד החינוך של חמאס. בעזה דיווחו על 3 הרוגים בתקיפה על מחנה שאטי ועל עוד שניים בתקיפת דירה בדיר אל-בלח. ברקע: שורת חיסולים בימים האחרונים של בכירים במנגנון ביטחון הפנים של חמאס",
+      "importance": 7,
+      "topics": [
+        "עזה",
+        "חמאס",
+        "ביטחון"
+      ],
+      "published": "Thu, 26 Nov 2026 04:30:35 +0200"
     }
   ],
   "business": [
     {
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "summary": "אמזון רוכשת את Decart תמורת 7.5 מיליארד דולר - וזה לא עוד עסקת AI רגילה.\n\nהרעיון: במקום להשקיע עוד מיליארדים בפיתוח שבבים חזקים יותר, אמזון מנסה לסגור את הפער מול Nvidia דרך תוכנה. Decart מתמחה בלהפיק ביצועים גבוהים יותר מהשבבים הקיימים של Trainium - כלומר לעשות יותר עם מה שכבר יש.\n\nהנפגעת הראשונה היא Nvidia, שהיתרון שלה עד היום לא היה רק בחומרה אלא בסט הכלים סביבה. אם אמזון מצליחה לשחזר את זה לשבבים שלה - המשחק משתנה. ומי שמוכר ל-AWS שירותי מחשוב יכול לראות מחירים שונים לגמרי בשנים הקרובות.",
+      "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+      "summary": "נתוני האינפלציה לאוקטובר הגיעו - וגבוהים מהצפי. המדד שהפד עוקב אחריו הכי מקרוב האיץ שוב, וזה כמעט מבטיח העלאת ריבית בחודש הבא.\n\nלמה זה חשוב מעבר לכותרת: ריבית גבוהה יותר בארה\"ב מושכת הון מכל העולם לדולר ולאג\"ח אמריקאי - זה לחץ על שווקים מתעוררים, על מניות צמיחה, ועל כל מי שלווה בדולרים. ישראל בתמונה הזו, גם אם השם שלה לא מוזכר.",
       "importance": 9,
       "topics": [
-        "סמיקונדקטורים",
-        "השקעות",
-        "AI",
-        "תחרות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Xi Delays US Chip Retaliation After Trump Seals Nvidia U-Turn",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "צ'ינה החליטה לדחות את תגובת הנגד על הגבלות הצ'יפים האמריקאיות - ולא חתכה את הייצוא של מינרלים קריטיים לארה\"ב. זה קורה כמה שעות אחרי שטראמפ פתח מחדש את הדלת לנבידיה למכור ב-H20 לסין.\n\nמה שמעניין פה: זו לא נסיגה - זה סימן שסין שומרת את הקלפים שלה. המינרלים האלה (גליום, גרמניום ואחרים) הם חומרי גלם שהמערב עדיין לא מצא להם תחליף. כל עוד הם על השולחן, יש לסין אמצעי לחץ אמיתי - וגם הסיבה שמניות הצ'יפים מגיבות לכל הודעה כזו הרבה לפני שהמשקיעים מבינים את ההקשר המלא.",
-      "importance": 8,
-      "topics": [
-        "צ'יפים",
-        "סחר",
-        "ארה\"ב-סין",
-        "טכנולוגיה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_markets_main",
-      "summary": "הגורל של בום ה-AI תלוי כרגע בחברה אחת - NVIDIA. הוול סטריט ג'ורנל מעלה נקודה שחשוב להבין: כשתעשייה שלמה נשענת על ספק יחיד של תשתית קריטית, זה לא רק כוח - זה גם סיכון מערכתי. אם NVIDIA תיתקל בבעיה - פיסית, רגולטורית או תחרותית - כל מי שבנה תוכניות סביבה ירגיש את זה. שווה לשים לב לא רק למה שג'נסן הואנג אומר, אלא למי שמנסה לבנות חלופות.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "Nvidia",
-        "סיכון מערכתי"
+        "אינפלציה",
+        "פד",
+        "ריבית"
       ],
       "tag": "ארה\"ב"
     },
     {
-      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "המניה של Insmed קפצה 14% אחרי שסאנופי הכריזה על רכישתה - העסקה הגדולה בתרופות בשלוש שנים.\n\nהרקע חשוב: סאנופי מתמודדת עם ירידת הכנסות צפויה בסוף העשור, כשפטנטים על תרופות מובילות יפקעו ותחרות גנרית תיכנס. הרכישה הזו היא פתרון קלאסי - במקום לחכות שהבעיה תגיע, קונים צינור מוצרים חדש.\n\nמה שפחות ברור: חברות תרופות אחרות שנמצאות במצב דומה עלולות להיכנס ללחץ לעשות אותו הדבר. ציפיות לגל עסקאות נוסף בסקטור.",
-      "importance": 8,
-      "topics": [
-        "תרופות",
-        "M&A",
-        "שרשרת אספקה"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "OPEC+ Faces Its Most Consequential Supply Decision of the Year",
+      "title": "Nasdaq 100 Set for Bear Market as AI Trade Unravels at the Seams",
       "source": "Bloomberg Markets",
       "url": "",
-      "summary": "פגישת OPEC+ בסוף החודש היא כנראה הסיבוב החשוב ביותר השנה בשוק הנפט. השאלה על השולחן: כמה נפט להזרים לשוק - וכל תשובה מחרצת גורלות.\n\nאם יחתכו אספקה, המחירים עולים ואיתם עלויות ייצור, שילוח ואנרגיה ברחבי העולם. אם יגדילו אספקה, הלחץ יורד על אינפלציה - אבל מדינות המפרץ מפסידות הכנסות. מי שצריך לשים לב במיוחד: חברות שירותים תעשייתיים, חברות תעופה וכל מי שהמרווחים שלו תלויים במחיר האנרגיה.",
-      "importance": 8,
+      "summary": "נאסד\"ק 100 בדרך לשוק דובי - ירידה של מעל 20% מהשיא. זו הפעם הראשונה מזה יותר משנה.\n\nמה שקורה פה הוא שהמשקיעים מתחילים לפקפק אם ההשקעות העצומות ב-AI בכלל יניבו תשואה, ואין עדיין תשובות טובות לשאלה הזו. כשהאמונה נשברת - כולם רוצים לצאת באותו זמן.\n\nמי שנוגע בזה מעבר לטק: חברות שמוכרות שרתים, חשמל למרכזי נתונים, אפילו קרנות פנסיה עם חשיפה גבוהה לנאסד\"ק.",
+      "importance": 9,
       "topics": [
-        "opec",
-        "שמן",
-        "אנרגיה"
+        "AI",
+        "בורסה",
+        "טכנולוגיה"
       ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-      "source": "CNBC World",
-      "url": "",
-      "summary": "ג'ון וויליאמס מהפד - אחד מהבכירים שמשפיעים ביותר על המדיניות - אמר אמש שהריביות ככל הנראה יעלו \"עם הזמן\" כדי להחזיר את האינפלציה ל-2%. הוא לא מצפה לזה לפני 2027.\n\nזה חשוב כי השוק תמחר עד עכשיו הורדות ריבית השנה. אם וויליאמס צודק, ההערכות האלה יצטרכו לזוז - וזה ישפיע על כל מה שרגיש לריבית: אג\"ח, נדל\"ן, חברות צמיחה, ואפילו הדולר מול השקל.",
-      "importance": 8,
-      "topics": [
-        "פד",
-        "ריבית",
-        "אינפלציה"
-      ],
-      "tag": "גלובלי"
+      "tag": "ארה\"ב"
     },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -264,46 +211,86 @@
         "חוב תאגידי"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Discount Bank to offer cryptocurrency trading",
+      "source": "גלובס שוק ההון",
+      "url": "",
+      "summary": "בנק דיסקונט הודיע שיאפשר ללקוחותיו לסחור ב-Bitcoin וב-Ethereum ישירות דרך האפליקציה - בלי ארנק דיגיטלי נפרד, בלי בורסות קריפטו חיצוניות.\n\nזה לא חדשות טכנולוגיות - זה רגע שבו הבנקאות המסורתית מחליטה שהיא לא יכולה להרשות לעצמה להישאר בחוץ. כשדיסקונט זז, שאר הבנקים בישראל מסתכלים מקרוב מאוד. ולבורסות הקריפטו המקומיות - זה מתחרה חדש עם 2 מיליון לקוחות קיימים.",
+      "importance": 8,
+      "topics": [
+        "בנקאות",
+        "קריפטו",
+        "פינטק"
+      ],
+      "tag": "ישראל"
+    },
+    {
+      "title": "Third-quarter GDP already looked great. Now it looks even better.",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "הכלכלה האמריקאית צמחה ברבעון השלישי בקצב שנתי של 4.3% - גבוה מהאומדן הראשוני של 3.4%, וקצב הצמיחה המהיר ביותר בשלוש שנים.\n\nזה לא רק מספר יפה. צמיחה כזו אומרת שהפד יכול להרשות לעצמו להיות סבלני יותר עם הורדות ריבית - מה שמשפיע ישירות על שווקי האג\"ח ועל הדולר. חברות שמוכרות לשוק האמריקאי - כולל חברות ישראליות שמוגדרות - יכולות לנשום.",
+      "importance": 8,
+      "topics": [
+        "מקרו",
+        "צמיחה",
+        "ארה\"ב"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "מכסים חדשים על סין בדרך. הממשל מציע סבב נוסף של היטלי יבוא - הפעם אחרי שבית המשפט העליון ביטל את המכסים הרחבים יותר שהוטלו קודם.\n\nהנקודה המעניינת פה היא לא רק סין. מכסים כאלה מכריחים חברות לשקול מחדש איפה הן מייצרות - וזה דוחף השקעות למקסיקו, וייטנאם והודו. מי שיושפע בצורה פחות ברורה: חברות לוגיסטיקה, יצרני שבבים ואפילו קמעונאיות אמריקאיות שמייבאות אלקטרוניקה.",
+      "importance": 8,
+      "topics": [
+        "מכסים",
+        "סחר",
+        "רגולציה"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+      "summary": "המכסים של טראמפ הופכים את הודו לאחת המנצחות הגדולות של מלחמת הסחר. בזמן שבנגלדש, קמבודיה, תאילנד וסין ספגו מכסים של 18-20%, הודו יוצאת עם שיעור נמוך משמעותית - וזה יתרון תחרותי אמיתי בייצור טקסטיל, אלקטרוניקה ורכיבים תעשייתיים.\n\nמה שמעניין פה הוא ההשפעה העקיפה: חברות שחיפשו אלטרנטיבה לסין ופנו לוייטנאם או לקמבודיה - מוצאות את עצמן שוב בבעיה. הודו הופכת מאפשרות לצורך. שווה לעקוב אחרי תעשיות שמשנות שרשראות אספקה בחודשים הקרובים.",
+      "importance": 8,
+      "topics": [
+        "מכסים",
+        "סחר בינלאומי",
+        "יתרון תחרותי"
+      ],
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
       "source": "The Verge",
-      "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
-      "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to […]",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
       "importance": 8,
       "topics": [
-        "Microsoft",
-        "הפסקה"
+        "AI",
+        "SpaceX",
+        "תקשורת לוויינית"
       ],
-      "published": "2026-11-25T06:12:42-05:00"
+      "published": "2026-11-25T12:44:51-05:00"
     },
     {
-      "title": "Huawei found guilty of stealing trade secrets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and […]",
-      "importance": 8,
-      "topics": [
-        "Huawei",
-        "אנטי-טראסט",
-        "משפט"
-      ],
-      "published": "2026-11-24T17:23:27-05:00"
-    },
-    {
-      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "title": "AI may soon change what it means to be a theoretical physicist",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
-      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
       "importance": 8,
       "topics": [
-        "Microsoft",
-        "Cloud",
-        "תקלה גדולה"
+        "AI",
+        "מדע",
+        "Frontier AI"
       ],
-      "published": "Tue, 24 Nov 2026 22:36:28 +0000"
+      "published": "Wed, 25 Nov 2026 12:00:28 +0000"
     },
     {
       "title": "מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת",
@@ -312,59 +299,73 @@
       "summary": "אם גם אתם מצאתם את עצמכם בוהים במסך ריק לפני כשבועיים ותוהים למה לעזאזל האאוטלוק שלכם לא זז או למה הטימס התנתק, תתנחמו בזה שאתם לא בצוותי ההנדסה של מיקרוסופט, כי מתברר שמאחורי הקלעים במיקרוסופט המצב מלחיץ הרבה יותר. מיילים פנימיים שהגיעו לרויטרס חושפים עכשיו שבעקבות התקלה שנמשכה 24 שעות, הכריזה מיקרוסופט על מצב חירום […] The post מיקרוסופט מכריזה \"קוד אדום\" בעקבות הקריסה הנרחבת appeared first on ג",
       "importance": 8,
       "topics": [
-        "Microsoft",
+        "מיקרוסופט",
         "תקלה",
-        "אבטחה"
+        "פיטורים"
       ],
       "published": "Wed, 25 Nov 2026 10:41:51 +0000"
     },
     {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
       "importance": 7,
       "topics": [
         "NVIDIA",
-        "הנהלה"
+        "כלכלה"
       ],
-      "published": "Wed, 25 Nov 2026 00:12:02 +0000"
+      "published": "Wed, 25 Nov 2026 22:44:32 +0000"
     },
     {
-      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-      "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
       "importance": 7,
       "topics": [
-        "NVIDIA",
-        "רגולציה"
+        "סייברסיקיוריטי",
+        "1Password"
       ],
-      "published": "Wed, 25 Nov 2026 00:10:27 +0000"
+      "published": "Wed, 25 Nov 2026 18:49:52 +0000"
     },
     {
-      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
-      "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
-      "importance": 7,
-      "topics": [
-        "אבטחה",
-        "סייבר"
-      ],
-      "published": "Tue, 24 Nov 2026 21:09:04 +0000"
-    },
-    {
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
       "importance": 7,
       "topics": [
         "AI",
-        "בורסה"
+        "רגולציה",
+        "דוקטרינלי"
       ],
-      "published": "Tue, 24 Nov 2026 18:30:42 +0000"
+      "published": "Wed, 25 Nov 2026 17:35:58 +0000"
+    },
+    {
+      "title": "1Password breach leaked customer names and emails, but not passwords",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager […]",
+      "importance": 7,
+      "topics": [
+        "אבטחת סייבר",
+        "הפרת נתונים"
+      ],
+      "published": "2026-11-25T14:10:15-05:00"
+    },
+    {
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "importance": 7,
+      "topics": [
+        "SpaceX",
+        "לוויינים",
+        "רגולציה"
+      ],
+      "published": "Wed, 25 Nov 2026 18:22:38 +0000"
     }
   ]
 }
