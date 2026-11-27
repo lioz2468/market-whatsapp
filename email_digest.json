@@ -1,84 +1,32 @@
 {
-  "generated_at": "2026-11-27T06:45:01.168103+00:00",
+  "generated_at": "2026-11-27T11:57:56.653459+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-      "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
-      "importance": 8,
-      "topics": [
-        "קוריאה הצפונית",
-        "נשקים גרעיניים",
-        "ארה״ב"
-      ],
-      "published": "Thu, 26 Nov 2026 08:31:28 -0500"
-    },
-    {
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
-      ],
-      "published": "Thu, 26 Nov 2026 22:49:27 GMT"
-    },
-    {
-      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
-      "importance": 8,
-      "topics": [
-        "מיאנמר",
-        "דיני בינלאומי",
-        "רוהינג'ה"
-      ],
-      "published": "Thu, 26 Nov 2026 10:25:51 GMT"
-    },
-    {
-      "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+      "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
-      "summary": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
-      "importance": 8,
-      "topics": [
-        "אוקראינה",
-        "רוסיה",
-        "דיפלומטיה"
-      ],
-      "published": "Fri, 27 Nov 2026 02:14:25 +0000"
-    },
-    {
-      "title": "זמיר מתנגד, גופמן מתעקש: אם אין ברירה - לתקוף באיראן בלי האמריקנים",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/yokra14971520",
-      "summary": "חשיפה: ראש המוסד משמיע לאחרונה עמדה ניצית יותר מבעבר, ותומך בתקיפה עצמאית - גם על רקע חשש שאיראן ממשיכה לפתח בחשאי נשק כימי. מנגד, הרמטכ\"ל מעדיף שיתוף פעולה עם ארה\"ב, שיגדיל את הסיכוי לתוצאה אסטרטגית שתישמר לאורך זמן. גורם ביטחוני הדגיש שאם יהיה איום קיומי מיידי נתקוף גם לבד, \"אבל זה לא המצב\"",
+      "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+      "summary": "Israel seeking 'to prevent births' and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
       "importance": 8,
       "topics": [
         "ישראל",
-        "איראן",
-        "ביטחון"
+        "פלסטינים",
+        "זכויות אדם"
       ],
-      "published": "Fri, 27 Nov 2026 07:09:35 +0200"
+      "published": "Fri, 27 Nov 2026 11:15:03 +0000"
     },
     {
-      "title": "גורם מדיני: \"נתקדם מהותית ביישום תוכנית טראמפ לעזה - כבר בימים הקרובים\"",
+      "title": "איראן נחנקת מהמצור הכלכלי, מחיר הלחם נוסק. טראמפ: אם נתקוף, זה יהיה היעד",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/sysk6nlkxx",
-      "summary": "על רקע ביקורת עזה על גרירת רגליים מצד ישראל, הגורם המדיני הדגיש כי \"ישראל מחויבת לתוכנית 20 הנקודות - הכוללת את פירוק חמאס מנשקו\". גורם במועצת השלום אמר ל-ynet כי בארגון \"מעודדים מהשיחות האחרונות עם לשכת רה\"מ\"",
+      "url": "https://www.ynet.co.il/news/article/s1kw65ijml",
+      "summary": "\"אין לנו כסף\", הודה הנשיא פזשכיאן בשידור בטלוויזיה, בזמן שהריאל האיראני צונח לשפל חסר תקדים. המשטר מקצץ סבסוד לדלק וקמח, הפסקות חשמל יזומות כל יום. אוסטרליה הטילה סנקציות על איראנים שהובילו הצתת בית כנסת ומסעדה כשרה במדינה, נשיא ארה\"ב: \"אם תהיה תקיפה, היא תהיה בהר המכוש\"",
       "importance": 8,
       "topics": [
-        "גיאופוליטיקה",
-        "עזה",
-        "ישראל"
+        "איראן",
+        "סנקציות",
+        "כלכלה"
       ],
-      "published": "Fri, 27 Nov 2026 01:47:17 +0200"
+      "published": "Fri, 27 Nov 2026 10:17:34 +0200"
     },
     {
       "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
@@ -87,50 +35,101 @@
       "summary": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
       "importance": 7,
       "topics": [
-        "בריאות ציבורית",
-        "אפריקה",
-        "הנגיפים"
+        "קונגו",
+        "אבולה",
+        "משבר הומניטרי"
       ],
       "published": "Thu, 26 Nov 2026 08:47:09 -0500"
     },
     {
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+      "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
       "importance": 7,
       "topics": [
-        "כוויט",
-        "איטליה",
-        "אירן"
+        "צפון קוריאה",
+        "נשקים גרעיניים",
+        "ארה״ב"
       ],
-      "published": "Thu, 26 Nov 2026 21:17:53 GMT"
+      "published": "Thu, 26 Nov 2026 08:31:28 -0500"
     },
     {
-      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
       "importance": 7,
       "topics": [
-        "בריאות",
-        "אפריקה",
-        "HIV"
+        "אוקראינה",
+        "רוסיה",
+        "ארה״ב"
       ],
-      "published": "Thu, 26 Nov 2026 11:00:39 GMT"
+      "published": "Fri, 27 Nov 2026 09:07:48 GMT"
     },
     {
-      "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
+      "title": "Venezuela to scrap law that bars opposition from public office",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
+      "importance": 7,
+      "topics": [
+        "וונצואלה",
+        "פוליטיקה"
+      ],
+      "published": "Fri, 27 Nov 2026 05:35:10 GMT"
+    },
+    {
+      "title": "EU leaders fail to bridge budget splits as talks stall",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
+      "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
+      "importance": 7,
+      "topics": [
+        "אירופה",
+        "אוקראינה",
+        "כלכלה"
+      ],
+      "published": "Fri, 27 Nov 2026 06:11:55 GMT"
+    },
+    {
+      "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
-      "summary": "Israel is trying to fragment Lebanon by separating its Christian residents in south Lebanon from the rest.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+      "summary": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
+      "importance": 7,
+      "topics": [
+        "רוסיה",
+        "אירופה",
+        "אוקראינה"
+      ],
+      "published": "Fri, 27 Nov 2026 11:44:46 +0000"
+    },
+    {
+      "title": "Why Benjamin Netanyahu’s corruption trial could be unravelling",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
+      "summary": "Could Netanyahu escape his most serious corruption charges? Al Jazeera's Lina-Serene explains.",
       "importance": 7,
       "topics": [
         "ישראל",
-        "לבנון",
-        "גיאופוליטיקה"
+        "משפט",
+        "נתניהו"
       ],
-      "published": "Fri, 27 Nov 2026 05:27:18 +0000"
+      "published": "Fri, 27 Nov 2026 10:54:16 +0000"
+    },
+    {
+      "title": "לא רק אוהלים: תיעוד בלעדי - מה באמת בנה חיזבאללה בשטח ישראל לפני 7/10",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/bjpj7w4j7l",
+      "summary": "חודשים לפני טבח חמאס, ארגון הטרור הלבנוני הקים מתחם מבצעי למרגלות החרמון, בשטח ריבוני ישראלי. בישראל ניסו להקטין את חשיבות הפעולה המתריסה, ומיד עם פרוץ המלחמה הופצץ האוהל מהאוויר. מאז לא דרכה שם רגל עיתונאי, עד שצוות ynet הגיע למקום וגילה: המאהל הארעי היה כנראה רק כיסוי למה שנראה כמוצב קבע מבוצר - שמוכן ליום פקודה",
+      "importance": 7,
+      "topics": [
+        "ישראל",
+        "חיזבאללה",
+        "ביטחון"
+      ],
+      "published": "Fri, 27 Nov 2026 11:00:55 +0200"
     }
   ],
   "business": [
@@ -227,59 +226,46 @@
       "tag": "גלובלי"
     },
     {
-      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
       "source": "CNBC Top News",
       "url": "",
-      "summary": "S&P מאיימת להוריד את דירוג האשראי של NVIDIA דרגה אחת, בגלל מה שהם מגדירים \"סיכון ניהולי וממשלי גובר\". זה לא אזהרה על הביזנס עצמו - ההכנסות ממשיכות לשבור שיאים - אלא על האופן שבו החברה מנוהלת.\n\nמה שמעניין: דירוג נמוך יותר מייקר את עלויות הגיוס של NVIDIA, מה שעלול להאט השקעות בתשתיות ו-R&D. בעקיפין, זה עשוי לגעת גם בשותפות הגדולות שמסתמכות על מחויבויות ארוכות טווח של החברה.",
+      "summary": "הרווחים בתעשייה הסינית חוזרים לעלות - אבל לא בצורה אחידה. מה שמניע את הצמיחה עכשיו הוא בעיקר ייצוא של ציוד ורכיבים שקשורים ל-AI, בעוד שהצריכה המקומית והנדל\"ן ממשיכים להיאבק.\n\nזה אומר שסין בעצם מפצלת לשתי כלכלות: אחת שמאיצה עם הטרנד הגלובלי, ואחת שתקועה. ומי שנמצא בתוך שרשרת האספקה של ה-AI - ספקי חומרי גלם, יצרני רכיבים, חברות לוגיסטיקה - כבר מרגיש את זה.",
+      "importance": 8,
+      "topics": [
+        "סין",
+        "AI",
+        "ייצור"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
+      "source": "WSJ Markets",
+      "url": "",
+      "summary": "קרנות הפנסיה של עובדי התעשייה בארה\"ב - אנשי ברזל, בנאים, חשמלאים - היו שנים ארוכות בגירעון עמוק. עכשיו חלקן חזרו למימון מלא, בעיקר בזכות השוק שעלה בלי הפסקה בעשור האחרון.\n\nזה מעניין כי זה לא רק חדשות טובות לעובדים - זה גם אומר שהקרנות האלה יצטרכו פחות להגן על עצמן עם השקעות שמרניות, ויכולות להישאר חשופות יותר למניות. עוד קונה מוסדי גדול שנשאר בשוק.",
       "importance": 7,
       "topics": [
-        "Nvidia",
-        "סיכון כלכלי",
-        "דירוגי אשראי"
+        "פנסיה",
+        "שווקים",
+        "דמוגרפיה"
       ],
       "tag": "ארה\"ב"
     },
     {
-      "title": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
+      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
       "source": "CNBC Top News",
       "url": "",
-      "summary": "שוק הרכב ההודי עומד לשבור שיאים - יצרניות הרכב שם צפויות למכור יותר מ-30 מיליון כלי רכב בשנת הכספים שתסתיים במרץ 2027. זה לא רק מספר יפה: הודו הופכת לאחד השווקים הגדולים בעולם לרכב, וזה מושך בחזרה משקיעים זרים שהתרחקו ממנה בשנים האחרונות.\n\nמה שמעניין לראות כאן הוא מי נהנה מזה מעבר ליצרניות הרכב עצמן - ספקי חלפים, חברות ביטוח, ותשתיות דלק וטעינה. שוק של 1.4 מיליארד בני אדם שמתחיל לנסוע ברצינות - זה שינוי מבני, לא רק עונתי.",
+      "summary": "נתוני התמ\"ג של הרבעון השלישי עודכנו כלפי מעלה בצורה משמעותית - וטראמפ טוען שמדובר בטעות שצריך לחקור אותה. מעניין שדווקא נשיא שרצה לראות כלכלה חזקה מסרב לקבל בשורות טובות.\n\nלמה זה חשוב: אם הנתונים אמיתיים, זה מקשה על הפד להוריד ריבית - כלכלה שצומחת מהר לא \"צריכה\" הקלה מוניטרית. זה משפיע ישירות על שוק הנדל\"ן, עלויות המשכנתאות ועל הדולר מול השקל.",
       "importance": 7,
       "topics": [
-        "הודו",
-        "צמיחה כלכלית",
-        "תעשיית רכב"
+        "GDP",
+        "מדיניות פיסקלית",
+        "שוק ההון"
       ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "הבנק המרכזי של קוריאה העלה ריבית ב-0.25% לרמה של 3.25% - הגבוהה ביותר בשנתיים. זה קרה במקביל לשדרוג תחזית הצמיחה של המדינה, שילוב שלא רואים הרבה כיום. בדרך כלל העלאת ריבית מגיעה כשהכלכלה נחלשת - כאן זה ההפך. מעניין לראות איך זה משפיע על זרימת הון לשווקים מתפתחים אחרים באסיה, ובעקיפין גם על הדולר מול מטבעות אזוריים.",
-      "importance": 7,
-      "topics": [
-        "בנקים מרכזיים",
-        "ריביות",
-        "קוריאה דרומית"
-      ],
-      "tag": "גלובלי"
+      "tag": "ארה\"ב"
     }
   ],
   "tech": [
-    {
-      "title": "ה-FDA אישר וחברת שבבי המוח של אילון מאסק תתחיל ניסוי ראשון מסוגו",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/neuralink-fda-approval-link-pivotal-brain-implant-trial-als/",
-      "summary": "החזון של אילון מאסק (ושל אחרים לפניו) לשלוט במחשבים ולהזיז איברים בגוף בכוח המחשבה בלבד הולך והופך לאט לאט ממדע בדיוני למציאות. חברת Neuralink הודיעה אתמול (ד') שקיבלה אישור ממנהל המזון והתרופות האמריקאי, ה-FDA, להשיק את LINK, הניסוי הגדול הראשון שלה בארצות הברית. במסגרת הניסוי היא תבדוק את ה-BCI או ממשק המוח-מחשב שלה על מספר […] The post ה-FDA אישר וחברת שבבי המוח של אילון מאסק תתחיל ניסוי ראשון ",
-      "importance": 8,
-      "topics": [
-        "Neuralink",
-        "BCI",
-        "רגולציה"
-      ],
-      "published": "Thu, 26 Nov 2026 08:42:18 +0000"
-    },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "source": "TechCrunch",
@@ -287,24 +273,11 @@
       "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
       "importance": 7,
       "topics": [
+        "NVIDIA",
         "שבבים",
-        "AI",
         "רגולציה"
       ],
       "published": "Thu, 26 Nov 2026 20:03:54 +0000"
-    },
-    {
-      "title": "תחרות ל-Airalo וחברות הסלולר: וואטסאפ תציע לכם eSIM",
-      "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/whatsapp-to-offer-esim-data-plans/",
-      "summary": "דרכונים בתיק? צ'ק. סוללה ניידת? צ'ק. איירטאג? צ'ק. ומה לגבי חבילת גלישה? אולי שילמתם מאות שקלים מיותרים לחברת הסלולר שלכם, אולי החלטתם להתחיל את הטיול שלכם בחיפוש אחר סים מקומי באחת מהחנויות, ואולי עשיתם את הדבר ההגיוני יותר לרוב, ובחרתם eSim של חברות כמו Airalo ואחרות. אבל עכשיו נראה שאולי בפעם הבאה שתטוסו תהיה עוד […] The post תחרות ל-Airalo וחברות הסלולר: וואטסאפ תציע לכם eSIM appeared first on",
-      "importance": 7,
-      "topics": [
-        "Meta",
-        "WhatsApp",
-        "eSIM"
-      ],
-      "published": "Thu, 26 Nov 2026 09:43:58 +0000"
     },
     {
       "title": "Android app developers will soon have to share their address publicly",
@@ -313,24 +286,49 @@
       "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. […]",
       "importance": 6,
       "topics": [
-        "רגולציה",
         "Google",
-        "פרטיות"
+        "רגולציה",
+        "אפליקציות"
       ],
       "published": "2026-11-26T12:06:24-05:00"
     },
     {
-      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency \"waged a retaliatory campaign\" against the […]",
+      "importance": 6,
+      "topics": [
+        "רגולציה",
+        "FCC",
+        "שפחות חוקתיות"
+      ],
+      "published": "2026-11-26T11:38:00-05:00"
+    },
+    {
+      "title": "Scientists Use ‘Grand Theft Auto’ to Model the Effects of Climate Change",
       "source": "Wired",
-      "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
-      "summary": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
+      "url": "https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/",
+      "summary": "The game’s high-resolution 3D maps based on real locations can be used to simulate the effects of rising sea levels and coastal flooding.",
       "importance": 6,
       "topics": [
         "AI",
-        "Google",
-        "Gemini"
+        "משחקים"
       ],
-      "published": "Thu, 26 Nov 2026 12:00:00 +0000"
+      "published": "Fri, 27 Nov 2026 10:30:00 +0000"
+    },
+    {
+      "title": "מנכ\"ל אינסטגרם מסביר: האם מאזינים לכם כדי להתאים פרסומות?",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/instragram-is-not-listening-to-you-according-to-its-ceo/",
+      "summary": "למי זה לא קרה? אתם מדברים עם מכר על שירות או מוצר כלשהו, פותחים את פייסבוק או את אינסטגרם והופ – קופצת לכם פרסומת בדיוק לזה. נשמע מוכר? אחד המיתוסים הטכנולוגיים המוכרים ביותר בעשור האחרון הוא שפייסבוק ואינסטגרם מאזינות דרך המיקרופון של הסמארטפון שלנו כדי להציג לנו פרסומות מדויקות לפי מה שאנחנו מדברים עליו. היי, […] The post מנכ\"ל אינסטגרם מסביר: האם מאזינים לכם כדי להתאים פרסומות? appeared first o",
+      "importance": 6,
+      "topics": [
+        "Meta",
+        "פרטיות",
+        "פרסום דיגיטלי"
+      ],
+      "published": "Thu, 26 Nov 2026 18:25:39 +0000"
     }
   ]
 }
