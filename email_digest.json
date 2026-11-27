@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T12:09:02.288459+00:00",
+  "generated_at": "2026-11-27T06:45:01.168103+00:00",
   "lookback_hours": 24,
   "world": [
+    {
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+      "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+      "importance": 8,
+      "topics": [
+        "קוריאה הצפונית",
+        "נשקים גרעיניים",
+        "ארה״ב"
+      ],
+      "published": "Thu, 26 Nov 2026 08:31:28 -0500"
+    },
+    {
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "importance": 8,
+      "topics": [
+        "אוקראינה",
+        "רוסיה",
+        "דיפלומטיה"
+      ],
+      "published": "Thu, 26 Nov 2026 22:49:27 GMT"
+    },
     {
       "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
       "source": "BBC World",
@@ -10,75 +36,75 @@
       "importance": 8,
       "topics": [
         "מיאנמר",
-        "רוהינג'ה",
-        "משפט בינלאומי"
+        "דיני בינלאומי",
+        "רוהינג'ה"
       ],
       "published": "Thu, 26 Nov 2026 10:25:51 GMT"
     },
     {
-      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
-      "importance": 8,
-      "topics": [
-        "ישראל",
-        "עזה",
-        "ביטחון"
-      ],
-      "published": "Thu, 26 Nov 2026 10:14:08 GMT"
-    },
-    {
-      "title": "US announces new tariffs on host of countries including China",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "importance": 8,
-      "topics": [
-        "ארה״ב",
-        "מסחר",
-        "כלכלה גלובלית"
-      ],
-      "published": "Thu, 26 Nov 2026 04:10:58 GMT"
-    },
-    {
-      "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+      "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
-      "summary": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+      "summary": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
       "importance": 8,
       "topics": [
         "אוקראינה",
         "רוסיה",
-        "מלחמה"
+        "דיפלומטיה"
       ],
-      "published": "Thu, 26 Nov 2026 10:02:09 +0000"
+      "published": "Fri, 27 Nov 2026 02:14:25 +0000"
     },
     {
-      "title": "Israeli attacks on Gaza kill senior education official, seven other people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu confirms killing of Khaled Abu Nada, undersecretary of Education Ministry.",
+      "title": "זמיר מתנגד, גופמן מתעקש: אם אין ברירה - לתקוף באיראן בלי האמריקנים",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/yokra14971520",
+      "summary": "חשיפה: ראש המוסד משמיע לאחרונה עמדה ניצית יותר מבעבר, ותומך בתקיפה עצמאית - גם על רקע חשש שאיראן ממשיכה לפתח בחשאי נשק כימי. מנגד, הרמטכ\"ל מעדיף שיתוף פעולה עם ארה\"ב, שיגדיל את הסיכוי לתוצאה אסטרטגית שתישמר לאורך זמן. גורם ביטחוני הדגיש שאם יהיה איום קיומי מיידי נתקוף גם לבד, \"אבל זה לא המצב\"",
       "importance": 8,
       "topics": [
         "ישראל",
-        "עזה",
-        "סכסוך"
+        "איראן",
+        "ביטחון"
       ],
-      "published": "Thu, 26 Nov 2026 09:00:06 +0000"
+      "published": "Fri, 27 Nov 2026 07:09:35 +0200"
     },
     {
-      "title": "Desperate appeals from women on death row in Iran after protests",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+      "title": "גורם מדיני: \"נתקדם מהותית ביישום תוכנית טראמפ לעזה - כבר בימים הקרובים\"",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/sysk6nlkxx",
+      "summary": "על רקע ביקורת עזה על גרירת רגליים מצד ישראל, הגורם המדיני הדגיש כי \"ישראל מחויבת לתוכנית 20 הנקודות - הכוללת את פירוק חמאס מנשקו\". גורם במועצת השלום אמר ל-ynet כי בארגון \"מעודדים מהשיחות האחרונות עם לשכת רה\"מ\"",
+      "importance": 8,
+      "topics": [
+        "גיאופוליטיקה",
+        "עזה",
+        "ישראל"
+      ],
+      "published": "Fri, 27 Nov 2026 01:47:17 +0200"
+    },
+    {
+      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+      "summary": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
       "importance": 7,
       "topics": [
-        "איראן",
-        "זכויות אדם",
-        "הוצאות להורג"
+        "בריאות ציבורית",
+        "אפריקה",
+        "הנגיפים"
       ],
-      "published": "Thu, 26 Nov 2026 06:01:58 GMT"
+      "published": "Thu, 26 Nov 2026 08:47:09 -0500"
+    },
+    {
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "importance": 7,
+      "topics": [
+        "כוויט",
+        "איטליה",
+        "אירן"
+      ],
+      "published": "Thu, 26 Nov 2026 21:17:53 GMT"
     },
     {
       "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
@@ -89,128 +115,37 @@
       "topics": [
         "בריאות",
         "אפריקה",
-        "חדשנות רפואית"
+        "HIV"
       ],
       "published": "Thu, 26 Nov 2026 11:00:39 GMT"
     },
     {
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
+      "summary": "Israel is trying to fragment Lebanon by separating its Christian residents in south Lebanon from the rest.",
       "importance": 7,
       "topics": [
-        "בריטניה",
-        "אירופה",
-        "מדיניות מסחר"
+        "ישראל",
+        "לבנון",
+        "גיאופוליטיקה"
       ],
-      "published": "Thu, 26 Nov 2026 09:59:14 GMT"
-    },
-    {
-      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-      "importance": 7,
-      "topics": [
-        "טכנולוגיה",
-        "חלל",
-        "AI"
-      ],
-      "published": "Thu, 26 Nov 2026 09:27:44 GMT"
-    },
-    {
-      "title": "מטרת איזנקוט: לסגור הסכמים עם הגוש עד מוצ\"ש | הציר החרדי - ושאלת בנט",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/h111fo00hkxe",
-      "summary": "אחרי ההסכם עם ליברמן שלקראת חתימה, יו\"ר ישר שואף להשלים את המו\"מ עם יתר מפלגות הגוש בראשותו ב-48 השעות הקרובות. בנט עדיין לא ממהר להתחייב ומחכה לשמוע מאיזנקוט בדיוק מה וכמה יקבלו החרדים - ודורש תשובות גם בנוגע לרע\"מ. אלה שני המסלולים, שמתנהלים בקצב שונה",
-      "importance": 7,
-      "topics": [
-        "פוליטיקה ישראלית",
-        "הקמת ממשלה",
-        "משא ומתן קואליציוני"
-      ],
-      "published": "Thu, 26 Nov 2026 11:45:47 +0200"
+      "published": "Fri, 27 Nov 2026 05:27:18 +0000"
     }
   ],
   "business": [
     {
-      "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-      "summary": "נתוני האינפלציה לאוקטובר הגיעו - וגבוהים מהצפי. המדד שהפד עוקב אחריו הכי מקרוב האיץ שוב, וזה כמעט מבטיח העלאת ריבית בחודש הבא.\n\nלמה זה חשוב מעבר לכותרת: ריבית גבוהה יותר בארה\"ב מושכת הון מכל העולם לדולר ולאג\"ח אמריקאי - זה לחץ על שווקים מתעוררים, על מניות צמיחה, ועל כל מי שלווה בדולרים. ישראל בתמונה הזו, גם אם השם שלה לא מוזכר.",
-      "importance": 9,
-      "topics": [
-        "אינפלציה",
-        "פד",
-        "ריבית"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Nasdaq 100 Set for Bear Market as AI Trade Unravels at the Seams",
-      "source": "Bloomberg Markets",
-      "url": "",
-      "summary": "נאסד\"ק 100 בדרך לשוק דובי - ירידה של מעל 20% מהשיא. זו הפעם הראשונה מזה יותר משנה.\n\nמה שקורה פה הוא שהמשקיעים מתחילים לפקפק אם ההשקעות העצומות ב-AI בכלל יניבו תשואה, ואין עדיין תשובות טובות לשאלה הזו. כשהאמונה נשברת - כולם רוצים לצאת באותו זמן.\n\nמי שנוגע בזה מעבר לטק: חברות שמוכרות שרתים, חשמל למרכזי נתונים, אפילו קרנות פנסיה עם חשיפה גבוהה לנאסד\"ק.",
-      "importance": 9,
-      "topics": [
-        "AI",
-        "בורסה",
-        "טכנולוגיה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Discount Bank to offer cryptocurrency trading",
-      "source": "גלובס שוק ההון",
-      "url": "",
-      "summary": "בנק דיסקונט הודיע שיאפשר ללקוחותיו לסחור ב-Bitcoin וב-Ethereum ישירות דרך האפליקציה - בלי ארנק דיגיטלי נפרד, בלי בורסות קריפטו חיצוניות.\n\nזה לא חדשות טכנולוגיות - זה רגע שבו הבנקאות המסורתית מחליטה שהיא לא יכולה להרשות לעצמה להישאר בחוץ. כשדיסקונט זז, שאר הבנקים בישראל מסתכלים מקרוב מאוד. ולבורסות הקריפטו המקומיות - זה מתחרה חדש עם 2 מיליון לקוחות קיימים.",
-      "importance": 8,
-      "topics": [
-        "בנקאות",
-        "קריפטו",
-        "פינטק"
-      ],
-      "tag": "ישראל"
-    },
-    {
-      "title": "Third-quarter GDP already looked great. Now it looks even better.",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "הכלכלה האמריקאית צמחה ברבעון השלישי בקצב שנתי של 4.3% - גבוה מהאומדן הראשוני של 3.4%, וקצב הצמיחה המהיר ביותר בשלוש שנים.\n\nזה לא רק מספר יפה. צמיחה כזו אומרת שהפד יכול להרשות לעצמו להיות סבלני יותר עם הורדות ריבית - מה שמשפיע ישירות על שווקי האג\"ח ועל הדולר. חברות שמוכרות לשוק האמריקאי - כולל חברות ישראליות שמוגדרות - יכולות לנשום.",
-      "importance": 8,
-      "topics": [
-        "מקרו",
-        "צמיחה",
-        "ארה\"ב"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
-      "source": "MarketWatch",
-      "url": "",
-      "summary": "מכסים חדשים על סין בדרך. הממשל מציע סבב נוסף של היטלי יבוא - הפעם אחרי שבית המשפט העליון ביטל את המכסים הרחבים יותר שהוטלו קודם.\n\nהנקודה המעניינת פה היא לא רק סין. מכסים כאלה מכריחים חברות לשקול מחדש איפה הן מייצרות - וזה דוחף השקעות למקסיקו, וייטנאם והודו. מי שיושפע בצורה פחות ברורה: חברות לוגיסטיקה, יצרני שבבים ואפילו קמעונאיות אמריקאיות שמייבאות אלקטרוניקה.",
-      "importance": 8,
-      "topics": [
-        "מכסים",
-        "סחר",
-        "רגולציה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
-      "summary": "המכסים של טראמפ הופכים את הודו לאחת המנצחות הגדולות של מלחמת הסחר. בזמן שבנגלדש, קמבודיה, תאילנד וסין ספגו מכסים של 18-20%, הודו יוצאת עם שיעור נמוך משמעותית - וזה יתרון תחרותי אמיתי בייצור טקסטיל, אלקטרוניקה ורכיבים תעשייתיים.\n\nמה שמעניין פה הוא ההשפעה העקיפה: חברות שחיפשו אלטרנטיבה לסין ופנו לוייטנאם או לקמבודיה - מוצאות את עצמן שוב בבעיה. הודו הופכת מאפשרות לצורך. שווה לעקוב אחרי תעשיות שמשנות שרשראות אספקה בחודשים הקרובים.",
-      "importance": 8,
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "summary": "ארה\"ב שלחה מכתבי מכס לעוד 14 מדינות שותפות - ואת ההודעה ניסחו בצורה מחושבת: מי שיחתום על הסכם סחר עם וושינגטון יקבל תעריפים נמוכים יותר.\n\nזה כבר לא רק מלחמת סחר - זה מנגנון לחץ. ארה\"ב בעצם אומרת: \"תבחרו צד\". המדינות שמהססות מוצאות את עצמן עם מכסים גבוהים ובלי הסכם. ההשפעה העקיפה: ספקים ויצרנים שמוכרים לאותן 14 מדינות יתחילו לחוש את הלחץ גם הם - אפילו אם הם לא צד לשום משא ומתן.",
+      "importance": 9,
       "topics": [
         "מכסים",
-        "סחר בינלאומי",
-        "יתרון תחרותי"
+        "סחר בינ\"ל",
+        "מדיניות"
       ],
-      "tag": "גלובלי"
+      "tag": "ארה\"ב"
     },
     {
       "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
@@ -224,6 +159,72 @@
         "בורסה"
       ],
       "tag": "ארה\"ב"
+    },
+    {
+      "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "אמריקה הלטינית יושבת על אוצרות שדרוש ל-AI עכשיו בדיוק - נחושת, נפט, גז ומתכות נדירות. הבעיה היא שהתשתיות והסביבה הרגולטורית שם עדיין לא בשלות למשוך את ההשקעות הגדולות.\n\nהנקודה המעניינת: אם זה יסתדר, הנהנות הראשונות לא יהיו חברות ה-AI עצמן - אלא חברות כרייה, בנייה ותשתיות שעובדות באזור. זה אחד מאותם מקרים שבהם הצמיחה הגדולה מגיעה דרך הצינורות ולא דרך הטכנולוגיה עצמה.",
+      "importance": 8,
+      "topics": [
+        "AI",
+        "תשתיות",
+        "זרימת הון",
+        "מתכות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+      "source": "MarketWatch",
+      "url": "",
+      "summary": "מי שחושב שהסערה סביב Nvidia נגמרה - כנראה שלא.\n\nלמרות ההתאוששות האחרונה, חברת הבינה המלאכותית הגדולה בעולם עדיין מתמודדת עם כמה בעיות מורכבות: מגבלות ייצוא, תחרות גוברת מסין, ולקוחות ענק שמפתחים שבבים משלהם. כשהיא מתעסנת - כל שרשרת האספקה של עולם הבינה המלאכותית מרגישה את זה, מחברות ענן ועד סטארטאפים קטנים שמתכננים את התקציב הבא שלהם.",
+      "importance": 8,
+      "topics": [
+        "בינה מלאכותית",
+        "מניות טכנולוגיה",
+        "Nvidia"
+      ],
+      "tag": "ארה\"ב"
+    },
+    {
+      "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
+      "source": "CNBC Top News",
+      "url": "",
+      "summary": "UBS עומד בפני מאבק כפול בשוויץ: הרגולטור FINMA אישר לבנק לממש את תוכנית החירום המועדפת עליו למקרה של קריסה - אבל בפרלמנט מתנהל במקביל קרב על דרישות הון מחמירות שהבנק מתנגד להן בתוקף.\n\nההקשר: אחרי בליעת Credit Suisse ב-2023, שוויץ מנסה להבטיח שבפעם הבאה לא ייפול הכל על הממשלה. UBS הפך לבנק כה גדול ביחס לכלכלה השוויצרית - שהשאלה כמה הון הוא צריך להחזיק היא לא טכנית, היא פוליטית.\n\nמה שפחות ברור: תוצאת הדיון הזה תשפיע על כל הבנקים הגדולים באירופה שצופים מהצד.",
+      "importance": 8,
+      "topics": [
+        "בנקאות",
+        "רגולציה",
+        "הון"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
+      "source": "CNBC World",
+      "url": "",
+      "summary": "אירופה פתחה את מפעל הלוויינים הגדול ביותר שלה - 20,000 מטר רבוע עם יכולת ייצור של עד 500 לוויינים בשנה. זה הופך אותו לאתר הייצור השלישי בגודלו בעולם, ומציב אותו ישירות מול Starlink של מאסק.\n\nמה שמעניין פה: זו לא רק תחרות על לוויינים. ברגע שאירופה בונה תשתית עצמאית כזו, זה מאתגר את השליטה האמריקאית על תקשורת הגלובלית - משהו שמשנה את כללי המשחק גם לחברות טלקום, גם לממשלות, וגם למי שמתמחר ספקי אינטרנט לוויני בשנים הקרובות.",
+      "importance": 8,
+      "topics": [
+        "לוויינים",
+        "תעשיית חלל",
+        "תחרות"
+      ],
+      "tag": "גלובלי"
+    },
+    {
+      "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+      "source": "CNBC Top News",
+      "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+      "summary": "קרנות הון ריבוניות - הקרנות הממשלתיות הגדולות בעולם - עוברות שינוי אסטרטגי עמוק: במקום להשקיע דרך קרנות פרייבט אקוויטי, הן מתחילות לפעול כמותן. יוצרות עסקאות בעצמן, לוקחות שליטה ובונות פלטפורמות השקעה פנימיות.\n\nזה משנה כללי משחק. קרנות כמו PIF הסעודית, GIC הסינגפורית ו-ADIA האמירותית הופכות לשחקן ישיר - לא רק לכסף שיושב מאחורי הקלעים. ההשפעה העקיפה: פחות עמלות לבנקי ההשקעות ולקרנות הפרייבט אקוויטי הגדולות, ויותר תחרות על עסקאות אטרקטיביות בשווקים הפרטיים.",
+      "importance": 8,
+      "topics": [
+        "קרנות סיור",
+        "השקעות",
+        "PE"
+      ],
+      "tag": "גלובלי"
     },
     {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
@@ -267,19 +268,6 @@
   ],
   "tech": [
     {
-      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
-      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
-      "importance": 8,
-      "topics": [
-        "SpaceX",
-        "וויין",
-        "אנטנה"
-      ],
-      "published": "Wed, 25 Nov 2026 18:22:38 +0000"
-    },
-    {
       "title": "ה-FDA אישר וחברת שבבי המוח של אילון מאסק תתחיל ניסוי ראשון מסוגו",
       "source": "גיקטיים",
       "url": "https://www.geektime.co.il/neuralink-fda-approval-link-pivotal-brain-implant-trial-als/",
@@ -287,88 +275,62 @@
       "importance": 8,
       "topics": [
         "Neuralink",
-        "ביו-טק",
-        "AI"
+        "BCI",
+        "רגולציה"
       ],
       "published": "Thu, 26 Nov 2026 08:42:18 +0000"
     },
     {
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
       "importance": 7,
       "topics": [
-        "NVIDIA",
         "שבבים",
-        "כלכלה"
-      ],
-      "published": "Wed, 25 Nov 2026 22:44:32 +0000"
-    },
-    {
-      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-      "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
-      "importance": 7,
-      "topics": [
-        "אבטחה",
-        "הקינג",
-        "1Password"
-      ],
-      "published": "Wed, 25 Nov 2026 18:49:52 +0000"
-    },
-    {
-      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
-      "importance": 7,
-      "topics": [
         "AI",
-        "פרטיות",
         "רגולציה"
       ],
-      "published": "Wed, 25 Nov 2026 17:35:58 +0000"
+      "published": "Thu, 26 Nov 2026 20:03:54 +0000"
     },
     {
-      "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
-      "summary": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+      "title": "תחרות ל-Airalo וחברות הסלולר: וואטסאפ תציע לכם eSIM",
+      "source": "גיקטיים",
+      "url": "https://www.geektime.co.il/whatsapp-to-offer-esim-data-plans/",
+      "summary": "דרכונים בתיק? צ'ק. סוללה ניידת? צ'ק. איירטאג? צ'ק. ומה לגבי חבילת גלישה? אולי שילמתם מאות שקלים מיותרים לחברת הסלולר שלכם, אולי החלטתם להתחיל את הטיול שלכם בחיפוש אחר סים מקומי באחת מהחנויות, ואולי עשיתם את הדבר ההגיוני יותר לרוב, ובחרתם eSim של חברות כמו Airalo ואחרות. אבל עכשיו נראה שאולי בפעם הבאה שתטוסו תהיה עוד […] The post תחרות ל-Airalo וחברות הסלולר: וואטסאפ תציע לכם eSIM appeared first on",
       "importance": 7,
       "topics": [
-        "אבטחה",
-        "פריצת נתונים",
-        "Todoist"
+        "Meta",
+        "WhatsApp",
+        "eSIM"
       ],
-      "published": "Wed, 25 Nov 2026 14:20:28 +0000"
+      "published": "Thu, 26 Nov 2026 09:43:58 +0000"
     },
     {
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "title": "Android app developers will soon have to share their address publicly",
       "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
-      "importance": 7,
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. […]",
+      "importance": 6,
       "topics": [
         "רגולציה",
-        "אבטחה",
-        "AI"
+        "Google",
+        "פרטיות"
       ],
-      "published": "2026-11-26T04:54:40-05:00"
+      "published": "2026-11-26T12:06:24-05:00"
     },
     {
-      "title": "1Password breach leaked customer names and emails, but not passwords",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
-      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager […]",
-      "importance": 7,
+      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+      "summary": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
+      "importance": 6,
       "topics": [
-        "אבטחה",
-        "פריצת נתונים",
-        "1Password"
+        "AI",
+        "Google",
+        "Gemini"
       ],
-      "published": "2026-11-25T14:10:15-05:00"
+      "published": "Thu, 26 Nov 2026 12:00:00 +0000"
     }
   ]
 }
