@@ -1,334 +1,218 @@
 {
-  "generated_at": "2026-11-27T11:57:56.653459+00:00",
+  "generated_at": "2026-11-28T11:33:34.241974+00:00",
   "lookback_hours": 24,
   "world": [
     {
-      "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
-      "summary": "Israel seeking 'to prevent births' and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
       "importance": 8,
       "topics": [
         "ישראל",
-        "פלסטינים",
-        "זכויות אדם"
+        "עזה",
+        "ביטחון"
       ],
-      "published": "Fri, 27 Nov 2026 11:15:03 +0000"
-    },
-    {
-      "title": "איראן נחנקת מהמצור הכלכלי, מחיר הלחם נוסק. טראמפ: אם נתקוף, זה יהיה היעד",
-      "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/s1kw65ijml",
-      "summary": "\"אין לנו כסף\", הודה הנשיא פזשכיאן בשידור בטלוויזיה, בזמן שהריאל האיראני צונח לשפל חסר תקדים. המשטר מקצץ סבסוד לדלק וקמח, הפסקות חשמל יזומות כל יום. אוסטרליה הטילה סנקציות על איראנים שהובילו הצתת בית כנסת ומסעדה כשרה במדינה, נשיא ארה\"ב: \"אם תהיה תקיפה, היא תהיה בהר המכוש\"",
-      "importance": 8,
-      "topics": [
-        "איראן",
-        "סנקציות",
-        "כלכלה"
-      ],
-      "published": "Fri, 27 Nov 2026 10:17:34 +0200"
-    },
-    {
-      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
-      "summary": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
-      "importance": 7,
-      "topics": [
-        "קונגו",
-        "אבולה",
-        "משבר הומניטרי"
-      ],
-      "published": "Thu, 26 Nov 2026 08:47:09 -0500"
-    },
-    {
-      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-      "source": "NPR World",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-      "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
-      "importance": 7,
-      "topics": [
-        "צפון קוריאה",
-        "נשקים גרעיניים",
-        "ארה״ב"
-      ],
-      "published": "Thu, 26 Nov 2026 08:31:28 -0500"
+      "published": "Sat, 28 Nov 2026 10:34:58 GMT"
     },
     {
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "importance": 7,
+      "importance": 8,
       "topics": [
         "אוקראינה",
-        "רוסיה",
-        "ארה״ב"
+        "אמריקה",
+        "רוסיה"
       ],
-      "published": "Fri, 27 Nov 2026 09:07:48 GMT"
+      "published": "Fri, 27 Nov 2026 18:00:40 GMT"
     },
     {
-      "title": "Venezuela to scrap law that bars opposition from public office",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
-      "importance": 7,
-      "topics": [
-        "וונצואלה",
-        "פוליטיקה"
-      ],
-      "published": "Fri, 27 Nov 2026 05:35:10 GMT"
-    },
-    {
-      "title": "EU leaders fail to bridge budget splits as talks stall",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
-      "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
-      "importance": 7,
-      "topics": [
-        "אירופה",
-        "אוקראינה",
-        "כלכלה"
-      ],
-      "published": "Fri, 27 Nov 2026 06:11:55 GMT"
-    },
-    {
-      "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
-      "summary": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
-      "importance": 7,
-      "topics": [
-        "רוסיה",
-        "אירופה",
-        "אוקראינה"
-      ],
-      "published": "Fri, 27 Nov 2026 11:44:46 +0000"
-    },
-    {
-      "title": "Why Benjamin Netanyahu’s corruption trial could be unravelling",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
-      "summary": "Could Netanyahu escape his most serious corruption charges? Al Jazeera's Lina-Serene explains.",
-      "importance": 7,
-      "topics": [
-        "ישראל",
-        "משפט",
-        "נתניהו"
-      ],
-      "published": "Fri, 27 Nov 2026 10:54:16 +0000"
-    },
-    {
-      "title": "לא רק אוהלים: תיעוד בלעדי - מה באמת בנה חיזבאללה בשטח ישראל לפני 7/10",
+      "title": "פריצות הדרך והחשש הדרמטי: \"מעבדות AI יושבות על פצצה\" שתגרום לכאוס עולמי",
       "source": "Ynet חדשות",
-      "url": "https://www.ynet.co.il/news/article/bjpj7w4j7l",
-      "summary": "חודשים לפני טבח חמאס, ארגון הטרור הלבנוני הקים מתחם מבצעי למרגלות החרמון, בשטח ריבוני ישראלי. בישראל ניסו להקטין את חשיבות הפעולה המתריסה, ומיד עם פרוץ המלחמה הופצץ האוהל מהאוויר. מאז לא דרכה שם רגל עיתונאי, עד שצוות ynet הגיע למקום וגילה: המאהל הארעי היה כנראה רק כיסוי למה שנראה כמוצב קבע מבוצר - שמוכן ליום פקודה",
-      "importance": 7,
+      "url": "https://www.ynet.co.il/news/article/bk00zjf001ml",
+      "summary": "לפי הגרדיאן הבריטי, ייתכן שבינה מלאכותית פיצחה בעיות מתמטיות בנות עשרות שנים העומדות בבסיס ההצפנה של בנקים וסוכנויות ממשלתיות. מתמטיקאי מוביל הסביר שייתכן ש\"כולם שומרים על שקט\" בגלל ההשלכות העצומות, אחר הוסיף: \"צריכים להיות מוכנים לכך שמשהו יצוץ פתאום\". עד כמה הסכנה מיידית?",
+      "importance": 8,
       "topics": [
-        "ישראל",
-        "חיזבאללה",
+        "AI",
+        "טכנולוגיה",
         "ביטחון"
       ],
-      "published": "Fri, 27 Nov 2026 11:00:55 +0200"
+      "published": "Sat, 28 Nov 2026 10:48:41 +0200"
+    },
+    {
+      "title": "Sudan's lost generation: War is stealing the childhood of millions",
+      "source": "NPR World",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+      "summary": "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom.",
+      "importance": 7,
+      "topics": [
+        "סודאן",
+        "משבר הומניטרי",
+        "מלחמה"
+      ],
+      "published": "Fri, 27 Nov 2026 17:54:53 -0500"
+    },
+    {
+      "title": "Trump’s tariffs have become America’s new normal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+      "summary": "Even a Democratic administration may struggle to reverse tariffs that help finance Trump's tax cuts.",
+      "importance": 7,
+      "topics": [
+        "כלכלה",
+        "ארה\"ב",
+        "סחר"
+      ],
+      "published": "Sat, 28 Nov 2026 06:57:19 +0000"
+    },
+    {
+      "title": "למרות ההתנגדות בישראל: ההצעה שתאפשר ליוניפי\"ל להמשיך לפעול בלבנון",
+      "source": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/news/article/hji0zkpjxe",
+      "summary": "כחודש לפני ש-7,500 חיילי הכוח אמורים לסגת בהדרגה עם סיום המנדט, צרפת מגבשת הצעה שתאפשר ליוניפי\"ל להמשיך למלא גם משימות חדשות. ברקע: מאבק דיפלומטי על \"היום שאחרי\" והתנגדות ישראלית חריפה. סא\"ל במיל' ל-ynet: \"הם עקבו אחרינו כאילו אנחנו האויב\". ראש ממשלת לבנון: \"זה ייתן עוד זמן\"",
+      "importance": 7,
+      "topics": [
+        "לבנון",
+        "יוניפיל",
+        "ישראל"
+      ],
+      "published": "Sat, 28 Nov 2026 02:02:30 +0200"
+    },
+    {
+      "title": "Ten students killed and over 100 injured in explosion in Afghanistan, official says",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "importance": 6,
+      "topics": [
+        "אפגניסטן",
+        "אסון",
+        "פיצוץ"
+      ],
+      "published": "Sat, 28 Nov 2026 11:18:37 GMT"
+    },
+    {
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "importance": 6,
+      "topics": [
+        "טורקיה",
+        "דיכוי חופש עתונות",
+        "פוליטיקה"
+      ],
+      "published": "Sat, 28 Nov 2026 04:13:45 GMT"
+    },
+    {
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+      "importance": 6,
+      "topics": [
+        "קנדה",
+        "זכויות דתיות",
+        "המשפט"
+      ],
+      "published": "Fri, 27 Nov 2026 16:53:46 GMT"
+    },
+    {
+      "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+      "summary": "The trial targets the less common Bundibugyo strain behind the Ebola outbreak in neighbouring DRC.",
+      "importance": 6,
+      "topics": [
+        "רפואה",
+        "אפריקה",
+        "מחקר"
+      ],
+      "published": "Sat, 28 Nov 2026 07:22:17 +0000"
     }
   ],
   "business": [
     {
-      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-      "summary": "ארה\"ב שלחה מכתבי מכס לעוד 14 מדינות שותפות - ואת ההודעה ניסחו בצורה מחושבת: מי שיחתום על הסכם סחר עם וושינגטון יקבל תעריפים נמוכים יותר.\n\nזה כבר לא רק מלחמת סחר - זה מנגנון לחץ. ארה\"ב בעצם אומרת: \"תבחרו צד\". המדינות שמהססות מוצאות את עצמן עם מכסים גבוהים ובלי הסכם. ההשפעה העקיפה: ספקים ויצרנים שמוכרים לאותן 14 מדינות יתחילו לחוש את הלחץ גם הם - אפילו אם הם לא צד לשום משא ומתן.",
-      "importance": 9,
-      "topics": [
-        "מכסים",
-        "סחר בינ\"ל",
-        "מדיניות"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "summary": "השווקים הגלובליים עלו היום למרות סבב מכסים חדש של הבית הלבן על עשרות מדינות שותפות. המשקיעים, במקום לברוח, החליטו לנצל את הירידות של הימים האחרונים ולהיכנס במחירים נמוכים יותר.\n\nזה מעניין כי זה מראה שהשוק כבר \"עיכל\" חלק מהחדשות על המכסים - הפחד הראשוני מתמחר ומה שנשאר זה ציד עסקאות. מי שיושפע מזה בעקיפין: חברות ישראליות שמייצאות לארה\"ב ומטבעות של שווקים מתעוררים שנושמים לרווחה כשהדולר נחלש.",
-      "importance": 8,
-      "topics": [
-        "מכסים",
-        "סחר",
-        "בורסה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "אמריקה הלטינית יושבת על אוצרות שדרוש ל-AI עכשיו בדיוק - נחושת, נפט, גז ומתכות נדירות. הבעיה היא שהתשתיות והסביבה הרגולטורית שם עדיין לא בשלות למשוך את ההשקעות הגדולות.\n\nהנקודה המעניינת: אם זה יסתדר, הנהנות הראשונות לא יהיו חברות ה-AI עצמן - אלא חברות כרייה, בנייה ותשתיות שעובדות באזור. זה אחד מאותם מקרים שבהם הצמיחה הגדולה מגיעה דרך הצינורות ולא דרך הטכנולוגיה עצמה.",
-      "importance": 8,
-      "topics": [
-        "AI",
-        "תשתיות",
-        "זרימת הון",
-        "מתכות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+      "title": "The AI stock crash is mostly over, JPMorgan says — but a worse phase could be coming in 2027",
       "source": "MarketWatch",
-      "url": "",
-      "summary": "מי שחושב שהסערה סביב Nvidia נגמרה - כנראה שלא.\n\nלמרות ההתאוששות האחרונה, חברת הבינה המלאכותית הגדולה בעולם עדיין מתמודדת עם כמה בעיות מורכבות: מגבלות ייצוא, תחרות גוברת מסין, ולקוחות ענק שמפתחים שבבים משלהם. כשהיא מתעסנת - כל שרשרת האספקה של עולם הבינה המלאכותית מרגישה את זה, מחברות ענן ועד סטארטאפים קטנים שמתכננים את התקציב הבא שלהם.",
+      "url": "https://www.marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd?mod=mw_rss_topstories",
+      "summary": "המפולת במניות ה-AI כמעט מאחורינו - כך אומרים האנליסטים של JPMorgan. אבל הם גם מזהירים שב-2027 עשויה להגיע גל שני קשה יותר, כשהשוק יתחיל לבחון ברצינות אם ההכנסות מצדיקות את ההשקעות העצומות בתשתיות.\n\nמה שמעניין פה: זה לא רק מניות טק. חברות שמשקיעות כבר היום בתשתיות AI - נדל\"ן דאטה סנטרים, חברות חשמל, יצרני קירור תעשייתי - כולן חשופות לאותו מחזור. אם הכסף יפסיק לזרום ב-2027, הגלים יגיעו רחוק מהמסך של NVIDIA.",
       "importance": 8,
       "topics": [
         "בינה מלאכותית",
-        "מניות טכנולוגיה",
-        "Nvidia"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "UBS עומד בפני מאבק כפול בשוויץ: הרגולטור FINMA אישר לבנק לממש את תוכנית החירום המועדפת עליו למקרה של קריסה - אבל בפרלמנט מתנהל במקביל קרב על דרישות הון מחמירות שהבנק מתנגד להן בתוקף.\n\nההקשר: אחרי בליעת Credit Suisse ב-2023, שוויץ מנסה להבטיח שבפעם הבאה לא ייפול הכל על הממשלה. UBS הפך לבנק כה גדול ביחס לכלכלה השוויצרית - שהשאלה כמה הון הוא צריך להחזיק היא לא טכנית, היא פוליטית.\n\nמה שפחות ברור: תוצאת הדיון הזה תשפיע על כל הבנקים הגדולים באירופה שצופים מהצד.",
-      "importance": 8,
-      "topics": [
-        "בנקאות",
-        "רגולציה",
-        "הון"
+        "בורסה",
+        "הערכות"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
-      "source": "CNBC World",
+      "title": "China Drives Biggest Stock Gain Since 2024 With Rare Midday Vow",
+      "source": "Bloomberg Markets",
       "url": "",
-      "summary": "אירופה פתחה את מפעל הלוויינים הגדול ביותר שלה - 20,000 מטר רבוע עם יכולת ייצור של עד 500 לוויינים בשנה. זה הופך אותו לאתר הייצור השלישי בגודלו בעולם, ומציב אותו ישירות מול Starlink של מאסק.\n\nמה שמעניין פה: זו לא רק תחרות על לוויינים. ברגע שאירופה בונה תשתית עצמאית כזו, זה מאתגר את השליטה האמריקאית על תקשורת הגלובלית - משהו שמשנה את כללי המשחק גם לחברות טלקום, גם לממשלות, וגם למי שמתמחר ספקי אינטרנט לוויני בשנים הקרובות.",
-      "importance": 8,
-      "topics": [
-        "לוויינים",
-        "תעשיית חלל",
-        "תחרות"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
-      "source": "CNBC Top News",
-      "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
-      "summary": "קרנות הון ריבוניות - הקרנות הממשלתיות הגדולות בעולם - עוברות שינוי אסטרטגי עמוק: במקום להשקיע דרך קרנות פרייבט אקוויטי, הן מתחילות לפעול כמותן. יוצרות עסקאות בעצמן, לוקחות שליטה ובונות פלטפורמות השקעה פנימיות.\n\nזה משנה כללי משחק. קרנות כמו PIF הסעודית, GIC הסינגפורית ו-ADIA האמירותית הופכות לשחקן ישיר - לא רק לכסף שיושב מאחורי הקלעים. ההשפעה העקיפה: פחות עמלות לבנקי ההשקעות ולקרנות הפרייבט אקוויטי הגדולות, ויותר תחרות על עסקאות אטרקטיביות בשווקים הפרטיים.",
-      "importance": 8,
-      "topics": [
-        "קרנות סיור",
-        "השקעות",
-        "PE"
-      ],
-      "tag": "גלובלי"
-    },
-    {
-      "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
-      "source": "CNBC Top News",
-      "url": "",
-      "summary": "הרווחים בתעשייה הסינית חוזרים לעלות - אבל לא בצורה אחידה. מה שמניע את הצמיחה עכשיו הוא בעיקר ייצוא של ציוד ורכיבים שקשורים ל-AI, בעוד שהצריכה המקומית והנדל\"ן ממשיכים להיאבק.\n\nזה אומר שסין בעצם מפצלת לשתי כלכלות: אחת שמאיצה עם הטרנד הגלובלי, ואחת שתקועה. ומי שנמצא בתוך שרשרת האספקה של ה-AI - ספקי חומרי גלם, יצרני רכיבים, חברות לוגיסטיקה - כבר מרגיש את זה.",
+      "summary": "המניות הסיניות קפצו היום בחדות - העלייה הגדולה ביותר ביותר מ-שנתיים. הסיבה: הממשלה הסינית פרסמה באמצע יום המסחר הצהרת תמיכה בשווקים, מהלך נדיר שסימן לשוק שהרגולטורים פה, ערים ועם יד על ההדק.\n\nכשסין מתערבת ככה, זה לא רק עניין מקומי. חברות שהכנסתן תלויה בביקוש הסיני - מותגי יוקרה אירופאיים, יצרניות שבבים, ספקיות חומרי גלם - מרגישות את זה מיד. וזרימת הון לשווקים מתפתחים בכלל עלולה להשתנות כשסין נראית יציבה יותר.",
       "importance": 8,
       "topics": [
         "סין",
-        "AI",
-        "ייצור"
+        "שווקים",
+        "מדיניות כלכלית"
       ],
       "tag": "גלובלי"
     },
     {
-      "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
-      "source": "WSJ Markets",
-      "url": "",
-      "summary": "קרנות הפנסיה של עובדי התעשייה בארה\"ב - אנשי ברזל, בנאים, חשמלאים - היו שנים ארוכות בגירעון עמוק. עכשיו חלקן חזרו למימון מלא, בעיקר בזכות השוק שעלה בלי הפסקה בעשור האחרון.\n\nזה מעניין כי זה לא רק חדשות טובות לעובדים - זה גם אומר שהקרנות האלה יצטרכו פחות להגן על עצמן עם השקעות שמרניות, ויכולות להישאר חשופות יותר למניות. עוד קונה מוסדי גדול שנשאר בשוק.",
-      "importance": 7,
-      "topics": [
-        "פנסיה",
-        "שווקים",
-        "דמוגרפיה"
-      ],
-      "tag": "ארה\"ב"
-    },
-    {
-      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
       "source": "CNBC Top News",
       "url": "",
-      "summary": "נתוני התמ\"ג של הרבעון השלישי עודכנו כלפי מעלה בצורה משמעותית - וטראמפ טוען שמדובר בטעות שצריך לחקור אותה. מעניין שדווקא נשיא שרצה לראות כלכלה חזקה מסרב לקבל בשורות טובות.\n\nלמה זה חשוב: אם הנתונים אמיתיים, זה מקשה על הפד להוריד ריבית - כלכלה שצומחת מהר לא \"צריכה\" הקלה מוניטרית. זה משפיע ישירות על שוק הנדל\"ן, עלויות המשכנתאות ועל הדולר מול השקל.",
+      "summary": "האינפלציה שינתה את האופן שבו אמריקאים קונים - פחות קניות אימפולסיביות, יותר ציד אחר מחיר טוב. ולמרות שהצרכנים לחוצים כלכלית, רשתות הקמעונאות מצפות ל-Black Friday חזק במיוחד השנה. ההיגיון: כשכל דולר חשוב, אנשים לא מוותרים על הנחות - הם רק מתכננים אותן מראש.\n\nמה שמעניין: זה טוב לרשתות גדולות כמו Walmart ו-Target שמציעות מחירים תחרותיים, פחות טוב לחנויות בוטיק ומותגים שמכרו על \"חוויה\" ולא על מחיר. בישראל, דפוס דומה - לחץ על המחירים מחלחל לשינוי הרגלי הקנייה גם אצלנו.",
       "importance": 7,
       "topics": [
-        "GDP",
-        "מדיניות פיסקלית",
-        "שוק ההון"
+        "אינפלציה",
+        "קמעונאות",
+        "התנהגות צרכנים"
       ],
-      "tag": "ארה\"ב"
+      "tag": "גלובלי"
     }
   ],
   "tech": [
     {
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "importance": 7,
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
+      "importance": 8,
       "topics": [
-        "NVIDIA",
-        "שבבים",
+        "Intel",
+        "מוליכים למחצה",
         "רגולציה"
       ],
-      "published": "Thu, 26 Nov 2026 20:03:54 +0000"
+      "published": "Fri, 27 Nov 2026 12:05:01 +0000"
     },
     {
-      "title": "Android app developers will soon have to share their address publicly",
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. […]",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's called […]",
       "importance": 6,
       "topics": [
-        "Google",
-        "רגולציה",
-        "אפליקציות"
+        "רכבים חשמליים",
+        "סוללות",
+        "BYD"
       ],
-      "published": "2026-11-26T12:06:24-05:00"
+      "published": "2026-11-27T19:02:49-05:00"
     },
     {
-      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
-      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency \"waged a retaliatory campaign\" against the […]",
-      "importance": 6,
-      "topics": [
-        "רגולציה",
-        "FCC",
-        "שפחות חוקתיות"
-      ],
-      "published": "2026-11-26T11:38:00-05:00"
-    },
-    {
-      "title": "Scientists Use ‘Grand Theft Auto’ to Model the Effects of Climate Change",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/",
-      "summary": "The game’s high-resolution 3D maps based on real locations can be used to simulate the effects of rising sea levels and coastal flooding.",
-      "importance": 6,
-      "topics": [
-        "AI",
-        "משחקים"
-      ],
-      "published": "Fri, 27 Nov 2026 10:30:00 +0000"
-    },
-    {
-      "title": "מנכ\"ל אינסטגרם מסביר: האם מאזינים לכם כדי להתאים פרסומות?",
+      "title": "אקזיט-לא-אקזיט, יוניקורן בן 3 חודשים ו-750 מיליון דולר. אין ספק שהיה כאן מעניין החודש",
       "source": "גיקטיים",
-      "url": "https://www.geektime.co.il/instragram-is-not-listening-to-you-according-to-its-ceo/",
-      "summary": "למי זה לא קרה? אתם מדברים עם מכר על שירות או מוצר כלשהו, פותחים את פייסבוק או את אינסטגרם והופ – קופצת לכם פרסומת בדיוק לזה. נשמע מוכר? אחד המיתוסים הטכנולוגיים המוכרים ביותר בעשור האחרון הוא שפייסבוק ואינסטגרם מאזינות דרך המיקרופון של הסמארטפון שלנו כדי להציג לנו פרסומות מדויקות לפי מה שאנחנו מדברים עליו. היי, […] The post מנכ\"ל אינסטגרם מסביר: האם מאזינים לכם כדי להתאים פרסומות? appeared first o",
+      "url": "https://www.geektime.co.il/monthly-funding-roundup-november-2026/",
+      "summary": "חודש נובמבר בהייטק הישראלי הוכיח שוב שגם כשהכותרות מדברות על אקזיט או עסקת \"לא-רכישה\" מסקרנת של הסטארטאפ דקארט על ידי אמזון, מתחת לפני השטח הכסף הגדול ממשיך לזרום. עם 750 מיליון דולר שגויסו, חד קרן חדש שנולד במהירות שיא ושורה של אקזיטים – הנה כל המספרים והעסקאות שעשו את החודש. חד קרן חריג הסטארטאפים הישראליים […] The post אקזיט-לא-אקזיט, יוניקורן בן 3 חודשים ו-750 מיליון דולר. אין ספק שהיה כאן מענ",
       "importance": 6,
       "topics": [
-        "Meta",
-        "פרטיות",
-        "פרסום דיגיטלי"
+        "סטארטאפים",
+        "גיוס הון",
+        "אקזיט"
       ],
-      "published": "Thu, 26 Nov 2026 18:25:39 +0000"
+      "published": "Fri, 27 Nov 2026 13:29:51 +0000"
     }
   ]
 }
